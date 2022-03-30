@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T08:08:24.259Z</id>
+    <id>urn:2022-03-30T09:06:14.218Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-30T08:08:24.259Z</updated>
+    <updated>2022-03-30T09:06:14.218Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Democratizing Access to Pre-chain Data is Critical for Web3  The Battle for Digital Truth Starts in the Mempool]]></title>
+        <id>https://thedefiant.io/?p=49065</id>
+        <link href="https://thedefiant.io/mempools-pre-chain-data-web3/"/>
+        <updated>2022-03-30T08:30:12.000Z</updated>
+        <summary type="html"><![CDATA[The battle for digital truth starts in the mempool.]]></summary>
+        <author>
+            <name>John Jefferies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Stablecoins? A Step-by-Step Guide to Stablecoins and Their Role in DeFi]]></title>
         <id>https://thedefiant.io/?p=49056</id>
@@ -26,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Connect MetaMask to Polygon Here's How to Put Your Ethereum Wallet on a Layer 2 Network]]></title>
+        <title type="html"><![CDATA[How to Connect Polygon network to MetaMask Here's How to Put Your Ethereum Wallet on a Layer 2 Network]]></title>
         <id>https://thedefiant.io/?p=49029</id>
         <link href="https://thedefiant.io/how-to-connect-metamask-to-polygon/"/>
         <updated>2022-03-29T13:29:30.000Z</updated>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[MakerDAO's deal with a U.S. bank may open a new chapter in DeFi-TradFi collaboration.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cashio Hacker Asks Victims To ‘Apply’ For Refunds After $52M Heist]]></title>
-        <id>https://thedefiant.io/?p=49003</id>
-        <link href="https://thedefiant.io/cashio-exploit-refund/"/>
-        <updated>2022-03-29T08:30:17.000Z</updated>
-        <summary type="html"><![CDATA[This may be the strangest DeFi hack of all.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
