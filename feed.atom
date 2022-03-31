@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T12:11:48.298Z</id>
+    <id>urn:2022-03-31T13:19:03.015Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-31T12:11:48.298Z</updated>
+    <updated>2022-03-31T13:19:03.015Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Muses on How PoS Could Have Come Sooner With The Merge Coming Ethereum's Chief Scientist and Muse Takes Stock]]></title>
+        <id>https://thedefiant.io/?p=49151</id>
+        <link href="https://thedefiant.io/vitalik-buterin-ethereum-2-0-proof-of-stake/"/>
+        <updated>2022-03-31T12:59:05.000Z</updated>
+        <summary type="html"><![CDATA[With The Merge Coming Ethereum's Chief Scientist and Muse Takes Stock]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Taps Zero-Knowledge Proofs to Enhance Privacy for Users Polygon Plans to Use ZK for New Wallet App]]></title>
         <id>https://thedefiant.io/?p=49144</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[A $10B Bitcoin Treasury Has All the Hallmarks of a Game Changer]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Adds Solana to Its Quiver of Networks Tezos Supporters Grouse About Being Passed Over]]></title>
-        <id>https://thedefiant.io/?p=49089</id>
-        <link href="https://thedefiant.io/opensea-solana-deal/"/>
-        <updated>2022-03-30T09:29:56.000Z</updated>
-        <summary type="html"><![CDATA[The deal between OpenSea and Solana promises to scale both platforms.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
