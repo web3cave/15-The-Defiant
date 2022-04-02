@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T02:20:38.994Z</id>
+    <id>urn:2022-04-02T03:19:42.921Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-02T02:20:38.994Z</updated>
+    <updated>2022-04-02T03:19:42.921Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Kingdoms Goes Live On Avalanche Subnet]]></title>
+        <id>https://thedefiant.io/?p=49221</id>
+        <link href="https://thedefiant.io/dfk-crystalvale-avalanche/"/>
+        <updated>2022-04-02T02:50:42.000Z</updated>
+        <summary type="html"><![CDATA[DFK launches Crystalvale on Avalanche subnet.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesla Taps MakerDAO-Powered Lender for $7.8M Real Estate Deal]]></title>
         <id>https://thedefiant.io/?p=49209</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Polygon Embraces ZK in Anticipation of Ethereum's PoS Shift]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Fantom to MetaMask A Step-by-Step Guide to Using Two Key DeFi Protocols Together]]></title>
-        <id>https://thedefiant.io/?p=49130</id>
-        <link href="https://thedefiant.io/how-to-use-fantom-with-metamask/"/>
-        <updated>2022-03-31T08:11:52.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to Using Two Key DeFi Offerings]]></summary>
-        <author>
-            <name>Arya Ghobadi</name>
         </author>
     </entry>
 </feed>
