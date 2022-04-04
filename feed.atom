@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T20:06:28.815Z</id>
+    <id>urn:2022-04-04T21:04:46.601Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-04T20:06:28.815Z</updated>
+    <updated>2022-04-04T21:04:46.601Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Update Allows Apple Pay Users to Buy Crypto]]></title>
+        <id>https://thedefiant.io/?p=49248</id>
+        <link href="https://thedefiant.io/metamask-apple-pay/"/>
+        <updated>2022-04-04T20:36:24.000Z</updated>
+        <summary type="html"><![CDATA[iPhone users will be able to purchase and transfer crypto into Metamask using credit and debit cards.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Kingdoms Goes Live On Avalanche Subnet]]></title>
         <id>https://thedefiant.io/?p=49221</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Ethereum Merge is the biggest story in town right now as the fruit of tireless core developers’ labour receives its final preparations before taking its place as the centrepiece of an enormous blockchain banquet. Will it blend seamlessly or will it burst asunder and make a horrible mess of everything?]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Muses on How PoS Could Have Come Sooner With The Merge Coming Ethereum's Chief Scientist and Muse Takes Stock]]></title>
-        <id>https://thedefiant.io/?p=49151</id>
-        <link href="https://thedefiant.io/vitalik-buterin-ethereum-2-0-proof-of-stake/"/>
-        <updated>2022-03-31T12:59:05.000Z</updated>
-        <summary type="html"><![CDATA[With The Merge Coming Ethereum's Chief Scientist and Muse Takes Stock]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
