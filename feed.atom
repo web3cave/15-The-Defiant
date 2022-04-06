@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T02:21:29.350Z</id>
+    <id>urn:2022-04-06T03:21:11.038Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T02:21:29.350Z</updated>
+    <updated>2022-04-06T03:21:11.038Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[0xsplits – Power Is Nothing Without Control]]></title>
+        <id>https://thedefiant.io/?p=49326</id>
+        <link href="https://thedefiant.io/0xsplits-power-is-nothing-without-control/"/>
+        <updated>2022-04-06T02:26:00.000Z</updated>
+        <summary type="html"><![CDATA[0xSplits is an open-source, audited, and non-upgradeable protocol for efficiently splitting onchain income. Whenever a Split receives funds, each recipient gets their share. Simple enough for friends, secure enough for anons.]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.K. Embraces Stablecoins as ‘Valid Form of Payment’ London to Mint an NFT and Start Sandbox for Crypto]]></title>
         <id>https://thedefiant.io/?p=49286</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[DFK launches Crystalvale on Avalanche subnet.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Taps MakerDAO-Powered Lender for $7.8M Real Estate Deal]]></title>
-        <id>https://thedefiant.io/?p=49209</id>
-        <link href="https://thedefiant.io/tesla-makerdao-loan/"/>
-        <updated>2022-04-01T17:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Tesla is financing a repair center with a MakerDAO-powered loan.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
