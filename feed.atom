@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T17:11:41.771Z</id>
+    <id>urn:2022-04-13T18:07:52.687Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T17:11:41.771Z</updated>
+    <updated>2022-04-13T18:07:52.687Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Merge Delayed Despite Successful ‘Shadow Fork’ Test]]></title>
+        <id>https://thedefiant.io/?p=49790</id>
+        <link href="https://thedefiant.io/eth-merge-delayed/"/>
+        <updated>2022-04-13T17:35:19.000Z</updated>
+        <summary type="html"><![CDATA[The most recent test processed mainnet transactions on a “shadow fork” – a subset of proof-of-work nodes that had been merged with the Beacon Chain to process proof-of-stake transactions.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major US Clearing House Experiments with CBDC for Real-Time Settlements]]></title>
         <id>https://thedefiant.io/?p=49784</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[UniSwap Expansion into Venture Investing Raises Eyebrows]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refunds for NFTs? New Standard Sets Give-Back Period for Minters The ERC721R Standard is a New Twist in NFT Space]]></title>
-        <id>https://thedefiant.io/?p=49653</id>
-        <link href="https://thedefiant.io/nfts-refunds-standard-erc721r/"/>
-        <updated>2022-04-12T07:56:54.000Z</updated>
-        <summary type="html"><![CDATA[The ERC721R Standard is a New Twist in NFT Space]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
