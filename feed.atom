@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T18:07:18.885Z</id>
+    <id>urn:2022-04-14T19:05:43.208Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T18:07:18.885Z</updated>
+    <updated>2022-04-14T19:05:43.208Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFT Artist Leads Convoy To Rescue 70 Refugees From War-Torn Ukraine]]></title>
+        <id>https://thedefiant.io/?p=49830</id>
+        <link href="https://thedefiant.io/nft-artist-ukraine-refugees/"/>
+        <updated>2022-04-14T18:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Spanish artist Aldo Comas led a 20-vehicle convoy to bring 70 Ukrainian refugees back to Spain.]]></summary>
+        <author>
+            <name>Robert Stevens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Transfer Assets Between Metamask And Binance]]></title>
         <id>https://thedefiant.io/?p=49827</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[71% of Wikipedia voters ask the Wikimedia Foundation to stop accepting cryptocurrency donations.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Merge Delayed Despite Successful ‘Shadow Fork’ Test]]></title>
-        <id>https://thedefiant.io/?p=49790</id>
-        <link href="https://thedefiant.io/eth-merge-delayed/"/>
-        <updated>2022-04-13T17:35:19.000Z</updated>
-        <summary type="html"><![CDATA[The most recent test processed mainnet transactions on a “shadow fork” – a subset of proof-of-work nodes that had been merged with the Beacon Chain to process proof-of-stake transactions.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
