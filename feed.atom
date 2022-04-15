@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T13:16:40.795Z</id>
+    <id>urn:2022-04-15T14:05:06.094Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-15T13:16:40.795Z</updated>
+    <updated>2022-04-15T14:05:06.094Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Launches Swap Widget For Third-Party Apps]]></title>
+        <id>https://thedefiant.io/?p=49870</id>
+        <link href="https://thedefiant.io/uniswap-widget/"/>
+        <updated>2022-04-15T13:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap's new widget allows developers to integrate token swaps with a single line of code.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta’s Plan to Keep 47.5% of Metaverse Sales Draws Skepticism]]></title>
         <id>https://thedefiant.io/?p=49853</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Defiant primer on moving assets between Metamask and Binance.]]></summary>
         <author>
             <name>Arya Ghobadi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Blockchain Bridges Became Hackers’ Prime Targets]]></title>
-        <id>https://thedefiant.io/?p=49819</id>
-        <link href="https://thedefiant.io/hackers-target-blockchain-bridges/"/>
-        <updated>2022-04-14T15:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Nearly a billion dollars in crypto assets have been stolen from blockchain bridges in 2022.]]></summary>
-        <author>
-            <name>DappRadar</name>
         </author>
     </entry>
 </feed>
