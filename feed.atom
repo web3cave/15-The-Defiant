@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T16:07:53.943Z</id>
+    <id>urn:2022-04-19T17:14:56.023Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T16:07:53.943Z</updated>
+    <updated>2022-04-19T17:14:56.023Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Compound Might Ditch its Yield Farmers]]></title>
+        <id>https://thedefiant.io/?p=49928</id>
+        <link href="https://thedefiant.io/compound-incentive-overhaul/"/>
+        <updated>2022-04-19T17:07:46.000Z</updated>
+        <summary type="html"><![CDATA[A new proposal seeks to drastically overhaul $COMP incentives.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation, AMD, Polkadot Launch $7M Competition to Boost Zero-Knowledge Scaling]]></title>
         <id>https://thedefiant.io/?p=49922</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Social media giant Meta plans to retain the lion's share of metaverse revenues.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Faces Class Action Lawsuit From Trader Who Lost Money On Altcoins]]></title>
-        <id>https://thedefiant.io/?p=49848</id>
-        <link href="https://thedefiant.io/uniswap-class-action/"/>
-        <updated>2022-04-15T12:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Investor sues Uniswap after betting on $hitcoins.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
