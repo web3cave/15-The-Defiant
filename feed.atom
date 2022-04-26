@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T19:03:45.914Z</id>
+    <id>urn:2022-04-26T20:06:58.501Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-26T19:03:45.914Z</updated>
+    <updated>2022-04-26T20:06:58.501Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Launches OP Token With Airdrop For Early Users]]></title>
+        <id>https://thedefiant.io/?p=50388</id>
+        <link href="https://thedefiant.io/optimism-op-airdrop/"/>
+        <updated>2022-04-26T19:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Layer-2 Optimism is launching its $OP governance token with an airdrop for early adopters.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea’s Deal for Gem a ‘Hell of an Upgrade’ for Leading NFT Marketplace]]></title>
         <id>https://thedefiant.io/?p=50366</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Synthetix and Lyra look to boost sUSD liquidity on Optimism.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe to Start Using Crypto’s Financial Rails for Payments Today The payments giants will use USDC and Polygon, with Twitter as its first partner.]]></title>
-        <id>https://thedefiant.io/?p=50219</id>
-        <link href="https://thedefiant.io/stripe-to-use-crypto/"/>
-        <updated>2022-04-22T23:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Stripe, the payments processing giant, introduced a new function which will allow businesses to pay users in crypto using the Polygon network.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
