@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T19:02:42.443Z</id>
+    <id>urn:2022-05-12T20:07:47.736Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-12T19:02:42.443Z</updated>
+    <updated>2022-05-12T20:07:47.736Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Terra Temporarily Halts Blockchain To Prevent Governance Attack]]></title>
+        <id>https://thedefiant.io/?p=51527</id>
+        <link href="https://thedefiant.io/terra-halt-governance-attack/"/>
+        <updated>2022-05-12T19:58:45.000Z</updated>
+        <summary type="html"><![CDATA[The Terra blockchain was halted to deploy an emergency upgrade intended to forestall governance attacks.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDT Briefly Slips Below $1 Peg as Terra Contagion Spreads]]></title>
         <id>https://thedefiant.io/?p=51520</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Dotcom Crash Looms Large Again]]></summary>
         <author>
             <name>Alex Shipp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Kwon Humbled as LUNA Spirals and UST Suffers ‘Lehman Moment’ Terra Struggling to Stabilize Crisis as Investors Flee]]></title>
-        <id>https://thedefiant.io/?p=51417</id>
-        <link href="https://thedefiant.io/do-kwon-terra-luna-spiral-humility/"/>
-        <updated>2022-05-11T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Terra Struggling to Stabilize Crisis as Investors Flee]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
