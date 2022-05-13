@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T21:06:13.048Z</id>
+    <id>urn:2022-05-13T22:06:16.166Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T21:06:13.048Z</updated>
+    <updated>2022-05-13T22:06:16.166Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon Wants to Save Terra by Creating a New Chain With 1B of Tokens for LUNA and UST Holders The proposal also scraps stablecoin design - for now.]]></title>
+        <id>https://thedefiant.io/?p=51625</id>
+        <link href="https://thedefiant.io/do-kwon-terra-revival-plan/"/>
+        <updated>2022-05-13T21:08:29.000Z</updated>
+        <summary type="html"><![CDATA[The Terra ecosystem’s notorious leader is trying to salvage the resources and talent left behind in the wreckage that is UST’s depegging.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algorithmic Stablecoin Landscape Suffers Tremors After Terra Crash]]></title>
         <id>https://thedefiant.io/?p=51614</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Lido Finance has announced $1.3M in new incentives to improve stETH:ETH liquidity.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra Temporarily Halts Blockchain To Prevent Governance Attack]]></title>
-        <id>https://thedefiant.io/?p=51527</id>
-        <link href="https://thedefiant.io/terra-halt-governance-attack/"/>
-        <updated>2022-05-12T19:58:45.000Z</updated>
-        <summary type="html"><![CDATA[The Terra blockchain was halted to deploy an emergency upgrade intended to forestall governance attacks.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
