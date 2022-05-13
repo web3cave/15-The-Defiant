@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T00:40:01.066Z</id>
+    <id>urn:2022-05-13T03:06:31.565Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T00:40:01.066Z</updated>
+    <updated>2022-05-13T03:06:31.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Increases Liquidity Incentives as stETH Trades at Discount to ETH]]></title>
+        <id>https://thedefiant.io/?p=51551</id>
+        <link href="https://thedefiant.io/lido-steth-incentives/"/>
+        <updated>2022-05-13T01:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Lido Finance has announced $1.3M in new incentives to improve stETH:ETH liquidity.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terra Temporarily Halts Blockchain To Prevent Governance Attack]]></title>
         <id>https://thedefiant.io/?p=51527</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Azuki's Floor Price Plunged 68% After Vagabond Disclosed Marketing Tactics]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 DEVs Must Heed the Lessons of Past Tech Bustups The Dotcom Crash Looms Large Again]]></title>
-        <id>https://thedefiant.io/?p=51332</id>
-        <link href="https://thedefiant.io/web3-devs-must-heed-the-lessons-of-past-tech-bustups/"/>
-        <updated>2022-05-12T07:09:07.000Z</updated>
-        <summary type="html"><![CDATA[The Dotcom Crash Looms Large Again]]></summary>
-        <author>
-            <name>Alex Shipp</name>
         </author>
     </entry>
 </feed>
