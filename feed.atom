@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T20:07:04.608Z</id>
+    <id>urn:2022-05-16T21:05:59.526Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-16T20:07:04.608Z</updated>
+    <updated>2022-05-16T21:05:59.526Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Luna Foundation Guard Spent $3B In Unsuccessful Bid To Defend UST Peg]]></title>
+        <id>https://thedefiant.io/?p=51714</id>
+        <link href="https://thedefiant.io/lfg-3b-bitcoin-fate/"/>
+        <updated>2022-05-16T20:19:22.000Z</updated>
+        <summary type="html"><![CDATA[LFG burned through its Bitcoin reserves in an attempt to shore up UST. Some of its swaps are raising eyebrows.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do Kwon Wants to Save Terra by Creating a New Chain With 1B of Tokens for LUNA and UST Holders The proposal also scraps stablecoin design - for now.]]></title>
         <id>https://thedefiant.io/?p=51625</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Terra Stops and Starts to Salvage Network.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worst Week in Crypto Ever?]]></title>
-        <id>https://thedefiant.io/?p=51681</id>
-        <link href="https://thedefiant.io/worst-week-in-crypto-ever/"/>
-        <updated>2022-05-13T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[This week may have been the one of the worst weeks in crypto’s history. The fall of UST/LUNA not only impacted Terra, but also dragged the whole industry down with it. Will this mark the beginning of crypto winter? Only time will tell.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
