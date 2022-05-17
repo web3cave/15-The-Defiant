@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T19:03:02.004Z</id>
+    <id>urn:2022-05-17T20:06:26.213Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-17T19:03:02.004Z</updated>
+    <updated>2022-05-17T20:06:26.214Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood To Launch Non-Custodial Web3 Wallet The app plans to cover users' network fees.]]></title>
+        <id>https://thedefiant.io/?p=51792</id>
+        <link href="https://thedefiant.io/robinhood-web3-wallet/"/>
+        <updated>2022-05-17T20:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood will launch a Web3 wallet and plans to cover gas fees for users.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Rolls Out Ethereum Dapp Wallet]]></title>
         <id>https://thedefiant.io/?p=51746</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[LFG burned through its Bitcoin reserves in an attempt to shore up UST. Some of its swaps are raising eyebrows.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will UST and LUNA Make It Back? Solutions for Terra]]></title>
-        <id>https://thedefiant.io/?p=51740</id>
-        <link href="https://thedefiant.io/will-ust-and-luna-make-it-back-solutions-for-terra/"/>
-        <updated>2022-05-16T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s Monday, time for a quick take on what’s happened since the apocalyptic events of last week. To recap. UST depegged, Terra’s supposedly blue chip ecosystem death spiraled leading to rampant inflation in the Luna token and catastrophic contagion throughout the entire crypto space.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
