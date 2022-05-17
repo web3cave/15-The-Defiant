@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T14:08:47.432Z</id>
+    <id>urn:2022-05-17T15:11:24.302Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-17T14:08:47.433Z</updated>
+    <updated>2022-05-17T15:11:24.302Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aurora+ To Offer 50 Free Monthly Transactions and Airdrop For Early Users]]></title>
+        <id>https://thedefiant.io/?p=51754</id>
+        <link href="https://thedefiant.io/aurora-plus/"/>
+        <updated>2022-05-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aurora+, a Near Protocol EVM platform, offers 50 free transactions a month, a staking interface, airdrops and NFTs.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK Proposes Regulations That Would Recognize Stablecoins As A Form Of Payment]]></title>
         <id>https://thedefiant.io/?p=51725</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Terra ecosystem’s notorious leader is trying to salvage the resources and talent left behind in the wreckage that is UST’s depegging.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Stablecoin Landscape Suffers Tremors After Terra Crash]]></title>
-        <id>https://thedefiant.io/?p=51614</id>
-        <link href="https://thedefiant.io/algo-stables-de-peg/"/>
-        <updated>2022-05-13T17:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Terra’s UST collapse has shattered the foundations of the algorithmic stablecoin market.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
