@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T05:13:20.901Z</id>
+    <id>urn:2022-05-19T06:08:54.487Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T05:13:20.901Z</updated>
+    <updated>2022-05-19T06:08:54.487Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fantom’s SCREAM Falls 50% After Algorithmic Stablecoins Cause Bad Debt]]></title>
+        <id>https://thedefiant.io/?p=51886</id>
+        <link href="https://thedefiant.io/scream-fantom-bad-debt/"/>
+        <updated>2022-05-19T05:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Traders have taken advantage of the Fantom-based lending protocol having hard-coded fUSD and DEI at $1 despite the tokens trading below their pegs.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elite Fashion Brands Continue Building in the Metaverse]]></title>
         <id>https://thedefiant.io/?p=51874</id>
@@ -45,16 +55,6 @@
   Norway’s Central Bank Taps Ethereum Layer 2 For CBDC Trial Read More »]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VillageDAO Aims To Decentralize Customer Service]]></title>
-        <id>https://thedefiant.io/?p=51822</id>
-        <link href="https://thedefiant.io/consensys-villagedao/"/>
-        <updated>2022-05-18T04:13:18.000Z</updated>
-        <summary type="html"><![CDATA[ConsenSys-backed VillageDAO will provide customer care services to other web3 projects – with the first client being Metamask.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
