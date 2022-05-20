@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T04:15:21.600Z</id>
+    <id>urn:2022-05-20T05:10:02.749Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T04:15:21.600Z</updated>
+    <updated>2022-05-20T05:10:02.749Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FTX Launches US Equities Trading with Stablecoins as a Funding Option]]></title>
+        <id>https://thedefiant.io/?p=51966</id>
+        <link href="https://thedefiant.io/ftx-stocks-stablecoins/"/>
+        <updated>2022-05-20T04:17:12.000Z</updated>
+        <summary type="html"><![CDATA[FTX now operates the first stock trading platform that allows users to fund their accounts with fiat-backed stablecoins like USDC.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralized Social Graph Lens Protocol Goes Live]]></title>
         <id>https://thedefiant.io/?p=51942</id>
@@ -45,17 +55,6 @@ Using Lens, users can mint a profile, follow others, and create and collect post
   Tether Has Reduced Commercial Paper Backing USDT by 20% Since April Read More »]]></summary>
         <author>
             <name>Robert Stevens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EY And Polygon Unveil ZK and Optimistic Rollup Hybrid]]></title>
-        <id>https://thedefiant.io/?p=51909</id>
-        <link href="https://thedefiant.io/ey-polygon-nightfall-beta/"/>
-        <updated>2022-05-19T10:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Accounting firm Ernst & Young and Ethereum scaling company Polygon has launched the mainnet beta of its rollup for businesses, Nightfall. Ernst & Young (EY), one of the ‘Big Four’ financial services behemoths, started work on Nightfall in 2019 to make its customers’ Ethereum transactions private. But the company was so swamped by Ethereum’s high …
-  EY And Polygon Unveil ZK and Optimistic Rollup Hybrid Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
