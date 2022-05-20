@@ -6,12 +6,32 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/?p=51994",
+          "author": "Samuel Haig",
+          "description": "Ethereum scaling solution Optimism today announced Bedrock, an upgrade that improves speeds and cuts costs for those that trade on the L2. Optimism is a rollup: a Layer 2 scaling solution that batches transactions on another blockchain, then feeds them back to Ethereum as a single transaction. Rollups enjoy the security of Ethereum’s mainnet while …\n  Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade￼ Read More »",
+          "link": "https://thedefiant.io/optimism-upgrade-l2-ethereum/",
+          "publishedOn": "2022-05-20T10:32:14.000Z",
+          "wordCount": 593,
+          "title": "Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade￼",
+          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/OptimismBedrock.jpg&nocache=1"
+        },
+        {
+          "id": "https://thedefiant.io/?p=51984",
+          "author": "Samuel Haig",
+          "description": "ConsenSys, Joe Lubin’s Ethereum software company, has rolled out a new tool it claims will smoothen Ethereum’s transition to Proof of Stake in August, also known as “The Merge.” The tool, “Bonsai Tries State Storage”, came out of early access on May 17. It runs on ConsenSys’s Ethereum client, Hyperledger Besu. State tries are Ethereum …\n  ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge Read More »",
+          "link": "https://thedefiant.io/consensys-bonsai-tries/",
+          "publishedOn": "2022-05-20T10:10:50.000Z",
+          "wordCount": 666,
+          "title": "ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge",
+          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/BonsaiStorageETHStaking.jpg&nocache=1"
+        },
+        {
           "id": "https://thedefiant.io/?p=51966",
           "author": "Jason Levin",
           "description": "FTX now operates the first stock trading platform that allows users to fund their accounts with fiat-backed stablecoins like USDC.",
           "link": "https://thedefiant.io/ftx-stocks-stablecoins/",
           "publishedOn": "2022-05-20T04:17:12.000Z",
-          "wordCount": 680,
+          "wordCount": 683,
           "title": "FTX Launches US Equities Trading with Stablecoins as a Funding Option",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/FTXStocks.jpg&nocache=1"
         },
@@ -21,7 +41,7 @@
           "description": "Lens Protocol is a decentralized social graph that allows developers to build web3 social media platforms  on the Polygon network. \nUsing Lens, users can mint a profile, follow others, and create and collect posts all on-chain.",
           "link": "https://thedefiant.io/lens-web3-social-graph-live/",
           "publishedOn": "2022-05-19T16:05:52.000Z",
-          "wordCount": 803,
+          "wordCount": 806,
           "title": "Decentralized Social Graph Lens Protocol Goes Live",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/LensLaunch.jpg&nocache=1"
         },
@@ -31,29 +51,9 @@
           "description": "Cryptocurrency miners continue to pump computing power into the Ethereum and Bitcoin networks despite their tokens’ recent price drop.",
           "link": "https://thedefiant.io/bitcoin-eth-hashrate-ath/",
           "publishedOn": "2022-05-19T15:52:29.000Z",
-          "wordCount": 818,
+          "wordCount": 821,
           "title": "Bitcoin and Ethereum Hash Rates Hit All-Time Highs Despite Bear Market",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/ETHBTCHashrate.jpg&nocache=1"
-        },
-        {
-          "id": "https://thedefiant.io/?p=51932",
-          "author": "Samuel Haig",
-          "description": "ConsenSys founder Joe Lubin emphasizes Eth2 scalability ahead of the first chain-merge on a public testnet planned for June 8.",
-          "link": "https://thedefiant.io/ethereum-merge-ropsten/",
-          "publishedOn": "2022-05-19T15:37:23.000Z",
-          "wordCount": 785,
-          "title": "June 8 Ropsten Merge Indicates Ethereum’s PoS Transition Is On Track for Q3: Joe Lubin",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/JoeLubinOnTheMerge.jpg&nocache=1"
-        },
-        {
-          "id": "https://thedefiant.io/?p=51920",
-          "author": "Robert Stevens",
-          "description": "The world’s largest US dollar stablecoin, Tether (USDT), today announced its first attestation report in six months. The report disclosed that Tether had decreased its commercial paper holdings – short-term commercial debt – by 17% from December 2021 through March 2022, from $24.2B to $20.1B. Tether said it has decreased its commercial paper holdings by …\n  Tether Has Reduced Commercial Paper Backing USDT by 20% Since April Read More »",
-          "link": "https://thedefiant.io/tether-reduced-commercial-paper-backing/",
-          "publishedOn": "2022-05-19T14:17:53.000Z",
-          "wordCount": 637,
-          "title": "Tether Has Reduced Commercial Paper Backing USDT by 20% Since April",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/TetherPeg.jpg&nocache=1"
         }
       ]
     }

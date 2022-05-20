@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T10:07:45.348Z</id>
+    <id>urn:2022-05-20T11:04:23.791Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T10:07:45.348Z</updated>
+    <updated>2022-05-20T11:04:23.791Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade￼]]></title>
+        <id>https://thedefiant.io/?p=51994</id>
+        <link href="https://thedefiant.io/optimism-upgrade-l2-ethereum/"/>
+        <updated>2022-05-20T10:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum scaling solution Optimism today announced Bedrock, an upgrade that improves speeds and cuts costs for those that trade on the L2. Optimism is a rollup: a Layer 2 scaling solution that batches transactions on another blockchain, then feeds them back to Ethereum as a single transaction. Rollups enjoy the security of Ethereum’s mainnet while …
+  Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade￼ Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge]]></title>
+        <id>https://thedefiant.io/?p=51984</id>
+        <link href="https://thedefiant.io/consensys-bonsai-tries/"/>
+        <updated>2022-05-20T10:10:50.000Z</updated>
+        <summary type="html"><![CDATA[ConsenSys, Joe Lubin’s Ethereum software company, has rolled out a new tool it claims will smoothen Ethereum’s transition to Proof of Stake in August, also known as “The Merge.” The tool, “Bonsai Tries State Storage”, came out of early access on May 17. It runs on ConsenSys’s Ethereum client, Hyperledger Besu. State tries are Ethereum …
+  ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX Launches US Equities Trading with Stablecoins as a Funding Option]]></title>
         <id>https://thedefiant.io/?p=51966</id>
@@ -34,27 +56,6 @@ Using Lens, users can mint a profile, follow others, and create and collect post
         <summary type="html"><![CDATA[Cryptocurrency miners continue to pump computing power into the Ethereum and Bitcoin networks despite their tokens’ recent price drop.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 8 Ropsten Merge Indicates Ethereum’s PoS Transition Is On Track for Q3: Joe Lubin]]></title>
-        <id>https://thedefiant.io/?p=51932</id>
-        <link href="https://thedefiant.io/ethereum-merge-ropsten/"/>
-        <updated>2022-05-19T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[ConsenSys founder Joe Lubin emphasizes Eth2 scalability ahead of the first chain-merge on a public testnet planned for June 8.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Has Reduced Commercial Paper Backing USDT by 20% Since April]]></title>
-        <id>https://thedefiant.io/?p=51920</id>
-        <link href="https://thedefiant.io/tether-reduced-commercial-paper-backing/"/>
-        <updated>2022-05-19T14:17:53.000Z</updated>
-        <summary type="html"><![CDATA[The world’s largest US dollar stablecoin, Tether (USDT), today announced its first attestation report in six months. The report disclosed that Tether had decreased its commercial paper holdings – short-term commercial debt – by 17% from December 2021 through March 2022, from $24.2B to $20.1B. Tether said it has decreased its commercial paper holdings by …
-  Tether Has Reduced Commercial Paper Backing USDT by 20% Since April Read More »]]></summary>
-        <author>
-            <name>Robert Stevens</name>
         </author>
     </entry>
 </feed>
