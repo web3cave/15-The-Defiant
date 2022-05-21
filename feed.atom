@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T03:19:01.820Z</id>
+    <id>urn:2022-05-21T04:08:13.122Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-21T03:19:01.821Z</updated>
+    <updated>2022-05-21T04:08:13.122Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins In Regulators’ Crosshairs After Terra Collapse]]></title>
+        <id>https://thedefiant.io/?p=52038</id>
+        <link href="https://thedefiant.io/stablecoin-regulation-roundup/"/>
+        <updated>2022-05-21T03:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Regulators around the world are turning their attention to stablecoins after UST's collapse.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Blockchain?]]></title>
         <id>https://thedefiant.io/?p=51562</id>
@@ -42,17 +52,6 @@
         <updated>2022-05-20T10:32:14.000Z</updated>
         <summary type="html"><![CDATA[Ethereum scaling solution Optimism today announced Bedrock, an upgrade that improves speeds and cuts costs for those that trade on the L2. Optimism is a rollup: a Layer 2 scaling solution that batches transactions on another blockchain, then feeds them back to Ethereum as a single transaction. Rollups enjoy the security of Ethereum’s mainnet while …
   Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge]]></title>
-        <id>https://thedefiant.io/?p=51984</id>
-        <link href="https://thedefiant.io/consensys-bonsai-tries/"/>
-        <updated>2022-05-20T10:10:50.000Z</updated>
-        <summary type="html"><![CDATA[ConsenSys, Joe Lubin’s Ethereum software company, has rolled out a new tool it claims will smoothen Ethereum’s transition to Proof of Stake in August, also known as “The Merge.” The tool, “Bonsai Tries State Storage”, came out of early access on May 17. It runs on ConsenSys’s Ethereum client, Hyperledger Besu. State tries are Ethereum …
-  ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge Read More »]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>

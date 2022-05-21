@@ -6,12 +6,22 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/?p=52038",
+          "author": "Jason Levin",
+          "description": "Regulators around the world are turning their attention to stablecoins after UST's collapse.",
+          "link": "https://thedefiant.io/stablecoin-regulation-roundup/",
+          "publishedOn": "2022-05-21T03:27:33.000Z",
+          "wordCount": 922,
+          "title": "Stablecoins In Regulators’ Crosshairs After Terra Collapse",
+          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/StablecoinReg.jpg&nocache=1"
+        },
+        {
           "id": "https://thedefiant.io/?p=51562",
           "author": "Rahul Nambiampurath",
           "description": "A Step-by-Step Primer on How Distributed Ledger Technology Works",
           "link": "https://thedefiant.io/what-is-blockchain-tutorial/",
           "publishedOn": "2022-05-20T21:27:31.000Z",
-          "wordCount": 2142,
+          "wordCount": 2138,
           "title": "What Is Blockchain?",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/WhatIsBlockchain.jpg&nocache=1"
         },
@@ -21,7 +31,7 @@
           "description": "Stablegains offered U.S. users a 15% yield on their deposits and used Anchor Protocol behind the scenes. Now, users are alleging they were scammed after UST's collapse.",
           "link": "https://thedefiant.io/stablegains-rekt/",
           "publishedOn": "2022-05-20T21:01:58.000Z",
-          "wordCount": 1407,
+          "wordCount": 1403,
           "title": "Stablegains Under Fire After Going All-In On Anchor",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/StablegainsREKT.jpg&nocache=1"
         },
@@ -31,7 +41,7 @@
           "description": "Analysis of the 2022 crypto bear market in the context of previous cycles.",
           "link": "https://thedefiant.io/bear-market-2022-vs-2018/",
           "publishedOn": "2022-05-20T17:30:16.000Z",
-          "wordCount": 856,
+          "wordCount": 852,
           "title": "Is It Different This Time? Analysts Explain This Year’s Crypto Crash",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/2018BearComparison.jpg&nocache=1"
         },
@@ -41,19 +51,9 @@
           "description": "Ethereum scaling solution Optimism today announced Bedrock, an upgrade that improves speeds and cuts costs for those that trade on the L2. Optimism is a rollup: a Layer 2 scaling solution that batches transactions on another blockchain, then feeds them back to Ethereum as a single transaction. Rollups enjoy the security of Ethereum’s mainnet while …\n  Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade Read More »",
           "link": "https://thedefiant.io/optimism-upgrade-l2-ethereum/",
           "publishedOn": "2022-05-20T10:32:14.000Z",
-          "wordCount": 576,
+          "wordCount": 572,
           "title": "Optimism Targets ‘Ethereum Equivalence’ With New L2 Upgrade",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/OptimismBedrock.jpg&nocache=1"
-        },
-        {
-          "id": "https://thedefiant.io/?p=51984",
-          "author": "Samuel Haig",
-          "description": "ConsenSys, Joe Lubin’s Ethereum software company, has rolled out a new tool it claims will smoothen Ethereum’s transition to Proof of Stake in August, also known as “The Merge.” The tool, “Bonsai Tries State Storage”, came out of early access on May 17. It runs on ConsenSys’s Ethereum client, Hyperledger Besu. State tries are Ethereum …\n  ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge Read More »",
-          "link": "https://thedefiant.io/consensys-bonsai-tries/",
-          "publishedOn": "2022-05-20T10:10:50.000Z",
-          "wordCount": 649,
-          "title": "ConsenSys Pushes Upgrade for Ethereum Validators Ahead of Q3 Merge",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/BonsaiStorageETHStaking.jpg&nocache=1"
         }
       ]
     }
