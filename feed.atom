@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T22:06:54.654Z</id>
+    <id>urn:2022-05-24T23:07:05.707Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-24T22:06:54.654Z</updated>
+    <updated>2022-05-24T23:07:05.707Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Age Of Tokies]]></title>
+        <id>https://thedefiant.io/?p=52194</id>
+        <link href="https://thedefiant.io/age-of-tokies/"/>
+        <updated>2022-05-24T22:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Tokenized storytelling is the creation of decentralized content franchises owned by creators and patrons and orchestrated with tokens.]]></summary>
+        <author>
+            <name>Sasha Kapustina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea Drops New Marketplace Protocol for NFTs]]></title>
         <id>https://thedefiant.io/?p=52188</id>
@@ -43,17 +53,6 @@
         <summary type="html"><![CDATA[In the part 1 of 2 series on how to research stablecoins, we take a look at institutionally issued stabelcoins.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filecoin and Lockheed Martin To Launch IPFS Into Space]]></title>
-        <id>https://thedefiant.io/?p=52147</id>
-        <link href="https://thedefiant.io/filecoin-ipfs-space/"/>
-        <updated>2022-05-24T10:22:57.000Z</updated>
-        <summary type="html"><![CDATA[The Interplanetary File System (IPFS), a protocol for peer-to-peer file data sharing and storage,  is set to live up to its name through a partnership with Filecoin and U.S. space and weapons company Lockheed Martin.  Filecoin, which relies on IPFS, wants to store an IPFS node on one of Lockheed Martin’s spaceships. When the spaceship …
-  Filecoin and Lockheed Martin To Launch IPFS Into Space Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
