@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T10:07:08.270Z</id>
+    <id>urn:2022-05-24T11:04:41.126Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-24T10:07:08.270Z</updated>
+    <updated>2022-05-24T11:04:41.126Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Filecoin and Lockheed Martin To Launch IPFS Into Space]]></title>
+        <id>https://thedefiant.io/?p=52147</id>
+        <link href="https://thedefiant.io/filecoin-ipfs-space/"/>
+        <updated>2022-05-24T10:22:57.000Z</updated>
+        <summary type="html"><![CDATA[The Interplanetary File System (IPFS), a protocol for peer-to-peer file data sharing and storage,  is set to live up to its name through a partnership with Filecoin and U.S. space and weapons company Lockheed Martin.  Filecoin, which relies on IPFS, wants to store an IPFS node on one of Lockheed Martin’s spaceships. When the spaceship …
+  Filecoin and Lockheed Martin To Launch IPFS Into Space Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GameStop Launches Beta Version of Non-Custodial Crypto Wallet]]></title>
         <id>https://thedefiant.io/?p=52136</id>
@@ -46,16 +57,6 @@
         <summary type="html"><![CDATA[Regulators around the world are turning their attention to stablecoins after UST's collapse.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Blockchain?]]></title>
-        <id>https://thedefiant.io/?p=51562</id>
-        <link href="https://thedefiant.io/what-is-blockchain-tutorial/"/>
-        <updated>2022-05-20T21:27:31.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Primer on How Distributed Ledger Technology Works]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
