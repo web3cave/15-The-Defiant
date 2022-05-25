@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T14:09:53.201Z</id>
+    <id>urn:2022-05-25T15:07:40.008Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T14:09:53.201Z</updated>
+    <updated>2022-05-25T15:07:40.008Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Foundation Cracks Down On Airdrop Farmers]]></title>
+        <id>https://thedefiant.io/?p=52244</id>
+        <link href="https://thedefiant.io/optimism-sybil/"/>
+        <updated>2022-05-25T14:55:30.000Z</updated>
+        <summary type="html"><![CDATA[17,000 addresses have been disqualified from the Optimism airdrop with 14M OP tokens reallocated.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Rollup Startup StarkWare Closes Series D At $8B Valuation]]></title>
         <id>https://thedefiant.io/?p=52220</id>
@@ -45,16 +55,6 @@
         <summary type="html"><![CDATA[Tokenized storytelling is the creation of decentralized content franchises owned by creators and patrons and orchestrated with tokens.]]></summary>
         <author>
             <name>Sasha Kapustina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Drops New Marketplace Protocol for NFTs]]></title>
-        <id>https://thedefiant.io/?p=52188</id>
-        <link href="https://thedefiant.io/opensea-seaport/"/>
-        <updated>2022-05-24T20:51:57.000Z</updated>
-        <summary type="html"><![CDATA[OpenSea's new Seaport protocol will let users post offers for NFTs with a broad range of assets including ERC20, ERC721, and ETH.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
