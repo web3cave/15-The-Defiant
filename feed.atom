@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T04:18:30.572Z</id>
+    <id>urn:2022-05-25T05:12:39.863Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T04:18:30.572Z</updated>
+    <updated>2022-05-25T05:12:39.863Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future]]></title>
+        <id>https://thedefiant.io/?p=52211</id>
+        <link href="https://thedefiant.io/vitalik-soulbound-tokens/"/>
+        <updated>2022-05-25T04:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum creator Vitalik Buterin recently proposed a new kind of token standard that will help users gain insights into others’ real-world activities, accomplishments, likes and dislikes.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Age Of Tokies]]></title>
         <id>https://thedefiant.io/?p=52194</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[MakerDAO is once again the largest DeFi protocol by Total Value Locked.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Research Stablecoins | USDC, USDT, BUSD, PAXOS]]></title>
-        <id>https://thedefiant.io/?p=52162</id>
-        <link href="https://thedefiant.io/how-to-research-stablecoins-usdc-usdt-busd-paxos/"/>
-        <updated>2022-05-24T15:19:33.000Z</updated>
-        <summary type="html"><![CDATA[In the part 1 of 2 series on how to research stablecoins, we take a look at institutionally issued stabelcoins.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
