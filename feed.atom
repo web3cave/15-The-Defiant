@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T11:06:20.991Z</id>
+    <id>urn:2022-05-25T12:13:10.275Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T11:06:20.991Z</updated>
+    <updated>2022-05-25T12:13:10.275Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Layer 1 Networks?]]></title>
+        <id>https://thedefiant.io/?p=52230</id>
+        <link href="https://thedefiant.io/what-are-layer-1-networks/"/>
+        <updated>2022-05-25T11:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Although Bitcoin launched in early 2009, it took until 2017 for blockchains to go mainstream. And only in November 2021 – almost 12 years after Bitcoin’s launch – did crypto’s market cap peak at $2.9T. Bitcoin’s growth created immeasurable wealth and changed how society perceives money – and who controls its issuance. But along the …
+  What Are Layer 1 Networks? Read More »]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future]]></title>
         <id>https://thedefiant.io/?p=52211</id>
@@ -43,16 +54,6 @@
         <summary type="html"><![CDATA[Milady is the most recent example of crypto-native art tarred by its creators’ dirty laundry.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Regains Top Spot on TVL Leaderboard]]></title>
-        <id>https://thedefiant.io/?p=52168</id>
-        <link href="https://thedefiant.io/makerdao-tops-tvl-charts/"/>
-        <updated>2022-05-24T17:12:16.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO is once again the largest DeFi protocol by Total Value Locked.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
