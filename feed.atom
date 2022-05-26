@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T17:15:06.600Z</id>
+    <id>urn:2022-05-26T18:08:19.844Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-26T17:15:06.600Z</updated>
+    <updated>2022-05-26T18:08:19.844Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Contrasting The 2022 Market Crash To 2018’s Crypto Winter Crypto winter is a prolonged period characterized by a sustained and general drop in the price of cryptocurrencies which also hinders the enthusiasm for the industry. Is winter coming?]]></title>
+        <id>https://thedefiant.io/?p=52364</id>
+        <link href="https://thedefiant.io/dappradar-winter-is-coming/"/>
+        <updated>2022-05-26T17:48:00.000Z</updated>
+        <summary type="html"><![CDATA[This special report from DappRadar compares the 2018 crypto winter with the current six-month bear trend in an attempt to assess whether a crypto winter is ahead, and what the crypto industry can expect in the upcoming months.]]></summary>
+        <author>
+            <name>DappRadar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoolTogether Launches NFT Sale to Fund Ongoing Litigation]]></title>
+        <id>https://thedefiant.io/?p=52360</id>
+        <link href="https://thedefiant.io/pooltogether-lawsuit-nfts/"/>
+        <updated>2022-05-26T17:34:48.000Z</updated>
+        <summary type="html"><![CDATA[PoolTogether hopes to raise money for ongoing legal expenses through the sale of 'Pooly' NFTs.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seth Green Could Air TV Show Without Stolen Ape, Lawyer Says]]></title>
         <id>https://thedefiant.io/?p=52345</id>
@@ -34,28 +54,6 @@
         <updated>2022-05-26T10:34:52.000Z</updated>
         <summary type="html"><![CDATA[Aave has stopped offering incentives to Ethereum v2 users in its native token, AAVE. At a total value-locked (TVL) of $8.57B, Aave is the third-largest DeFi protocol and the largest decentralized money market.  Aave had incentivized adoption on its v2 deployment since April 2021 by offering AAVE tokens to those that borrowed or supplied crypto. …
   Aave Ends Rewards In Latest Blow To Yield Farmers Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Taps Optimism for New Writing NFTs]]></title>
-        <id>https://thedefiant.io/?p=52303</id>
-        <link href="https://thedefiant.io/mirror-taps-optimism-for-new-writing-nfts/"/>
-        <updated>2022-05-26T09:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Web3 blog platform Mirror now lets writers sell their essays as NFTs. Mirror, a kind of Medium meets Web3, lets bloggers publish essays on the Ethereum blockchain, then vote on the best ones with the platform’s governance token.  Upstart writers could already sell NFTs on the platform and hold crowdsales – they’ve raised $15.36M since …
-  Mirror Taps Optimism for New Writing NFTs Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain]]></title>
-        <id>https://thedefiant.io/?p=52290</id>
-        <link href="https://thedefiant.io/blockchain-reorg-eth2-beacon-chain/"/>
-        <updated>2022-05-26T09:53:55.000Z</updated>
-        <summary type="html"><![CDATA[The Eth2 Beacon Chain’s validators fell out of step on May 25 after a client update boosted some clients but caused confusion among validators who hadn’t bothered to upgrade. The incident, called a blockchain reorganization, happens when nodes disagree on the order of the most recent block. Blockchains order blocks – batches of transactions – …
-  Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain Read More »]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
