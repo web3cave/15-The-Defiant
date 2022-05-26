@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T09:07:44.142Z</id>
+    <id>urn:2022-05-26T10:07:04.945Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-26T09:07:44.142Z</updated>
+    <updated>2022-05-26T10:07:04.945Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mirror Taps Optimism for New Writing NFTs]]></title>
+        <id>https://thedefiant.io/?p=52303</id>
+        <link href="https://thedefiant.io/mirror-taps-optimism-for-new-writing-nfts/"/>
+        <updated>2022-05-26T09:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Web3 blog platform Mirror now lets writers sell their essays as NFTs. Mirror, a kind of Medium meets Web3, lets bloggers publish essays on the Ethereum blockchain, then vote on the best ones with the platform’s governance token.  Upstart writers could already sell NFTs on the platform and hold crowdsales – they’ve raised $15.36M since …
+  Mirror Taps Optimism for New Writing NFTs Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain￼]]></title>
+        <id>https://thedefiant.io/?p=52290</id>
+        <link href="https://thedefiant.io/blockchain-reorg-eth2-beacon-chain/"/>
+        <updated>2022-05-26T09:53:55.000Z</updated>
+        <summary type="html"><![CDATA[The Eth2 Beacon Chain’s validators fell out of step on May 25 after a client update boosted some clients but caused confusion among validators who hadn’t bothered to upgrade. The incident, called a blockchain reorganization, happens when nodes disagree on the order of the most recent block. Blockchains order blocks – batches of transactions – …
+  Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain￼ Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a16z Raises $4.5 Billion For Its Largest-Ever Crypto Fund]]></title>
         <id>https://thedefiant.io/?p=52271</id>
@@ -33,28 +55,6 @@
         <summary type="html"><![CDATA[17,000 addresses have been disqualified from the Optimism airdrop with 14M OP tokens reallocated.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Rollup Startup StarkWare Closes Series D At $8B Valuation]]></title>
-        <id>https://thedefiant.io/?p=52220</id>
-        <link href="https://thedefiant.io/ethereum-rollup-startup-starkware-closes-series-d-at-8b-valuation/"/>
-        <updated>2022-05-25T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though the price of ETH has fallen by about 50% since early April, Ethereum scaling solutions continue to secure huge amounts of funding to address the bottlenecks that slow down the blockchain and make it expensive to use. On May 25, StarkWare, an Israeli startup building Layer 2 scaling solutions for Ethereum, announced the …
-  Ethereum Rollup Startup StarkWare Closes Series D At $8B Valuation  Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is A Layer 1 Network?]]></title>
-        <id>https://thedefiant.io/?p=52230</id>
-        <link href="https://thedefiant.io/what-are-layer-1-networks/"/>
-        <updated>2022-05-25T11:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Although Bitcoin launched in early 2009, it took until 2017 for blockchains to go mainstream. And only in November 2021 – almost 12 years after Bitcoin’s launch – did crypto’s market cap peak at $2.9T. Bitcoin’s growth created immeasurable wealth and changed how society perceives money – and who controls its issuance. But along the …
-  What Is A Layer 1 Network? Read More »]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>

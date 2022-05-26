@@ -6,12 +6,32 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/?p=52303",
+          "author": "Samuel Haig",
+          "description": "Web3 blog platform Mirror now lets writers sell their essays as NFTs. Mirror, a kind of Medium meets Web3, lets bloggers publish essays on the Ethereum blockchain, then vote on the best ones with the platform’s governance token.  Upstart writers could already sell NFTs on the platform and hold crowdsales – they’ve raised $15.36M since …\n  Mirror Taps Optimism for New Writing NFTs Read More »",
+          "link": "https://thedefiant.io/mirror-taps-optimism-for-new-writing-nfts/",
+          "publishedOn": "2022-05-26T09:58:52.000Z",
+          "wordCount": 516,
+          "title": "Mirror Taps Optimism for New Writing NFTs",
+          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/MirrorL2.jpg&nocache=1"
+        },
+        {
+          "id": "https://thedefiant.io/?p=52290",
+          "author": "Samuel Haig",
+          "description": "The Eth2 Beacon Chain’s validators fell out of step on May 25 after a client update boosted some clients but caused confusion among validators who hadn’t bothered to upgrade. The incident, called a blockchain reorganization, happens when nodes disagree on the order of the most recent block. Blockchains order blocks – batches of transactions – …\n  Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain￼ Read More »",
+          "link": "https://thedefiant.io/blockchain-reorg-eth2-beacon-chain/",
+          "publishedOn": "2022-05-26T09:53:55.000Z",
+          "wordCount": 620,
+          "title": "Outdated Node Clients Cause Blockchain Reorg on Eth2 Beacon Chain￼",
+          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/BeaconChainReorg.jpg&nocache=1"
+        },
+        {
           "id": "https://thedefiant.io/?p=52271",
           "author": "Aleksandar Gilbert",
           "description": "Web3 gaming, DeFi, zero-knowledge proofs, decentralized social media, self-sovereign identity and layer 1 and 2 infrastructure are among the fund’s areas of focus.",
           "link": "https://thedefiant.io/a16z-crypto-fund-4/",
           "publishedOn": "2022-05-26T04:38:11.000Z",
-          "wordCount": 747,
+          "wordCount": 749,
           "title": "a16z Raises $4.5 Billion For Its Largest-Ever Crypto Fund",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/a16zCryptoFund4.jpg&nocache=1"
         },
@@ -21,7 +41,7 @@
           "description": "Flowcarbon has raised $70M in a token sale led by a16z. It will offer crypto-based carbon credits.",
           "link": "https://thedefiant.io/neumann-flowcarbon-70m/",
           "publishedOn": "2022-05-25T20:02:10.000Z",
-          "wordCount": 733,
+          "wordCount": 735,
           "title": "WeWork’s Adam Neumann Raises $70M for Crypto Startup",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/AdamNeumann.jpg&nocache=1"
         },
@@ -31,29 +51,9 @@
           "description": "17,000 addresses have been disqualified from the Optimism airdrop with 14M OP tokens reallocated.",
           "link": "https://thedefiant.io/optimism-sybil/",
           "publishedOn": "2022-05-25T14:55:30.000Z",
-          "wordCount": 858,
+          "wordCount": 860,
           "title": "Optimism Foundation Cracks Down On Airdrop Farmers",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/OPSybilAdd.jpg&nocache=1"
-        },
-        {
-          "id": "https://thedefiant.io/?p=52220",
-          "author": "Samuel Haig",
-          "description": "Even though the price of ETH has fallen by about 50% since early April, Ethereum scaling solutions continue to secure huge amounts of funding to address the bottlenecks that slow down the blockchain and make it expensive to use. On May 25, StarkWare, an Israeli startup building Layer 2 scaling solutions for Ethereum, announced the …\n  Ethereum Rollup Startup StarkWare Closes Series D At $8B Valuation  Read More »",
-          "link": "https://thedefiant.io/ethereum-rollup-startup-starkware-closes-series-d-at-8b-valuation/",
-          "publishedOn": "2022-05-25T13:30:00.000Z",
-          "wordCount": 697,
-          "title": "Ethereum Rollup Startup StarkWare Closes Series D At $8B Valuation",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/STARKNET8B.jpg&nocache=1"
-        },
-        {
-          "id": "https://thedefiant.io/?p=52230",
-          "author": "Rahul Nambiampurath",
-          "description": "Although Bitcoin launched in early 2009, it took until 2017 for blockchains to go mainstream. And only in November 2021 – almost 12 years after Bitcoin’s launch – did crypto’s market cap peak at $2.9T. Bitcoin’s growth created immeasurable wealth and changed how society perceives money – and who controls its issuance. But along the …\n  What Is A Layer 1 Network? Read More »",
-          "link": "https://thedefiant.io/what-are-layer-1-networks/",
-          "publishedOn": "2022-05-25T11:38:31.000Z",
-          "wordCount": 1803,
-          "title": "What Is A Layer 1 Network?",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/WhatIsLayer1.jpg&nocache=1"
         }
       ]
     }
