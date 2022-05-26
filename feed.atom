@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T04:20:05.399Z</id>
+    <id>urn:2022-05-26T05:12:24.324Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-26T04:20:05.399Z</updated>
+    <updated>2022-05-26T05:12:24.324Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[a16z Raises $4.5 Billion For Its Largest-Ever Crypto Fund]]></title>
+        <id>https://thedefiant.io/?p=52271</id>
+        <link href="https://thedefiant.io/a16z-crypto-fund-4/"/>
+        <updated>2022-05-26T04:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Web3 gaming, DeFi, zero-knowledge proofs, decentralized social media, self-sovereign identity and layer 1 and 2 infrastructure are among the fund’s areas of focus.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WeWork’s Adam Neumann Raises $70M for Crypto Startup]]></title>
         <id>https://thedefiant.io/?p=52255</id>
@@ -45,16 +55,6 @@
   What Is A Layer 1 Network? Read More »]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future]]></title>
-        <id>https://thedefiant.io/?p=52211</id>
-        <link href="https://thedefiant.io/vitalik-soulbound-tokens/"/>
-        <updated>2022-05-25T04:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum creator Vitalik Buterin recently proposed a new kind of token standard that will help users gain insights into others’ real-world activities, accomplishments, likes and dislikes.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
