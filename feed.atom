@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T10:07:04.945Z</id>
+    <id>urn:2022-05-26T11:05:15.132Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-26T10:07:04.945Z</updated>
+    <updated>2022-05-26T11:05:15.132Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Ends Rewards In Latest Blow To Yield Farmers]]></title>
+        <id>https://thedefiant.io/?p=52312</id>
+        <link href="https://thedefiant.io/aave-ends-rewards/"/>
+        <updated>2022-05-26T10:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Aave has stopped offering incentives to Ethereum v2 users in its native token, AAVE. At a total value-locked (TVL) of $8.57B, Aave is the third-largest DeFi protocol and the largest decentralized money market.  Aave had incentivized adoption on its v2 deployment since April 2021 by offering AAVE tokens to those that borrowed or supplied crypto. …
+  Aave Ends Rewards In Latest Blow To Yield Farmers Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mirror Taps Optimism for New Writing NFTs]]></title>
         <id>https://thedefiant.io/?p=52303</id>
@@ -45,16 +56,6 @@
         <summary type="html"><![CDATA[Flowcarbon has raised $70M in a token sale led by a16z. It will offer crypto-based carbon credits.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Foundation Cracks Down On Airdrop Farmers]]></title>
-        <id>https://thedefiant.io/?p=52244</id>
-        <link href="https://thedefiant.io/optimism-sybil/"/>
-        <updated>2022-05-25T14:55:30.000Z</updated>
-        <summary type="html"><![CDATA[17,000 addresses have been disqualified from the Optimism airdrop with 14M OP tokens reallocated.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
