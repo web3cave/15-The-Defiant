@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T18:09:01.520Z</id>
+    <id>urn:2022-05-27T19:03:57.558Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T18:09:01.520Z</updated>
+    <updated>2022-05-27T19:03:57.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Goblintown]]></title>
+        <id>https://thedefiant.io/?p=52442</id>
+        <link href="https://thedefiant.io/goblintown-nfts/"/>
+        <updated>2022-05-27T19:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Goblintown has taken OpenSea by storm with over 10K ETH in secondary sales.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks]]></title>
         <id>https://thedefiant.io/?p=52414</id>
@@ -45,16 +55,6 @@
         <summary type="html"><![CDATA[Terra is forking its blockchain and ditching UST, the algorithmic stablecoin that collapsed in dramatic fashion two weeks ago.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREAKING: Optimism’s $OP Token Could Be Imminent]]></title>
-        <id>https://thedefiant.io/?p=52380</id>
-        <link href="https://thedefiant.io/op-airdrop-speculation/"/>
-        <updated>2022-05-27T02:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Crypto users are speculating that Optimism could drop its OP token as early as tomorrow.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
