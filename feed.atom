@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T19:03:57.558Z</id>
+    <id>urn:2022-05-27T20:07:11.848Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T19:03:57.558Z</updated>
+    <updated>2022-05-27T20:07:11.848Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC Tracks Nasdaq as Crypto Faces Its First Recession]]></title>
+        <id>https://thedefiant.io/?p=52445</id>
+        <link href="https://thedefiant.io/bitcoin-stocks-correlation/"/>
+        <updated>2022-05-27T19:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin has been over 90% correlated with the Nasdaq since Apr. 8.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Goblintown]]></title>
         <id>https://thedefiant.io/?p=52442</id>
@@ -45,16 +55,6 @@
         <summary type="html"><![CDATA[Bitcoin has lost ground for eight consecutive weeks for the first time in history. The ETH/BTC ratio is at the lowest level since October 2021.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forked Terra Blockchain To Launch On Friday]]></title>
-        <id>https://thedefiant.io/?p=52383</id>
-        <link href="https://thedefiant.io/terra-fork-passes/"/>
-        <updated>2022-05-27T03:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Terra is forking its blockchain and ditching UST, the algorithmic stablecoin that collapsed in dramatic fashion two weeks ago.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
