@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T06:08:22.185Z</id>
+    <id>urn:2022-05-29T07:06:14.384Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-29T06:08:22.185Z</updated>
+    <updated>2022-05-29T07:06:14.384Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inbox Dump]]></title>
+        <id>https://thedefiant.io/?p=52485</id>
+        <link href="https://thedefiant.io/inbox-dump/"/>
+        <updated>2022-05-29T06:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Inbox Dump is where we include the updates and announcements that flood our DMs each week and didn’t make it to The Defiant’s content platforms. Sometimes announcements here didn’t meet the bar to become a news story, sometimes they may have slipped through the cracks, or they came late and we haven’t had a chance to cover. …
+  Inbox Dump Read More »]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC Tracks Nasdaq as Crypto Faces Its First Recession]]></title>
         <id>https://thedefiant.io/?p=52445</id>
@@ -45,16 +56,6 @@
   Ethereum Founder Vitalik Buterin Defends Algo-Stables Read More »]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin On Track To Extend Record Losing Streak]]></title>
-        <id>https://thedefiant.io/?p=52392</id>
-        <link href="https://thedefiant.io/bitcoin-record-losing-streak/"/>
-        <updated>2022-05-27T04:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has lost ground for eight consecutive weeks for the first time in history. The ETH/BTC ratio is at the lowest level since October 2021.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
