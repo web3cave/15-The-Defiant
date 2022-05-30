@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T20:07:28.526Z</id>
+    <id>urn:2022-05-30T21:06:14.809Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T20:07:28.526Z</updated>
+    <updated>2022-05-30T21:06:14.809Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Lender Celsius Partly Responsible for Terra Collapse, Says Nansen]]></title>
+        <id>https://thedefiant.io/?p=52558</id>
+        <link href="https://thedefiant.io/ust-collapse-celsius/"/>
+        <updated>2022-05-30T20:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Using on-chain data, Nansen traced seven power users who may have triggered the depeg when they rushed to sell huge amounts of UST on Curve.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Recap]]></title>
         <id>https://thedefiant.io/?p=52516</id>
@@ -45,17 +55,6 @@
         <summary type="html"><![CDATA[Goblintown has taken OpenSea by storm with over 10K ETH in secondary sales.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks]]></title>
-        <id>https://thedefiant.io/?p=52414</id>
-        <link href="https://thedefiant.io/ethereum-miner-tries-to-expedite-testnet-merge-by-2-weeks/"/>
-        <updated>2022-05-27T09:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum developers foiled a “mischievous” miner’s attempt to expedite Ethereum’s transition to Proof-of-Stake on a public testnet by two weeks. Developers expect Ethereum’s Eth2 Beacon Chain to merge with Ethereum’s mainnet this autumn. The transition, known as “The Merge”, will change the chain to Proof-of-Stake consensus and abandon Proof-of-Work miners.  Ethereum’s developers want to trial …
-  Ethereum Miner Tries to Expedite Testnet Merge By 2 Weeks Read More »]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
