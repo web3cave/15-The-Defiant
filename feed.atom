@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T09:06:51.225Z</id>
+    <id>urn:2022-05-31T10:07:46.858Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-31T09:06:51.225Z</updated>
+    <updated>2022-05-31T10:07:46.858Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eth2 Beacon Chain Launches on Ropsten Testnet, Paving Way for Merge]]></title>
+        <id>https://thedefiant.io/?p=52583</id>
+        <link href="https://thedefiant.io/eth-merge-ropsten-testnet/"/>
+        <updated>2022-05-31T09:48:25.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Foundation launched the Eth2 Beacon Chain on a public testnet yesterday, marking one of the final tests before Ethereum transitions to Proof-of-Stake later this year. The Beacon Chain, Eth2’s Proof-of-Stake consensus layer, went live on the longstanding public testnet, Ropsten.  The launch is a major milestone toward Ethereum’s highly anticipated ‘chain-merge’, which developers …
+  Eth2 Beacon Chain Launches on Ropsten Testnet, Paving Way for Merge Read More »]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Rebound After Bitcoin’s Record Losing Streak]]></title>
         <id>https://thedefiant.io/?p=52573</id>
@@ -26,6 +37,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Terra Launches – LUNA Dumps, LUNC Pumps￼]]></title>
+        <id>https://thedefiant.io/?p=52580</id>
+        <link href="https://thedefiant.io/new-terra-launches-luna-dumps-lunc-pumps/"/>
+        <updated>2022-05-30T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a traumatic couple of weeks in crypto and the drama continued last week with the Ethereum beacon chain suffering a 7 block reorg when some but not all nodes failed to upgrade the validator software in time. The market reacted as expected with Eth selling off violently down to the low 1700s before …
+  New Terra Launches – LUNA Dumps, LUNC Pumps￼ Read More »]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weekly Recap]]></title>
         <id>https://thedefiant.io/?p=52516</id>
         <link href="https://thedefiant.io/weekly-recap/"/>
@@ -34,27 +56,6 @@
   Weekly Recap Read More »]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inbox Dump]]></title>
-        <id>https://thedefiant.io/?p=52485</id>
-        <link href="https://thedefiant.io/inbox-dump/"/>
-        <updated>2022-05-29T06:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Inbox Dump is where we include the updates and announcements that flood our DMs each week and didn’t make it to The Defiant’s content platforms. Sometimes announcements here didn’t meet the bar to become a news story, sometimes they may have slipped through the cracks, or they came late and we haven’t had a chance to cover. …
-  Inbox Dump Read More »]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC Tracks Nasdaq as Crypto Faces Its First Recession]]></title>
-        <id>https://thedefiant.io/?p=52445</id>
-        <link href="https://thedefiant.io/bitcoin-stocks-correlation/"/>
-        <updated>2022-05-27T19:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has been over 90% correlated with the Nasdaq since Apr. 8.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
