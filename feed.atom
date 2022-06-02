@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T18:08:01.866Z</id>
+    <id>urn:2022-06-02T19:05:41.558Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T18:08:01.866Z</updated>
+    <updated>2022-06-02T19:05:41.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Algorand Woos LUNAtics with New Fund and Migration Tool]]></title>
+        <id>https://thedefiant.io/?p=52742</id>
+        <link href="https://thedefiant.io/algorand-woos-lunatics/"/>
+        <updated>2022-06-02T18:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Algorand is incentivizing Terra developers to migrate to its blockchain.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flurry of Metrics Show Signs of Potential Recovery for ETH]]></title>
         <id>https://thedefiant.io/?p=52716</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Despite government incentives, researchers from the University of Chicago found that only 4.9% of all sales in El Salvador are conducted in Bitcoin.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Staking Derivatives Pose ‘Significant Risks’ to Ethereum 2.0: Report LSD Protocols May Make Ethereum Vulnerable to Abuses of Power After Shift to PoS]]></title>
-        <id>https://thedefiant.io/?p=52663</id>
-        <link href="https://thedefiant.io/liquidity-staking-derivatives-risks-ethereum/"/>
-        <updated>2022-06-01T13:08:10.000Z</updated>
-        <summary type="html"><![CDATA[LSD Protocols May Make Ethereum Vulnerable to Abuses of Power After Shift to PoS]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
