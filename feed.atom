@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T00:33:02.057Z</id>
+    <id>urn:2022-06-08T02:51:17.180Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T00:33:02.057Z</updated>
+    <updated>2022-06-08T02:51:17.180Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kirobo Launches Crypto-Native Estate Planning Tool]]></title>
+        <id>https://thedefiant.io/?p=53039</id>
+        <link href="https://thedefiant.io/kirobo-crypto-will/"/>
+        <updated>2022-06-08T02:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Liquid Vaults can be used to designate up to eight wallets to inherit funds after a certain time period.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Expands Beyond Ethereum With Support For USDC On Polygon]]></title>
+        <id>https://thedefiant.io/?p=53035</id>
+        <link href="https://thedefiant.io/circle-usdc-polygon/"/>
+        <updated>2022-06-08T02:12:03.000Z</updated>
+        <summary type="html"><![CDATA[The move will enable Polygon-based businesses and developers to decrease settlement times and lower costs by accessing USDC directly.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweeping Bipartisan Bill Aims For Across-the-Board Regulation of Crypto Legislation Would Define Key Role for CFTC in Crypto Oversight]]></title>
         <id>https://thedefiant.io/?p=53009</id>
@@ -33,26 +53,6 @@
         <summary type="html"><![CDATA[A Primer on DAO Legislation in Multiple States]]></summary>
         <author>
             <name>Jordan Teague</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Short Liquidations Spike To All-Time High]]></title>
-        <id>https://thedefiant.io/?p=52967</id>
-        <link href="https://thedefiant.io/eth-shortselling-liquidations/"/>
-        <updated>2022-06-07T10:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Margin calls for ETH shorts are surging.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spurred by UST’s Collapse Tron Overcollateralizes USDD]]></title>
-        <id>https://thedefiant.io/?p=52960</id>
-        <link href="https://thedefiant.io/tron-usdd-overcollateralized/"/>
-        <updated>2022-06-07T10:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun Isn't Taking Chances With a 201% Collateralization Ratio]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
