@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T00:35:04.563Z</id>
+    <id>urn:2022-06-09T02:51:24.650Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T00:35:04.563Z</updated>
+    <updated>2022-06-09T02:51:24.650Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto-Incentivized Mobile Networks Gain Traction]]></title>
+        <id>https://thedefiant.io/?p=53130</id>
+        <link href="https://thedefiant.io/crypto-mobile-networks/"/>
+        <updated>2022-06-09T02:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Companies like Helium and Pollen seek to disrupt the telecom industry with crypto-incentivized mobile networks.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Osmosis Exploited For $5M Due To Contract Bug]]></title>
+        <id>https://thedefiant.io/?p=53127</id>
+        <link href="https://thedefiant.io/osmosis-5m-exploit/"/>
+        <updated>2022-06-09T02:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Four attackers were responsible for stealing at least 95% of the money. Two have already said they will return the money they had stolen, according to co-founder Sunny Aggarwal.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Market Maker Mishap Leads to Loss of 20M OP Tokens]]></title>
         <id>https://thedefiant.io/?p=53114</id>
@@ -33,26 +53,6 @@
         <summary type="html"><![CDATA[Data Shows $2.3B Flow Into Lido as Other Protocols Suffer Withdrawals]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Enables Crypto Withdrawals to Non-Custodial Wallets]]></title>
-        <id>https://thedefiant.io/?p=53043</id>
-        <link href="https://thedefiant.io/paypal-crypto-withdrawals/"/>
-        <updated>2022-06-08T03:05:59.000Z</updated>
-        <summary type="html"><![CDATA[In addition to allowing users to withdraw crypto assets to external wallets like MetaMask, PayPal is enabling its users to transfer digital assets between themselves.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kirobo Launches Crypto-Native Estate Planning Tool]]></title>
-        <id>https://thedefiant.io/?p=53039</id>
-        <link href="https://thedefiant.io/kirobo-crypto-will/"/>
-        <updated>2022-06-08T02:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Liquid Vaults can be used to designate up to eight wallets to inherit funds after a certain time period.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
