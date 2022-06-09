@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T23:06:24.316Z</id>
+    <id>urn:2022-06-09T00:35:04.563Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T23:06:24.316Z</updated>
+    <updated>2022-06-09T00:35:04.563Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Market Maker Mishap Leads to Loss of 20M OP Tokens]]></title>
+        <id>https://thedefiant.io/?p=53114</id>
+        <link href="https://thedefiant.io/optimism-20m-exploit/"/>
+        <updated>2022-06-09T00:32:14.000Z</updated>
+        <summary type="html"><![CDATA[20M OP tokens that were loaned to market maker Wintermute have been stolen by parties unknown.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING: Ethereum’s Ropsten Testnet Merge Is Complete]]></title>
         <id>https://thedefiant.io/?p=53098</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Liquid Vaults can be used to designate up to eight wallets to inherit funds after a certain time period.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Expands Beyond Ethereum With Support For USDC On Polygon]]></title>
-        <id>https://thedefiant.io/?p=53035</id>
-        <link href="https://thedefiant.io/circle-usdc-polygon/"/>
-        <updated>2022-06-08T02:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The move will enable Polygon-based businesses and developers to decrease settlement times and lower costs by accessing USDC directly.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
