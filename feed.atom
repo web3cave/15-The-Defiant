@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T08:08:17.163Z</id>
+    <id>urn:2022-06-10T09:05:49.693Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T08:08:17.163Z</updated>
+    <updated>2022-06-10T09:05:49.693Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IntoTheBlock: How One DeFi Protocol is Sustaining Growth in the Bear Market]]></title>
+        <id>https://thedefiant.io/?p=53257</id>
+        <link href="https://thedefiant.io/intotheblock-ribbon-finance-bear-market/"/>
+        <updated>2022-06-10T08:12:16.000Z</updated>
+        <summary type="html"><![CDATA[A Look at Ribbon Finance Shows Key Lessons on Revenue and TVL]]></summary>
+        <author>
+            <name>IntoTheBlock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Lawyers Unpack Contradictions and Challenges in Senate Mega-Bill]]></title>
         <id>https://thedefiant.io/?p=53240</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Companies like Helium and Pollen seek to disrupt the telecom industry with crypto-incentivized mobile networks.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osmosis Exploited For $5M Due To Contract Bug]]></title>
-        <id>https://thedefiant.io/?p=53127</id>
-        <link href="https://thedefiant.io/osmosis-5m-exploit/"/>
-        <updated>2022-06-09T02:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Four attackers were responsible for stealing at least 95% of the money. Two have already said they will return the money they had stolen, according to co-founder Sunny Aggarwal.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
