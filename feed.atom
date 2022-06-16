@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T09:07:05.014Z</id>
+    <id>urn:2022-06-16T10:06:18.004Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T09:07:05.014Z</updated>
+    <updated>2022-06-16T10:06:18.004Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Liquidations Spike to $480M in Last 24 Hours]]></title>
+        <id>https://thedefiant.io/?p=53545</id>
+        <link href="https://thedefiant.io/liquidations-crypto-bear-market/"/>
+        <updated>2022-06-16T10:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Margins Calls Piling Up as Three Arrows and Celsius Wobble]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bear Market Survival Guide: The Metrics You Need to Know in a Tough Market]]></title>
         <id>https://thedefiant.io/?p=53535</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[NFT Roundup: Traders Look to Offload JPEGs in a Wild Week]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea To Slash Gas Fees by a Third With Shift to Seaport Protocol]]></title>
-        <id>https://thedefiant.io/?p=53491</id>
-        <link href="https://thedefiant.io/opensea-seaport-migration/"/>
-        <updated>2022-06-15T09:53:32.000Z</updated>
-        <summary type="html"><![CDATA[NFT Marketplace to Let Bidders Seek Whole Collections]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
