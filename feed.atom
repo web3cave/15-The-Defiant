@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T15:04:26.754Z</id>
+    <id>urn:2022-06-19T16:06:37.100Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-19T15:04:26.754Z</updated>
+    <updated>2022-06-19T16:06:37.100Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inbox Dump]]></title>
+        <id>https://thedefiant.io/?p=53630</id>
+        <link href="https://thedefiant.io/inbox-dump-2/"/>
+        <updated>2022-06-19T15:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood our DMs each week and didn’t make it to The Defiant’s content platforms. Sometimes announcements here didn’t meet the bar to become a news story, sometimes they may have slipped through the cracks, or they came late and we haven’t had a chance to cover. At The …
+  Inbox Dump Read More »]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha: Using Uniswap V3 To Dollar-Cost Average + Single-Sided LPs on Bancor V3]]></title>
         <id>https://thedefiant.io/?p=53627</id>
@@ -44,16 +55,6 @@
         <summary type="html"><![CDATA[Frax is the world’s first fractional-algorithmic stablecoin. The Frax Protocol introduced the world to the concept of a cryptocurrency being partially backed by collateral and partially stabilized algorithmically.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Fund Starry Night Goes Dark on SuperRare]]></title>
-        <id>https://thedefiant.io/?p=53585</id>
-        <link href="https://thedefiant.io/starry-night-goes-dark/"/>
-        <updated>2022-06-16T22:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Speculation is mounting that Starry Night Capital, an NFT fund backed by 3AC, may be looking to raise funds through a sale of its collection.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
