@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T20:06:36.840Z</id>
+    <id>urn:2022-06-20T21:06:46.893Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-20T20:06:36.840Z</updated>
+    <updated>2022-06-20T21:06:46.894Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Tops Ethereum in Terms of Daily Fees]]></title>
+        <id>https://thedefiant.io/?p=53653</id>
+        <link href="https://thedefiant.io/uniswap-fees-top-ethereum/"/>
+        <updated>2022-06-20T20:34:58.000Z</updated>
+        <summary type="html"><![CDATA[With $4.3M in fees generated in the past 24 hours, Uniswap has surpassed its home network, Ethereum, as of June 20.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakerDAO Token Holders Vote to Add Rocket Pool’s rETH as Collateral to Back DAI ￼ The next and final step is a so-called “executive vote.”]]></title>
         <id>https://thedefiant.io/?p=53647</id>
@@ -45,16 +55,6 @@
   DeFi Alpha: Using Uniswap V3 To Dollar-Cost Average + Single-Sided LPs on Bancor V3 Read More »]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Traders Targeting 3Pool Poleaxed Terra: Report Chainalysis Finds 150M UST Withdrawal from Curve Pool Triggered Chain Reaction]]></title>
-        <id>https://thedefiant.io/?p=53598</id>
-        <link href="https://thedefiant.io/two-traders-targeting-3pool-poleaxed-terra-report/"/>
-        <updated>2022-06-17T09:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Chainalysis Finds 150M UST Withdrawal from Curve Pool Triggered Chain Reaction]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
