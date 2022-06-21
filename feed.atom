@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-21T16:10:02.623Z</id>
+    <id>urn:2022-06-21T17:21:04.949Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-21T16:10:02.623Z</updated>
+    <updated>2022-06-21T17:21:04.949Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bancor Suspends Impermanent Loss Protection in ‘Hostile Market’  One of the First DeFi Platforms Takes Fire from DeFi Community]]></title>
+        <id>https://thedefiant.io/?p=53735</id>
+        <link href="https://thedefiant.io/bancor-suspends-impermanent-loss-protection-in-hostile-market/"/>
+        <updated>2022-06-21T17:07:48.000Z</updated>
+        <summary type="html"><![CDATA[One of the First DeFi Platforms Takes Fire from DeFi Community]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solend to Not Freeze Whale’s $216M Account After Move Decried as ‘Opposite of DeFi’ The Money Market dApp on Solana is Anxious About Liquidation Exposure]]></title>
         <id>https://thedefiant.io/?p=53718</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[With $4.3M in fees generated in the past 24 hours, Uniswap has surpassed its home network, Ethereum, as of June 20.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Token Holders Vote to Add Rocket Pool’s rETH as Collateral to Back DAI The next and final step is a so-called “executive vote.”]]></title>
-        <id>https://thedefiant.io/?p=53647</id>
-        <link href="https://thedefiant.io/makerdao-adda-reth/"/>
-        <updated>2022-06-20T19:14:47.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO, the largest DeFi lender by total value locked, could soon allow another Ether derivative as collateral on its network.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
