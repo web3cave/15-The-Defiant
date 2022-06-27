@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T20:06:32.023Z</id>
+    <id>urn:2022-06-27T21:05:13.483Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-27T20:06:32.023Z</updated>
+    <updated>2022-06-27T21:05:13.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers Were All About NFTs at ETHNY The top five finalists for ETHNewYork were all NFT-focused projects.]]></title>
+        <id>https://thedefiant.io/?p=54078</id>
+        <link href="https://thedefiant.io/ethny-hackathon-winner/"/>
+        <updated>2022-06-27T20:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum developers are all about NFTs now, at least if the latest ETHNewYork is a good indication.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creditor Says Three Arrows Defaults on $700M Loan]]></title>
         <id>https://thedefiant.io/?p=54067</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[NFT NYC is over. In this video we review the highlights of the week.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Adds Support for Polygon and Solana Simplifying Access to Web3 The move will simplify sending assets across networks]]></title>
-        <id>https://thedefiant.io/?p=54009</id>
-        <link href="https://thedefiant.io/coinbase-adds-polygon/"/>
-        <updated>2022-06-25T02:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase, the largest crypto exchange in the U.S., has enabled transfers on Ethereum competitor Solana and on scaling solution Polygon.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
