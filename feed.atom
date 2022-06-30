@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T09:06:11.919Z</id>
+    <id>urn:2022-06-30T10:07:52.069Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-30T09:06:11.919Z</updated>
+    <updated>2022-06-30T10:07:52.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea’s Lazarus Group Linked to $100M Harmony Bridge Hack]]></title>
+        <id>https://thedefiant.io/?p=54232</id>
+        <link href="https://thedefiant.io/harmony-hack-lazarus/"/>
+        <updated>2022-06-30T09:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Cross-Chain Bridges Prime Targets for Exploits]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Allaying Regulators’ Concerns about MEV is Doable and Necessary Block Validators and Block Builders To Play Key Role After The Merge]]></title>
         <id>https://thedefiant.io/?p=54189</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Data Shows TradFi Remains the Channel of Choice for Dirty Money]]></summary>
         <author>
             <name>Alex Shipp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism’s TVL Doubles as Trading Activity Surges on Layer 2s]]></title>
-        <id>https://thedefiant.io/?p=54166</id>
-        <link href="https://thedefiant.io/optimism-layer-2s-surge/"/>
-        <updated>2022-06-29T11:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Loopring and Boba Network Shed Nearly $2B in TVL]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
