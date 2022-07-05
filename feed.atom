@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T12:10:56.313Z</id>
+    <id>urn:2022-07-05T13:34:30.244Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-05T12:10:56.313Z</updated>
+    <updated>2022-07-05T13:34:30.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SushiSwap Votes to Let Traders Offset Carbon Emissions]]></title>
+        <id>https://thedefiant.io/?p=54381</id>
+        <link href="https://thedefiant.io/sushiswap-carbon-offsets/"/>
+        <updated>2022-07-05T13:08:32.000Z</updated>
+        <summary type="html"><![CDATA[DEX Joins Forces with Polygon and KlimaDAO in Climate Change Move]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Survivors of 2018-20 Crypto Winter Show the Way Through New Bear Market]]></title>
         <id>https://thedefiant.io/?p=54371</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Look at this as the starting point to DYOR.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon and Fantom Services Restored After Phishing Attack]]></title>
-        <id>https://thedefiant.io/?p=54332</id>
-        <link href="https://thedefiant.io/polygon-fantom-phishing-attack/"/>
-        <updated>2022-07-01T20:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain networks Polygon and Fantom suffered a DNS attack Friday that directed users to malicious websites created to steal the keys to their digital wallets.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
