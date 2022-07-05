@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T23:05:00.853Z</id>
+    <id>urn:2022-07-05T00:34:08.484Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T23:05:00.853Z</updated>
+    <updated>2022-07-05T00:34:08.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3AC Liquidation, Celsius Layoffs, Voyager Freezes but BlockFi Strikes a Deal]]></title>
+        <id>https://thedefiant.io/?p=54366</id>
+        <link href="https://thedefiant.io/3ac-liquidation-celsius-layoffs-voyager-freezes-but-blockfi-strikes-a-deal/"/>
+        <updated>2022-07-05T00:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Is it over? Is this the future? Sadly, the answer, is no. The catastrophic fallout of the UST collapse continues as Voyager, Celsius, BlockFi, 3AC and SBF dominated headlines once again last week. All the latest from this opera of rektitude.]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Difficulty Bomb Delayed to Mid-September]]></title>
         <id>https://thedefiant.io/?p=54361</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Voyager, a crypto broker, has suspended withdrawals, trading, deposits and loyalty rewards from its app following Three Arrows Capital’s default on its loan.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Reaches Deal to Acquire BlockFi for Up to $240M as CeFi Lenders Buckle Under Market Pressure]]></title>
-        <id>https://thedefiant.io/?p=54324</id>
-        <link href="https://thedefiant.io/ftx-agrees-to-buy-blockfi/"/>
-        <updated>2022-07-01T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[FTX, the second-biggest cryptocurrency exchange by trading volume, has signed an option to purchase crypto lender BlockFi for as much as $240M, BlockFi CEO Zac Prince said Friday.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
