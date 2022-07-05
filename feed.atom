@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T13:34:30.244Z</id>
+    <id>urn:2022-07-05T14:12:05.630Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-05T13:34:30.244Z</updated>
+    <updated>2022-07-05T14:12:05.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Members Vote On $100M DAI Vault for Bank]]></title>
+        <id>https://thedefiant.io/?p=54387</id>
+        <link href="https://thedefiant.io/makerdao-dai-traditional-bank/"/>
+        <updated>2022-07-05T13:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Proposal Would Advance Push into Real World Assets]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SushiSwap Votes to Let Traders Offset Carbon Emissions]]></title>
         <id>https://thedefiant.io/?p=54381</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Merge is set to be delayed by at least three months.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inbox Dump]]></title>
-        <id>https://thedefiant.io/?p=54348</id>
-        <link href="https://thedefiant.io/inbox-dump-3/"/>
-        <updated>2022-07-03T15:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Look at this as the starting point to DYOR.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
