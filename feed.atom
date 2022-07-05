@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T11:06:02.865Z</id>
+    <id>urn:2022-07-05T12:10:56.313Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-05T11:06:02.865Z</updated>
+    <updated>2022-07-05T12:10:56.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Survivors of 2018-20 Crypto Winter Show the Way Through New Bear Market]]></title>
+        <id>https://thedefiant.io/?p=54371</id>
+        <link href="https://thedefiant.io/bear-market-survival-guide/"/>
+        <updated>2022-07-05T12:07:00.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO, Uniswap and OpenSea Weathered the Last Downturn]]></summary>
+        <author>
+            <name>Claire Gu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3AC Liquidation, Celsius Layoffs, Voyager Freezes but BlockFi Strikes a Deal]]></title>
         <id>https://thedefiant.io/?p=54366</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Blockchain networks Polygon and Fantom suffered a DNS attack Friday that directed users to malicious websites created to steal the keys to their digital wallets.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Broker Voyager Suspends Withdrawals and Trading After 3AC’s Loan Default]]></title>
-        <id>https://thedefiant.io/?p=54328</id>
-        <link href="https://thedefiant.io/voyager-halts-withdrawals/"/>
-        <updated>2022-07-01T20:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Voyager, a crypto broker, has suspended withdrawals, trading, deposits and loyalty rewards from its app following Three Arrows Capital’s default on its loan.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
