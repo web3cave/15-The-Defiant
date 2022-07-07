@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T20:07:06.768Z</id>
+    <id>urn:2022-07-07T21:04:00.144Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T20:07:06.768Z</updated>
+    <updated>2022-07-07T21:04:00.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celsius Pays Off MakerDAO Debt, Moves $500M of Bitcoin to FTX]]></title>
+        <id>https://thedefiant.io/?p=54522</id>
+        <link href="https://thedefiant.io/celsius-repays-maker-loan/"/>
+        <updated>2022-07-07T20:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Celsius has repaid its DAI loan on MakerDAO and withdrawn its WBTC collateral.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Industry Insiders Weigh In On dYdX’s Planned AppChain]]></title>
         <id>https://thedefiant.io/?p=54509</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[CeFi Bank Scrambling to Reduce Exposure After Suspending Withdrawals]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Closes In On Proof-of-Stake After Sepolia Testnet Merge The Sepolia testnet activated PoS consensus on Wednesday at block number 1,450,409.]]></title>
-        <id>https://thedefiant.io/?p=54464</id>
-        <link href="https://thedefiant.io/eth-merge-sepolia/"/>
-        <updated>2022-07-06T19:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Sepolia is the second of three testnets to merge their proof-of-work (PoW) execution layers with their PoS consensus layers before the upgrade can take effect on Ethereum’s mainnet.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
