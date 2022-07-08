@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T03:03:17.723Z</id>
+    <id>urn:2022-07-08T04:28:17.670Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T03:03:17.723Z</updated>
+    <updated>2022-07-08T04:28:17.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Proposes GHO Stablecoin]]></title>
+        <id>https://thedefiant.io/?p=54525</id>
+        <link href="https://thedefiant.io/aave-gho-stablecoin/"/>
+        <updated>2022-07-08T04:17:35.000Z</updated>
+        <summary type="html"><![CDATA[The GHO stablecoin would be minted by borrowing against assets locked as collateral on Aave.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celsius Pays Off MakerDAO Debt, Moves $500M of Bitcoin to FTX]]></title>
         <id>https://thedefiant.io/?p=54522</id>
@@ -41,16 +51,6 @@
         <link href="https://thedefiant.io/makerdao-members-vote-on-issuing-30m-loan-to-societe-generale/"/>
         <updated>2022-07-07T13:14:34.000Z</updated>
         <summary type="html"><![CDATA[MakerDAO Embrace of Real World Assets Poised for Big Step]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celsius Pays Down 183M DAI in Debt to Stave Off Liquidation]]></title>
-        <id>https://thedefiant.io/?p=54474</id>
-        <link href="https://thedefiant.io/celsius-paying-down-debt/"/>
-        <updated>2022-07-07T12:39:19.000Z</updated>
-        <summary type="html"><![CDATA[CeFi Bank Scrambling to Reduce Exposure After Suspending Withdrawals]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
