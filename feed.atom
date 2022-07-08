@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T22:04:58.237Z</id>
+    <id>urn:2022-07-08T23:06:31.204Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T22:04:58.237Z</updated>
+    <updated>2022-07-08T23:06:31.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aztec Launches Private DeFi Platform on Ethereum]]></title>
+        <id>https://thedefiant.io/?p=54570</id>
+        <link href="https://thedefiant.io/aztec-private-defi/"/>
+        <updated>2022-07-08T22:15:49.000Z</updated>
+        <summary type="html"><![CDATA[With Aztec’s zk.money DeFi aggregator, DeFi apps like Lido and Curve can be used privately.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celsius Partner Details Inner Workings of ‘Ponzi Scheme’ in Lawsuit Asset Manager Claims Celsius Engaged in 'Gross Mismanagement' of Deposits]]></title>
         <id>https://thedefiant.io/?p=54550</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The GHO stablecoin would be minted by borrowing against assets locked as collateral on Aave.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celsius Pays Off MakerDAO Debt, Moves $500M of Bitcoin to FTX]]></title>
-        <id>https://thedefiant.io/?p=54522</id>
-        <link href="https://thedefiant.io/celsius-repays-maker-loan/"/>
-        <updated>2022-07-07T20:09:43.000Z</updated>
-        <summary type="html"><![CDATA[Celsius has repaid its DAI loan on MakerDAO and withdrawn its WBTC collateral.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
