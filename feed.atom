@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-12T21:05:12.311Z</id>
+    <id>urn:2022-07-12T22:05:41.675Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-12T21:05:12.311Z</updated>
+    <updated>2022-07-12T22:05:41.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Three Arrows’ Su Zhu Breaks Silence Accusing Liquidators of Playing Dirty]]></title>
+        <id>https://thedefiant.io/?p=54666</id>
+        <link href="https://thedefiant.io/zhu-3ac-starkware/"/>
+        <updated>2022-07-12T21:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Su Zhu alleges liquidators failed to claim StarkWare tokens before a July 5 deadline.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WZRDS Project Punishes Flippers By Burning Listed NFTS]]></title>
         <id>https://thedefiant.io/?p=54663</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Crypto Lender Races to Pay Down Debt and Stabilize its Balance Sheet]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying a DeFi Defense in a Bear Market How to Use Simulations, Benchmarks and other Methods to Weather the Selloff]]></title>
-        <id>https://thedefiant.io/?p=54603</id>
-        <link href="https://thedefiant.io/defi-defense-bear-market/"/>
-        <updated>2022-07-12T08:16:27.000Z</updated>
-        <summary type="html"><![CDATA[How to Use Simulations, Benchmarks and other Methods to Weather the Selloff]]></summary>
-        <author>
-            <name>Jordan Kruger</name>
         </author>
     </entry>
 </feed>
