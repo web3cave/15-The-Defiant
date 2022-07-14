@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T20:07:42.509Z</id>
+    <id>urn:2022-07-14T21:06:50.699Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-14T20:07:42.509Z</updated>
+    <updated>2022-07-14T21:06:50.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Still On Track For Mid-September Merge]]></title>
+        <id>https://thedefiant.io/?p=54808</id>
+        <link href="https://thedefiant.io/ethereum-merge-september/"/>
+        <updated>2022-07-14T20:41:40.000Z</updated>
+        <summary type="html"><![CDATA[The Merge is planned for September 19, according to the latest roadmap from Ethereum developers.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multicoin Raises New $430M Web3 Fund]]></title>
         <id>https://thedefiant.io/?p=54797</id>
@@ -44,16 +54,6 @@
         <summary type="html"><![CDATA[Celsius, the crypto lender that last month halted withdrawals, has filed for Chapter 11 bankruptcy protection, the company said in a press release. User withdrawals will remain halted.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkNet Testers Fume After Token Announcement]]></title>
-        <id>https://thedefiant.io/?p=54713</id>
-        <link href="https://thedefiant.io/starkware-token/"/>
-        <updated>2022-07-13T21:34:32.000Z</updated>
-        <summary type="html"><![CDATA[StarkWare plans to launch its native token in September.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
