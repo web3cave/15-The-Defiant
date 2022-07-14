@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T10:08:04.668Z</id>
+    <id>urn:2022-07-14T11:06:35.500Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-14T10:08:04.668Z</updated>
+    <updated>2022-07-14T11:06:35.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Ethereum?]]></title>
+        <id>https://thedefiant.io/?p=54753</id>
+        <link href="https://thedefiant.io/what-is-ethereum/"/>
+        <updated>2022-07-14T11:01:52.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Primer on Ethereum's Blockchain, Gas Fees, Scalability and dApps]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Lender Celsius Files for Bankruptcy Protection User withdrawals will remain halted.]]></title>
         <id>https://thedefiant.io/?p=54716</id>
@@ -43,17 +53,6 @@
         <summary type="html"><![CDATA[A Guide to the Blockchain Trilemma and Scalability]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Euro crashes as CPI data casts a shadow]]></title>
-        <id>https://thedefiant.io/?p=54729</id>
-        <link href="https://thedefiant.io/the-euro-crashes-as-cpi-data-casts-a-shadow/"/>
-        <updated>2022-07-13T04:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The euro was last worth the same as the dollar in December 2002, shortly after the currency was established. 19 European countries use the Euro and that’s a lot of GDP to make a mess of. And of course we’re looking to the Fed’s interest rate hikes which have made the dollar dollar bill a …
-  The Euro crashes as CPI data casts a shadow Read More »]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
