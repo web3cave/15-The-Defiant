@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T21:06:40.086Z</id>
+    <id>urn:2022-07-19T22:06:29.021Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-19T21:06:40.086Z</updated>
+    <updated>2022-07-19T22:06:29.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Weighs In On ‘Network States’]]></title>
+        <id>https://thedefiant.io/?p=55067</id>
+        <link href="https://thedefiant.io/vitalik-balaji-network-states/"/>
+        <updated>2022-07-19T21:51:40.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum founder shares his thoughts on Balaji Srinivasan's recently released book 'Network State'.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Token Standard Lowers Costs for NFT Creation]]></title>
         <id>https://thedefiant.io/?p=55020</id>
@@ -44,16 +54,6 @@
         <summary type="html"><![CDATA[UNI, MKR and AAVE have outperformed Bitcoin and Ether in the past three months.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankrupt Celsius’ CEL Token Is Up 30% Since Halting Withdrawals]]></title>
-        <id>https://thedefiant.io/?p=54978</id>
-        <link href="https://thedefiant.io/celsius-cel-up-since-crisis/"/>
-        <updated>2022-07-18T20:38:52.000Z</updated>
-        <summary type="html"><![CDATA[A lack of liquid supply could explain the CEL price action.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
