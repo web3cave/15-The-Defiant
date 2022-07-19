@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T08:08:52.506Z</id>
+    <id>urn:2022-07-19T09:16:48.857Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-19T08:08:52.506Z</updated>
+    <updated>2022-07-19T09:16:48.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Token Standard Lowers Costs for NFT Creation]]></title>
+        <id>https://thedefiant.io/?p=55020</id>
+        <link href="https://thedefiant.io/nfts-erc721i-standard/"/>
+        <updated>2022-07-19T08:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Charged Particles Project Unveils ERC72i to Let Creators 'Pre-mint' NFTs]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Center Will Not Hold: How Decentralization is Reshaping Technology and Governance Part One: A Convergence of Forces Disrupts the Logic of Centralization]]></title>
         <id>https://thedefiant.io/?p=54737</id>
@@ -27,7 +37,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi Stalwarts Buck Bear Market]]></title>
+        <title type="html"><![CDATA[DeFi Stalwarts Buck Bear Market Aave, Uniswap and MakerDAO Outperforming Bitcoin and Ether]]></title>
         <id>https://thedefiant.io/?p=54990</id>
         <link href="https://thedefiant.io/defi-stalwarts-outperform/"/>
         <updated>2022-07-19T01:34:46.000Z</updated>
@@ -44,16 +54,6 @@
         <summary type="html"><![CDATA[A lack of liquid supply could explain the CEL price action.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido To Expand stETH To Layer 2 Networks]]></title>
-        <id>https://thedefiant.io/?p=54967</id>
-        <link href="https://thedefiant.io/lido-steth-layer2/"/>
-        <updated>2022-07-18T20:22:18.000Z</updated>
-        <summary type="html"><![CDATA[The staked ETH derivative will be launched on Arbitrum and Optimism.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
