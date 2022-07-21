@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T19:06:36.881Z</id>
+    <id>urn:2022-07-21T20:07:08.490Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T19:06:36.881Z</updated>
+    <updated>2022-07-21T20:07:08.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Coinbase Employee Charged In First Crypto Insider Trading Case]]></title>
+        <id>https://thedefiant.io/?p=55300</id>
+        <link href="https://thedefiant.io/coinbase-insider-trading/"/>
+        <updated>2022-07-21T19:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Former Coinbase product manager Ishan Wahi and two associates have been charged for allegedly front-running token listings.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Finance Has a Stablecoin in the Works]]></title>
         <id>https://thedefiant.io/?p=55293</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[SLP Has Lost 98% of its Value as Axie Races to Overhaul Gameplay]]></summary>
         <author>
             <name>Claire Gu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposal To Turn On Uniswap ‘Fee Switch’ Gains Early Support]]></title>
-        <id>https://thedefiant.io/?p=55202</id>
-        <link href="https://thedefiant.io/uniswap-fee-switch/"/>
-        <updated>2022-07-21T04:54:33.000Z</updated>
-        <summary type="html"><![CDATA[An initial vote to monetize the Uniswap protocol has garnered near-unanimous support.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
