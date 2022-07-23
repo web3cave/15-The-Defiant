@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T00:35:58.257Z</id>
+    <id>urn:2022-07-23T02:59:31.438Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-23T00:35:58.257Z</updated>
+    <updated>2022-07-23T02:59:31.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Will Integrate Sudoswap To Access Deeper NFT Liquidity]]></title>
+        <id>https://thedefiant.io/?p=55406</id>
+        <link href="https://thedefiant.io/uniswap-integrates-sudoswap/"/>
+        <updated>2022-07-23T01:27:31.000Z</updated>
+        <summary type="html"><![CDATA[The integration will allow users to purchase NFTs using the Uniswap platform while accessing the on-chain liquidity offered by sudoAMM.]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With The Merge on the Verge Buterin Previews The Surge Ethereum's Chief Scientist Says Network Will Be Halfway Complete After Shift to PoS]]></title>
         <id>https://thedefiant.io/?p=55389</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Stablecoin Yields Mirror Speculative and Deleveraging Cycles]]></summary>
         <author>
             <name>IntoTheBlock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether On Exchanges Plummets To 4-Year Low Ahead Of The Merge]]></title>
-        <id>https://thedefiant.io/?p=55306</id>
-        <link href="https://thedefiant.io/eth-exchanges-4-year-low/"/>
-        <updated>2022-07-22T01:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Ether held on exchanges has dropped 40% in the past year to 19M ETH.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
