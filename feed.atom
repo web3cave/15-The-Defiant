@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T04:20:17.843Z</id>
+    <id>urn:2022-07-23T05:10:02.962Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-23T04:20:17.843Z</updated>
+    <updated>2022-07-23T05:10:02.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bancor TVL Down 30% Since Suspending IL Protection]]></title>
+        <id>https://thedefiant.io/?p=55416</id>
+        <link href="https://thedefiant.io/bancor-tvl-down-30/"/>
+        <updated>2022-07-23T04:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Users seem to have pulled assets out of Bancor since it suspended impermanent loss protection a month ago.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Will Integrate Sudoswap To Access Deeper NFT Liquidity]]></title>
         <id>https://thedefiant.io/?p=55406</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[A $150,000 Blunder and Revealed Oddities Round Out Another Busy Week in NFTs]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IntoTheBlock: Stablecoin Yields Reveal the Inner Workings of DeFi Stablecoin Yields Mirror Speculative and Deleveraging Cycles]]></title>
-        <id>https://thedefiant.io/?p=55266</id>
-        <link href="https://thedefiant.io/intotheblock-stablecoin-yields-reveal-the-inner-workings-of-defi/"/>
-        <updated>2022-07-22T05:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Stablecoin Yields Mirror Speculative and Deleveraging Cycles]]></summary>
-        <author>
-            <name>IntoTheBlock</name>
         </author>
     </entry>
 </feed>
