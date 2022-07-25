@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T07:06:42.086Z</id>
+    <id>urn:2022-07-25T08:09:30.207Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-25T07:06:42.086Z</updated>
+    <updated>2022-07-25T08:09:30.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Staking?]]></title>
+        <id>https://thedefiant.io/?p=55623</id>
+        <link href="https://thedefiant.io/what-is-staking/"/>
+        <updated>2022-07-25T07:59:07.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to Using Tokens to Maintain Blockchains]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Whales Clash Over Contentious Token Sale]]></title>
         <id>https://thedefiant.io/?p=55601</id>
@@ -36,23 +46,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap Will Integrate Sudoswap To Access Deeper NFT Liquidity]]></title>
+        <title type="html"><![CDATA[Uniswap To Integrate Sudoswap To Access Deeper NFT Liquidity]]></title>
         <id>https://thedefiant.io/?p=55406</id>
         <link href="https://thedefiant.io/uniswap-integrates-sudoswap/"/>
         <updated>2022-07-23T01:27:31.000Z</updated>
         <summary type="html"><![CDATA[The integration will allow users to purchase NFTs using the Uniswap platform while accessing the on-chain liquidity offered by sudoAMM.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With The Merge on the Verge Buterin Previews The Surge Ethereum's Chief Scientist Says Network Will Be Halfway Complete After Shift to PoS]]></title>
-        <id>https://thedefiant.io/?p=55389</id>
-        <link href="https://thedefiant.io/with-the-merge-on-the-verge-buterin-previews-the-surge/"/>
-        <updated>2022-07-22T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's Chief Scientist Says Network Will Be Halfway Complete After Shift to PoS]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
