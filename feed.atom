@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T00:38:14.301Z</id>
+    <id>urn:2022-07-26T03:22:16.611Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-26T00:38:14.301Z</updated>
+    <updated>2022-07-26T03:22:16.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[zxEVM- Who’s Announced What and WTF is it?]]></title>
+        <id>https://thedefiant.io/?p=57788</id>
+        <link href="https://thedefiant.io/zxevm-whos-announced-what-and-wtf-is-it/"/>
+        <updated>2022-07-26T01:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Three projects announced zkEVM updates, Polygon, Scroll and zkSYNC last week. L2 rollups designed to ease the burden on Ethereum using zkProofs. The EVM stands for Ethereum Virtual Machine. In this case representing equivalence or compatibility although the two are not the same thing. Yes, it’s L2 Summer! 2022 is the year of L2 summer! …
+  zxEVM- Who’s Announced What and WTF is it? Read More »]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Voyager Rejection of FTX Buyout Leaves Investors Searching for Answers Stricken Platform and Bankman-Fried Jockey for Advantage as Bankruptcy Unfolds]]></title>
         <id>https://thedefiant.io/?p=55638</id>
@@ -43,16 +54,6 @@
         <summary type="html"><![CDATA[Anticipation isn’t an easy thing to measure in the markets.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bancor TVL Drops 30% After Suspending Protection from Impermanent Loss]]></title>
-        <id>https://thedefiant.io/?p=55416</id>
-        <link href="https://thedefiant.io/bancor-tvl-down-30/"/>
-        <updated>2022-07-23T04:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Users seem to have pulled assets out of Bancor since it suspended impermanent loss protection a month ago.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
