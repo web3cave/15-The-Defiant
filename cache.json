@@ -1,4 +1,62 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "The Defiant",
+      "feedUrl": "https://thedefiant.io/feed/",
+      "siteUrl": "https://thedefiant.io/",
+      "articles": [
+        {
+          "id": "https://thedefiant.io/?p=57973",
+          "author": "Samuel Haig",
+          "description": "Ethereum's Shadow Fork Trials are Driving Anticipation for The Merge",
+          "link": "https://thedefiant.io/the-merge-shadow-fork-pass-test/",
+          "publishedOn": "2022-07-28T10:40:34.000Z",
+          "wordCount": 3240,
+          "title": "The Merge Draws Ever Closer as Ethereum Passes Another Critical Test",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/28062804/ethupdate.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/?p=57848",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to One of the Most Used Practices in DeFi",
+          "link": "https://thedefiant.io/what-is-liquidity-providing/",
+          "publishedOn": "2022-07-28T08:49:00.000Z",
+          "wordCount": 4234,
+          "title": "What Is Liquidity Providing?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/28045331/WhatIsLiquidityProviding.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/?p=57944",
+          "author": "Owen Fernau",
+          "description": "Users can subscribe to a Mirror publication with their crypto wallet and forward posts to their email.",
+          "link": "https://thedefiant.io/mirror-web3-subscriptions/",
+          "publishedOn": "2022-07-28T02:02:20.000Z",
+          "wordCount": 2428,
+          "title": "Web3 Publisher Takes a Page from TradFi with Subscription Model",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/27215911/MirrorL2.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/?p=57939",
+          "author": "Aleksandar Gilbert",
+          "description": "Global markets are rallying after the US central bank raised interest rates by 75 basis points in a widely expected move.",
+          "link": "https://thedefiant.io/markets-rally-fed-hike/",
+          "publishedOn": "2022-07-28T01:38:18.000Z",
+          "wordCount": 2495,
+          "title": "Ethereum Pops 10% as Fed Signals Rate Hikes Are Working Markets Rally Despite Another Rate Hike of 0.75%",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/27213605/FedRateHikeSparksCryptoRally.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/?p=57854",
+          "author": "David Liebowitz",
+          "description": "DeFi Dave Muses on Crucial Questions Confronting DeFi",
+          "link": "https://thedefiant.io/ethcc-defi/",
+          "publishedOn": "2022-07-27T18:29:14.000Z",
+          "wordCount": 3506,
+          "title": "EthCC Journal: Exploring the Network State and a Decentralized Future",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/27154757/ETHCCDive.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
