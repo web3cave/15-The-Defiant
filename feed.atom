@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T03:14:26.188Z</id>
+    <id>urn:2022-07-29T04:37:49.357Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-29T03:14:26.188Z</updated>
+    <updated>2022-07-29T04:37:49.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘The One, True DAI’ — MakerDAO Readies Teleport Feature With ‘Canonical DAI’ At Its Core]]></title>
+        <id>https://thedefiant.io/?p=58003</id>
+        <link href="https://thedefiant.io/makerdao-canonical-dai/"/>
+        <updated>2022-07-29T04:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Maker Teleport will make it possible to instantaneously move DAI directly between select Layer 2 networks.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Bridge to Chain, Synapse Announces Own Rollup]]></title>
+        <id>https://thedefiant.io/?p=57995</id>
+        <link href="https://thedefiant.io/synapse-crosschain-rollup/"/>
+        <updated>2022-07-29T04:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Synapse plans to launch an optimistic rollup network that will serve as an execution layer for smart contract-enabled transactions]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Merge Draws Ever Closer as Ethereum Passes Another Critical Test]]></title>
         <id>https://thedefiant.io/?p=57973</id>
@@ -33,26 +53,6 @@
         <summary type="html"><![CDATA[Users can subscribe to a Mirror publication with their crypto wallet and forward posts to their email.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Pops 10% as Fed Signals Rate Hikes Are Working Markets Rally Despite Another Rate Hike of 0.75%]]></title>
-        <id>https://thedefiant.io/?p=57939</id>
-        <link href="https://thedefiant.io/markets-rally-fed-hike/"/>
-        <updated>2022-07-28T01:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Global markets are rallying after the US central bank raised interest rates by 75 basis points in a widely expected move.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EthCC Journal: Exploring the Network State and a Decentralized Future]]></title>
-        <id>https://thedefiant.io/?p=57854</id>
-        <link href="https://thedefiant.io/ethcc-defi/"/>
-        <updated>2022-07-27T18:29:14.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Dave Muses on Crucial Questions Confronting DeFi]]></summary>
-        <author>
-            <name>David Liebowitz</name>
         </author>
     </entry>
 </feed>
