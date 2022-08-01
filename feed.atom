@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T07:13:09.594Z</id>
+    <id>urn:2022-08-01T08:09:05.399Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T07:13:09.594Z</updated>
+    <updated>2022-08-01T08:09:05.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ben Mauro Spent 10 Years Bringing Huxley to Life. Worth It. (With Steven Ilous -Feature)]]></title>
+        <id>https://thedefiant.io/?p=58090</id>
+        <link href="https://thedefiant.io/ben-mauro-spent-10-years-bringing-huxley-to-life-worth-it-with-steven-ilous-feature/"/>
+        <updated>2022-07-29T07:21:00.000Z</updated>
+        <summary type="html"><![CDATA[“HUXLEY™ is a post apocalyptic story about two scavengers who find an ancient robot and get swept up on an adventure that could change the fate of the galaxy as they know it.”]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Yuga Labs to Collect 5% Royalty On Meebits]]></title>
         <id>https://thedefiant.io/?p=58022</id>
         <link href="https://thedefiant.io/nft-roundup-meebits-yuga-labs/"/>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Maker Teleport will make it possible to instantaneously move DAI directly between select Layer 2 networks.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synapse to Roll Out Blockchain as Part of Major Upgrade]]></title>
-        <id>https://thedefiant.io/?p=57995</id>
-        <link href="https://thedefiant.io/synapse-crosschain-rollup/"/>
-        <updated>2022-07-29T04:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Synapse plans to launch an optimistic rollup network that will serve as an execution layer for smart contract-enabled transactions]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
