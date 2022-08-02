@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T23:07:18.504Z</id>
+    <id>urn:2022-08-02T00:39:27.084Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T23:07:18.504Z</updated>
+    <updated>2022-08-02T00:39:27.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nomad Bridge Hacked With $45M Stolen]]></title>
+        <id>https://thedefiant.io/?p=58120</id>
+        <link href="https://thedefiant.io/nomad-bridge-exploit/"/>
+        <updated>2022-08-01T23:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The Nomad bridge is being exploited, with $45M in digital assets stolen so far.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CryptoPunk Holders Unfazed By Meebits’ Move To Add Royalties]]></title>
         <id>https://thedefiant.io/?p=58113</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Tempting to Believe a Shift is Under Way But Economy Clouds the Picture]]></summary>
         <author>
             <name>Claire Gu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Mauro Spent 10 Years Bringing Huxley to Life. Worth It. (With Steven Ilous -Feature)]]></title>
-        <id>https://thedefiant.io/?p=58090</id>
-        <link href="https://thedefiant.io/ben-mauro-spent-10-years-bringing-huxley-to-life-worth-it-with-steven-ilous-feature/"/>
-        <updated>2022-07-29T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[“HUXLEY™ is a post apocalyptic story about two scavengers who find an ancient robot and get swept up on an adventure that could change the fate of the galaxy as they know it.”]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
