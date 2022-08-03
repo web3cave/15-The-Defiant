@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T08:08:26.194Z</id>
+    <id>urn:2022-08-03T09:06:10.637Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T08:08:26.194Z</updated>
+    <updated>2022-08-03T09:06:10.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[BREAKING: Wallets Drained In Ongoing Solana Breach]]></title>
+        <title type="html"><![CDATA[Nomad ‘Crowd-Looting’ Triggers Exodus From Other Blockchains]]></title>
+        <id>https://thedefiant.io/?p=58171</id>
+        <link href="https://thedefiant.io/nomad-crowd-looting-triggers-exodus-from-other-blockchains/"/>
+        <updated>2022-08-03T08:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Latest Hack Further Exposes Vulnerabilities in Bridge Protocols]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallets Drained In Ongoing Solana Breach]]></title>
         <id>https://thedefiant.io/?p=58152</id>
         <link href="https://thedefiant.io/solana-wallet-breach/"/>
         <updated>2022-08-03T01:18:10.000Z</updated>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[The Nomad bridge is being exploited, with $45M in digital assets stolen so far.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoPunk Holders Unfazed By Meebits’ Move To Add Royalties]]></title>
-        <id>https://thedefiant.io/?p=58113</id>
-        <link href="https://thedefiant.io/yuga-meebits-royalty/"/>
-        <updated>2022-08-01T20:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Yuga Labs has implemented a 5% royalty on secondary sales of Meebits.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
