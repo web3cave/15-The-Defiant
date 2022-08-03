@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T05:35:04.082Z</id>
+    <id>urn:2022-08-03T06:09:06.789Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T05:35:04.082Z</updated>
+    <updated>2022-08-03T06:09:06.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is This a Better Way to Do Multi-Chain Defi?]]></title>
+        <id>https://thedefiant.io/?p=58164</id>
+        <link href="https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/"/>
+        <updated>2022-08-02T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Rhino.fi lets you glide between chains without complex bridges or network switches. And we’re totally self-custodial, so no matter where you go, you’ll keep full privacy and control of your funds.]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nomad Bridge Hacked With $45M Stolen]]></title>
         <id>https://thedefiant.io/?p=58120</id>
         <link href="https://thedefiant.io/nomad-bridge-exploit/"/>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Yuga Labs has implemented a 5% royalty on secondary sales of Meebits.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Aave Stablecoin Clears First Hurdle]]></title>
-        <id>https://thedefiant.io/?p=58097</id>
-        <link href="https://thedefiant.io/new-aave-stablecoin-clears-first-hurdle/"/>
-        <updated>2022-08-01T11:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Aave Community Votes for GHO Token with Two More Votes To Come]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
