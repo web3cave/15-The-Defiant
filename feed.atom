@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T20:07:30.240Z</id>
+    <id>urn:2022-08-03T21:05:25.827Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T20:07:30.240Z</updated>
+    <updated>2022-08-03T21:05:25.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wallet Provider Slope Blamed For Solana Breach]]></title>
+        <id>https://thedefiant.io/?p=58219</id>
+        <link href="https://thedefiant.io/slope-wallet-solana-exploit/"/>
+        <updated>2022-08-03T20:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Users' private keys may have been inadvertently leaked, according to the Solana team.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PoW Die-Hards Plan to Fork and Mine Their Own Ethereum Chains After The Merge]]></title>
         <id>https://thedefiant.io/?p=58180</id>
@@ -43,16 +53,6 @@
         <summary type="html"><![CDATA[Solana users report that their wallets are being drained in an ongoing exploit.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Merge Drives Value of ETH Options Past Bitcoin]]></title>
-        <id>https://thedefiant.io/?p=58128</id>
-        <link href="https://thedefiant.io/the-merge-drives-value-of-eth-options-past-bitcoin/"/>
-        <updated>2022-08-02T07:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Sophisticated Investors Pile into Options Ahead of Ethereum's Shift to PoS]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
