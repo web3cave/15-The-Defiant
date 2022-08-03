@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T09:06:10.637Z</id>
+    <id>urn:2022-08-03T10:07:13.768Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T09:06:10.637Z</updated>
+    <updated>2022-08-03T10:07:13.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PoW Die-Hards Plan to Fork and Mine Their Own Ethereum Chains After The Merge]]></title>
+        <id>https://thedefiant.io/?p=58180</id>
+        <link href="https://thedefiant.io/pow-die-hards-plan-to-fork-and-mine-original-ethereum-after-the-merge/"/>
+        <updated>2022-08-03T09:30:59.000Z</updated>
+        <summary type="html"><![CDATA[It Won't be Easy to Operate in a PoS World]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Classic Shakes Off the Dust and Rockets 174% Vestige of Old Ethereum Finds New Life as The Merge Approaches]]></title>
+        <id>https://thedefiant.io/?p=58195</id>
+        <link href="https://thedefiant.io/ethereum-classic-shakes-off-the-dust-and-rockets-174/"/>
+        <updated>2022-08-03T09:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Vestige of Old Ethereum Finds New Life as The Merge Approaches]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nomad ‘Crowd-Looting’ Triggers Exodus From Other Blockchains]]></title>
         <id>https://thedefiant.io/?p=58171</id>
@@ -16,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wallets Drained In Ongoing Solana Breach]]></title>
+        <title type="html"><![CDATA[Wallets Drained In Solana Breach as Network Solicits Input From Users]]></title>
         <id>https://thedefiant.io/?p=58152</id>
         <link href="https://thedefiant.io/solana-wallet-breach/"/>
         <updated>2022-08-03T01:18:10.000Z</updated>
@@ -33,26 +53,6 @@
         <summary type="html"><![CDATA[Sophisticated Investors Pile into Options Ahead of Ethereum's Shift to PoS]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This a Better Way to Do Multi-Chain Defi?]]></title>
-        <id>https://thedefiant.io/?p=58164</id>
-        <link href="https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/"/>
-        <updated>2022-08-02T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Rhino.fi lets you glide between chains without complex bridges or network switches. And we’re totally self-custodial, so no matter where you go, you’ll keep full privacy and control of your funds.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomad Bridge Hacked With $45M Stolen]]></title>
-        <id>https://thedefiant.io/?p=58120</id>
-        <link href="https://thedefiant.io/nomad-bridge-exploit/"/>
-        <updated>2022-08-01T23:30:42.000Z</updated>
-        <summary type="html"><![CDATA[The Nomad bridge is being exploited, with $45M in digital assets stolen so far.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
