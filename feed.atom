@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T00:41:50.447Z</id>
+    <id>urn:2022-08-03T03:11:10.627Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T00:41:50.447Z</updated>
+    <updated>2022-08-03T03:11:10.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BREAKING: Wallets Drained In Ongoing Solana Breach]]></title>
+        <id>https://thedefiant.io/?p=58152</id>
+        <link href="https://thedefiant.io/solana-wallet-breach/"/>
+        <updated>2022-08-03T01:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Solana users report that their wallets are being drained in an ongoing exploit.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Merge Drives Value of ETH Options Past Bitcoin]]></title>
         <id>https://thedefiant.io/?p=58128</id>
@@ -43,17 +53,6 @@
         <summary type="html"><![CDATA[Aave Community Votes for GHO Token with Two More Votes To Come]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuga Adds Royalties to Meebits, What’s Next?]]></title>
-        <id>https://thedefiant.io/?p=58142</id>
-        <link href="https://thedefiant.io/yuga-adds-royalties-to-meebits-whats-next/"/>
-        <updated>2022-08-01T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Remember Meebits? The Larva Labs money machine that raised a then scarcely believable $80m for a collection of voxel PFPs with no discernible utility, no roadmap, just the cachet of being from the same creators as the legendary punks. Meebits were the spur for Bored Ape owners to do everything in their power to raise …
-  Yuga Adds Royalties to Meebits, What’s Next? Read More »]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
