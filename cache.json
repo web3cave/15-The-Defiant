@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-layer2s-surge/",
+          "author": null,
+          "description": "Arbitrum and Optimism now rank as the fourth and sixth-largest smart contract\nchains by total value locked.",
+          "link": "https://thedefiant.io/ethereum-layer2s-surge/",
+          "publishedOn": "2022-08-09T00:44:25.000Z",
+          "wordCount": 1843,
+          "title": "Optimism and Arbitrum Storm DeFi Rankings As TVL Rises",
+          "enclosure": {
+            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/09004159/OPARBSizeIsSize.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/09004159/OPARBSizeIsSize.jpg"
+        },
+        {
           "id": "https://thedefiant.io/vitalik-stealth-nft/",
           "author": null,
           "description": "A proposed ERC721 extension would let users shield their NFT holdings from\nprying eyes.",
           "link": "https://thedefiant.io/vitalik-stealth-nft/",
           "publishedOn": "2022-08-08T22:36:09.000Z",
-          "wordCount": 1101,
+          "wordCount": 1095,
           "title": "Buterin Backs Proposal For Stealth NFT Transfers",
           "enclosure": {
             "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/08223344/StealthERC721.jpg",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193809/Square_Black.png"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-ethereum/",
-          "author": null,
-          "description": "A Step-by-Step Primer on Ethereum’s Blockchain, Gas Fees, Scalability and dApps",
-          "link": "https://thedefiant.io/what-is-ethereum/",
-          "publishedOn": "2022-07-14T07:01:52.000Z",
-          "wordCount": 4300,
-          "title": "What Is Ethereum?",
-          "enclosure": {
-            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193806/FXd7QTcakAIGuBi-1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193806/FXd7QTcakAIGuBi-1.jpg"
         }
       ]
     }
