@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/vitalik-stealth-nft/",
+          "author": null,
+          "description": "A proposed ERC721 extension would let users shield their NFT holdings from\nprying eyes.",
+          "link": "https://thedefiant.io/vitalik-stealth-nft/",
+          "publishedOn": "2022-08-08T22:36:09.000Z",
+          "wordCount": 1101,
+          "title": "Buterin Backs Proposal For Stealth NFT Transfers",
+          "enclosure": {
+            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/08223344/StealthERC721.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/08223344/StealthERC721.jpg"
+        },
+        {
           "id": "https://thedefiant.io/what-is-crypto-market-cap-2/",
           "author": null,
           "description": "A Primer on Two Key Metrics in Crypto Markets",
@@ -1489,21 +1504,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193806/FXd7QTcakAIGuBi-1.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-lender-celsius-files-for-bankruptcy-protection/",
-          "author": null,
-          "description": "Celsius, the crypto lender that last month halted withdrawals, has filed for\nChapter 11 bankruptcy protection, the company said in a press release. User\nwithdrawals will remain halted.",
-          "link": "https://thedefiant.io/crypto-lender-celsius-files-for-bankruptcy-protection/",
-          "publishedOn": "2022-07-13T21:36:22.000Z",
-          "wordCount": 1021,
-          "title": "Crypto Lender Celsius Files for Bankruptcy Protection",
-          "enclosure": {
-            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193756/CelciusBankrupt.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193756/CelciusBankrupt.jpg"
         }
       ]
     }
