@@ -6,13 +6,43 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-polygon/",
+          "author": null,
+          "description": "A Step-by-Step Guide to One of DeFi Most Popular Blockchains",
+          "link": "https://thedefiant.io/what-is-polygon/",
+          "publishedOn": "2022-08-11T03:54:44.000Z",
+          "wordCount": 3374,
+          "title": "What Is Polygon?",
+          "enclosure": {
+            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/11035304/whatispolygon.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/11035304/whatispolygon.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/solana-exploit-crisis-management/",
+          "author": null,
+          "description": "Crisis Management Becomes a Key Exercise as Crypto Exploits Mount",
+          "link": "https://thedefiant.io/solana-exploit-crisis-management/",
+          "publishedOn": "2022-08-11T03:43:40.000Z",
+          "wordCount": 2641,
+          "title": "Inside Solana’s ‘Textbook’ Response to Exploit",
+          "enclosure": {
+            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/11032159/unknown.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/11032159/unknown.png"
+        },
+        {
           "id": "https://thedefiant.io/ethereum-goerli-merge-complete/",
           "author": null,
           "description": "Ethereum’s Final Testnet Has Transitioned To Proof-Of-Stake",
           "link": "https://thedefiant.io/ethereum-goerli-merge-complete/",
           "publishedOn": "2022-08-10T22:02:55.000Z",
-          "wordCount": 987,
-          "title": "BREAKING: Ethereum Completes Goerli Testnet Merge",
+          "wordCount": 975,
+          "title": "Ethereum Completes Goerli Testnet Merge",
           "enclosure": {
             "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/10220119/GoerliMerge.jpg",
             "length": "0",
@@ -1474,36 +1504,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193834/CELTokenUp.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/lido-steth-layer2/",
-          "author": null,
-          "description": "The staked ETH derivative will be launched on Arbitrum and Optimism.",
-          "link": "https://thedefiant.io/lido-steth-layer2/",
-          "publishedOn": "2022-07-18T16:22:18.000Z",
-          "wordCount": 1248,
-          "title": "Lido To Expand stETH To Layer 2 Networks",
-          "enclosure": {
-            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193833/LIDOL2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193833/LIDOL2.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-markets-rebound/",
-          "author": null,
-          "description": "Uniswap and Aave Post Big Gains Amid Broad Jump in Crypto",
-          "link": "https://thedefiant.io/crypto-markets-rebound/",
-          "publishedOn": "2022-07-18T07:28:25.000Z",
-          "wordCount": 1321,
-          "title": "Ethereum Hits Five Week High as DeFi Rallies",
-          "enclosure": {
-            "url": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193831/HowCrypto100Xs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193831/HowCrypto100Xs.jpg"
         }
       ]
     }
