@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T11:03:05.072Z</id>
+    <id>urn:2022-08-16T12:11:30.982Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T11:03:05.072Z</updated>
+    <updated>2022-08-16T12:11:30.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dev Pinpoints Exact Minute Merge Goes Live]]></title>
+        <id>https://thedefiant.io/dev-pinpoints-exact-minute-merge-goes-live/</id>
+        <link href="https://thedefiant.io/dev-pinpoints-exact-minute-merge-goes-live/"/>
+        <updated>2022-08-16T11:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Analysts Expect ETH to Go Deflationary post-Merge]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Growing List Of DeFi Apps Ban Tornado Cash Users]]></title>
         <id>https://thedefiant.io/defi-bans-tornado-addresses/</id>
@@ -1060,16 +1070,6 @@ engineering feat …]]></summary>
 for allegedly front-running token listings.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Finance Has a Stablecoin in the Works]]></title>
-        <id>https://thedefiant.io/curve-stablecoin/</id>
-        <link href="https://thedefiant.io/curve-stablecoin/"/>
-        <updated>2022-07-21T18:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Curve is likely to launch an overcollateralized stablecoin.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
