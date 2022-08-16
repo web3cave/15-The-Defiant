@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T03:09:06.834Z</id>
+    <id>urn:2022-08-16T04:30:36.225Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T03:09:06.834Z</updated>
+    <updated>2022-08-16T04:30:36.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Growing List Of DeFi Apps Ban Tornado Cash Users]]></title>
+        <id>https://thedefiant.io/defi-bans-tornado-addresses/</id>
+        <link href="https://thedefiant.io/defi-bans-tornado-addresses/"/>
+        <updated>2022-08-16T03:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Aave, Uniswap, dYdX and Balancer Have Banned Addresses After U.S. Sanctions]]></summary>
+        <author>
+            <name>Claire Gu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acala To Burn $1.2B aUSD After Minting Bug]]></title>
         <id>https://thedefiant.io/acala-bug-ausd-burn/</id>
@@ -1060,16 +1070,6 @@ for allegedly front-running token listings.]]></summary>
         <summary type="html"><![CDATA[Curve is likely to launch an overcollateralized stablecoin.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon’s Embrace of Zero Knowledge Proofs Cranks Up the Heat in Scalability Race]]></title>
-        <id>https://thedefiant.io/polygon-zero-knowledge-ethereum-scaling/</id>
-        <link href="https://thedefiant.io/polygon-zero-knowledge-ethereum-scaling/"/>
-        <updated>2022-07-21T11:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 Makes Bold Move to Increase Transaction Speed and Lower Fees]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
