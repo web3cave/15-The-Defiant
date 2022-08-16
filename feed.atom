@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T20:07:25.411Z</id>
+    <id>urn:2022-08-16T21:05:05.929Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T20:07:25.411Z</updated>
+    <updated>2022-08-16T21:05:05.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave May Shut Down On PoW ETH Forks]]></title>
+        <id>https://thedefiant.io/aave-pow-shutdown/</id>
+        <link href="https://thedefiant.io/aave-pow-shutdown/"/>
+        <updated>2022-08-16T21:04:43.000Z</updated>
+        <summary type="html"><![CDATA[The Aave DAO Is Being Asked To Commit To Proof-of-Stake Ethereum]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Earn and Learn with Vitalik’s favorite stablecoin: RAI]]></title>
         <id>https://thedefiant.io/earn-and-learn-with-vitaliks-favorite-stablecoin-rai/</id>
@@ -1056,20 +1066,6 @@ the local branch of a bank. One embroiled in a scandal as users were …]]></sum
         <summary type="html"><![CDATA[Stablecoin Yields Mirror Speculative and Deleveraging Cycles]]></summary>
         <author>
             <name>IntoTheBlock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ethereum Merge: All Your Qs Answered by EF Researcher Justin Drake]]></title>
-        <id>https://thedefiant.io/the-ethereum-merge-all-your-qs-answered-by-ef-researcher-justin-drake/</id>
-        <link href="https://thedefiant.io/the-ethereum-merge-all-your-qs-answered-by-ef-researcher-justin-drake/"/>
-        <updated>2022-07-22T01:47:00.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant podcast we speak to Justin Drake. Justin is a
-researcher for the Ethereum foundation. He is also front and centre of the
-biggest upcoming change to happen in Ethereum’s short history by transitioning
-from proof of work to proof of stake, commonly known as The Merge. A major
-engineering feat …]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
