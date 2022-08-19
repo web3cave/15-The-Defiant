@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T19:04:05.700Z</id>
+    <id>urn:2022-08-19T20:07:25.731Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-19T19:04:05.700Z</updated>
+    <updated>2022-08-19T20:07:25.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethermine To Drop PoW Ethereum Post-Merge]]></title>
+        <id>https://thedefiant.io/ethermine-shuns-pow-eth/</id>
+        <link href="https://thedefiant.io/ethermine-shuns-pow-eth/"/>
+        <updated>2022-08-19T19:36:09.000Z</updated>
+        <summary type="html"><![CDATA[The Largest ETH Mining Pool Will Not Support Proof-of-Work Ethereum Forks]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Engineer]]></title>
+        <id>https://thedefiant.io/data-engineer-at-the-defiant/</id>
+        <link href="https://thedefiant.io/data-engineer-at-the-defiant/"/>
+        <updated>2022-08-19T19:06:33.000Z</updated>
+        <summary type="html"><![CDATA[The Defiant is looking for a data engineer to help build out its DeFi-focused
+data platform.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solend Cranks Up The Risk with Liquidity Pools For All]]></title>
         <id>https://thedefiant.io/solend-permissionless-liquidity/</id>
@@ -1036,30 +1057,6 @@ dissects everything wrong with the first part]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to One of DeFi’s Most Popular Practices]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s No Time Like a Bear Market to Build Breakthroughs]]></title>
-        <id>https://thedefiant.io/crypto-bear-market-time-to-build/</id>
-        <link href="https://thedefiant.io/crypto-bear-market-time-to-build/"/>
-        <updated>2022-07-27T07:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Heed the Lessons of the Web2 Boom Following the Dotcom Crash]]></summary>
-        <author>
-            <name>Hatu Sheikh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zapper Is Now the Frontpage of Web3. About Time…]]></title>
-        <id>https://thedefiant.io/zapper-is-now-the-frontpage-of-web3-about-time/</id>
-        <link href="https://thedefiant.io/zapper-is-now-the-frontpage-of-web3-about-time/"/>
-        <updated>2022-07-26T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Zapper V2: Accessing Reliable Information to Explore the Real web3.
-To make it simple for people to interpret all of this complex information, to
-speed up learning, and to make people feel more confident making choices in
-web3, Zapper V2 surfaces all blockchain data and translates it into relatable
-information that anyone can read …]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
