@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T12:10:28.121Z</id>
+    <id>urn:2022-08-21T13:19:11.732Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-21T12:10:28.121Z</updated>
+    <updated>2022-08-21T13:19:11.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -98,6 +98,19 @@ data platform.]]></summary>
         <summary type="html"><![CDATA[Solana-based Lender Says Beware of its Own Offering]]></summary>
         <author>
             <name>Jason Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Tornado Cash Debate]]></title>
+        <id>https://thedefiant.io/the-great-tornado-cash-debate/</id>
+        <link href="https://thedefiant.io/the-great-tornado-cash-debate/"/>
+        <updated>2022-08-19T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[We sat down with two crypto experts to discuss the US Treasuryâ€™s crackdown
+against Tornado Cash. In a fiery debate, both guests present their very
+different opinions on the ethical, legal and practical implications of the
+unprecedented measures being taken against the protocol and its users.]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
         </author>
     </entry>
     <entry>
@@ -1048,16 +1061,6 @@ finance tracking platform and before that he was also a US treasury trader for â
 75 basis points in a widely expected move.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EthCC Journal: Exploring the Network State and a Decentralized Future]]></title>
-        <id>https://thedefiant.io/ethcc-defi/</id>
-        <link href="https://thedefiant.io/ethcc-defi/"/>
-        <updated>2022-07-27T18:29:14.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Dave Muses on Crucial Questions Confronting DeFi]]></summary>
-        <author>
-            <name>David Liebowitz</name>
         </author>
     </entry>
 </feed>
