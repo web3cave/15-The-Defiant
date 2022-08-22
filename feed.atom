@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-22T19:04:26.880Z</id>
+    <id>urn:2022-08-22T20:07:19.281Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-22T19:04:26.880Z</updated>
+    <updated>2022-08-22T20:07:19.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feds Didn’t Just Sanction Tornado — They Forgot Code is Free Speech]]></title>
+        <id>https://thedefiant.io/tornado-freedom-of-speech/</id>
+        <link href="https://thedefiant.io/tornado-freedom-of-speech/"/>
+        <updated>2022-08-22T19:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Legal Precedent Says Code is Protected by First Amendment]]></summary>
+        <author>
+            <name>Philipp Pieper</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trader Joe Launches ‘Liquidity Book’ To Improve Capital Efficiency]]></title>
         <id>https://thedefiant.io/trader-joe-v2-liquidity-book/</id>
         <link href="https://thedefiant.io/trader-joe-v2-liquidity-book/"/>
         <updated>2022-08-22T18:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Joe V2 Introduces a “Liquidity Book”  Design To Improve Capital Efficiency]]></summary>
+        <summary type="html"><![CDATA[Joe V2 Introduces Concentrated Liquidity]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1047,19 +1057,6 @@ execution layer for smart contract-enabled transactions]]></summary>
 posts to their email.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hart Lambur, co-founder of UMA protocol gives his market take & solutions to the DAO conundrum.]]></title>
-        <id>https://thedefiant.io/hart-lambur-co-founder-of-uma-protocol-gives-his-market-take-solutions-to-the-dao-conundrum/</id>
-        <link href="https://thedefiant.io/hart-lambur-co-founder-of-uma-protocol-gives-his-market-take-solutions-to-the-dao-conundrum/"/>
-        <updated>2022-07-28T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant Podcast we speak to Hart Lambur, co-founder of the UMA
-protocol. UMA is an optimistic oracle on Ethereum that aims to record any
-knowable truth onto a blockchain. He was also CEO of Openfolio, a personal
-finance tracking platform and before that he was also a US treasury trader for …]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
