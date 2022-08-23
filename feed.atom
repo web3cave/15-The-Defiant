@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T05:11:28.781Z</id>
+    <id>urn:2022-08-23T06:20:39.528Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-23T05:11:28.781Z</updated>
+    <updated>2022-08-23T06:20:39.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fei Community Up In Arms Over Dissolution Plan]]></title>
+        <id>https://thedefiant.io/fei-shutdown-uproar/</id>
+        <link href="https://thedefiant.io/fei-shutdown-uproar/"/>
+        <updated>2022-08-23T05:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Team Cites Technical Challenges And Future Regulations As Risks]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitPOAP Raises $4.28M To Build Out On-Chain Credentials]]></title>
         <id>https://thedefiant.io/gitpoap-on-chain-creds/</id>
@@ -1050,16 +1060,6 @@ execution layer for smart contract-enabled transactions]]></summary>
         <summary type="html"><![CDATA[Ethereum’s Shadow Fork Trials are Driving Anticipation for The Merge]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Liquidity Providing?]]></title>
-        <id>https://thedefiant.io/what-is-liquidity-providing/</id>
-        <link href="https://thedefiant.io/what-is-liquidity-providing/"/>
-        <updated>2022-07-28T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to One of the Most Used Practices in DeFi]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
