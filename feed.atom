@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T00:43:57.381Z</id>
+    <id>urn:2022-08-23T03:25:49.448Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-23T00:43:57.381Z</updated>
+    <updated>2022-08-23T03:25:49.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitPOAP Raises $4.28M To Build Out On-Chain Credentials]]></title>
+        <id>https://thedefiant.io/gitpoap-on-chain-creds/</id>
+        <link href="https://thedefiant.io/gitpoap-on-chain-creds/"/>
+        <updated>2022-08-23T02:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Platform Lets Projects Issue POAPs To Recognize GitHub Contributors]]></summary>
+        <author>
+            <name>Jason Levin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feds Didn’t Just Sanction Tornado — They Forgot Code is Free Speech]]></title>
         <id>https://thedefiant.io/tornado-freedom-of-speech/</id>
@@ -1046,17 +1056,6 @@ execution layer for smart contract-enabled transactions]]></summary>
         <updated>2022-07-28T05:27:00.000Z</updated>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Publisher Takes a Page from TradFi with Subscription Model]]></title>
-        <id>https://thedefiant.io/mirror-web3-subscriptions/</id>
-        <link href="https://thedefiant.io/mirror-web3-subscriptions/"/>
-        <updated>2022-07-28T02:02:20.000Z</updated>
-        <summary type="html"><![CDATA[Users can subscribe to a Mirror publication with their crypto wallet and forward
-posts to their email.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
