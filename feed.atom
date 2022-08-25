@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T15:06:59.160Z</id>
+    <id>urn:2022-08-25T16:08:23.027Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T15:06:59.160Z</updated>
+    <updated>2022-08-25T16:08:23.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Record Low Burn Rate Threatens Ethereum’s Deflationary Narrative]]></title>
+        <id>https://thedefiant.io/ethereum-burn-record-low/</id>
+        <link href="https://thedefiant.io/ethereum-burn-record-low/"/>
+        <updated>2022-08-25T15:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Just 603.4 ETH Destroyed On Aug. 21]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Launches cbETH Liquid Staking Token]]></title>
         <id>https://thedefiant.io/coinbase-launches-cbeth/</id>
@@ -1044,16 +1054,6 @@ switches. And we’re totally self-custodial, so no matter where you go, you’l
 keep full privacy and control of your funds.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomad Bridge Hacked With $45M Stolen]]></title>
-        <id>https://thedefiant.io/nomad-bridge-exploit/</id>
-        <link href="https://thedefiant.io/nomad-bridge-exploit/"/>
-        <updated>2022-08-01T23:30:42.000Z</updated>
-        <summary type="html"><![CDATA[The Nomad bridge is being exploited, with $45M in digital assets stolen so far.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
