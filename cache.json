@@ -6,6 +6,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-web3/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to a Decentralized Web",
+          "link": "https://thedefiant.io/what-is-web3/",
+          "publishedOn": "2022-08-25T18:18:53.000Z",
+          "wordCount": 3296,
+          "title": "What Is Web3?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19134128/WhatIsWeb3.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/maker-frax-defi-diplomats/",
+          "author": "David Liebowitz",
+          "description": "Stablecoins Face Challenges In Wake Of Tornado Sanctions",
+          "link": "https://thedefiant.io/maker-frax-defi-diplomats/",
+          "publishedOn": "2022-08-25T18:16:46.000Z",
+          "wordCount": 2476,
+          "title": "How Maker and Frax Are The Diplomats of DeFi",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/25140905/DeFiDiplomats.jpg"
+        },
+        {
           "id": "https://thedefiant.io/ethereum-burn-record-low/",
           "author": "Samuel Haig",
           "description": "Just 603.4 ETH Destroyed On Aug. 21",
@@ -984,26 +1004,6 @@
           "wordCount": 1044,
           "title": "Wallets Drained In Solana Breach as Network Solicits Input From Users",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/02215515/SolWalletsCompromised.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/the-merge-drives-value-of-eth-options-past-bitcoin/",
-          "author": "Owen Fernau",
-          "description": "Sophisticated Investors Pile into Options Ahead of Ethereum’s Shift to PoS",
-          "link": "https://thedefiant.io/the-merge-drives-value-of-eth-options-past-bitcoin/",
-          "publishedOn": "2022-08-02T07:40:22.000Z",
-          "wordCount": 946,
-          "title": "The Merge Drives Value of ETH Options Past Bitcoin",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/27072527/FYij1W2XoAAYj5H-scaled.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/",
-          "author": "Robin Schmidt",
-          "description": "Rhino.fi lets you glide between chains without complex bridges or network\nswitches. And we’re totally self-custodial, so no matter where you go, you’ll\nkeep full privacy and control of your funds.",
-          "link": "https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/",
-          "publishedOn": "2022-08-02T05:33:00.000Z",
-          "wordCount": 534,
-          "title": "Is This a Better Way to Do Multi-Chain Defi?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/03013537/Is-this-a-better-way-to-do-multi-chain-DeFi.jpg"
         }
       ]
     }

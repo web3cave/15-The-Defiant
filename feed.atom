@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T18:07:30.793Z</id>
+    <id>urn:2022-08-25T19:04:17.517Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T18:07:30.793Z</updated>
+    <updated>2022-08-25T19:04:17.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Web3?]]></title>
+        <id>https://thedefiant.io/what-is-web3/</id>
+        <link href="https://thedefiant.io/what-is-web3/"/>
+        <updated>2022-08-25T18:18:53.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to a Decentralized Web]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Maker and Frax Are The Diplomats of DeFi]]></title>
+        <id>https://thedefiant.io/maker-frax-defi-diplomats/</id>
+        <link href="https://thedefiant.io/maker-frax-defi-diplomats/"/>
+        <updated>2022-08-25T18:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoins Face Challenges In Wake Of Tornado Sanctions]]></summary>
+        <author>
+            <name>David Liebowitz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Record Low Burn Rate Threatens Ethereum’s Deflationary Narrative]]></title>
         <id>https://thedefiant.io/ethereum-burn-record-low/</id>
@@ -1032,28 +1052,6 @@ volatility environments.]]></summary>
         <summary type="html"><![CDATA[Solana users report that their wallets are being drained in an ongoing exploit.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Merge Drives Value of ETH Options Past Bitcoin]]></title>
-        <id>https://thedefiant.io/the-merge-drives-value-of-eth-options-past-bitcoin/</id>
-        <link href="https://thedefiant.io/the-merge-drives-value-of-eth-options-past-bitcoin/"/>
-        <updated>2022-08-02T07:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Sophisticated Investors Pile into Options Ahead of Ethereum’s Shift to PoS]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This a Better Way to Do Multi-Chain Defi?]]></title>
-        <id>https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/</id>
-        <link href="https://thedefiant.io/is-this-a-better-way-to-do-multi-chain-defi/"/>
-        <updated>2022-08-02T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Rhino.fi lets you glide between chains without complex bridges or network
-switches. And we’re totally self-custodial, so no matter where you go, you’ll
-keep full privacy and control of your funds.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
