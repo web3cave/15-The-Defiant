@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T00:42:39.207Z</id>
+    <id>urn:2022-08-25T03:26:22.837Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T00:42:39.207Z</updated>
+    <updated>2022-08-25T03:26:22.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Launches cbETH Liquid Staking Token]]></title>
+        <id>https://thedefiant.io/coinbase-launches-cbeth/</id>
+        <link href="https://thedefiant.io/coinbase-launches-cbeth/"/>
+        <updated>2022-08-25T03:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Exchange Is The Second Largest Staker In The Beacon Chain]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado Cash Developer Pertsev Remanded For 90 Days]]></title>
         <id>https://thedefiant.io/tornado-dev-90-days-jail/</id>
@@ -1044,16 +1054,6 @@ keep full privacy and control of your funds.]]></summary>
         <summary type="html"><![CDATA[The Nomad bridge is being exploited, with $45M in digital assets stolen so far.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoPunk Holders Unfazed By Meebits’ Move To Add Royalties]]></title>
-        <id>https://thedefiant.io/yuga-meebits-royalty/</id>
-        <link href="https://thedefiant.io/yuga-meebits-royalty/"/>
-        <updated>2022-08-01T20:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Yuga Labs has implemented a 5% royalty on secondary sales of Meebits.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
