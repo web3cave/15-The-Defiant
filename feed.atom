@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T17:15:08.959Z</id>
+    <id>urn:2022-08-30T18:08:27.403Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-30T17:15:08.959Z</updated>
+    <updated>2022-08-30T18:08:27.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Says ‘Complexity’ Makes DeFi Vulnerable to Hacks]]></title>
+        <id>https://thedefiant.io/fbu-defi-exploits/</id>
+        <link href="https://thedefiant.io/fbu-defi-exploits/"/>
+        <updated>2022-08-30T17:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Feds Cite Chainalysis Report in Issuing Consumer Warning]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay on top of NFT projects with Lifeboat Fi]]></title>
         <id>https://thedefiant.io/stay-on-top-of-nft-projects-with-lifeboat-fi/</id>
@@ -1035,17 +1045,6 @@ referring to the Nomad hack that saw around 180 million bucks worth of ERC20s
 filched in a just few hours by a frenzied mob of REKT crypto investors.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Mixer Tornado Cash Added To US Sanctions List]]></title>
-        <id>https://thedefiant.io/tornado-cash-us-sanctions/</id>
-        <link href="https://thedefiant.io/tornado-cash-us-sanctions/"/>
-        <updated>2022-08-08T15:42:22.000Z</updated>
-        <summary type="html"><![CDATA[The move makes it illegal for US citizens to interact with any wallets or
-contracts related to Tornado Cash.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
