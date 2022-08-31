@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T06:47:55.566Z</id>
+    <id>urn:2022-08-31T07:29:23.874Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T06:47:55.566Z</updated>
+    <updated>2022-08-31T07:29:23.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is The Merge?]]></title>
+        <id>https://thedefiant.io/what-is-the-merge/</id>
+        <link href="https://thedefiant.io/what-is-the-merge/"/>
+        <updated>2022-08-31T07:22:14.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to Ethereum’s Historic Upgrade]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christensen Calls For MakerDAO to Float Stablecoin]]></title>
+        <id>https://thedefiant.io/makerdao-dai-peg/</id>
+        <link href="https://thedefiant.io/makerdao-dai-peg/"/>
+        <updated>2022-08-31T07:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Outspoken Founder Says U.S. Clampdown Closing ‘Window of Opportunity’ for DeFi]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Says ‘Complexity’ Makes DeFi Vulnerable to Hacks]]></title>
         <id>https://thedefiant.io/fbu-defi-exploits/</id>
@@ -1022,29 +1042,6 @@ liquidity and trading. It is highly flexible, gas-efficient, and fully on-chain.
 prying eyes.]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Difference Between Market Cap and Fully Diluted Market Cap?]]></title>
-        <id>https://thedefiant.io/what-is-crypto-market-cap-2/</id>
-        <link href="https://thedefiant.io/what-is-crypto-market-cap-2/"/>
-        <updated>2022-08-08T16:55:28.000Z</updated>
-        <summary type="html"><![CDATA[A Primer on Two Key Metrics in Crypto Markets]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonbirds Rugged?]]></title>
-        <id>https://thedefiant.io/moonbirds-rugged/</id>
-        <link href="https://thedefiant.io/moonbirds-rugged/"/>
-        <updated>2022-08-08T15:46:25.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a typically dicey week in DeFi and particularly traumatic for anyone
-suffering from gephyrophobia – the pathological fear of bridges. I am of course
-referring to the Nomad hack that saw around 180 million bucks worth of ERC20s
-filched in a just few hours by a frenzied mob of REKT crypto investors.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
