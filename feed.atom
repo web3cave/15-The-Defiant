@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T14:08:28.238Z</id>
+    <id>urn:2022-08-31T15:06:42.487Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T14:08:28.238Z</updated>
+    <updated>2022-08-31T15:06:42.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Executes Upgrade in Push to Scale Ethereum]]></title>
+        <id>https://thedefiant.io/arbitrum-nitro-upgrade/</id>
+        <link href="https://thedefiant.io/arbitrum-nitro-upgrade/"/>
+        <updated>2022-08-31T14:50:03.000Z</updated>
+        <summary type="html"><![CDATA[No. 1 Layer 2 Blockchain Expects Nitro to Deliver Speed and Efficiency]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SushiSwap Members Rejoice as Whale Bails from Token]]></title>
         <id>https://thedefiant.io/sushiswap-arca-sells-sushi/</id>
@@ -1031,16 +1041,6 @@ liquidity and trading. It is highly flexible, gas-efficient, and fully on-chain.
         <summary type="html"><![CDATA[Some Investors are Betting Ethereum May Double When it Shifts to PoS]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism and Arbitrum Storm DeFi Rankings]]></title>
-        <id>https://thedefiant.io/ethereum-layer2s-surge/</id>
-        <link href="https://thedefiant.io/ethereum-layer2s-surge/"/>
-        <updated>2022-08-09T04:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2s Rank No. 4 and No. 6 by Total Value Locked]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
