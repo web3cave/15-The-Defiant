@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T10:07:17.136Z</id>
+    <id>urn:2022-08-31T11:05:43.850Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T10:07:17.136Z</updated>
+    <updated>2022-08-31T11:05:43.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SushiSwap Members Rejoice as Whale Bails from Token]]></title>
+        <id>https://thedefiant.io/sushiswap-arca-sells-sushi/</id>
+        <link href="https://thedefiant.io/sushiswap-arca-sells-sushi/"/>
+        <updated>2022-08-31T10:37:06.000Z</updated>
+        <summary type="html"><![CDATA[After Shaping Sushi’s Reform Plan Arca Hits the Exits]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is The Merge?]]></title>
         <id>https://thedefiant.io/what-is-the-merge/</id>
@@ -1031,17 +1041,6 @@ liquidity and trading. It is highly flexible, gas-efficient, and fully on-chain.
         <summary type="html"><![CDATA[Layer 2s Rank No. 4 and No. 6 by Total Value Locked]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buterin Backs Proposal For Stealth NFT Transfers]]></title>
-        <id>https://thedefiant.io/vitalik-stealth-nft/</id>
-        <link href="https://thedefiant.io/vitalik-stealth-nft/"/>
-        <updated>2022-08-09T02:36:09.000Z</updated>
-        <summary type="html"><![CDATA[A proposed ERC721 extension would let users shield their NFT holdings from
-prying eyes.]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
