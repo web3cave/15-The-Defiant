@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T03:24:24.009Z</id>
+    <id>urn:2022-09-01T05:06:14.137Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T03:24:24.009Z</updated>
+    <updated>2022-09-01T05:06:14.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Compound ETH Market Frozen Due to Upgrade Bug]]></title>
+        <id>https://thedefiant.io/compound-ceth-frozen/</id>
+        <link href="https://thedefiant.io/compound-ceth-frozen/"/>
+        <updated>2022-09-01T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Withdrawals and Liquidations in cETH Will Remain Frozen For A Week]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dominance Drops Under 40% For The First Time Since January]]></title>
         <id>https://thedefiant.io/bitcoin-dominance-under-40/</id>
@@ -1030,17 +1040,6 @@ And that’s because The Merge is upon us. It’s happening. Finally. And with a
         <summary type="html"><![CDATA[A Guide to Comparing Centralized Finance and Decentralized Finance]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Service or Creator Fees on sudoswap]]></title>
-        <id>https://thedefiant.io/no-service-or-creator-fees-on-sudoswap/</id>
-        <link href="https://thedefiant.io/no-service-or-creator-fees-on-sudoswap/"/>
-        <updated>2022-08-09T13:52:00.000Z</updated>
-        <summary type="html"><![CDATA[sudoAMM is a new marketplace protocol that changes the way we think about NFT
-liquidity and trading. It is highly flexible, gas-efficient, and fully on-chain.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
