@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T15:07:01.100Z</id>
+    <id>urn:2022-09-02T16:08:52.250Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T15:07:01.100Z</updated>
+    <updated>2022-09-02T16:08:52.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Rise As U.S. Unemployment Rate Ticks Up To 3.7%]]></title>
+        <id>https://thedefiant.io/markets-rise-us-payroll/</id>
+        <link href="https://thedefiant.io/markets-rise-us-payroll/"/>
+        <updated>2022-09-02T15:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Ether Is Up 3% After The 8:30 ET Release]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven Traders Raked in $114M in Profits via MEV Stratagem]]></title>
         <id>https://thedefiant.io/mev-trading-flashbots/</id>
@@ -1031,16 +1041,6 @@ And that’s because The Merge is upon us. It’s happening. Finally. And with a
         <summary type="html"><![CDATA[Ethereum’s Final Testnet Has Transitioned To Proof-Of-Stake]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Degens Tweak Feds to Protest Tornado Cash Ban]]></title>
-        <id>https://thedefiant.io/degens-tweak-feds-to-protest-tornado-cash-ban/</id>
-        <link href="https://thedefiant.io/degens-tweak-feds-to-protest-tornado-cash-ban/"/>
-        <updated>2022-08-10T18:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Emotions Run High as Crypto Responds to Opening of ‘Pandora’s Box’]]></summary>
-        <author>
-            <name>Jason Levin and Claire Gu</name>
         </author>
     </entry>
 </feed>
