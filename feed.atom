@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T14:06:13.557Z</id>
+    <id>urn:2022-09-02T15:07:01.100Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T14:06:13.557Z</updated>
+    <updated>2022-09-02T15:07:01.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seven Traders Raked in $114M in Profits via MEV Stratagem]]></title>
+        <id>https://thedefiant.io/mev-trading-flashbots/</id>
+        <link href="https://thedefiant.io/mev-trading-flashbots/"/>
+        <updated>2022-09-02T14:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Trading Bots Quietly Make a Killing in a Market That is Supposed to Be
+‘Democratizing’]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A16Z’s Latest Bet on NFTs: Free Licenses for Everyone]]></title>
         <id>https://thedefiant.io/a16z-latest-bet-on-nfts-free-licenses-for-everyone/</id>
@@ -1030,16 +1041,6 @@ And that’s because The Merge is upon us. It’s happening. Finally. And with a
         <summary type="html"><![CDATA[Emotions Run High as Crypto Responds to Opening of ‘Pandora’s Box’]]></summary>
         <author>
             <name>Jason Levin and Claire Gu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goerli and Cooling Inflation Drive Ether to Two-Month High]]></title>
-        <id>https://thedefiant.io/ether-rallies-two-month-high/</id>
-        <link href="https://thedefiant.io/ether-rallies-two-month-high/"/>
-        <updated>2022-08-10T15:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Completion of Final Merge Test Helps Drive ETH Rally]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
