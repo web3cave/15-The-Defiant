@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T06:30:46.189Z</id>
+    <id>urn:2022-09-02T07:15:39.399Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T06:30:46.189Z</updated>
+    <updated>2022-09-02T07:15:39.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is DAI?]]></title>
+        <id>https://thedefiant.io/what-is-dai/</id>
+        <link href="https://thedefiant.io/what-is-dai/"/>
+        <updated>2022-09-02T06:31:04.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to One of DeFi’s Most Important Stablecoins]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Hold Up As Stocks Swoon]]></title>
         <id>https://thedefiant.io/crypto-outperforms-stocks/</id>
@@ -1030,16 +1040,6 @@ And that’s because The Merge is upon us. It’s happening. Finally. And with a
         <summary type="html"><![CDATA[DeFi Lender’s Stablecoin Under Pressure From USDC Contagion]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harmony Validators Decry Litany of Problems]]></title>
-        <id>https://thedefiant.io/harmony-validators-decry-problems/</id>
-        <link href="https://thedefiant.io/harmony-validators-decry-problems/"/>
-        <updated>2022-08-10T08:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Flawed Response to $100M Hack Exposes Crisis of Confidence in Layer 1]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
