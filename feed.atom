@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T16:09:21.171Z</id>
+    <id>urn:2022-09-08T17:21:41.914Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T16:09:21.172Z</updated>
+    <updated>2022-09-08T17:21:41.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is USDC?]]></title>
+        <id>https://thedefiant.io/what-is-usdc/</id>
+        <link href="https://thedefiant.io/what-is-usdc/"/>
+        <updated>2022-09-08T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to One of DeFi’s Most Important Stablecoins]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rated Labs Raises $2.5M To Solve Validator Reputation Dilemma]]></title>
         <id>https://thedefiant.io/rated-labs-validator-rep/</id>
@@ -1031,17 +1041,6 @@ Shkrelli’d.]]></summary>
         <summary type="html"><![CDATA[Aave DAO Weighs Proposal to Commit To Proof-of-Stake Ethereum]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn and Learn with Vitalik’s favorite stablecoin: RAI]]></title>
-        <id>https://thedefiant.io/earn-and-learn-with-vitaliks-favorite-stablecoin-rai/</id>
-        <link href="https://thedefiant.io/earn-and-learn-with-vitaliks-favorite-stablecoin-rai/"/>
-        <updated>2022-08-16T14:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Reflexer is a platform where anyone can use their crypto collateral to mint RAI,
-a non-pegged stablecoin backed by ETH.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
