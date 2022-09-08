@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T19:07:27.939Z</id>
+    <id>urn:2022-09-08T20:08:18.363Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T19:07:27.939Z</updated>
+    <updated>2022-09-08T20:08:18.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave DAO Votes To Pay Developers $15M]]></title>
+        <id>https://thedefiant.io/aave-v3-compensation/</id>
+        <link href="https://thedefiant.io/aave-v3-compensation/"/>
+        <updated>2022-09-08T19:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Retroactive Funding Will Cover Development and Audit Costs of Aave V3]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is USDC?]]></title>
         <id>https://thedefiant.io/what-is-usdc/</id>
@@ -1031,16 +1041,6 @@ Shkrelli’d.]]></summary>
         <summary type="html"><![CDATA[A New Open-Source Validator Client Is Planned]]></summary>
         <author>
             <name>Claire Gu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave May Shun Post-Merge PoW Ethereum Forks]]></title>
-        <id>https://thedefiant.io/aave-pow-shutdown/</id>
-        <link href="https://thedefiant.io/aave-pow-shutdown/"/>
-        <updated>2022-08-16T21:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Aave DAO Weighs Proposal to Commit To Proof-of-Stake Ethereum]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
