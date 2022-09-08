@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T10:07:43.925Z</id>
+    <id>urn:2022-09-08T11:06:22.342Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T10:07:43.925Z</updated>
+    <updated>2022-09-08T11:06:22.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Repels Rival Layer 1s as Merge Looms]]></title>
+        <id>https://thedefiant.io/ethereum-dominates-layer-1/</id>
+        <link href="https://thedefiant.io/ethereum-dominates-layer-1/"/>
+        <updated>2022-09-08T10:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contract Network Draws 90% of Protocol Revenue]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Transactions Quadruple After Upgrade]]></title>
         <id>https://thedefiant.io/arbitrum-transactions-quadruple-after-upgrade/</id>
@@ -1032,16 +1042,6 @@ a non-pegged stablecoin backed by ETH.]]></summary>
         <summary type="html"><![CDATA[Analysts Expect ETH to Go Deflationary post-Merge]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing List Of DeFi Apps Ban Tornado Cash Users]]></title>
-        <id>https://thedefiant.io/defi-bans-tornado-addresses/</id>
-        <link href="https://thedefiant.io/defi-bans-tornado-addresses/"/>
-        <updated>2022-08-16T03:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Aave, Uniswap, dYdX and Balancer Have Banned Addresses After U.S. Sanctions]]></summary>
-        <author>
-            <name>Claire Gu</name>
         </author>
     </entry>
 </feed>
