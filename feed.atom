@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T14:17:12.923Z</id>
+    <id>urn:2022-09-13T15:07:37.689Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T14:17:12.923Z</updated>
+    <updated>2022-09-13T15:07:37.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Project Galaxy has a new name – Introducing Galxe]]></title>
+        <id>https://thedefiant.io/project-galaxy-galxe/</id>
+        <link href="https://thedefiant.io/project-galaxy-galxe/"/>
+        <updated>2022-09-13T14:51:05.000Z</updated>
+        <summary type="html"><![CDATA[An Exploration Of Our New Brand & Galxe Passport]]></summary>
+        <author>
+            <name>Galxe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Eve of The Merge Skeptics and Supporters Gird for Raft of Changes]]></title>
         <id>https://thedefiant.io/the-merge-skeptics-supporters/</id>
@@ -1029,17 +1039,6 @@ May 2022]]></summary>
         <summary type="html"><![CDATA[The Largest ETH Mining Pool Will Not Support Proof-of-Work Ethereum Forks]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Engineer]]></title>
-        <id>https://thedefiant.io/data-engineer-at-the-defiant/</id>
-        <link href="https://thedefiant.io/data-engineer-at-the-defiant/"/>
-        <updated>2022-08-19T19:06:33.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant is looking for a data engineer to help build out its DeFi-focused
-data platform.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
