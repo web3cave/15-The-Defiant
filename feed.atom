@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T06:44:48.406Z</id>
+    <id>urn:2022-09-13T07:27:56.660Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T06:44:48.406Z</updated>
+    <updated>2022-09-13T07:27:56.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Tether?]]></title>
+        <id>https://thedefiant.io/what-is-tether/</id>
+        <link href="https://thedefiant.io/what-is-tether/"/>
+        <updated>2022-09-13T07:06:28.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the No. 1 Stablecoin in Crypto]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Fire Sale Unlikely After Shanghai Upgrade: Nansen]]></title>
         <id>https://thedefiant.io/ether-staking-nansen-report/</id>
@@ -1033,16 +1043,6 @@ unprecedented measures being taken against the protocol and its users.]]></summa
         <summary type="html"><![CDATA[U.S. Sanction of Crypto Mixer Prompts MEV Defense Platform to Open Source]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hackers Bagged $2B This Year as Exploits Jumped 58%: Report]]></title>
-        <id>https://thedefiant.io/defi-hacks-up-2b/</id>
-        <link href="https://thedefiant.io/defi-hacks-up-2b/"/>
-        <updated>2022-08-19T06:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Chainalysis Found DeFi ‘Uniquely Vulnerable’ to Exploits]]></summary>
-        <author>
-            <name>Claire Gu</name>
         </author>
     </entry>
 </feed>
