@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T07:27:56.660Z</id>
+    <id>urn:2022-09-13T08:11:33.359Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T07:27:56.660Z</updated>
+    <updated>2022-09-13T08:11:33.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Users To Mint DAI for Free After Debt Ceiling Rises]]></title>
+        <id>https://thedefiant.io/makerdao-free-mint-dai/</id>
+        <link href="https://thedefiant.io/makerdao-free-mint-dai/"/>
+        <updated>2022-09-13T07:42:28.000Z</updated>
+        <summary type="html"><![CDATA[DeFi Lender’s Move Punctuates Overhaul of Model]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Tether?]]></title>
         <id>https://thedefiant.io/what-is-tether/</id>
@@ -1033,16 +1043,6 @@ different opinions on the ethical, legal and practical implications of the
 unprecedented measures being taken against the protocol and its users.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flashbots Blacklists Wallets Swept Up in Tornado Imbroglio]]></title>
-        <id>https://thedefiant.io/flashbots-blacklists-wallets-tornado/</id>
-        <link href="https://thedefiant.io/flashbots-blacklists-wallets-tornado/"/>
-        <updated>2022-08-19T09:08:04.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Sanction of Crypto Mixer Prompts MEV Defense Platform to Open Source]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
