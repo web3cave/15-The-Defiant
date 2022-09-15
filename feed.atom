@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T00:43:38.432Z</id>
+    <id>urn:2022-09-15T03:39:24.902Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-15T00:43:38.432Z</updated>
+    <updated>2022-09-15T03:39:24.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All The ETH On Aave Has Been Borrowed Ahead Of The Merge]]></title>
+        <id>https://thedefiant.io/aave-eth-maxed-out/</id>
+        <link href="https://thedefiant.io/aave-eth-maxed-out/"/>
+        <updated>2022-09-15T02:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Ether Borrow Rate Has Spiked To 190%]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound Treasury Launches Institutional Lending Service]]></title>
         <id>https://thedefiant.io/compound-treasury-lending/</id>
@@ -1025,16 +1035,6 @@ alternative Ethereum based transaction mixers.]]></summary>
         <summary type="html"><![CDATA[Legal Precedent Says Code is Protected by First Amendment]]></summary>
         <author>
             <name>Philipp Pieper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trader Joe Launches ‘Liquidity Book’ To Improve Capital Efficiency]]></title>
-        <id>https://thedefiant.io/trader-joe-v2-liquidity-book/</id>
-        <link href="https://thedefiant.io/trader-joe-v2-liquidity-book/"/>
-        <updated>2022-08-22T18:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Joe V2 Introduces Concentrated Liquidity]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
