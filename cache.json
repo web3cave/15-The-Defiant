@@ -6,14 +6,24 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-cosmos/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the ‘Internet of Blockchains’",
+          "link": "https://thedefiant.io/what-is-cosmos/",
+          "publishedOn": "2022-09-15T08:52:35.000Z",
+          "wordCount": 3005,
+          "title": "What Is Cosmos?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/15045210/FWVsxgSaQAAFFFC.jpg"
+        },
+        {
           "id": "https://thedefiant.io/etc-hashrate-surges/",
           "author": "Samuel Haig",
           "description": "Proof of Work Miners Seek Haven in Ethereum Classic as Main Network Goes PoS",
           "link": "https://thedefiant.io/etc-hashrate-surges/",
           "publishedOn": "2022-09-15T07:51:06.000Z",
-          "wordCount": 1700,
+          "wordCount": 1699,
           "title": "Miners Pile Into Ethereum Classic Minutes After Merge as Hashrate Spikes  71%",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/15015816/MergeMarketReaction.jpg"
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/15042741/PostMergeMEV.jpg"
         },
         {
           "id": "https://thedefiant.io/the-merge-live/",
@@ -994,16 +1004,6 @@
           "wordCount": 2413,
           "title": "[SPONSORED] Pods Yield: Accumulate more ETH through volatility without risking your capital",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/23090610/SPONSORED-Pods-Yield-access-derivatives-strategies-with-one-click..jpg"
-        },
-        {
-          "id": "https://thedefiant.io/tornado-cash-alternatives/",
-          "author": "Robin Schmidt",
-          "description": "Tornado Cash is blacklisted. What now? In this video we’re taking a look at\nalternative Ethereum based transaction mixers.",
-          "link": "https://thedefiant.io/tornado-cash-alternatives/",
-          "publishedOn": "2022-08-23T12:53:51.000Z",
-          "wordCount": 639,
-          "title": "TORNADO CASH ALTERNATIVES",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/23085330/TORNADO-CASH-ALTERNATIVES.jpg"
         }
       ]
     }

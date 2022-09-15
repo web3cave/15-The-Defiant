@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T08:10:28.690Z</id>
+    <id>urn:2022-09-15T09:11:35.789Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-15T08:10:28.690Z</updated>
+    <updated>2022-09-15T09:11:35.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Cosmos?]]></title>
+        <id>https://thedefiant.io/what-is-cosmos/</id>
+        <link href="https://thedefiant.io/what-is-cosmos/"/>
+        <updated>2022-09-15T08:52:35.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the ‘Internet of Blockchains’]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miners Pile Into Ethereum Classic Minutes After Merge as Hashrate Spikes  71%]]></title>
         <id>https://thedefiant.io/etc-hashrate-surges/</id>
@@ -1025,17 +1035,6 @@ market risk to your principal. The strategy unlocks the power of options to earn
 more with volatility.]]></summary>
         <author>
             <name>Pods Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TORNADO CASH ALTERNATIVES]]></title>
-        <id>https://thedefiant.io/tornado-cash-alternatives/</id>
-        <link href="https://thedefiant.io/tornado-cash-alternatives/"/>
-        <updated>2022-08-23T12:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Tornado Cash is blacklisted. What now? In this video we’re taking a look at
-alternative Ethereum based transaction mixers.]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
