@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T10:07:44.425Z</id>
+    <id>urn:2022-09-16T11:06:15.601Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T10:07:44.425Z</updated>
+    <updated>2022-09-16T11:06:15.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase One of Five Platforms to Lock Up Half of Staked ETH]]></title>
+        <id>https://thedefiant.io/control-staked-eth/</id>
+        <link href="https://thedefiant.io/control-staked-eth/"/>
+        <updated>2022-09-16T10:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Rapid Consolidation of Tokens May be Blow to Decentralization]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New PoW Ethereum Fork Plunges 75% Amid Flurry of Problems]]></title>
         <id>https://thedefiant.io/ethpow-rough-start-after-merge/</id>
@@ -1025,16 +1035,6 @@ Ethereum mainnet, the …]]></summary>
         <summary type="html"><![CDATA[Crypto Exchange Is The Second Largest Staker In The Beacon Chain]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash Developer Pertsev Remanded For 90 Days]]></title>
-        <id>https://thedefiant.io/tornado-dev-90-days-jail/</id>
-        <link href="https://thedefiant.io/tornado-dev-90-days-jail/"/>
-        <updated>2022-08-24T20:05:24.000Z</updated>
-        <summary type="html"><![CDATA[Dutch Judge Denies Bail Request]]></summary>
-        <author>
-            <name>Jason Levin</name>
         </author>
     </entry>
 </feed>
