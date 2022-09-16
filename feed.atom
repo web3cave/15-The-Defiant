@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T00:41:59.848Z</id>
+    <id>urn:2022-09-16T03:42:36.117Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T00:41:59.848Z</updated>
+    <updated>2022-09-16T03:42:36.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Plummets Post-Merge as DeFi Chugs Along]]></title>
+        <id>https://thedefiant.io/eth-merge-selloff/</id>
+        <link href="https://thedefiant.io/eth-merge-selloff/"/>
+        <updated>2022-09-16T03:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Ether Is Down Nearly 10% In The Past 24 Hours]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exchanges Resume ETH Transfers After Successful Merge]]></title>
+        <id>https://thedefiant.io/exchanges-resume-eth/</id>
+        <link href="https://thedefiant.io/exchanges-resume-eth/"/>
+        <updated>2022-09-16T01:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Deposits And Withdrawals Of ETH and ERC-20 Tokens Have Been Restarted]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Cosmos?]]></title>
         <id>https://thedefiant.io/what-is-cosmos/</id>
@@ -1013,28 +1033,6 @@ Ethereum mainnet, the …]]></summary>
         <summary type="html"><![CDATA[Series B Led By a16z’s $600M Games Fund One]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BendDAO Passes Emergency Changes Amid Liquidations]]></title>
-        <id>https://thedefiant.io/benddao-emergency-changes/</id>
-        <link href="https://thedefiant.io/benddao-emergency-changes/"/>
-        <updated>2022-08-23T20:22:26.000Z</updated>
-        <summary type="html"><![CDATA[NFT Lending Protocol Relaxes Bidding Requirements]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPONSORED] Pods Yield: Accumulate more ETH through volatility without risking your capital]]></title>
-        <id>https://thedefiant.io/pods-yield-accumulate-more-eth-through-volatility-without-risking-your-capital/</id>
-        <link href="https://thedefiant.io/pods-yield-accumulate-more-eth-through-volatility-without-risking-your-capital/"/>
-        <updated>2022-08-23T13:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Pods Yield’s first vault, stETHvv, is the new best way to compound ETH with no
-market risk to your principal. The strategy unlocks the power of options to earn
-more with volatility.]]></summary>
-        <author>
-            <name>Pods Finance</name>
         </author>
     </entry>
 </feed>
