@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-synthetix/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Primer on the DeFi Derivatives Platform",
+          "link": "https://thedefiant.io/what-is-synthetix/",
+          "publishedOn": "2022-09-19T09:15:35.000Z",
+          "wordCount": 2624,
+          "title": "What Is Synthetix?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/19050716/WhatIsSynthetix.jpg"
+        },
+        {
           "id": "https://thedefiant.io/sec-ethereum-securities/",
           "author": "Aleksandar Gilbert",
           "description": "Crypto Supporters Decry Move to Treat Ethereum Same as Stocks and Bonds",
@@ -994,16 +1004,6 @@
           "wordCount": 2947,
           "title": "Rocket Pool To Incentivize rETH Liquidity",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/25155354/RocketpoolIncentivesProposals.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-scaling-eip-4844/",
-          "author": "Samuel Haig",
-          "description": "Proto-Danksharding Could Boost Throughput Of Layer 2 Rollups By 100x",
-          "link": "https://thedefiant.io/ethereum-scaling-eip-4844/",
-          "publishedOn": "2022-08-25T19:28:17.000Z",
-          "wordCount": 2588,
-          "title": "The Merge Won’t Drive Big Scalability Gains For Ethereum, But EIP-4844 Might",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/25152220/EIP4484.jpg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T09:12:58.978Z</id>
+    <id>urn:2022-09-19T10:08:02.619Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-19T09:12:58.978Z</updated>
+    <updated>2022-09-19T10:08:02.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Synthetix?]]></title>
+        <id>https://thedefiant.io/what-is-synthetix/</id>
+        <link href="https://thedefiant.io/what-is-synthetix/"/>
+        <updated>2022-09-19T09:15:35.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Primer on the DeFi Derivatives Platform]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gensler Rattles DeFi With Suggestion PoS Coins are Securities]]></title>
         <id>https://thedefiant.io/sec-ethereum-securities/</id>
@@ -1024,16 +1034,6 @@ Ethereum mainnet, the …]]></summary>
         <summary type="html"><![CDATA[Nine-Member Team Will Be Tasked With Crafting RPL Incentives]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Merge Won’t Drive Big Scalability Gains For Ethereum, But EIP-4844 Might]]></title>
-        <id>https://thedefiant.io/ethereum-scaling-eip-4844/</id>
-        <link href="https://thedefiant.io/ethereum-scaling-eip-4844/"/>
-        <updated>2022-08-25T19:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Proto-Danksharding Could Boost Throughput Of Layer 2 Rollups By 100x]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
