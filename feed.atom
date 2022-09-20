@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T06:39:25.751Z</id>
+    <id>urn:2022-09-20T07:18:07.947Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T06:39:25.751Z</updated>
+    <updated>2022-09-20T07:18:07.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[A Step-by-Step Primer on the DeFi Derivatives Platform]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge Completed – What’s Next?]]></title>
+        <id>https://thedefiant.io/merge-completed-whats-next/</id>
+        <link href="https://thedefiant.io/merge-completed-whats-next/"/>
+        <updated>2022-09-19T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Post Merge Update]]></summary>
+        <author>
+            <name>Robin Schmidt</name>
         </author>
     </entry>
     <entry>
@@ -1025,16 +1035,6 @@ together of the proof of work beacon chain, the consensus layer, with the
 Ethereum mainnet, the …]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stargate’s STG Token Surges Ahead Of FTX Listing]]></title>
-        <id>https://thedefiant.io/stargate-surges-ftx-listing/</id>
-        <link href="https://thedefiant.io/stargate-surges-ftx-listing/"/>
-        <updated>2022-08-26T05:16:11.000Z</updated>
-        <summary type="html"><![CDATA[The Cross-Chain Protocol’s TVL Is Up 60% In A Week]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
