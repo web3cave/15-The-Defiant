@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T11:06:30.078Z</id>
+    <id>urn:2022-09-20T12:15:39.722Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T11:06:30.078Z</updated>
+    <updated>2022-09-20T12:15:39.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Massive Dumping’ by Ethereum Miners Punishes ETH]]></title>
+        <id>https://thedefiant.io/miners-dump-eth/</id>
+        <link href="https://thedefiant.io/miners-dump-eth/"/>
+        <updated>2022-09-20T11:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Shift to Proof of Stake Roils ETH Market But Perhaps Only for the Short Term]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Maker?]]></title>
         <id>https://thedefiant.io/what-is-maker/</id>
@@ -1020,17 +1030,6 @@ of stablecoins.]]></summary>
         <summary type="html"><![CDATA[$24M Series A Was Led By Haun Ventures]]></summary>
         <author>
             <name>Jason Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetix Community Considers Ditching Inflationary Tokenomics]]></title>
-        <id>https://thedefiant.io/synthetix-scraps-inflationary-tokenomics/</id>
-        <link href="https://thedefiant.io/synthetix-scraps-inflationary-tokenomics/"/>
-        <updated>2022-08-26T14:58:59.000Z</updated>
-        <summary type="html"><![CDATA[The Synthetix community is considering putting an end to its inflationary
-economics in ten weeks’ time.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
