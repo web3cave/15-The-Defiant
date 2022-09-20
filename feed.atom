@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T03:31:40.875Z</id>
+    <id>urn:2022-09-20T05:17:19.018Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T03:31:40.875Z</updated>
+    <updated>2022-09-20T05:17:19.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ENS Regains Control Of eth.link Domain]]></title>
+        <id>https://thedefiant.io/ens-regains-ethlink-domain/</id>
+        <link href="https://thedefiant.io/ens-regains-ethlink-domain/"/>
+        <updated>2022-09-20T04:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Manifold Finance Purchased The Domain For $850K Two Weeks Ago]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proof of Work Mining Craters After Ethereum’s Merge]]></title>
         <id>https://thedefiant.io/pow-miners-suffer-after-merge/</id>
@@ -1025,15 +1035,6 @@ Ethereum mainnet, the …]]></summary>
         <summary type="html"><![CDATA[The Cross-Chain Protocol’s TVL Is Up 60% In A Week]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Esports joins the block & how to produce The Degen Trilogy]]></title>
-        <id>https://thedefiant.io/esports-joins-the-block-how-to-produce-the-degen-trilogy/</id>
-        <link href="https://thedefiant.io/esports-joins-the-block-how-to-produce-the-degen-trilogy/"/>
-        <updated>2022-08-26T03:46:00.000Z</updated>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
