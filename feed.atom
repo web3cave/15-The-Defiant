@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T07:18:07.947Z</id>
+    <id>urn:2022-09-20T08:11:52.129Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T07:18:07.947Z</updated>
+    <updated>2022-09-20T08:11:52.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Maker?]]></title>
+        <id>https://thedefiant.io/what-is-maker/</id>
+        <link href="https://thedefiant.io/what-is-maker/"/>
+        <updated>2022-09-20T07:34:57.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to One of DeFi Most Influential Lending Protocols]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENS Regains Control Of eth.link Domain]]></title>
         <id>https://thedefiant.io/ens-regains-ethlink-domain/</id>
@@ -1021,20 +1031,6 @@ of stablecoins.]]></summary>
 economics in ten weeks’ time.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The Merge Might Fail]]></title>
-        <id>https://thedefiant.io/why-the-merge-might-fail/</id>
-        <link href="https://thedefiant.io/why-the-merge-might-fail/"/>
-        <updated>2022-08-26T07:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Yes, hard as it is to believe, after all the setbacks, breakthroughs, delays,
-two steps forward, one step back… three steps sideways… up down left right… the
-single most significant event in blockchain history is upon us: the coming
-together of the proof of work beacon chain, the consensus layer, with the
-Ethereum mainnet, the …]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
