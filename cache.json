@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-staking-delio-bank/",
+          "author": "Samuel Haig",
+          "description": "Institutions Moving into Ethereum Staking Post-Merge",
+          "link": "https://thedefiant.io/ethereum-staking-delio-bank/",
+          "publishedOn": "2022-09-23T08:03:48.000Z",
+          "wordCount": 1665,
+          "title": "Korean Crypto Bank Inks Deal to Offer Ethereum Staking to Investors",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/23035242/DelioInstitutionalStaking.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/what-is-avalanche/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the Layer 2 Blockchain Network",
+          "link": "https://thedefiant.io/what-is-avalanche/",
+          "publishedOn": "2022-09-23T07:40:07.000Z",
+          "wordCount": 3139,
+          "title": "What Is Avalanche?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/23032437/WhatIsAvax.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/exploring-ethereums-on-chain-activity-after-the-merge/",
+          "author": "IntoTheBlock",
+          "description": "Mechanics of Ethereum’s Blockchain Are Changing in a Proof of Stake World",
+          "link": "https://thedefiant.io/exploring-ethereums-on-chain-activity-after-the-merge/",
+          "publishedOn": "2022-09-23T07:24:01.000Z",
+          "wordCount": 1778,
+          "title": "Exploring Ethereum’s On-Chain Activity After The Merge",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/23032006/IntoTheBlockETHPostMerge.jpg"
+        },
+        {
           "id": "https://thedefiant.io/solana-nft-boom/",
           "author": "Aleksandar Gilbert",
           "description": "Transactions Crossed 1M For The First Time This Month",
@@ -31,7 +61,7 @@
           "description": "Agency Reveals $250,000 Settlement With bZx And Its Founders",
           "link": "https://thedefiant.io/cftc-sues-dao/",
           "publishedOn": "2022-09-23T00:36:56.000Z",
-          "wordCount": 1447,
+          "wordCount": 1497,
           "title": "CFTC Files Civil Lawsuit Against Ooki DAO",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/22203401/cftcsuesdao.jpg"
         },
@@ -74,6 +104,16 @@
           "wordCount": 3240,
           "title": "What Is Yearn Finance?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/21040744/WhatIsYearn2.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/vector-meldrew-comes-out-swinging-with-broadside/",
+          "author": "Robin Schmidt",
+          "description": "",
+          "link": "https://thedefiant.io/vector-meldrew-comes-out-swinging-with-broadside/",
+          "publishedOn": "2022-09-22T07:48:00.000Z",
+          "wordCount": 599,
+          "title": "Vector Meldrew comes out swinging with Broadside",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/23035007/Vector-Meldrew-comes-out-swinging-with-Broadside.jpg"
         },
         {
           "id": "https://thedefiant.io/markets-dive-after-fed-hike/",
@@ -964,46 +1004,6 @@
           "wordCount": 1372,
           "title": "Compound ETH Market Frozen Due to Upgrade Bug",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/31232609/cETHPaused.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/bitcoin-dominance-under-40/",
-          "author": "Owen Fernau",
-          "description": "ETH Miner Balances At All-Time Highs Ahead Of The Merge",
-          "link": "https://thedefiant.io/bitcoin-dominance-under-40/",
-          "publishedOn": "2022-08-31T19:21:28.000Z",
-          "wordCount": 1854,
-          "title": "Bitcoin Dominance Drops Under 40% For The First Time Since January",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/31150612/BTCDominanceDOWN.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/arbitrum-nitro-upgrade/",
-          "author": "Samuel Haig",
-          "description": "No. 1 Layer 2 Blockchain Expects Nitro to Deliver Speed and Efficiency",
-          "link": "https://thedefiant.io/arbitrum-nitro-upgrade/",
-          "publishedOn": "2022-08-31T14:50:03.000Z",
-          "wordCount": 830,
-          "title": "Arbitrum Executes Upgrade in Push to Scale Ethereum",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/31071626/ArbitrumActivity.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/sushiswap-arca-sells-sushi/",
-          "author": "Samuel Haig",
-          "description": "After Shaping Sushi’s Reform Plan Arca Hits the Exits",
-          "link": "https://thedefiant.io/sushiswap-arca-sells-sushi/",
-          "publishedOn": "2022-08-31T10:37:06.000Z",
-          "wordCount": 2500,
-          "title": "SushiSwap Members Rejoice as Whale Bails from Token",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/31063108/ArcaDumpsSushi.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-the-merge/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Step-by-Step Guide to Ethereum’s Historic Upgrade",
-          "link": "https://thedefiant.io/what-is-the-merge/",
-          "publishedOn": "2022-08-31T07:22:14.000Z",
-          "wordCount": 3617,
-          "title": "What is The Merge?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/30033717/ETHMerge.jpg"
         }
       ]
     }
