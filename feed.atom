@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T03:35:54.045Z</id>
+    <id>urn:2022-09-23T05:16:29.617Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T03:35:54.045Z</updated>
+    <updated>2022-09-23T05:16:29.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFT Volumes Surge on Solana]]></title>
+        <id>https://thedefiant.io/solana-nft-boom/</id>
+        <link href="https://thedefiant.io/solana-nft-boom/"/>
+        <updated>2022-09-23T03:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Transactions Crossed 1M For The First Time This Month]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cardano Successfully Deploys ‘Vasil’ Upgrade]]></title>
         <id>https://thedefiant.io/cardano-vasil-upgrade/</id>
@@ -1015,16 +1025,6 @@ Executive Officer at Zcash and Founder and CEO at Electric Coin.]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to Ethereum’s Historic Upgrade]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christensen Calls For MakerDAO to Float Stablecoin]]></title>
-        <id>https://thedefiant.io/makerdao-dai-peg/</id>
-        <link href="https://thedefiant.io/makerdao-dai-peg/"/>
-        <updated>2022-08-31T07:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Outspoken Founder Says U.S. Clampdown Closing ‘Window of Opportunity’ for DeFi]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
