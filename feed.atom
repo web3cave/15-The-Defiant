@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T16:14:06.633Z</id>
+    <id>urn:2022-09-27T17:26:14.677Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T16:14:06.633Z</updated>
+    <updated>2022-09-27T17:26:14.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celsius CEO Mashinsky Resigns]]></title>
+        <id>https://thedefiant.io/celsius-ceo-resigns/</id>
+        <link href="https://thedefiant.io/celsius-ceo-resigns/"/>
+        <updated>2022-09-27T16:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Embattled Crypto Lender Froze Customer Assets In June]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More Than 80% of Ethereum Miners Pull the Plug After Merge]]></title>
         <id>https://thedefiant.io/ethereum-mining-plunges/</id>
@@ -1013,17 +1023,6 @@ Revenue]]></summary>
         <summary type="html"><![CDATA[Ether Is Up 3% After The 8:30 ET Release]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Traders Raked in $114M in Profits via MEV Stratagem]]></title>
-        <id>https://thedefiant.io/mev-trading-flashbots/</id>
-        <link href="https://thedefiant.io/mev-trading-flashbots/"/>
-        <updated>2022-09-02T14:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Trading Bots Quietly Make a Killing in a Market That is Supposed to Be
-‘Democratizing’]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
