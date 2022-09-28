@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T09:15:37.090Z</id>
+    <id>urn:2022-09-28T10:09:04.476Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T09:15:37.090Z</updated>
+    <updated>2022-09-28T10:09:04.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It Only Took An Hour for MEV Bot to Lose $1.4M in Brazen Heist]]></title>
+        <id>https://thedefiant.io/mev-stolen-eth/</id>
+        <link href="https://thedefiant.io/mev-stolen-eth/"/>
+        <updated>2022-09-28T09:52:07.000Z</updated>
+        <summary type="html"><![CDATA[‘We Got Careless’ Victim Tells Hacker in Bid to Recover Lost ETH]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Web3 Wallet Goes Live On Polygon]]></title>
+        <id>https://thedefiant.io/robinhood-web3-wallet-goes-live-on-polygon/</id>
+        <link href="https://thedefiant.io/robinhood-web3-wallet-goes-live-on-polygon/"/>
+        <updated>2022-09-28T09:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Beta Version Allows Gasless Swaps on Layer 2 Blockchain]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos Poised To Revamp ATOM Tokenomics]]></title>
         <id>https://thedefiant.io/cosmos-upgrades-proposed/</id>
@@ -1003,26 +1023,6 @@ Revenue]]></summary>
         <summary type="html"><![CDATA[GM and WAGMI. Unless your name is Michael Saylor.]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra Launches Second LUNA Airdrop to Repay Holders]]></title>
-        <id>https://thedefiant.io/terra-launches-second-luna-airdrop-to-repay-holders/</id>
-        <link href="https://thedefiant.io/terra-launches-second-luna-airdrop-to-repay-holders/"/>
-        <updated>2022-09-05T09:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Failed DeFi Project Issues Second Batch of Tokens]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Cryptocurrency Circulating Supply?]]></title>
-        <id>https://thedefiant.io/what-is-cryptocurrency-circulating-supply/</id>
-        <link href="https://thedefiant.io/what-is-cryptocurrency-circulating-supply/"/>
-        <updated>2022-09-05T09:12:56.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to a Key Metric in DeFi]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
