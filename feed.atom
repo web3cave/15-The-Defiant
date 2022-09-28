@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T17:29:09.927Z</id>
+    <id>urn:2022-09-28T18:15:05.272Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T17:29:09.927Z</updated>
+    <updated>2022-09-28T18:15:05.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Bridging?]]></title>
+        <id>https://thedefiant.io/what-is-bridging/</id>
+        <link href="https://thedefiant.io/what-is-bridging/"/>
+        <updated>2022-09-28T17:36:30.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to One of the Most Important Features in DeFi]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powell Strikes Conciliatory Tone on DeFi]]></title>
         <id>https://thedefiant.io/powell-on-defi/</id>
@@ -1013,16 +1023,6 @@ Revenue]]></summary>
         <summary type="html"><![CDATA[CZ Says Move Will Stoke Liquidity But Critics Cry Foul]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is NEAR Protocol?]]></title>
-        <id>https://thedefiant.io/what-is-near-protocol-2/</id>
-        <link href="https://thedefiant.io/what-is-near-protocol-2/"/>
-        <updated>2022-09-06T07:04:41.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to A Key Challenger Blockchain to Ethereum]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
