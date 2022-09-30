@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T09:18:03.031Z</id>
+    <id>urn:2022-09-30T10:10:02.893Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T09:18:03.031Z</updated>
+    <updated>2022-09-30T10:10:02.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Winklevoss Offers MakerDAO Deal But Christensen May Be Underwhelmed]]></title>
+        <id>https://thedefiant.io/makerdao-gemini-deal/</id>
+        <link href="https://thedefiant.io/makerdao-gemini-deal/"/>
+        <updated>2022-09-30T09:57:58.000Z</updated>
+        <summary type="html"><![CDATA[Gemini’s Offer to Deposit Stablecoin with Maker is Latest Tempting CeFi]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olympus Slashes OHM Inflation In Bid For Sustainability]]></title>
         <id>https://thedefiant.io/ohm-yield-slashed/</id>
@@ -1013,17 +1023,6 @@ Product]]></summary>
         <summary type="html"><![CDATA[Ether Is Up 5% In A Week While Bitcoin Has Declined 3.5%]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Surprises MakerDAO with Pitch to Load Up on USDC]]></title>
-        <id>https://thedefiant.io/makerdao-coinbase-proposal/</id>
-        <link href="https://thedefiant.io/makerdao-coinbase-proposal/"/>
-        <updated>2022-09-07T08:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Proposal Could Change Christensen’s Bid to Lessen Reliance on Centralized
-Revenue]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
