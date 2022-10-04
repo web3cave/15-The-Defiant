@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T08:12:05.519Z</id>
+    <id>urn:2022-10-04T09:13:33.076Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T08:12:05.519Z</updated>
+    <updated>2022-10-04T09:13:33.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ribbon Targets Institutional Investors for Unsecured Lending Offering]]></title>
+        <id>https://thedefiant.io/ribbon-lend-institutional-investors/</id>
+        <link href="https://thedefiant.io/ribbon-lend-institutional-investors/"/>
+        <updated>2022-10-04T08:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Users Lend to Wintermute and SBF-Backed Folkvang in Early Moves]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Lender Euler Finance Accepts USDT as Collateral]]></title>
         <id>https://thedefiant.io/euler-usdt-collateral/</id>
@@ -43,6 +53,16 @@
         <summary type="html"><![CDATA[A Step-by-Step Guide to the Costs of Using Ethereum]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What if Credit Suisse was a Crypto bank?]]></title>
+        <id>https://thedefiant.io/what-if-credit-suisse-was-a-crypto-bank/</id>
+        <link href="https://thedefiant.io/what-if-credit-suisse-was-a-crypto-bank/"/>
+        <updated>2022-10-03T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Credit Suisse, U OK?]]></summary>
+        <author>
+            <name>Marvin Lanes</name>
         </author>
     </entry>
     <entry>
@@ -997,26 +1017,6 @@ an ENS domain, …]]></summary>
         <summary type="html"><![CDATA[Series B Was Led By FTX Ventures]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Doubles Down on Crypto Regulations As Industry Pushes Back]]></title>
-        <id>https://thedefiant.io/coinbase-tornado-lawsuit/</id>
-        <link href="https://thedefiant.io/coinbase-tornado-lawsuit/"/>
-        <updated>2022-09-09T04:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Backs Lawsuit Seeking To Overturn Tornado Cash Sanctions]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave DAO Votes To Pay Developers $15M]]></title>
-        <id>https://thedefiant.io/aave-v3-compensation/</id>
-        <link href="https://thedefiant.io/aave-v3-compensation/"/>
-        <updated>2022-09-08T19:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Retroactive Funding Will Cover Development and Audit Costs of Aave V3]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
