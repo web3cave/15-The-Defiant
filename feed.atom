@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T05:38:42.657Z</id>
+    <id>urn:2022-10-05T06:24:56.156Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T05:38:42.657Z</updated>
+    <updated>2022-10-05T06:24:56.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is UMA?]]></title>
+        <id>https://thedefiant.io/what-is-uma/</id>
+        <link href="https://thedefiant.io/what-is-uma/"/>
+        <updated>2022-10-05T06:06:35.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to Tokenization of Off-Chain Assets]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Data Provider for Uniswap and Other DeFi Platforms Quietly Scales Up]]></title>
         <id>https://thedefiant.io/the-graph-blockchain-data-scaling/</id>
@@ -1001,16 +1011,6 @@ viewers, to join me in a brief moment of silence for… Ethereum miners.]]></sum
         <link href="https://thedefiant.io/ens-godaddy-lawsuit/"/>
         <updated>2022-09-09T19:25:57.000Z</updated>
         <summary type="html"><![CDATA[Domain Sold To Manifold Finance For $852,000]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Enters Zero-Knowledge Race With zkBNB]]></title>
-        <id>https://thedefiant.io/binance-zkbnb/</id>
-        <link href="https://thedefiant.io/binance-zkbnb/"/>
-        <updated>2022-09-09T16:58:02.000Z</updated>
-        <summary type="html"><![CDATA[BNB Chain Is The Third-Largest Smart Contract Network]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
