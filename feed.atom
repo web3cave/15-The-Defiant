@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T06:24:56.156Z</id>
+    <id>urn:2022-10-05T07:22:19.477Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T06:24:56.156Z</updated>
+    <updated>2022-10-05T07:22:19.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,17 @@
         <summary type="html"><![CDATA[Users Lend to Wintermute and SBF-Backed Folkvang in Early Moves]]></summary>
         <author>
             <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsecured Lending is becoming a crowded game]]></title>
+        <id>https://thedefiant.io/unsecured-lending-is-becoming-a-crowded-game/</id>
+        <link href="https://thedefiant.io/unsecured-lending-is-becoming-a-crowded-game/"/>
+        <updated>2022-10-04T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For today’s quick take, we’re looking at DeFi lending. Specifically, unsecured
+loans in DeFi.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -1003,16 +1014,6 @@ viewers, to join me in a brief moment of silence for… Ethereum miners.]]></sum
         <summary type="html"><![CDATA[Rocket Pool’s RPL Leads Among DeFi Tokens]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENS Sues GoDaddy and Manifold Finance Over eth.link Sale]]></title>
-        <id>https://thedefiant.io/ens-godaddy-lawsuit/</id>
-        <link href="https://thedefiant.io/ens-godaddy-lawsuit/"/>
-        <updated>2022-09-09T19:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Domain Sold To Manifold Finance For $852,000]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
