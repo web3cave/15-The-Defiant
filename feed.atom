@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T02:56:11.647Z</id>
+    <id>urn:2022-10-08T03:54:03.489Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-08T02:56:11.647Z</updated>
+    <updated>2022-10-08T03:54:03.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO To Deploy $500M In Treasuries And Corporate Bonds]]></title>
+        <id>https://thedefiant.io/makerdao-500m-bonds/</id>
+        <link href="https://thedefiant.io/makerdao-500m-bonds/"/>
+        <updated>2022-10-08T03:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Move Comes Despite Founder’s Reservations About Real-World Assets]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mad about the Celsius Customer Dox? Pray Your CeFi App Doesn’t Go Bankrupt]]></title>
         <id>https://thedefiant.io/celsius-dox-not-exceptional/</id>
@@ -1007,16 +1017,6 @@ has been a heavy focus in not only accumulating BAL tokens, but also veBAL, the
 recently announced vote-escrowed token of Balancer.]]></summary>
         <author>
             <name>Aura Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Permits Tornado Cash Users to Access Crypto Deposits]]></title>
-        <id>https://thedefiant.io/tornado-cash-license-deposits/</id>
-        <link href="https://thedefiant.io/tornado-cash-license-deposits/"/>
-        <updated>2022-09-14T07:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Authorities Say Users Need License to Retrieve Funds From Sanctioned Mixer]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
