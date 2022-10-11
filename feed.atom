@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T09:14:40.404Z</id>
+    <id>urn:2022-10-11T10:09:34.585Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T09:14:40.404Z</updated>
+    <updated>2022-10-11T10:09:34.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Lido Floods Ethereum Layer 2s with Staked ETH Tokens Days After Launching Incentives Program]]></title>
+        <title type="html"><![CDATA[Hacker Pockets $677,000 and Free Pass to Settle TransitFinance Exploit]]></title>
+        <id>https://thedefiant.io/hacker-pockets-677000-and-free-pass-to-settle-transitfinance-exploit/</id>
+        <link href="https://thedefiant.io/hacker-pockets-677000-and-free-pass-to-settle-transitfinance-exploit/"/>
+        <updated>2022-10-11T09:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contract Bug Opened Up Swap Aggregator to $29M Hack]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido Floods Layer 2s with Staked ETH After Launching Incentives Program]]></title>
         <id>https://thedefiant.io/lido-lands-on-arbitrum-and-optimism/</id>
         <link href="https://thedefiant.io/lido-lands-on-arbitrum-and-optimism/"/>
         <updated>2022-10-11T00:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Lido is flooding Arbitrum and Optimism, Ethereum’s most popular scaling
-protocols, with its staked ETH tokens. And it’s set aside half a million dollars
-in incentives to do so.]]></summary>
+        <summary type="html"><![CDATA[Lido Scrambles to Counter Coinbase and Rocket Pool as Staked ETH Market Heats Up]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
         </author>
@@ -1004,16 +1012,6 @@ stablecoin]]></summary>
         <summary type="html"><![CDATA[The Merge with Manuel Rensink]]></summary>
         <author>
             <name>Robin Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Cosmos?]]></title>
-        <id>https://thedefiant.io/what-is-cosmos/</id>
-        <link href="https://thedefiant.io/what-is-cosmos/"/>
-        <updated>2022-09-15T08:52:35.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to the ‘Internet of Blockchains’]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
