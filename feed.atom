@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T23:08:12.773Z</id>
+    <id>urn:2022-10-11T00:44:21.933Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T23:08:12.773Z</updated>
+    <updated>2022-10-11T00:44:21.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Floods Ethereum Layer 2s with Staked ETH Tokens Days After Launching Incentives Program]]></title>
+        <id>https://thedefiant.io/lido-lands-on-arbitrum-and-optimism/</id>
+        <link href="https://thedefiant.io/lido-lands-on-arbitrum-and-optimism/"/>
+        <updated>2022-10-11T00:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Lido is flooding Arbitrum and Optimism, Ethereum’s most popular scaling
+protocols, with its staked ETH tokens. And it’s set aside half a million dollars
+in incentives to do so.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ says crypto is about “security” but BSC gets hacked anyway]]></title>
+        <id>https://thedefiant.io/cz-says-crypto-is-about-security-but-bsc-gets-hacked-anyway/</id>
+        <link href="https://thedefiant.io/cz-says-crypto-is-about-security-but-bsc-gets-hacked-anyway/"/>
+        <updated>2022-10-10T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[BSC Hack Explained]]></summary>
+        <author>
+            <name>Marvin Lanes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ether Turns Deflationary as Experimental Project Pushes Up Gas Prices]]></title>
         <id>https://thedefiant.io/eth-deflation-xen/</id>
@@ -992,27 +1014,6 @@ stablecoin]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to the ‘Internet of Blockchains’]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miners Pile Into Ethereum Classic Minutes After Merge as Hashrate Spikes  71%]]></title>
-        <id>https://thedefiant.io/etc-hashrate-surges/</id>
-        <link href="https://thedefiant.io/etc-hashrate-surges/"/>
-        <updated>2022-09-15T07:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Proof of Work Miners Seek Haven in Ethereum Classic as Main Network Goes PoS]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Merge Goes Live in Historic Upgrade for Ethereum]]></title>
-        <id>https://thedefiant.io/the-merge-live/</id>
-        <link href="https://thedefiant.io/the-merge-live/"/>
-        <updated>2022-09-15T06:50:58.000Z</updated>
-        <summary type="html"><![CDATA[After Years of Toil and Tests Ethereum Shifts to Proof of Stake and Sets Stage
-for Further Changes]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
