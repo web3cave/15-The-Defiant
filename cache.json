@@ -6,13 +6,23 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-are-daos/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the Cooperative Entities at the Heart of DeFi",
+          "link": "https://thedefiant.io/what-are-daos/",
+          "publishedOn": "2022-10-11T17:51:43.000Z",
+          "wordCount": 2995,
+          "title": "What Is a DAO?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/11115235/WhatIsADAO.jpg"
+        },
+        {
           "id": "https://thedefiant.io/sec-investigates-yuga/",
           "author": "Owen Fernau",
-          "description": "Regulators Reportedly Examining Bored Ape Studio in Latest Step in Crackdown",
+          "description": "Regulators Reportedly Examining Bored Ape Studio as Crackdown Intensifies",
           "link": "https://thedefiant.io/sec-investigates-yuga/",
           "publishedOn": "2022-10-11T17:12:27.000Z",
-          "wordCount": 1269,
-          "title": "SEC Probing Yuga Labs Issuance of NFTs and Token: Report",
+          "wordCount": 1587,
+          "title": "SEC Probing Yuga Labs’ Issuance of NFTs and Token: Report",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/11130704/YugaSEC.jpg"
         },
         {
@@ -994,16 +1004,6 @@
           "wordCount": 3065,
           "title": "What Is Wrapped Bitcoin?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/16032618/WhatIsWrappedBTC.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/eth-merge-selloff/",
-          "author": "Owen Fernau",
-          "description": "Ether Is Down Nearly 10% In The Past 24 Hours",
-          "link": "https://thedefiant.io/eth-merge-selloff/",
-          "publishedOn": "2022-09-16T03:35:06.000Z",
-          "wordCount": 2081,
-          "title": "ETH Plummets Post-Merge as DeFi Chugs Along",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/15233245/PostMergeMarkets.jpg"
         }
       ]
     }

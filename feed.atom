@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T17:22:09.627Z</id>
+    <id>urn:2022-10-11T18:12:38.308Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T17:22:09.627Z</updated>
+    <updated>2022-10-11T18:12:38.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[SEC Probing Yuga Labs Issuance of NFTs and Token: Report]]></title>
+        <title type="html"><![CDATA[What Is a DAO?]]></title>
+        <id>https://thedefiant.io/what-are-daos/</id>
+        <link href="https://thedefiant.io/what-are-daos/"/>
+        <updated>2022-10-11T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Cooperative Entities at the Heart of DeFi]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Probing Yuga Labs’ Issuance of NFTs and Token: Report]]></title>
         <id>https://thedefiant.io/sec-investigates-yuga/</id>
         <link href="https://thedefiant.io/sec-investigates-yuga/"/>
         <updated>2022-10-11T17:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Regulators Reportedly Examining Bored Ape Studio in Latest Step in Crackdown]]></summary>
+        <summary type="html"><![CDATA[Regulators Reportedly Examining Bored Ape Studio as Crackdown Intensifies]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -1002,16 +1012,6 @@ stablecoin]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to Using Bitcoin on the Ethereum Network]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Plummets Post-Merge as DeFi Chugs Along]]></title>
-        <id>https://thedefiant.io/eth-merge-selloff/</id>
-        <link href="https://thedefiant.io/eth-merge-selloff/"/>
-        <updated>2022-09-16T03:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Ether Is Down Nearly 10% In The Past 24 Hours]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
