@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T16:13:51.069Z</id>
+    <id>urn:2022-10-11T17:22:09.627Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T16:13:51.069Z</updated>
+    <updated>2022-10-11T17:22:09.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Probing Yuga Labs Issuance of NFTs and Token: Report]]></title>
+        <id>https://thedefiant.io/sec-investigates-yuga/</id>
+        <link href="https://thedefiant.io/sec-investigates-yuga/"/>
+        <updated>2022-10-11T17:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Regulators Reportedly Examining Bored Ape Studio in Latest Step in Crackdown]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SushiSwap’s Grey Hit By Wild Allegations of Impropriety]]></title>
         <id>https://thedefiant.io/sushiswap-grey-denies-accusations/</id>
@@ -1002,16 +1012,6 @@ stablecoin]]></summary>
         <summary type="html"><![CDATA[Ether Is Down Nearly 10% In The Past 24 Hours]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exchanges Resume ETH Transfers After Successful Merge]]></title>
-        <id>https://thedefiant.io/exchanges-resume-eth/</id>
-        <link href="https://thedefiant.io/exchanges-resume-eth/"/>
-        <updated>2022-09-16T01:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Deposits And Withdrawals Of ETH and ERC-20 Tokens Have Been Restarted]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
