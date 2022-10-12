@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T03:30:55.830Z</id>
+    <id>urn:2022-10-12T04:57:58.504Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T03:30:55.830Z</updated>
+    <updated>2022-10-12T04:57:58.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve DAO Votes To Enable Permissionless Rewards]]></title>
+        <id>https://thedefiant.io/curve-permissionless-rewards/</id>
+        <link href="https://thedefiant.io/curve-permissionless-rewards/"/>
+        <updated>2022-10-12T03:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Projects Can Now Freely Add Native Token Rewards To Existing Gauges]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is a DAO?]]></title>
         <id>https://thedefiant.io/what-are-daos/</id>
@@ -1002,16 +1012,6 @@ research at Liquity, a DeFi lending protocol and the issuer of the LUSD
 stablecoin]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Wrapped Bitcoin?]]></title>
-        <id>https://thedefiant.io/what-is-wrapped-bitcoin/</id>
-        <link href="https://thedefiant.io/what-is-wrapped-bitcoin/"/>
-        <updated>2022-09-16T07:27:30.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to Using Bitcoin on the Ethereum Network]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
