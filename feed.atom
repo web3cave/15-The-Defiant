@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T21:08:42.574Z</id>
+    <id>urn:2022-10-12T23:08:07.187Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T21:08:42.574Z</updated>
+    <updated>2022-10-12T23:08:07.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Attacker Behind $116M Mango Markets Exploit Eyes $65M Bounty]]></title>
+        <id>https://thedefiant.io/attacker-behind-116m-mango-markets-exploit-eyes-65m-bounty/</id>
+        <link href="https://thedefiant.io/attacker-behind-116m-mango-markets-exploit-eyes-65m-bounty/"/>
+        <updated>2022-10-12T21:09:33.000Z</updated>
+        <summary type="html"><![CDATA[In What May Be A New Record For DeFi, Mango Markets, Temple DAO and RabbySwap
+Were All Exploited On Oct. 11]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave DAO Votes for Fresh Deployment on Ethereum]]></title>
         <id>https://thedefiant.io/aave-fresh-deployment-ethereum/</id>
@@ -1000,16 +1011,6 @@ the rounds: “Zero-Knowledge” or “ZK”.]]></summary>
         <summary type="html"><![CDATA[ETH Issuance Has Dropped By 97%]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase One of Five Platforms to Lock Up Half of Staked ETH]]></title>
-        <id>https://thedefiant.io/control-staked-eth/</id>
-        <link href="https://thedefiant.io/control-staked-eth/"/>
-        <updated>2022-09-16T10:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Rapid Consolidation of Tokens May be Blow to Decentralization]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
