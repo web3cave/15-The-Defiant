@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T15:09:52.195Z</id>
+    <id>urn:2022-10-13T16:13:20.744Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T15:09:52.195Z</updated>
+    <updated>2022-10-13T16:13:20.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Dive As U.S. Inflation Shows No Sign Of Easing]]></title>
+        <id>https://thedefiant.io/markets-dive-us-inflation/</id>
+        <link href="https://thedefiant.io/markets-dive-us-inflation/"/>
+        <updated>2022-10-13T15:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Core CPI At 6.6% YoY Is The Highest Since 1982]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Lido?]]></title>
         <id>https://thedefiant.io/what-is-lido/</id>
@@ -1002,16 +1012,6 @@ the rounds: “Zero-Knowledge” or “ZK”.]]></summary>
         <summary type="html"><![CDATA[Ethereum Miners Struggle to Find Their Footing After The Merge]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Synthetix?]]></title>
-        <id>https://thedefiant.io/what-is-synthetix/</id>
-        <link href="https://thedefiant.io/what-is-synthetix/"/>
-        <updated>2022-09-19T09:15:35.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Primer on the DeFi Derivatives Platform]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
