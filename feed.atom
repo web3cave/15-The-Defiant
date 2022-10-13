@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T11:08:20.480Z</id>
+    <id>urn:2022-10-13T12:15:20.574Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T11:08:20.480Z</updated>
+    <updated>2022-10-13T12:15:20.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Lido?]]></title>
+        <id>https://thedefiant.io/what-is-lido/</id>
+        <link href="https://thedefiant.io/what-is-lido/"/>
+        <updated>2022-10-13T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Staking Powerhouse]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SushiSwap’s Grey Rebuts Accusations Made ‘Without Any Substantial Evidence’]]></title>
         <id>https://thedefiant.io/sushiswap-grey-rejects-accusations/</id>
@@ -1002,16 +1012,6 @@ the rounds: “Zero-Knowledge” or “ZK”.]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Primer on the DeFi Derivatives Platform]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge Completed – What’s Next?]]></title>
-        <id>https://thedefiant.io/merge-completed-whats-next/</id>
-        <link href="https://thedefiant.io/merge-completed-whats-next/"/>
-        <updated>2022-09-19T07:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Post Merge Update]]></summary>
-        <author>
-            <name>Robin Schmidt</name>
         </author>
     </entry>
 </feed>
