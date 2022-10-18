@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T14:26:47.365Z</id>
+    <id>urn:2022-10-18T15:10:54.195Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T14:26:47.365Z</updated>
+    <updated>2022-10-18T15:10:54.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Platform Sells House as an NFT on OpenSea]]></title>
+        <id>https://thedefiant.io/house-sold-on-opensea/</id>
+        <link href="https://thedefiant.io/house-sold-on-opensea/"/>
+        <updated>2022-10-18T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Sale of $175,000 House Settled with USDC Stablecoins]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lead Frontend Engineer]]></title>
         <id>https://thedefiant.io/lead-frontend-engineer/</id>
@@ -1005,16 +1015,6 @@ entitled, ‘Consumer and Investor Protection.’]]></summary>
         <summary type="html"><![CDATA[Mechanics of Ethereum’s Blockchain Are Changing in a Proof of Stake World]]></summary>
         <author>
             <name>IntoTheBlock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys’ Ben Edgington On The Future Of Ethereum After The Merge]]></title>
-        <id>https://thedefiant.io/consensys-ben-edgington-on-the-future-of-ethereum-after-the-merge/</id>
-        <link href="https://thedefiant.io/consensys-ben-edgington-on-the-future-of-ethereum-after-the-merge/"/>
-        <updated>2022-09-23T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Reviewing Ethereum 2.0 a week after The Merge]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
