@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T19:15:42.648Z</id>
+    <id>urn:2022-10-18T20:08:57.221Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T19:15:42.648Z</updated>
+    <updated>2022-10-18T20:08:57.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Releases Technical Details Of GHO Stablecoin]]></title>
+        <id>https://thedefiant.io/aave-gho-stablecoin-audit/</id>
+        <link href="https://thedefiant.io/aave-gho-stablecoin-audit/"/>
+        <updated>2022-10-18T19:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Audit Finds No Critical Bugs]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Startup Adapts Credit Default Swap Model to Unsecured Crypto Loans]]></title>
         <id>https://thedefiant.io/credit-default-swaps-meet-crypto/</id>
@@ -1005,16 +1015,6 @@ entitled, ‘Consumer and Investor Protection.’]]></summary>
         <summary type="html"><![CDATA[Institutions Moving into Ethereum Staking Post-Merge]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Avalanche?]]></title>
-        <id>https://thedefiant.io/what-is-avalanche/</id>
-        <link href="https://thedefiant.io/what-is-avalanche/"/>
-        <updated>2022-09-23T07:40:07.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to the Layer 1 Blockchain Network]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
