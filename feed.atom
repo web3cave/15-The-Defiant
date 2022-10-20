@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T18:24:36.419Z</id>
+    <id>urn:2022-10-20T19:18:52.728Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-20T18:24:36.419Z</updated>
+    <updated>2022-10-20T19:18:52.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Bitcoin?]]></title>
+        <id>https://thedefiant.io/what-is-bitcoin/</id>
+        <link href="https://thedefiant.io/what-is-bitcoin/"/>
+        <updated>2022-10-20T18:41:45.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the No. 1 Cryptocurrency]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skeptics Decry Crypto Bill and SBF’s ‘Industry Norms Manual’ as Bad for DeFi]]></title>
+        <id>https://thedefiant.io/defi-criticizes-sam-bankman-fried/</id>
+        <link href="https://thedefiant.io/defi-criticizes-sam-bankman-fried/"/>
+        <updated>2022-10-20T18:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Critics Push Back Against Potential Legislation that Would ‘Kill DeFi’]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mango Markets Exploiter Says Aave Could Be Vulnerable To A Similar Attack]]></title>
         <id>https://thedefiant.io/mango-exploiter-aave-threat/</id>
@@ -993,26 +1013,6 @@ Projects]]></summary>
         <summary type="html"><![CDATA[Beta Version Allows Gasless Swaps on Layer 2 Blockchain]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos Poised To Revamp ATOM Tokenomics]]></title>
-        <id>https://thedefiant.io/cosmos-upgrades-proposed/</id>
-        <link href="https://thedefiant.io/cosmos-upgrades-proposed/"/>
-        <updated>2022-09-27T23:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Upgrades Aim to Make ATOM the Reserve Currency of the Ecosystem]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Chainlink?]]></title>
-        <id>https://thedefiant.io/what-is-chainlink/</id>
-        <link href="https://thedefiant.io/what-is-chainlink/"/>
-        <updated>2022-09-27T19:36:39.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to the ‘Decentralized Oracle’]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-bitcoin/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the No. 1 Cryptocurrency",
+          "link": "https://thedefiant.io/what-is-bitcoin/",
+          "publishedOn": "2022-10-20T18:41:45.000Z",
+          "wordCount": 3725,
+          "title": "What Is Bitcoin?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/defi-criticizes-sam-bankman-fried/",
+          "author": "Aleksandar Gilbert",
+          "description": "Critics Push Back Against Potential Legislation that Would ‘Kill DeFi’",
+          "link": "https://thedefiant.io/defi-criticizes-sam-bankman-fried/",
+          "publishedOn": "2022-10-20T18:40:45.000Z",
+          "wordCount": 3339,
+          "title": "Skeptics Decry Crypto Bill and SBF’s ‘Industry Norms Manual’ as Bad for DeFi",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/20142853/SBFRegulationProp.jpg"
+        },
+        {
           "id": "https://thedefiant.io/mango-exploiter-aave-threat/",
           "author": "Tarang Khaitan",
           "description": "Proposed ‘Trading Strategy’ Would Require Hundreds Of Millions In Capital",
@@ -984,26 +1004,6 @@
           "wordCount": 1303,
           "title": "Robinhood Web3 Wallet Goes Live On Polygon",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/28052155/RobinhoodPolyWallet.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/cosmos-upgrades-proposed/",
-          "author": "yyctrader",
-          "description": "Upgrades Aim to Make ATOM the Reserve Currency of the Ecosystem",
-          "link": "https://thedefiant.io/cosmos-upgrades-proposed/",
-          "publishedOn": "2022-09-27T23:56:56.000Z",
-          "wordCount": 2078,
-          "title": "Cosmos Poised To Revamp ATOM Tokenomics",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/27195228/Atom2.0.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-chainlink/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Step-by-Step Guide to the ‘Decentralized Oracle’",
-          "link": "https://thedefiant.io/what-is-chainlink/",
-          "publishedOn": "2022-09-27T19:36:39.000Z",
-          "wordCount": 3504,
-          "title": "What Is Chainlink?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/27130303/WhatISChainlink.jpg"
         }
       ]
     }
