@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-phantom/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the Digital Wallet for Solana",
+          "link": "https://thedefiant.io/what-is-phantom/",
+          "publishedOn": "2022-10-27T08:41:46.000Z",
+          "wordCount": 2729,
+          "title": "What Is Phantom?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/06/24193425/SolanaPhone.jpg"
+        },
+        {
           "id": "https://thedefiant.io/ftx-liquidations-spike/",
           "author": "Owen Fernau",
           "description": "Coinglass Data Shows $1.2B Of Liquidations in the Past 48 Hours",
@@ -994,16 +1004,6 @@
           "wordCount": 3199,
           "title": "What is UMA?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/06023616/WhatIsUMA.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/the-graph-blockchain-data-scaling/",
-          "author": "Owen Fernau",
-          "description": "The Graph Notches 500 Subgraphs But Some Users Knock Performance",
-          "link": "https://thedefiant.io/the-graph-blockchain-data-scaling/",
-          "publishedOn": "2022-10-05T05:37:02.000Z",
-          "wordCount": 968,
-          "title": "Blockchain Data Provider for Uniswap and Other DeFi Platforms Quietly Scales Up",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/05012117/500Subgraphs.jpg"
         }
       ]
     }

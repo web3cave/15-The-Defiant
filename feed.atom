@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-27T08:10:16.440Z</id>
+    <id>urn:2022-10-27T09:08:20.997Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-27T08:10:16.440Z</updated>
+    <updated>2022-10-27T09:08:20.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Phantom?]]></title>
+        <id>https://thedefiant.io/what-is-phantom/</id>
+        <link href="https://thedefiant.io/what-is-phantom/"/>
+        <updated>2022-10-27T08:41:46.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Digital Wallet for Solana]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX Sees Spike In Liquidations Amid Market Surge]]></title>
         <id>https://thedefiant.io/ftx-liquidations-spike/</id>
@@ -1006,16 +1016,6 @@ From Exploits]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to Tokenization of Off-Chain Assets]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Data Provider for Uniswap and Other DeFi Platforms Quietly Scales Up]]></title>
-        <id>https://thedefiant.io/the-graph-blockchain-data-scaling/</id>
-        <link href="https://thedefiant.io/the-graph-blockchain-data-scaling/"/>
-        <updated>2022-10-05T05:37:02.000Z</updated>
-        <summary type="html"><![CDATA[The Graph Notches 500 Subgraphs But Some Users Knock Performance]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
