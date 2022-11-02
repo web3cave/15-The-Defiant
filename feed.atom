@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T00:44:36.869Z</id>
+    <id>urn:2022-11-02T03:13:58.620Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T00:44:36.869Z</updated>
+    <updated>2022-11-02T03:13:58.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Investors Plow $28M Into LUSD Chicken Bonds]]></title>
+        <id>https://thedefiant.io/liquity-chicken-bonds-28m/</id>
+        <link href="https://thedefiant.io/liquity-chicken-bonds-28m/"/>
+        <updated>2022-11-02T02:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Liquity Increases Protocol-Owned Liquidity By Nearly $500,000]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SPONSORED] DeFi Credit Protocol Goldfinch announces Membership Vaults]]></title>
         <id>https://thedefiant.io/defi-credit-protocol-goldfinch-announces-membership-vaults/</id>
@@ -1009,16 +1019,6 @@ Were All Exploited On Oct. 11]]></summary>
         <summary type="html"><![CDATA[Projects to Add Native Token Rewards To Existing Gauges]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a DAO?]]></title>
-        <id>https://thedefiant.io/what-are-daos/</id>
-        <link href="https://thedefiant.io/what-are-daos/"/>
-        <updated>2022-10-11T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to the Cooperative Entities at the Heart of DeFi]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
