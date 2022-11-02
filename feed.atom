@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T04:52:02.796Z</id>
+    <id>urn:2022-11-02T05:37:15.821Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T04:52:02.796Z</updated>
+    <updated>2022-11-02T05:37:15.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Retail Users Can Now Earn 1.5% APY On USDC]]></title>
+        <id>https://thedefiant.io/coinbase-usdc-yield/</id>
+        <link href="https://thedefiant.io/coinbase-usdc-yield/"/>
+        <updated>2022-11-02T05:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Offering Comes After Last Week’s Partnership With MakerDAO]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investors Plow $28M Into LUSD Chicken Bonds]]></title>
         <id>https://thedefiant.io/liquity-chicken-bonds-28m/</id>
@@ -1009,16 +1019,6 @@ Were All Exploited On Oct. 11]]></summary>
         <summary type="html"><![CDATA[PoS Meets ESG as Utility Embraces Minimal Carbon Footprint]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve DAO Votes To Enable Permissionless Rewards]]></title>
-        <id>https://thedefiant.io/curve-permissionless-rewards/</id>
-        <link href="https://thedefiant.io/curve-permissionless-rewards/"/>
-        <updated>2022-10-12T03:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Projects to Add Native Token Rewards To Existing Gauges]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
