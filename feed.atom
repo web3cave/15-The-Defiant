@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T06:09:26.888Z</id>
+    <id>urn:2022-11-08T07:06:46.020Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T06:09:26.888Z</updated>
+    <updated>2022-11-08T07:06:46.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Authorities Seize Billions in Bitcoin from Silk Road Heist]]></title>
+        <id>https://thedefiant.io/us-seizes-silk-road-btc/</id>
+        <link href="https://thedefiant.io/us-seizes-silk-road-btc/"/>
+        <updated>2022-11-08T06:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Accused Pleads Guilty to Wire Fraud]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is LUNC?]]></title>
         <id>https://thedefiant.io/what-is-lunc/</id>
@@ -1007,16 +1017,6 @@ the Opposite]]></summary>
         <summary type="html"><![CDATA[Shapovalov Says At-Home Staking Is For ‘Hobbyists’]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Uniswap Deploying on zkSync is a Big Deal]]></title>
-        <id>https://thedefiant.io/why-uniswap-deploying-on-zksync-is-a-big-deal/</id>
-        <link href="https://thedefiant.io/why-uniswap-deploying-on-zksync-is-a-big-deal/"/>
-        <updated>2022-10-17T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Build ZK Apps]]></summary>
-        <author>
-            <name>Marvin Lanes</name>
         </author>
     </entry>
 </feed>
