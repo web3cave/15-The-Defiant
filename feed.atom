@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T19:14:30.215Z</id>
+    <id>urn:2022-11-08T20:08:05.504Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T19:14:30.215Z</updated>
+    <updated>2022-11-08T20:08:05.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is zkSync?]]></title>
+        <id>https://thedefiant.io/what-is-zksync/</id>
+        <link href="https://thedefiant.io/what-is-zksync/"/>
+        <updated>2022-11-08T19:25:05.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the High-Capacity Blockchain Network]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance to Take Over FTX After Insolvency Concerns Spark Market Rout]]></title>
         <id>https://thedefiant.io/binance-to-acquire-ftx/</id>
@@ -1007,17 +1017,6 @@ June 2021]]></summary>
         <summary type="html"><![CDATA[Sale of $175,000 House Settled with USDC Stablecoins]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lead Frontend Engineer]]></title>
-        <id>https://thedefiant.io/lead-frontend-engineer/</id>
-        <link href="https://thedefiant.io/lead-frontend-engineer/"/>
-        <updated>2022-10-18T12:51:10.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant is looking for a lead frontend engineer to help build out its
-DeFi-focused data platform.]]></summary>
-        <author>
-            <name>Gabriel</name>
         </author>
     </entry>
 </feed>

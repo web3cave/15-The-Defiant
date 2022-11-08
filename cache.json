@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-zksync/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the High-Capacity Blockchain Network",
+          "link": "https://thedefiant.io/what-is-zksync/",
+          "publishedOn": "2022-11-08T19:25:05.000Z",
+          "wordCount": 2914,
+          "title": "What is zkSync?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/08151956/WhatIszkSync.jpg"
+        },
+        {
           "id": "https://thedefiant.io/binance-to-acquire-ftx/",
           "author": "Aleksandar Gilbert",
           "description": "Binance Agrees to Bail Out Rival After FTT Token Collapses",
@@ -994,16 +1004,6 @@
           "wordCount": 1888,
           "title": "Digital Real Estate Platform Sells House as an NFT",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/18103429/TokenizedRE.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/lead-frontend-engineer/",
-          "author": "Gabriel",
-          "description": "The Defiant is looking for a lead frontend engineer to help build out its\nDeFi-focused data platform.",
-          "link": "https://thedefiant.io/lead-frontend-engineer/",
-          "publishedOn": "2022-10-18T12:51:10.000Z",
-          "wordCount": 1617,
-          "title": "Lead Frontend Engineer",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19151441/thedefiant-jobs.png"
         }
       ]
     }
