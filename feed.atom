@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-14T19:04:15.757Z</id>
+    <id>urn:2022-11-14T20:07:48.270Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-14T19:04:15.757Z</updated>
+    <updated>2022-11-14T20:07:48.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unsecured DeFi Lenders Look Shaky in the Face of FTX Contagion]]></title>
+        <id>https://thedefiant.io/unsecured-defi-lenders-look-shaky-post-ftx/</id>
+        <link href="https://thedefiant.io/unsecured-defi-lenders-look-shaky-post-ftx/"/>
+        <updated>2022-11-14T19:57:49.000Z</updated>
+        <summary type="html"><![CDATA[The fallout from FTX’s collapse is just starting and within decentralized
+finance, platforms enabling unsecured loans are the most exposed.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disclosing Reserves May Backfire for Centralized Exchanges]]></title>
         <id>https://thedefiant.io/disclosing-reserves-may-backfire-for-centralized-exchanges/</id>
@@ -1012,16 +1023,6 @@ provided us with back in 2018.]]></summary>
         <summary type="html"><![CDATA[3M Reddit Wallet]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia’s ‘Modular Blockchain’ Attracts Investors Looking for Scaling Breakthrough]]></title>
-        <id>https://thedefiant.io/modular-blockchains-celestia/</id>
-        <link href="https://thedefiant.io/modular-blockchains-celestia/"/>
-        <updated>2022-10-25T10:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Warm Reception to Network Design Contrasts With Aptos Rollout]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
