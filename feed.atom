@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T06:08:58.690Z</id>
+    <id>urn:2022-11-15T07:06:42.489Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T06:08:58.690Z</updated>
+    <updated>2022-11-15T07:06:42.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Discloses Losses From FTX Collapse]]></title>
+        <id>https://thedefiant.io/solana-ftx-exposure/</id>
+        <link href="https://thedefiant.io/solana-ftx-exposure/"/>
+        <updated>2022-11-15T06:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Serum DEX Heavily Impacted]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets Rally After Binance Proposes ‘Industry Recovery Fund’]]></title>
         <id>https://thedefiant.io/defi-derivatives-surge/</id>
@@ -44,6 +54,26 @@ finance, platforms enabling unsecured loans are the most exposed.]]></summary>
         <summary type="html"><![CDATA[Market Manipulators Must be Stopped — Here’s How]]></summary>
         <author>
             <name>Amit Chaudhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Saga Update: Binance Recovery Fund, Crypto.com Reserves, FTX Hack]]></title>
+        <id>https://thedefiant.io/ftx-saga-update-binance-recovery-fund-crypto-com-reserves-ftx-hack/</id>
+        <link href="https://thedefiant.io/ftx-saga-update-binance-recovery-fund-crypto-com-reserves-ftx-hack/"/>
+        <updated>2022-11-14T06:42:37.000Z</updated>
+        <summary type="html"><![CDATA[The flood of news following FTX’s collapse continued apace this weekend]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aftermath Of The FTX Collapse In The Markets]]></title>
+        <id>https://thedefiant.io/aftermath-of-the-ftx-collapse-in-the-markets/</id>
+        <link href="https://thedefiant.io/aftermath-of-the-ftx-collapse-in-the-markets/"/>
+        <updated>2022-11-14T06:39:12.000Z</updated>
+        <summary type="html"><![CDATA[REMOVE YOUR MONEY FROM CEXs]]></summary>
+        <author>
+            <name>Nick Mancini</name>
         </author>
     </entry>
     <entry>
@@ -992,37 +1022,6 @@ Challenge’]]></summary>
 Step Closer]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Hits Six-Week High As Strong Earnings Fuel Stock Market Rally]]></title>
-        <id>https://thedefiant.io/eth-six-week-high/</id>
-        <link href="https://thedefiant.io/eth-six-week-high/"/>
-        <updated>2022-10-25T18:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Layer 1 Tokens Lead the Charge]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is 0x Protocol?]]></title>
-        <id>https://thedefiant.io/what-is-0x-protocol/</id>
-        <link href="https://thedefiant.io/what-is-0x-protocol/"/>
-        <updated>2022-10-25T17:06:24.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to a Key Peer-to-Peer Software Network]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPONSORED] Lending protocols margin trading with DeFi Saver]]></title>
-        <id>https://thedefiant.io/lending-protocols-margin-trading-with-defi-saver/</id>
-        <link href="https://thedefiant.io/lending-protocols-margin-trading-with-defi-saver/"/>
-        <updated>2022-10-25T13:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Lending was one of the first essential financial use cases DeFi protocols
-provided us with back in 2018.]]></summary>
-        <author>
-            <name>DeFi Saver</name>
         </author>
     </entry>
 </feed>
