@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T19:04:11.238Z</id>
+    <id>urn:2022-11-15T20:06:41.768Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T19:04:11.238Z</updated>
+    <updated>2022-11-15T20:06:41.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is a DEX Aggregator?]]></title>
+        <id>https://thedefiant.io/what-is-a-dex-aggregator/</id>
+        <link href="https://thedefiant.io/what-is-a-dex-aggregator/"/>
+        <updated>2022-11-15T19:16:16.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to This Important DeFi Player]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s Revamp Tokenomics to Make DeFi More Useful and Valuable]]></title>
         <id>https://thedefiant.io/lets-revamp-tokenomics-to-make-defi-more-useful-and-valuable/</id>
@@ -1010,16 +1020,6 @@ Challenge’]]></summary>
         <summary type="html"><![CDATA[Bridging Platform’s Use of Escrow Accounts Come Under Scrutiny]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Welcomes NFTs in App Store Under Tight New Rules]]></title>
-        <id>https://thedefiant.io/apple-nft-app-policy/</id>
-        <link href="https://thedefiant.io/apple-nft-app-policy/"/>
-        <updated>2022-10-26T08:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Proponents Fret Computer Giant’s ‘Legacy Thinking’ Ill Suited For Crypto]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
