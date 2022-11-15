@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T11:05:20.025Z</id>
+    <id>urn:2022-11-15T12:11:56.419Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T11:05:20.025Z</updated>
+    <updated>2022-11-15T12:11:56.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FTX Confirms Justice, SEC Probes in Bankruptcy Filing]]></title>
+        <id>https://thedefiant.io/ftx-sec-justice-banruptcy/</id>
+        <link href="https://thedefiant.io/ftx-sec-justice-banruptcy/"/>
+        <updated>2022-11-15T11:17:29.000Z</updated>
+        <summary type="html"><![CDATA[FTX Appoints Independent Directors to Ensure ‘Proper Governance’]]></summary>
+        <author>
+            <name>Edward Robinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Discloses Losses From FTX Collapse]]></title>
         <id>https://thedefiant.io/solana-ftx-exposure/</id>
@@ -1010,17 +1020,6 @@ Challenge’]]></summary>
         <summary type="html"><![CDATA[MakerDAO’s Endgame Plan]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK May Soon Recognize Cryptoassets As Financial Instruments]]></title>
-        <id>https://thedefiant.io/uk-votes-crypto-financial-instrument/</id>
-        <link href="https://thedefiant.io/uk-votes-crypto-financial-instrument/"/>
-        <updated>2022-10-26T03:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Amendment To Financial Services and Markets Bill Brings Crypto Regulations One
-Step Closer]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
