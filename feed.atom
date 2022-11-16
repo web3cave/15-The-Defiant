@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T18:08:18.849Z</id>
+    <id>urn:2022-11-16T19:04:49.781Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T18:08:18.849Z</updated>
+    <updated>2022-11-16T19:04:49.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Polygon zkEVM?]]></title>
+        <id>https://thedefiant.io/what-is-polygon-zkevm/</id>
+        <link href="https://thedefiant.io/what-is-polygon-zkevm/"/>
+        <updated>2022-11-16T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to One of Ethereum’s Key Scaling Solutions]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layer 2s Defy Market Angst as Matter Labs Raises $200M]]></title>
         <id>https://thedefiant.io/layer-2s-defy-market-angst-as-matter-labs-raises-200m/</id>
@@ -1009,16 +1019,6 @@ Well?]]></summary>
         <summary type="html"><![CDATA[FTX Follows Binance With Move to Release its Own Pegged Token]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Market Cap Slides By $10B Since Tornado Cash Bans]]></title>
-        <id>https://thedefiant.io/usdc-mcap-down-10b/</id>
-        <link href="https://thedefiant.io/usdc-mcap-down-10b/"/>
-        <updated>2022-10-27T16:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Investor Interest in USDC Wanes as Competing Stablecoins Gain Market Share]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
