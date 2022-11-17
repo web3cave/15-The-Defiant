@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T17:09:21.946Z</id>
+    <id>urn:2022-11-17T18:08:04.917Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T17:09:21.946Z</updated>
+    <updated>2022-11-17T18:08:04.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[FTX Executives Borrowed Over $1B From Alameda]]></title>
+        <title type="html"><![CDATA[SBF Rues FTX Bankruptcy Filing As Screws Tighten: Vox]]></title>
+        <id>https://thedefiant.io/sbf-altruism-just-pr/</id>
+        <link href="https://thedefiant.io/sbf-altruism-just-pr/"/>
+        <updated>2022-11-17T17:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Says Altruist Persona Was ‘Just PR’]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Leadership Borrowed Over $1B From Alameda]]></title>
         <id>https://thedefiant.io/alameda-loaned-ftx-execs-1b/</id>
         <link href="https://thedefiant.io/alameda-loaned-ftx-execs-1b/"/>
         <updated>2022-11-17T16:22:09.000Z</updated>
@@ -42,7 +52,7 @@ and Practices]]></summary>
         <id>https://thedefiant.io/superrare-auctions-passes/</id>
         <link href="https://thedefiant.io/superrare-auctions-passes/"/>
         <updated>2022-11-17T09:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Magic Eden Raises ‘Fair Mint’ Mechanism in Busy Week for NFTs]]></summary>
+        <summary type="html"><![CDATA[Magic Eden Launches ‘Fair Mint’ Mechanism in Slow Week for NFTs]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -1010,16 +1020,6 @@ Dies,” says Erik Voorhees]]></summary>
         <updated>2022-10-28T18:53:00.000Z</updated>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync to Launch ‘Baby Alpha’ V2 as Skeptics Decry Marketing Hype]]></title>
-        <id>https://thedefiant.io/zksync-v2-launches-controversy/</id>
-        <link href="https://thedefiant.io/zksync-v2-launches-controversy/"/>
-        <updated>2022-10-28T09:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs Says Network is First ‘Product Ready’ Rollup with ZK-powered EVM]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
