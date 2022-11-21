@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T09:07:21.997Z</id>
+    <id>urn:2022-11-21T10:07:30.993Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T09:07:21.997Z</updated>
+    <updated>2022-11-21T10:07:30.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Zero Knowledge Proofs Can Restore Digital Trust]]></title>
+        <id>https://thedefiant.io/zero-knowledge-proofs-digital-trust/</id>
+        <link href="https://thedefiant.io/zero-knowledge-proofs-digital-trust/"/>
+        <updated>2022-11-21T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[New Technology Can Deliver a User-Controlled Web and Propel the Expansion of
+DeFi]]></summary>
+        <author>
+            <name>Evan Shapiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX Hack Mystery Deepens with Statement from Bahamian Regulators]]></title>
         <id>https://thedefiant.io/ftx-hack-mystery-deepens/</id>
@@ -1012,16 +1023,6 @@ new global credit paradigm.]]></summary>
         <summary type="html"><![CDATA[Huobi Exchange Boots HUSD After Stablecoin Tumbles to 33 Cents]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record $760M Stolen in Exploits During ‘Hacktober’]]></title>
-        <id>https://thedefiant.io/exploits-double-to-3b-2022/</id>
-        <link href="https://thedefiant.io/exploits-double-to-3b-2022/"/>
-        <updated>2022-11-01T08:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Bad Month for DeFi Security Highlights Pitfalls of Freewheeling Practices]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
