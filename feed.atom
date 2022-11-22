@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T12:11:57.756Z</id>
+    <id>urn:2022-11-22T13:23:38.619Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T12:11:57.756Z</updated>
+    <updated>2022-11-22T13:23:38.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,29 @@
         <summary type="html"><![CDATA[Deal Challenges Liquidity Staking Giant Lido]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Hacker is on the move]]></title>
+        <id>https://thedefiant.io/ftx-hacker-is-on-the-move/</id>
+        <link href="https://thedefiant.io/ftx-hacker-is-on-the-move/"/>
+        <updated>2022-11-21T13:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Someone stole almost half a billion dollars from FTX on Nov. 11, just hours
+after it declared bankruptcy. Now, some of the funds are on the move.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New headwinds in the crypto markets]]></title>
+        <id>https://thedefiant.io/new-headwinds-in-the-crypto-markets/</id>
+        <link href="https://thedefiant.io/new-headwinds-in-the-crypto-markets/"/>
+        <updated>2022-11-21T13:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Markets Roundup, brought to you by Sent Galaxy x The Defiant. Check
+in every Monday to keep up with the latest market moves on DeFi, CeFi, NFTs, and
+everything in between.]]></summary>
+        <author>
+            <name>Nick Mancini</name>
         </author>
     </entry>
     <entry>
@@ -1002,26 +1025,6 @@ Raised Concerns]]></summary>
         <summary type="html"><![CDATA[Finger Lickin’ Yield]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase’s 1.5% APY is Half the Savings Rate Offered by Banks]]></title>
-        <id>https://thedefiant.io/coinbase-usdc-yield/</id>
-        <link href="https://thedefiant.io/coinbase-usdc-yield/"/>
-        <updated>2022-11-02T05:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Offering Comes After Last Week’s Partnership With MakerDAO]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investors Plow $28M Into LUSD Chicken Bonds]]></title>
-        <id>https://thedefiant.io/liquity-chicken-bonds-28m/</id>
-        <link href="https://thedefiant.io/liquity-chicken-bonds-28m/"/>
-        <updated>2022-11-02T02:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Liquity Increases Protocol-Owned Liquidity By Nearly $500,000]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
