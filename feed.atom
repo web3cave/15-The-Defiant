@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T10:07:24.250Z</id>
+    <id>urn:2022-11-22T11:04:52.152Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T10:07:24.250Z</updated>
+    <updated>2022-11-22T11:04:52.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[SPONSORED] Aave Grants Retrospective]]></title>
+        <id>https://thedefiant.io/aave-grants-retrospective/</id>
+        <link href="https://thedefiant.io/aave-grants-retrospective/"/>
+        <updated>2022-11-22T11:01:13.000Z</updated>
+        <summary type="html"><![CDATA[The Ghost of Grants]]></summary>
+        <author>
+            <name>Aave Grants DAO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Riles Up Users With Plan to Share Wallet Addresses]]></title>
         <id>https://thedefiant.io/uniswap-privacy-policy-wallets/</id>
@@ -1012,17 +1022,6 @@ Raised Concerns]]></summary>
         <summary type="html"><![CDATA[Liquity Increases Protocol-Owned Liquidity By Nearly $500,000]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPONSORED] DeFi Credit Protocol Goldfinch announces Membership Vaults]]></title>
-        <id>https://thedefiant.io/defi-credit-protocol-goldfinch-announces-membership-vaults/</id>
-        <link href="https://thedefiant.io/defi-credit-protocol-goldfinch-announces-membership-vaults/"/>
-        <updated>2022-11-01T15:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Join the waitlist to upgrade your participation for enhanced yields, and own the
-new global credit paradigm.]]></summary>
-        <author>
-            <name>GoldFinch</name>
         </author>
     </entry>
 </feed>
