@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T06:08:27.852Z</id>
+    <id>urn:2022-11-23T07:05:51.772Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-23T06:08:27.853Z</updated>
+    <updated>2022-11-23T07:05:51.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Perpetual Open Interest Dives 43% in Wake of FTX Collapse]]></title>
+        <id>https://thedefiant.io/perp-oi-dives-after-ftx/</id>
+        <link href="https://thedefiant.io/perp-oi-dives-after-ftx/"/>
+        <updated>2022-11-23T06:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Binance Holds a Larger Piece of a Smaller Pie]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Releases Whitepaper for crvUSD Stablecoin]]></title>
         <id>https://thedefiant.io/curve-crvusd-whitepaper/</id>
@@ -44,6 +54,20 @@
         <summary type="html"><![CDATA[DFK Chain Subnet Drives 51% Jump in Transactions Processed in September]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Pertsev Remains Jailed]]></title>
+        <id>https://thedefiant.io/alex-pertsev-remains-jailed/</id>
+        <link href="https://thedefiant.io/alex-pertsev-remains-jailed/"/>
+        <updated>2022-11-22T06:34:33.000Z</updated>
+        <summary type="html"><![CDATA[The story of developer Alexey Pertsev’s arrest for his involvement in Tornado
+Cash is a story we and much of the crypto world has been following intently.
+According to Dutch authorities, Alexey Pertsev is “suspected of involvement in
+concealing criminal financial flows and facilitating money laundering through
+Tornado cash. Those who defend Pertsev, namely those …]]></summary>
+        <author>
+            <name>Marvin Lanes</name>
         </author>
     </entry>
     <entry>
@@ -1006,26 +1030,6 @@ Raised Concerns]]></summary>
         <summary type="html"><![CDATA[Lender’s Onyx Unit Executes Live Trades of Tokenized Currencies in Pilot Project]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deribit Freezes Withdrawals and Deposits After $28M Exploit]]></title>
-        <id>https://thedefiant.io/deribit-exploit/</id>
-        <link href="https://thedefiant.io/deribit-exploit/"/>
-        <updated>2022-11-02T17:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Exploiters Rip Off Hot Wallets at Exchange]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a dApp?]]></title>
-        <id>https://thedefiant.io/what-is-a-dapp/</id>
-        <link href="https://thedefiant.io/what-is-a-dapp/"/>
-        <updated>2022-11-02T08:32:08.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide to Ethereum-based Applications]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
