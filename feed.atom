@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T00:34:29.478Z</id>
+    <id>urn:2022-11-25T02:23:51.780Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-25T00:34:29.478Z</updated>
+    <updated>2022-11-25T02:23:51.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,18 @@
         <summary type="html"><![CDATA[Shandong Testnet Will Relaunch With Withdrawals Enabled]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Contagion: Are DCG and Genesis next?]]></title>
+        <id>https://thedefiant.io/ftx-contagion-are-dcg-and-genesis-next/</id>
+        <link href="https://thedefiant.io/ftx-contagion-are-dcg-and-genesis-next/"/>
+        <updated>2022-11-24T01:59:57.000Z</updated>
+        <summary type="html"><![CDATA[After the collapse of FTX, everyone looked around, wondering, “what’s the next
+domino to fall?” Well, everyone’s now looking at Digital Currency Group,
+nervously watching it totter.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
@@ -1020,16 +1032,6 @@ Symbiosis of FTX and Alameda]]></summary>
         <summary type="html"><![CDATA[National University of Mongolia to Receive Soulbound Tokens on PoS Chain]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising Rate Environment Tests DeFi’s Stickiness]]></title>
-        <id>https://thedefiant.io/rising-rates-test-defi/</id>
-        <link href="https://thedefiant.io/rising-rates-test-defi/"/>
-        <updated>2022-11-04T05:32:09.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Treasuries Now Yield More Than DeFi Money Markets]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
