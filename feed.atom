@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T19:03:30.315Z</id>
+    <id>urn:2022-11-25T20:06:28.211Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-25T19:03:30.315Z</updated>
+    <updated>2022-11-25T20:06:28.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US ApeCoin Holders Blocked From Official Staking Website]]></title>
+        <id>https://thedefiant.io/ape-staking-geoblock/</id>
+        <link href="https://thedefiant.io/ape-staking-geoblock/"/>
+        <updated>2022-11-25T19:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Eleventh-Hour Decision Riles BAYC Community]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm Accused Of Copying Code For Rust-Based Ethereum Client]]></title>
         <id>https://thedefiant.io/paradigm-accused-copying-code/</id>
@@ -1018,16 +1028,6 @@ Symbiosis of FTX and Alameda]]></summary>
         <updated>2022-11-05T01:39:00.000Z</updated>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Ventures Bets on Decentralized Social Media with Lens Investment]]></title>
-        <id>https://thedefiant.io/lens-funding-ftx-ventures/</id>
-        <link href="https://thedefiant.io/lens-funding-ftx-ventures/"/>
-        <updated>2022-11-04T20:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Over 88,000 Wallets Own a Lens Profile]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
