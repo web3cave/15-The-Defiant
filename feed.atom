@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-28T10:07:11.487Z</id>
+    <id>urn:2022-11-28T11:04:30.374Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-28T10:07:11.487Z</updated>
+    <updated>2022-11-28T11:04:30.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,15 @@
         <summary type="html"><![CDATA[Erigon To Wind Down Support For Akula]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Is Tracking You]]></title>
+        <id>https://thedefiant.io/metamask-is-tracking-you/</id>
+        <link href="https://thedefiant.io/metamask-is-tracking-you/"/>
+        <updated>2022-11-25T10:17:18.000Z</updated>
+        <author>
+            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
@@ -1018,17 +1027,6 @@ Shore Up Liquidity]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to Terra’s Failed Tokens]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ Cranks Up Pressure on FTX With Massive Token Sale]]></title>
-        <id>https://thedefiant.io/binance-ftx-ftt-token-sale/</id>
-        <link href="https://thedefiant.io/binance-ftx-ftt-token-sale/"/>
-        <updated>2022-11-07T11:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Binance Plans to Liquidate FTT Stake After Report Raises Questions About
-Symbiosis of FTX and Alameda]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
