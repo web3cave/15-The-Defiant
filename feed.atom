@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T05:06:29.563Z</id>
+    <id>urn:2022-12-01T06:08:52.592Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T05:06:29.563Z</updated>
+    <updated>2022-12-01T06:08:52.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #29]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-29/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-29/"/>
+        <updated>2022-12-01T05:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! This is a recap of our latest DeFi Alpha Call that took place on
+11/28/2022 in Discord.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auros Misses $3.1M Loan Payment on Maple Finance]]></title>
         <id>https://thedefiant.io/auros-misses-3m-payment-on-maple/</id>
@@ -1032,16 +1043,6 @@ minute to thank our sponsors, who make it possible for us to send out today’s
 newsletter.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Withdrawals Resume But Only for Bahamas-Based Accounts]]></title>
-        <id>https://thedefiant.io/ftx-withdrawals-resume-but-only-for-bahamas-based-accounts/</id>
-        <link href="https://thedefiant.io/ftx-withdrawals-resume-but-only-for-bahamas-based-accounts/"/>
-        <updated>2022-11-11T10:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Tron Providing Support to FTX Users with Tron Tokens Trapped on Platform]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
