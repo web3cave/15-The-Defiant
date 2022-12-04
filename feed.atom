@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T13:12:06.791Z</id>
+    <id>urn:2022-12-04T14:04:10.403Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-04T13:12:06.791Z</updated>
+    <updated>2022-12-04T14:04:10.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Recap: DeFi Week of Nov. 27]]></title>
+        <id>https://thedefiant.io/recap-defi-week-of-nov-27/</id>
+        <link href="https://thedefiant.io/recap-defi-week-of-nov-27/"/>
+        <updated>2022-12-04T13:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Happy weekend!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⍺ DeFi Alpha: Track Your Airdrops, Mints and Governance Votes with Daylight]]></title>
         <id>https://thedefiant.io/defi-alpha-track-airdrops-mints-daylight/</id>
@@ -1025,16 +1035,6 @@ Protocols]]></summary>
         <summary type="html"><![CDATA[FTX Appoints Independent Directors to Ensure ‘Proper Governance’]]></summary>
         <author>
             <name>Edward Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping the FTX Contagion]]></title>
-        <id>https://thedefiant.io/mapping-the-ftx-contagion/</id>
-        <link href="https://thedefiant.io/mapping-the-ftx-contagion/"/>
-        <updated>2022-11-15T06:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Contagion Begins]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
