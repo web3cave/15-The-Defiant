@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T12:10:52.234Z</id>
+    <id>urn:2022-12-05T13:15:16.788Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-05T12:10:52.234Z</updated>
+    <updated>2022-12-05T13:15:16.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Debates Changes to DAO Governance After Vitalik’s Critique]]></title>
+        <id>https://thedefiant.io/buterin-criticizes-governance-tokens/</id>
+        <link href="https://thedefiant.io/buterin-criticizes-governance-tokens/"/>
+        <updated>2022-12-05T13:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Chief Scientist Said Governance Tokens Benefit Whales at Expense of
+Users]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recap: DeFi Week of Nov. 27]]></title>
         <id>https://thedefiant.io/recap-defi-week-of-nov-27/</id>
@@ -46,7 +57,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UNI Surges After “Fee Switch” Vote is Proposed]]></title>
+        <title type="html"><![CDATA[UNI Surges After ‘Fee Switch’ Vote is Proposed]]></title>
         <id>https://thedefiant.io/uni-surges-fee-switch-vote/</id>
         <link href="https://thedefiant.io/uni-surges-fee-switch-vote/"/>
         <updated>2022-12-03T04:27:49.000Z</updated>
@@ -1025,16 +1036,6 @@ Protocols]]></summary>
         <summary type="html"><![CDATA[It’s Imperative to Provide Real Value to Tokenholders, Not Just Governance Tools]]></summary>
         <author>
             <name>Mike Sall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Confirms Justice, SEC Probes in Bankruptcy Filing]]></title>
-        <id>https://thedefiant.io/ftx-sec-justice-banruptcy/</id>
-        <link href="https://thedefiant.io/ftx-sec-justice-banruptcy/"/>
-        <updated>2022-11-15T11:17:29.000Z</updated>
-        <summary type="html"><![CDATA[FTX Appoints Independent Directors to Ensure ‘Proper Governance’]]></summary>
-        <author>
-            <name>Edward Robinson</name>
         </author>
     </entry>
 </feed>
