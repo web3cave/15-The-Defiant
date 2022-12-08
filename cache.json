@@ -6,6 +6,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-solend/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to the Solana-based Lender",
+          "link": "https://thedefiant.io/what-is-solend/",
+          "publishedOn": "2022-12-08T08:56:24.000Z",
+          "wordCount": 3171,
+          "title": "What is Solend?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07045341/WhatIsSolend.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/power-of-self-custody-is-the-takeaway-from-ftx/",
+          "author": "Cathy Yoon",
+          "description": "Pitfalls of CeFi Intermediaries on Vivid Display in SBF’s Fiasco",
+          "link": "https://thedefiant.io/power-of-self-custody-is-the-takeaway-from-ftx/",
+          "publishedOn": "2022-12-08T08:54:51.000Z",
+          "wordCount": 2160,
+          "title": "Power of Self-Custody is the Takeaway from FTX",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07132756/LessonsLearned_FTX.jpg"
+        },
+        {
           "id": "https://thedefiant.io/circle-abandons-spac-ipo/",
           "author": "Tarang Khaitan",
           "description": "USDC Issuer Was Valued At $9B In February",
@@ -984,26 +1004,6 @@
           "wordCount": 3377,
           "title": "🏎 MakerDAO Releases Speedy DAI Transfers and Tightens Controls on Vaults",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/21223517/41d19434-6817-4651-944b-89c83221faa3_880x495.webp"
-        },
-        {
-          "id": "https://thedefiant.io/sbf-altruism-just-pr/",
-          "author": "Aleksandar Gilbert",
-          "description": "Bankman-Fried Says Altruist Persona Was ‘Just PR’ in Wide-ranging Interview with\nVox",
-          "link": "https://thedefiant.io/sbf-altruism-just-pr/",
-          "publishedOn": "2022-11-17T17:10:15.000Z",
-          "wordCount": 1932,
-          "title": "SBF Rues FTX Bankruptcy Filing As Screws Tighten: Report",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/17130621/SBFFace.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/alameda-loaned-ftx-execs-1b/",
-          "author": "Aleksandar Gilbert",
-          "description": "Incoming CEO John Ray Cites ‘Complete Absence of Trustworthy Financial\nInformation’",
-          "link": "https://thedefiant.io/alameda-loaned-ftx-execs-1b/",
-          "publishedOn": "2022-11-17T16:22:09.000Z",
-          "wordCount": 2089,
-          "title": "FTX Leadership Borrowed Over $1B From Alameda",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/17122144/AlamedaReseachDownBad.jpg"
         }
       ]
     }

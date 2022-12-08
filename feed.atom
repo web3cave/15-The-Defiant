@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T08:08:17.489Z</id>
+    <id>urn:2022-12-08T09:06:31.188Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T08:08:17.489Z</updated>
+    <updated>2022-12-08T09:06:31.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Solend?]]></title>
+        <id>https://thedefiant.io/what-is-solend/</id>
+        <link href="https://thedefiant.io/what-is-solend/"/>
+        <updated>2022-12-08T08:56:24.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Solana-based Lender]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power of Self-Custody is the Takeaway from FTX]]></title>
+        <id>https://thedefiant.io/power-of-self-custody-is-the-takeaway-from-ftx/</id>
+        <link href="https://thedefiant.io/power-of-self-custody-is-the-takeaway-from-ftx/"/>
+        <updated>2022-12-08T08:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Pitfalls of CeFi Intermediaries on Vivid Display in SBF’s Fiasco]]></summary>
+        <author>
+            <name>Cathy Yoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Abandons IPO Plans]]></title>
         <id>https://thedefiant.io/circle-abandons-spac-ipo/</id>
@@ -1014,28 +1034,6 @@ DeFi really win?]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today:]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF Rues FTX Bankruptcy Filing As Screws Tighten: Report]]></title>
-        <id>https://thedefiant.io/sbf-altruism-just-pr/</id>
-        <link href="https://thedefiant.io/sbf-altruism-just-pr/"/>
-        <updated>2022-11-17T17:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Bankman-Fried Says Altruist Persona Was ‘Just PR’ in Wide-ranging Interview with
-Vox]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Leadership Borrowed Over $1B From Alameda]]></title>
-        <id>https://thedefiant.io/alameda-loaned-ftx-execs-1b/</id>
-        <link href="https://thedefiant.io/alameda-loaned-ftx-execs-1b/"/>
-        <updated>2022-11-17T16:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Incoming CEO John Ray Cites ‘Complete Absence of Trustworthy Financial
-Information’]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
