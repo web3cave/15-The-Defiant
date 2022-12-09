@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T17:04:35.822Z</id>
+    <id>urn:2022-12-09T18:07:24.553Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T17:04:35.822Z</updated>
+    <updated>2022-12-09T18:07:24.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SBF Spars with CZ And Denies ‘Hunting’ Three Arrows]]></title>
+        <id>https://thedefiant.io/sbf-spars-with-cz/</id>
+        <link href="https://thedefiant.io/sbf-spars-with-cz/"/>
+        <updated>2022-12-09T17:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Disgraced FTX CEO Commits to Testifying Before Congress]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arweave’s Sam Williams on Storing Files On-Chain for Eternity]]></title>
         <id>https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/</id>
@@ -1019,16 +1029,6 @@ DeFi]]></summary>
         <summary type="html"><![CDATA[Nearly $500M Was Drained From Bankrupt Exchange On Nov. 11]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Hacker Offloads Over $59M of ETH and Sells for BTC]]></title>
-        <id>https://thedefiant.io/ftx-hackers-sells-eth-for-btc/</id>
-        <link href="https://thedefiant.io/ftx-hackers-sells-eth-for-btc/"/>
-        <updated>2022-11-20T20:54:48.000Z</updated>
-        <summary type="html"><![CDATA[0x59 still has over 200,735 ETH, worth around $236M, in its wallet.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
