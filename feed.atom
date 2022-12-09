@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T15:05:21.078Z</id>
+    <id>urn:2022-12-09T16:07:40.879Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T15:05:21.078Z</updated>
+    <updated>2022-12-09T16:07:40.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arweave’s Sam Williams on Storing Files On-Chain for Eternity]]></title>
+        <id>https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/</id>
+        <link href="https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/"/>
+        <updated>2022-12-09T15:43:10.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Tegan Kline speaks with Sam Williams, the
+co-founder and CEO of Arweave, a ‘collectively owned hard drive’ that enables
+users to store data, applications, and documents on-chain, forever.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bad Debt Piles up at DeFi Lending Protocols]]></title>
         <id>https://thedefiant.io/bad-debt-defi-protocols/</id>
@@ -1017,16 +1029,6 @@ DeFi]]></summary>
         <summary type="html"><![CDATA[0x59 still has over 200,735 ETH, worth around $236M, in its wallet.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⍺ DeFi Alpha: Claim a Dawn NFT on the SEI Testnet for a Potential Airdrop]]></title>
-        <id>https://thedefiant.io/defi-alpha-claim-a-dawn-nft-on-the-sei-testnet-for-a-potential-airdrop/</id>
-        <link href="https://thedefiant.io/defi-alpha-claim-a-dawn-nft-on-the-sei-testnet-for-a-potential-airdrop/"/>
-        <updated>2022-11-20T01:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Earn up to 17% APR with the wstETH/ETH LP on KyberSwap (Optimism)]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
