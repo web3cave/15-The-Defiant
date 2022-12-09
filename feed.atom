@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T03:09:31.773Z</id>
+    <id>urn:2022-12-09T04:07:35.594Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T03:09:31.773Z</updated>
+    <updated>2022-12-09T04:07:35.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looks Like SBF Incriminated Himself]]></title>
+        <id>https://thedefiant.io/looks-like-sbf-incriminated-himself/</id>
+        <link href="https://thedefiant.io/looks-like-sbf-incriminated-himself/"/>
+        <updated>2022-12-08T22:43:00.000Z</updated>
+        <summary type="html"><![CDATA[SBF Admits FTX commingled user funds]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Williams On Storing Files On-Chain For Eternity]]></title>
+        <id>https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/</id>
+        <link href="https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/"/>
+        <updated>2022-12-08T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Store Data Forever]]></summary>
+        <author>
+            <name>Tegan Kline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Devs Delay Surge and Prioritize Staked ETH Withdrawals]]></title>
         <id>https://thedefiant.io/ethereum-devs-delay-surge-and-prioritize-staked-eth-withdrawals/</id>
@@ -1013,27 +1033,6 @@ news and positive developments. JP Morgan recently made history by becoming the
 first major bank …]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audit Shows Terra Groups Spent $3.4B to Defend Dollar Peg in UST]]></title>
-        <id>https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/</id>
-        <link href="https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/"/>
-        <updated>2022-11-18T12:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Terraform Labs Commissioned Study to Quantify Support for Stablecoin During May
-Crisis]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Endures ‘Crucible’ as FTX Connection Deletes 70% of TVL]]></title>
-        <id>https://thedefiant.io/solana-test-ftx-crisis/</id>
-        <link href="https://thedefiant.io/solana-test-ftx-crisis/"/>
-        <updated>2022-11-18T12:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Fall of SBF’s Empire Rocks Layer 1 As It Was Rebounding From Tough Year]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
