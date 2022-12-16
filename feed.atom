@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T18:07:08.746Z</id>
+    <id>urn:2022-12-16T19:02:40.952Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T18:07:08.746Z</updated>
+    <updated>2022-12-16T19:02:40.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana DEX Raydium Hacked for $2.2M]]></title>
+        <id>https://thedefiant.io/raydium-exploit/</id>
+        <link href="https://thedefiant.io/raydium-exploit/"/>
+        <updated>2022-12-16T18:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Protocol’s Admin Keys Likely Compromised]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets Slide as Fed Says Higher Rates Are Here to Stay]]></title>
         <id>https://thedefiant.io/markets-slide-as-fed-says-higher-rates-are-here-to-stay/</id>
@@ -1034,16 +1044,6 @@ Falling Revenue]]></summary>
         <summary type="html"><![CDATA[Leading NFT Marketplace Now Supports Eight Blockchains]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regulators are coming to crypto post FTX]]></title>
-        <id>https://thedefiant.io/regulators-are-coming-to-crypto-post-ftx/</id>
-        <link href="https://thedefiant.io/regulators-are-coming-to-crypto-post-ftx/"/>
-        <updated>2022-11-30T01:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Regulators are coming]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
