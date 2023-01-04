@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T12:10:45.548Z</id>
+    <id>urn:2023-01-04T13:14:17.421Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T12:10:45.548Z</updated>
+    <updated>2023-01-04T13:14:17.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Ethersic?]]></title>
+        <id>https://thedefiant.io/what-is-ethersic/</id>
+        <link href="https://thedefiant.io/what-is-ethersic/"/>
+        <updated>2023-01-04T12:04:13.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to DeFi Insurance]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sam Bankman-Fried Pleads Not Guilty To Fraud Charges]]></title>
         <id>https://thedefiant.io/sbf-pleads-not-guilty/</id>
@@ -1050,16 +1060,6 @@ Wrong at Exchange]]></summary>
         <summary type="html"><![CDATA[ETH Devs Biased?]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recap: DeFi Week Dec. 4]]></title>
-        <id>https://thedefiant.io/recap-defi-week-dec-4/</id>
-        <link href="https://thedefiant.io/recap-defi-week-dec-4/"/>
-        <updated>2022-12-11T15:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we covered this week!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
