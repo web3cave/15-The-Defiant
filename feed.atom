@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T12:09:26.568Z</id>
+    <id>urn:2023-01-08T13:09:54.186Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T12:09:26.568Z</updated>
+    <updated>2023-01-08T13:09:54.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Recap: DeFi Week Jan. 1]]></title>
+        <id>https://thedefiant.io/defiant-weekly-recap/</id>
+        <link href="https://thedefiant.io/defiant-weekly-recap/"/>
+        <updated>2023-01-08T12:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Happy New Year! Here’s what we covered this week.]]></summary>
+        <author>
+            <name>Edward Robinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #84]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-84/</id>
@@ -1053,17 +1063,6 @@ Discord.]]></summary>
         <summary type="html"><![CDATA[Move Enables US Users To Easily Access Web3]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PartyBid V2 Unlocks Community Control of NFTs]]></title>
-        <id>https://thedefiant.io/partybid-v2/</id>
-        <link href="https://thedefiant.io/partybid-v2/"/>
-        <updated>2022-12-15T04:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Fractional Owners Can Mint NFT Derivatives, Claim Airdrops and Participate in
-Governance]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
