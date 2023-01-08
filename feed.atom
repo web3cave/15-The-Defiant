@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T17:03:42.345Z</id>
+    <id>urn:2023-01-08T18:06:45.019Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T17:03:42.345Z</updated>
+    <updated>2023-01-08T18:06:45.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Withdrawals and Layoffs at Huobi Spark Concern]]></title>
+        <id>https://thedefiant.io/huobi-layoffs-withdrawals/</id>
+        <link href="https://thedefiant.io/huobi-layoffs-withdrawals/"/>
+        <updated>2023-01-08T16:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Solvency Fears Mount At Yet Another Centralized Exchange]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recap: DeFi Week Jan. 1]]></title>
         <id>https://thedefiant.io/defiant-weekly-recap/</id>
@@ -1053,16 +1063,6 @@ Cryptocurrencies]]></summary>
 Discord.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Launches PayPal Integration For ETH Purchases]]></title>
-        <id>https://thedefiant.io/metamask-paypal-integration/</id>
-        <link href="https://thedefiant.io/metamask-paypal-integration/"/>
-        <updated>2022-12-15T05:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Move Enables US Users To Easily Access Web3]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
