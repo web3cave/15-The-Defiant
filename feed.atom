@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T22:06:09.103Z</id>
+    <id>urn:2023-01-10T23:04:52.222Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T22:06:09.103Z</updated>
+    <updated>2023-01-10T23:04:52.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Court Hands Down 10-Month Sentence in Coinbase Insider Trading Case]]></title>
+        <id>https://thedefiant.io/coinbase-insider-trading-10m-sentence/</id>
+        <link href="https://thedefiant.io/coinbase-insider-trading-10m-sentence/"/>
+        <updated>2023-01-10T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Nikhil Wahi Also Ordered To Pay Almost $900,000]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PleasrDAO to Launch Game Show Featuring Snowden and Ellsberg]]></title>
         <id>https://thedefiant.io/pleasrdao-game-show-snowden-ellsberg/</id>
@@ -1067,16 +1077,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[ENS Domain To Be Redirected To Community-Built Interface]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana DEX Raydium Hacked for $2.2M]]></title>
-        <id>https://thedefiant.io/raydium-exploit/</id>
-        <link href="https://thedefiant.io/raydium-exploit/"/>
-        <updated>2022-12-16T18:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Protocol’s Admin Keys Likely Compromised]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
