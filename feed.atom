@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T19:04:24.719Z</id>
+    <id>urn:2023-01-11T20:06:37.189Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T19:04:24.719Z</updated>
+    <updated>2023-01-11T20:06:37.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Admits Lapse In Maintaining Stablecoin Reserves]]></title>
+        <id>https://thedefiant.io/binance-lapse-busd-reserves/</id>
+        <link href="https://thedefiant.io/binance-lapse-busd-reserves/"/>
+        <updated>2023-01-11T18:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Binance-peg BUSD Was Insufficiently Backed From 2020 To 2021]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venom Foundation in Partnership With Iceberg Capital Launches $1 Billion Venom Ventures Fund]]></title>
         <id>https://thedefiant.io/venom-foundation-in-partnership-with-iceberg-capital-launches-1-billion-venom-ventures-fund/</id>
@@ -1070,16 +1080,6 @@ Strong]]></summary>
 ‘VPN for Ethereum’]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa Unveils Plans For Auto-Payments From Self-Custodied Wallets]]></title>
-        <id>https://thedefiant.io/visa-autopayments-self-custody/</id>
-        <link href="https://thedefiant.io/visa-autopayments-self-custody/"/>
-        <updated>2022-12-20T02:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Payments Giant Chooses StarkNet For Proposed Implementation]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
