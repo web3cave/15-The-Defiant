@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T16:08:09.875Z</id>
+    <id>urn:2023-01-19T17:05:26.351Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-19T16:08:09.875Z</updated>
+    <updated>2023-01-19T17:05:26.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #34]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-34/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-34/"/>
+        <updated>2023-01-19T15:29:11.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
+where yyctrader and Diego talk about the market, the newest tutorials, and the
+hottest NFTs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LSDs Gather Mojo as Euler Lists Staked ETH]]></title>
         <id>https://thedefiant.io/daily-defiant-lsds/</id>
@@ -1076,16 +1088,6 @@ Hill in 2023]]></summary>
 video!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploit Explosion Rocked Crypto in 2022]]></title>
-        <id>https://thedefiant.io/exploits-2022/</id>
-        <link href="https://thedefiant.io/exploits-2022/"/>
-        <updated>2022-12-28T09:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Bridging Protocols Hardest Hit in Year That Exposed Key Vulnerability]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
