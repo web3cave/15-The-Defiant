@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T06:08:19.178Z</id>
+    <id>urn:2023-01-20T07:05:22.320Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T06:08:19.178Z</updated>
+    <updated>2023-01-20T07:05:22.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Inside look Into Solana After FTX’s Collapse]]></title>
+        <id>https://thedefiant.io/podcast-tal-tchwella-solana-labs/</id>
+        <link href="https://thedefiant.io/podcast-tal-tchwella-solana-labs/"/>
+        <updated>2023-01-20T05:55:37.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, we speak with Tal Tchwella, Product Manager of
+Products Engineering at Solana Labs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX CEO Says Exchange Could Restart Operations]]></title>
         <id>https://thedefiant.io/ftx-ceo-restart-exchange/</id>
@@ -1076,17 +1087,6 @@ lows and surprising moments of this past year.]]></summary>
 Digital Co-ops]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto’s Lobbyist Kept Cool in a Mad, Mad Year]]></title>
-        <id>https://thedefiant.io/cryptos-lobbyist-kept-cool-in-a-mad-mad-year/</id>
-        <link href="https://thedefiant.io/cryptos-lobbyist-kept-cool-in-a-mad-mad-year/"/>
-        <updated>2022-12-29T09:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Kristin Smith and the Blockchain Association Are Facing Busy Agenda on Capitol
-Hill in 2023]]></summary>
-        <author>
-            <name>Edward Robinson</name>
         </author>
     </entry>
 </feed>
