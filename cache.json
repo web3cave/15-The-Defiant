@@ -6,9 +6,19 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-frax-centrifuge/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/daily-defiant-frax-centrifuge/",
+          "publishedOn": "2023-01-20T11:53:59.000Z",
+          "wordCount": 1460,
+          "title": "Frax Triples in Value as Stablecoin Takes Shape",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20044519/FRAX.jpg"
+        },
+        {
           "id": "https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/",
           "author": "Owen Fernau",
-          "description": "“Put it on the blockchain.” It’s a phrase that almost became a joke to highlight\nthe supposed uselessness of the distributed ledger technology. But Centrifuge, a\nproject designed to put debt products on-chain, is making the cliche look\nserious. It has facilitated $252M in financing. The Promise With $112M in\noutstanding loans, the platform also […]",
+          "description": "Co-founder Lucas Vogelsang on How Any Asset Can go On-Chain and the Rise of RWAs",
           "link": "https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/",
           "publishedOn": "2023-01-20T11:11:25.000Z",
           "wordCount": 2370,
@@ -22,7 +32,7 @@
           "link": "https://thedefiant.io/sushi-revitalization-plan/",
           "publishedOn": "2023-01-20T09:50:34.000Z",
           "wordCount": 2592,
-          "title": "Sushi’s Ambitious Revamp May be ‘Too Complex’",
+          "title": "Sushi’s Ambitious Revamp May Be ‘Too Complex’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20054107/image-2.png"
         },
         {
@@ -38,11 +48,11 @@
         {
           "id": "https://thedefiant.io/frax-triples-in-value/",
           "author": "Aleksandar Gilbert",
-          "description": "Founder Sam Kazemian Makes Strides in Building New Stablecoin Ecosystem",
+          "description": "Founder Sam Kazemian Makes Strides in Building New Stablecoin Infrastructure",
           "link": "https://thedefiant.io/frax-triples-in-value/",
           "publishedOn": "2023-01-20T08:57:17.000Z",
           "wordCount": 3415,
-          "title": "Frax Triples in Value Amid the Wreckage of FTX",
+          "title": "Frax Triples in Value as Stablecoin System Takes Shape",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20044519/FRAX.jpg"
         },
         {
@@ -101,7 +111,7 @@
           "description": "More Than $26M in cbETH Deposited on First Day of Listing",
           "link": "https://thedefiant.io/lsds-gather-mojo-as-euler-lists-staked-eth-as-collateral/",
           "publishedOn": "2023-01-19T09:07:20.000Z",
-          "wordCount": 2003,
+          "wordCount": 1998,
           "title": "LSDs Gather Mojo as Euler Lists Staked ETH as Collateral",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19050134/cbETHCollateral.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "Kyiv, Ukraine, 18th January, 2023, Chainwire Cross-chain prime brokerage\nprotocol Primex Finance rolls out a major update to its application. Launching\nin two stages, Beta 0.3.0 introduces a variety of new features, as well as\nimprovements and fixes of existing functionalities. Starting on January 12th,\n2023, Phase 1 was exclusively available for Primex Early Users, […]",
           "link": "https://thedefiant.io/primex-finance-introduces-beta-0-3-0-app-with-deployments-to-polygon-mumbai-and-zkevm-testnets/",
           "publishedOn": "2023-01-19T05:22:33.000Z",
-          "wordCount": 2008,
+          "wordCount": 2003,
           "title": "Primex Finance Introduces Beta 0.3.0 App With Deployments to Polygon Mumbai and zkEVM Testnets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18111013/Primex-beta-16_9_1674045937KlnLejmxwZ.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Crypto Lender Froze Client Assets in November",
           "link": "https://thedefiant.io/genesis-bankruptcy-imminent/",
           "publishedOn": "2023-01-19T05:21:32.000Z",
-          "wordCount": 1300,
+          "wordCount": 1295,
           "title": "Genesis Global Capital To File For Bankruptcy",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19012041/GenesisBankruptcy.jpg"
         },
@@ -171,7 +181,7 @@
           "description": "Synthetix Records ATH in Users After Release of V2",
           "link": "https://thedefiant.io/perpetuals-action-soars-as-volatility-stokes-trading/",
           "publishedOn": "2023-01-18T10:29:50.000Z",
-          "wordCount": 1909,
+          "wordCount": 1904,
           "title": "Perpetuals Action Soars as Volatility Stokes Trading",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
         },
@@ -191,7 +201,7 @@
           "description": "Crypto Players Gather in the Shadow of the Alps and FTX",
           "link": "https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship/",
           "publishedOn": "2023-01-17T20:17:01.000Z",
-          "wordCount": 3517,
+          "wordCount": 3512,
           "title": "DeFi + TradFi: The Beginning of a Beautiful Friendship",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17155405/StMoritzFt.jpg"
         },
@@ -201,7 +211,7 @@
           "description": "Holders Of Bored Apes and Mutant Apes Can Claim Free ‘Sewer Passes’",
           "link": "https://thedefiant.io/yuga-labs-dookey-dash/",
           "publishedOn": "2023-01-17T19:45:26.000Z",
-          "wordCount": 1349,
+          "wordCount": 1344,
           "title": "Yuga Labs Launches Dookey Dash Skill-Based NFT Game",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17154409/YUGAGamifiesNFTMint.jpg"
         },
@@ -211,7 +221,7 @@
           "description": "Los Angeles, CA, 17th January, 2023, Chainwire Takeaways: DeSo, a new blockchain\nthat has raised $200 million from Coinbase, Sequoia, and Andreessen Horowitz,\njust launched DeSo DEX, the world’s fastest fully on-chain order-book exchange,\ncapable of processing 40,000 matches per second. This comes on the heels of the\nlaunch of Openfund, which allows ambitious founders […]",
           "link": "https://thedefiant.io/coinbase-backed-deso-dex-launches-as-worlds-fastest-on-chain-order-book-exchange/",
           "publishedOn": "2023-01-17T18:51:34.000Z",
-          "wordCount": 1933,
+          "wordCount": 1928,
           "title": "Coinbase-Backed DeSo DEX Launches as World’s Fastest On-Chain Order Book Exchange",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17110103/deso-dex_1_1673928582suMGPz3VJR.jpg"
         },
@@ -221,7 +231,7 @@
           "description": "LDO Tanks After Jump Crypto Sells Tokens",
           "link": "https://thedefiant.io/aave-crv-lead-defi-rally/",
           "publishedOn": "2023-01-17T18:50:16.000Z",
-          "wordCount": 1557,
+          "wordCount": 1552,
           "title": "DeFi Heavyweights Curve and Aave Surge As Crypto Rally Stalls",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17144834/MarketsJan17th.jpg"
         },
@@ -301,7 +311,7 @@
           "description": "Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move",
           "link": "https://thedefiant.io/coinbase-rocket-pool-lido/",
           "publishedOn": "2023-01-13T11:00:27.000Z",
-          "wordCount": 1929,
+          "wordCount": 1924,
           "title": "Rocket Pool Bets Coinbase Deal Will Help it Catch Lido",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/13065402/RocketpoolUpAfterCoinbaseJoinsDAO.jpg"
         },
@@ -431,7 +441,7 @@
           "description": "FLR Trades At $500M Market Cap",
           "link": "https://thedefiant.io/flare-airdrop-xrp-holders/",
           "publishedOn": "2023-01-12T05:25:20.000Z",
-          "wordCount": 1430,
+          "wordCount": 1425,
           "title": "Ripple Holders Receive Flare Airdrop Two Years After Snapshot",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12012348/FlareAirdrop.jpg"
         },
@@ -521,7 +531,7 @@
           "description": "Tokens Will Represent Deposits In Popular Bond ETFs From Blackrock and PIMCO",
           "link": "https://thedefiant.io/ondo-finance-bond-etf-tokens/",
           "publishedOn": "2023-01-11T05:55:58.000Z",
-          "wordCount": 2007,
+          "wordCount": 2002,
           "title": "Ondo Finance Launches Tokenized US Treasuries and Corporate Bonds",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11015500/OndoOnChainBonds-1.jpg"
         },
@@ -611,7 +621,7 @@
           "description": "Layer 1 Tokens Outperform",
           "link": "https://thedefiant.io/layer-1-tokens-outperform-as-market-rallies/",
           "publishedOn": "2023-01-10T03:19:19.000Z",
-          "wordCount": 1091,
+          "wordCount": 1086,
           "title": "Crypto Kicks Off The Week With Broad-Based Rally",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09231810/Sminem_MarketsUP.jpg"
         },
@@ -681,7 +691,7 @@
           "description": "ETH Stakers May Be Able to Initiate Withdrawals in March",
           "link": "https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/",
           "publishedOn": "2023-01-09T14:54:12.000Z",
-          "wordCount": 1879,
+          "wordCount": 1874,
           "title": "Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09150217/ETHShanghaiUpgrade.jpg"
         },
@@ -741,7 +751,7 @@
           "description": "LDO, RPL, FXS and SWISE Outperform Broader Markets",
           "link": "https://thedefiant.io/lido-tops-defi-liquid-staking-surge/",
           "publishedOn": "2023-01-06T21:08:51.000Z",
-          "wordCount": 1702,
+          "wordCount": 1697,
           "title": "Lido Rides Liquid Staking Wave To Become Largest DeFi Protocol",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06170640/LSDRally.jpg"
         },
@@ -761,7 +771,7 @@
           "description": "After Years of Checking Crypto Beijing Warms to NFTs on its Own Terms",
           "link": "https://thedefiant.io/china-launches-nft-platform/",
           "publishedOn": "2023-01-06T11:37:17.000Z",
-          "wordCount": 1469,
+          "wordCount": 1464,
           "title": "China Reverses Course on NFTs With Platform Launch",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06073235/MktsDec22.jpg"
         },
@@ -861,7 +871,7 @@
           "description": "NFT Marketplace Magic Eden Generated Record Volume In December",
           "link": "https://thedefiant.io/solana-surges-bonk-memecoin/",
           "publishedOn": "2023-01-05T05:20:09.000Z",
-          "wordCount": 2514,
+          "wordCount": 2509,
           "title": "SOL Soars 36% As Bonk Memecoin Becomes First Hit of 2023",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/05011815/Screen-Shot-2023-01-04-at-3.10.31-PM.png"
         },
@@ -994,16 +1004,6 @@
           "wordCount": 1771,
           "title": "Bear Attack: Investors Lick Their Wounds After Grim 2022",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30012956/BearAttack.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/zachxbt-defier-of-the-year/",
-          "author": "Aleksandar Gilbert",
-          "description": "Deeply Researched Probes of Questionable Projects Proved ‘Invaluable’ in Mad\nYear",
-          "link": "https://thedefiant.io/zachxbt-defier-of-the-year/",
-          "publishedOn": "2022-12-30T10:38:20.000Z",
-          "wordCount": 2709,
-          "title": "Crypto Sleuth ZachXBT Exposed Chicanery For a Grateful DeFi Community",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30060952/DEFIERoty.jpg"
         }
       ]
     }
