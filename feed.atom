@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T19:03:32.935Z</id>
+    <id>urn:2023-01-24T20:06:28.469Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T19:03:32.935Z</updated>
+    <updated>2023-01-24T20:06:28.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Vertex?]]></title>
+        <id>https://thedefiant.io/what-is-vertex/</id>
+        <link href="https://thedefiant.io/what-is-vertex/"/>
+        <updated>2023-01-24T19:16:52.000Z</updated>
+        <summary type="html"><![CDATA[A Sponsored Primer on a Key Decentralized Trading Platform]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Index Coop Launches Diversified Staked ETH Token]]></title>
         <id>https://thedefiant.io/index-coop-staked-eth-index-token/</id>
@@ -1071,20 +1081,6 @@ Verified Credentials]]></summary>
 Fined $50M]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAG Introduces MetaOne Wallet to Simplify & Streamline The Web3 User Experience]]></title>
-        <id>https://thedefiant.io/aag-introduces-metaone-wallet-to-simplify-streamline-the-web3-user-experience/</id>
-        <link href="https://thedefiant.io/aag-introduces-metaone-wallet-to-simplify-streamline-the-web3-user-experience/"/>
-        <updated>2023-01-05T18:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Singapore, SG, 5th January, 2023, Chainwire Web3 infrastructure company AAG has
-officially launched its flagship product – the MetaOne® Wallet. In order to
-simplify and ease the onboarding of new users into the Metaverse economy, the
-MetaOne Wallet gets rid of the requirement for users to remember or safely store
-their private keys and seed […]]]></summary>
-        <author>
-            <name>chainwire</name>
         </author>
     </entry>
 </feed>
