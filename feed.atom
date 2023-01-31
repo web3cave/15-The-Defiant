@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T16:07:48.704Z</id>
+    <id>urn:2023-01-31T17:04:55.809Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T16:07:48.704Z</updated>
+    <updated>2023-01-31T17:04:55.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Erasure?]]></title>
+        <id>https://thedefiant.io/what-is-erasure/</id>
+        <link href="https://thedefiant.io/what-is-erasure/"/>
+        <updated>2023-01-31T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[A Primer on the DeFi Data Markets Protocol]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollup Wars: Battle Rages For the Future Of Ethereum Scaling]]></title>
+        <id>https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/</id>
+        <link href="https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/"/>
+        <updated>2023-01-31T15:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Protocol Metaplex To Enable Royalty Enforcement]]></title>
         <id>https://thedefiant.io/metaplex-upgrade-solana-nft-royalties/</id>
@@ -1005,26 +1025,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Trade with up to 25X Leverage using Kwenta Decentralized Perpetuals on L2]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon]]></title>
-        <id>https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/</id>
-        <link href="https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/"/>
-        <updated>2023-01-09T14:54:12.000Z</updated>
-        <summary type="html"><![CDATA[ETH Stakers May Be Able to Initiate Withdrawals in March]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Shanghai Upgrade is coming]]></title>
-        <id>https://thedefiant.io/shanghai-is-coming/</id>
-        <link href="https://thedefiant.io/shanghai-is-coming/"/>
-        <updated>2023-01-09T08:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Shanghai Upgrade Approaches]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
