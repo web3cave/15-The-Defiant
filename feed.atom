@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T21:04:20.048Z</id>
+    <id>urn:2023-02-01T22:05:23.123Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T21:04:20.048Z</updated>
+    <updated>2023-02-01T22:05:23.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Alchemix?]]></title>
+        <id>https://thedefiant.io/what-is-alchemix/</id>
+        <link href="https://thedefiant.io/what-is-alchemix/"/>
+        <updated>2023-02-01T20:41:08.000Z</updated>
+        <summary type="html"><![CDATA[A Primer on the DeFi Lending Protocol]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals]]></title>
         <id>https://thedefiant.io/ethereum-zhejiang-testnet-withdrawals/</id>
@@ -1015,16 +1025,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[A Primer on High-Risk Instruments Used in Decentralized Finance]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will The Bank Run On Binance Continue?]]></title>
-        <id>https://thedefiant.io/will-the-bank-run-on-binance-continue/</id>
-        <link href="https://thedefiant.io/will-the-bank-run-on-binance-continue/"/>
-        <updated>2023-01-10T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[Binance Bank Run?]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
