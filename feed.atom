@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T22:04:36.138Z</id>
+    <id>urn:2023-02-03T23:04:48.616Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T22:04:36.138Z</updated>
+    <updated>2023-02-03T23:04:48.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is IDEX?]]></title>
+        <id>https://thedefiant.io/what-is-idex/</id>
+        <link href="https://thedefiant.io/what-is-idex/"/>
+        <updated>2023-02-03T22:24:52.000Z</updated>
+        <summary type="html"><![CDATA[A Primer on a Hybrid DeFi-CeFi Exchange]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Founder Wants $14M To Fight Climate Change]]></title>
+        <id>https://thedefiant.io/makerdao-14m-climate-change/</id>
+        <link href="https://thedefiant.io/makerdao-14m-climate-change/"/>
+        <updated>2023-02-03T22:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Pregame Constitution Seeks To Allocate 20,000 MKR To Scientific Sustainability
+Fund]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTfi Processes Record Number Of Loans In January]]></title>
         <id>https://thedefiant.io/nftfi-record-loans/</id>
@@ -1007,26 +1028,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Fraud at DCG?]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Activity Hits New Highs As Layer 2s Close In On Ethereum]]></title>
-        <id>https://thedefiant.io/optimism-transactions-ath/</id>
-        <link href="https://thedefiant.io/optimism-transactions-ath/"/>
-        <updated>2023-01-11T07:02:12.000Z</updated>
-        <summary type="html"><![CDATA[OP Is Up 32% In the Past Week]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Finance Launches Tokenized US Treasuries and Corporate Bonds]]></title>
-        <id>https://thedefiant.io/ondo-finance-bond-etf-tokens/</id>
-        <link href="https://thedefiant.io/ondo-finance-bond-etf-tokens/"/>
-        <updated>2023-01-11T05:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Tokens Will Represent Deposits In Popular Bond ETFs From Blackrock and PIMCO]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
