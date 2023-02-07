@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T11:03:37.315Z</id>
+    <id>urn:2023-02-07T12:10:58.921Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-07T11:03:37.315Z</updated>
+    <updated>2023-02-07T12:10:58.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Market Maker Hacks CoW Swap]]></title>
+        <id>https://thedefiant.io/market-maker-hacks-cow-swap/</id>
+        <link href="https://thedefiant.io/market-maker-hacks-cow-swap/"/>
+        <updated>2023-02-07T11:29:38.000Z</updated>
+        <summary type="html"><![CDATA[DEX Says a ‘Solver’ Perpetrated the Heist and Customer Funds Are Safe]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Opens Door for Lido Rewards Across Three Networks]]></title>
         <id>https://thedefiant.io/lido-aave-staking-rewards/</id>
@@ -1020,16 +1030,6 @@ where yyctrader and Diego talk about the market, the newest tutorials, and the
 hottest NFTs.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitcoin To Test Decentralized Funding Protocol]]></title>
-        <id>https://thedefiant.io/gitcoin-alpha-round/</id>
-        <link href="https://thedefiant.io/gitcoin-alpha-round/"/>
-        <updated>2023-01-12T05:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Round Will Run From Jan. 17 Through Jan. 31]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
