@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T13:15:20.504Z</id>
+    <id>urn:2023-02-08T14:05:38.262Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T13:15:20.504Z</updated>
+    <updated>2023-02-08T14:05:38.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
+        <id>https://thedefiant.io/the-graphs-token-doubles-in-24-hours/</id>
+        <link href="https://thedefiant.io/the-graphs-token-doubles-in-24-hours/"/>
+        <updated>2023-02-08T13:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devs Test ETH Withdrawals Ahead of Shanghai Upgrade]]></title>
+        <id>https://thedefiant.io/staked-eth-withdrawals-testnet/</id>
+        <link href="https://thedefiant.io/staked-eth-withdrawals-testnet/"/>
+        <updated>2023-02-08T13:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Staked ETH Withdrawals Activated on Zhejiang Testnet]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of PoS: Delving Into the Risk and Promise of a Staked Future]]></title>
         <id>https://thedefiant.io/state-of-proof-of-stake-report/</id>
@@ -1003,26 +1023,6 @@ collective action.]]></summary>
 our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Chases Lido With New Deal]]></title>
-        <id>https://thedefiant.io/daily-defiant-rocket-pool/</id>
-        <link href="https://thedefiant.io/daily-defiant-rocket-pool/"/>
-        <updated>2023-01-13T11:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Bets Coinbase Deal Will Help it Catch Lido]]></title>
-        <id>https://thedefiant.io/coinbase-rocket-pool-lido/</id>
-        <link href="https://thedefiant.io/coinbase-rocket-pool-lido/"/>
-        <updated>2023-01-13T11:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
