@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T09:06:38.282Z</id>
+    <id>urn:2023-02-08T10:07:29.987Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T09:06:38.282Z</updated>
+    <updated>2023-02-08T10:07:29.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State of PoS: Delving Into the Risk and Promise of a Staked Future]]></title>
+        <id>https://thedefiant.io/state-of-proof-of-stake-report/</id>
+        <link href="https://thedefiant.io/state-of-proof-of-stake-report/"/>
+        <updated>2023-02-08T09:22:17.000Z</updated>
+        <summary type="html"><![CDATA[A Deep Dive Into Consensus on Ethereum, Polkadot, Solana and Avalanche]]></summary>
+        <author>
+            <name>Alberto Guerrero Montilla and Pablo Larguia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Ex-Employee Pleads Guilty to Insider Trading]]></title>
+        <id>https://thedefiant.io/coinbase-insider-trading-2/</id>
+        <link href="https://thedefiant.io/coinbase-insider-trading-2/"/>
+        <updated>2023-02-08T08:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Feds Treating Digital Assets the Same as Stocks When it Comes to Confidential
+Information on Listings]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
         <id>https://thedefiant.io/the-graph-token-doubles/</id>
@@ -1002,27 +1023,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Charges Gemini and Genesis With Selling Unregistered Securities]]></title>
-        <id>https://thedefiant.io/sec-charges-gemini-genesis/</id>
-        <link href="https://thedefiant.io/sec-charges-gemini-genesis/"/>
-        <updated>2023-01-12T23:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Agency Targets Gemini’s Earn Product as War of Words Escalates Between
-Winklevoss and Silbert]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets Surge After Data Shows US Inflation Cooling]]></title>
-        <id>https://thedefiant.io/markets-surge-as-us-inflation-cools/</id>
-        <link href="https://thedefiant.io/markets-surge-as-us-inflation-cools/"/>
-        <updated>2023-01-12T21:37:48.000Z</updated>
-        <summary type="html"><![CDATA[GBTC Discount Shrinks To 39%]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
