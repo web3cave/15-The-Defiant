@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T19:02:12.820Z</id>
+    <id>urn:2023-02-16T20:06:52.832Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T19:02:12.820Z</updated>
+    <updated>2023-02-16T20:06:52.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync Counters Polygon With ‘Mainnet’ Rollup]]></title>
+        <id>https://thedefiant.io/zksync-launch-evm/</id>
+        <link href="https://thedefiant.io/zksync-launch-evm/"/>
+        <updated>2023-02-16T19:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Layer 2s Escalate Battle to Rule Ethereum Scaling Solutions]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balancer Flexes in LSD Market]]></title>
         <id>https://thedefiant.io/daily-defiant-balancer/</id>
@@ -1009,18 +1019,6 @@ in 2022.]]></summary>
         <summary type="html"><![CDATA[A Primer on the Stablecoin Collateral Tool]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPONSORED] Reunit wallet: Token presale open and airdrop to STG holders]]></title>
-        <id>https://thedefiant.io/reunit-wallet-token-presale-open-and-airdrop-to-stg-holders/</id>
-        <link href="https://thedefiant.io/reunit-wallet-token-presale-open-and-airdrop-to-stg-holders/"/>
-        <updated>2023-01-22T12:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Reunit, the long-awaited first omni-chain wallet capable of using funds from
-multiple blockchains simultaneously, will launch its beta and presale of the
-$REUNI token in February. Whitelisting for presale is now open.]]></summary>
-        <author>
-            <name>Reunit</name>
         </author>
     </entry>
 </feed>
