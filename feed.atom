@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T13:16:15.995Z</id>
+    <id>urn:2023-02-16T14:05:44.020Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T13:16:15.995Z</updated>
+    <updated>2023-02-16T14:05:44.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balancer Flexes in LSD Market]]></title>
+        <id>https://thedefiant.io/daily-defiant-balancer/</id>
+        <link href="https://thedefiant.io/daily-defiant-balancer/"/>
+        <updated>2023-02-16T13:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flashbots Poised to Offer MEV to Ordinary Investors]]></title>
         <id>https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/</id>
@@ -1011,16 +1021,6 @@ multiple blockchains simultaneously, will launch its beta and presale of the
 $REUNI token in February. Whitelisting for presale is now open.]]></summary>
         <author>
             <name>Reunit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Resurgent: Weekly Recap Jan. 15]]></title>
-        <id>https://thedefiant.io/defiant-weekly-recap-defi-resurgent/</id>
-        <link href="https://thedefiant.io/defiant-weekly-recap-defi-resurgent/"/>
-        <updated>2023-01-21T18:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Happy Weekend! Here’s what we covered this week…]]></summary>
-        <author>
-            <name>Edward Robinson</name>
         </author>
     </entry>
 </feed>
