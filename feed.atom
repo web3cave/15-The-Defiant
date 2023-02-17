@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T07:06:01.498Z</id>
+    <id>urn:2023-02-17T08:08:38.120Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T07:06:01.498Z</updated>
+    <updated>2023-02-17T08:08:38.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[European Dreamin’]]></title>
+        <id>https://thedefiant.io/european-dreamin/</id>
+        <link href="https://thedefiant.io/european-dreamin/"/>
+        <updated>2023-02-17T06:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Eating America’s Lunch]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zkSync Counters Polygon With ‘Mainnet’ Rollup]]></title>
         <id>https://thedefiant.io/zksync-launch-evm/</id>
@@ -1009,16 +1019,6 @@ in 2022.]]></summary>
         <summary type="html"><![CDATA[Uniswap V3 on BNB]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha: Earn Up To 130% APR On ETH Pairs With DefiEdge On Optimism]]></title>
-        <id>https://thedefiant.io/defi-alpha-earn-up-to-130-apr-on-eth-pairs-with-defiedge-on-optimism/</id>
-        <link href="https://thedefiant.io/defi-alpha-earn-up-to-130-apr-on-eth-pairs-with-defiedge-on-optimism/"/>
-        <updated>2023-01-24T04:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Earn Up to 19% vAPR with XAI by Silo Finance on Convex’s Frax Booster]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
