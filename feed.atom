@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T12:11:04.157Z</id>
+    <id>urn:2023-02-17T13:15:22.757Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T12:11:04.157Z</updated>
+    <updated>2023-02-17T13:15:22.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It Isn’t Just the SEC — Feds’ Dragnet Targets Crypto Banking, Too]]></title>
+        <id>https://thedefiant.io/regulatory-dragnet-crypto/</id>
+        <link href="https://thedefiant.io/regulatory-dragnet-crypto/"/>
+        <updated>2023-02-17T12:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Spate of Enforcement Actions Poised to Reshape Industry]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Use ‘Emergency Withdraw’ Flaw to Raid Platypus]]></title>
         <id>https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/</id>
@@ -1010,16 +1020,6 @@ in 2022.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Takes Big Step Closer to Shanghai Upgrade]]></title>
-        <id>https://thedefiant.io/ethereum-shadow-forks-shanghai/</id>
-        <link href="https://thedefiant.io/ethereum-shadow-forks-shanghai/"/>
-        <updated>2023-01-24T09:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Devs Deploy Shadow Fork to Support Staked ETH Withdrawals]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
