@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T08:07:31.020Z</id>
+    <id>urn:2023-02-18T09:05:21.701Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T08:07:31.020Z</updated>
+    <updated>2023-02-18T09:05:21.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha: Set Up a Streaming Payment with Superfluid]]></title>
+        <id>https://thedefiant.io/defi-alpha-superfluid-streaming/</id>
+        <link href="https://thedefiant.io/defi-alpha-superfluid-streaming/"/>
+        <updated>2023-02-18T08:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Claim Your $BLUR Airdrop and Treasure Tags]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi, Fantom, Regulations, and the Challenges Of Being a Crypto Celebrity with Andre Cronje]]></title>
+        <id>https://thedefiant.io/podcast-andre-cronje-fantom/</id>
+        <link href="https://thedefiant.io/podcast-andre-cronje-fantom/"/>
+        <updated>2023-02-18T08:16:46.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Camila Russo chats with Andre Cronje, the
+co-founder of Fantom, a Layer 1 blockchain, and also the founder of Yearn
+Finance, one of the first yield aggregators in DeFi.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feds’ Dragnet Targets More Than Tokens]]></title>
         <id>https://thedefiant.io/feds-dragnet-targets-more-than-tokens/</id>
@@ -1000,26 +1022,6 @@ in 2022.]]></summary>
         <summary type="html"><![CDATA[Partnership Between DeFi Stalwarts Must Be Confirmed By Executive Vote]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Vertex?]]></title>
-        <id>https://thedefiant.io/what-is-vertex/</id>
-        <link href="https://thedefiant.io/what-is-vertex/"/>
-        <updated>2023-01-24T19:16:52.000Z</updated>
-        <summary type="html"><![CDATA[A Sponsored Primer on a Key Decentralized Trading Platform]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Index Coop Launches Diversified Staked ETH Token]]></title>
-        <id>https://thedefiant.io/index-coop-staked-eth-index-token/</id>
-        <link href="https://thedefiant.io/index-coop-staked-eth-index-token/"/>
-        <updated>2023-01-24T18:26:24.000Z</updated>
-        <summary type="html"><![CDATA[dsETH Includes Rocket Pool’s rETH, Lido’s stETH and Stakewise’s sETH2.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
