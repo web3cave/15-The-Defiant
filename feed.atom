@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T10:07:00.267Z</id>
+    <id>urn:2023-02-24T11:04:41.036Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T10:07:00.267Z</updated>
+    <updated>2023-02-24T11:04:41.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Transactions on Arbitrum Leapfrog Ethereum]]></title>
+        <id>https://thedefiant.io/arbitrum-tops-ethereum/</id>
+        <link href="https://thedefiant.io/arbitrum-tops-ethereum/"/>
+        <updated>2023-02-24T09:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Lower Fees Propel Layer 2 Blockchain Past Ethereum For First Time]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenization Is the Force Multiplier DeFi Needs]]></title>
         <id>https://thedefiant.io/tokenization-boon-defi/</id>
@@ -1014,16 +1024,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Leveraged Trading Protocol Sees Activity Spike Amid Market Rally]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollup Wars: Battle Rages For the Future Of Ethereum Scaling]]></title>
-        <id>https://thedefiant.io/rollup-wars-optimistic-vs-zk/</id>
-        <link href="https://thedefiant.io/rollup-wars-optimistic-vs-zk/"/>
-        <updated>2023-01-31T05:28:37.000Z</updated>
-        <summary type="html"><![CDATA[Offchain Labs Co-founder Takes Aim At Zero-Knowledge Technology]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
