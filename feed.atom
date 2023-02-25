@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T18:07:19.469Z</id>
+    <id>urn:2023-02-25T19:03:01.620Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T18:07:19.469Z</updated>
+    <updated>2023-02-25T19:03:01.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Overachievers: DeFi Week Feb. 19]]></title>
+        <id>https://thedefiant.io/weekly-recap-the-defiant/</id>
+        <link href="https://thedefiant.io/weekly-recap-the-defiant/"/>
+        <updated>2023-02-25T18:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week!]]></summary>
+        <author>
+            <name>Edward Robinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha: Earn 30% Annualized with Leveraged ETH Vaults by Notional Finance]]></title>
         <id>https://thedefiant.io/defi-alpha-notional-leveraged-eth-vaults/</id>
@@ -1015,16 +1025,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[ZKR vs OR]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur Adopts Seaport To Sidestep OpenSea Filter]]></title>
-        <id>https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/</id>
-        <link href="https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/"/>
-        <updated>2023-02-01T06:01:44.000Z</updated>
-        <summary type="html"><![CDATA[NFT Marketplace Will Enforce Royalties On Seaport Listings]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
