@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T19:03:35.912Z</id>
+    <id>urn:2023-02-27T20:07:14.179Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T19:03:35.912Z</updated>
+    <updated>2023-02-27T20:07:14.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Zero-Knowledge Moment Has Arrived]]></title>
+        <id>https://thedefiant.io/zero-knowledge-2023/</id>
+        <link href="https://thedefiant.io/zero-knowledge-2023/"/>
+        <updated>2023-02-27T20:00:41.000Z</updated>
+        <summary type="html"><![CDATA[A Rundown on the Slew of ZK Developments Coming This Year]]></summary>
+        <author>
+            <name>Evan Shapiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collector Sells $18M in NFTs on Blur — Then Buys Some Back]]></title>
         <id>https://thedefiant.io/nft-trades-blur/</id>
@@ -1016,16 +1026,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[DAI Savings Rate Was Increased To 1% In December]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Alchemix?]]></title>
-        <id>https://thedefiant.io/what-is-alchemix/</id>
-        <link href="https://thedefiant.io/what-is-alchemix/"/>
-        <updated>2023-02-01T20:41:08.000Z</updated>
-        <summary type="html"><![CDATA[A Primer on the DeFi Lending Protocol]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
