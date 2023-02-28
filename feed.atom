@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T11:04:43.101Z</id>
+    <id>urn:2023-02-28T12:11:55.247Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T11:04:43.101Z</updated>
+    <updated>2023-02-28T12:11:55.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Traders Speculate on Goerli Even as Ethereum Devs Move On]]></title>
+        <id>https://thedefiant.io/traders-ignore-shift-to-new-ethereum-testnet/</id>
+        <link href="https://thedefiant.io/traders-ignore-shift-to-new-ethereum-testnet/"/>
+        <updated>2023-02-28T10:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Action Mounts on Goerli ETH Despite Switch to Holli Testnet]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Forges ‘Superchain’ to Challenge Arbitrum for Supremacy in Layer 2 Market]]></title>
         <id>https://thedefiant.io/arbitrum-vs-optimism-l2-wars/</id>
@@ -1015,18 +1025,6 @@ Fund]]></summary>
         <summary type="html"><![CDATA[A Primer on a DeFi Take on Fixed Interest Rates]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha Call #36]]></title>
-        <id>https://thedefiant.io/defi-alpha-call-36/</id>
-        <link href="https://thedefiant.io/defi-alpha-call-36/"/>
-        <updated>2023-02-03T05:20:22.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
-where yyctrader and Diego talk about the market, the latest tutorials, and the
-hottest NFTs.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
