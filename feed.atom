@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T07:06:40.694Z</id>
+    <id>urn:2023-03-01T08:09:04.730Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T07:06:40.694Z</updated>
+    <updated>2023-03-01T08:09:04.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto]]></title>
+        <id>https://thedefiant.io/oasis-reverse-exploit-patch/</id>
+        <link href="https://thedefiant.io/oasis-reverse-exploit-patch/"/>
+        <updated>2023-03-01T07:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Company Wrestles With Balance Between DeFi Ethos and Protecting Users]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Challenges Aribitrum with ‘Superchain’]]></title>
         <id>https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/</id>
@@ -1015,16 +1025,6 @@ Fund]]></summary>
         <summary type="html"><![CDATA[Nearly 18,000 ETH Borrowed In January]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Rally Gains Steam After Fed Sticks To Plan]]></title>
-        <id>https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/</id>
-        <link href="https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/"/>
-        <updated>2023-02-03T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
