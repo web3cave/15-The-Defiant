@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T17:05:08.272Z</id>
+    <id>urn:2023-03-02T18:08:30.582Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T17:05:08.272Z</updated>
+    <updated>2023-03-02T18:08:30.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Maya Protocol?]]></title>
+        <id>https://thedefiant.io/what-is-maya-protocol/</id>
+        <link href="https://thedefiant.io/what-is-maya-protocol/"/>
+        <updated>2023-03-02T08:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Maya is a decentralized liquidity protocol for exchanging assets across
+blockchains]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto]]></title>
         <id>https://thedefiant.io/daily-defiant-oasis-patch-vulnerability/</id>
@@ -1012,17 +1023,6 @@ Information on Listings]]></summary>
         <summary type="html"><![CDATA[Aave, MakerDAO and Yearn Seek to Show Contrast with Scandal-Plagued CeFi Firms]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha:  Provide Liquidity On Connext To Earn Yield And A Potential NEXT Airdrop]]></title>
-        <id>https://thedefiant.io/defi-alpha-connext-on-arbitrum/</id>
-        <link href="https://thedefiant.io/defi-alpha-connext-on-arbitrum/"/>
-        <updated>2023-02-05T06:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Using Connext On Arbitrum Could Qualify For A Future Airdrop From The Layer 2
-Network]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
