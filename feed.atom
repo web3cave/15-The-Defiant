@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T22:05:50.738Z</id>
+    <id>urn:2023-03-03T23:05:48.475Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T22:05:50.738Z</updated>
+    <updated>2023-03-03T23:05:48.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Plunge Amid Silvergate Concerns]]></title>
+        <id>https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/</id>
+        <link href="https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/"/>
+        <updated>2023-03-03T21:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silvergate Shares Slump 60% in Two Days As Crypto Firms Scramble To Sever Ties]]></title>
+        <id>https://thedefiant.io/silvergate-on-the-ropes/</id>
+        <link href="https://thedefiant.io/silvergate-on-the-ropes/"/>
+        <updated>2023-03-03T21:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-friendly Bank Says It’s “Less Than Well Capitalized”]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Plunge Amid Silvergate Concerns]]></title>
         <id>https://thedefiant.io/markets-down-silvergate-concerns/</id>
@@ -1004,26 +1024,6 @@ Staking-as-a-Service]]></summary>
         <summary type="html"><![CDATA[Staking Giant Hopes to Broaden Range of Node Operators]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
-        <id>https://thedefiant.io/the-graphs-token-doubles-in-24-hours/</id>
-        <link href="https://thedefiant.io/the-graphs-token-doubles-in-24-hours/"/>
-        <updated>2023-02-08T13:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devs Test ETH Withdrawals Ahead of Shanghai Upgrade]]></title>
-        <id>https://thedefiant.io/staked-eth-withdrawals-testnet/</id>
-        <link href="https://thedefiant.io/staked-eth-withdrawals-testnet/"/>
-        <updated>2023-02-08T13:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Staked ETH Withdrawals Activated on Zhejiang Testnet]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
