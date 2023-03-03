@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T11:03:50.587Z</id>
+    <id>urn:2023-03-03T12:11:18.153Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T11:03:50.588Z</updated>
+    <updated>2023-03-03T12:11:18.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unstoppable Domains’ Matthew Gould Unpacks Digital Identity in Web3]]></title>
+        <id>https://thedefiant.io/podcast-matthew-gould/</id>
+        <link href="https://thedefiant.io/podcast-matthew-gould/"/>
+        <updated>2023-03-03T10:48:51.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Camila Russo chats with Matthew Gould, the
+founder and CEO of Unstoppable Domains.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Users May Soon Be Able To Retrieve Lost Private Keys]]></title>
         <id>https://thedefiant.io/defi-daily-ethereum-account-abstraction-live/</id>
@@ -1013,16 +1024,6 @@ Staking-as-a-Service]]></summary>
 Information on Listings]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
-        <id>https://thedefiant.io/the-graph-token-doubles/</id>
-        <link href="https://thedefiant.io/the-graph-token-doubles/"/>
-        <updated>2023-02-08T08:42:38.000Z</updated>
-        <summary type="html"><![CDATA[GRT’s Performance Evokes Heady Days of Bull Market Amid AI-Token Rally]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
