@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T00:37:12.139Z</id>
+    <id>urn:2023-03-07T02:23:49.818Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T00:37:12.139Z</updated>
+    <updated>2023-03-07T02:23:49.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MolochDAO Reveals ZK-Powered Crypto Mixer]]></title>
+        <id>https://thedefiant.io/molochdao-privacy-pools/</id>
+        <link href="https://thedefiant.io/molochdao-privacy-pools/"/>
+        <updated>2023-03-07T00:43:15.000Z</updated>
+        <summary type="html"><![CDATA[On-Chain Privacy Protocol Includes Compliance Features]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Developers in Conference at the “Wild West” are Warming to Compliance]]></title>
         <id>https://thedefiant.io/ethereum-developers-in-conference-at-the-wild-west-are-warming-to-compliance/</id>
@@ -1016,16 +1026,6 @@ Staking-as-a-Service]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Community Strives to Raise Aid for Quake Victims]]></title>
-        <id>https://thedefiant.io/dao-earthquake-victims-aid/</id>
-        <link href="https://thedefiant.io/dao-earthquake-victims-aid/"/>
-        <updated>2023-02-09T09:48:24.000Z</updated>
-        <summary type="html"><![CDATA[DAO Defers to Charity Amid Race to Get Food, Water, and Shelter to Victims]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
