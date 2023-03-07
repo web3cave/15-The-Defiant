@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T07:04:50.744Z</id>
+    <id>urn:2023-03-07T08:09:20.140Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T07:04:50.744Z</updated>
+    <updated>2023-03-07T08:09:20.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket Pool To Launch 8 ETH Minipools]]></title>
+        <id>https://thedefiant.io/rocket-pool-8eth-minipools/</id>
+        <link href="https://thedefiant.io/rocket-pool-8eth-minipools/"/>
+        <updated>2023-03-07T07:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Atlas Upgrade Slated for Early April Will Halve Minimum Staking Requirement]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MolochDAO Reveals ZK-Powered Crypto Mixer]]></title>
         <id>https://thedefiant.io/molochdao-privacy-pools/</id>
@@ -1016,16 +1026,6 @@ Staking-as-a-Service]]></summary>
         <summary type="html"><![CDATA[“AI Project are dead in the water”]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Bets V2 Will Prove its DeFi Cred]]></title>
-        <id>https://thedefiant.io/daily-defiant-lido-v2/</id>
-        <link href="https://thedefiant.io/daily-defiant-lido-v2/"/>
-        <updated>2023-02-09T12:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
