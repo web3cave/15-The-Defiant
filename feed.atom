@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T23:06:32.327Z</id>
+    <id>urn:2023-03-08T00:35:53.323Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T23:06:32.327Z</updated>
+    <updated>2023-03-08T00:35:53.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETHDenver: Competition and New Ideas Spur Wallet Development]]></title>
+        <id>https://thedefiant.io/defi-daily-ethdenver-wallet-developments/</id>
+        <link href="https://thedefiant.io/defi-daily-ethdenver-wallet-developments/"/>
+        <updated>2023-03-07T23:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETHDenver: Competition and New Ideas Spur Wallet Development]]></title>
         <id>https://thedefiant.io/ethdenver-wallet-developments/</id>
@@ -1016,16 +1026,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Yuga Labs’ BAYC and CryptoPunks Account for 50% of Market Value]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Taps Proof of Reserves System for Avalanche Market]]></title>
-        <id>https://thedefiant.io/aave-taps-proof-of-reserves-system-for-avalanche-market/</id>
-        <link href="https://thedefiant.io/aave-taps-proof-of-reserves-system-for-avalanche-market/"/>
-        <updated>2023-02-10T10:10:02.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Lender Seeks to Protect Wrapped Tokens Vulnerable to Bridge Exploits]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
