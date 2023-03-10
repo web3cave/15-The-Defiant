@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T07:06:28.884Z</id>
+    <id>urn:2023-03-10T08:09:16.429Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-10T07:06:28.884Z</updated>
+    <updated>2023-03-10T08:09:16.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need To Know About EigenLayer with Sreeram Kannan]]></title>
+        <id>https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/</id>
+        <link href="https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/"/>
+        <updated>2023-03-10T06:16:44.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Tegan Kline chats with Sreeram Kannan, the
+founder of Eigen Layer and the director of the University of Washington’s
+Blockchain Lab.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik’s Metalabel Drop Tops OpenSea Charts]]></title>
         <id>https://thedefiant.io/vitalik-metalabel-drop-tops-charts/</id>
@@ -1015,18 +1027,6 @@ Crypto]]></summary>
         <summary type="html"><![CDATA[Crypto Crackdown?]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha Call #39]]></title>
-        <id>https://thedefiant.io/defi-alpha-call-39/</id>
-        <link href="https://thedefiant.io/defi-alpha-call-39/"/>
-        <updated>2023-02-15T06:12:23.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
-where yyctrader and Diego talk about the market, the latest tutorials, and the
-hottest NFTs.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
