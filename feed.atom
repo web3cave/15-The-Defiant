@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T20:05:45.267Z</id>
+    <id>urn:2023-03-12T21:03:36.212Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-12T20:05:45.267Z</updated>
+    <updated>2023-03-12T21:03:36.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDC Finds Stability Near $0.97 After Crashing on SVB Concerns]]></title>
+        <id>https://thedefiant.io/usdc-recovers-after-svb-concerns/</id>
+        <link href="https://thedefiant.io/usdc-recovers-after-svb-concerns/"/>
+        <updated>2023-03-12T20:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Circle said the stablecoin will be redeemable for US dollars starting Monday.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #93]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-93/</id>
@@ -1018,16 +1028,6 @@ Crypto]]></summary>
         <summary type="html"><![CDATA[Eating America’s Lunch]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Counters Polygon With ‘Mainnet’ Rollup]]></title>
-        <id>https://thedefiant.io/zksync-launch-evm/</id>
-        <link href="https://thedefiant.io/zksync-launch-evm/"/>
-        <updated>2023-02-16T19:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2s Escalate Battle to Rule Ethereum Scaling Solutions]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
