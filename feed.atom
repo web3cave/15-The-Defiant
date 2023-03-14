@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T01:55:32.484Z</id>
+    <id>urn:2023-03-14T02:26:25.816Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-14T01:55:32.484Z</updated>
+    <updated>2023-03-14T02:26:25.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Lender Euler Suffers $200M Exploit]]></title>
+        <id>https://thedefiant.io/euler-200m-exploit/</id>
+        <link href="https://thedefiant.io/euler-200m-exploit/"/>
+        <updated>2023-03-14T02:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Code Bug Enabled Flash Loan Attack]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silvergate, Signature Collapse Leaves Crypto with Few Bank Partners]]></title>
         <id>https://thedefiant.io/signature-collapse-means-few-crypto-bank-partners/</id>
@@ -1017,16 +1027,6 @@ Finance, one of the first yield aggregators in DeFi.]]></summary>
         <summary type="html"><![CDATA[Spate of Enforcement Actions Poised to Reshape Industry]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Use ‘Emergency Withdraw’ Flaw to Raid Platypus]]></title>
-        <id>https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/</id>
-        <link href="https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/"/>
-        <updated>2023-02-17T10:46:59.000Z</updated>
-        <summary type="html"><![CDATA[ZachXBT Identifies Hacker After Attack Erases Half the Value in USP Stablecoin]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

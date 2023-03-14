@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/euler-200m-exploit/",
+          "author": "Tarang Khaitan",
+          "description": "Code Bug Enabled Flash Loan Attack",
+          "link": "https://thedefiant.io/euler-200m-exploit/",
+          "publishedOn": "2023-03-14T02:05:16.000Z",
+          "wordCount": 1650,
+          "title": "DeFi Lender Euler Suffers $200M Exploit",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/13220410/EulerExploit.jpg"
+        },
+        {
           "id": "https://thedefiant.io/signature-collapse-means-few-crypto-bank-partners/",
           "author": "Aleksandar Gilbert",
           "description": "Foreign Companies Could Fill the Void",
@@ -994,16 +1004,6 @@
           "wordCount": 4754,
           "title": "It Isn’t Just the SEC — Feds’ Dragnet Targets Crypto Banking, Too",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/",
-          "author": "Samuel Haig",
-          "description": "ZachXBT Identifies Hacker After Attack Erases Half the Value in USP Stablecoin",
-          "link": "https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/",
-          "publishedOn": "2023-02-17T10:46:59.000Z",
-          "wordCount": 1380,
-          "title": "Hackers Use ‘Emergency Withdraw’ Flaw to Raid Platypus",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17064359/PlatypusHacked.jpg"
         }
       ]
     }
