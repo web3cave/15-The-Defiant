@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T21:04:54.474Z</id>
+    <id>urn:2023-03-15T22:05:01.552Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T21:04:54.474Z</updated>
+    <updated>2023-03-15T22:05:01.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Shapella Upgrade Passes Final Testnet Deployment]]></title>
+        <id>https://thedefiant.io/ethereum-shapella-goerli/</id>
+        <link href="https://thedefiant.io/ethereum-shapella-goerli/"/>
+        <updated>2023-03-15T20:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Mainnet Launch Will Enable Staked ETH Withdrawals]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filecoin Launches Ethereum-compatible Smart Contracts]]></title>
         <id>https://thedefiant.io/filecoin-smart-contracts/</id>
@@ -1012,20 +1022,6 @@ NFTs]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Lido on Arbitrum and Optimism]]></title>
-        <id>https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/</id>
-        <link href="https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/"/>
-        <updated>2023-02-21T13:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to The Defiant Explainers, where we create comprehensive & sponsored
-tutorial videos, diving deep into DeFi projects and showing you how to use them
-with a step by step guide. Today we’ll be talking about Ethereum’s most popular
-liquid staking protocol Lido, and how you can use its tokens on Layer 2
-blockchains Arbitrum […]]]></summary>
-        <author>
-            <name>Lido</name>
         </author>
     </entry>
 </feed>
