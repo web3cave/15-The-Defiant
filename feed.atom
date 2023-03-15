@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T19:03:32.713Z</id>
+    <id>urn:2023-03-15T20:06:41.550Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T19:03:32.713Z</updated>
+    <updated>2023-03-15T20:06:41.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Filecoin Launches Ethereum-compatible Smart Contracts]]></title>
+        <id>https://thedefiant.io/filecoin-smart-contracts/</id>
+        <link href="https://thedefiant.io/filecoin-smart-contracts/"/>
+        <updated>2023-03-15T18:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Update Enables DeFi, ‘Data DAOs’ and Perpetual Storage]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #41]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-41/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-41/"/>
+        <updated>2023-03-15T18:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
+where yyctrader and Diego talk about the market, the latest tutorials, and the
+hottest NFTs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aztec To Sunset  Privacy Protocol]]></title>
         <id>https://thedefiant.io/aztec-connect-to-shut-down/</id>
@@ -1004,27 +1026,6 @@ liquid staking protocol Lido, and how you can use its tokens on Layer 2
 blockchains Arbitrum […]]]></summary>
         <author>
             <name>Lido</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave and Maker Pull Back From Paxos Stablecoins]]></title>
-        <id>https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/</id>
-        <link href="https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/"/>
-        <updated>2023-02-21T09:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Fallout From ‘Tricky Situation’ at Stablecoin Issuer Hits DeFi Protocols]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #90]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-90/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-90/"/>
-        <updated>2023-02-18T19:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
