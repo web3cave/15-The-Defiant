@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T03:06:55.185Z</id>
+    <id>urn:2023-03-16T04:07:24.607Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T03:06:55.185Z</updated>
+    <updated>2023-03-16T04:07:24.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Euler Hack Shines Light on Promise – and Peril – of DeFi Composability]]></title>
+        <id>https://thedefiant.io/euler-hack-composability-risks/</id>
+        <link href="https://thedefiant.io/euler-hack-composability-risks/"/>
+        <updated>2023-03-16T02:54:21.000Z</updated>
+        <summary type="html"><![CDATA[$200M Exploit Leaves Over A Dozen Protocols Reeling]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worldcoin’s Digital Identity Protocol Goes Live Alongside GPT-4]]></title>
         <id>https://thedefiant.io/worldcoin-digital-identity/</id>
@@ -1012,16 +1022,6 @@ NFTs]]></summary>
         <summary type="html"><![CDATA[Ordinals Protocol Mints 150K Tokens in Three Weeks]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Marketplace Upstart Blur Leapfrogs OpenSea After Airdrop]]></title>
-        <id>https://thedefiant.io/blur-opensea-airdrop/</id>
-        <link href="https://thedefiant.io/blur-opensea-airdrop/"/>
-        <updated>2023-02-22T08:45:19.000Z</updated>
-        <summary type="html"><![CDATA[OpenSea Waives Fees as Blur Handles $613M in Transaction Volume]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
