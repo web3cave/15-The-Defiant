@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T03:06:46.622Z</id>
+    <id>urn:2023-03-18T04:07:15.764Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-18T03:06:46.622Z</updated>
+    <updated>2023-03-18T04:07:15.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits 9-Month High Above $27,500]]></title>
+        <id>https://thedefiant.io/defi-daily-bitcoin-9-month-high/</id>
+        <link href="https://thedefiant.io/defi-daily-bitcoin-9-month-high/"/>
+        <updated>2023-03-18T03:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakerDAO Doubles Down On US Treasuries]]></title>
         <id>https://thedefiant.io/maker-750m-us-treasuries/</id>
@@ -1030,16 +1040,6 @@ and founder of Synthetix.]]></summary>
         <summary type="html"><![CDATA[Founder Alex Bania Says Orb to Be Released in First Half of 2023]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transactions on Arbitrum Leapfrog Ethereum]]></title>
-        <id>https://thedefiant.io/arbitrum-tops-ethereum/</id>
-        <link href="https://thedefiant.io/arbitrum-tops-ethereum/"/>
-        <updated>2023-02-24T09:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Lower Fees Propel Layer 2 Blockchain Past Ethereum For First Time]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
