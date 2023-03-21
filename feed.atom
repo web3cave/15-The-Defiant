@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T12:10:52.561Z</id>
+    <id>urn:2023-03-21T13:05:22.145Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T12:10:52.561Z</updated>
+    <updated>2023-03-21T13:05:22.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Gains Network?]]></title>
+        <id>https://thedefiant.io/what-is-gains-network/</id>
+        <link href="https://thedefiant.io/what-is-gains-network/"/>
+        <updated>2023-03-21T11:56:11.000Z</updated>
+        <summary type="html"><![CDATA[A Deep Dive on Decentralized Derivatives Trading]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDC Fallout: DeFi Week Mar. 12]]></title>
         <id>https://thedefiant.io/weekly-recap-usdc-fallout/</id>
@@ -1030,16 +1040,6 @@ blockchains]]></summary>
 our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overachievers: DeFi Week Feb. 19]]></title>
-        <id>https://thedefiant.io/weekly-recap-the-defiant/</id>
-        <link href="https://thedefiant.io/weekly-recap-the-defiant/"/>
-        <updated>2023-02-25T18:25:07.000Z</updated>
-        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week!]]></summary>
-        <author>
-            <name>Edward Robinson</name>
         </author>
     </entry>
 </feed>
