@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T05:05:25.146Z</id>
+    <id>urn:2023-03-21T06:08:01.489Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T05:05:25.146Z</updated>
+    <updated>2023-03-21T06:08:01.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDC Fallout: DeFi Week Mar. 12]]></title>
+        <id>https://thedefiant.io/weekly-recap-usdc-fallout/</id>
+        <link href="https://thedefiant.io/weekly-recap-usdc-fallout/"/>
+        <updated>2023-03-21T04:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey Defiers! Here’s what we covered this week!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Llama Team Resolves Conflict Over Token Plans]]></title>
         <id>https://thedefiant.io/defillama-dispute-settled/</id>
@@ -1030,16 +1040,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week!]]></summary>
         <author>
             <name>Edward Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha: Earn 30% Annualized with Leveraged ETH Vaults by Notional Finance]]></title>
-        <id>https://thedefiant.io/defi-alpha-notional-leveraged-eth-vaults/</id>
-        <link href="https://thedefiant.io/defi-alpha-notional-leveraged-eth-vaults/"/>
-        <updated>2023-02-25T09:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Earn Up To 84% APR From Trading Fees By Staking VLP On Vela Exchange (Arbitrum)]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
