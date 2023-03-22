@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T04:06:59.287Z</id>
+    <id>urn:2023-03-22T05:06:30.258Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T04:06:59.287Z</updated>
+    <updated>2023-03-22T05:06:30.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Companies Report Being De-banked To Blockchain Association]]></title>
+        <id>https://thedefiant.io/blockchain-assn-says-crypto-cos-debanked/</id>
+        <link href="https://thedefiant.io/blockchain-assn-says-crypto-cos-debanked/"/>
+        <updated>2023-03-22T03:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Lobbying Group Requested Information From US Banking Regulators Last Week]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Traders Bet Arbitrum Token Will Trade Above $1]]></title>
         <id>https://thedefiant.io/defi-daily-traders-bet-arb-above-1/</id>
@@ -1030,16 +1040,6 @@ blockchains]]></summary>
         <summary type="html"><![CDATA[U.K. Court Orders Oasis.app to Retrieve Stolen Assets from DeFi Heist]]></summary>
         <author>
             <name>Aleksandar Gilbert and Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traders Speculate on Goerli Even as Ethereum Devs Move On]]></title>
-        <id>https://thedefiant.io/traders-ignore-shift-to-new-ethereum-testnet/</id>
-        <link href="https://thedefiant.io/traders-ignore-shift-to-new-ethereum-testnet/"/>
-        <updated>2023-02-28T10:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Action Mounts on Goerli ETH Despite Switch to Holli Testnet]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
