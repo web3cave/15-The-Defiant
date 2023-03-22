@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T22:03:03.253Z</id>
+    <id>urn:2023-03-22T23:02:47.699Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T22:03:03.253Z</updated>
+    <updated>2023-03-22T23:02:47.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[White House Report Calls For Greater Oversight of Web3]]></title>
+        <id>https://thedefiant.io/wh-report-slams-crypto/</id>
+        <link href="https://thedefiant.io/wh-report-slams-crypto/"/>
+        <updated>2023-03-22T21:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Slams Crypto As Speculative and Ineffective]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Earmarks 112M ARB Tokens For Ecosystem DAOs]]></title>
         <id>https://thedefiant.io/arbitrum-dao-airdrops/</id>
@@ -1030,16 +1040,6 @@ founder and CEO of Unstoppable Domains.]]></summary>
 blockchains]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto]]></title>
-        <id>https://thedefiant.io/oasis-reverse-exploit-patch/</id>
-        <link href="https://thedefiant.io/oasis-reverse-exploit-patch/"/>
-        <updated>2023-03-01T07:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Company Wrestles With Balance Between DeFi Ethos and Protecting Users]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
