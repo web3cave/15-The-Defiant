@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T02:00:37.901Z</id>
+    <id>urn:2023-03-24T03:06:46.611Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T02:00:37.901Z</updated>
+    <updated>2023-03-24T03:06:46.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dan Finlay Explains How MetaMask Will Become The Google of Web3]]></title>
+        <id>https://thedefiant.io/podcast-dan-finlay-metamask-google-of-web3/</id>
+        <link href="https://thedefiant.io/podcast-dan-finlay-metamask-google-of-web3/"/>
+        <updated>2023-03-24T02:19:31.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Camila Russo chats with Dan Finlay, the
+co-founder of MetaMask – one of the leading Web3 wallets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap V3 To Be Deployed On Avalanche]]></title>
         <id>https://thedefiant.io/uniswap-v3-avalanche/</id>
@@ -1029,16 +1040,6 @@ founder and CEO of Unstoppable Domains.]]></summary>
         <summary type="html"><![CDATA[Web3 Digital Identity]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto]]></title>
-        <id>https://thedefiant.io/daily-defiant-oasis-patch-vulnerability/</id>
-        <link href="https://thedefiant.io/daily-defiant-oasis-patch-vulnerability/"/>
-        <updated>2023-03-01T20:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
