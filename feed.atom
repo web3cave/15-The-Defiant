@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T19:03:00.234Z</id>
+    <id>urn:2023-03-25T20:04:44.405Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-25T19:03:00.234Z</updated>
+    <updated>2023-03-25T20:04:44.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Euler Hacker Returns $90M]]></title>
+        <id>https://thedefiant.io/euler-hacker-returns-90m/</id>
+        <link href="https://thedefiant.io/euler-hacker-returns-90m/"/>
+        <updated>2023-03-25T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lending Protocol Lost $200M On March 13 Through Flash Loan Exploit]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #95]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-95/</id>
@@ -1029,16 +1039,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Crypto-friendly Bank Says It’s “Less Than Well Capitalized”]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Plunge Amid Silvergate Concerns]]></title>
-        <id>https://thedefiant.io/markets-down-silvergate-concerns/</id>
-        <link href="https://thedefiant.io/markets-down-silvergate-concerns/"/>
-        <updated>2023-03-03T21:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Layer 1 Blockchains Have Rough Week]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
 </feed>
