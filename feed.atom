@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T14:03:26.115Z</id>
+    <id>urn:2023-03-27T15:06:38.464Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-27T14:03:26.115Z</updated>
+    <updated>2023-03-27T15:06:38.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon’s Zero-Knowledge Rollup Goes Live On Mainnet]]></title>
+        <id>https://thedefiant.io/polygon-zkevm-live-mainnet/</id>
+        <link href="https://thedefiant.io/polygon-zkevm-live-mainnet/"/>
+        <updated>2023-03-27T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Second zkEVM To Launch In Four Days]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Recap: Arbitrum Airdrop, Coinbase vs. SEC]]></title>
         <id>https://thedefiant.io/weekly-recap-arbitrum-airdrop-coinbase-vs-sec/</id>
@@ -1028,17 +1038,6 @@ Ethereum’s  largest conferences, set literally in the “Wild West.”]]></su
         <summary type="html"><![CDATA[Eligible Liquidity Providers Will Receive CAKE Airdrops and Commemorative NFTs]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #92]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-92/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-92/"/>
-        <updated>2023-03-04T18:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
