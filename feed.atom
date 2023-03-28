@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T20:06:25.106Z</id>
+    <id>urn:2023-03-28T21:03:45.158Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T20:06:25.106Z</updated>
+    <updated>2023-03-28T21:03:45.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Ratifies Constitution Aiming to Further Decentralize DAI Stablecoin]]></title>
+        <id>https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/</id>
+        <link href="https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/"/>
+        <updated>2023-03-28T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Endgame Plan limits RWAs in favor of crypto collateral for DAI]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teller V2 To Offer Fixed Term Loans Against ‘Any’ Crypto Asset]]></title>
         <id>https://thedefiant.io/teller-v2-lending/</id>
@@ -1027,16 +1037,6 @@ Recovery]]></summary>
         <summary type="html"><![CDATA[Atlas Upgrade Slated for Early April Will Halve Minimum Staking Requirement]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MolochDAO Reveals ZK-Powered Crypto Mixer]]></title>
-        <id>https://thedefiant.io/molochdao-privacy-pools/</id>
-        <link href="https://thedefiant.io/molochdao-privacy-pools/"/>
-        <updated>2023-03-07T00:43:15.000Z</updated>
-        <summary type="html"><![CDATA[On-Chain Privacy Protocol Includes Compliance Features]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
