@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T00:36:10.509Z</id>
+    <id>urn:2023-03-29T02:10:33.497Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-29T00:36:10.510Z</updated>
+    <updated>2023-03-29T02:10:33.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Market Shrugs Off CFTC Lawsuit Against Binance]]></title>
+        <id>https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/</id>
+        <link href="https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/"/>
+        <updated>2023-03-29T00:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Declines in Binance TVL and token barely outpacing broader crypto market.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon zkEVM Goes Live On Mainnet]]></title>
         <id>https://thedefiant.io/defi-daily-polygon-zkevm-launched/</id>
@@ -1027,16 +1037,6 @@ Recovery]]></summary>
         <summary type="html"><![CDATA[Scroll Launches Testnet, Raises $50M]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Name Service Unveils Subdomain Feature]]></title>
-        <id>https://thedefiant.io/ens-name-wrapper-subdomains/</id>
-        <link href="https://thedefiant.io/ens-name-wrapper-subdomains/"/>
-        <updated>2023-03-07T21:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Name Wrapper And New Manager App Slated To Launch Soon]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
