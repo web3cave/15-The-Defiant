@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T20:06:37.464Z</id>
+    <id>urn:2023-03-30T21:04:34.583Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-30T20:06:37.464Z</updated>
+    <updated>2023-03-30T21:04:34.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Airdrop is Helping Smaller DAOs Survive the Bear Market]]></title>
+        <id>https://thedefiant.io/arbitrum-airdrop-helps-daos-in-bear-market/</id>
+        <link href="https://thedefiant.io/arbitrum-airdrop-helps-daos-in-bear-market/"/>
+        <updated>2023-03-30T20:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum’s unique airdrop is throwing some crypto projects a lifeline. Arbitrum,
+an Ethereum scaling solution, made airdrop history by distributing tokens to
+treasuries of decentralized organizations, not just to individual wallets. Of
+1.3B tokens airdroppped, 8.9% were gifted to 137 DAOs.  Now, projects big and
+small are deliberating on what to do with their stack […]]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave To Launch on Polygon zkEVM]]></title>
+        <id>https://thedefiant.io/aave-polygon-zkevm-deployment/</id>
+        <link href="https://thedefiant.io/aave-polygon-zkevm-deployment/"/>
+        <updated>2023-03-30T20:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Leading DeFi Lender Looks To Expand L2 Presence]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governance Tokens Might Come With Legal Liability, US Judge Says]]></title>
         <id>https://thedefiant.io/gov-tokens-legal-risk/</id>
@@ -1014,28 +1038,6 @@ USDC]]></summary>
         <summary type="html"><![CDATA[Platform Will Likely Not Support Crypto Assets]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Looks To Bring Web2 Experience To Web3 With WaaS]]></title>
-        <id>https://thedefiant.io/coinbase-wallet-as-a-service/</id>
-        <link href="https://thedefiant.io/coinbase-wallet-as-a-service/"/>
-        <updated>2023-03-08T20:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Wallet-as-a-Service Will Allow Users to Create Crypto Wallets With Usernames and
-Passwords]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollkit Introduces Bitcoin Rollups With New Framework]]></title>
-        <id>https://thedefiant.io/celestia-bitcoin-rollups/</id>
-        <link href="https://thedefiant.io/celestia-bitcoin-rollups/"/>
-        <updated>2023-03-08T20:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Rollkit Allows Developers To Mix-and-Match Data Availability and Execution
-Layers]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
