@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T05:05:09.666Z</id>
+    <id>urn:2023-03-31T06:08:25.824Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T05:05:09.666Z</updated>
+    <updated>2023-03-31T06:08:25.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Judge Says Governance Tokens Might Carry Legal Liability]]></title>
+        <id>https://thedefiant.io/defi-daily-governance-token-legal-risks/</id>
+        <link href="https://thedefiant.io/defi-daily-governance-token-legal-risks/"/>
+        <updated>2023-03-31T04:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kava Flips Solana As New Lending Protocol Boosts TVL]]></title>
         <id>https://thedefiant.io/kava-tvl-flips-solana/</id>
@@ -1028,16 +1038,6 @@ USDC]]></summary>
         <summary type="html"><![CDATA[Eigen Layer Explained]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia Introduces Bitcoin Rollups With New Framework]]></title>
-        <id>https://thedefiant.io/defi-daily-celestia-rollkit-bitcoin/</id>
-        <link href="https://thedefiant.io/defi-daily-celestia-rollkit-bitcoin/"/>
-        <updated>2023-03-08T22:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
