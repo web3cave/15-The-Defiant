@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T21:03:21.783Z</id>
+    <id>urn:2023-04-04T22:04:02.980Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-04T21:03:21.783Z</updated>
+    <updated>2023-04-04T22:04:02.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap V3 Launches On BNB Chain and Ethereum]]></title>
+        <id>https://thedefiant.io/pancakeswap-v3-live/</id>
+        <link href="https://thedefiant.io/pancakeswap-v3-live/"/>
+        <updated>2023-04-04T21:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Exchange Forks Uniswap V3 Just Days After License Expiry]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Generation Of Order Book DEXs Aim To Disrupt On-Chain Trading]]></title>
         <id>https://thedefiant.io/limit-order-book-dexs/</id>
@@ -1031,16 +1041,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Launches wstETH On Polygon]]></title>
-        <id>https://thedefiant.io/lido-launches-on-polygon/</id>
-        <link href="https://thedefiant.io/lido-launches-on-polygon/"/>
-        <updated>2023-03-11T06:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Liquid Staking Narrative Gains Momentum Ahead of Ethereum’s Shapella Upgrades]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
