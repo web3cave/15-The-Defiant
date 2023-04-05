@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T11:03:21.987Z</id>
+    <id>urn:2023-04-05T12:11:46.365Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T11:03:21.987Z</updated>
+    <updated>2023-04-05T12:11:46.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Tranchess? [Sponsored]]]></title>
+        <id>https://thedefiant.io/what-is-tranchess/</id>
+        <link href="https://thedefiant.io/what-is-tranchess/"/>
+        <updated>2023-04-05T10:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Tranchess: More Than Just Liquid Staking]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🗳 Sham Votes and Unicorns]]></title>
         <id>https://thedefiant.io/%f0%9f%97%b3-sham-votes-and-unicorns/</id>
@@ -1032,16 +1042,6 @@ stablecoin and failing banks could signal for DeFi.]]></summary>
         <link href="https://thedefiant.io/markets-recover-usdc-regains-peg/"/>
         <updated>2023-03-13T20:26:26.000Z</updated>
         <summary type="html"><![CDATA[DeFi Heavyweights Maker, Synthetix and Lido Lead Sector Higher]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Finds Stability Near $0.97 After Crashing on SVB Concerns]]></title>
-        <id>https://thedefiant.io/usdc-recovers-after-svb-concerns/</id>
-        <link href="https://thedefiant.io/usdc-recovers-after-svb-concerns/"/>
-        <updated>2023-03-12T20:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Circle said the stablecoin will be redeemable for US dollars starting Monday.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
