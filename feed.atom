@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T20:07:25.084Z</id>
+    <id>urn:2023-04-05T21:05:00.671Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T20:07:25.084Z</updated>
+    <updated>2023-04-05T21:05:00.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Freezes Code For Bedrock Upgrade]]></title>
+        <id>https://thedefiant.io/optimism-bedrock-upgrade/</id>
+        <link href="https://thedefiant.io/optimism-bedrock-upgrade/"/>
+        <updated>2023-04-05T19:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Market Share Wanes Amid Competition From Arbitrum and zkEVMs]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Find Yield Enhancing Solutions With Tranchess [Sponsored]]]></title>
         <id>https://thedefiant.io/find-yield-enhancing-solutions-with-tranchess/</id>
@@ -1040,16 +1050,6 @@ stablecoin and failing banks could signal for DeFi.]]></summary>
         <summary type="html"><![CDATA[Bitcoin and Ether Approach $26K, $1,800]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Lender Euler Suffers $200M Exploit]]></title>
-        <id>https://thedefiant.io/euler-200m-exploit/</id>
-        <link href="https://thedefiant.io/euler-200m-exploit/"/>
-        <updated>2023-03-14T02:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Code Bug Enabled Flash Loan Attack]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
