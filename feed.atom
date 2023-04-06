@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T00:29:16.502Z</id>
+    <id>urn:2023-04-06T01:56:32.827Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T00:29:16.502Z</updated>
+    <updated>2023-04-06T01:56:32.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Crosses $1,900 For the First Time Since August]]></title>
+        <id>https://thedefiant.io/eth-crosses-1900-on-upgrades/</id>
+        <link href="https://thedefiant.io/eth-crosses-1900-on-upgrades/"/>
+        <updated>2023-04-06T00:22:45.000Z</updated>
+        <summary type="html"><![CDATA[ETH has crossed the $1,900 price point for the first time in nearly eight months
+as traders continue to price in the Shanghai and Capella upgrades, which will
+allow ETH stakers to begin to withdraw their tokens for the first time. ETH is
+up 2% on Wednesday, rising as high as $1,922, while Bitcoin and […]]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gem NFT Aggregator Rebrands As OpenSea Pro]]></title>
         <id>https://thedefiant.io/opensea-pro-nft-aggregator/</id>
@@ -1037,19 +1050,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Top Stablecoins Depegged After The Second Largest US Bank Failure]]></title>
-        <id>https://thedefiant.io/how-top-stablecoins-depegged-after-the-second-largest-us-bank-failure/</id>
-        <link href="https://thedefiant.io/how-top-stablecoins-depegged-after-the-second-largest-us-bank-failure/"/>
-        <updated>2023-03-14T14:08:46.000Z</updated>
-        <summary type="html"><![CDATA[It was a wild weekend for stablecoins. USDC depegged from a dollar to as low as
-$0.88 on Saturday, before bouncing fully back to its dollar peg on Monday. Today
-we’re looking back over the wild weekend and figuring out what a depegged
-stablecoin and failing banks could signal for DeFi.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
