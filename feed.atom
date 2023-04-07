@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T20:04:43.355Z</id>
+    <id>urn:2023-04-07T21:03:10.003Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T20:04:43.355Z</updated>
+    <updated>2023-04-07T21:03:10.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cryptosat Sends Message From Space To Help Scale Ethereum]]></title>
+        <id>https://thedefiant.io/cryptosat-kzg-message-from-space/</id>
+        <link href="https://thedefiant.io/cryptosat-kzg-message-from-space/"/>
+        <updated>2023-04-07T20:37:20.000Z</updated>
+        <summary type="html"><![CDATA[New Cryptographic Scheme Will Enable Future EIP-4844 Upgrade]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏦Treasury Says Most DeFi Protocols Should Be Considered Financial Institutions]]></title>
         <id>https://thedefiant.io/defi-daily-treasury-defi-risk-report/</id>
@@ -1045,16 +1055,6 @@ user base. BNB Chain, a blockchain created by the […]]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Shapella Upgrade Passes Final Testnet Deployment]]></title>
-        <id>https://thedefiant.io/ethereum-shapella-goerli/</id>
-        <link href="https://thedefiant.io/ethereum-shapella-goerli/"/>
-        <updated>2023-03-15T20:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Mainnet Launch Will Enable Staked ETH Withdrawals]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
