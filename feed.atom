@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T23:04:35.205Z</id>
+    <id>urn:2023-04-07T00:27:21.995Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T23:04:35.205Z</updated>
+    <updated>2023-04-07T00:27:21.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Treasury: ZK Proofs Can Be Boon Or Bane Of AML Compliance]]></title>
+        <id>https://thedefiant.io/treasury-defi-report/</id>
+        <link href="https://thedefiant.io/treasury-defi-report/"/>
+        <updated>2023-04-07T00:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Report On Criminal Use Of DeFi Argues Most Protocols Are Subject to Bank Secrecy
+Act]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Amends Foundation Proposal After Failed Vote]]></title>
         <id>https://thedefiant.io/arbitrum-amends-foundation-proposal/</id>
@@ -1042,16 +1053,6 @@ where yyctrader and Diego talk about the market, the latest tutorials, and the
 hottest NFTs.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec To Sunset  Privacy Protocol]]></title>
-        <id>https://thedefiant.io/aztec-connect-to-shut-down/</id>
-        <link href="https://thedefiant.io/aztec-connect-to-shut-down/"/>
-        <updated>2023-03-14T22:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Over 100,000 Wallets Have Used Aztec Connect]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
