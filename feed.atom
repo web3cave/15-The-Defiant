@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T18:06:08.952Z</id>
+    <id>urn:2023-04-09T19:02:25.393Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-09T18:06:08.952Z</updated>
+    <updated>2023-04-09T19:02:25.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Under Fire: DeFi Week April 2]]></title>
+        <id>https://thedefiant.io/arbitrum-under-fire-defi-week-april-2/</id>
+        <link href="https://thedefiant.io/arbitrum-under-fire-defi-week-april-2/"/>
+        <updated>2023-04-09T17:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leveraged Yield Farming Using Sturdy Finance]]></title>
         <id>https://thedefiant.io/defi-alpha-leveraged-farming-sturdy/</id>
@@ -1050,16 +1060,6 @@ cheaper transactions than Ethereum,” making the exchange accessible to a broad
 user base. BNB Chain, a blockchain created by the […]]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Stable are Stablecoins? A Breakdown of the Options]]></title>
-        <id>https://thedefiant.io/how-stable-are-stablecoins-a-breakdown-of-the-options/</id>
-        <link href="https://thedefiant.io/how-stable-are-stablecoins-a-breakdown-of-the-options/"/>
-        <updated>2023-03-16T13:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Make Stablecoins Stable Again]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
