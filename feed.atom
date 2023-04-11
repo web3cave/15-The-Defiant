@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T20:05:31.861Z</id>
+    <id>urn:2023-04-11T21:03:11.854Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T20:05:31.861Z</updated>
+    <updated>2023-04-11T21:03:11.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Users Choose Tron and BNB Chain Over Ethereum Despite Falling Fees]]></title>
+        <id>https://thedefiant.io/defi-users-prefer-tron-bnb/</id>
+        <link href="https://thedefiant.io/defi-users-prefer-tron-bnb/"/>
+        <updated>2023-04-11T19:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum is the only major chain to lose users in the bear market.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Project Rook is About to be Splintered]]></title>
         <id>https://thedefiant.io/rook-about-to-splinter/</id>
@@ -1039,20 +1049,6 @@ Polymarket started placing more bets that the airdrop would happen before March
         <summary type="html"><![CDATA[Blockchain Association Requests Information From US Banking Regulators]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Decentralize a Fortune 500 Company]]></title>
-        <id>https://thedefiant.io/podcast-how-to-decentralize-a-fortune-500-company/</id>
-        <link href="https://thedefiant.io/podcast-how-to-decentralize-a-fortune-500-company/"/>
-        <updated>2023-03-17T15:00:35.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant podcast, Tegan Kline hosts Jesse Pollak, senior
-director of Engineering at Coinbase, Eva Beylin, the director of the Graph
-Foundation, and Ben Jones, the director of the Optimism Foundation, to give us a
-deep dive into the launch of Base, Coinbase’s recently-launched Layer 2
-blockchain.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
