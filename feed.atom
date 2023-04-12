@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T22:04:12.706Z</id>
+    <id>urn:2023-04-12T23:04:05.209Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T22:04:12.706Z</updated>
+    <updated>2023-04-12T23:04:05.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum ETH Withdrawals Were Activated in Major Upgrade]]></title>
+        <id>https://thedefiant.io/ethereum-shapella-upgrade-live/</id>
+        <link href="https://thedefiant.io/ethereum-shapella-upgrade-live/"/>
+        <updated>2023-04-12T22:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Shapella upgrade is live, allowing stakers to withdraw ETH for first
+time in 28 months.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sushi Plans To Reimburse Victims Of $3.4M Exploit]]></title>
         <id>https://thedefiant.io/sushi-3m-router-exploit/</id>
@@ -1038,17 +1049,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         <summary type="html"><![CDATA[How To Buy ETH and Other Tokens At A Discounts On Pendle Finance]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #94]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-94/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-94/"/>
-        <updated>2023-03-18T17:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
