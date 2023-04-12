@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T02:26:19.607Z</id>
+    <id>urn:2023-04-12T03:06:10.486Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T02:26:19.607Z</updated>
+    <updated>2023-04-12T03:06:10.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Surpasses 1M Ordinals Inscriptions]]></title>
+        <id>https://thedefiant.io/bitcoin-ordinals-1m/</id>
+        <link href="https://thedefiant.io/bitcoin-ordinals-1m/"/>
+        <updated>2023-04-12T01:58:35.000Z</updated>
+        <summary type="html"><![CDATA[NFT-like Assets Could Be Here To Stay]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Voltz’s Growth Shows You May Need Speculators For Fixed Rates to Work in DeFi]]></title>
         <id>https://thedefiant.io/voltz-fixed-rate-defi/</id>
@@ -1039,16 +1049,6 @@ Polymarket started placing more bets that the airdrop would happen before March
 31.  “Yes” shares spiked as high as $0.72 […]]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Layer 2 Transaction Count Soars To Record 1.54M]]></title>
-        <id>https://thedefiant.io/ethereum-l2-txs-surpass-mainnet/</id>
-        <link href="https://thedefiant.io/ethereum-l2-txs-surpass-mainnet/"/>
-        <updated>2023-03-17T19:16:28.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Scaling Solutions Surpass Mainnet By 48%]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
