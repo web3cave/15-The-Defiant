@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T18:07:08.924Z</id>
+    <id>urn:2023-04-13T19:02:38.477Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T18:07:08.924Z</updated>
+    <updated>2023-04-13T19:02:38.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Says Ethereum Will Focus On Scalability Post-Shapella]]></title>
+        <id>https://thedefiant.io/vitalik-on-scaling-eth-after-shapella/</id>
+        <link href="https://thedefiant.io/vitalik-on-scaling-eth-after-shapella/"/>
+        <updated>2023-04-13T17:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Next Major Upgrade Is Expected In Early 2024]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏦Staked ETH Withdrawals Are Live!]]></title>
         <id>https://thedefiant.io/staked-eth-withdrawals-are-live/</id>
@@ -1047,16 +1057,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         <summary type="html"><![CDATA[Forked Domain Redirects To Original Website]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Community Rallies Behind Proposed Metis Deployment]]></title>
-        <id>https://thedefiant.io/aave-v3-metis-proposal/</id>
-        <link href="https://thedefiant.io/aave-v3-metis-proposal/"/>
-        <updated>2023-03-21T02:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Metis Offers $3M In Liquidity Mining Incentives]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
