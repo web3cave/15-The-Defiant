@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T00:29:23.532Z</id>
+    <id>urn:2023-04-14T01:54:47.796Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T00:29:23.532Z</updated>
+    <updated>2023-04-14T01:54:47.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Stakers are Withdrawing Rewards, Not Principal]]></title>
+        <id>https://thedefiant.io/eth-withdrawn-is-rewards/</id>
+        <link href="https://thedefiant.io/eth-withdrawn-is-rewards/"/>
+        <updated>2023-04-14T00:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Principal Accounts for Less than 5% of Withdrawals a Day After Shapella]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Hits $2,000 After Successful Upgrade]]></title>
         <id>https://thedefiant.io/defi-daily-eth-rallies-2k/</id>
@@ -1050,17 +1060,6 @@ Crypto Hub]]></summary>
         <summary type="html"><![CDATA[Zero-knowledge Technology Promises To Boost Ethereum Scaling]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Lending: Secure loans against alternative assets starting with crypto [Sponsored]]]></title>
-        <id>https://thedefiant.io/arch-lending-secure-loans-against-alternative-assets-starting-with-crypto/</id>
-        <link href="https://thedefiant.io/arch-lending-secure-loans-against-alternative-assets-starting-with-crypto/"/>
-        <updated>2023-03-21T13:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Arch is a new lending platform for investors with alternative assets including
-cryptocurrencies looking to access liquidity without selling their investments.]]></summary>
-        <author>
-            <name>ArchLending</name>
         </author>
     </entry>
 </feed>
