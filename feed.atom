@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T23:04:39.625Z</id>
+    <id>urn:2023-04-20T00:29:37.216Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T23:04:39.625Z</updated>
+    <updated>2023-04-20T00:29:37.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unknown Exploit Has Drained Over $10M In The Past Five Months]]></title>
+        <id>https://thedefiant.io/unknown-wallet-exploit-10m/</id>
+        <link href="https://thedefiant.io/unknown-wallet-exploit-10m/"/>
+        <updated>2023-04-19T22:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Wallet Exploit Reportedly Targets Crypto Veterans]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KyberSwap Discovers Critical Bug In ‘Elastic’ AMM]]></title>
         <id>https://thedefiant.io/kyberswap-elastic-bug/</id>
@@ -1062,16 +1072,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[After Wells Notice Coinbase Calls on Voters to Defend Crypto]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZkSync Launches ‘Era’ Public Mainnet]]></title>
-        <id>https://thedefiant.io/zksync-era-mainnet-live/</id>
-        <link href="https://thedefiant.io/zksync-era-mainnet-live/"/>
-        <updated>2023-03-24T16:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs Wins Race To Release First zkEVM]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
