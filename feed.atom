@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T00:30:10.909Z</id>
+    <id>urn:2023-04-22T01:58:07.447Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T00:30:10.909Z</updated>
+    <updated>2023-04-22T01:58:07.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[☠️ Most DeFi Protocols Don’t Recover from Hacks]]></title>
+        <id>https://thedefiant.io/%e2%98%a0%ef%b8%8f-most-defi-protocols-dont-recover-from-hacks/</id>
+        <link href="https://thedefiant.io/%e2%98%a0%ef%b8%8f-most-defi-protocols-dont-recover-from-hacks/"/>
+        <updated>2023-04-22T01:13:29.000Z</updated>
+        <summary type="html"><![CDATA[GM Defiers! We have a sobering analysis for you today — according to data we
+crunched, DeFi protocols that suffer hacks rarely recover, even if they keep
+building. In better news for open source development, Tornado Cash developer
+Alexey Pertsev will be released on April 26 after spending 9 months in jail
+without a trial. […]]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most DeFi Protocols Fade After They’re Hacked, Analysis Shows]]></title>
+        <id>https://thedefiant.io/defi-projects-fail-to-recover-after-hacks/</id>
+        <link href="https://thedefiant.io/defi-projects-fail-to-recover-after-hacks/"/>
+        <updated>2023-04-21T23:35:04.000Z</updated>
+        <summary type="html"><![CDATA[TVL of hacked DeFi protocols dives by over 90% and fails to recover.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado Cash Developer To Be Released Next Week]]></title>
         <id>https://thedefiant.io/tornado-cash-pertsev-to-be-released/</id>
@@ -1060,26 +1084,6 @@ That Is]]></summary>
         <summary type="html"><![CDATA[Aims To Boost Real World Exposure Of Non-fungible Tokens]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Ratifies Constitution Aiming to Decentralize DAI]]></title>
-        <id>https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/</id>
-        <link href="https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/"/>
-        <updated>2023-03-28T20:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Endgame Plan limits RWAs in favor of crypto collateral for DAI]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teller V2 To Offer Fixed Term Loans Against ‘Any’ Crypto Asset]]></title>
-        <id>https://thedefiant.io/teller-v2-lending/</id>
-        <link href="https://thedefiant.io/teller-v2-lending/"/>
-        <updated>2023-03-28T05:33:51.000Z</updated>
-        <summary type="html"><![CDATA[No Liquidations As Long As Repayments Are Timely]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
