@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T18:06:32.675Z</id>
+    <id>urn:2023-04-22T19:02:19.520Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T18:06:32.675Z</updated>
+    <updated>2023-04-22T19:02:19.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #99]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-99/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-99/"/>
+        <updated>2023-04-22T18:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
+our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha: Looping Staked ETH with Metronome Smart Farming]]></title>
         <id>https://thedefiant.io/defi-alpha-metronome-smart-farming/</id>
@@ -1074,16 +1085,6 @@ That Is]]></summary>
         <summary type="html"><![CDATA[Declines in Binance TVL and token barely outpacing broader crypto market.]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon zkEVM Goes Live On Mainnet]]></title>
-        <id>https://thedefiant.io/defi-daily-polygon-zkevm-launched/</id>
-        <link href="https://thedefiant.io/defi-daily-polygon-zkevm-launched/"/>
-        <updated>2023-03-28T21:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
