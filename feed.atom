@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T18:07:02.235Z</id>
+    <id>urn:2023-04-25T19:03:00.502Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T18:07:02.235Z</updated>
+    <updated>2023-04-25T19:03:00.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Sues SEC In Bid For Regulatory Clarity]]></title>
+        <id>https://thedefiant.io/coinbase-sues-sec/</id>
+        <link href="https://thedefiant.io/coinbase-sues-sec/"/>
+        <updated>2023-04-25T18:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Leading US Crypto Exchange Received Wells Notice Last Month]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Name Service: Nick Johnson’s Journey from Google to Ethereum, ENS Roadmap, and Cancel Culture]]></title>
         <id>https://thedefiant.io/ethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-and-cancel-culture/</id>
@@ -1078,16 +1088,6 @@ That Is]]></summary>
         <summary type="html"><![CDATA[Blockchain Adoption Continues As Ticketmaster Launches Token-gated Ticket Sales]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys Opens Public Testnet For ‘Linea’ zkEVM]]></title>
-        <id>https://thedefiant.io/consensys-linea-zkevm/</id>
-        <link href="https://thedefiant.io/consensys-linea-zkevm/"/>
-        <updated>2023-03-29T19:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Scaling Race Heats Up]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
