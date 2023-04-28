@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T13:07:33.676Z</id>
+    <id>urn:2023-04-28T14:03:46.350Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T13:07:33.676Z</updated>
+    <updated>2023-04-28T14:03:46.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Core? [Sponsored]]]></title>
+        <id>https://thedefiant.io/what-is-core/</id>
+        <link href="https://thedefiant.io/what-is-core/"/>
+        <updated>2023-04-28T13:01:12.000Z</updated>
+        <summary type="html"><![CDATA[More Than Just Your Average Crypto Wallet & Portfolio]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚛️ Cosmos’ Appchain Model Gains Traction]]></title>
         <id>https://thedefiant.io/cosmos-appchain-model-gains-traction/</id>
@@ -1090,16 +1100,6 @@ run the […]]]></summary>
         <summary type="html"><![CDATA[How to Get Started with Polynomial Trade on Optimism]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2s and Q1 Recap: DeFi Week Mar. 26]]></title>
-        <id>https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/</id>
-        <link href="https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/"/>
-        <updated>2023-04-02T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
