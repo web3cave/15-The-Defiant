@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T18:05:17.872Z</id>
+    <id>urn:2023-04-29T19:02:13.759Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-29T18:05:17.872Z</updated>
+    <updated>2023-04-29T19:02:13.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #100]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-100/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-100/"/>
+        <updated>2023-04-29T17:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
+our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha: Get Paid To Trade Perps On Kwenta]]></title>
         <id>https://thedefiant.io/defi-alpha-synthetix-perps-op-rewards/</id>
@@ -1087,17 +1098,6 @@ next-gen DEXs, and also on the […]]]></summary>
         <summary type="html"><![CDATA[Decentralized Exchange Forks Uniswap V3 Just Days After License Expiry]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Generation Of Order Book DEXs Aim To Disrupt On-Chain Trading]]></title>
-        <id>https://thedefiant.io/limit-order-book-dexs/</id>
-        <link href="https://thedefiant.io/limit-order-book-dexs/"/>
-        <updated>2023-04-04T20:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Emerging Blockchains Base, Era, Sei Offer Higher Throughput Geared Towards
-Advanced Trading Platforms]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
