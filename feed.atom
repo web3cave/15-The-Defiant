@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T00:30:17.627Z</id>
+    <id>urn:2023-05-02T01:57:20.284Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T00:30:17.627Z</updated>
+    <updated>2023-05-02T01:57:20.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🎙️From AWS to Aave & Lens Protocol: Nader Dabit Explains Web 3 Social Media]]></title>
+        <id>https://thedefiant.io/nader-dabit-aws-to-aave/</id>
+        <link href="https://thedefiant.io/nader-dabit-aws-to-aave/"/>
+        <updated>2023-05-02T00:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Today we are joined by the all-around dev phenomenon Nader Dabit.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lens Social Media Protocol Unveils Layer 3 Scaling Solution]]></title>
         <id>https://thedefiant.io/lens-layer-3-momoka/</id>
@@ -1084,20 +1094,6 @@ backrunning opportunities they create.]]></summary>
         <summary type="html"><![CDATA[Tranchess: More Than Just Liquid Staking]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🗳 Sham Votes and Unicorns]]></title>
-        <id>https://thedefiant.io/%f0%9f%97%b3-sham-votes-and-unicorns/</id>
-        <link href="https://thedefiant.io/%f0%9f%97%b3-sham-votes-and-unicorns/"/>
-        <updated>2023-04-05T00:52:44.000Z</updated>
-        <summary type="html"><![CDATA[GM Defiers, we have a DEX and “Layer” heavy newsletter today. The main piece of
-DeFi drama rippling through the community’s town hall (aka Twitter) is
-Arbitrum’s first governance vote. Amid that Layer 2 controversy comes the
-LayerZero raise at a staggering $3B valuation. Meanwhile, Layer 2s are enabling
-next-gen DEXs, and also on the […]]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
