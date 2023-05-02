@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T04:06:37.128Z</id>
+    <id>urn:2023-05-02T05:04:39.634Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T04:06:37.128Z</updated>
+    <updated>2023-05-02T05:04:39.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blur Launches NFT Lending Protocol]]></title>
+        <id>https://thedefiant.io/blur-nft-lending/</id>
+        <link href="https://thedefiant.io/blur-nft-lending/"/>
+        <updated>2023-05-02T03:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Blend Enables Peer-to-Peer Loans and Buy Now, Pay Later Feature]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎙️From AWS to Aave & Lens Protocol: Nader Dabit Explains Web 3 Social Media]]></title>
         <id>https://thedefiant.io/nader-dabit-aws-to-aave/</id>
@@ -1084,16 +1094,6 @@ for all types of Ethereum transactions. The product also pays users for any
 backrunning opportunities they create.]]></summary>
         <author>
             <name>MEVBlocker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Tranchess? [Sponsored]]]></title>
-        <id>https://thedefiant.io/what-is-tranchess/</id>
-        <link href="https://thedefiant.io/what-is-tranchess/"/>
-        <updated>2023-04-05T10:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Tranchess: More Than Just Liquid Staking]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
         </author>
     </entry>
 </feed>
