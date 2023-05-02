@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T10:04:38.609Z</id>
+    <id>urn:2023-05-02T11:02:58.493Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T10:04:38.609Z</updated>
+    <updated>2023-05-02T11:02:58.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[‘Momoka’ Will Enable Content To Be Stored Off-chain, Reduce Transaction Costs]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AWS to Aave & Lens Protocol: Nader Dabit Explains Web 3 Social Media and Gasless Transactions]]></title>
+        <id>https://thedefiant.io/from-aws-to-aave-lens-protocol-nader-dabit-explains-web-3-social-media-and-gasless-transactions/</id>
+        <link href="https://thedefiant.io/from-aws-to-aave-lens-protocol-nader-dabit-explains-web-3-social-media-and-gasless-transactions/"/>
+        <updated>2023-05-01T09:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Claim your Lens Profile]]></summary>
+        <author>
+            <name>Tegan Kline</name>
         </author>
     </entry>
     <entry>
@@ -1082,18 +1092,6 @@ itself – tranche. The word comes from TradFi, and it means a portion of the ma
 […]]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Ethereum Projects Launch Wallet-Level Solution to Billion-Dollar MEV Problem [Sponsored]]]></title>
-        <id>https://thedefiant.io/top-ethereum-projects-launch-wallet-level-solution-to-billion-dollar-mev-problem/</id>
-        <link href="https://thedefiant.io/top-ethereum-projects-launch-wallet-level-solution-to-billion-dollar-mev-problem/"/>
-        <updated>2023-04-05T16:55:09.000Z</updated>
-        <summary type="html"><![CDATA[MEV Blocker is an RPC endpoint that prevents frontrunning and sandwich attacks
-for all types of Ethereum transactions. The product also pays users for any
-backrunning opportunities they create.]]></summary>
-        <author>
-            <name>MEVBlocker</name>
         </author>
     </entry>
 </feed>
