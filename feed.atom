@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T01:56:44.850Z</id>
+    <id>urn:2023-05-03T02:25:19.901Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T01:56:44.850Z</updated>
+    <updated>2023-05-03T02:25:19.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is a Government Backstop the Only Solution?]]></title>
+        <id>https://thedefiant.io/how-defi-can-help-banks-manage-risk/</id>
+        <link href="https://thedefiant.io/how-defi-can-help-banks-manage-risk/"/>
+        <updated>2023-05-03T02:04:18.000Z</updated>
+        <summary type="html"><![CDATA[How DeFi could help banks manage risk, prove solvency & stay relevant]]></summary>
+        <author>
+            <name>Antoine Scalia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Looks Beyond The U.S. With International Exchange]]></title>
         <id>https://thedefiant.io/coinbase-international-exchange/</id>
@@ -1082,16 +1092,6 @@ Pro, an aggregator geared towards active NFT traders. Meanwhile, CoW Swap’s ne
         <summary type="html"><![CDATA[OpenSea Courts Active Traders To Reclaim Market Share From Blur]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Ethereum Teams Join Forces To Return MEV Profits To Users]]></title>
-        <id>https://thedefiant.io/mev-blocker-rpc-lets-users-profit-mev/</id>
-        <link href="https://thedefiant.io/mev-blocker-rpc-lets-users-profit-mev/"/>
-        <updated>2023-04-05T20:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Free MEV Blocker RPC “Pays Users To Protect Themselves”]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
