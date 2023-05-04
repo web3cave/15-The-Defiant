@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T04:06:43.972Z</id>
+    <id>urn:2023-05-04T05:04:28.421Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T04:06:43.972Z</updated>
+    <updated>2023-05-04T05:04:28.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20]]></title>
+        <id>https://thedefiant.iotusd-lending-rates-spike-after-stablecoin-briefly-rallies</id>
+        <link href="https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies"/>
+        <updated>2023-05-04T04:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fed Hints At Pause After Another 25bps Hike]]></title>
         <id>https://thedefiant.iofed-hints-at-pause-after-another-25bps-hike</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Markets Trade Sideways With Ether Up 1%]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Deploys crvUSD Stablecoin On Ethereum]]></title>
+        <id>https://thedefiant.iocurve-deploys-crvusd-stablecoin-on-ethereum</id>
+        <link href="https://thedefiant.io/curve-deploys-crvusd-stablecoin-on-ethereum"/>
+        <updated>2023-05-04T02:43:19.000Z</updated>
+        <summary type="html"><![CDATA[CRV Rallies 7%]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -233,26 +253,6 @@
         <summary type="html"><![CDATA[What's after PEPE?]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Name Service: Nick Johnson's Journey from Google to Ethereum, ENS Roadmap, &amp; Cancel Culture]]></title>
-        <id>https://thedefiant.ioethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-cancel-culture</id>
-        <link href="https://thedefiant.io/ethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-cancel-culture"/>
-        <updated>2023-04-24T08:25:12.000Z</updated>
-        <summary type="html"><![CDATA[from Google to Ethereum]]></summary>
-        <author>
-            <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most DeFi Protocols Fade After They’re Hacked, Analysis Shows]]></title>
-        <id>https://thedefiant.iodefi-projects-fail-to-recover-after-hacks</id>
-        <link href="https://thedefiant.io/defi-projects-fail-to-recover-after-hacks"/>
-        <updated>2023-04-22T00:35:04.000Z</updated>
-        <summary type="html"><![CDATA[TVL of hacked DeFi protocols dives by over 90% and fails to recover.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
