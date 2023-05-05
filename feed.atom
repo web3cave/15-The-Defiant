@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T04:06:50.948Z</id>
+    <id>urn:2023-05-05T05:04:31.122Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-05T04:06:50.948Z</updated>
+    <updated>2023-05-05T05:04:31.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers In ‘Final Stages Of Planning’ Next Major Upgrade]]></title>
+        <id>https://thedefiant.ioethereum-developers-in-final-stages-of-planning-next-major-upgrade</id>
+        <link href="https://thedefiant.io/ethereum-developers-in-final-stages-of-planning-next-major-upgrade"/>
+        <updated>2023-05-05T03:46:46.000Z</updated>
+        <summary type="html"><![CDATA[‘Dencun’ Will Focus On Scaling To Reduce Transaction Costs]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Transactions Hit Record High as New Token Type Takes Off]]></title>
         <id>https://thedefiant.iobitcoin-transactions-hit-record-high-as-new-token-type-takes-off</id>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[Regulatory and Macro Fears Resurface]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Sues SEC In Bid For Regulatory Clarity]]></title>
-        <id>https://thedefiant.iocoinbase-sues-sec</id>
-        <link href="https://thedefiant.io/coinbase-sues-sec"/>
-        <updated>2023-04-25T19:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Leading US Crypto Exchange Received Wells Notice Last Month]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
