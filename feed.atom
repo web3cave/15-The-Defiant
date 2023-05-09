@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T05:04:11.958Z</id>
+    <id>urn:2023-05-09T06:07:41.226Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-09T05:04:11.958Z</updated>
+    <updated>2023-05-09T06:07:41.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Staking Deposits Exceed Withdrawals After Shapella Upgrade]]></title>
+        <id>https://thedefiant.ioeth-staking-deposits-exceed-withdrawals-after-shapella-upgrade</id>
+        <link href="https://thedefiant.io/eth-staking-deposits-exceed-withdrawals-after-shapella-upgrade"/>
+        <updated>2023-05-09T04:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Over 61,000 ETH Was Burned In The Last Week Amid Increased Network Activity]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deloitte Taps Polkadot’s Kilt Protocol For KYC Credentials]]></title>
         <id>https://thedefiant.iodeloitte-taps-polkadot-s-kilt-protocol-for-kyc-credentials</id>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[Another 190M Tokens Remain To Be Released]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Adoption Surges After Atlas Upgrade]]></title>
-        <id>https://thedefiant.iorocket-pool-sees-influx-from-kraken</id>
-        <link href="https://thedefiant.io/rocket-pool-sees-influx-from-kraken"/>
-        <updated>2023-04-26T23:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Liquid Staking Protocol Sees Influx Of Displaced Stakers From Kraken]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
