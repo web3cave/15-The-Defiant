@@ -1,4 +1,262 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "The Defiant",
+      "feedUrl": "https://thedefiant.io/feed/",
+      "siteUrl": "https://thedefiant.io",
+      "articles": [
+        {
+          "id": "https://thedefiant.iomakerdao-founder-proposes-dedicated-blockchain-and-new-dai-and-mkr-tokens",
+          "author": "Samuel Haig",
+          "description": "Rune Christensen outlines roadmap for controversial Endgame plan.",
+          "link": "https://thedefiant.io/makerdao-founder-proposes-dedicated-blockchain-and-new-dai-and-mkr-tokens",
+          "publishedOn": "2023-05-15T23:59:54.000Z",
+          "wordCount": 2208,
+          "title": "MakerDAO Founder Proposes Dedicated Blockchain and New DAI and MKR Tokens",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba29f6feed1e839a8db8152ff02182e2c268d5c5-600x338.jpg"
+        },
+        {
+          "id": "https://thedefiant.ious-court-excludes-48-000-blockfi-users-from-usd297m-payout",
+          "author": "Samuel Haig",
+          "description": "Assets In Interest-Bearing Accounts Deemed Property Of Estate",
+          "link": "https://thedefiant.io/us-court-excludes-48-000-blockfi-users-from-usd297m-payout",
+          "publishedOn": "2023-05-15T20:47:54.000Z",
+          "wordCount": 1133,
+          "title": "US Court Excludes 48,000 BlockFi Users From $297M Payout",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0c8b95018067bc6adda915c8e011de1cc223d95-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ioethereum-researchers-remain-mystified-after-blockchain-briefly-fails-to-finalize",
+          "author": "Samuel Haig",
+          "description": "User Transactions Continued To Be Processed Normally",
+          "link": "https://thedefiant.io/ethereum-researchers-remain-mystified-after-blockchain-briefly-fails-to-finalize",
+          "publishedOn": "2023-05-15T20:35:07.000Z",
+          "wordCount": 1881,
+          "title": "Ethereum Researchers Remain Mystified After Blockchain Briefly Fails To Finalize",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/81669145560598c3f4dba4229faed8c0e3ed73b5-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ioelon-musk-sends-milady-nfts-soaring",
+          "author": "Tarang Khaitan",
+          "description": "Floor Price Of The Controversial Collection Briefly Doubled After Tweet From Tesla CEO.",
+          "link": "https://thedefiant.io/elon-musk-sends-milady-nfts-soaring",
+          "publishedOn": "2023-05-13T01:05:15.000Z",
+          "wordCount": 934,
+          "title": "Elon Musk Sends Milady NFTs Soaring",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a976de20a241906c318ba2248e4adc2d9999131d-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iostaked-ether-deposits-up-500-since-shapella",
+          "author": "Samuel Haig",
+          "description": "Deribit Expects Significant Pullback In ETH",
+          "link": "https://thedefiant.io/staked-ether-deposits-up-500-since-shapella",
+          "publishedOn": "2023-05-12T04:44:03.000Z",
+          "wordCount": 1161,
+          "title": "Staked Ether Deposits Up 500% Since Shapella",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9fe08ecc2f3e453b32739f9be7f54b8f428230d1-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iomemecoins-continue-to-dominate-dex-volumes-as-crypto-market-slides",
+          "author": "Owen Fernau",
+          "description": "Data Shows Rug Pulls On The Rise",
+          "link": "https://thedefiant.io/memecoins-continue-to-dominate-dex-volumes-as-crypto-market-slides",
+          "publishedOn": "2023-05-12T04:20:10.000Z",
+          "wordCount": 1560,
+          "title": "Memecoins Continue to Dominate DEX Volumes As Crypto Market Slides",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e8ca67cf69328fd607d98a227fd557015a127aac-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iolitecoin-transactions-up-5x-on-ltc-20-token-hype",
+          "author": "Samuel Haig",
+          "description": "Speculation On Ordinals Has Moved Beyond Bitcoin",
+          "link": "https://thedefiant.io/litecoin-transactions-up-5x-on-ltc-20-token-hype",
+          "publishedOn": "2023-05-12T02:41:01.000Z",
+          "wordCount": 1107,
+          "title": "Litecoin Transactions Up 500% On LTC-20 Token Hype",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f482ebf098897b98ad4378ef70dc82757cced69f-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ioparaspace-team-alleges-ceo-embezzled-usd1-7m",
+          "author": "Owen Fernau",
+          "description": "NFT Lending Protocol Loses A Third Of Deposits",
+          "link": "https://thedefiant.io/paraspace-team-alleges-ceo-embezzled-usd1-7m",
+          "publishedOn": "2023-05-11T06:28:40.000Z",
+          "wordCount": 1193,
+          "title": "ParaSpace Team Alleges CEO Embezzled $1.7M",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6db3059a200b4616c572db0f7f42c6fc846038fc-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ioaragon-repurposes-177m-treasury-into-grants-program",
+          "author": "Samuel Haig",
+          "description": "Opportunistic Group Of Investors Blamed For So-Called Governance Attack",
+          "link": "https://thedefiant.io/aragon-repurposes-177m-treasury-into-grants-program",
+          "publishedOn": "2023-05-11T05:35:05.000Z",
+          "wordCount": 2305,
+          "title": "Aragon ‘Repurposes’ $177M Treasury Into Grants Program",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d1355568154aedfe34710d839f2f3da7ef158bb-880x495.webp"
+        },
+        {
+          "id": "https://thedefiant.iotether-reports-record-surplus-reserves",
+          "author": "Owen Fernau",
+          "description": "USDT Supply Has Increased By Over $20B In 2023",
+          "link": "https://thedefiant.io/tether-reports-record-surplus-reserves",
+          "publishedOn": "2023-05-11T04:45:28.000Z",
+          "wordCount": 998,
+          "title": "Tether Reports Record Surplus Reserves",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef073f0f1c788c5c0bfeb5dcb8b7224d3785dbc3-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iomarkets-pull-back-as-memecoin-mania-cools",
+          "author": "Samuel Haig",
+          "description": "PEPE Crashes 50% From Friday Peak",
+          "link": "https://thedefiant.io/markets-pull-back-as-memecoin-mania-cools",
+          "publishedOn": "2023-05-10T05:20:24.000Z",
+          "wordCount": 1256,
+          "title": "Markets Pull Back As Memecoin Mania Cools",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46954b7f799c2f4d9fc5d580c5310d4a10394558-880x495.png"
+        },
+        {
+          "id": "https://thedefiant.iomakerdao-launches-spark-lending-protocol",
+          "author": "Tarang Khaitan",
+          "description": "Users Can Lend and Borrow ETH, stETH, DAI and sDAI",
+          "link": "https://thedefiant.io/makerdao-launches-spark-lending-protocol",
+          "publishedOn": "2023-05-10T04:48:17.000Z",
+          "wordCount": 941,
+          "title": "MakerDAO Launches Spark Lending Protocol",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c7d7243e0aa4570c5df968c8afcc4251456831ac-880x495.webp"
+        },
+        {
+          "id": "https://thedefiant.iochronos-dex-attracts-usd230m",
+          "author": "Samuel Haig",
+          "description": "Solidly Fork Launched On Arbitrum A Week Ago",
+          "link": "https://thedefiant.io/chronos-dex-attracts-usd230m",
+          "publishedOn": "2023-05-10T04:28:04.000Z",
+          "wordCount": 1377,
+          "title": "Chronos DEX Attracts $230M With Modified ve(3,3) Tokenomics",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa32ef81e6085adaed1f81759599c562f4f90e66-600x338.webp"
+        },
+        {
+          "id": "https://thedefiant.iobitcoin-forks-rally-as-fees-spike-on-world-s-most-valuable-blockchain",
+          "author": "Owen Fernau",
+          "description": "Ordinals and BRC-20 Tokens Push Unconfirmed Transactions To All-time High",
+          "link": "https://thedefiant.io/bitcoin-forks-rally-as-fees-spike-on-world-s-most-valuable-blockchain",
+          "publishedOn": "2023-05-10T04:03:37.000Z",
+          "wordCount": 1598,
+          "title": "Bitcoin Forks Rally As Fees Spike On World’s Most Valuable Blockchain",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31bd49d636fba906c4d11d14e3e175aa3c4c41ef-593x332.png"
+        },
+        {
+          "id": "https://thedefiant.ioeth-staking-deposits-exceed-withdrawals-after-shapella-upgrade",
+          "author": "Tarang Khaitan",
+          "description": "Over 61,000 ETH Was Burned In The Last Week Amid Increased Network Activity",
+          "link": "https://thedefiant.io/eth-staking-deposits-exceed-withdrawals-after-shapella-upgrade",
+          "publishedOn": "2023-05-09T04:49:27.000Z",
+          "wordCount": 800,
+          "title": "ETH Staking Deposits Exceed Withdrawals After Shapella Upgrade",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57cd167a2265dfe1a771d9b2b63816e010ad33aa-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iodeloitte-taps-polkadot-s-kilt-protocol-for-kyc-credentials",
+          "author": "Samuel Haig",
+          "description": "Top Consulting Firm Believes Digital IDs Can Improve Inefficient Verification Process",
+          "link": "https://thedefiant.io/deloitte-taps-polkadot-s-kilt-protocol-for-kyc-credentials",
+          "publishedOn": "2023-05-08T21:03:52.000Z",
+          "wordCount": 1109,
+          "title": "Deloitte Taps Polkadot’s Kilt Protocol For KYC Credentials",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e24801c1834a8361c7c86adc19dafa73615c529c-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iosushi-launches-concentrated-liquidity-on-13-blockchains",
+          "author": "Samuel Haig",
+          "description": "Another DEX Forks Uniswap V3 After License Lapses",
+          "link": "https://thedefiant.io/sushi-launches-concentrated-liquidity-on-13-blockchains",
+          "publishedOn": "2023-05-06T03:55:03.000Z",
+          "wordCount": 1245,
+          "title": "Sushi Launches Concentrated Liquidity On 13 Blockchains",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5ff02ba950e804c7723cf1554f37c8020a7fbb1c-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iosui-blockchain-launches-its-mainnet",
+          "author": "Tarang Khaitan",
+          "description": "Hyped Layer 1 Network Trades At $13B Valuation",
+          "link": "https://thedefiant.io/sui-blockchain-launches-its-mainnet",
+          "publishedOn": "2023-05-05T06:39:30.000Z",
+          "wordCount": 1072,
+          "title": "Sui Blockchain Launches Its Mainnet",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1fb5925323c002a7a4917f3ff4e6f41d3acf3bea-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ioethereum-developers-in-final-stages-of-planning-next-major-upgrade",
+          "author": "Samuel Haig",
+          "description": "‘Dencun’ Will Focus On Scaling To Reduce Transaction Costs",
+          "link": "https://thedefiant.io/ethereum-developers-in-final-stages-of-planning-next-major-upgrade",
+          "publishedOn": "2023-05-05T03:46:46.000Z",
+          "wordCount": 1649,
+          "title": "Ethereum Developers In ‘Final Stages Of Planning’ Next Major Upgrade",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bac5c5eef48cbd8db8d5d5bf1adee5e121ec8768-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iobitcoin-transactions-hit-record-high-as-new-token-type-takes-off",
+          "author": "Owen Fernau",
+          "description": "BRC-20 Fungible Tokens Climb Above $100M Market Capitalization",
+          "link": "https://thedefiant.io/bitcoin-transactions-hit-record-high-as-new-token-type-takes-off",
+          "publishedOn": "2023-05-05T02:09:51.000Z",
+          "wordCount": 2527,
+          "title": "Bitcoin Transactions Hit Record High as New Token Type Takes Off",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0cde697152fd0774df7f7dd983755a68d162f098-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.ionew-bitcoin-token-overtakes-wbtc-on-avalanche",
+          "author": "Samuel Haig",
+          "description": "BTC.b Enables Bitcoin To Be Used In DeFi Without A Centralized Bridge",
+          "link": "https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche",
+          "publishedOn": "2023-05-04T05:04:40.000Z",
+          "wordCount": 1396,
+          "title": "New Bitcoin Token Overtakes WBTC on Avalanche",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ec79b4cdc048ac520131067d73dfdd8576790a86-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iotusd-lending-rates-spike-after-stablecoin-briefly-rallies",
+          "author": "Samuel Haig",
+          "description": "Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch",
+          "link": "https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies",
+          "publishedOn": "2023-05-04T04:39:26.000Z",
+          "wordCount": 1213,
+          "title": "TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/839844f03293d8cf05df9f704b8f8df70c4353d7-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iofed-hints-at-pause-after-another-25bps-hike",
+          "author": "yyctrader",
+          "description": "Markets Trade Sideways With Ether Up 1%",
+          "link": "https://thedefiant.io/fed-hints-at-pause-after-another-25bps-hike",
+          "publishedOn": "2023-05-04T03:21:24.000Z",
+          "wordCount": 1089,
+          "title": "Fed Hints At Pause After Another 25bps Hike",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88ed3815ca78cb345485ff5b12dc0712e0f1e140-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iocurve-deploys-crvusd-stablecoin-on-ethereum",
+          "author": "Samuel Haig",
+          "description": "CRV Rallies 7%",
+          "link": "https://thedefiant.io/curve-deploys-crvusd-stablecoin-on-ethereum",
+          "publishedOn": "2023-05-04T02:43:19.000Z",
+          "wordCount": 1366,
+          "title": "Curve Deploys crvUSD Stablecoin On Ethereum",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e7f26660d5f216b9e831feb271f22f711adfe654-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.iosothebys-nft-marketplace",
+          "author": "Tarang Khaitan",
+          "description": "Platform To Enforce Creator Royalties Using Smart Contracts",
+          "link": "https://thedefiant.io/sothebys-nft-marketplace",
+          "publishedOn": "2023-05-03T05:21:32.000Z",
+          "wordCount": 929,
+          "title": "Sotheby's Launches NFT Marketplace",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c6090343a83045659a781bea9a701ff7ff10a0e3-880x495.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
