@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T04:06:50.024Z</id>
+    <id>urn:2023-05-17T05:04:07.764Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T04:06:50.024Z</updated>
+    <updated>2023-05-17T05:04:07.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Pushes Back Against Coinbase’s Request For Regulatory Clarity]]></title>
+        <id>https://thedefiant.iosec-pushes-back-against-coinbase-s-request-for-regulatory-clarity</id>
+        <link href="https://thedefiant.io/sec-pushes-back-against-coinbase-s-request-for-regulatory-clarity"/>
+        <updated>2023-05-17T04:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Regulator Claims Coinbase Is Not Entitled To Extraordinary Relief Since Its Petition Was Filed Less Than A Year Ago]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Enables Staked ETH Withdrawals With V2 Rollout]]></title>
         <id>https://thedefiant.iolido-enables-staked-eth-withdrawals-with-v2-rollout</id>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[Markets Trade Sideways With Ether Up 1%]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Deploys crvUSD Stablecoin On Ethereum]]></title>
-        <id>https://thedefiant.iocurve-deploys-crvusd-stablecoin-on-ethereum</id>
-        <link href="https://thedefiant.io/curve-deploys-crvusd-stablecoin-on-ethereum"/>
-        <updated>2023-05-04T02:43:19.000Z</updated>
-        <summary type="html"><![CDATA[CRV Rallies 7%]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
