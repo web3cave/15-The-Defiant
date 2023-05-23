@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T17:03:46.738Z</id>
+    <id>urn:2023-05-23T18:06:54.417Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-23T17:03:46.738Z</updated>
+    <updated>2023-05-23T18:06:54.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Steal $1M From Tornado Cash, Then Propose to Fix  Governance Takeover]]></title>
+        <id>https://thedefiant.iohackers-steal-usd1m-from-tornado-cash</id>
+        <link href="https://thedefiant.io/hackers-steal-usd1m-from-tornado-cash"/>
+        <updated>2023-05-23T16:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Malicious Governance Takeover Allowed Tornado Cash Hacker To Steal $1M]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Challenged: Competition Emerges for LinkMarines]]></title>
         <id>https://thedefiant.iochainlink-challenged-competition-emerges-for-linkmarines</id>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[Users Can Lend and Borrow ETH, stETH, DAI and sDAI]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chronos DEX Attracts $230M With Modified ve(3,3) Tokenomics]]></title>
-        <id>https://thedefiant.iochronos-dex-attracts-usd230m</id>
-        <link href="https://thedefiant.io/chronos-dex-attracts-usd230m"/>
-        <updated>2023-05-10T04:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Solidly Fork Launched On Arbitrum A Week Ago]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
