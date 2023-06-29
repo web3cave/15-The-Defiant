@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T16:07:28.030Z</id>
+    <id>urn:2023-06-29T17:04:07.163Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-29T16:07:28.030Z</updated>
+    <updated>2023-06-29T17:04:07.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Plans To Merge PoS Chain With zkEVM]]></title>
+        <id>https://thedefiant.io/polygon-plans-to-merge-pos-chain-with-zkevm</id>
+        <link href="https://thedefiant.io/polygon-plans-to-merge-pos-chain-with-zkevm"/>
+        <updated>2023-06-29T16:00:55.000Z</updated>
+        <summary type="html"><![CDATA[MATIC Is Down 30% In June]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coordinape Brings Web3 Reputation On-chain With CoSoul]]></title>
         <id>https://thedefiant.io/coordinape-brings-web3-reputation-on-chain-with-cosoul</id>
@@ -775,16 +785,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[OP Circulating Supply Set To More Than Double]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve’s Stablecoin Trades Within 0.5% Range For First Month]]></title>
-        <id>https://thedefiant.io/curve-s-crvusd-trades-within-0-5-range-for-first-month</id>
-        <link href="https://thedefiant.io/curve-s-crvusd-trades-within-0-5-range-for-first-month"/>
-        <updated>2023-05-31T05:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Stability Pools and PegKeepers Anchor New Stablecoin To $1]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
