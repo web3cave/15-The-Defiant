@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T20:06:31.775Z</id>
+    <id>urn:2023-07-12T21:04:54.226Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T20:06:31.775Z</updated>
+    <updated>2023-07-12T21:04:54.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers Propose Token Standard To Protect Issuers From Bridge Hacks]]></title>
+        <id>https://thedefiant.io/ethereum-developers-propose-token-standard-to-protect-issuers-from-bridge-hacks</id>
+        <link href="https://thedefiant.io/ethereum-developers-propose-token-standard-to-protect-issuers-from-bridge-hacks"/>
+        <updated>2023-07-12T19:35:37.000Z</updated>
+        <summary type="html"><![CDATA[ERC-7281 Would Allow Token Issuers To Limit Exposure To Cross-chain Bridges]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Now Earns 80% Of Its Fee Revenue From Real-World Assets]]></title>
+        <id>https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets</id>
+        <link href="https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets"/>
+        <updated>2023-07-12T19:34:02.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO now boasts a $2.34B RWA portfolio.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Developers Left Web3 En Masse In The Past 12 Months]]></title>
         <id>https://thedefiant.io/new-developers-left-web3-en-masse-in-the-past-12-months</id>
@@ -736,18 +756,6 @@
         <summary type="html"><![CDATA[New Features Include Limit Orders, Auto-compounding, Dynamic Fees and TWAMM]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🦄Uniswap V4: Empowering Users with Hooks and Singleton to Transform Liquidity and Reduce Gas Fees]]></title>
-        <id>https://thedefiant.io/uniswap-v4-empowering-users-with-hooks-and-singleton-to-transform-liquidity-and-reduce-gas-fees</id>
-        <link href="https://thedefiant.io/uniswap-v4-empowering-users-with-hooks-and-singleton-to-transform-liquidity-and-reduce-gas-fees"/>
-        <updated>2023-06-13T08:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we're exploring the future of Uniswap, the world's leading decentralized exchange protocol, and why the recently announced V4 is significant, particularly in a bear market.
-
-Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
