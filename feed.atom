@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T04:06:50.176Z</id>
+    <id>urn:2023-07-31T05:05:08.602Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T04:06:50.176Z</updated>
+    <updated>2023-07-31T05:05:08.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Over $70M Stolen From Multiple DeFi Protocols Due To Vyper Code Bug]]></title>
+        <id>https://thedefiant.io/over-usd70m-stolen-from-multiple-defi-protocols-due-to-vyper-code-bug</id>
+        <link href="https://thedefiant.io/over-usd70m-stolen-from-multiple-defi-protocols-due-to-vyper-code-bug"/>
+        <updated>2023-07-31T04:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Hacker Used Re-entrancy Attacks To Drain Assets From Curve Pools]]></summary>
+        <author>
+            <name>Jeremy Nation and Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arkham Bounty Unearths $160M In Alleged Terra Wallets]]></title>
         <id>https://thedefiant.io/arkham-bounty-unearths-usd160m-in-alleged-terra-wallets</id>
