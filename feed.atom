@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T04:07:02.147Z</id>
+    <id>urn:2023-08-17T05:03:54.029Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T04:07:02.147Z</updated>
+    <updated>2023-08-17T05:03:54.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Dexalot Awarded $3M Grant By Avalanche Foundation]]></title>
         <id>https://thedefiant.io/dexalot-awarded-usd3m-grant-by-avalanche-foundation</id>
         <link href="https://thedefiant.io/dexalot-awarded-usd3m-grant-by-avalanche-foundation"/>
-        <updated>2023-08-17T04:04:29.000Z</updated>
+        <updated>2023-08-17T13:30:00.000Z</updated>
         <summary type="html"><![CDATA[AVAX Tokens Will Be Distributed As Trading Rewards If Orderbook-based DEX Hits Volume Milestones Over The Next 12 Months]]></summary>
         <author>
             <name>Jeremy Nation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shibarium Botches Launch With Bridged ETH Unrecoverable]]></title>
+        <id>https://thedefiant.io/shibarium-botches-launch-with-bridged-eth-unrecoverable</id>
+        <link href="https://thedefiant.io/shibarium-botches-launch-with-bridged-eth-unrecoverable"/>
+        <updated>2023-08-17T04:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Users Of Layer 2 Network From Shiba Inu Face Stuck Transactions]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -767,16 +777,6 @@ The Worldcoin project was announ...]]></summary>
         <summary type="html"><![CDATA[NFT Marketplace Cites TOS Violations Despite Collaborating With Liquid Staking Protocol Prior To Collection’s Launch]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Releases DEX Aggregator Protocol]]></title>
-        <id>https://thedefiant.io/uniswap-releases-dex-aggregator-protocol</id>
-        <link href="https://thedefiant.io/uniswap-releases-dex-aggregator-protocol"/>
-        <updated>2023-07-18T16:51:03.000Z</updated>
-        <summary type="html"><![CDATA[UniswapX's MEV Protection and Gasless Swap Features Draw Comparisons To CoW Swap]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
