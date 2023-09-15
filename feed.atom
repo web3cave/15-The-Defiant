@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T00:27:57.613Z</id>
+    <id>urn:2023-09-15T01:40:50.270Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-15T00:27:57.613Z</updated>
+    <updated>2023-09-15T01:40:50.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZRX-backed Loan On Aave V2 Gets Closer To Liquidation]]></title>
+        <id>https://thedefiant.io/zrx-backed-loan-on-aave-v2-gets-closer-to-liquidation</id>
+        <link href="https://thedefiant.io/zrx-backed-loan-on-aave-v2-gets-closer-to-liquidation"/>
+        <updated>2023-09-15T01:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Lending Market Has Been Frozen Since November 2022 But Limited Liquidity For 0x Protocol’s Governance Token Could Result In Bad Debt If ZRX Drops Sharply]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony Unveils Plans To Develop Blockchain]]></title>
         <id>https://thedefiant.io/sony-unveils-plans-to-develop-blockchain</id>
@@ -90,7 +100,8 @@
         <id>https://thedefiant.io/test2</id>
         <link href="https://thedefiant.io/test2"/>
         <updated>2023-09-12T02:09:44.000Z</updated>
-        <summary type="html"><![CDATA[test]]></summary>
+        <summary type="html"><![CDATA[test this gets updated
+still updates]]></summary>
         <author>
             <name>Gabriel</name>
         </author>
@@ -760,26 +771,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Community Fumes Over Miniscule Airdrop As Layer-1 Blockchain Trades At $2B Valuation]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linea Completes Public Mainnet Rollout]]></title>
-        <id>https://thedefiant.io/linea-completes-public-mainnet-rollout</id>
-        <link href="https://thedefiant.io/linea-completes-public-mainnet-rollout"/>
-        <updated>2023-08-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Users Can Now Bridge ERC-20 Tokens To Consensys’ Layer 2 Network]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Teams Up With Ledger On Fiat Onramp For US Users]]></title>
-        <id>https://thedefiant.io/paypal-teams-up-with-ledger-on-fiat-onramp-for-us-users</id>
-        <link href="https://thedefiant.io/paypal-teams-up-with-ledger-on-fiat-onramp-for-us-users"/>
-        <updated>2023-08-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global Payments Firm Launched Ethereum-based Stablecoin Last Week]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
