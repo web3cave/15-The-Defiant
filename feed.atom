@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T15:03:19.758Z</id>
+    <id>urn:2023-09-21T16:06:46.220Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T15:03:19.758Z</updated>
+    <updated>2023-09-21T16:06:46.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making the Wallet Personal]]></title>
+        <id>https://thedefiant.io/making-the-wallet-personal</id>
+        <link href="https://thedefiant.io/making-the-wallet-personal"/>
+        <updated>2023-09-21T15:58:19.000Z</updated>
+        <summary type="html"><![CDATA[What if you could tailor your wallet to your needs?]]></summary>
+        <author>
+            <name>Christian Montoya, Product Lead for MetaMask Snaps</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Developers Debate New Standard For On-chain Audit Reports]]></title>
         <id>https://thedefiant.io/ethereum-developers-debate-new-standard-for-on-chain-audit-reports</id>
