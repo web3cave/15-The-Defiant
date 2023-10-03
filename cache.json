@@ -6,14 +6,29 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/breaking-orbiter-finance-users-report-missing-transactions-amid-possible-hack",
+          "author": "The Defiant Team",
+          "description": "DeFi Users Are Advised Not To Use The Cross-chain Bridge Until The Situation Is Resolved",
+          "link": "https://thedefiant.io/breaking-orbiter-finance-users-report-missing-transactions-amid-possible-hack",
+          "publishedOn": "2023-10-03T17:24:40.000Z",
+          "wordCount": 1395,
+          "title": "Orbiter Finance Users Report Missing Transactions Amid Possible Hack",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/imf-says-crypto-leads-to-alternative-financial-system",
           "author": "Camila Russo",
-          "description": "Crypto industry responds: exactly.",
+          "description": "Crypto industry responds: Exactly.",
           "link": "https://thedefiant.io/imf-says-crypto-leads-to-alternative-financial-system",
           "publishedOn": "2023-10-03T16:59:18.000Z",
-          "wordCount": null,
-          "title": "IMF Says Unregulated Crypto Assets Could Lead to \"Alternative Financial System\"",
-          "imageUrl": null
+          "wordCount": 1500,
+          "title": "IMF Says Unregulated Crypto Could Lead to an \"Alternative Financial System\"",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/52655a869b7aa7f2ac183248b25d0bf820c07d08-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/52655a869b7aa7f2ac183248b25d0bf820c07d08-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/eth-retraces-after-futures-etf-launches-fall-flat",
@@ -36,7 +51,7 @@
           "description": "Half of the 2,000-piece collection will be claimable for free for Velocity Pass holders",
           "link": "https://thedefiant.io/velocity-pass-unveils-mint-details-of-upcoming-snowfro-drop",
           "publishedOn": "2023-10-03T03:25:26.000Z",
-          "wordCount": 1360,
+          "wordCount": 1376,
           "title": "Velocity Pass Unveils Mint Details Of Upcoming Snowfro Drop",
           "imageUrl": null
         },
@@ -61,7 +76,7 @@
           "description": "Lewis, critics argue, fails to present an accurate account of Bankman-Fried and his business.",
           "link": "https://thedefiant.io/michael-lewis-s-new-book-on-sam-bankman-fried-faces-waves-of-criticism",
           "publishedOn": "2023-10-02T22:00:20.000Z",
-          "wordCount": 1668,
+          "wordCount": 1684,
           "title": "Michael Lewis's New Book on Sam Bankman-Fried Faces Waves of Criticism",
           "imageUrl": null
         },
@@ -71,7 +86,7 @@
           "description": "Cash and tokens prizes are set to be rewarded to ten winners.",
           "link": "https://thedefiant.io/synthetix-launches-trading-competition-for-its-perps-v3-testnet-on-the-base-network",
           "publishedOn": "2023-10-02T20:57:42.000Z",
-          "wordCount": 1512,
+          "wordCount": 1528,
           "title": "Synthetix Launches Trading Competition for its Perps V3 Testnet on the Base Network",
           "imageUrl": null
         },
@@ -81,7 +96,7 @@
           "description": "The pilot project is part of a broader VCC umbrella, aimed at bringing various real-world assets on-chain.",
           "link": "https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund",
           "publishedOn": "2023-10-02T20:36:37.000Z",
-          "wordCount": 1547,
+          "wordCount": 1563,
           "title": "UBS Launches Pilot for an Ethereum-Based Money Market Fund",
           "imageUrl": null
         },
