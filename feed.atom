@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T14:04:36.032Z</id>
+    <id>urn:2023-10-31T15:05:47.075Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-31T14:04:36.032Z</updated>
+    <updated>2023-10-31T15:05:47.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Modular Blockchain Celestia Mainnet Beta Goes Live]]></title>
+        <id>https://thedefiant.io/modular-blockchain-celestia-mainnet-beta-goes-live</id>
+        <link href="https://thedefiant.io/modular-blockchain-celestia-mainnet-beta-goes-live"/>
+        <updated>2023-10-31T14:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Celestia successfully deployed its mainnet beta on Tuesday, according to a post on its website. 
+
+The Celestia mainnet launch introduces data availability sampling (DAS), which is an untested technology which may lead to instability in the initial phases, ...]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Users Report the USDC Issuer is Shutting Down Consumer Accounts]]></title>
+        <id>https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts</id>
+        <link href="https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts"/>
+        <updated>2023-10-31T14:24:55.000Z</updated>
+        <summary type="html"><![CDATA[It appears Circle intends to discontinue wiring and minting functionalities and close consumer accounts by Nov. 30.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Avalanche Block Explorer Snowtrace Is Abandoning Etherscan]]></title>
         <id>https://thedefiant.io/top-avalanche-block-explorer-snowtrace-is-abandoning-etherscan</id>
@@ -1001,26 +1023,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Researcher estimates $57M in stolen ETH was swapped to BTC via THORChain in four months]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap v3 Deployed on ZkSync Era Via Oku]]></title>
-        <id>https://thedefiant.io/uniswap-v3-deployed-on-zksync-era-via-oku</id>
-        <link href="https://thedefiant.io/uniswap-v3-deployed-on-zksync-era-via-oku"/>
-        <updated>2023-10-06T09:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Foundation-backed front-end partners with ZkSync Era]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido’s stETH Token Accounts For 7% Of Circulating Ether]]></title>
-        <id>https://thedefiant.io/lido-s-steth-token-accounts-for-7-of-circulating-ether</id>
-        <link href="https://thedefiant.io/lido-s-steth-token-accounts-for-7-of-circulating-ether"/>
-        <updated>2023-10-05T17:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Dominant Liquid Staking Protocol Is Accruing 0.5% of ETH Staking Rewards]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
