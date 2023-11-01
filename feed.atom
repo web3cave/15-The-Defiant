@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T12:10:58.766Z</id>
+    <id>urn:2023-11-01T13:07:37.641Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-01T12:10:58.766Z</updated>
+    <updated>2023-11-01T13:07:37.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hashflow Turns On ‘Fee Switch’, Redistributing 50% Of Revenue To Stakers]]></title>
+        <id>https://thedefiant.io/hashflow-turns-on-fee-switch-redistributing-50-of-revenue-to-stakers</id>
+        <link href="https://thedefiant.io/hashflow-turns-on-fee-switch-redistributing-50-of-revenue-to-stakers"/>
+        <updated>2023-11-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hashflow introduces trading fees alongside revenue-sharing model with HFT stakers taking 50%]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Mainnet Reclaims Dominance From Layer 2s]]></title>
         <id>https://thedefiant.io/ethereum-mainnet-reclaims-dominance-from-layer-2s</id>
@@ -1011,16 +1021,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Gnosis Chain deployment marks first step in Spark’s multi-chain expansion]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Slumps To 15-Month Low Against BTC]]></title>
-        <id>https://thedefiant.io/eth-slumps-to-15-month-low-against-btc</id>
-        <link href="https://thedefiant.io/eth-slumps-to-15-month-low-against-btc"/>
-        <updated>2023-10-10T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin halving and spot BTC ETF speculation captures investors' imaginations while Ethereum has first inflationary month since transitioning to Proof of Stake.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
