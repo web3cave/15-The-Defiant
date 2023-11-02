@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/disney-and-square-backed-games-tap-immutable-and-polygon-for-ethereum-scaling",
+          "author": "Samuel Haig",
+          "description": "Immutable zkEVM announces flurry of GameFi titles ahead of mainnet launch",
+          "link": "https://thedefiant.io/disney-and-square-backed-games-tap-immutable-and-polygon-for-ethereum-scaling",
+          "publishedOn": "2023-11-02T16:00:00.000Z",
+          "wordCount": 1791,
+          "title": "Disney And Square-Backed Games Tap Immutable And Polygon For Ethereum Scaling",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2fa4c990828484f5140b05f5b942c48f94421547-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2fa4c990828484f5140b05f5b942c48f94421547-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup",
+          "author": "The Defiant Team",
+          "description": "Top news and hot takes on the SEC subpoena over PayPal's PYUSD stablecoin.",
+          "link": "https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup",
+          "publishedOn": "2023-11-02T15:45:18.000Z",
+          "wordCount": 2467,
+          "title": "PayPal Subpoenaed by SEC Over Stablecoin: Top News & Hot Takes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f4198eb76efd0e3fe521eef975aec7dc8be6149-755x547.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f4198eb76efd0e3fe521eef975aec7dc8be6149-755x547.png"
+        },
+        {
           "id": "https://thedefiant.io/eigenlayer-launches-voting-contest-to-onboard-new-lsts",
           "author": "Samuel Haig",
           "description": "EigenLayer taps new LST providers to bolster growth",
@@ -1384,31 +1414,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d69bba4cbeec0800af075849934fde59b411428-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/gauntlet-can-t-vote-in-usd40m-arbitrum-grants-proposal",
-          "author": "Camila Russo",
-          "description": "The Ethereum contract address solicited for delegation by Gauntlet is incompatible with Arbitrum.",
-          "link": "https://thedefiant.io/gauntlet-can-t-vote-in-usd40m-arbitrum-grants-proposal",
-          "publishedOn": "2023-10-11T20:10:38.000Z",
-          "wordCount": 1974,
-          "title": "Major Arbitrum Delegate Gauntlet Unable to Vote in $40M Grants Proposal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/stars-arena-recovers-usd2-2m-of-stolen-assets",
-          "author": "The Defiant Team",
-          "description": "Exploiter Returns 239,493 AVAX In Exchange For $250,000 Bounty",
-          "link": "https://thedefiant.io/stars-arena-recovers-usd2-2m-of-stolen-assets",
-          "publishedOn": "2023-10-11T19:56:43.000Z",
-          "wordCount": 1561,
-          "title": "Stars Arena Recovers $2.2M Of Stolen Assets",
-          "imageUrl": null
         }
       ]
     }
