@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-social-fi",
+          "author": "Squiffs",
+          "description": "Everything you need to know about the confluence of social media and DeFi",
+          "link": "https://thedefiant.io/what-is-social-fi",
+          "publishedOn": "2023-11-07T03:55:31.000Z",
+          "wordCount": 3195,
+          "title": "What Is Social-Fi?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2f7f2d019d90f0eb1e9bc010f7a2f4099fb6a5ac-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2f7f2d019d90f0eb1e9bc010f7a2f4099fb6a5ac-828x466.webp"
+        },
+        {
           "id": "https://thedefiant.io/arbitrum-governance-divided-over-usd2-4m-research-coalition",
           "author": "Camila Russo",
           "description": "Some community members raising concerns the Coalition's cost is excessively high with proposed comps as high as $1.3M in annual salary equivalent.",
@@ -1419,16 +1434,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b9f1d906fbf8ac1061ffe194ea7634f57b86ef96-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ferrari-rolls-out-support-for-crypto-payments-in-the-u-s",
-          "author": "The Defiant Team",
-          "description": "Ferrari buyers can now use ETH, BTC, or USDC, to purchase vehicles in the U.S.",
-          "link": "https://thedefiant.io/ferrari-rolls-out-support-for-crypto-payments-in-the-u-s",
-          "publishedOn": "2023-10-16T05:28:00.000Z",
-          "wordCount": 1853,
-          "title": "Ferrari Rolls Out Support For Crypto Payments In The U.S.",
-          "imageUrl": null
         }
       ]
     }

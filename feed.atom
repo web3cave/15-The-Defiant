@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T04:07:35.790Z</id>
+    <id>urn:2023-11-07T05:05:20.737Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T04:07:35.790Z</updated>
+    <updated>2023-11-07T05:05:20.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Social-Fi?]]></title>
+        <id>https://thedefiant.io/what-is-social-fi</id>
+        <link href="https://thedefiant.io/what-is-social-fi"/>
+        <updated>2023-11-07T03:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about the confluence of social media and DeFi]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Governance Divided Over $2.4M Research Coalition]]></title>
         <id>https://thedefiant.io/arbitrum-governance-divided-over-usd2-4m-research-coalition</id>
@@ -1009,16 +1019,6 @@ SEC Ripple case...]]></summary>
         <summary type="html"><![CDATA[Both Ethereum's entry and exit queues are empty.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferrari Rolls Out Support For Crypto Payments In The U.S.]]></title>
-        <id>https://thedefiant.io/ferrari-rolls-out-support-for-crypto-payments-in-the-u-s</id>
-        <link href="https://thedefiant.io/ferrari-rolls-out-support-for-crypto-payments-in-the-u-s"/>
-        <updated>2023-10-16T05:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Ferrari buyers can now use ETH, BTC, or USDC, to purchase vehicles in the U.S.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
