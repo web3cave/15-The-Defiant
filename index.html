@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-08 datetime="2023-11-08T03:20:00.000Z">2023-11-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-08 datetime="2023-11-08T03:20:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/grayscale-chainlink-trust-shares-rocket-to-200-premium"
+                        open
+                      >
+                        <summary class="article-expander__title">Grayscale Chainlink Trust Shares Rocket To 200% Premium</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/grayscale-chainlink-trust-shares-rocket-to-200-premium">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/658d2d2370503eaffd908e840f24cd4a80c57c86-880x495.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>GLINK shares are now trading for triple the price of spot LINK tokens.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-07 datetime="2023-11-07T18:00:47.000Z">2023-11-07</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-07 datetime="2023-11-07T18:00:47.000Z"></time>
           </button>
@@ -2532,26 +2580,6 @@ SEC Ripple case...</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/cointelegraph-publishes-post-mortem-after-innacurate-tweet-sends-btc-flying"
-                        open
-                      >
-                        <summary class="article-expander__title">Cointelegraph Publishes Post-Mortem After Inaccurate Tweet Sends BTC Flying</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/cointelegraph-publishes-post-mortem-after-innacurate-tweet-sends-btc-flying">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/f17cedef09da9c843f1580a2f905bd4ca0340384-880x495.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Cointelegraph said its staff breached editorial procedure by tweeting unconfirmed information.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2559,8 +2587,8 @@ SEC Ripple case...</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/6793238229">
-        <time id="build-timestamp" datetime="2023-11-08T03:06:35.479Z">2023-11-08T03:06:35.479Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/6793625085">
+        <time id="build-timestamp" datetime="2023-11-08T04:07:16.035Z">2023-11-08T04:07:16.035Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
