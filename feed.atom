@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T17:04:02.506Z</id>
+    <id>urn:2023-11-10T18:07:35.670Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T17:04:02.506Z</updated>
+    <updated>2023-11-10T18:07:35.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Launches On-Chain KYC Verification to +100M Users]]></title>
+        <id>https://thedefiant.io/coinbase-launches-on-chain-kyc-verification-to-100m-users</id>
+        <link href="https://thedefiant.io/coinbase-launches-on-chain-kyc-verification-to-100m-users"/>
+        <updated>2023-11-10T17:42:18.000Z</updated>
+        <summary type="html"><![CDATA[The service is based on Coinbase's Layer 2 network, Base, and uses the Ethereum Attestation Service standard.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poloniex Now Among Top 10 Largest Cex Hacks With $125 Million Loss]]></title>
         <id>https://thedefiant.io/poloniex-now-among-top-10-largest-cex-hacks-with-usd125-million-loss</id>
@@ -1009,16 +1019,6 @@ SEC Ripple case...]]></summary>
         <summary type="html"><![CDATA[New York Attorney General Letitia James alleges these companies defrauded more than 230,000 investors causing losses of over $1B.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZkLend Completes Mainnet Launch On Starknet]]></title>
-        <id>https://thedefiant.io/zklend-completes-mainnet-launch-on-starknet</id>
-        <link href="https://thedefiant.io/zklend-completes-mainnet-launch-on-starknet"/>
-        <updated>2023-10-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ZkLend’s launch follows surge in on-chain activity for Starknet]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
