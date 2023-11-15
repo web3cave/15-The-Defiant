@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone",
+          "author": "Camila Russo",
+          "description": "The exploit could \"compromise the most sensitive data stored on the phone, including cryptocurrency private keys.\"",
+          "link": "https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone",
+          "publishedOn": "2023-11-15T15:27:50.000Z",
+          "wordCount": 1775,
+          "title": "Solana's Saga Phone is Vulnerable to Critical Exploit, Certik Says",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b911de67b59dfd8bd0c570935d6356abbd46b88-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b911de67b59dfd8bd0c570935d6356abbd46b88-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/comparing-layer-2-launches-an-on-chain-analysis-of-liquidity-providers",
           "author": "Keyrock",
           "description": "Keyrock analyzes the on-chain performance of high-profile layer 2 (L2) networks in their earliest days after mainnet launch.",
@@ -1424,21 +1439,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3342b56c36382bcc5a30810b79117619fdb39df8-882x495.png"
-        },
-        {
-          "id": "https://thedefiant.io/yearn-overhauls-yfi-tokenomics",
-          "author": "Samuel Haig",
-          "description": "OG Yield Aggregator Introduces Locking Mechanism, Will Use YFI Accumulated Via Buybacks To Fund New Rewards Program",
-          "link": "https://thedefiant.io/yearn-overhauls-yfi-tokenomics",
-          "publishedOn": "2023-10-20T18:30:57.000Z",
-          "wordCount": 2146,
-          "title": "Yearn Overhauls YFI Tokenomics",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b23f576dce8e713a3df0e328406d67ee4e71fa5-828x466.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b23f576dce8e713a3df0e328406d67ee4e71fa5-828x466.webp"
         }
       ]
     }
