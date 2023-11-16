@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T23:06:09.937Z</id>
+    <id>urn:2023-11-16T00:30:13.993Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-15T23:06:09.937Z</updated>
+    <updated>2023-11-16T00:30:13.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Rebounds as Aave v3 Loan Volume Spikes to Record]]></title>
+        <id>https://thedefiant.io/defi-rebounds-as-aave-v3-loan-volume-spikes-to-record</id>
+        <link href="https://thedefiant.io/defi-rebounds-as-aave-v3-loan-volume-spikes-to-record"/>
+        <updated>2023-11-15T23:30:04.000Z</updated>
+        <summary type="html"><![CDATA[DeFi stats from DEX volume to stablecoin addresses are reversing a months-long slide while borrowing on Aave v3 jumped to a record Wednesday.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JP Morgan’s Onyx Teams Up With Avalanche To Streamline Portfolio Management]]></title>
         <id>https://thedefiant.io/jp-morgan-s-onyx-teams-up-with-avalanche-to-automate-portfolio-management</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Darren Langley is the general manager of Rocket Pool which provides liquid staking services for ETH holders. Liquid staking on Ethereum has been a major trend this year as it enables ETH holders to earn rewards by staking on the Ethereum network while addi...]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Most Read Stories This Week: a16z Manifesto, Uniswap Fees, Cointelegraph Post Mortem]]></title>
-        <id>https://thedefiant.io/our-most-read-stories-this-week-a16z-manifesto-uniswap-fees-cointelegraph-post-mortem</id>
-        <link href="https://thedefiant.io/our-most-read-stories-this-week-a16z-manifesto-uniswap-fees-cointelegraph-post-mortem"/>
-        <updated>2023-10-21T21:05:08.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Oct. 16.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
