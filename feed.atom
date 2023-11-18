@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T16:06:24.625Z</id>
+    <id>urn:2023-11-18T17:03:01.819Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-18T16:06:24.625Z</updated>
+    <updated>2023-11-18T17:03:01.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polkadot is About to "Fundamentally Change," Said Web3 Foundation's New CEO]]></title>
+        <id>https://thedefiant.io/polkadot-is-about-to-fundamentally-change-said-web3-foundation-s-new-ceo</id>
+        <link href="https://thedefiant.io/polkadot-is-about-to-fundamentally-change-said-web3-foundation-s-new-ceo"/>
+        <updated>2023-11-18T16:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot is about to drop parachain's slot auctions for a new mechanism that allows application developers to rent block space as needed.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THORchain Volumes Surge On Success Of ‘Streaming Swaps’]]></title>
         <id>https://thedefiant.io/thorchain-volumes-surge-on-success-of-streaming-swaps</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BitMEX co-founder says investors are offloading bonds for gold and crypto.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Sector Heats Up Amid Broad Market Rally]]></title>
-        <id>https://thedefiant.io/defi-sector-heats-up-amid-broad-market-rally</id>
-        <link href="https://thedefiant.io/defi-sector-heats-up-amid-broad-market-rally"/>
-        <updated>2023-10-24T20:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Total Value Locked In DeFi Protocols Hits 3-Month High Above $40B]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
