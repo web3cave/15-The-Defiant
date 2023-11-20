@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T22:05:56.101Z</id>
+    <id>urn:2023-11-20T23:06:13.319Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-20T22:05:56.101Z</updated>
+    <updated>2023-11-20T23:06:13.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tomagotchi-Like Fren Pet is Crushing it on Coinbase's Base Network]]></title>
+        <id>https://thedefiant.io/tomagotchi-like-frenpet-is-crushing-it-on-coinbase-s-base-network</id>
+        <link href="https://thedefiant.io/tomagotchi-like-frenpet-is-crushing-it-on-coinbase-s-base-network"/>
+        <updated>2023-11-20T22:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Fren Pet gaining steam might be further proof that non-financial use cases can flourish in crypto.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Validators Are Now Queuing To Exit The Network]]></title>
         <id>https://thedefiant.io/ethereum-validators-are-now-queuing-to-exit-the-network</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Nocturne Labs aims to provide the ability to transact privately within the Ethereum ecosystem.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Deploys POL Token On Ethereum]]></title>
-        <id>https://thedefiant.io/polygon-deploys-pol-token-on-ethereum</id>
-        <link href="https://thedefiant.io/polygon-deploys-pol-token-on-ethereum"/>
-        <updated>2023-10-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New POL token will facilitate restaking for multi-chain Polygon ecosystem]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
