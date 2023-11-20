@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T12:11:39.815Z</id>
+    <id>urn:2023-11-20T13:10:52.536Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-20T12:11:39.815Z</updated>
+    <updated>2023-11-20T13:10:52.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Community Slams dYdX For ‘Centralized’ Response to Alleged Market Manipulation Attack]]></title>
+        <id>https://thedefiant.io/web3-community-slams-dydx-for-centralized-response-to-alleged-market-manipulation-attack</id>
+        <link href="https://thedefiant.io/web3-community-slams-dydx-for-centralized-response-to-alleged-market-manipulation-attack"/>
+        <updated>2023-11-20T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[DYdX promises rewards for help identifying attacker, promises to engage FBI]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dYdX Suffered "Clearly Targeted Attack," Founder Antonio Juliano Said]]></title>
         <id>https://thedefiant.io/dydx-suffered-clearly-targeted-attack-founder-antonio-juliano-said</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[India ranks second worldwide by DEX trading volume]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maestro Trading Bot Exploited For $500K]]></title>
-        <id>https://thedefiant.io/maestro-trading-bot-exploited-for-usd500k</id>
-        <link href="https://thedefiant.io/maestro-trading-bot-exploited-for-usd500k"/>
-        <updated>2023-10-25T05:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Team Promises To Refund Affected Users, Trading Resumes]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
