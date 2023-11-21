@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T16:07:53.572Z</id>
+    <id>urn:2023-11-21T17:05:17.200Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-21T16:07:53.572Z</updated>
+    <updated>2023-11-21T17:05:17.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Needs Economic Risk Ratings for Better Decision-Making]]></title>
+        <id>https://thedefiant.io/defi-needs-economic-risk-ratings-for-better-decision-making</id>
+        <link href="https://thedefiant.io/defi-needs-economic-risk-ratings-for-better-decision-making"/>
+        <updated>2023-11-21T16:26:59.000Z</updated>
+        <summary type="html"><![CDATA[In DeFi technological vulnerabilities often take precedence in the risk evaluation process. Economic risk is often neglected but equally important.]]></summary>
+        <author>
+            <name>Kate Kurbanova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tron’s JustLend Surpasses Aave As Largest Web3 Lending Market]]></title>
         <id>https://thedefiant.io/tron-s-justlend-surpasses-aave-as-largest-web3-lending-market</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Developers Can Now Create Bespoke Blockchains Permissionlessly Leveraging Arbitrum’s Infrastructure and Tooling]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom Launches Testnets For Sonic Upgrade, Estimates 6,700% Throughput Gain]]></title>
-        <id>https://thedefiant.io/fantom-launches-testnets-for-sonic-upgrade-estimates-6-700-throughput-gain</id>
-        <link href="https://thedefiant.io/fantom-launches-testnets-for-sonic-upgrade-estimates-6-700-throughput-gain"/>
-        <updated>2023-10-26T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Fantom will feed a closed testnet 175M transactions daily to showcase maximum capacity]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
