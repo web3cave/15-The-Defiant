@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T17:04:48.849Z</id>
+    <id>urn:2023-11-22T18:07:52.255Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-22T17:04:48.849Z</updated>
+    <updated>2023-11-22T18:07:52.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana is Having its Best Month Ever]]></title>
+        <id>https://thedefiant.io/solana-is-having-its-best-month-ever</id>
+        <link href="https://thedefiant.io/solana-is-having-its-best-month-ever"/>
+        <updated>2023-11-22T17:21:48.000Z</updated>
+        <summary type="html"><![CDATA[The network hit all-time highs in DEX volume while its native token has outperformed nearly every other blue-chip asset on the market.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aragon Tokenholders Vote To Sue Aragon Association]]></title>
         <id>https://thedefiant.io/aragon-tokenholders-vote-to-sue-aragon-association</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Lido community pushes back against OFT bridge for stETH]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone Partners With Chainlink To Demonstrate Blockchain’s Potential In Global Trade]]></title>
-        <id>https://thedefiant.io/vodafone-partners-with-chainlink-to-demonstrate-blockchain-s-potential-in-global-trade</id>
-        <link href="https://thedefiant.io/vodafone-partners-with-chainlink-to-demonstrate-blockchain-s-potential-in-global-trade"/>
-        <updated>2023-10-27T04:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Telecom Giant Vodafone's Digital Asset Division Becomes Chainlink Node Operator]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
