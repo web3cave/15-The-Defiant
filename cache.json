@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/crvusd-proposal-aims-to-increase-rates-and-restore-usd1-peg",
+          "author": "Samuel Haig",
+          "description": "CrvUSD’s price has trended towards $0.99 throughout November",
+          "link": "https://thedefiant.io/crvusd-proposal-aims-to-increase-rates-and-restore-usd1-peg",
+          "publishedOn": "2023-11-23T04:15:00.000Z",
+          "wordCount": 2447,
+          "title": "CrvUSD Proposal Aims to Increase Rates and Restore $1 Peg",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e7f26660d5f216b9e831feb271f22f711adfe654-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e7f26660d5f216b9e831feb271f22f711adfe654-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains",
           "author": "Samuel Haig",
           "description": "Users can permissionlessly deploy the standard to migrate USDC or EURC onto EVM-compatible chains",
@@ -1439,21 +1454,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/478aff77638f603daf0ac55583b45b70ae3d8ff1-828x466.webp"
-        },
-        {
-          "id": "https://thedefiant.io/fed-s-barr-calls-for-stablecoin-regulation-again",
-          "author": "Camila Russo",
-          "description": "The U.S. Federal Reserve's Vice Chair for Supervision Michael S. Barr reiterated his calls for greater regulation of stablecoins.",
-          "link": "https://thedefiant.io/fed-s-barr-calls-for-stablecoin-regulation-again",
-          "publishedOn": "2023-10-27T15:59:20.000Z",
-          "wordCount": 1636,
-          "title": "Fed's Barr Calls for Stablecoin Regulation (Again)",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cfaee5832d387659f3f3a7a71c94bd0d8c05e988-751x467.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cfaee5832d387659f3f3a7a71c94bd0d8c05e988-751x467.png"
         }
       ]
     }
