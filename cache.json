@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/kyber-dex-hacked-for-usd48m",
+          "author": "Owen Fernau",
+          "description": "The DEX recommends all users to \"promptly withdraw their funds.\"",
+          "link": "https://thedefiant.io/kyber-dex-hacked-for-usd48m",
+          "publishedOn": "2023-11-23T00:19:15.000Z",
+          "wordCount": 1300,
+          "title": "KyberSwap Dex Hacked for $48M",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c78efd5265e766b6f3e4e60beec3e1dad21cda48-828x466.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c78efd5265e766b6f3e4e60beec3e1dad21cda48-828x466.png"
+        },
+        {
           "id": "https://thedefiant.io/solana-is-having-its-best-month-ever",
           "author": "Pedro Solimano",
           "description": "The network hit all-time highs in DEX volume while its native token has outperformed nearly every other blue-chip asset on the market.",
@@ -1434,21 +1449,6 @@
           "wordCount": 1609,
           "title": "Polygon Launches MATIC To POL Token Migrations",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/layerzero-deploys-steth-bridge-without-approval-from-lido-governance",
-          "author": "Samuel Haig",
-          "description": "Lido community pushes back against OFT bridge for stETH",
-          "link": "https://thedefiant.io/layerzero-deploys-steth-bridge-without-approval-from-lido-governance",
-          "publishedOn": "2023-10-27T06:06:00.000Z",
-          "wordCount": 1939,
-          "title": "LayerZero Deploys stETH Bridge Without Approval From Lido Governance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/99c136ece236fc3ea5c5e61025cf0b29526e59c2-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99c136ece236fc3ea5c5e61025cf0b29526e59c2-880x495.jpg"
         }
       ]
     }

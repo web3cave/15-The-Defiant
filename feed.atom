@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T23:05:35.166Z</id>
+    <id>urn:2023-11-23T00:30:14.582Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-22T23:05:35.166Z</updated>
+    <updated>2023-11-23T00:30:14.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KyberSwap Dex Hacked for $48M]]></title>
+        <id>https://thedefiant.io/kyber-dex-hacked-for-usd48m</id>
+        <link href="https://thedefiant.io/kyber-dex-hacked-for-usd48m"/>
+        <updated>2023-11-23T00:19:15.000Z</updated>
+        <summary type="html"><![CDATA[The DEX recommends all users to "promptly withdraw their funds."]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana is Having its Best Month Ever]]></title>
         <id>https://thedefiant.io/solana-is-having-its-best-month-ever</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations"/>
         <updated>2023-10-27T07:46:00.000Z</updated>
         <summary type="html"><![CDATA[POL will underpin Polygon’s forthcoming revamped staking layer]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Deploys stETH Bridge Without Approval From Lido Governance]]></title>
-        <id>https://thedefiant.io/layerzero-deploys-steth-bridge-without-approval-from-lido-governance</id>
-        <link href="https://thedefiant.io/layerzero-deploys-steth-bridge-without-approval-from-lido-governance"/>
-        <updated>2023-10-27T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido community pushes back against OFT bridge for stETH]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
