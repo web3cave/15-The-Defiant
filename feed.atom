@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T02:19:38.126Z</id>
+    <id>urn:2023-11-23T03:06:43.079Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-23T02:19:38.126Z</updated>
+    <updated>2023-11-23T03:06:43.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Swiss City of Lugano Embraces Crypto With Polygon Integration]]></title>
+        <id>https://thedefiant.io/swiss-city-of-lugano-embraces-crypto-with-polygon-integration</id>
+        <link href="https://thedefiant.io/swiss-city-of-lugano-embraces-crypto-with-polygon-integration"/>
+        <updated>2023-11-23T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Lugano citizens will be able to pay taxes, parking tickets, and public services using crypto in future]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KyberSwap Dex Hacked for $48M]]></title>
         <id>https://thedefiant.io/kyber-dex-hacked-for-usd48m</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The DYDX token is soaring after launch of the new dYdX Chain added functionality to the token.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Launches MATIC To POL Token Migrations]]></title>
-        <id>https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations</id>
-        <link href="https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations"/>
-        <updated>2023-10-27T07:46:00.000Z</updated>
-        <summary type="html"><![CDATA[POL will underpin Polygon’s forthcoming revamped staking layer]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
