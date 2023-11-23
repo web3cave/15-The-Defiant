@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T20:06:19.295Z</id>
+    <id>urn:2023-11-23T21:03:46.754Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-23T20:06:19.295Z</updated>
+    <updated>2023-11-23T21:03:46.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Modular Blockchains?]]></title>
+        <id>https://thedefiant.io/what-are-modular-blockchains</id>
+        <link href="https://thedefiant.io/what-are-modular-blockchains"/>
+        <updated>2023-11-23T20:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Modular Networks Like Celestia Unlock Scaling And Efficiency Gains]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avalanche Transactions Skyrocket 2,000% On ASC-20 Hype]]></title>
         <id>https://thedefiant.io/avalanche-transactions-skyrocket-2-000-on-asc-20-hype</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bridging teams back ERC-7281 to mitigate risks from proprietary cross-chain protocols.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Most Read Stories This Week: Arthur Hayes, Bitcoin ETF, New POL Token]]></title>
-        <id>https://thedefiant.io/our-most-read-stories-this-week-arthur-hayes-bitcoin-etf-new-pol-token</id>
-        <link href="https://thedefiant.io/our-most-read-stories-this-week-arthur-hayes-bitcoin-etf-new-pol-token"/>
-        <updated>2023-10-28T21:19:04.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Oct. 23.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
