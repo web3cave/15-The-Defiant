@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T19:02:53.949Z</id>
+    <id>urn:2023-11-24T20:06:21.089Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-24T19:02:53.949Z</updated>
+    <updated>2023-11-24T20:06:21.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Non-US Bitcoin Miner Gets Caught Censoring Transactions]]></title>
+        <id>https://thedefiant.io/non-us-bitcoin-miner-gets-caught-censoring-transactions</id>
+        <link href="https://thedefiant.io/non-us-bitcoin-miner-gets-caught-censoring-transactions"/>
+        <updated>2023-11-24T19:45:40.000Z</updated>
+        <summary type="html"><![CDATA[F2Pool censored four transactions in October, leading to questions surrounding Bitcoin’s censorship resistance.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC Tests Year-To-Date Highs Amid Spot Bitcoin ETF Progress]]></title>
         <id>https://thedefiant.io/btc-tests-year-to-date-highs-amid-spot-bitcoin-etf-progress</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/btc-bulls-on-parade-amid-fifth-anniversary-of-bitcoin-whitepaper"/>
         <updated>2023-10-31T10:10:00.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin celebrates year-to-date price and 30-month dominance highs]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker Ransacks $600,000 From Popular Telegram Trading Bot, Unibot]]></title>
-        <id>https://thedefiant.io/hacker-ransacks-usd600-000-from-popular-telegram-trading-bot-unibot</id>
-        <link href="https://thedefiant.io/hacker-ransacks-usd600-000-from-popular-telegram-trading-bot-unibot"/>
-        <updated>2023-10-31T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Hacker steals assets from wallets actively approving Unibot's smart contract.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
