@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T22:04:35.040Z</id>
+    <id>urn:2023-11-28T23:05:36.612Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T22:04:35.040Z</updated>
+    <updated>2023-11-28T23:05:36.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap DAO Approves Delegation Of 10M UNI To Active Voters]]></title>
+        <id>https://thedefiant.io/uniswap-dao-approves-delegation-of-10m-uni-to-active-voters</id>
+        <link href="https://thedefiant.io/uniswap-dao-approves-delegation-of-10m-uni-to-active-voters"/>
+        <updated>2023-11-28T21:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Seven delegates were elected to receive more voting power, including 404 DAO, Wintermute Governance, PGOV, and StableLab.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Launches Upgraded Staking v0.2 On Ethereum]]></title>
         <id>https://thedefiant.io/chainlink-launches-upgraded-staking-v0-2-on-ethereum</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Immutable zkEVM announces flurry of GameFi titles ahead of mainnet launch]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Subpoenaed by SEC Over Stablecoin: Latest News & Hot Takes]]></title>
-        <id>https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup</id>
-        <link href="https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup"/>
-        <updated>2023-11-02T15:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Top news and hot takes on the SEC subpoena over PayPal's PYUSD stablecoin.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
