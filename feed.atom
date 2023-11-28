@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T20:06:42.363Z</id>
+    <id>urn:2023-11-28T21:03:57.238Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T20:06:42.363Z</updated>
+    <updated>2023-11-28T21:03:57.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Launches Upgraded Staking v0.2 On Ethereum]]></title>
+        <id>https://thedefiant.io/chainlink-launches-upgraded-staking-v0-2-on-ethereum</id>
+        <link href="https://thedefiant.io/chainlink-launches-upgraded-staking-v0-2-on-ethereum"/>
+        <updated>2023-11-28T20:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The migration phase for existing LINK stakers starts today and runs until December 7.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animoca Brands Becomes TON Validator]]></title>
         <id>https://thedefiant.io/animoca-brands-becomes-ton-validator</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Top news and hot takes on the SEC subpoena over PayPal's PYUSD stablecoin.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Launches Voting Contest To Onboard New LSTs]]></title>
-        <id>https://thedefiant.io/eigenlayer-launches-voting-contest-to-onboard-new-lsts</id>
-        <link href="https://thedefiant.io/eigenlayer-launches-voting-contest-to-onboard-new-lsts"/>
-        <updated>2023-11-02T10:17:00.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer taps new LST providers to bolster growth]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
