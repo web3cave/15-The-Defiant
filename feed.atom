@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T18:07:48.675Z</id>
+    <id>urn:2023-12-01T19:02:51.089Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-01T18:07:48.675Z</updated>
+    <updated>2023-12-01T19:02:51.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Now Has More "Hodlers" Than Bitcoin Thanks to Staking]]></title>
+        <id>https://thedefiant.io/ethereum-now-has-more-hodlers-than-bitcoin-thanks-to-staking</id>
+        <link href="https://thedefiant.io/ethereum-now-has-more-hodlers-than-bitcoin-thanks-to-staking"/>
+        <updated>2023-12-01T18:30:04.000Z</updated>
+        <summary type="html"><![CDATA[ETH held by addresses for longer than 12 months is at the highest since at least 2018, with the ratio surpassing Bitcoin's for the first time ever.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Says It ‘Does Not Bank’ Justin Sun]]></title>
         <id>https://thedefiant.io/circle-says-it-does-not-bank-justin-sun</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Features Include Cross-chain Swaps and Fast Transfers]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Supply Trends Down After Two Months Of Inflation]]></title>
-        <id>https://thedefiant.io/eth-supply-trends-down-after-inflationary-two-months-of-inflation</id>
-        <link href="https://thedefiant.io/eth-supply-trends-down-after-inflationary-two-months-of-inflation"/>
-        <updated>2023-11-08T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Ether burn-rate picks up after first inflationary run of 2023]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
