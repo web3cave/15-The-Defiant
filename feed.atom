@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T13:09:36.841Z</id>
+    <id>urn:2023-12-05T14:05:42.225Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-05T13:09:36.841Z</updated>
+    <updated>2023-12-05T14:05:42.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Users can now borrow, lend, and trade tokenized gold and silver via Folks Finance]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe and Web3Auth Collaborate To Simplify Web3 Onboarding]]></title>
+        <id>https://thedefiant.io/safe-and-web3auth-collaborate-to-simplify-web3-onboarding</id>
+        <link href="https://thedefiant.io/safe-and-web3auth-collaborate-to-simplify-web3-onboarding"/>
+        <updated>2023-12-05T05:09:56.000Z</updated>
+        <summary type="html"><![CDATA[SafeAuth wallet solution leverages account abstraction and MPC to let users access crypto apps using Web2 logins.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Scroll among top 3 Layer 2s by throughput after 138% spike in one week]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["I Don't See a Reason for the SEC to Deny the ETH ETF," said Bloomberg Analyst Eric Balchunas]]></title>
-        <id>https://thedefiant.io/i-don-t-see-a-reason-for-the-sec-to-deny-the-eth-etf-bloomberg-analyst-eric-balchunas</id>
-        <link href="https://thedefiant.io/i-don-t-see-a-reason-for-the-sec-to-deny-the-eth-etf-bloomberg-analyst-eric-balchunas"/>
-        <updated>2023-11-09T22:04:06.000Z</updated>
-        <summary type="html"><![CDATA[There are already Ether futures ETFs trading, so which was the same reason courts ruled for the SEC to scrap its rejection of the Bitcoin spot ETF, the ETF analyst said.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
