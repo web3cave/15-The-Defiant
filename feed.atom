@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T21:04:32.492Z</id>
+    <id>urn:2023-12-07T22:05:32.523Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-07T21:04:32.492Z</updated>
+    <updated>2023-12-07T22:05:32.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero To Launch Token In 2024]]></title>
+        <id>https://thedefiant.io/layerzero-to-launch-token-in-2024</id>
+        <link href="https://thedefiant.io/layerzero-to-launch-token-in-2024"/>
+        <updated>2023-12-07T21:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Leading cross-chain messaging protocol has confirmed that it will launch a token in the first half of next year.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jito Briefly Surpasses Lido's Valuation at Launch]]></title>
         <id>https://thedefiant.io/jito-briefly-surpasses-lido-s-valuation-at-launch</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Infura announces 18 initial launch partners for Decentralized Infrastructure Network]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana's Saga Phone is Vulnerable to Critical Exploit, Certik Says]]></title>
-        <id>https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone</id>
-        <link href="https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone"/>
-        <updated>2023-11-15T15:27:50.000Z</updated>
-        <summary type="html"><![CDATA[The exploit could "compromise the most sensitive data stored on the phone." Solana denies those claims.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
