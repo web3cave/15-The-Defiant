@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T15:06:28.238Z</id>
+    <id>urn:2023-12-12T16:07:26.228Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-12T15:06:28.238Z</updated>
+    <updated>2023-12-12T16:07:26.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Layer 2 Starknet Unveils Plan To Distribute $3.5M in Fees To Developers]]></title>
+        <id>https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers</id>
+        <link href="https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers"/>
+        <updated>2023-12-12T14:20:36.000Z</updated>
+        <summary type="html"><![CDATA[“Devonomics” will distribute 8% of fees (roughly $3.5 million) to its builders.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH’s Supply Tags New Post-Merge Low Amid Surging On-Chain Activity]]></title>
         <id>https://thedefiant.io/eth-s-supply-tags-new-post-merge-low-amid-surging-on-chain-activity</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Polkadot is about to drop parachain's slot auctions for a new mechanism that allows application developers to rent block space as needed.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORchain Volumes Surge On Success Of ‘Streaming Swaps’]]></title>
-        <id>https://thedefiant.io/thorchain-volumes-surge-on-success-of-streaming-swaps</id>
-        <link href="https://thedefiant.io/thorchain-volumes-surge-on-success-of-streaming-swaps"/>
-        <updated>2023-11-17T19:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Cross chain network’s RUNE token has quadrupled in the past month as TVL doubled.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
