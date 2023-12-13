@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T13:09:36.293Z</id>
+    <id>urn:2023-12-13T14:06:34.095Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T13:09:36.293Z</updated>
+    <updated>2023-12-13T14:06:34.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEX Aggregator Matcha Adds NEW Cross Chain Functionality]]></title>
+        <id>https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality</id>
+        <link href="https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality"/>
+        <updated>2023-12-13T13:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Will Warren is the Co-Founder of Matcha, a DEX aggregator built by 0x. Matcha recently launched cross-chain swap functionality, allowing users to swap one asset on a particular chain for an new asset on a separate chain with one transaction. Cross-chain sw...]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Becomes Latest DLT Firm Embracing UAE With CeFi Smart Contract Platform]]></title>
         <id>https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Beacon Chain exit queue flips demand from new stakers]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why dYdX Ditched Ethereum | dYdX Chain Explained by David Gogel]]></title>
-        <id>https://thedefiant.io/why-dydx-ditched-ethereum-or-dydx-chain-explained-by-david-gogel</id>
-        <link href="https://thedefiant.io/why-dydx-ditched-ethereum-or-dydx-chain-explained-by-david-gogel"/>
-        <updated>2023-11-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[David Gogel is the VP of Strategy and Operations at the dYdX Foundation. In today's podcast, David will discuss the recent milestone of the foundation operating on its independent app chain. This transition involved multiple stages and intriguing tokenomic...]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
