@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T21:04:01.149Z</id>
+    <id>urn:2023-12-13T22:04:34.347Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T21:04:01.149Z</updated>
+    <updated>2023-12-13T22:04:34.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[Will Warren is the Co-Founder of Matcha, a DEX aggregator built by 0x. Matcha recently launched cross-chain swap functionality, allowing users to swap one asset on a particular chain for an new asset on a separate chain with one transaction. Cross-chain sw...]]></summary>
         <author>
             <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable zkEVM Invites Developers To Offset Gamer Gas Fees]]></title>
+        <id>https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees</id>
+        <link href="https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees"/>
+        <updated>2023-12-13T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Immutable argues gas fees pose significant barrier to onboarding mainstream gamers]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[JustLend’s TVL tags all-time high of $6B, ranking third among DeFi protocols]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyth Network Token Goes Live With $75M Airdrop For DeFi Users]]></title>
-        <id>https://thedefiant.io/pyth-network-token-goes-live-with-usd75m-airdrop-for-defi-users</id>
-        <link href="https://thedefiant.io/pyth-network-token-goes-live-with-usd75m-airdrop-for-defi-users"/>
-        <updated>2023-11-21T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Over half of the 250M PYTH tokens allocated to the airdrop have been claimed.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
