@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration",
+          "author": "Samuel Haig",
+          "description": "LayerZero revamp to focus on bolstering decentralization, security, and throughput",
+          "link": "https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration",
+          "publishedOn": "2023-12-14T14:00:00.000Z",
+          "wordCount": 2009,
+          "title": "LayerZero Launches Testnet For Newly Announced V2 Iteration",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d381a355d105cbb8285500614695bc027dae00c-1920x1091.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d381a355d105cbb8285500614695bc027dae00c-1920x1091.png"
+        },
+        {
           "id": "https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit",
           "author": "Pedro Solimano",
-          "description": "Ledger’s connector library compromised, injected with malicious drainer",
+          "description": "Ledger’s connector library was compromised and injected with malicious drainer",
           "link": "https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit",
           "publishedOn": "2023-12-14T13:33:00.000Z",
-          "wordCount": 1634,
+          "wordCount": 1731,
           "title": "DeFi Users Urged Not To Interact With Web3 Dapps Amid Major Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/58c1b64c00a5dd912386111cb3730e017306823b-880x495.jpg",
@@ -66,7 +81,7 @@
           "description": "Over 2,200, have used Rainbow today after swapping on Metamask from just over 100 yesterday.",
           "link": "https://thedefiant.io/rainbow-s-fox-hunt-is-driving-thousands-to-use-wallet-after-swapping-on-metamask",
           "publishedOn": "2023-12-13T16:13:33.000Z",
-          "wordCount": 2093,
+          "wordCount": 2084,
           "title": "Rainbow Wallet's  \"Fox Hunt\" is Driving Thousands of MetaMask Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d4c8b45ae04520281a3aac890c3ba73b0ef6db3-1792x1024.png",
@@ -1459,16 +1474,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1cfcc732c8db65a462026b7ade33e62d02502a68-1920x1080.png"
-        },
-        {
-          "id": "https://thedefiant.io/binance-ceo-changpeng-zhao-to-step-down-and-agree-to-usd4-3b-settlement",
-          "author": "Camila Russo",
-          "description": "This decision is part of a major settlement with the U.S. Department of Justice.",
-          "link": "https://thedefiant.io/binance-ceo-changpeng-zhao-to-step-down-and-agree-to-usd4-3b-settlement",
-          "publishedOn": "2023-11-21T18:34:33.000Z",
-          "wordCount": 1927,
-          "title": "Binance CEO Changpeng Zhao to Step Down and Agree to $4.3B Settlement",
-          "imageUrl": null
         }
       ]
     }
