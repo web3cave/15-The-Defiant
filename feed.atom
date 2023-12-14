@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T19:03:15.664Z</id>
+    <id>urn:2023-12-14T20:06:56.167Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T19:03:15.664Z</updated>
+    <updated>2023-12-14T20:06:56.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chainlink to Power Polygon zkEVM’s Data Feeds]]></title>
+        <id>https://thedefiant.io/chainlink-to-power-polygon-zkevm-s-data-feeds</id>
+        <link href="https://thedefiant.io/chainlink-to-power-polygon-zkevm-s-data-feeds"/>
+        <updated>2023-12-14T18:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Polygon developers will now be able to tap into Chainlink’s live data points to power dApps, liquidity protocols, and decentralized exchanges.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There’s Actual Substance Behind the AI-Crypto Mashup]]></title>
         <id>https://thedefiant.io/there-s-actual-substance-behind-the-ai-crypto-mashup</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The DEX recommends all users to "promptly withdraw their funds."]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana is Having its Best Month Ever]]></title>
-        <id>https://thedefiant.io/solana-is-having-its-best-month-ever</id>
-        <link href="https://thedefiant.io/solana-is-having-its-best-month-ever"/>
-        <updated>2023-11-22T17:21:48.000Z</updated>
-        <summary type="html"><![CDATA[The network hit all-time highs in DEX volume while its native token has outperformed nearly every other blue-chip asset on the market.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
