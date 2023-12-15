@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-15T19:03:03.163Z</id>
+    <id>urn:2023-12-15T20:06:44.198Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-15T19:03:03.163Z</updated>
+    <updated>2023-12-15T20:06:44.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Miner Raised $15M to Use Energy from Argentina’s Vaca Muerta Oil Field]]></title>
+        <id>https://thedefiant.io/bitcoin-miner-raised-usd15m-to-use-energy-from-argentina-s-vaca-muerta-oil-field</id>
+        <link href="https://thedefiant.io/bitcoin-miner-raised-usd15m-to-use-energy-from-argentina-s-vaca-muerta-oil-field"/>
+        <updated>2023-12-15T19:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Major energy companies Crusoe Energy, Pampa Energia, and Petrocuyo participated in the round.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum is Down on Network Traffic Surge]]></title>
         <id>https://thedefiant.io/arbitrum-is-down-on-network-traffic-surge</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/crvusd-proposal-aims-to-increase-rates-and-restore-usd1-peg"/>
         <updated>2023-11-23T04:15:00.000Z</updated>
         <summary type="html"><![CDATA[CrvUSD’s price has trended towards $0.99 throughout November]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Launches Bridged USDC Contract For EVM Chains]]></title>
-        <id>https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains</id>
-        <link href="https://thedefiant.io/circle-launches-bridged-usdc-contract-for-evm-chains"/>
-        <updated>2023-11-23T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can permissionlessly deploy the standard to migrate USDC or EURC onto EVM-compatible chains]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
