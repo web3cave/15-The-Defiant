@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T09:06:20.131Z</id>
+    <id>urn:2023-12-19T10:06:54.835Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-19T09:06:20.131Z</updated>
+    <updated>2023-12-19T10:06:54.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Raises Deposit Cap To 500,000 ETH]]></title>
+        <id>https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth</id>
+        <link href="https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth"/>
+        <updated>2023-12-19T09:20:08.000Z</updated>
+        <summary type="html"><![CDATA[The highly anticipated restaking protocol has pulled in $200M after adding support for six new Ethereum liquid staking tokens.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uptick In Crypto Volatility Drives $230M In Liquidations]]></title>
         <id>https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Blast attracts nearly $500M in five days despite only comprising a deposit contract]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bots, Terminals, and LLMs — Crypto UX is Getting a Makeover]]></title>
-        <id>https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover</id>
-        <link href="https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover"/>
-        <updated>2023-11-24T21:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Trading bots have gone from obscurity to some of the most-used crypto applications in 2023.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
