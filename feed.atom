@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-21T08:08:29.554Z</id>
+    <id>urn:2023-12-21T09:06:15.971Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-21T08:08:29.554Z</updated>
+    <updated>2023-12-21T09:06:15.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Unveils ‘Restaked Rollups’ In Collaboration With AltLayer]]></title>
+        <id>https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer</id>
+        <link href="https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer"/>
+        <updated>2023-12-21T08:04:50.000Z</updated>
+        <summary type="html"><![CDATA[New tooling will enable developers to quickly spin up app-specific networks without compromising on decentralization.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celestia Rival Avail Partners With StarkWare For Blockchain Data]]></title>
         <id>https://thedefiant.io/celestia-rival-avail-partners-with-starkware-for-blockchain-data</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Collaboration between leading VC and Telegram-linked blockchain aims to onboard new users to Web3 with mini-apps.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Protocol Overtakes Ethereum and Bitcoin in Key Activity Metrics]]></title>
-        <id>https://thedefiant.io/near-protocol-overtakes-ethereum-and-bitcoin-in-key-activity-metrics</id>
-        <link href="https://thedefiant.io/near-protocol-overtakes-ethereum-and-bitcoin-in-key-activity-metrics"/>
-        <updated>2023-11-28T19:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Two dApps are fuelling NEAR’s growth over the past three months.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
