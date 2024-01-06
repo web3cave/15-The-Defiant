@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T18:07:55.447Z</id>
+    <id>urn:2024-01-06T19:03:13.692Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T18:07:55.447Z</updated>
+    <updated>2024-01-06T19:03:13.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -828,11 +828,20 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vulnerability on Bitcoin]]></title>
+        <id>https://thedefiant.io/vulnerability-on-bitcoin</id>
+        <link href="https://thedefiant.io/vulnerability-on-bitcoin"/>
+        <updated>2023-12-10T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerability on Bitcoin]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Our Most Read Stories This Week: 2024 Rate Cuts, Anti-Crypto Bill, AI-Crypto Mashup, SNX Inflation]]></title>
         <id>https://thedefiant.io/our-most-read-stories-this-week-2024-rate-cuts-anti-crypto-bill-ai-crypto-mashup-snx-inflation</id>
         <link href="https://thedefiant.io/our-most-read-stories-this-week-2024-rate-cuts-anti-crypto-bill-ai-crypto-mashup-snx-inflation"/>
         <updated>2023-12-10T16:27:43.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Dec. 11.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/our-most-read-stories-this-week-hnt-launches-crypto-mobile-plan-ordi-tops-usd1b-jto-airdrop</id>
         <link href="https://thedefiant.io/our-most-read-stories-this-week-hnt-launches-crypto-mobile-plan-ordi-tops-usd1b-jto-airdrop"/>
         <updated>2023-12-10T16:27:43.000Z</updated>
+        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Dec. 4.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -903,16 +913,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
 9:04 Cami's Hot Take...]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Convergence of AI and Blockchain]]></title>
-        <id>https://thedefiant.io/the-convergence-of-ai-and-blockchain</id>
-        <link href="https://thedefiant.io/the-convergence-of-ai-and-blockchain"/>
-        <updated>2023-12-08T06:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Looking at how two of the most innovative technologies since the Internet complement each other.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
