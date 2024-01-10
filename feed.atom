@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T21:05:09.060Z</id>
+    <id>urn:2024-01-10T22:05:03.824Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-10T21:05:09.060Z</updated>
+    <updated>2024-01-10T22:05:03.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Approves Spot Bitcoin ETFs in Landmark Decision]]></title>
+        <id>https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision</id>
+        <link href="https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision"/>
+        <updated>2024-01-10T21:32:05.000Z</updated>
+        <summary type="html"><![CDATA[ETFs from all 11 applicants were approved.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFINITY’s Dominic Williams Says Enterprises Will Be Key for ICP's Growth]]></title>
         <id>https://thedefiant.io/dfinity-s-dominic-williams-says-enterprises-will-be-key-for-icp-s-growth</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality</id>
         <link href="https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality"/>
         <updated>2023-12-13T13:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Will Warren is the Co-Founder of Matcha, a DEX aggregator built by 0x. Matcha recently launched cross-chain swap functionality, allowing users to swap one asset on a particular chain for an new asset on a separate chain with one transaction. Cross-chain sw...]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees</id>
         <link href="https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees"/>
         <updated>2023-12-13T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Immutable argues gas fees pose significant barrier to onboarding mainstream gamers]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
