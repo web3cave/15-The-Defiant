@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T15:06:47.901Z</id>
+    <id>urn:2024-01-11T16:08:33.394Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-11T15:06:47.901Z</updated>
+    <updated>2024-01-11T16:08:33.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal’s Stablecoin Grows by Over 70% in 30 Days]]></title>
+        <id>https://thedefiant.io/paypal-s-stablecoin-grows-by-over-70-in-30-days</id>
+        <link href="https://thedefiant.io/paypal-s-stablecoin-grows-by-over-70-in-30-days"/>
+        <updated>2024-01-11T15:56:51.000Z</updated>
+        <summary type="html"><![CDATA[PYUSD has two pools in Curve and a proposal is underway to add it as collateral in Aave.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Approves Spot Bitcoin ETFs in Landmark Decision]]></title>
         <id>https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/rainbow-s-fox-hunt-is-driving-thousands-to-use-wallet-after-swapping-on-metamask</id>
         <link href="https://thedefiant.io/rainbow-s-fox-hunt-is-driving-thousands-to-use-wallet-after-swapping-on-metamask"/>
         <updated>2023-12-13T16:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Over 2,200, have used Rainbow today after swapping on Metamask from just over 100 yesterday.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality</id>
         <link href="https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality"/>
         <updated>2023-12-13T13:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Will Warren is the Co-Founder of Matcha, a DEX aggregator built by 0x. Matcha recently launched cross-chain swap functionality, allowing users to swap one asset on a particular chain for an new asset on a separate chain with one transaction. Cross-chain sw...]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
