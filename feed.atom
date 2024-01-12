@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T19:03:40.774Z</id>
+    <id>urn:2024-01-12T20:07:28.378Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T19:03:40.774Z</updated>
+    <updated>2024-01-12T20:07:28.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Year Of The Fourth Bitcoin Halving]]></title>
+        <id>https://thedefiant.io/the-year-of-the-fourth-bitcoin-halving</id>
+        <link href="https://thedefiant.io/the-year-of-the-fourth-bitcoin-halving"/>
+        <updated>2024-01-12T19:46:09.000Z</updated>
+        <summary type="html"><![CDATA[What it means and how the Bitcoin halving could affect the crypto markets.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Quantum Cats’ Ordinals Collection Pays Homage To Satoshi]]></title>
         <id>https://thedefiant.io/quantum-cats-ordinals-collection-pays-homage-to-satoshi</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration</id>
         <link href="https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration"/>
         <updated>2023-12-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero revamp to focus on bolstering decentralization, security, and throughput]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit</id>
         <link href="https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit"/>
         <updated>2023-12-14T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Ledger’s connector library was compromised and injected with malicious drainer]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
