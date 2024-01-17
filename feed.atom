@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T21:05:53.555Z</id>
+    <id>urn:2024-01-17T22:05:05.835Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-17T21:05:53.555Z</updated>
+    <updated>2024-01-17T22:05:05.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[More Than Half Of Crypto Is Dead: CoinGecko]]></title>
+        <id>https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko</id>
+        <link href="https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko"/>
+        <updated>2024-01-17T21:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dymension Airdrop Claim To End In Four Days]]></title>
         <id>https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/senator-elizabeth-warren-questions-crypto-lobby-in-letter-to-coincenter-blockchain-association</id>
         <link href="https://thedefiant.io/senator-elizabeth-warren-questions-crypto-lobby-in-letter-to-coincenter-blockchain-association"/>
         <updated>2023-12-19T17:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Warren said she's concerned crypto advocates are employing former defense and national security officials in an effort to influence regulation.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/the-painful-reality-of-defi-yields</id>
         <link href="https://thedefiant.io/the-painful-reality-of-defi-yields"/>
         <updated>2023-12-19T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The Painful Reality of DeFi Yields with IvanGBI]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -854,16 +864,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[The team has promised to refund users.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Deposits on Track to Hit New 500,000 ETH Cap]]></title>
-        <id>https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth</id>
-        <link href="https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth"/>
-        <updated>2023-12-19T09:20:08.000Z</updated>
-        <summary type="html"><![CDATA[The highly anticipated re-staking protocol has over $700M in deposits after adding support for six new Ethereum liquid staking tokens.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
