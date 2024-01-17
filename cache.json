@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/socket-resumes-operations-after-users-lost-usd3-3m-to-exploit",
+          "author": "Samuel Haig",
+          "description": "Hackers took advantage of a faulty Socket smart contract that was updated three days ago",
+          "link": "https://thedefiant.io/socket-resumes-operations-after-users-lost-usd3-3m-to-exploit",
+          "publishedOn": "2024-01-17T06:24:00.000Z",
+          "wordCount": null,
+          "title": "Socket Resumes Operations After Users Lost $3.3M To Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e4303dfe84366f10dd9b22a63d5f3a9c7cd493ca-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e4303dfe84366f10dd9b22a63d5f3a9c7cd493ca-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/investors-ponder-ether-etf-as-ethe-discount-shrinks",
           "author": "Owen Fernau",
           "description": "The Grayscale Ethereum Trust has seen its discount to NAV narrow to 15% from 47% a year ago.",
@@ -26,7 +41,7 @@
           "description": "Bitcoin miners sold more than 110,000 BTC last week.",
           "link": "https://thedefiant.io/miners-offloaded-usd5b-of-bitcoin-into-etf-launch",
           "publishedOn": "2024-01-16T20:38:42.000Z",
-          "wordCount": null,
+          "wordCount": 1954,
           "title": "Miners Offloaded $5B of Bitcoin Into ETF Launch",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc32eecdcd6d2c487519db5ccf5fcff6a2e9153b-1792x1024.png",
@@ -56,7 +71,7 @@
           "description": "Weekly trading volume averaged just $2B in 2023.",
           "link": "https://thedefiant.io/institutional-crypto-trading-tops-usd17b-during-etf-launch-week-highest-on-record",
           "publishedOn": "2024-01-16T16:53:56.000Z",
-          "wordCount": 2100,
+          "wordCount": null,
           "title": "Institutional Crypto Trading Tops $17B During ETF Launch Week, Highest On Record",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2eb8915927bfce57bbe470c60bacd66c992730ab-1792x1024.png",
@@ -311,7 +326,7 @@
           "description": "ETFs from all 11 applicants were approved.",
           "link": "https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision",
           "publishedOn": "2024-01-10T21:32:05.000Z",
-          "wordCount": null,
+          "wordCount": 2365,
           "title": "SEC Approves Spot Bitcoin ETFs in Landmark Decision",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef8ccf27dae0fb8066763aba555a6109cecf3f88-1792x1024.png",
@@ -1224,16 +1239,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b4e077b2ea15ce5e4b97a3045db0fb81c89ad714-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/institutions-break-11-straight-weeks-of-buying-crypto-report",
-          "author": "Pedro Solimano",
-          "description": "CoinShares reported outflows from large entities over the past week.",
-          "link": "https://thedefiant.io/institutions-break-11-straight-weeks-of-buying-crypto-report",
-          "publishedOn": "2023-12-18T18:48:56.000Z",
-          "wordCount": null,
-          "title": "Institutions Break 11 Straight Weeks Of Buying Crypto: Report",
-          "imageUrl": null
         }
       ]
     }
