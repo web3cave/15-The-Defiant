@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T18:08:28.208Z</id>
+    <id>urn:2024-01-18T19:04:03.641Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T18:08:28.208Z</updated>
+    <updated>2024-01-18T19:04:03.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -353,6 +353,16 @@
         <summary type="html"><![CDATA[ICP has quietly become the 18th most valuable digital asset.]]></summary>
         <author>
             <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano’s Never Been Hacked?]]></title>
+        <id>https://thedefiant.io/cardano-has-never-been-hacked</id>
+        <link href="https://thedefiant.io/cardano-has-never-been-hacked"/>
+        <updated>2024-01-10T17:47:00.000Z</updated>
+        <summary type="html"><![CDATA[We caught up with Pierre Kaklamanos of the Cardano Foundation. Pierre shares the latest on Cardano, discusses upcoming collaborations, and explains why Cardano remains unhacked. He touches on the eUTXO model, shares insights on regulatory approaches, and offers a glimpse into what to expect from Cardano in 2024.]]></summary>
+        <author>
+            <name>Alp Gasimov</name>
         </author>
     </entry>
     <entry>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023</id>
         <link href="https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023"/>
         <updated>2023-12-20T16:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto jobs dropped by 84% in the U.S. and 92% in Germany, LinkedIn data show.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/render-is-switching-to-solana-after-10x-ing-this-year</id>
         <link href="https://thedefiant.io/render-is-switching-to-solana-after-10x-ing-this-year"/>
         <updated>2023-12-20T16:15:26.000Z</updated>
+        <summary type="html"><![CDATA[The decentralized compute platform also implemented a new Burn and Mint Equilibrium Model.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -882,16 +892,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <link href="https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills"/>
         <updated>2023-12-20T07:19:23.000Z</updated>
         <summary type="html"><![CDATA[Stablecoin protocol leverages Centrifuge Prime, a service that provides the infrastructure for DAOs to invest in real-world assets.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Brings Treasury-backed Tokens To Solana]]></title>
-        <id>https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana</id>
-        <link href="https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana"/>
-        <updated>2023-12-20T06:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Leading real-world asset protocol sees growth opportunity as trading volumes on Solana DEXs surpass Ethereum.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
