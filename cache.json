@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/moody-s-vouches-for-efficiency-benefits-of-tokenization",
+          "author": "Samuel Haig",
+          "description": "Tokenized funds grew from $100M to $800M asset class in 2023",
+          "link": "https://thedefiant.io/moody-s-vouches-for-efficiency-benefits-of-tokenization",
+          "publishedOn": "2024-01-18T12:46:00.000Z",
+          "wordCount": null,
+          "title": "Moody’s Vouches For Efficiency Benefits Of Tokenization",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0535b5e211f460f9f8ec867aa63bf4bbfcc85767-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0535b5e211f460f9f8ec867aa63bf4bbfcc85767-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/spot-bitcoin-etfs-drive-insane-usd9-8b-in-volume-over-three-days",
           "author": "Samuel Haig",
           "description": "Grayscale accounted for more than half of volume but suffered $1.2B in outflows.",
           "link": "https://thedefiant.io/spot-bitcoin-etfs-drive-insane-usd9-8b-in-volume-over-three-days",
           "publishedOn": "2024-01-18T08:38:00.000Z",
-          "wordCount": null,
+          "wordCount": 2832,
           "title": "Spot Bitcoin ETFs Drive ‘Insane’ $9.8B In Volume Over Three Days",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/58df7d92afd799105ec0a319797c6f85ceebdf42-1792x1024.png",
@@ -26,7 +41,7 @@
           "description": "The Prysm Ethereum client initially suffered a bug triggering a post-fork network split",
           "link": "https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork",
           "publishedOn": "2024-01-18T06:02:00.000Z",
-          "wordCount": null,
+          "wordCount": 2571,
           "title": "Dencun Finalizes On Goerli After Rocky Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fce770f7fb23a298c0f6fe252b2470e89a5d6009-1792x1024.png",
@@ -41,7 +56,7 @@
           "description": "The outcome of the landmark case will have broad implications for the crypto industry.",
           "link": "https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward",
           "publishedOn": "2024-01-18T05:24:32.000Z",
-          "wordCount": null,
+          "wordCount": 2765,
           "title": "Crypto Advocates See Coinbase’s SEC Hearing as a “Step Forward”",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4a550ce66c4b4b1b47eedf7fefba10401a4776d6-1792x1024.png",
@@ -71,7 +86,7 @@
           "description": "Eligible users of Ethereum Layer 2s, Solana and Cosmos have until Jan. 21 to claim their DYM allocations.",
           "link": "https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days",
           "publishedOn": "2024-01-17T19:20:58.000Z",
-          "wordCount": null,
+          "wordCount": 2308,
           "title": "Dymension Airdrop Claim To End In Four Days",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f5b572fcaac3608649028082746ee10c5ca42042-1792x1024.png",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/inscriptions-dominate-volume-on-evm-chains",
           "author": "Samuel Haig",
-          "description": "Inscriptions account for more than half of weekly transactions across four leading networks",
+          "description": "",
           "link": "https://thedefiant.io/inscriptions-dominate-volume-on-evm-chains",
           "publishedOn": "2023-12-20T09:55:00.000Z",
           "wordCount": null,
@@ -1243,7 +1258,7 @@
         {
           "id": "https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills",
           "author": "Owen Fernau",
-          "description": "",
+          "description": "Stablecoin protocol leverages Centrifuge Prime, a service that provides the infrastructure for DAOs to invest in real-world assets.",
           "link": "https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills",
           "publishedOn": "2023-12-20T07:19:23.000Z",
           "wordCount": null,
