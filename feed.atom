@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T16:08:25.033Z</id>
+    <id>urn:2024-01-18T17:06:01.230Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T16:08:25.033Z</updated>
+    <updated>2024-01-18T17:06:01.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Introduces Validator Staking for Ethereum]]></title>
+        <id>https://thedefiant.io/metamask-introduces-validator-staking-for-ethereum</id>
+        <link href="https://thedefiant.io/metamask-introduces-validator-staking-for-ethereum"/>
+        <updated>2024-01-18T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[ConsenSys Staking, the entity behind MetaMask Staking, manages over $2 billion in ETH across more than 33,000 validators.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moody’s Vouches For Efficiency Benefits Of Tokenization]]></title>
         <id>https://thedefiant.io/moody-s-vouches-for-efficiency-benefits-of-tokenization</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance</id>
         <link href="https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance"/>
         <updated>2023-12-20T11:54:00.000Z</updated>
-        <summary type="html"><![CDATA[ETHW’s ecosystem rallied this past month but remains down more than 90% from its record highs]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/inscriptions-dominate-volume-on-evm-chains</id>
         <link href="https://thedefiant.io/inscriptions-dominate-volume-on-evm-chains"/>
         <updated>2023-12-20T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Inscriptions account for more than half of weekly transactions across four leading networks]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
