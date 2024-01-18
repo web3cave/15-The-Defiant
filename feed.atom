@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T05:07:15.322Z</id>
+    <id>urn:2024-01-18T06:09:20.900Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T05:07:15.322Z</updated>
+    <updated>2024-01-18T06:09:20.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dencun Finalizes On Goerli After Rocky Fork]]></title>
+        <id>https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork</id>
+        <link href="https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork"/>
+        <updated>2024-01-18T06:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The Prysm Ethereum client initially suffered a bug triggering a post-fork network split]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Advocates See Coinbase’s SEC Hearing as a “Step Forward”]]></title>
+        <id>https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward</id>
+        <link href="https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward"/>
+        <updated>2024-01-18T05:24:32.000Z</updated>
+        <summary type="html"><![CDATA[The outcome of the landmark case will have broad implications for the crypto industry.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More Than Half Of Crypto Is Dead: CoinGecko]]></title>
         <id>https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko</id>
@@ -822,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana</id>
         <link href="https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana"/>
         <updated>2023-12-20T06:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Leading real-world asset protocol sees growth opportunity as trading volumes on Solana DEXs surpass Ethereum.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -835,15 +854,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[The NFT-focused blockchain will launch its mainnet in January with creator royalties enshrined at the network level.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senator Elizabeth Warren Questions Crypto Lobby in Letter to CoinCenter, Blockchain Association and Coinbase]]></title>
-        <id>https://thedefiant.io/senator-elizabeth-warren-questions-crypto-lobby-in-letter-to-coincenter-blockchain-association</id>
-        <link href="https://thedefiant.io/senator-elizabeth-warren-questions-crypto-lobby-in-letter-to-coincenter-blockchain-association"/>
-        <updated>2023-12-19T17:10:07.000Z</updated>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
