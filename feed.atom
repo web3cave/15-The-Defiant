@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T18:09:00.625Z</id>
+    <id>urn:2024-01-19T19:04:01.771Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T18:09:00.625Z</updated>
+    <updated>2024-01-19T19:04:01.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Users in El Salvador Halved to 12% Last Year: Survey]]></title>
+        <id>https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey</id>
+        <link href="https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey"/>
+        <updated>2024-01-19T18:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoiners living in the country are skeptical of the number, however.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Italian Startup To Tokenize Distressed Loans On Polygon]]></title>
         <id>https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces</id>
         <link href="https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces"/>
         <updated>2023-12-22T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Brandt had shorted ETH just one week ago.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s</id>
         <link href="https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s"/>
         <updated>2023-12-22T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Inscriptions drove record throughput of roughly 60 TPS over 24 hours on ZkSync Era and Arbitrum]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
+          "author": "Pedro Solimano",
+          "description": "Bitcoiners living in the country are skeptical of the number, however.",
+          "link": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
+          "publishedOn": "2024-01-19T18:01:42.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Users in El Salvador Halved to 12% Last Year: Survey",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b7c53794be87cabd54c35744add4853ef5371e8-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b7c53794be87cabd54c35744add4853ef5371e8-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon",
           "author": "Pedro Solimano",
           "description": "Addressing the billion-dollar distressed credit market, BlockInvest will tokenize non-performing loans through two projects.",
@@ -126,7 +141,7 @@
           "description": "ConsenSys Staking, the entity behind MetaMask Staking, manages over $2 billion in ETH across more than 33,000 validators.",
           "link": "https://thedefiant.io/metamask-introduces-validator-staking-for-ethereum",
           "publishedOn": "2024-01-18T16:13:43.000Z",
-          "wordCount": null,
+          "wordCount": 2169,
           "title": "MetaMask Introduces Validator Staking for Ethereum",
           "imageUrl": null
         },
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "author": "Camila Russo",
-          "description": "Brandt had shorted ETH just one week ago.",
+          "description": "",
           "link": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "publishedOn": "2023-12-22T15:27:58.000Z",
           "wordCount": null,
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s",
           "author": "Samuel Haig",
-          "description": "",
+          "description": "Inscriptions drove record throughput of roughly 60 TPS over 24 hours on ZkSync Era and Arbitrum",
           "link": "https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s",
           "publishedOn": "2023-12-22T08:10:00.000Z",
           "wordCount": null,
