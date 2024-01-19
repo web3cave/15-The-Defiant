@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T19:04:01.771Z</id>
+    <id>urn:2024-01-19T20:07:35.273Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T19:04:01.771Z</updated>
+    <updated>2024-01-19T20:07:35.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frax Completes V3 Rollout With Launch Of Bonds]]></title>
+        <id>https://thedefiant.io/frax-completes-v3-rollout-with-launch-of-bonds</id>
+        <link href="https://thedefiant.io/frax-completes-v3-rollout-with-launch-of-bonds"/>
+        <updated>2024-01-19T19:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Sold at a discount, FXB tokens can be trustlessly redeemed for FRAX at par upon maturity.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Users in El Salvador Halved to 12% Last Year: Survey]]></title>
         <id>https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/sec-fined-barnbridge-dao-founders-for-offering-unregistered-securities</id>
         <link href="https://thedefiant.io/sec-fined-barnbridge-dao-founders-for-offering-unregistered-securities"/>
         <updated>2023-12-22T16:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Ward and Troy Murray will pay more than $1.7M, and the DAO will stop offering its derivative products.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces</id>
         <link href="https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces"/>
         <updated>2023-12-22T15:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Brandt had shorted ETH just one week ago.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -894,16 +904,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[Voyage participants could earn soulbound 'XP' tokens for interacting with the network]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Unveils ‘Restaked Rollups’ In Collaboration With AltLayer]]></title>
-        <id>https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer</id>
-        <link href="https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer"/>
-        <updated>2023-12-21T08:04:50.000Z</updated>
-        <summary type="html"><![CDATA[New tooling will enable developers to quickly spin up app-specific networks without compromising on decentralization.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>

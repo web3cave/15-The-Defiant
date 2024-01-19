@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frax-completes-v3-rollout-with-launch-of-bonds",
+          "author": "Pedro Solimano",
+          "description": "Sold at a discount, FXB tokens can be trustlessly redeemed for FRAX at par upon maturity.",
+          "link": "https://thedefiant.io/frax-completes-v3-rollout-with-launch-of-bonds",
+          "publishedOn": "2024-01-19T19:55:17.000Z",
+          "wordCount": null,
+          "title": "Frax Completes V3 Rollout With Launch Of Bonds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/435c1ff068ee3bcb6a4cb9b8b733e022657c6159-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/435c1ff068ee3bcb6a4cb9b8b733e022657c6159-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
           "author": "Pedro Solimano",
           "description": "Bitcoiners living in the country are skeptical of the number, however.",
@@ -141,7 +156,7 @@
           "description": "ConsenSys Staking, the entity behind MetaMask Staking, manages over $2 billion in ETH across more than 33,000 validators.",
           "link": "https://thedefiant.io/metamask-introduces-validator-staking-for-ethereum",
           "publishedOn": "2024-01-18T16:13:43.000Z",
-          "wordCount": 2169,
+          "wordCount": null,
           "title": "MetaMask Introduces Validator Staking for Ethereum",
           "imageUrl": null
         },
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/sec-fined-barnbridge-dao-founders-for-offering-unregistered-securities",
           "author": "Pedro Solimano",
-          "description": "Tyler Ward and Troy Murray will pay more than $1.7M, and the DAO will stop offering its derivative products.",
+          "description": "",
           "link": "https://thedefiant.io/sec-fined-barnbridge-dao-founders-for-offering-unregistered-securities",
           "publishedOn": "2023-12-22T16:50:48.000Z",
           "wordCount": null,
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "author": "Camila Russo",
-          "description": "",
+          "description": "Brandt had shorted ETH just one week ago.",
           "link": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "publishedOn": "2023-12-22T15:27:58.000Z",
           "wordCount": null,
@@ -1324,21 +1339,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f4eed7985e73d03246217efc55622adc25d37daa-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer",
-          "author": "Owen Fernau",
-          "description": "New tooling will enable developers to quickly spin up app-specific networks without compromising on decentralization.",
-          "link": "https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer",
-          "publishedOn": "2023-12-21T08:04:50.000Z",
-          "wordCount": null,
-          "title": "EigenLayer Unveils ‘Restaked Rollups’ In Collaboration With AltLayer",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b5fabb9d1ec7357235522c469b478e522855d96-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4b5fabb9d1ec7357235522c469b478e522855d96-1792x1024.png"
         }
       ]
     }
