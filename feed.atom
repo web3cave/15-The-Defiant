@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T17:05:11.483Z</id>
+    <id>urn:2024-01-19T18:09:00.625Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T17:05:11.483Z</updated>
+    <updated>2024-01-19T18:09:00.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Italian Startup To Tokenize Distressed Loans On Polygon]]></title>
+        <id>https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon</id>
+        <link href="https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon"/>
+        <updated>2024-01-19T17:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Addressing the billion-dollar distressed credit market, BlockInvest will tokenize non-performing loans through two projects.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Launches Program Supporting Custom Chain Development]]></title>
         <id>https://thedefiant.io/arbitrum-launches-program-supporting-custom-chain-development</id>
@@ -832,7 +842,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s</id>
         <link href="https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s"/>
         <updated>2023-12-22T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Inscriptions drove record throughput of roughly 60 TPS over 24 hours on ZkSync Era and Arbitrum]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -842,6 +851,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/ethereum-developers-target-january-for-testnet-launch-of-major-dencun-upgrade</id>
         <link href="https://thedefiant.io/ethereum-developers-target-january-for-testnet-launch-of-major-dencun-upgrade"/>
         <updated>2023-12-21T20:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's Cancun-Deneb (DenCun) upgrade is expected to improve scalability and lower costs for rollups.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
