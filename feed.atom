@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-23T16:08:42.181Z</id>
+    <id>urn:2024-01-23T17:05:19.114Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-23T16:08:42.181Z</updated>
+    <updated>2024-01-23T17:05:19.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UMA and Flashbots Launch Oval to Monetize Oracle Extractable Value]]></title>
+        <id>https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value</id>
+        <link href="https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value"/>
+        <updated>2024-01-23T16:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Oval's mechanism recaptures up to 90% of lost revenue for lending protocols, contributing to the sustainability of decentralized finance.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Software Client Centralization Sparks Concern]]></title>
         <id>https://thedefiant.io/ethereum-software-client-centralization-sparks-concern</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/vitalik-buterin-wants-to-modify-ethereum-s-proof-of-stake-model</id>
         <link href="https://thedefiant.io/vitalik-buterin-wants-to-modify-ethereum-s-proof-of-stake-model"/>
         <updated>2023-12-27T22:36:44.000Z</updated>
-        <summary type="html"><![CDATA[In a new blog post, Buterin offers three approaches to simplify the network’s high validator load.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/defi-wrap-for-2023-time-for-bears-to-go-into-hibernation</id>
         <link href="https://thedefiant.io/defi-wrap-for-2023-time-for-bears-to-go-into-hibernation"/>
         <updated>2023-12-27T18:21:05.000Z</updated>
+        <summary type="html"><![CDATA[DeFi TVL and number of protocols at scale grew this year, signaling the ecosystem's increased maturity.]]></summary>
         <author>
             <name>Chris Bradbury</name>
         </author>
