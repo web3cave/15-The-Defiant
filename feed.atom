@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T21:05:09.169Z</id>
+    <id>urn:2024-01-24T22:05:53.958Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-24T21:05:09.169Z</updated>
+    <updated>2024-01-24T22:05:53.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Synthetix Launches Perpetuals On Base]]></title>
+        <id>https://thedefiant.io/synthetix-launches-perpetuals-on-base</id>
+        <link href="https://thedefiant.io/synthetix-launches-perpetuals-on-base"/>
+        <updated>2024-01-24T21:42:40.000Z</updated>
+        <summary type="html"><![CDATA[The DAO is billing the release of Synthetix Perps V3 as the “first major perpetuals protocol” on Coinbase’s Layer 2 network.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon-based Volmex Finance Launches Points Program]]></title>
         <id>https://thedefiant.io/polygon-based-volmex-finance-launches-points-program</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays</id>
         <link href="https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays"/>
         <updated>2024-01-03T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[ETH’s supply has increased by 3,051 coins since tagging a post-merge low on Dec. 30]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic</id>
         <link href="https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic"/>
         <updated>2024-01-03T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Solana-based USDC now ranks as the single most transacted stablecoin with $103B]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
