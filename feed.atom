@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-25T15:07:20.013Z</id>
+    <id>urn:2024-01-25T16:08:41.388Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-25T15:07:20.013Z</updated>
+    <updated>2024-01-25T16:08:41.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elastos Launches Marketplace For ‘Smart Inscriptions’ On Bitcoin]]></title>
+        <id>https://thedefiant.io/elastos-launches-marketplace-for-smart-inscriptions-on-bitcoin</id>
+        <link href="https://thedefiant.io/elastos-launches-marketplace-for-smart-inscriptions-on-bitcoin"/>
+        <updated>2024-01-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dubbed eScriptions, the marketplace mints inscriptions that enable Layer 2 smart contract functionality on Bitcoin.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electric Capital’s Shen Says More Committed Crypto Developers Are Sticking Around]]></title>
         <id>https://thedefiant.io/electric-capital-s-shen-says-more-committed-crypto-developers-are-sticking-around</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/flash-crash-usd100b-wiped-from-crypto-market-cap-in-three-hours</id>
         <link href="https://thedefiant.io/flash-crash-usd100b-wiped-from-crypto-market-cap-in-three-hours"/>
         <updated>2024-01-03T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[$500M worth of crypto trades were liquidations in a single hour]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/defi-market-cap-tags-highest-level-since-terra-collapse</id>
         <link href="https://thedefiant.io/defi-market-cap-tags-highest-level-since-terra-collapse"/>
         <updated>2024-01-03T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[DeFi’s combined market cap is at is up 88% since mid-October]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
