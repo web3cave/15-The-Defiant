@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T04:08:32.935Z</id>
+    <id>urn:2024-01-26T05:05:36.120Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-26T04:08:32.935Z</updated>
+    <updated>2024-01-26T05:05:36.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Proposed IRS Broker Reporting Rules Would Effectively Kill DeFi]]></title>
+        <id>https://thedefiant.io/the-proposed-irs-broker-reporting-rules-would-effectively-kill-defi</id>
+        <link href="https://thedefiant.io/the-proposed-irs-broker-reporting-rules-would-effectively-kill-defi"/>
+        <updated>2024-01-26T04:11:11.000Z</updated>
+        <summary type="html"><![CDATA[The IRS's latest crusade into the realm of digital assets threatens to redefine the landscape of decentralized finance (DeFi) with its proposed broker reporting rules.]]></summary>
+        <author>
+            <name>Patrick White</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana-based ‘Rubber’ NFT Collection Soars 50x]]></title>
         <id>https://thedefiant.io/solana-based-rubber-nft-collection-soars-50x</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/analysts-tip-spot-bitcoin-etf-approvals-still-likely-for-next-week</id>
         <link href="https://thedefiant.io/analysts-tip-spot-bitcoin-etf-approvals-still-likely-for-next-week"/>
         <updated>2024-01-04T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC hosted meetings with exchanges that would list spot Bitcoin ETF shares on Wednesday]]></summary>
+        <summary type="html"><![CDATA[Popular finance analysts are tipping that the SEC will approve the first spot Bitcoin ETFs next week despite yesterday's BTC flash crash.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/inscriptions-activity-dries-up-on-evm-chains</id>
         <link href="https://thedefiant.io/inscriptions-activity-dries-up-on-evm-chains"/>
         <updated>2024-01-04T13:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The recent surge in inscriptions activity across EVM chains appears to be over, particularly within Ethereum's Layer 2 ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Inscriptions now represent a small fraction of transactions on leading Ethereum L2s]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[In a new blog post, Buterin offers three approaches to simplify the network’s high validator load.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Wrap for 2023:  Time For Bears to Go Into Hibernation]]></title>
-        <id>https://thedefiant.io/defi-wrap-for-2023-time-for-bears-to-go-into-hibernation</id>
-        <link href="https://thedefiant.io/defi-wrap-for-2023-time-for-bears-to-go-into-hibernation"/>
-        <updated>2023-12-27T18:21:05.000Z</updated>
-        <summary type="html"><![CDATA[DeFi TVL and number of protocols at scale grew this year, signaling the ecosystem's increased maturity.]]></summary>
-        <author>
-            <name>Chris Bradbury</name>
         </author>
     </entry>
 </feed>
