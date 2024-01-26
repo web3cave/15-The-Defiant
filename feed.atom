@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T21:03:21.611Z</id>
+    <id>urn:2024-01-26T22:03:27.735Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-26T21:03:21.611Z</updated>
+    <updated>2024-01-26T22:03:27.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TUSD Slides to 3-Year Low as Speculation Mounts Justin Sun is Using it to Cash Out]]></title>
+        <id>https://thedefiant.io/tusd-slides-to-3-year-low-as-speculation-mounts-justin-sun-is-using-it-to-cash-out</id>
+        <link href="https://thedefiant.io/tusd-slides-to-3-year-low-as-speculation-mounts-justin-sun-is-using-it-to-cash-out"/>
+        <updated>2024-01-26T20:53:12.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin continues to stave off depegging as its market cap sheds millions consistently.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transaction Fees on Ethereum Layer 2s Surged 400% Last Year: Report]]></title>
         <id>https://thedefiant.io/transaction-fees-on-ethereum-layer-2s-surged-400-last-year-report</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/ethereum-s-exit-queue-jumps-to-record-high-as-celsius-unstakes</id>
         <link href="https://thedefiant.io/ethereum-s-exit-queue-jumps-to-record-high-as-celsius-unstakes"/>
         <updated>2024-01-05T12:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Celsius said it is consolidating assets before distributing funds to creditors]]></summary>
+        <summary type="html"><![CDATA[The queue for stakers seeking to exit Ethereum has rocketed to a record high as Celsius moves to unstake its sizable Ether holdings.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/ethereum-developers-confirm-dencun-testnet-dates-look-to-following-pectra-upgrade</id>
         <link href="https://thedefiant.io/ethereum-developers-confirm-dencun-testnet-dates-look-to-following-pectra-upgrade"/>
         <updated>2024-01-05T11:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's developers have confirmed the testnet deployment dates for its fast approaching Dencun upgrade.]]></summary>
+        <summary type="html"><![CDATA[Pectra is set to bolster decentralization by introducing statelessness through Verkle Trees]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Chains leveraging Optimism’s technology now account for 39.5% of Layer 2 TVL]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Dominance Recedes Despite Blast TVL Climbing To New Highs]]></title>
-        <id>https://thedefiant.io/lido-dominance-recedes-despite-blast-tvl-climbing-to-new-highs</id>
-        <link href="https://thedefiant.io/lido-dominance-recedes-despite-blast-tvl-climbing-to-new-highs"/>
-        <updated>2023-12-28T14:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido's staked Ether dominance has trended down since early December.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
