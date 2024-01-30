@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T10:07:23.328Z</id>
+    <id>urn:2024-01-30T11:05:32.075Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-30T10:07:23.328Z</updated>
+    <updated>2024-01-30T11:05:32.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Swell Launches Liquid Restaking Token As LRTs Boom]]></title>
+        <id>https://thedefiant.io/swell-launches-liquid-restaking-token-as-lrts-boom</id>
+        <link href="https://thedefiant.io/swell-launches-liquid-restaking-token-as-lrts-boom"/>
+        <updated>2024-01-30T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Liquid restaking protocols surpass $900M or 45% of EigenLayer’s TVL.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Immutable zkEVM Launches Early Access Phase On Mainnet]]></title>
         <id>https://thedefiant.io/immutable-zkevm-launches-early-access-phase-on-mainnet</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/fox-launches-protocol-for-content-verification-on-polygon</id>
         <link href="https://thedefiant.io/fox-launches-protocol-for-content-verification-on-polygon"/>
         <updated>2024-01-09T20:10:29.000Z</updated>
-        <summary type="html"><![CDATA[89,000 pieces of content have been registered so far.]]></summary>
+        <summary type="html"><![CDATA[Fox Corp. today announced the beta release of an open-source protocol built on the Polygon proof-of-stake network, to help media companies prove the provenance of content.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/ethbtc-ratio-slumps-to-lowest-since-2021-on-spot-bitcoin-etf-expectation</id>
         <link href="https://thedefiant.io/ethbtc-ratio-slumps-to-lowest-since-2021-on-spot-bitcoin-etf-expectation"/>
         <updated>2024-01-09T17:10:32.000Z</updated>
-        <summary type="html"><![CDATA[The ETHBTC ratio is slumping to the lowest in over two years as Ethereum's native currency continues to underperform Bitcoin on expectations the spot BTC ETF is about to be approved.]]></summary>
+        <summary type="html"><![CDATA[The relative-strength index on the ratio dipped to oversold today.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[ETH’s supply has increased by 3,051 coins since tagging a post-merge low on Dec. 30]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Flips Ethereum By Stablecoin Volume and Google Search Traffic]]></title>
-        <id>https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic</id>
-        <link href="https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic"/>
-        <updated>2024-01-03T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Solana-based USDC now ranks as the single most transacted stablecoin with $103B]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
