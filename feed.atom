@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T22:06:34.405Z</id>
+    <id>urn:2024-02-01T23:05:34.223Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-01T22:06:34.405Z</updated>
+    <updated>2024-02-01T23:05:34.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,6 +83,16 @@
         <summary type="html"><![CDATA[DeFiance Capital is arguing its assets and operations were separate from 3AC so it shouldn’t be included in its liquidation process.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating asset-backed stablecoins with the Reserve protocol]]></title>
+        <id>https://thedefiant.io/creating-asset-backed-stablecoins-with-the-reserve-protocol</id>
+        <link href="https://thedefiant.io/creating-asset-backed-stablecoins-with-the-reserve-protocol"/>
+        <updated>2024-01-31T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Mattimore is the CEO of ABC Labs, the company behind the development and promotion of the Reserve protocol, a permissionless platform that empowers anyone to launch and govern overcollateralized currencies backed by diverse baskets of assets.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds</id>
         <link href="https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds"/>
         <updated>2024-01-15T16:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Last year, the company bridged more than $197B between traditional banking and blockchain systems.]]></summary>
+        <summary type="html"><![CDATA[Last year, USDC issuer Circle bridged more than $197B between traditional banking and blockchain systems.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/btc-underperforms-eth-and-altcoins-as-investors-sell-bitcoin-after-etf-approval</id>
         <link href="https://thedefiant.io/btc-underperforms-eth-and-altcoins-as-investors-sell-bitcoin-after-etf-approval"/>
         <updated>2024-01-15T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[BTC tumbled more than 12% from its Jan. 11 high, ranking as the second-worst performing top 100 cryptocurrency for the past week despite spot Bitcoin ETFs going live.]]></summary>
+        <summary type="html"><![CDATA[BTC ranks 99th among top 100 crypto assets for seven-day price performance]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BTC jumped before dropping seconds after the SEC tweeted the sport Bitcoin ETF had been approved.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gensler Said SEC's Twitter is "Compromised" After Account Announced Bitcoin ETF Approval]]></title>
-        <id>https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval</id>
-        <link href="https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval"/>
-        <updated>2024-01-09T21:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Just minutes earlier, the SEC had posted on X that the ETF had been approved.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
