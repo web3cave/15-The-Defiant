@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T19:05:03.849Z</id>
+    <id>urn:2024-02-02T20:05:32.999Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-02T19:05:03.849Z</updated>
+    <updated>2024-02-02T20:05:32.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Stamps Seek To Improve On Ordinals]]></title>
+        <id>https://thedefiant.io/bitcoin-stamps-seek-to-improve-on-ordinals</id>
+        <link href="https://thedefiant.io/bitcoin-stamps-seek-to-improve-on-ordinals"/>
+        <updated>2024-02-02T19:35:45.000Z</updated>
+        <summary type="html"><![CDATA[While being four times more expensive to mint than Ordinals, SRC-20 tokens live on Bitcoin’s UTXO set, making them unprunable.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Universal Liquidity Protocol Pike Finance Goes Live]]></title>
         <id>https://thedefiant.io/universal-liquidity-protocol-pike-finance-goes-live</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/ethereum-throughput-tags-record-high-as-burn-rate-drives-down-eth-supply</id>
         <link href="https://thedefiant.io/ethereum-throughput-tags-record-high-as-burn-rate-drives-down-eth-supply"/>
         <updated>2024-01-16T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum processed a record high of nearly 2M transactions on Jan. 14]]></summary>
+        <summary type="html"><![CDATA[Ethereum's daily throughput tagged a record high of nearly 2M transactions on Jan. 14. Ether's supply is also at new post-merge lows amid a high network burn-rate.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/metis-launches-decentralized-sequencer-on-testnet-following-meteoric-growth</id>
         <link href="https://thedefiant.io/metis-launches-decentralized-sequencer-on-testnet-following-meteoric-growth"/>
         <updated>2024-01-16T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Metis has launched a decentralized sequencer on testnet and is offering "points" as rewards to users for helping stress-test the feature.]]></summary>
+        <summary type="html"><![CDATA[Metis’s TVL is up 775% in four weeks, while its token gained 384% over the same period]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Newly approved ETFs account for over $2.2B while GBTC and BITO see over $4B of trades.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal’s Stablecoin Grows by Over 70% in 30 Days]]></title>
-        <id>https://thedefiant.io/paypal-s-stablecoin-grows-by-over-70-in-30-days</id>
-        <link href="https://thedefiant.io/paypal-s-stablecoin-grows-by-over-70-in-30-days"/>
-        <updated>2024-01-11T15:56:51.000Z</updated>
-        <summary type="html"><![CDATA[PYUSD has two pools in Curve and a proposal is underway to add it as collateral in Aave.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
