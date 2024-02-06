@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-06T12:10:40.445Z</id>
+    <id>urn:2024-02-06T13:05:40.489Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-06T12:10:40.445Z</updated>
+    <updated>2024-02-06T13:05:40.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer’s TVL Grows $1.5B In One Day After Raising LST Pool Limits]]></title>
+        <id>https://thedefiant.io/eigenlayer-s-tvl-grows-usd1-5b-in-one-day-after-raising-lst-pool-limits</id>
+        <link href="https://thedefiant.io/eigenlayer-s-tvl-grows-usd1-5b-in-one-day-after-raising-lst-pool-limits"/>
+        <updated>2024-02-06T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayer’s LST pools will remain uncapped until Feb. 9.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DePIN: Crypto's Biggest Sector of 2024]]></title>
         <id>https://thedefiant.io/depin-crypto-s-biggest-sector-of-2024</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork</id>
         <link href="https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork"/>
         <updated>2024-01-18T06:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The Prysm Ethereum client initially suffered a bug triggering a post-fork network split]]></summary>
+        <summary type="html"><![CDATA[Ethereum's upcoming Dencun upgrade is now live on Goerli. However, an Ethereum client bug caused a network split immediately after the fork.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The digital assets industry has many similarities to TradFi, so it is possible to apply many of the same time-tested TradFi principles to regulate the digital assets space.]]></summary>
         <author>
             <name>HB Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Releases USDC ‘State of Economy’ Report As Market Cap Rebounds]]></title>
-        <id>https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds</id>
-        <link href="https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds"/>
-        <updated>2024-01-15T16:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Last year, the company bridged more than $197B between traditional banking and blockchain systems.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
