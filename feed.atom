@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-06T21:02:21.254Z</id>
+    <id>urn:2024-02-06T22:04:25.510Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-06T21:02:21.254Z</updated>
+    <updated>2024-02-06T22:04:25.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[U.S. users will be able to fund their non-custodial wallets through Robinhood Connect.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neon EVM Integrates With DeBridge To Support New Chains]]></title>
-        <id>https://thedefiant.io/neon-evm-integrates-with-debridge-to-support-new-chains</id>
-        <link href="https://thedefiant.io/neon-evm-integrates-with-debridge-to-support-new-chains"/>
-        <updated>2024-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can now bridge between Solana and multiple EVM networks via Neon.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +830,7 @@
         <id>https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down</id>
         <link href="https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down"/>
         <updated>2024-01-18T19:42:44.000Z</updated>
-        <summary type="html"><![CDATA[The Public Goods Network (PGN), an Ethereum Layer 2 blockchain backed by Gitcoin, is set to cease operations by June.]]></summary>
+        <summary type="html"><![CDATA[PGN wanted to direct transaction fees towards supporting public goods.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -1003,6 +993,16 @@
         <summary type="html"><![CDATA[Weekly trading volume averaged just $2B in 2023.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Throughput Tags Record High As Burn Rate Drives Down ETH Supply]]></title>
+        <id>https://thedefiant.io/ethereum-throughput-tags-record-high-as-burn-rate-drives-down-eth-supply</id>
+        <link href="https://thedefiant.io/ethereum-throughput-tags-record-high-as-burn-rate-drives-down-eth-supply"/>
+        <updated>2024-01-16T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum processed a record high of nearly 2M transactions on Jan. 14]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
