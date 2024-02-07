@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T14:04:48.923Z</id>
+    <id>urn:2024-02-07T15:05:07.615Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-07T14:04:48.923Z</updated>
+    <updated>2024-02-07T15:05:07.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,6 +73,16 @@
         <summary type="html"><![CDATA[U.S. users will be able to fund their non-custodial wallets through Robinhood Connect.]]></summary>
         <author>
             <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neon EVM Partners With DeBridge To Support New Chains]]></title>
+        <id>https://thedefiant.io/neon-evm-partners-with-debridge-to-support-new-chains</id>
+        <link href="https://thedefiant.io/neon-evm-partners-with-debridge-to-support-new-chains"/>
+        <updated>2024-02-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Users can now bridge between Solana and multiple EVM networks via Neon.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day</id>
         <link href="https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day"/>
         <updated>2024-01-18T21:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Ondo Finance, the third-largest real-world asset project with nearly $200M of tokenized securities, issued new tokens today.]]></summary>
+        <summary type="html"><![CDATA[Ondo unlocked 14.3% of its native tokens.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Grayscale Ethereum Trust has seen its discount to NAV narrow to 15% from 47% a year ago.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miners Offloaded $5B of Bitcoin Into ETF Launch]]></title>
-        <id>https://thedefiant.io/miners-offloaded-usd5b-of-bitcoin-into-etf-launch</id>
-        <link href="https://thedefiant.io/miners-offloaded-usd5b-of-bitcoin-into-etf-launch"/>
-        <updated>2024-01-16T20:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin miners sold more than 110,000 BTC last week.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
