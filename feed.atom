@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T03:06:31.385Z</id>
+    <id>urn:2024-02-08T04:07:26.482Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-08T03:06:31.385Z</updated>
+    <updated>2024-02-08T04:07:26.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Dencun Upgrade Completes Testnet Trials, Mainnet Comes Next]]></title>
+        <id>https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next</id>
+        <link href="https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next"/>
+        <updated>2024-02-08T03:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's developers expect to schedule Dencun’s mainnet launch date during the Feb. 8 All Core Devs call.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Layer 3 Blockchains?]]></title>
         <id>https://thedefiant.io/what-are-layer-3-blockchains</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/developers-race-to-bring-evm-functionality-to-bitcoin</id>
         <link href="https://thedefiant.io/developers-race-to-bring-evm-functionality-to-bitcoin"/>
         <updated>2024-01-22T10:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Several teams are working to deliver EVM-compatible Bitcoin Layer 2 networks]]></summary>
+        <summary type="html"><![CDATA[The race is one to deliver Ethereum smart contracts on Bitcoin, with an oncoming cohort of project planning on launching EVM-compatibility on Layer 2.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dymension Airdrop Claim To End In Four Days]]></title>
-        <id>https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days</id>
-        <link href="https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days"/>
-        <updated>2024-01-17T19:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Eligible users of Ethereum Layer 2s, Solana and Cosmos have until Jan. 21 to claim their DYM allocations.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
