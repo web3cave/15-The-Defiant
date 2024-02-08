@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T07:07:07.613Z</id>
+    <id>urn:2024-02-08T08:08:10.341Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-08T07:07:07.613Z</updated>
+    <updated>2024-02-08T08:08:10.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo To Bring RWA-Backed Stablecoins Onto Sui]]></title>
+        <id>https://thedefiant.io/ondo-to-bring-rwa-backed-stablecoins-onto-sui</id>
+        <link href="https://thedefiant.io/ondo-to-bring-rwa-backed-stablecoins-onto-sui"/>
+        <updated>2024-02-08T07:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The partnership comes after Sui’s TVL tripled since mid-December.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spot Bitcoin ETF Flows Slow To Record Low]]></title>
         <id>https://thedefiant.io/spot-bitcoin-etf-flows-slow-to-record-low</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/deep-dive-into-celestia-tia-with-ceo-mustafa-al-bassam</id>
         <link href="https://thedefiant.io/deep-dive-into-celestia-tia-with-ceo-mustafa-al-bassam"/>
         <updated>2024-01-22T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we're joined by Mustafa Al-Bassam, CEO and Co-Founder of Celestia Labs. 15 years after Satoshi, we finally have what a blockchain actually is Celestia provides the ability to publish data and make sure that data is available. Celestia had what many are calling one of the best launches of 2023, and they are the first Data Availability Layer live today. In our conversation we get into how Mustafa built Celestia, other Data Availability Layers in the space, how Celestia can be thought of as a bulletin board for computers with some cryptographic and economic assurances - computers posting info so everyone can see it. It's so simple. It's an obvious fundamental building block. Yet they were the first to do it. Prior to Celestia, Mustafa was generally known for his expertise in ethical hacking. He hacked the US government at the age of 16 and was sentenced for it. We get into this and so much more, but first to ground the conversation, Mustafa shares what he is focused on at Celestia today.]]></summary>
+        <summary type="html"><![CDATA[Celestia Labs CEO and Co-Founder Mustafa Al-Bassam joins us to discuss Celestia's role as the first Data Availability Layer and its groundbreaking launch. Mustafa shares his journey from ethical hacking to blockchain innovation and touches on Celestia's integration within the Cosmos ecosystem, challenges faced, and its impact on future blockchain technology.]]></summary>
         <author>
             <name>Tegan Kline</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Prysm Ethereum client initially suffered a bug triggering a post-fork network split]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Advocates See Coinbase’s SEC Hearing as a “Step Forward”]]></title>
-        <id>https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward</id>
-        <link href="https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward"/>
-        <updated>2024-01-18T05:24:32.000Z</updated>
-        <summary type="html"><![CDATA[The outcome of the landmark case will have broad implications for the crypto industry.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
