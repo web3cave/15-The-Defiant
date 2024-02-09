@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T18:07:19.564Z</id>
+    <id>urn:2024-02-09T19:02:41.762Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-09T18:07:19.564Z</updated>
+    <updated>2024-02-09T19:02:41.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Citrea Brings ZK Rollups To Bitcoin]]></title>
+        <id>https://thedefiant.io/citrea-brings-zk-rollups-to-bitcoin</id>
+        <link href="https://thedefiant.io/citrea-brings-zk-rollups-to-bitcoin"/>
+        <updated>2024-02-09T18:48:23.000Z</updated>
+        <summary type="html"><![CDATA[“Now we can scale Bitcoin,” says cofounder Orkun Kilic. Citrea aims to address security budget concerns as well as the lack of DeFi on the world’s most valuable blockchain.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dencun Scheduled For March 13 As Ethereum Aims To Onboard More Core Contributors]]></title>
         <id>https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value</id>
         <link href="https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value"/>
         <updated>2024-01-23T16:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Oval's mechanism recaptures up to 90% of lost revenue for lending protocols, contributing to the sustainability of decentralized finance.]]></summary>
+        <summary type="html"><![CDATA[UMA, in collaboration with Flashbots, today announced the launch of Oval, a mechanism that allows lending protocols to capture and monetize Oracle Extractable Value (OEV).]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/ethereum-software-client-centralization-sparks-concern</id>
         <link href="https://thedefiant.io/ethereum-software-client-centralization-sparks-concern"/>
         <updated>2024-01-23T15:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum nodes are mostly concentrated in one execution client, triggering worries that a large portion of ETH can be wiped out if there’s an exploit.]]></summary>
+        <summary type="html"><![CDATA[Alarm bells are ringing as execution client centralization mounts with 84% of nodes running Go Ethereum (Geth).]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ondo unlocked 14.3% of its native tokens.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dYdX Becomes Top DEX By Daily Volume]]></title>
-        <id>https://thedefiant.io/dydx-becomes-top-dex-by-daily-volume</id>
-        <link href="https://thedefiant.io/dydx-becomes-top-dex-by-daily-volume"/>
-        <updated>2024-01-18T19:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Leading perpetuals exchange processed over $800M of trades in the past 24 hours across its V3 and V4 iterations.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

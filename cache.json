@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/citrea-brings-zk-rollups-to-bitcoin",
+          "author": "Pedro Solimano",
+          "description": "“Now we can scale Bitcoin,” says cofounder Orkun Kilic. Citrea aims to address security budget concerns as well as the lack of DeFi on the world’s most valuable blockchain.",
+          "link": "https://thedefiant.io/citrea-brings-zk-rollups-to-bitcoin",
+          "publishedOn": "2024-02-09T18:48:23.000Z",
+          "wordCount": 1783,
+          "title": "Citrea Brings ZK Rollups To Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4a17076ac8f2e93ab92f25367368e246aee37a8-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a4a17076ac8f2e93ab92f25367368e246aee37a8-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors",
           "author": "Samuel Haig",
           "description": "Dencun will reduce Layer 2 transaction fees by introducing proto-danksharding.",
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value",
           "author": "Camila Russo",
-          "description": "Oval's mechanism recaptures up to 90% of lost revenue for lending protocols, contributing to the sustainability of decentralized finance.",
+          "description": "UMA, in collaboration with Flashbots, today announced the launch of Oval, a mechanism that allows lending protocols to capture and monetize Oracle Extractable Value (OEV).",
           "link": "https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value",
           "publishedOn": "2024-01-23T16:22:25.000Z",
           "wordCount": 2158,
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/ethereum-software-client-centralization-sparks-concern",
           "author": "Pedro Solimano",
-          "description": "Ethereum nodes are mostly concentrated in one execution client, triggering worries that a large portion of ETH can be wiped out if there’s an exploit.",
+          "description": "Alarm bells are ringing as execution client centralization mounts with 84% of nodes running Go Ethereum (Geth).",
           "link": "https://thedefiant.io/ethereum-software-client-centralization-sparks-concern",
           "publishedOn": "2024-01-23T15:22:46.000Z",
           "wordCount": 1996,
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5d10bfd61ee04c7b3eb15203fa27dd76ce778c9b-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/dydx-becomes-top-dex-by-daily-volume",
-          "author": "yyctrader",
-          "description": "Leading perpetuals exchange processed over $800M of trades in the past 24 hours across its V3 and V4 iterations.",
-          "link": "https://thedefiant.io/dydx-becomes-top-dex-by-daily-volume",
-          "publishedOn": "2024-01-18T19:48:19.000Z",
-          "wordCount": 1618,
-          "title": "dYdX Becomes Top DEX By Daily Volume",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/de7cfc2055e0cf5011365e2c75348b553d8c2815-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/de7cfc2055e0cf5011365e2c75348b553d8c2815-1792x1024.png"
         }
       ]
     }
