@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors",
+          "author": "Samuel Haig",
+          "description": "Dencun will reduce Layer 2 transaction fees by introducing proto-danksharding.",
+          "link": "https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors",
+          "publishedOn": "2024-02-09T11:57:00.000Z",
+          "wordCount": 1994,
+          "title": "Dencun Scheduled For March 13 As Ethereum Aims To Onboard More Core Contributors",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/52ab2419a4611c1668edeabf81ad9970856326d3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/52ab2419a4611c1668edeabf81ad9970856326d3-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/eigenlayer-amasses-more-than-10-of-circulating-lsts",
           "author": "Samuel Haig",
           "description": "EigenLayer’s TVL tripled since temporarily removing caps on its LST pools on Feb. 5.",
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/ethereum-software-client-centralization-sparks-concern",
           "author": "Pedro Solimano",
-          "description": "Alarm bells are ringing as execution client centralization mounts with 84% of nodes running Go Ethereum (Geth).",
+          "description": "Ethereum nodes are mostly concentrated in one execution client, triggering worries that a large portion of ETH can be wiped out if there’s an exploit.",
           "link": "https://thedefiant.io/ethereum-software-client-centralization-sparks-concern",
           "publishedOn": "2024-01-23T15:22:46.000Z",
           "wordCount": 1996,
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/crypto-assets-slide-to-new-2024-lows",
           "author": "Samuel Haig",
-          "description": "Crypto assets are tumbling, with the combined digital asset capitalization down 4.5% in 24 hours. However, Bitcoin and DeFi assets are holding up.",
+          "description": "The combined digital asset capitalization is down $300B in two weeks",
           "link": "https://thedefiant.io/crypto-assets-slide-to-new-2024-lows",
           "publishedOn": "2024-01-23T15:15:00.000Z",
           "wordCount": 1823,
@@ -1474,16 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/de7cfc2055e0cf5011365e2c75348b553d8c2815-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down",
-          "author": "Camila Russo",
-          "description": "PGN wanted to direct transaction fees towards supporting public goods.",
-          "link": "https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down",
-          "publishedOn": "2024-01-18T19:42:44.000Z",
-          "wordCount": 1831,
-          "title": "Gitcoin-Backed Layer 2 Chain PGN Says It's Shutting Down",
-          "imageUrl": null
         }
       ]
     }

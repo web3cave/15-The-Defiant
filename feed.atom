@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T12:10:36.264Z</id>
+    <id>urn:2024-02-09T13:04:43.858Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-09T12:10:36.264Z</updated>
+    <updated>2024-02-09T13:04:43.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dencun Scheduled For March 13 As Ethereum Aims To Onboard More Core Contributors]]></title>
+        <id>https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors</id>
+        <link href="https://thedefiant.io/dencun-scheduled-for-march-13-as-ethereum-aims-to-onboard-more-core-contributors"/>
+        <updated>2024-02-09T11:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Dencun will reduce Layer 2 transaction fees by introducing proto-danksharding.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EigenLayer Amasses More Than 10% Of Circulating LSTs]]></title>
         <id>https://thedefiant.io/eigenlayer-amasses-more-than-10-of-circulating-lsts</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/ethereum-software-client-centralization-sparks-concern</id>
         <link href="https://thedefiant.io/ethereum-software-client-centralization-sparks-concern"/>
         <updated>2024-01-23T15:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Alarm bells are ringing as execution client centralization mounts with 84% of nodes running Go Ethereum (Geth).]]></summary>
+        <summary type="html"><![CDATA[Ethereum nodes are mostly concentrated in one execution client, triggering worries that a large portion of ETH can be wiped out if there’s an exploit.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/crypto-assets-slide-to-new-2024-lows</id>
         <link href="https://thedefiant.io/crypto-assets-slide-to-new-2024-lows"/>
         <updated>2024-01-23T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Crypto assets are tumbling, with the combined digital asset capitalization down 4.5% in 24 hours. However, Bitcoin and DeFi assets are holding up.]]></summary>
+        <summary type="html"><![CDATA[The combined digital asset capitalization is down $300B in two weeks]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Leading perpetuals exchange processed over $800M of trades in the past 24 hours across its V3 and V4 iterations.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitcoin-Backed Layer 2 Chain PGN Says It's Shutting Down]]></title>
-        <id>https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down</id>
-        <link href="https://thedefiant.io/gitcoin-backed-layer-2-pgn-says-it-s-shutting-down"/>
-        <updated>2024-01-18T19:42:44.000Z</updated>
-        <summary type="html"><![CDATA[PGN wanted to direct transaction fees towards supporting public goods.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
