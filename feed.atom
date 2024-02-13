@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-13T21:03:56.011Z</id>
+    <id>urn:2024-02-13T22:07:14.481Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-13T21:03:56.011Z</updated>
+    <updated>2024-02-13T22:07:14.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sei Upgrades Devnet With Ethereum Compatibility]]></title>
+        <id>https://thedefiant.io/sei-upgrades-devnet-with-ethereum-compatibility</id>
+        <link href="https://thedefiant.io/sei-upgrades-devnet-with-ethereum-compatibility"/>
+        <updated>2024-02-13T21:08:47.000Z</updated>
+        <summary type="html"><![CDATA[The SEI token has surged 25% in the past week.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Farcaster?]]></title>
         <id>https://thedefiant.io/what-is-farcaster</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Alarm bells are ringing as execution client centralization mounts with 84% of nodes running Go Ethereum (Geth).]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Assets Slide To New 2024 Lows]]></title>
-        <id>https://thedefiant.io/crypto-assets-slide-to-new-2024-lows</id>
-        <link href="https://thedefiant.io/crypto-assets-slide-to-new-2024-lows"/>
-        <updated>2024-01-23T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The combined digital asset capitalization is down $300B in two weeks]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
