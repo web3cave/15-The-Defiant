@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/what-is-farcaster",
+          "author": "Squiffs",
+          "description": "The Web3 social media protocol has seen a spike in users after launching Frames last month.",
+          "link": "https://thedefiant.io/what-is-farcaster",
+          "publishedOn": "2024-02-13T19:48:37.000Z",
+          "wordCount": 2037,
+          "title": "What is Farcaster?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d4ec405f1b21b6f0a9a1b11b1a0edba39148028-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d4ec405f1b21b6f0a9a1b11b1a0edba39148028-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/arbitrum-dex-dolomite-launches-on-polygon-zkevm",
           "author": "Pedro Solimano",
           "description": "The protocol supports ETH, USDC, WETH, and MATIC at launch.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/altlayer-s-alt-tokens-climb-to-usd360m-market-cap-after-launch",
           "author": "Owen Fernau",
-          "description": "AltLayer, a project offering services to allow developers to quickly spin up rollups, has airdropped 300M ALT tokens to over 40,000 claiming addresses so far.",
+          "description": "AltLayer's airdrop is the latest in a wave of tokens in the modular blockchain space.",
           "link": "https://thedefiant.io/altlayer-s-alt-tokens-climb-to-usd360m-market-cap-after-launch",
           "publishedOn": "2024-01-25T20:18:09.000Z",
           "wordCount": 2071,
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3095c329e72a244e0e7cf7758b98514b6682734e-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/asia-s-new-tigers-dethroning-the-west-and-the-east-s-crypto-economic-miracles",
-          "author": "Daniel Dob",
-          "description": "Crypto adoption may usher in a new cohort akin to the ‘Asian Tigers’ of the 70s, where forward-thinking nations who embraced new technology quickly made incredible economic gains relative to the rest of the world.",
-          "link": "https://thedefiant.io/asia-s-new-tigers-dethroning-the-west-and-the-east-s-crypto-economic-miracles",
-          "publishedOn": "2024-01-22T20:36:28.000Z",
-          "wordCount": 3672,
-          "title": "Asia's New Tigers: Dethroning the West and the East’s Crypto-Economic Miracles",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0688c8491cf1d9fba4535d133a16fce1b918e6e-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a0688c8491cf1d9fba4535d133a16fce1b918e6e-1792x1024.png"
         }
       ]
     }

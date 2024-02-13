@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-13T19:02:46.151Z</id>
+    <id>urn:2024-02-13T20:06:29.740Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-13T19:02:46.151Z</updated>
+    <updated>2024-02-13T20:06:29.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Farcaster?]]></title>
+        <id>https://thedefiant.io/what-is-farcaster</id>
+        <link href="https://thedefiant.io/what-is-farcaster"/>
+        <updated>2024-02-13T19:48:37.000Z</updated>
+        <summary type="html"><![CDATA[The Web3 social media protocol has seen a spike in users after launching Frames last month.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum DEX Dolomite Launches On Polygon zkEVM]]></title>
         <id>https://thedefiant.io/arbitrum-dex-dolomite-launches-on-polygon-zkevm</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/altlayer-s-alt-tokens-climb-to-usd360m-market-cap-after-launch</id>
         <link href="https://thedefiant.io/altlayer-s-alt-tokens-climb-to-usd360m-market-cap-after-launch"/>
         <updated>2024-01-25T20:18:09.000Z</updated>
-        <summary type="html"><![CDATA[AltLayer, a project offering services to allow developers to quickly spin up rollups, has airdropped 300M ALT tokens to over 40,000 claiming addresses so far.]]></summary>
+        <summary type="html"><![CDATA[AltLayer's airdrop is the latest in a wave of tokens in the modular blockchain space.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The combined digital asset capitalization is down $300B in two weeks]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asia's New Tigers: Dethroning the West and the East’s Crypto-Economic Miracles]]></title>
-        <id>https://thedefiant.io/asia-s-new-tigers-dethroning-the-west-and-the-east-s-crypto-economic-miracles</id>
-        <link href="https://thedefiant.io/asia-s-new-tigers-dethroning-the-west-and-the-east-s-crypto-economic-miracles"/>
-        <updated>2024-01-22T20:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Crypto adoption may usher in a new cohort akin to the ‘Asian Tigers’ of the 70s, where forward-thinking nations who embraced new technology quickly made incredible economic gains relative to the rest of the world.]]></summary>
-        <author>
-            <name>Daniel Dob</name>
         </author>
     </entry>
 </feed>
