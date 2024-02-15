@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/prisma-introduces-ultra-stablecoin-backed-by-liquid-restaking-tokens",
+          "author": "Owen Fernau",
+          "description": "Prisma Finance introduced a stablecoin backed by Liquid Staking Tokens (LSTs) last year.",
+          "link": "https://thedefiant.io/prisma-introduces-ultra-stablecoin-backed-by-liquid-restaking-tokens",
+          "publishedOn": "2024-02-15T21:59:29.000Z",
+          "wordCount": 1955,
+          "title": "Prisma Introduces ULTRA Stablecoin Backed by Liquid Restaking Tokens",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b3c7e7777e4beb956cc75449d4ba4828079d7a8-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7b3c7e7777e4beb956cc75449d4ba4828079d7a8-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/ether-hits-19-month-high-amid-restaking-boom",
           "author": "yyctrader",
           "description": "Over a quarter of the ETH supply is now staked, with 1.5M ETH ($4.2B) added this year alone.",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/grayscale-etf-outflows-slow-as-btc-price-rises",
           "author": "Samuel Haig",
-          "description": "Grayscale outflows recede 60% as BTC recovers 12% from local low.",
+          "description": "Outflows from Grayscale's ETF are slowing despite the fund shedding $5B since trading began. The slowdown coincides with BTC posting a double-digit recovery since last week.",
           "link": "https://thedefiant.io/grayscale-etf-outflows-slow-as-btc-price-rises",
           "publishedOn": "2024-01-30T12:59:00.000Z",
           "wordCount": 2103,
@@ -1243,7 +1258,7 @@
         {
           "id": "https://thedefiant.io/swell-launches-liquid-restaking-token-as-lrts-boom",
           "author": "Samuel Haig",
-          "description": "Swell is the latest DeFi protocol to join the surging liquid restaking sector, with restaking tokens surging to a $900M TVL.",
+          "description": "Liquid restaking protocols surpass $900M or 45% of EigenLayer’s TVL.",
           "link": "https://thedefiant.io/swell-launches-liquid-restaking-token-as-lrts-boom",
           "publishedOn": "2024-01-30T10:21:00.000Z",
           "wordCount": 2151,
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66ca60ed50df13dbe52a98a2a5242186399bfc24-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/synthetix-launches-perpetuals-on-base",
-          "author": "Owen Fernau",
-          "description": "The DAO is billing the release of Synthetix Perps V3 as the “first major perpetuals protocol” on Coinbase’s Layer 2 network.",
-          "link": "https://thedefiant.io/synthetix-launches-perpetuals-on-base",
-          "publishedOn": "2024-01-24T21:42:40.000Z",
-          "wordCount": 1884,
-          "title": "Synthetix Launches Perpetuals On Base",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ff3b8c89bf5b87e4f24a307d797185a1f4a6443f-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ff3b8c89bf5b87e4f24a307d797185a1f4a6443f-1792x1024.png"
         }
       ]
     }
