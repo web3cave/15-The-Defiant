@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-15T13:04:34.911Z</id>
+    <id>urn:2024-02-15T14:04:42.314Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-15T13:04:34.911Z</updated>
+    <updated>2024-02-15T14:04:42.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stardust Teams Up With Mysten Labs To Streamline Game Deployment on Sui]]></title>
+        <id>https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui</id>
+        <link href="https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui"/>
+        <updated>2024-02-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SUI’s TVl is up 290% in two months.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Partnership To Enable Smart Contract Interactions With Telecom Networks]]></title>
         <id>https://thedefiant.io/chainlink-partnership-to-enable-smart-contract-interactions-with-telecom-networks</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/immutable-zkevm-launches-early-access-phase-on-mainnet</id>
         <link href="https://thedefiant.io/immutable-zkevm-launches-early-access-phase-on-mainnet"/>
         <updated>2024-01-30T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Whitelisted developers and those buildng on smart contract templates can deploy to the network.]]></summary>
+        <summary type="html"><![CDATA[Immutable zkEVM's early access is now live on mainnet, allowing whitelisted developers and those using smart contract templates to deploy on the network.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/polygon-based-volmex-finance-launches-points-program"/>
         <updated>2024-01-24T18:19:20.000Z</updated>
         <summary type="html"><![CDATA[Users of the tokenized volatility protocol can earn points by trading Volmex perpetuals, daily quests, or completing Galxe NFT campaigns.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EtherFi Kicks Off EigenLayer Vampire Attack]]></title>
-        <id>https://thedefiant.io/etherfi-kicks-off-eigenlayer-vampire-attack</id>
-        <link href="https://thedefiant.io/etherfi-kicks-off-eigenlayer-vampire-attack"/>
-        <updated>2024-01-24T17:07:50.000Z</updated>
-        <summary type="html"><![CDATA[‘deVamp’ offers instant eETH liquidity and loyalty points to incentivize EigenLayer restakers to swap out of stETH, cbETH and wBETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>

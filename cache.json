@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui",
+          "author": "Samuel Haig",
+          "description": "SUI’s TVl is up 290% in two months.",
+          "link": "https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui",
+          "publishedOn": "2024-02-15T14:00:00.000Z",
+          "wordCount": 1989,
+          "title": "Stardust Teams Up With Mysten Labs To Streamline Game Deployment on Sui",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/019148c50f001b66409d1e274c9ad9299ca7d772-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/019148c50f001b66409d1e274c9ad9299ca7d772-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/chainlink-partnership-to-enable-smart-contract-interactions-with-telecom-networks",
           "author": "Samuel Haig",
           "description": "Chainlink Labs will enable Polygon-based smart contracts to query Telefonica's mobile operators.",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/immutable-zkevm-launches-early-access-phase-on-mainnet",
           "author": "Samuel Haig",
-          "description": "Whitelisted developers and those buildng on smart contract templates can deploy to the network.",
+          "description": "Immutable zkEVM's early access is now live on mainnet, allowing whitelisted developers and those using smart contract templates to deploy on the network.",
           "link": "https://thedefiant.io/immutable-zkevm-launches-early-access-phase-on-mainnet",
           "publishedOn": "2024-01-30T08:28:00.000Z",
           "wordCount": 2112,
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce3557a062d03f63e999e8524e8537ceb55fdd24-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/etherfi-kicks-off-eigenlayer-vampire-attack",
-          "author": "Pedro Solimano",
-          "description": "‘deVamp’ offers instant eETH liquidity and loyalty points to incentivize EigenLayer restakers to swap out of stETH, cbETH and wBETH.",
-          "link": "https://thedefiant.io/etherfi-kicks-off-eigenlayer-vampire-attack",
-          "publishedOn": "2024-01-24T17:07:50.000Z",
-          "wordCount": 1883,
-          "title": "EtherFi Kicks Off EigenLayer Vampire Attack",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89f26af1d8ce51c8c79aa7c6001c509191e959f7-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89f26af1d8ce51c8c79aa7c6001c509191e959f7-1792x1024.png"
         }
       ]
     }
