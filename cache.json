@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/san-francisco-art-gallery-opens-location-exclusively-for-bitcoin-ordinals",
+          "author": "Pedro Solimano",
+          "description": "Superchief Gallery is opening its fourth location this weekend, which is dedicated to Bitcoin Ordinals",
+          "link": "https://thedefiant.io/san-francisco-art-gallery-opens-location-exclusively-for-bitcoin-ordinals",
+          "publishedOn": "2024-02-16T16:38:01.000Z",
+          "wordCount": 1880,
+          "title": "San Francisco Art Gallery Opens Location Exclusively For Bitcoin Ordinals",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1b604f106c4a5d638404240a655d8f81892b375c-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1b604f106c4a5d638404240a655d8f81892b375c-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/apecoin-dao-chooses-arbitrum-to-host-apechain",
           "author": "yyctrader",
           "description": "Community reactions are mixed after the author of the winning proposal, Horizen Labs, cast the largest block of votes.",
@@ -79,6 +94,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b1ed56f708d734b7d9794c8b08975805481f3253-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/jupiter-founder-meow-is-frustrated-here-s-why",
+          "author": "Alp Gasimov",
+          "description": "Today we're chatting with Meow. He's the founder of Jupiter Exchange, which is one of the biggest DEXs on Solana but also the biggest talking points in crypto with its recent airdrop.  In today's interview we have a very friendly conversation with Meow where he gets frank about his feelings and thought about all the misinformation and controversy.",
+          "link": "https://thedefiant.io/jupiter-founder-meow-is-frustrated-here-s-why",
+          "publishedOn": "2024-02-15T16:19:00.000Z",
+          "wordCount": 2435,
+          "title": "Jupiter Founder Meow Is Frustrated. Here's Why.",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c7e988df4029addaaac8a867dd313c1ed221795-640x360.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c7e988df4029addaaac8a867dd313c1ed221795-640x360.jpg"
         },
         {
           "id": "https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui",
@@ -176,7 +206,7 @@
           "description": "With all the hype following the recent Jito Airdrop and Bonk Airdrop, many are wondering if they are too late to the party. Fret not. Solana Airdrops show no sign of slowing down, so starting with the Jupiter airdrop, today’s guide will ensure you know where to start your Airdrop farming journey.",
           "link": "https://thedefiant.io/upcoming-solana-airdrops-in-2024-you-re-not-late",
           "publishedOn": "2024-02-14T15:36:00.000Z",
-          "wordCount": 1978,
+          "wordCount": 2018,
           "title": "💥Upcoming Solana Airdrops In 2024 (You’re NOT Late)",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b3cddfe8e103046990836575d13e3c093d0dc326-640x359.jpg",
@@ -544,6 +574,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/71b694401563a34dda7d216cc45b3acae7826bfd-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/how-terra-is-trying-to-rise-from-its-ashes-with-terraform-labs-new-ceo-chris-amani",
+          "author": "Camila Russo",
+          "description": "Today we're joined by Chris Amani, who's the CEO of Terraform Labs. Our conversation with Chris unfolds in two parts.",
+          "link": "https://thedefiant.io/how-terra-is-trying-to-rise-from-its-ashes-with-terraform-labs-new-ceo-chris-amani",
+          "publishedOn": "2024-02-08T15:47:00.000Z",
+          "wordCount": 2230,
+          "title": "How Terra is Trying to Rise from its Ashes with Terraform Labs' New CEO Chris Amani",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d9fa1b0bdee0b30aa722744b67d3cb4fda66ad9-640x358.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d9fa1b0bdee0b30aa722744b67d3cb4fda66ad9-640x358.jpg"
         },
         {
           "id": "https://thedefiant.io/decoding-defi-risks-exploring-the-data-behind-usd50b-in-defi-losses",
@@ -1198,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/binance-labs-invests-in-bringing-ethereum-restaking-to-bnb-chain",
           "author": "Samuel Haig",
-          "description": "Puffer will launch a liquid restaking token on BNB Chain and deploy a Layer 2 secured by EigenLayer.",
+          "description": "Binance Labs has invested in Puffer, a protocol aiming to bring native Ethereum restaking yields to BNB Chain.",
           "link": "https://thedefiant.io/binance-labs-invests-in-bringing-ethereum-restaking-to-bnb-chain",
           "publishedOn": "2024-01-31T16:59:00.000Z",
           "wordCount": 1961,
@@ -1243,7 +1288,7 @@
         {
           "id": "https://thedefiant.io/ethereum-s-dencun-upgrade-goes-live-on-sepolia-without-a-hitch",
           "author": "Samuel Haig",
-          "description": "The second of three testnet deployments for Ethereum's Dencun upgrade went off without a hitch, paving the way for significant efficiency gains on Layer 2.",
+          "description": "Dencun’s final testnet deployment will take place on Feb. 7.",
           "link": "https://thedefiant.io/ethereum-s-dencun-upgrade-goes-live-on-sepolia-without-a-hitch",
           "publishedOn": "2024-01-31T01:08:00.000Z",
           "wordCount": 2070,
@@ -1444,51 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ef2e8740c1225d6e020afdd993d4041493be6ee-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/transaction-fees-on-ethereum-layer-2s-surged-400-last-year-report",
-          "author": "Pedro Solimano",
-          "description": "Ethereum mainnet fees dropped 44% in 2023, signaling increased migration to cheaper Layer 2 scaling solutions.",
-          "link": "https://thedefiant.io/transaction-fees-on-ethereum-layer-2s-surged-400-last-year-report",
-          "publishedOn": "2024-01-26T17:57:57.000Z",
-          "wordCount": 2058,
-          "title": "Transaction Fees on Ethereum Layer 2s Surged 400% Last Year: Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7eeccd39866fa4eb84ad8bd12907b08c8b72d396-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7eeccd39866fa4eb84ad8bd12907b08c8b72d396-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/the-proposed-irs-broker-reporting-rules-would-effectively-kill-defi",
-          "author": "Patrick White",
-          "description": "The IRS's latest crusade into the realm of digital assets threatens to redefine the landscape of decentralized finance (DeFi) with its proposed broker reporting rules.",
-          "link": "https://thedefiant.io/the-proposed-irs-broker-reporting-rules-would-effectively-kill-defi",
-          "publishedOn": "2024-01-26T04:11:11.000Z",
-          "wordCount": 3143,
-          "title": "The Proposed IRS Broker Reporting Rules Would Effectively Kill DeFi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/196ca3328e2e825d90fec092ed781e588ed28a12-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/196ca3328e2e825d90fec092ed781e588ed28a12-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/solana-based-rubber-nft-collection-soars-50x",
-          "author": "yyctrader",
-          "description": "Generative AI collection of 1,000 NFTs has seen 11,000 SOL of trading volume since launching yesterday.",
-          "link": "https://thedefiant.io/solana-based-rubber-nft-collection-soars-50x",
-          "publishedOn": "2024-01-25T21:22:20.000Z",
-          "wordCount": 1638,
-          "title": "Solana-based ‘Rubber’ NFT Collection Soars 50x",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/caa15773590e981121bc0282c26cd1ab8f07bc5f-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/caa15773590e981121bc0282c26cd1ab8f07bc5f-1792x1024.png"
         }
       ]
     }
