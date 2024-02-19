@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T21:06:38.575Z</id>
+    <id>urn:2024-02-19T22:04:03.677Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-19T21:06:38.575Z</updated>
+    <updated>2024-02-19T22:04:03.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator Calls For Stablecoin Startups]]></title>
+        <id>https://thedefiant.io/y-combinator-calls-for-stablecoin-startups</id>
+        <link href="https://thedefiant.io/y-combinator-calls-for-stablecoin-startups"/>
+        <updated>2024-02-19T21:05:24.000Z</updated>
+        <summary type="html"><![CDATA[The Silicon Valley incubator wants to foster “Stablecoin Finance.”]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Users Still Disgruntled After Starknet Airdrop Fix Targets Mostly Validators]]></title>
         <id>https://thedefiant.io/users-still-disgruntled-after-starknet-airdrop-fix-targets-mostly-validators</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/liquid-restaking-protocol-puffer-finance-attracts-nearly-usd200m-on-first-day</id>
         <link href="https://thedefiant.io/liquid-restaking-protocol-puffer-finance-attracts-nearly-usd200m-on-first-day"/>
         <updated>2024-02-02T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Puffer already ranks as the third-largest LRT protocol.]]></summary>
+        <summary type="html"><![CDATA[Puffer Finance has garnered $195M worth of deposits on its debut day as liquid restaking protocols soar to a $1.2B TVL.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Early numbers indicate GBTC outflows continue to abate.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Outlines Synergies Between AI and Blockchains]]></title>
-        <id>https://thedefiant.io/vitalik-buterin-outlines-synergies-between-ai-and-blockchains</id>
-        <link href="https://thedefiant.io/vitalik-buterin-outlines-synergies-between-ai-and-blockchains"/>
-        <updated>2024-01-30T19:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Buterin says most promising use cases will be where the underlying mechanism continues to be designed roughly as before, but the individual players become AIs.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
