@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T14:04:36.885Z</id>
+    <id>urn:2024-02-20T15:05:31.581Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-20T14:04:36.885Z</updated>
+    <updated>2024-02-20T15:05:31.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Completes Roll-Out Of Blockaid Security Alerts]]></title>
+        <id>https://thedefiant.io/metamask-completes-roll-out-of-blockaid-security-alerts</id>
+        <link href="https://thedefiant.io/metamask-completes-roll-out-of-blockaid-security-alerts"/>
+        <updated>2024-02-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask estimates crypto users lost $1.7B to exploits and phishing scams in 2023.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worldcoin Surpasses 1M Daily User Milestone As WLD Rally Continues]]></title>
         <id>https://thedefiant.io/worldcoin-surpasses-1m-daily-user-milestone-as-wld-rally-continues</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/active-dapp-users-tags-multi-year-high-dappradar</id>
         <link href="https://thedefiant.io/active-dapp-users-tags-multi-year-high-dappradar"/>
         <updated>2024-02-02T14:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Bubbling activity on socialfi and web3 gaming platforms has propelled daily active dApps users to its highest level since 2022.]]></summary>
+        <summary type="html"><![CDATA[Strong activity on web3 games and socialfi platforms drives increasing on-chain activity.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ripple’s executive chairman, Chris Larsen, confirmed reports from blockchain analyst that XRP wallets had been raided.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Dencun Upgrade Goes Live On Sepolia Without A Hitch]]></title>
-        <id>https://thedefiant.io/ethereum-s-dencun-upgrade-goes-live-on-sepolia-without-a-hitch</id>
-        <link href="https://thedefiant.io/ethereum-s-dencun-upgrade-goes-live-on-sepolia-without-a-hitch"/>
-        <updated>2024-01-31T01:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Dencun’s final testnet deployment will take place on Feb. 7.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
