@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-21T06:08:31.493Z</id>
+    <id>urn:2024-02-21T07:04:32.008Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-21T06:08:31.493Z</updated>
+    <updated>2024-02-21T07:04:32.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Restaking?]]></title>
+        <id>https://thedefiant.io/what-is-restaking</id>
+        <link href="https://thedefiant.io/what-is-restaking"/>
+        <updated>2024-02-21T06:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Restaking through EigenLayer allows Ethereum stakers to earn additional yield by simultaneously securing additional protocols.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gearbox’s Leveraged Re-Staking Trade Attracts Over 2,600 ETH in One Day]]></title>
         <id>https://thedefiant.io/gearbox-s-leveraged-re-staking-trade-attracts-over-2-600-eth-in-one-day</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy</id>
         <link href="https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy"/>
         <updated>2024-02-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The partnership comes despite ENS suing GoDaddy in 2022.]]></summary>
+        <summary type="html"><![CDATA[Ethereum Name Service has teamed up with GoDaddy, allowing customers of the leading internet registrar can now link their domain names to ENS addresses.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/mode-s-tvl-rockets-past-usd60m-in-four-days-after-announcing-airdrop-campaign</id>
         <link href="https://thedefiant.io/mode-s-tvl-rockets-past-usd60m-in-four-days-after-announcing-airdrop-campaign"/>
         <updated>2024-02-05T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Mode is quickly rising up the Layer 2 rankings after launching a points campaign rewarding early users with airdrop allocations.]]></summary>
+        <summary type="html"><![CDATA[The Layer 2 will distribute points to early network adopters and Ethereum ecosystem users.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[vETH is collateralized by a basket of Ethereum liquid staking and restaking tokens.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiance Capital Scores Win in Singapore Dispute Against 3AC]]></title>
-        <id>https://thedefiant.io/defiance-capital-scores-win-in-singapore-dispute-against-3ac</id>
-        <link href="https://thedefiant.io/defiance-capital-scores-win-in-singapore-dispute-against-3ac"/>
-        <updated>2024-01-31T22:19:27.000Z</updated>
-        <summary type="html"><![CDATA[DeFiance Capital is arguing its assets and operations were separate from 3AC so it shouldn’t be included in its liquidation process.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
