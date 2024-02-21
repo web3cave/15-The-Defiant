@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/burn-rate-surges-amid-spike-in-ethereum-on-chain-activity",
+          "author": "Samuel Haig",
+          "description": "Nearly $63M worth of ETH was burned in the past two weeks.",
+          "link": "https://thedefiant.io/burn-rate-surges-amid-spike-in-ethereum-on-chain-activity",
+          "publishedOn": "2024-02-21T11:29:00.000Z",
+          "wordCount": 2391,
+          "title": "Burn Rate Surges Amid Spike In Ethereum On-Chain Activity",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/73c3e9e12266973716e1d0fa8c070797f7645c54-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73c3e9e12266973716e1d0fa8c070797f7645c54-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/what-is-restaking",
           "author": "Squiffs",
           "description": "Restaking through EigenLayer allows Ethereum stakers to earn additional yield by simultaneously securing additional protocols.",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/dydx-unveils-2024-roadmap-including-permissionless-market-deployment",
           "author": "Samuel Haig",
-          "description": "DYdX will also focus on improving user experience and onboarding.",
+          "description": "DYdX published its 2024 roadmap, emphasizing development on improving user experience and core trading, and enabling permissionless market deployment.",
           "link": "https://thedefiant.io/dydx-unveils-2024-roadmap-including-permissionless-market-deployment",
           "publishedOn": "2024-02-05T14:00:00.000Z",
           "wordCount": 2241,
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy",
           "author": "Samuel Haig",
-          "description": "Ethereum Name Service has teamed up with GoDaddy, allowing customers of the leading internet registrar can now link their domain names to ENS addresses.",
+          "description": "The partnership comes despite ENS suing GoDaddy in 2022.",
           "link": "https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy",
           "publishedOn": "2024-02-05T14:00:00.000Z",
           "wordCount": 2304,
@@ -1484,21 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb4c7f2577f731f5829a9a8fa44852f9469ada5b-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative",
-          "author": "yyctrader",
-          "description": "vETH is collateralized by a basket of Ethereum liquid staking and restaking tokens.",
-          "link": "https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative",
-          "publishedOn": "2024-02-01T03:51:48.000Z",
-          "wordCount": 1924,
-          "title": "Vector Reserve Introduces ‘Liquidity Position Derivative’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/54c06df47f6709d80e416619f46a0ec9d10ccfb1-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54c06df47f6709d80e416619f46a0ec9d10ccfb1-1792x1024.png"
         }
       ]
     }

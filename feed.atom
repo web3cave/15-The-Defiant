@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-21T11:03:37.067Z</id>
+    <id>urn:2024-02-21T12:10:31.584Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-21T11:03:37.067Z</updated>
+    <updated>2024-02-21T12:10:31.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Burn Rate Surges Amid Spike In Ethereum On-Chain Activity]]></title>
+        <id>https://thedefiant.io/burn-rate-surges-amid-spike-in-ethereum-on-chain-activity</id>
+        <link href="https://thedefiant.io/burn-rate-surges-amid-spike-in-ethereum-on-chain-activity"/>
+        <updated>2024-02-21T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly $63M worth of ETH was burned in the past two weeks.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Restaking?]]></title>
         <id>https://thedefiant.io/what-is-restaking</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/dydx-unveils-2024-roadmap-including-permissionless-market-deployment</id>
         <link href="https://thedefiant.io/dydx-unveils-2024-roadmap-including-permissionless-market-deployment"/>
         <updated>2024-02-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DYdX will also focus on improving user experience and onboarding.]]></summary>
+        <summary type="html"><![CDATA[DYdX published its 2024 roadmap, emphasizing development on improving user experience and core trading, and enabling permissionless market deployment.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy</id>
         <link href="https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy"/>
         <updated>2024-02-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Name Service has teamed up with GoDaddy, allowing customers of the leading internet registrar can now link their domain names to ENS addresses.]]></summary>
+        <summary type="html"><![CDATA[The partnership comes despite ENS suing GoDaddy in 2022.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Protocol Guild calls on Ethereum ecosystem projects to support core contributors]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector Reserve Introduces ‘Liquidity Position Derivative’]]></title>
-        <id>https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative</id>
-        <link href="https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative"/>
-        <updated>2024-02-01T03:51:48.000Z</updated>
-        <summary type="html"><![CDATA[vETH is collateralized by a basket of Ethereum liquid staking and restaking tokens.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
