@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-22T18:08:10.148Z</id>
+    <id>urn:2024-02-22T19:02:01.460Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-22T18:08:10.148Z</updated>
+    <updated>2024-02-22T19:02:01.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Raises $100M Series B Led By a16z]]></title>
+        <id>https://thedefiant.io/eigenlayer-raises-usd100m-series-b-led-by-a16z</id>
+        <link href="https://thedefiant.io/eigenlayer-raises-usd100m-series-b-led-by-a16z"/>
+        <updated>2024-02-22T17:57:32.000Z</updated>
+        <summary type="html"><![CDATA[The highly anticipated Ethereum restaking protocol is DeFi’s fourth-largest, with nearly $8B in TVL.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ondo Brings Treasury-backed Stablecoin to Aptos]]></title>
         <id>https://thedefiant.io/ondo-brings-treasury-backed-stablecoin-to-aptos</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/bitcoin-stamps-seek-to-improve-on-ordinals"/>
         <updated>2024-02-02T19:35:45.000Z</updated>
         <summary type="html"><![CDATA[While being four times more expensive to mint than Ordinals, SRC-20 tokens live on Bitcoin’s UTXO set, making them unprunable.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Liquidity Protocol Pike Finance Goes Live]]></title>
-        <id>https://thedefiant.io/universal-liquidity-protocol-pike-finance-goes-live</id>
-        <link href="https://thedefiant.io/universal-liquidity-protocol-pike-finance-goes-live"/>
-        <updated>2024-02-02T18:38:19.000Z</updated>
-        <summary type="html"><![CDATA[In beta, the protocol allows users to natively deposit collateral on one chain while borrowing funds on another.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
