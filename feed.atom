@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-22T15:05:02.672Z</id>
+    <id>urn:2024-02-22T16:07:19.664Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-22T15:05:02.672Z</updated>
+    <updated>2024-02-22T16:07:19.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Brings Treasury-backed Stablecoin to Aptos]]></title>
+        <id>https://thedefiant.io/ondo-brings-treasury-backed-stablecoin-to-aptos</id>
+        <link href="https://thedefiant.io/ondo-brings-treasury-backed-stablecoin-to-aptos"/>
+        <updated>2024-02-22T15:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Lending protocol Thala will integrate USDY as a collateral asset.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler Finance Seeks Redemption Arc With V2 Deployment]]></title>
+        <id>https://thedefiant.io/euler-finance-seeks-redemption-arc-with-v2-deployment</id>
+        <link href="https://thedefiant.io/euler-finance-seeks-redemption-arc-with-v2-deployment"/>
+        <updated>2024-02-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Euler's TVL crashed to less than $100,000 after suffering a $197M exploit in early 2023.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chiliz Onboards PSG Football Club As Network Validator]]></title>
         <id>https://thedefiant.io/chiliz-onboards-psg-football-club-as-network-validator</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[In beta, the protocol allows users to natively deposit collateral on one chain while borrowing funds on another.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter’s Launchpad Mechanism Riles Up Crypto Community]]></title>
-        <id>https://thedefiant.io/jupiter-s-launchpad-mechanism-riles-up-crypto-community</id>
-        <link href="https://thedefiant.io/jupiter-s-launchpad-mechanism-riles-up-crypto-community"/>
-        <updated>2024-02-02T18:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Solana-based DEX Jupiter airdropped $700M worth of JUP tokens to early adopters this week.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active Dapp Users Tags Multi-Year High: DappRadar]]></title>
-        <id>https://thedefiant.io/active-dapp-users-tags-multi-year-high-dappradar</id>
-        <link href="https://thedefiant.io/active-dapp-users-tags-multi-year-high-dappradar"/>
-        <updated>2024-02-02T14:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Strong activity on web3 games and socialfi platforms drives increasing on-chain activity.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
