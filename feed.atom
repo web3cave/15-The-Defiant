@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-28T13:04:52.437Z</id>
+    <id>urn:2024-02-28T14:03:50.517Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-28T13:04:52.437Z</updated>
+    <updated>2024-02-28T14:03:50.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge Proposal Set To Introduce Protocol Fees Collected By Treasury]]></title>
+        <id>https://thedefiant.io/centrifuge-proposal-set-to-introduce-protocol-fees-collected-by-treasury</id>
+        <link href="https://thedefiant.io/centrifuge-proposal-set-to-introduce-protocol-fees-collected-by-treasury"/>
+        <updated>2024-02-28T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Centrifuge predicts it will accumulate $4M in fees this year.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merlin Chain’s Surging Growth Pushes Bitcoin’s DeFi TVL Past $2B]]></title>
         <id>https://thedefiant.io/merlin-chain-s-surging-growth-pushes-bitcoin-s-defi-tvl-past-usd2b</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The oracle provider will distribute PYTH tokens to over 160 DeFi applications that use its data feeds.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Expands Definition For ‘Securities Dealer’ To Include DeFi Market Makers]]></title>
-        <id>https://thedefiant.io/sec-expands-definition-for-securities-dealer-to-include-defi-market-makers</id>
-        <link href="https://thedefiant.io/sec-expands-definition-for-securities-dealer-to-include-defi-market-makers"/>
-        <updated>2024-02-07T12:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquidity providers commanding more than $50M in assets must register with the SEC under the new rules.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
