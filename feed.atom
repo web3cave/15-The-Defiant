@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-08T16:07:07.566Z</id>
+    <id>urn:2024-03-08T17:02:09.351Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-08T16:07:07.566Z</updated>
+    <updated>2024-03-08T17:02:09.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Daily DApp Users Surges To New High In February As DEX Activity Soars]]></title>
+        <id>https://thedefiant.io/daily-dapp-users-surges-to-new-high-in-february-as-dex-activity-soars</id>
+        <link href="https://thedefiant.io/daily-dapp-users-surges-to-new-high-in-february-as-dex-activity-soars"/>
+        <updated>2024-03-08T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[DEXes hosted an 11-month high for weekly trade volume in late February.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Smashes Through All-Time High, Tops $70,000]]></title>
+        <id>https://thedefiant.io/bitcoin-smashes-through-all-time-high-tops-usd70-000</id>
+        <link href="https://thedefiant.io/bitcoin-smashes-through-all-time-high-tops-usd70-000"/>
+        <updated>2024-03-08T16:02:55.000Z</updated>
+        <summary type="html"><![CDATA[The asset is up 4.3% today, meanwhile Ethereum tops $4,000.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptos Removes Bridge Limits In Cross-Chain Push]]></title>
         <id>https://thedefiant.io/aptos-removes-bridge-limits-in-cross-chain-push</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/polygon-s-plan-for-a-simplified-blockchain-experience</id>
         <link href="https://thedefiant.io/polygon-s-plan-for-a-simplified-blockchain-experience"/>
         <updated>2024-02-19T17:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we are joined by Brendan Farmer, who's the co-founder of Polygon, a project that is focused on scaling Ethereum. Our conversation begins with an exploration of the foundational elements that constitute the Polygon ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Brendan Farmer is the co-founder of Polygon, which is a project that is focused on scaling Ethereum. Brendan's contributions have been instrumental in the research and development of key scaling technologies within Polygon's framework, including Polygon PoS, Polygon zkEVM, and Polygon Miden. Our conversation begins with an exploration of the foundational elements that constitute the Polygon ecosystem. We then delve into the realm of ZK technology, discussing its advantages as a preferred scaling solution, its comparison with optimistic rollups, and the intricacies of Polygon's Aggregation Layer and CDK. We also discuss how the future of blockchain activity can be made more efficient and optimized with Aggregation Layer.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/aave-moves-to-launch-usd5m-quarterly-incentives-program</id>
         <link href="https://thedefiant.io/aave-moves-to-launch-usd5m-quarterly-incentives-program"/>
         <updated>2024-02-19T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave's proposed "Merit" program seeks to allocate $5M quarterly as rewards for GHO minters, LST depositors, and users migrating from rival lending protocols.]]></summary>
+        <summary type="html"><![CDATA[Aave proposes “Merit” program to reward GHO minters and LST depositors.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Today we're chatting with Meow. He's the founder of Jupiter Exchange, which is one of the biggest DEXs on Solana but also the biggest talking points in crypto with its recent airdrop.  In today's interview we have a very friendly conversation with Meow where he gets frank about his feelings and thought about all the misinformation and controversy.]]></summary>
         <author>
             <name>Alp Gasimov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stardust Teams Up With Mysten Labs To Streamline Game Deployment on Sui]]></title>
-        <id>https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui</id>
-        <link href="https://thedefiant.io/stardust-teams-up-with-mysten-labs-to-streamline-game-deployment-on-sui"/>
-        <updated>2024-02-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SUI’s TVl is up 290% in two months.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Strikes Partnership To Enable Smart Contract Interactions With Telecom Networks]]></title>
-        <id>https://thedefiant.io/chainlink-partnership-to-enable-smart-contract-interactions-with-telecom-networks</id>
-        <link href="https://thedefiant.io/chainlink-partnership-to-enable-smart-contract-interactions-with-telecom-networks"/>
-        <updated>2024-02-15T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink Labs will enable Polygon-based smart contracts to query Telefonica's mobile operators.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
