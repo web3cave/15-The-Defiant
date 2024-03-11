@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-11T12:10:53.208Z</id>
+    <id>urn:2024-03-11T13:05:50.645Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-11T12:10:53.208Z</updated>
+    <updated>2024-03-11T13:05:50.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Hikes Fees More Than 140% To Prevent ‘DAI Demand Shock’]]></title>
+        <id>https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock</id>
+        <link href="https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock"/>
+        <updated>2024-03-11T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[DAI stability fees were raised from between 6.41% and 7.18% to between 15% and 17.25%.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Governance Shoots Down Fee Switch Proposal, Again]]></title>
         <id>https://thedefiant.io/uniswap-governance-shoots-down-fee-switch-proposal-again</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/gearbox-s-leveraged-re-staking-trade-attracts-over-2-600-eth-in-one-day</id>
         <link href="https://thedefiant.io/gearbox-s-leveraged-re-staking-trade-attracts-over-2-600-eth-in-one-day"/>
         <updated>2024-02-20T21:44:23.000Z</updated>
-        <summary type="html"><![CDATA[The cap on EtherFi liquid re-staking tokens has been filled but Gearbox is hinting Renzo's LRTs will be added next.]]></summary>
+        <summary type="html"><![CDATA[Gearbox is the first decentralized finance protocol to add leverage into the Ethereum liquid re-staking trade and degens are flocking in.]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Moonbirds, Oddities, Mythics and Grails will be integrated into Yuga’s Otherside ecosystem.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Wars Heat Up As Circle Asks Congress To Rein In Tether]]></title>
-        <id>https://thedefiant.io/stablecoin-wars-heat-up-as-circle-asks-congress-to-rein-in-tether</id>
-        <link href="https://thedefiant.io/stablecoin-wars-heat-up-as-circle-asks-congress-to-rein-in-tether"/>
-        <updated>2024-02-16T19:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Representatives from Circle and Coinbase are requesting U.S. legislators to empower the Treasury Department to clamp down on USDT issuer Tether.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
