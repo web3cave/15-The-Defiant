@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades",
+          "author": "Samuel Haig",
+          "description": "In addition to EIP-4844, Dencun also introduced significant upgrades bolstering block space efficiency, user security, and network validation.",
+          "link": "https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades",
+          "publishedOn": "2024-03-14T15:40:00.000Z",
+          "wordCount": 3379,
+          "title": "Beyond Blobs: Diving Into Dencun’s Overlooked Upgrades",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/etherfi-expedites-roadmap-will-launch-token-in-coming-days",
           "author": "Samuel Haig",
           "description": "Binance announces ETHFI Launchpool farming as EtherFi’s first points campaign wraps up.",
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73c3e9e12266973716e1d0fa8c070797f7645c54-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-restaking",
-          "author": "Squiffs",
-          "description": "Restaking through EigenLayer allows Ethereum stakers to earn additional yield by simultaneously securing additional protocols.",
-          "link": "https://thedefiant.io/what-is-restaking",
-          "publishedOn": "2024-02-21T06:02:30.000Z",
-          "wordCount": 1826,
-          "title": "What is Restaking?",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e677f13b21a65bf3938daab08f4bdd3d6b84400-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e677f13b21a65bf3938daab08f4bdd3d6b84400-1792x1024.webp"
         }
       ]
     }
