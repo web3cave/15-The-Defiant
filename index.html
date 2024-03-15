@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-15 datetime="2024-03-15T08:12:20.000Z">2024-03-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-15 datetime="2024-03-15T08:12:20.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/transaction-fees-on-layer-2-plummet-post-dencun"
+                        open
+                      >
+                        <summary class="article-expander__title">Transaction Fees On Layer 2 Plummet Post Dencun</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/transaction-fees-on-layer-2-plummet-post-dencun">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/b2c6b4409bb4f0092c4aa83084624c345a9fede6-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Fees across leading Layer 2s supporting EIP-4844 have fallen by between 50% and 98%.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-14 datetime="2024-03-14T15:40:00.000Z">2024-03-14</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-14 datetime="2024-03-14T15:40:00.000Z"></time>
           </button>
@@ -2175,7 +2223,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/44b6a5f6329f411cd8c0a53815240292ad6d911e-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Parcl To Drop Between 7% and 8% of token’s supply to early adopters in April</span>
+                              <span>Parcl is the latest project in Solana&#x27;s ecosystem to announce an airdrop, with the DeFi real estate exchange set to launch a token in April.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
@@ -2195,7 +2243,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/29552e7214c0a0792e145dcf10b3619608b26656-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Ethereum ecosystem assets are continuing to rally while other leading cryptocurrencies pull back, with ETH tagging a 22-month high above $3,100.</span>
+                              <span>DeFi token market cap approaches $100B for the first time in almost 22 months.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -2615,26 +2663,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/wormhole-inks-partnership-with-amd-amid-zero-knowledge-embrace"
-                        open
-                      >
-                        <summary class="article-expander__title">Wormhole Inks Partnership With AMD Amid Zero-Knowledge Embrace</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/wormhole-inks-partnership-with-amd-amid-zero-knowledge-embrace">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/ee1b15adfa57c767cddb081f3a62f2be1119853b-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AMD will provide advanced hardware and develop light clients for the Wormhole ecosystem.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2642,8 +2670,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8293117358">
-        <time id="build-timestamp" datetime="2024-03-15T08:08:24.211Z">2024-03-15T08:08:24.211Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8293765755">
+        <time id="build-timestamp" datetime="2024-03-15T09:06:01.085Z">2024-03-15T09:06:01.085Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
