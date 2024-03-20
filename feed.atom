@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T09:06:32.923Z</id>
+    <id>urn:2024-03-20T10:06:33.754Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-20T09:06:32.923Z</updated>
+    <updated>2024-03-20T10:06:33.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[The proof of concept points to major financial institutions continuing to experiment with compliant crypto tools.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Starter Guide in 2024]]></title>
+        <id>https://thedefiant.io/solana-starter-guide-in-2024</id>
+        <link href="https://thedefiant.io/solana-starter-guide-in-2024"/>
+        <updated>2024-03-19T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re diving deeper into the Solana Ecosystem to understand the hype, the technicals, and the fundamentals in this Beginners guide to Solana in 2024.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/telegram-s-ton-flies-on-planned-ad-sharing-program</id>
         <link href="https://thedefiant.io/telegram-s-ton-flies-on-planned-ad-sharing-program"/>
         <updated>2024-02-28T19:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Telegram founder Pavel Durov shared the details in his Telegram channel.]]></summary>
+        <summary type="html"><![CDATA[Telegram, a messaging app with 800 million users, will start distributing rewards in TON, the blockchain developed by the company.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/etherfi-closes-usd23m-series-a-round-as-eigenlayer-tvl-surpasses-usd9b</id>
         <link href="https://thedefiant.io/etherfi-closes-usd23m-series-a-round-as-eigenlayer-tvl-surpasses-usd9b"/>
         <updated>2024-02-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[EtherFi, the leading Ethereum liquid restaking protocol, has closed a $23M Series A round led by leading web3 venture capital firms and founders.]]></summary>
+        <summary type="html"><![CDATA[EtherFi accounts for 36% of the $4.65B locked in liquid staking protocols.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The since-deleted proposal in Lido’s governance forum floated the idea of revenue being distributed to LDO stakers.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos (APT): Ex-Facebook Engineers Aim For 1 Million TXN/S]]></title>
-        <id>https://thedefiant.io/aptos-apt-ex-facebook-engineers-aim-for-1-million-txn-s</id>
-        <link href="https://thedefiant.io/aptos-apt-ex-facebook-engineers-aim-for-1-million-txn-s"/>
-        <updated>2024-02-26T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we're joined by Aptos co-founder and CTO Avery Ching. Aptos is a Layer 1 blockchain developed by former Facebook employees that launched towards the end of 2022. We cover everything from the fundamental and technical aspects of Aptos to current and future use cases.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
