@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-20 datetime="2024-03-20T13:18:00.000Z">2024-03-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-20 datetime="2024-03-20T13:18:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/ethereum-layer-2-adoption-trends-high-after-dencun-upgrade"
+                        open
+                      >
+                        <summary class="article-expander__title">Ethereum Layer 2 Adoption Trends High After Dencun Upgrade</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/ethereum-layer-2-adoption-trends-high-after-dencun-upgrade">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/a84f5344956d552602f8aff9988d2cd38bc3e5f0-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>L2 throughput approaches all-time highs following Dencun and amid an uptick in market volatility.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-19 datetime="2024-03-19T22:00:00.000Z">2024-03-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-19 datetime="2024-03-19T22:00:00.000Z"></time>
           </button>
@@ -2203,7 +2251,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/dae3401aa2c8a274774b9abe60b27d78e6b50de3-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Spot Bitcoin ETFs drove $8B in trade volume and received $637M worth of inflows on Feb. 28.</span>
+                              <span>BTC came just 6% shy of its previous all-time high amid record inflows and trade volume for spot Bitcoin ETFs.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
@@ -2251,7 +2299,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/bcccc135817358a0906513d15858ea35bd37ac4a-1792x1024.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>The law needs to develop new tools to adapt to the modern world where autonomous protocols and AI agents increasingly hold sway. So says Gabriel Shapiro, general counsel at Delphi Digital, who on Tuesday introduced a venture he co-founded.</span>
+                              <span>The venture aims to explore the intersection of code and law, culminating in establishing an alternative legal system</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -2587,26 +2635,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/safe-and-base-team-up-to-promote-ethereum-smart-accounts"
-                        open
-                      >
-                        <summary class="article-expander__title">Safe and Base Team Up To Promote Ethereum Smart Accounts</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/safe-and-base-team-up-to-promote-ethereum-smart-accounts">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/96cc3b64cbba5cc13a64a34a21a30b6e283cab78-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Base offers up to 1 ETH in gas rebates for smart account developers.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2614,8 +2642,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8359444757">
-        <time id="build-timestamp" datetime="2024-03-20T13:07:03.865Z">2024-03-20T13:07:03.865Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8360293538">
+        <time id="build-timestamp" datetime="2024-03-20T14:05:48.965Z">2024-03-20T14:05:48.965Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
