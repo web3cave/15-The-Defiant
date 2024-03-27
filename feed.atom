@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T05:07:25.313Z</id>
+    <id>urn:2024-03-27T06:08:39.865Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-27T05:07:25.313Z</updated>
+    <updated>2024-03-27T06:08:39.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Analysts Believe Munchables’ $63M Exploit Was Internally Engineered]]></title>
+        <id>https://thedefiant.io/analysts-believe-munchables-usd63m-exploit-was-internally-engineered</id>
+        <link href="https://thedefiant.io/analysts-believe-munchables-usd63m-exploit-was-internally-engineered"/>
+        <updated>2024-03-27T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Experts believe the Blast-based game’s $63 million hack may have been devised by a North Korean employee.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Crypto Exchange KuCoin Faces U.S. Criminal Charges]]></title>
         <id>https://thedefiant.io/major-crypto-exchange-kucoin-faces-u-s-criminal-charges</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/floor-prices-of-top-nft-collections-crash-as-cryptocurrencies-rally</id>
         <link href="https://thedefiant.io/floor-prices-of-top-nft-collections-crash-as-cryptocurrencies-rally"/>
         <updated>2024-03-07T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquidations on Blend, Blur's NFT lending platform, tagged new all-time highs amid the volatility.]]></summary>
+        <summary type="html"><![CDATA[The floor prices of many leading NFT collections crashed by more than 20% over the past week as ETH and BTC rallied.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/astar-launches-zkevm-mainnet-boasting-ethereum-interoperability-via-polygon-agglayer</id>
         <link href="https://thedefiant.io/astar-launches-zkevm-mainnet-boasting-ethereum-interoperability-via-polygon-agglayer"/>
         <updated>2024-03-07T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Astar's zkEVM is live on mainnet, with the network tapping Polygon's AggLayer for interoperability with the broader Ethereum ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Astar zkEVM is the second chain supporting AggLayer after Polygon zkEVM.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[This is Crypto With Cami, a show where we go through all the major news in DeFi and Web3 in 30 minutes or less.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memecoins Go Parabolic As Bitcoin Crosses $66,000]]></title>
-        <id>https://thedefiant.io/memecoins-go-parabolic-as-bitcoin-crosses-usd66-000</id>
-        <link href="https://thedefiant.io/memecoins-go-parabolic-as-bitcoin-crosses-usd66-000"/>
-        <updated>2024-03-04T16:26:24.000Z</updated>
-        <summary type="html"><![CDATA[PEPE, BONK and WIF lead memecoin rally as ETH surges above $3,500, with Bitcoin trading just 4% away from all-time highs.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
