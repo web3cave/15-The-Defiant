@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/vitalik-urges-ethereum-developers-to-target-millions-of-users-post-dencun",
+          "author": "Samuel Haig",
+          "description": "Ethereum’s chief scientist said Ethereum is ready to support applications servicing millions of users following Dencun's massive L2 fee reductions.",
+          "link": "https://thedefiant.io/vitalik-urges-ethereum-developers-to-target-millions-of-users-post-dencun",
+          "publishedOn": "2024-03-29T09:35:00.000Z",
+          "wordCount": 2591,
+          "title": "Vitalik Urges Ethereum Developers To Target ‘Millions’ Of Users Post-Dencun",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/prisma-finance-suffers-usd12-million-exploit",
           "author": "yyctrader",
           "description": "The LRT-backed stablecoin protocol has been paused as the team investigates.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock",
           "author": "Samuel Haig",
-          "description": "DAI stability fees were raised from between 6.41% and 7.18% to between 15% and 17.25%.",
+          "description": "MakerDAO has jacked the stability fees for DAI mints by more than 140% in response to rapidly dwindling USDC reserves.",
           "link": "https://thedefiant.io/makerdao-hikes-fees-more-than-140-to-prevent-dai-demand-shock",
           "publishedOn": "2024-03-11T12:45:00.000Z",
           "wordCount": 2399,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d48979fae9eb442544d34aacd1bc0db2b749f16e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/astar-launches-zkevm-mainnet-boasting-ethereum-interoperability-via-polygon-agglayer",
-          "author": "Samuel Haig",
-          "description": "Astar zkEVM is the second chain supporting AggLayer after Polygon zkEVM.",
-          "link": "https://thedefiant.io/astar-launches-zkevm-mainnet-boasting-ethereum-interoperability-via-polygon-agglayer",
-          "publishedOn": "2024-03-07T11:17:00.000Z",
-          "wordCount": 2368,
-          "title": "Astar Launches zkEVM Mainnet Boasting Ethereum Interoperability Via Polygon AggLayer",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7be6956003598cd235beb1b1bb1320afec3f0777-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7be6956003598cd235beb1b1bb1320afec3f0777-1792x1024.webp"
         }
       ]
     }
