@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-03T13:08:31.737Z</id>
+    <id>urn:2024-04-03T14:05:17.426Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-03T13:08:31.737Z</updated>
+    <updated>2024-04-03T14:05:17.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether Issuance Emerges As Hotly Contested Issue]]></title>
+        <id>https://thedefiant.io/ether-issuance-emerges-as-hotly-contested-issue</id>
+        <link href="https://thedefiant.io/ether-issuance-emerges-as-hotly-contested-issue"/>
+        <updated>2024-04-03T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers argue Ethereum's emissions scheduled should be reduced, but not everyone agrees.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral]]></title>
         <id>https://thedefiant.io/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/etherfi-expedites-roadmap-will-launch-token-in-coming-days</id>
         <link href="https://thedefiant.io/etherfi-expedites-roadmap-will-launch-token-in-coming-days"/>
         <updated>2024-03-14T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[EtherFi is launching its token ahead of schedule, with ETHFI set to begin trading on Binance from March 18.]]></summary>
+        <summary type="html"><![CDATA[Binance announces ETHFI Launchpool farming as EtherFi’s first points campaign wraps up.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Evan Cheng is the Co-founder & CEO at Mysten Labs, which is the team behind Sui Network. In their words, Sui is a Layer 1 blockchain and smart contract platform "designed to make digital asset ownership fast, private, secure, and accessible". In our conversation we explore the potential of this up and coming Layer 1 by learning about the underlying motivation of the founder, what makes it different from other blockchains, in particular Aptos, the current main uses cases, and more.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Governance Rejects Proposal Enabling DAO To Make Fee Changes]]></title>
-        <id>https://thedefiant.io/uniswap-governance-shoots-down-fee-switch-proposal-again</id>
-        <link href="https://thedefiant.io/uniswap-governance-shoots-down-fee-switch-proposal-again"/>
-        <updated>2024-03-11T09:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 60% of votes were cast against a proposal that would allow the DAO to change Uniswap’s fee mechanism.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
