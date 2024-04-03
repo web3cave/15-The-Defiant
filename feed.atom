@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-03T17:03:45.008Z</id>
+    <id>urn:2024-04-03T18:07:52.875Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-03T17:03:45.008Z</updated>
+    <updated>2024-04-03T18:07:52.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wormhole's W Token Climbs to $2.5 Billion Market Cap Post Airdrop]]></title>
+        <id>https://thedefiant.io/wormhole-w-token-climbs-to-usd2-5-billion-market-cap-post-airdrop</id>
+        <link href="https://thedefiant.io/wormhole-w-token-climbs-to-usd2-5-billion-market-cap-post-airdrop"/>
+        <updated>2024-04-03T16:53:48.000Z</updated>
+        <summary type="html"><![CDATA[The token for the cross-chain bridge trades for about $1.50.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ether Issuance Emerges As Hotly Contested Issue]]></title>
         <id>https://thedefiant.io/ether-issuance-emerges-as-hotly-contested-issue</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades</id>
         <link href="https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades"/>
         <updated>2024-03-14T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In addition to EIP-4844, Dencun also introduced significant upgrades bolstering block space efficiency, user security, and network validation.]]></summary>
+        <summary type="html"><![CDATA[Leading Layer 2 teams discuss which overlooked EIPs from Ethereum's recent Dencun upgrade introduced the most important changes.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[DAI stability fees were raised from between 6.41% and 7.18% to between 15% and 17.25%.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Ex-Apple Engineer Led Sui Network]]></title>
-        <id>https://thedefiant.io/exploring-the-ex-apple-engineer-led-sui-network</id>
-        <link href="https://thedefiant.io/exploring-the-ex-apple-engineer-led-sui-network"/>
-        <updated>2024-03-11T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Evan Cheng is the Co-founder & CEO at Mysten Labs, which is the team behind Sui Network. In their words, Sui is a Layer 1 blockchain and smart contract platform "designed to make digital asset ownership fast, private, secure, and accessible". In our conversation we explore the potential of this up and coming Layer 1 by learning about the underlying motivation of the founder, what makes it different from other blockchains, in particular Aptos, the current main uses cases, and more.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
