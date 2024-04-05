@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-05T22:03:51.930Z</id>
+    <id>urn:2024-04-05T23:06:36.968Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-05T22:03:51.930Z</updated>
+    <updated>2024-04-05T23:06:36.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Founder Says Having “Rando’s” Participate in Governance Makes DAOs Unpredictable]]></title>
+        <id>https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable</id>
+        <link href="https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable"/>
+        <updated>2024-04-05T22:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Rune Christensen was called out for adding USDe as collateral for MakerDAO.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It]]></title>
+        <id>https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it</id>
+        <link href="https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it"/>
+        <updated>2024-04-05T22:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Aave is decreasing DAI loan-to-value (LTV) ratio by 12 percentage points after MakerDAO added Ethena's USDe synthetic dollar as collateral.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do Kwon And Terraform Labs Found Liable For $40 Billion Fraud]]></title>
         <id>https://thedefiant.io/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/thorchain-loans-spike-with-weekly-flows-of-usd100m</id>
         <link href="https://thedefiant.io/thorchain-loans-spike-with-weekly-flows-of-usd100m"/>
         <updated>2024-03-19T03:02:00.000Z</updated>
-        <summary type="html"><![CDATA[DeFi degens have piled more than $100 million into Thorchain after the cross-chain liquidity protocol raised its collateral limits.]]></summary>
+        <summary type="html"><![CDATA[Lending on the decentralized liquidity protocol has skyrocketed more than threefold in the past week.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Fees across leading Layer 2s supporting EIP-4844 have fallen by between 50% and 98%.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Blobs: Diving Into Dencun’s Overlooked Upgrades]]></title>
-        <id>https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades</id>
-        <link href="https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades"/>
-        <updated>2024-03-14T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In addition to EIP-4844, Dencun also introduced significant upgrades bolstering block space efficiency, user security, and network validation.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thetanuts Finance Launches Leveraged Liquid Restaking]]></title>
-        <id>https://thedefiant.io/thetanuts-finance-launches-leveraged-liquid-restaking</id>
-        <link href="https://thedefiant.io/thetanuts-finance-launches-leveraged-liquid-restaking"/>
-        <updated>2024-03-14T15:31:40.000Z</updated>
-        <summary type="html"><![CDATA[The onchain options protocol has integrated with Pendle Finance to tap multiple yield sources.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>

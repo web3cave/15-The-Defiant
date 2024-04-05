@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable",
+          "author": "Pedro Solimano",
+          "description": "Rune Christensen was called out for adding USDe as collateral for MakerDAO.",
+          "link": "https://thedefiant.io/makerdao-founder-says-having-rando-s-participate-in-governance-makes-daos-unpredictable",
+          "publishedOn": "2024-04-05T22:33:32.000Z",
+          "wordCount": 2370,
+          "title": "MakerDAO Founder Says Having “Rando’s” Participate in Governance Makes DAOs Unpredictable",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/54cd77a665507529bc7cea2f511f67bce24aadb2-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54cd77a665507529bc7cea2f511f67bce24aadb2-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it",
+          "author": "Camila Russo",
+          "description": "Aave is decreasing DAI loan-to-value (LTV) ratio by 12 percentage points after MakerDAO added Ethena's USDe synthetic dollar as collateral.",
+          "link": "https://thedefiant.io/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it",
+          "publishedOn": "2024-04-05T22:20:14.000Z",
+          "wordCount": 1977,
+          "title": "Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/755c427ec4154a6bf6aeb278552d7aec1902b53c-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/755c427ec4154a6bf6aeb278552d7aec1902b53c-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud",
           "author": "Pedro Solimano",
           "description": "The jury voted unanimously against Kwon.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/thorchain-loans-spike-with-weekly-flows-of-usd100m",
           "author": "Pedro Solimano",
-          "description": "DeFi degens have piled more than $100 million into Thorchain after the cross-chain liquidity protocol raised its collateral limits.",
+          "description": "Lending on the decentralized liquidity protocol has skyrocketed more than threefold in the past week.",
           "link": "https://thedefiant.io/thorchain-loans-spike-with-weekly-flows-of-usd100m",
           "publishedOn": "2024-03-19T03:02:00.000Z",
           "wordCount": 2663,
@@ -1474,36 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b2c6b4409bb4f0092c4aa83084624c345a9fede6-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades",
-          "author": "Samuel Haig",
-          "description": "In addition to EIP-4844, Dencun also introduced significant upgrades bolstering block space efficiency, user security, and network validation.",
-          "link": "https://thedefiant.io/beyond-blobs-diving-into-dencun-s-overlooked-upgrades",
-          "publishedOn": "2024-03-14T15:40:00.000Z",
-          "wordCount": 3469,
-          "title": "Beyond Blobs: Diving Into Dencun’s Overlooked Upgrades",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e0a8d856ee3275419b86b6c3d02f79e6505c8041-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/thetanuts-finance-launches-leveraged-liquid-restaking",
-          "author": "Pedro Solimano",
-          "description": "The onchain options protocol has integrated with Pendle Finance to tap multiple yield sources.",
-          "link": "https://thedefiant.io/thetanuts-finance-launches-leveraged-liquid-restaking",
-          "publishedOn": "2024-03-14T15:31:40.000Z",
-          "wordCount": 2467,
-          "title": "Thetanuts Finance Launches Leveraged Liquid Restaking",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/db7d4fb94aaa6b689470364746291bb3a8925617-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/db7d4fb94aaa6b689470364746291bb3a8925617-1792x1024.webp"
         }
       ]
     }
