@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-25T00:31:56.311Z</id>
+    <id>urn:2024-04-25T01:44:16.139Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-25T00:31:56.311Z</updated>
+    <updated>2024-04-25T01:44:16.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feds Arrest Samourai Wallet Founders on Money Laundering Charges]]></title>
+        <id>https://thedefiant.io/news/regulation/feds-arrest-samourai-wallet-founders-on-money-laundering-charges</id>
+        <link href="https://thedefiant.io/news/regulation/feds-arrest-samourai-wallet-founders-on-money-laundering-charges"/>
+        <updated>2024-04-24T20:34:34.000Z</updated>
+        <summary type="html"><![CDATA[The government alleges the founders knowingly facilitated $2 billion of unlawful transactions and the laundering of $100 million from Silk Road and other black market platforms.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Restaking Overtakes Liquid Staking In Monthly Inflows]]></title>
         <id>https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows</id>
         <link href="https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows"/>
         <updated>2024-04-24T19:58:43.000Z</updated>
-        <summary type="html"><![CDATA[The biggest winner is EtherFi, while Lido sees $1B+ worth of ETH.]]></summary>
+        <summary type="html"><![CDATA[The biggest winner was EtherFi, while Lido saw $1B+ of outflows.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -411,6 +421,16 @@
         <link href="https://thedefiant.io/news/defi/solana-real-estate-protocol-parcl-to-airdrop-token-tomorrow"/>
         <updated>2024-04-15T19:18:51.000Z</updated>
         <summary type="html"><![CDATA[Parcl will distribute 800M PRCL tokens to early users.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Raises Swap Fees Days After SEC Warning]]></title>
+        <id>https://thedefiant.io/news/regulation/uniswap-raises-swap-fees-days-after-sec-warning</id>
+        <link href="https://thedefiant.io/news/regulation/uniswap-raises-swap-fees-days-after-sec-warning"/>
+        <updated>2024-04-15T16:58:41.000Z</updated>
+        <summary type="html"><![CDATA[The platform has hiked transaction costs to 0.25% from 0.15%.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/frax-stakers-on-track-to-earn-usd20-8m-annually-after-fee-switch-activation</id>
         <link href="https://thedefiant.io/news/defi/frax-stakers-on-track-to-earn-usd20-8m-annually-after-fee-switch-activation"/>
         <updated>2024-04-05T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Frax will distribute nearly $400,000 to veFXS stakers this week.]]></summary>
+        <summary type="html"><![CDATA[Frax stakers will receive $400,000 this week after the project's community voted to activate its fee switch.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin plunged 5% to $65,000 after yesterday's $300 million in GBTC outflows.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Labs ENA Launches at $1 Billion Market Cap Post Airdrop As “Sats Campaign” Kicks Off]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-labs-ena-launches-at-usd1-billion-post-airdrop-as-sats-campaign-kicks-off</id>
-        <link href="https://thedefiant.io/news/defi/ethena-labs-ena-launches-at-usd1-billion-post-airdrop-as-sats-campaign-kicks-off"/>
-        <updated>2024-04-02T16:05:23.000Z</updated>
-        <summary type="html"><![CDATA[The token trades for $0.64, and over $10 billion in fully diluted valuation.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin and Arthur Hayes Weigh In On Memecoin Frenzy]]></title>
-        <id>https://thedefiant.io/news/defi/vitalik-buterin-and-arthur-hayes-weigh-in-on-memecoin-frenzy</id>
-        <link href="https://thedefiant.io/news/defi/vitalik-buterin-and-arthur-hayes-weigh-in-on-memecoin-frenzy"/>
-        <updated>2024-04-02T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Memecoins are driving blockchain adoption and could serve to facilitate public goods funding.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
