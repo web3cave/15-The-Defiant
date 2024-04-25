@@ -6,6 +6,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams",
+          "author": "Samuel Haig",
+          "description": "Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.",
+          "link": "https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams",
+          "publishedOn": "2024-04-25T13:00:00.000Z",
+          "wordCount": 1852,
+          "title": "Avail Announces Data Availability Integrations With Five Leading L2 Teams",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c9f78315e43ffe840a7ce39e3258bc5eda7a459-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c9f78315e43ffe840a7ce39e3258bc5eda7a459-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol",
+          "author": "Samuel Haig",
+          "description": "CCIP is already generating $6,669 in daily revenue for Chainlink.",
+          "link": "https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol",
+          "publishedOn": "2024-04-25T12:40:00.000Z",
+          "wordCount": 2056,
+          "title": "Chainlink Completes Permissionless Rollout For Cross-Chain Interoperability Protocol",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b56ade45041d3849e2a8473c3dd8a131bc7fd06-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b56ade45041d3849e2a8473c3dd8a131bc7fd06-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2",
+          "author": "Mehab Qureshi",
+          "description": "X Layer went live on mainnet last week.",
+          "link": "https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2",
+          "publishedOn": "2024-04-25T10:07:00.000Z",
+          "wordCount": 1790,
+          "title": "Frax and PotatoSwap Team Up On OKX’s New L2 X Layer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/511476bc63c7fff16d81e85fa409f1f38ab8b7bc-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/511476bc63c7fff16d81e85fa409f1f38ab8b7bc-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/fantasy-top-attracts-usd56-million-ahead-of-mainnet-launch",
+          "author": "Squiffs",
+          "description": "The Social-Fi card trading game on Blast combines fantasy sports with Crypto Twitter.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/fantasy-top-attracts-usd56-million-ahead-of-mainnet-launch",
+          "publishedOn": "2024-04-25T06:09:26.000Z",
+          "wordCount": 1890,
+          "title": "Fantasy.Top Attracts $56 Million Ahead of Mainnet Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9bca07a002abce59f38a95287f9817d89b1ee192-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9bca07a002abce59f38a95287f9817d89b1ee192-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/feds-arrest-samourai-wallet-founders-on-money-laundering-charges",
           "author": "Pedro Solimano",
           "description": "The government alleges the founders knowingly facilitated $2 billion of unlawful transactions and the laundering of $100 million from Silk Road and other black market platforms.",
@@ -1193,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud",
           "author": "Pedro Solimano",
-          "description": "The jury voted unanimously against Kwon.",
+          "description": "The United States Southern District of New York jury found Terraform Labs and its co-founder Do Kwon misled investors, acted recklessly, and are liable for civil fraud.",
           "link": "https://thedefiant.io/news/regulation/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud",
           "publishedOn": "2024-04-05T20:37:17.000Z",
           "wordCount": 1824,
@@ -1253,7 +1313,7 @@
         {
           "id": "https://thedefiant.io/news/defi/frax-stakers-on-track-to-earn-usd20-8m-annually-after-fee-switch-activation",
           "author": "Samuel Haig",
-          "description": "Frax stakers will receive $400,000 this week after the project's community voted to activate its fee switch.",
+          "description": "Frax will distribute nearly $400,000 to veFXS stakers this week.",
           "link": "https://thedefiant.io/news/defi/frax-stakers-on-track-to-earn-usd20-8m-annually-after-fee-switch-activation",
           "publishedOn": "2024-04-05T13:40:00.000Z",
           "wordCount": 2072,
@@ -1444,66 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f1fdf99788dfe2aeb271d63c8674c2a4ad8aa99-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/wormhole-w-token-climbs-to-usd2-5-billion-market-cap-post-airdrop",
-          "author": "Pedro Solimano",
-          "description": "The token for the cross-chain bridge trades for about $1.50.",
-          "link": "https://thedefiant.io/news/defi/wormhole-w-token-climbs-to-usd2-5-billion-market-cap-post-airdrop",
-          "publishedOn": "2024-04-03T16:53:48.000Z",
-          "wordCount": 1696,
-          "title": "Wormhole's W Token Climbs to $2.5 Billion Market Cap Post Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/210c91606ec5a5145738ea068999041f029b37a4-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/210c91606ec5a5145738ea068999041f029b37a4-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/ether-issuance-emerges-as-hotly-contested-issue",
-          "author": "Samuel Haig",
-          "description": "Researchers argue Ethereum's emissions scheduled should be reduced, but not everyone agrees.",
-          "link": "https://thedefiant.io/news/cefi/ether-issuance-emerges-as-hotly-contested-issue",
-          "publishedOn": "2024-04-03T13:47:00.000Z",
-          "wordCount": 2696,
-          "title": "Ether Issuance Emerges As Hotly Contested Issue",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb6a5cc70bf34ee7baf11d36a59289c0e6c8b86e-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cb6a5cc70bf34ee7baf11d36a59289c0e6c8b86e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral",
-          "author": "Pedro Solimano",
-          "description": "Nostra Finance is pausing new borrowing and lending of DAI, while a similar proposal has been floated in Aave’s governance forum.",
-          "link": "https://thedefiant.io/news/defi/defi-projects-clash-after-makerdao-adds-ethena-s-usde-as-collateral",
-          "publishedOn": "2024-04-02T19:34:55.000Z",
-          "wordCount": 2304,
-          "title": "DeFi Projects Clash After MakerDAO Adds Ethena’s USDe As Collateral",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee57d168e7479b79fe70c79fd43bdf5f294f5d99-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee57d168e7479b79fe70c79fd43bdf5f294f5d99-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-turn-sharply-lower-as-dollar-strengthens",
-          "author": "yyctrader",
-          "description": "Bitcoin plunged 5% to $65,000 after yesterday's $300 million in GBTC outflows.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-turn-sharply-lower-as-dollar-strengthens",
-          "publishedOn": "2024-04-02T17:36:38.000Z",
-          "wordCount": 1448,
-          "title": "Crypto Markets Turn Sharply Lower As Dollar Strengthens",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/35c42abaf1ebb796a374f85c530628f60858683f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/35c42abaf1ebb796a374f85c530628f60858683f-1792x1024.webp"
         }
       ]
     }
