@@ -6,6 +6,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
+          "author": "Pedro Solimano",
+          "description": "The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
+          "publishedOn": "2024-04-25T18:21:58.000Z",
+          "wordCount": 1486,
+          "title": "Payments Giant Stripe Adds Crypto Again Starting With USDC, TechCrunch Reports",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67a02f55908b7d4adadaf921f6472091d74b2253-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67a02f55908b7d4adadaf921f6472091d74b2253-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/franklin-templeton-enables-p2p-transfers-for-benji-fund",
+          "author": "yyctrader",
+          "description": "The asset management firm’s $380 million OnChain U.S. Government Money Fund commands nearly a third of the tokenized Treasuries sector.",
+          "link": "https://thedefiant.io/news/defi/franklin-templeton-enables-p2p-transfers-for-benji-fund",
+          "publishedOn": "2024-04-25T17:42:01.000Z",
+          "wordCount": 1650,
+          "title": "Franklin Templeton Enables P2P Transfers for BENJI Fund",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aad79dc7c39c515de63e297f5f7cc9e8731dc278-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aad79dc7c39c515de63e297f5f7cc9e8731dc278-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected",
+          "author": "Mehab Qureshi",
+          "description": "The downturn comes as inflows into BlackRock's spot Bitcoin ETF dry up.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected",
+          "publishedOn": "2024-04-25T16:35:38.000Z",
+          "wordCount": 1705,
+          "title": "Bitcoin and Ethereum Prices Tumble as GDP Data Comes In Weaker Than Expected",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d16e311b9410a8bb50c0fe01a03132c07bf7f288-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d16e311b9410a8bb50c0fe01a03132c07bf7f288-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever",
+          "author": "Pedro Solimano",
+          "description": "Punk 635 was bought for 4,000 ETH.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever",
+          "publishedOn": "2024-04-25T16:23:14.000Z",
+          "wordCount": 1701,
+          "title": "Punk 635 Sold for $12M in 4th-Highest CryptoPunk Sale Ever",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3b57b1b1021a77e5921ffe7dbd013ffc30707ee7-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3b57b1b1021a77e5921ffe7dbd013ffc30707ee7-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams",
           "author": "Samuel Haig",
           "description": "Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.",
@@ -1193,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/sushi-team-under-fire-for-proposed-treasury-takeover",
           "author": "Samuel Haig",
-          "description": "Sushi’s head chef said the proposal seeks to safeguard treasury assets from an ongoing ‘governance attack.’",
+          "description": "Sushi's team is accused of engineering a hostile takeover after proposing the transfer of treasury assets to a centralized entity.",
           "link": "https://thedefiant.io/news/defi/sushi-team-under-fire-for-proposed-treasury-takeover",
           "publishedOn": "2024-04-08T15:40:00.000Z",
           "wordCount": 4503,
@@ -1253,7 +1313,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud",
           "author": "Pedro Solimano",
-          "description": "The United States Southern District of New York jury found Terraform Labs and its co-founder Do Kwon misled investors, acted recklessly, and are liable for civil fraud.",
+          "description": "The jury voted unanimously against Kwon.",
           "link": "https://thedefiant.io/news/regulation/do-kwon-and-terraform-labs-found-liable-for-usd40-billion-fraud",
           "publishedOn": "2024-04-05T20:37:17.000Z",
           "wordCount": 1768,
@@ -1444,66 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ad6fe10861b6f7a34a552cdd9d25310f3f588cb-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/zircuit-attracts-more-than-usd1b-in-pre-mainnet-deposits-over-six-weeks",
-          "author": "Samuel Haig",
-          "description": "Points and restaking farmers are directing their  attention toward the little-known L2.",
-          "link": "https://thedefiant.io/news/defi/zircuit-attracts-more-than-usd1b-in-pre-mainnet-deposits-over-six-weeks",
-          "publishedOn": "2024-04-04T07:57:00.000Z",
-          "wordCount": 1746,
-          "title": "Zircuit Attracts More Than $1B In Pre-Mainnet Deposits Over Six Weeks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4c143d430161bafa36220d864654335ad79ef05-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f4c143d430161bafa36220d864654335ad79ef05-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/chile-stands-to-lead-latin-america-for-crypto-regulation-even-as-it-lags-in-adoption",
-          "author": "Pedro Solimano",
-          "description": "The country now has a FinTech law that creates a category for “crypto-assets.”",
-          "link": "https://thedefiant.io/news/cefi/chile-stands-to-lead-latin-america-for-crypto-regulation-even-as-it-lags-in-adoption",
-          "publishedOn": "2024-04-03T19:56:10.000Z",
-          "wordCount": 3196,
-          "title": "Chile Stands to Lead Latin America For Crypto Regulation, Even as it Lags in Adoption",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0256c7285e448f49d9b60b6da5cc2f120d049a08-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0256c7285e448f49d9b60b6da5cc2f120d049a08-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/sec-asks-for-public-comments-on-ethereum-etfs-but-experts-say-it-s-not-bullish",
-          "author": "Pedro Solimano",
-          "description": "According to Bloomberg's James Seyffart, asking for public comments on ETFs is standard procedure.",
-          "link": "https://thedefiant.io/news/cefi/sec-asks-for-public-comments-on-ethereum-etfs-but-experts-say-it-s-not-bullish",
-          "publishedOn": "2024-04-03T19:09:30.000Z",
-          "wordCount": 1801,
-          "title": "SEC Asks For Public Comments On Ethereum ETFs But Experts Say It’s Not Bullish",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fcc2b9a8b61dc513c7c94925fe03c15d9d9c11b-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7fcc2b9a8b61dc513c7c94925fe03c15d9d9c11b-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pendle-tvl-approaches-usd4-billion-on-airdrop-farming-demand",
-          "author": "yyctrader",
-          "description": "The yield trading protocol processed $530 million of trades on April 2 after launching new Ethena pools.",
-          "link": "https://thedefiant.io/news/defi/pendle-tvl-approaches-usd4-billion-on-airdrop-farming-demand",
-          "publishedOn": "2024-04-03T19:08:56.000Z",
-          "wordCount": 1912,
-          "title": "Pendle TVL Approaches $4 Billion On Airdrop Farming Demand",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f1fdf99788dfe2aeb271d63c8674c2a4ad8aa99-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f1fdf99788dfe2aeb271d63c8674c2a4ad8aa99-1792x1024.webp"
         }
       ]
     }
