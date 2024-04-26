@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T11:04:45.721Z</id>
+    <id>urn:2024-04-26T12:11:29.129Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-26T11:04:45.721Z</updated>
+    <updated>2024-04-26T12:11:29.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether Inflates After Gas Fees Plummet]]></title>
+        <id>https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet</id>
+        <link href="https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet"/>
+        <updated>2024-04-26T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Ether's supply is inflating despite Ethereum throughput remaining high]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoiners Spend Millions On ‘Buy Bitcoin’ Sign and First Sat Of Halving Block]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/bitcoiners-spend-millions-on-buy-bitcoin-sign-and-first-sat-of-halving-block</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/stacks-to-integrate-portal-defi-for-bitcoin-to-layer-2-atomic-swaps</id>
         <link href="https://thedefiant.io/news/defi/stacks-to-integrate-portal-defi-for-bitcoin-to-layer-2-atomic-swaps"/>
         <updated>2024-04-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stacks’ sBTC will support non-custodial cross-chain swaps by integrating with the Portal DEX Network.]]></summary>
+        <summary type="html"><![CDATA[Stacks will integrate with the Portal DEX Network to enable cross-chain atomic swaps for its synthetic BTC token, sBTC.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/stablecoin-wars-heat-up-as-paypal-enables-pyusd-for-cross-border-transfers"/>
         <updated>2024-04-04T16:03:42.000Z</updated>
         <summary type="html"><![CDATA[Ripple has also announced a new U.S. dollar-pegged stablecoin.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Web3Firewall Raises $2.5 Million Round Led By Nomura's Laser Digital]]></title>
-        <id>https://thedefiant.io/news/cefi/ai-powered-crypto-security-company-raises-usd2-5-million-round-led-by-laser-digital</id>
-        <link href="https://thedefiant.io/news/cefi/ai-powered-crypto-security-company-raises-usd2-5-million-round-led-by-laser-digital"/>
-        <updated>2024-04-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web3Firewall aims to use machine learning and AI to quickly detect malicious transactions.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
