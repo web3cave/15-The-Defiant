@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
+          "author": "Pedro Solimano",
+          "description": "Offchain Labs found bugs in Optimism's proposed dispute system.",
+          "link": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
+          "publishedOn": "2024-04-26T18:21:00.000Z",
+          "wordCount": 1917,
+          "title": "Two Vulnerabilities Caught in Optimism Testnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0edbbb1fa50067514fd75554ffc1c38ce1f34eb4-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0edbbb1fa50067514fd75554ffc1c38ce1f34eb4-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside",
+          "author": "yyctrader",
+          "description": "CEO Greg Solano took aim at “labyrinthine corporate processes” in a message to employees.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside",
+          "publishedOn": "2024-04-26T18:03:52.000Z",
+          "wordCount": 1505,
+          "title": "Yuga Labs to Restructure and Renew Focus on Otherside",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/382994a319c06ddcde0dcd5223167ba603bbd23e-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/382994a319c06ddcde0dcd5223167ba603bbd23e-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg",
           "author": "Samuel Haig",
           "description": "Renzo updated its token allocation to Season 1 points farmers by 2%.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull",
           "author": "Samuel Haig",
-          "description": "SilkRoad Foundation has raised nearly $3,000 for the family of Ross Ulbricht after commandeering the SILKROAD memecoin rug-pull.",
+          "description": "The organization was founded through a “community takeover” commandeering the SILKROAD memecoin rug-pull.",
           "link": "https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull",
           "publishedOn": "2024-04-09T13:50:00.000Z",
           "wordCount": 2125,
@@ -1474,36 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/44d8b8829624470d098470f79c9ab2bf7d3c71c1-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethena-adds-bitcoin-as-collateral-asset-for-usde",
-          "author": "yyctrader",
-          "description": "The move is intended to help the delta-hedged synthetic dollar scale by accessing the Bitcoin futures market.",
-          "link": "https://thedefiant.io/news/defi/ethena-adds-bitcoin-as-collateral-asset-for-usde",
-          "publishedOn": "2024-04-04T18:24:50.000Z",
-          "wordCount": 1398,
-          "title": "Ethena Adds Bitcoin As Collateral Asset For USDe",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/df858df2c36989f7d14acee002d4e551376f9a87-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df858df2c36989f7d14acee002d4e551376f9a87-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts",
-          "author": "yyctrader",
-          "description": "Bitcoin rallied 4%, with global crypto market capitalization up 3% to $2.7 trillion.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts",
-          "publishedOn": "2024-04-04T17:53:13.000Z",
-          "wordCount": 1525,
-          "title": "Crypto Markets Bounce As Hedge Funds Pile On Bitcoin Shorts",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/926d24a2a8433b273db7674294d603af62783d14-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/926d24a2a8433b273db7674294d603af62783d14-1792x1024.webp"
         }
       ]
     }

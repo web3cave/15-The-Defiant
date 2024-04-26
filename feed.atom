@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T18:07:47.373Z</id>
+    <id>urn:2024-04-26T19:04:12.015Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-26T18:07:47.373Z</updated>
+    <updated>2024-04-26T19:04:12.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Two Vulnerabilities Caught in Optimism Testnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet</id>
+        <link href="https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet"/>
+        <updated>2024-04-26T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Offchain Labs found bugs in Optimism's proposed dispute system.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs to Restructure and Renew Focus on Otherside]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside"/>
+        <updated>2024-04-26T18:03:52.000Z</updated>
+        <summary type="html"><![CDATA[CEO Greg Solano took aim at “labyrinthine corporate processes” in a message to employees.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Renzo Updates Airdrop Terms After Explosive ezETH Depeg]]></title>
         <id>https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull"/>
         <updated>2024-04-09T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[SilkRoad Foundation has raised nearly $3,000 for the family of Ross Ulbricht after commandeering the SILKROAD memecoin rug-pull.]]></summary>
+        <summary type="html"><![CDATA[The organization was founded through a “community takeover” commandeering the SILKROAD memecoin rug-pull.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Yearn’s Andre Cronje is the latest DeFi OG to sound the alarm.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Adds Bitcoin As Collateral Asset For USDe]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-adds-bitcoin-as-collateral-asset-for-usde</id>
-        <link href="https://thedefiant.io/news/defi/ethena-adds-bitcoin-as-collateral-asset-for-usde"/>
-        <updated>2024-04-04T18:24:50.000Z</updated>
-        <summary type="html"><![CDATA[The move is intended to help the delta-hedged synthetic dollar scale by accessing the Bitcoin futures market.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Bounce As Hedge Funds Pile On Bitcoin Shorts]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts"/>
-        <updated>2024-04-04T17:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin rallied 4%, with global crypto market capitalization up 3% to $2.7 trillion.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
