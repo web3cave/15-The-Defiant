@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/eigenlayer-to-drop-token-on-may-10",
+          "author": "yyctrader",
+          "description": "The highly anticipated Ethereum restaking protocol has launched a claim portal for airdrop recipients, who were allocated 5% of the EIGEN supply in Season 1.",
+          "link": "https://thedefiant.io/news/defi/eigenlayer-to-drop-token-on-may-10",
+          "publishedOn": "2024-04-29T18:03:12.000Z",
+          "wordCount": 1673,
+          "title": "EigenLayer to Drop Token on May 10",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f64a8542f1b88d2ad6048596b357f205dc04d77e-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f64a8542f1b88d2ad6048596b357f205dc04d77e-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
           "author": "Pedro Solimano",
           "description": "The move aims to address rollup hacks.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs",
           "author": "Camila Russo",
-          "description": "Uniswap is prepared to take on the U.S. securities regulator, founder Hayden Adams said.",
+          "description": "The U.S. Securities and Exchange Commission is preparing to sue Uniswap Labs, the company building on the largest decentralized exchange by volume of the same name, according to a tweet by founder Hayden Adams.",
           "link": "https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs",
           "publishedOn": "2024-04-10T19:00:27.000Z",
           "wordCount": 1842,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains",
           "author": "Samuel Haig",
-          "description": "Layer N has launched Phase 1 of its testnet rollup. The project offers high-throughput and a unified interface for application-specific rollups.",
+          "description": "Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.",
           "link": "https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains",
           "publishedOn": "2024-04-10T19:00:00.000Z",
           "wordCount": 1861,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54cd77a665507529bc7cea2f511f67bce24aadb2-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it",
-          "author": "Camila Russo",
-          "description": "Aave is decreasing DAI loan-to-value (LTV) ratio by 12 percentage points after MakerDAO added Ethena's USDe synthetic dollar as collateral.",
-          "link": "https://thedefiant.io/news/defi/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it",
-          "publishedOn": "2024-04-05T22:20:14.000Z",
-          "wordCount": 1574,
-          "title": "Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/755c427ec4154a6bf6aeb278552d7aec1902b53c-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/755c427ec4154a6bf6aeb278552d7aec1902b53c-1792x1024.png"
         }
       ]
     }

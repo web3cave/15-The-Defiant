@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-29T18:07:59.744Z</id>
+    <id>urn:2024-04-29T19:03:13.735Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-29T18:07:59.744Z</updated>
+    <updated>2024-04-29T19:03:13.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer to Drop Token on May 10]]></title>
+        <id>https://thedefiant.io/news/defi/eigenlayer-to-drop-token-on-may-10</id>
+        <link href="https://thedefiant.io/news/defi/eigenlayer-to-drop-token-on-may-10"/>
+        <updated>2024-04-29T18:03:12.000Z</updated>
+        <summary type="html"><![CDATA[The highly anticipated Ethereum restaking protocol has launched a claim portal for airdrop recipients, who were allocated 5% of the EIGEN supply in Season 1.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation Wants To Use AI to De-Risk ETH Ecosystem]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs</id>
         <link href="https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs"/>
         <updated>2024-04-10T19:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap is prepared to take on the U.S. securities regulator, founder Hayden Adams said.]]></summary>
+        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission is preparing to sue Uniswap Labs, the company building on the largest decentralized exchange by volume of the same name, according to a tweet by founder Hayden Adams.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains</id>
         <link href="https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains"/>
         <updated>2024-04-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Layer N has launched Phase 1 of its testnet rollup. The project offers high-throughput and a unified interface for application-specific rollups.]]></summary>
+        <summary type="html"><![CDATA[Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Rune Christensen was called out for adding USDe as collateral for MakerDAO.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Reduces MakerDAO's DAI Collateral After Proposal to Completely Eliminate It]]></title>
-        <id>https://thedefiant.io/news/defi/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it</id>
-        <link href="https://thedefiant.io/news/defi/aave-decides-to-reduce-makerdao-s-dai-collateral-after-proposal-to-completely-eliminate-it"/>
-        <updated>2024-04-05T22:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Aave is decreasing DAI loan-to-value (LTV) ratio by 12 percentage points after MakerDAO added Ethena's USDe synthetic dollar as collateral.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
