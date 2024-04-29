@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
-          "id": "https://thedefiant.io/news/regulation/doj-opposes-motion-to-dismiss-charges-against-tornado-cash-developer",
+          "id": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
           "author": "Samuel Haig",
+          "description": "Runes users can now move their assets across Layer 1 and Layer 2 networks.",
+          "link": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
+          "publishedOn": "2024-04-29T13:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Omnity Introduces Cross-Chain Transfer Functionality For Runes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56dbb62c15e173f788c191d4c0e6b24b3438ab3f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56dbb62c15e173f788c191d4c0e6b24b3438ab3f-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/doj-opposes-motion-to-dismiss-charges-against-tornado-cash-developer",
+          "author": "Mehab Qureshi",
           "description": "The Department of Justice said Roman Storm profited to the tune of millions while working on Tornado Cash.",
           "link": "https://thedefiant.io/news/regulation/doj-opposes-motion-to-dismiss-charges-against-tornado-cash-developer",
           "publishedOn": "2024-04-29T11:40:00.000Z",
-          "wordCount": 2483,
+          "wordCount": 2455,
           "title": "DoJ Opposes Motion to Dismiss Charges Against Tornado Cash Developer",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/814c8394634456736416cf8316262beab0691db6-1792x1024.webp",
@@ -41,7 +56,7 @@
           "description": "The network is “transforming into a true Layer-2” said Rena Shah of Trust Machines.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever",
           "publishedOn": "2024-04-26T20:19:29.000Z",
-          "wordCount": 2473,
+          "wordCount": 2514,
           "title": "Bitcoin Layer 2 Stacks Prepares for Nakamoto Upgrade, its Largest Hard-Fork Ever",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5652721d41e50ef3fcb157af55c9e72d983ec43-1792x1024.png",
@@ -56,7 +71,7 @@
           "description": "Offchain Labs found bugs in Optimism's proposed dispute system.",
           "link": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "publishedOn": "2024-04-26T18:21:00.000Z",
-          "wordCount": 1967,
+          "wordCount": 2008,
           "title": "Two Vulnerabilities Caught in Optimism Testnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0edbbb1fa50067514fd75554ffc1c38ce1f34eb4-1792x1024.png",
@@ -101,7 +116,7 @@
           "description": "Ether's supply is inflating despite Ethereum throughput remaining high",
           "link": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
           "publishedOn": "2024-04-26T12:12:00.000Z",
-          "wordCount": 1729,
+          "wordCount": 1770,
           "title": "Ether Inflates After Gas Fees Plummet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bebe3c62512cee290eb54cde8d3d556e3c933b2-1792x1024.webp",
@@ -401,7 +416,7 @@
           "description": "Weekly active wallets have surpassed 10 million, driven by Base and Polygon.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-ecosystem-activity-soars-to-all-time-high",
           "publishedOn": "2024-04-23T17:31:37.000Z",
-          "wordCount": 2275,
+          "wordCount": 2316,
           "title": "Ethereum Ecosystem Activity Soars to All-time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0a0fc5bdf33c1af280380384ae4ac6e27baee29-1792x1024.webp",
@@ -461,7 +476,7 @@
           "description": "Phase 2 of Metis’ decentralized sequencer rollout introduces rewards for node stakers and operators",
           "link": "https://thedefiant.io/news/blockchains/metis-introduces-decentralized-sequencer-mining-with-phase-2-rollout",
           "publishedOn": "2024-04-23T13:00:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1791,
           "title": "Metis Introduces Decentralized Sequencer Mining With Phase 2 Rollout",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/75d6e1bade59995a9616fb19beff1abc6c777e4a-1792x1024.webp",
@@ -626,7 +641,7 @@
           "description": "The hype around the new fungible token standard has reached a fever pitch ahead of the imminent Bitcoin halving.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-network-fees-soar-as-runes-launch-nears",
           "publishedOn": "2024-04-19T16:40:27.000Z",
-          "wordCount": 1997,
+          "wordCount": 2038,
           "title": "Bitcoin Network Fees Soar as Runes Launch Nears",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e4b5fa7d0a94ca1d631bf4ad2b884b39bfd9727-1792x1024.webp",
@@ -671,7 +686,7 @@
           "description": "The Optimism Collective is launching its Retro Funding Round 4 on May 23.",
           "link": "https://thedefiant.io/news/blockchains/optimism-offers-usd22m-in-grants-to-superchain-builders",
           "publishedOn": "2024-04-18T17:22:13.000Z",
-          "wordCount": 1556,
+          "wordCount": 1597,
           "title": "Optimism Offers $22M in Grants to Superchain Builders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a77b6acd511c5ab50380722e8a39f18f72bb21b-1792x1024.webp",
@@ -716,7 +731,7 @@
           "description": "World Chain will leverage the OP stack and offer special perks to verified Worldcoin users.",
           "link": "https://thedefiant.io/news/blockchains/worldcoin-launches-optimism-powered-layer-2-network",
           "publishedOn": "2024-04-17T19:49:23.000Z",
-          "wordCount": 1603,
+          "wordCount": 1644,
           "title": "Worldcoin Launches Optimism-powered Layer 2 Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/18012887229dd5a2023ea3c30c8be6ee94f36580-828x473.png",
@@ -806,7 +821,7 @@
           "description": "DVT implementation helps ease worries about Lido controlling too much staked ETH.",
           "link": "https://thedefiant.io/news/blockchains/lido-finance-implements-simple-dvt-to-increase-ethereum-node-operators",
           "publishedOn": "2024-04-17T10:50:22.000Z",
-          "wordCount": 1907,
+          "wordCount": 1948,
           "title": "Lido Finance Implements Simple DVT to Increase Ethereum Node Operators",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f4be06d692ef7e140afd4bdeb2c996a1cd2b21e-1792x1024.png",
@@ -926,7 +941,7 @@
           "description": "The network has been under stress in recent months thanks to spam bots and memecoin trading.",
           "link": "https://thedefiant.io/news/blockchains/solana-rolls-out-update-in-bid-to-end-network-congestion",
           "publishedOn": "2024-04-15T14:31:43.000Z",
-          "wordCount": 1664,
+          "wordCount": 1705,
           "title": "Solana Rolls Out Update in Bid To End Network Congestion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9315784ce039a4c7dbae10c35117df99f62304a2-1792x1024.png",
@@ -941,7 +956,7 @@
           "description": "XEN is monopolizing most of the network’s resources, as it did in October 2022 on Ethereum.",
           "link": "https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility",
           "publishedOn": "2024-04-12T20:05:00.000Z",
-          "wordCount": 1972,
+          "wordCount": 2013,
           "title": "Nearly 70% of Base Is Used By Project of ‘Questionable’ Utility",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e3e536529af3444997b88a6260177c630f19ffe-1792x1024.png",
@@ -1001,7 +1016,7 @@
           "description": "EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks",
           "publishedOn": "2024-04-12T13:59:00.000Z",
-          "wordCount": 2280,
+          "wordCount": 2321,
           "title": "Ethereum Upgrade To Improve Wallets But Unlock New Attacks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bfdd18be074b9cd29b4f105db387a0cd69bae025-1792x1024.webp",
@@ -1046,7 +1061,7 @@
           "description": "3% of OMNI’s total supply will be airdropped to EigenLayer restakers, ETH stakers, various NFT holders, and Omni community members.",
           "link": "https://thedefiant.io/news/blockchains/pantera-backed-rollup-omni-network-announces-airdrop",
           "publishedOn": "2024-04-11T20:05:35.000Z",
-          "wordCount": 1525,
+          "wordCount": 1566,
           "title": "Pantera-Backed Rollup Omni Network Announces Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/59cb889dad681988972d4e5ff7f6592a22e7b915-1792x1024.webp",
@@ -1196,7 +1211,7 @@
           "description": "Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.",
           "link": "https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains",
           "publishedOn": "2024-04-10T19:00:00.000Z",
-          "wordCount": 1853,
+          "wordCount": 1894,
           "title": "Layer N Launches Testnet, Aims To Host Unified Ecosystem Of Appchains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f981514241a74cb0fdf8dda57ed87e9956f6bb07-1792x1024.webp",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings",
           "author": "Samuel Haig",
-          "description": "The SEC met with Ether ETF hopefuls, but discussions reportedly lacked meaningful feedback.",
+          "description": "Analysts remain convinced that the SEC will reject pending applications for spot Bitcoin ETFs next month despite the regulator meeting with applicants.",
           "link": "https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings",
           "publishedOn": "2024-04-10T14:21:00.000Z",
           "wordCount": 2319,
@@ -1256,7 +1271,7 @@
           "description": "According to industry experts, the custodian in question is Cobo.",
           "link": "https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin",
           "publishedOn": "2024-04-10T09:56:57.000Z",
-          "wordCount": 2001,
+          "wordCount": 2042,
           "title": "Single Entity Controls Keys to Nearly 50% of All Newly Mined Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ccd764e15e4ce7a41d7c5245ac71b594746121d-1792x1024.webp",
@@ -1301,7 +1316,7 @@
           "description": "Telegram-linked The Open Network has overtaken Cardano by market capitalization, with its TVL tripling in the past month.",
           "link": "https://thedefiant.io/news/blockchains/ton-becomes-top-10-cryptocurrency-after-35-surge",
           "publishedOn": "2024-04-09T17:59:02.000Z",
-          "wordCount": 1466,
+          "wordCount": 1507,
           "title": "TON Becomes Top 10 Cryptocurrency After 35% Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1120f83b39bef81a63e0fa46adcdb3ebd45eb30d-1792x1024.webp",
@@ -1316,7 +1331,7 @@
           "description": "The round was led by Paradigm, and includes MakerDAO’s Rune Christensen and Coinbase Ventures.",
           "link": "https://thedefiant.io/news/blockchains/monad-labs-raises-usd225m-in-this-year-s-biggest-funding-round",
           "publishedOn": "2024-04-09T16:43:09.000Z",
-          "wordCount": 1622,
+          "wordCount": 1663,
           "title": "Monad Labs Raises $225M in This Year’s Biggest Funding Round",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fadb5f4f2e8109f3721fc6a03c9af0096922b5e-1792x1024.png",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9a7730e9d9a37c8a6a3de2ab45644c383ec7c7cb-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/bonsai-memecoin-aims-to-becomes-de-facto-currency-on-lens-after-usd590-000-angel-round",
-          "author": "Pedro Solimano",
-          "description": "The token pumped 30% ahead of the funding announcement.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/bonsai-memecoin-aims-to-becomes-de-facto-currency-on-lens-after-usd590-000-angel-round",
-          "publishedOn": "2024-04-05T14:19:59.000Z",
-          "wordCount": 1819,
-          "title": "BONSAI Memecoin Aims to Becomes De Facto Currency On Lens After $1M Angel Round",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/460ce4863a9183031aa05ecb9cfcaa4992080e8f-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/460ce4863a9183031aa05ecb9cfcaa4992080e8f-1792x1024.jpg"
         }
       ]
     }
