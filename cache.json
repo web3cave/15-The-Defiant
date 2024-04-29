@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-ethereum-continue-to-slide-amid-renewed-inflation-fears",
+          "author": "Mehab Qureshi",
+          "description": "Traders gear up for a week filled with corporate earnings, key job reports, and a Fed meeting.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-continue-to-slide-amid-renewed-inflation-fears",
+          "publishedOn": "2024-04-29T16:37:54.000Z",
+          "wordCount": 1703,
+          "title": "Bitcoin, Ethereum Continue to Slide Amid Renewed Inflation Fears",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b804d0c238ada72a0d116a880a25e63e2cf27684-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b804d0c238ada72a0d116a880a25e63e2cf27684-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
           "author": "Samuel Haig",
           "description": "Runes users can now move their assets across Layer 1 and Layer 2 networks.",
@@ -441,10 +456,10 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e2228e8274daf9afa3aae8a8ce3503a7e668fe47-1792x1024.webp"
         },
         {
-          "id": "https://thedefiant.io/podcasts-and-videos/defi/how-blockchains-and-tokens-are-powering-the-next-internet-revolution",
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/how-blockchains-and-tokens-are-powering-the-next-internet-revolution",
           "author": "Camila Russo",
           "description": "Hello Defiers! Today, I'm bringing you a very special episode from a session I moderated at SXSW, where I had the opportunity of leading a session with Chris Dixon, a General Partner at Andreessen Horowitz, where we focused on his recent publication, \"Read Write Own: Building the Next Era of the Internet.\" This book is an essential read for anyone looking to grasp the essence of the Web3 movement. Let's dive in!",
-          "link": "https://thedefiant.io/podcasts-and-videos/defi/how-blockchains-and-tokens-are-powering-the-next-internet-revolution",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/how-blockchains-and-tokens-are-powering-the-next-internet-revolution",
           "publishedOn": "2024-04-23T14:04:00.000Z",
           "wordCount": 2130,
           "title": "How Blockchains and Tokens Are Powering the Next Internet Revolution",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/meet-blend-stellar-s-modular-liquidity-layer",
           "author": "Camila Russo",
-          "description": "Script3 is a decentralized finance studio that advances end-to-end strategic DeFi protocols based on market opportunity and demand. In today's interview, we chat with founder Markus Paulson-Luna to gain deeper insight into their mission and plans with building Blend Capital.",
+          "description": "Script3 is a decentralized finance studio that advances end-to-end strategic DeFi protocols based on market opportunity and demand. They currently develop projects for the Stellar ecosystem. Script3 also contributes to Blend Capital, which enables the deployment of decentralized lending pools created by users, DAOs, and institutions. In today's interview, we chat with Markus Paulson-Luna, the founder of Script3, to gain a deeper insight into their mission and plans with building Blend Capital.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/meet-blend-stellar-s-modular-liquidity-layer",
           "publishedOn": "2024-04-10T18:38:00.000Z",
           "wordCount": 1399,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings",
           "author": "Samuel Haig",
-          "description": "Analysts remain convinced that the SEC will reject pending applications for spot Bitcoin ETFs next month despite the regulator meeting with applicants.",
+          "description": "The SEC met with Ether ETF hopefuls, but discussions reportedly lacked meaningful feedback.",
           "link": "https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings",
           "publishedOn": "2024-04-10T14:21:00.000Z",
           "wordCount": 2286,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90cdd22dfd55a8b2d94852846dab73f555ec801e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-five-new-firms-to-etf-including-goldman-sachs-citigroup",
-          "author": "Pedro Solimano",
-          "description": "Other participants include ABN Amro, Citadel, and UBS.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-five-new-firms-to-etf-including-goldman-sachs-citigroup",
-          "publishedOn": "2024-04-05T15:05:45.000Z",
-          "wordCount": 1505,
-          "title": "BlackRock Adds Five New Firms To ETF, Including Goldman Sachs, Citigroup",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a7730e9d9a37c8a6a3de2ab45644c383ec7c7cb-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9a7730e9d9a37c8a6a3de2ab45644c383ec7c7cb-1792x1024.png"
         }
       ]
     }
