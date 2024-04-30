@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-30T16:08:46.092Z</id>
+    <id>urn:2024-04-30T17:04:29.223Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-30T16:08:46.092Z</updated>
+    <updated>2024-04-30T17:04:29.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Rolls Out Bitcoin’s Lightning Network]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network"/>
+        <updated>2024-04-30T16:49:17.000Z</updated>
+        <summary type="html"><![CDATA[The integration comes thanks to a partnership with Lightningspark.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamino Finance Debuts Token With 70% Drop In Price]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-finance-debuts-token-with-70-drop-in-price</id>
+        <link href="https://thedefiant.io/news/defi/kamino-finance-debuts-token-with-70-drop-in-price"/>
+        <updated>2024-04-30T16:31:42.000Z</updated>
+        <summary type="html"><![CDATA[The KMNO token plummeted from $0.11 to $0.04 in less than ten minutes.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consensys Court Docs Reveal SEC Investigation Into ETH Started In March 2023]]></title>
         <id>https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023</id>
@@ -76,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aave, Lens, and Avara: Stani Kulechov's Journey Through DeFi and Web3 Social]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social"/>
+        <updated>2024-04-29T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bitcoin, Ethereum Continue to Slide Amid Renewed Inflation Fears]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-ethereum-continue-to-slide-amid-renewed-inflation-fears</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-ethereum-continue-to-slide-amid-renewed-inflation-fears"/>
@@ -143,6 +173,16 @@
         <summary type="html"><![CDATA[CEO Greg Solano took aim at “labyrinthine corporate processes” in a message to employees.]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Adds Crypto Payments, Consensys Sues SEC, Renzo's ezETH DEPEGS]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/defi/stripe-adds-crypto-payments-consensys-sues-sec-renzo-s-ezeth-depegs</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/defi/stripe-adds-crypto-payments-consensys-sues-sec-renzo-s-ezeth-depegs"/>
+        <updated>2024-04-26T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Crypto With Cami, your concise guide to the week's most significant developments in DeFi and Web3, all in 30 minutes or less.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -303,6 +343,16 @@
         <summary type="html"><![CDATA[Reya facilitates shared liquidity among native decentralized exchanges.]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Era In Bitcoin | Runes Protocol]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol"/>
+        <updated>2024-04-24T16:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +890,7 @@
         <id>https://thedefiant.io/news/defi/masa-network-launches-marketplace-for-tokenized-data-to-train-ai-models</id>
         <link href="https://thedefiant.io/news/defi/masa-network-launches-marketplace-for-tokenized-data-to-train-ai-models"/>
         <updated>2024-04-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Masa Network completed the mainnet launch for its decentralized tokenized data and AI training marketplace.]]></summary>
+        <summary type="html"><![CDATA[Users can earn “points” in exchange for securely contributing data to the platform.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/people/fantom-founder-wants-to-create-a-safer-memecoin-environment"/>
         <updated>2024-04-09T18:27:36.000Z</updated>
         <summary type="html"><![CDATA[But previous attempts suggest "culture can't be curated," as one community member said.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON Becomes Top 10 Cryptocurrency After 35% Surge]]></title>
-        <id>https://thedefiant.io/news/blockchains/ton-becomes-top-10-cryptocurrency-after-35-surge</id>
-        <link href="https://thedefiant.io/news/blockchains/ton-becomes-top-10-cryptocurrency-after-35-surge"/>
-        <updated>2024-04-09T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Telegram-linked The Open Network has overtaken Cardano by market capitalization, with its TVL tripling in the past month.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monad Labs Raises $225M in This Year’s Biggest Funding Round]]></title>
-        <id>https://thedefiant.io/news/blockchains/monad-labs-raises-usd225m-in-this-year-s-biggest-funding-round</id>
-        <link href="https://thedefiant.io/news/blockchains/monad-labs-raises-usd225m-in-this-year-s-biggest-funding-round"/>
-        <updated>2024-04-09T16:43:09.000Z</updated>
-        <summary type="html"><![CDATA[The round was led by Paradigm, and includes MakerDAO’s Rune Christensen and Coinbase Ventures.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SilkRoad Foundation Raises Funds For Ulbricht Family After Repurposing Rug-Pull]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/silkroad-foundation-raises-funds-for-ulbricht-family-after-repurposing-rug-pull"/>
-        <updated>2024-04-09T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The organization was founded through a “community takeover” commandeering the SILKROAD memecoin rug-pull.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacks To Integrate Portal DeFi For Bitcoin To Layer 2 Atomic Swaps]]></title>
-        <id>https://thedefiant.io/news/defi/stacks-to-integrate-portal-defi-for-bitcoin-to-layer-2-atomic-swaps</id>
-        <link href="https://thedefiant.io/news/defi/stacks-to-integrate-portal-defi-for-bitcoin-to-layer-2-atomic-swaps"/>
-        <updated>2024-04-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stacks’ sBTC will support non-custodial cross-chain swaps by integrating with the Portal DEX Network.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airdrop April Continues as Solana NFT Platform Tensor Launches Token]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/airdrop-april-continues-as-solana-nft-platform-tensor-launches-token</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/airdrop-april-continues-as-solana-nft-platform-tensor-launches-token"/>
-        <updated>2024-04-08T17:52:13.000Z</updated>
-        <summary type="html"><![CDATA[The airdrop is valued at $250 million with TNSR launching at a $2 billion valuation.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
