@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-30T10:07:26.236Z</id>
+    <id>urn:2024-04-30T11:06:25.907Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-30T10:07:26.236Z</updated>
+    <updated>2024-04-30T11:06:25.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[0xMaki Proposes Ordinals-Inspired 'Heroglyphs' To Incentivize Solo Stakers]]></title>
+        <id>https://thedefiant.io/news/blockchains/0xmaki-proposes-ordinals-inspired-heroglyphs-to-incentivize-solo-stakers</id>
+        <link href="https://thedefiant.io/news/blockchains/0xmaki-proposes-ordinals-inspired-heroglyphs-to-incentivize-solo-stakers"/>
+        <updated>2024-04-30T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Heroglyphs facilitates the creation of tokens that only solo Ethereum validators can mine.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonbirds Soar as Yuga Labs Looks to Restore NFT Holders’ IP Rights]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/moonbirds-soar-as-yuga-labs-looks-to-restore-nft-holders-ip-rights</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Sushi’s head chef said the proposal seeks to safeguard treasury assets from an ongoing ‘governance attack.’]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Really Crazy Stuff Will Happen With AVSs", ether.fi Founder Mike Silagadze]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/really-crazy-stuff-will-happen-with-avss-ether-fi-founder-mike-silagadze</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/really-crazy-stuff-will-happen-with-avss-ether-fi-founder-mike-silagadze"/>
-        <updated>2024-04-08T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's podcast we host Mike Silagadze, founder of ether.fi, an Ethereum restaking protocol, and Nikhil Raghuveera, co-founder of Aethos, a decentralized policy engine being built on EigenLayer. We dive into the use cases that restaking unlocks via Active Validating Services (AVSs) through EigenLayer, shedding light on how this innovation is shaping the ecosystem.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
