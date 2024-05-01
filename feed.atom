@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T20:07:56.782Z</id>
+    <id>urn:2024-05-01T21:06:32.626Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-01T20:07:56.782Z</updated>
+    <updated>2024-05-01T21:06:32.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Withdrawals Accelerate After Airdrop Backlash]]></title>
+        <id>https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash</id>
+        <link href="https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash"/>
+        <updated>2024-05-01T20:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 14,000 wallets have triggered withdrawals from the Ethereum restaking protocol since April 29.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Proposes V4 Iteration and Aave Network Validium]]></title>
         <id>https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility</id>
         <link href="https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility"/>
         <updated>2024-04-12T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[XEN is monopolizing most of the network’s resources, as it did in October 2022 on Ethereum.]]></summary>
+        <summary type="html"><![CDATA[A small project with a $28 million market cap is devouring Base’s network resources.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Uniswap is prepared to take on the U.S. securities regulator, founder Hayden Adams said.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer N Launches Testnet, Aims To Host Unified Ecosystem Of Appchains]]></title>
-        <id>https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains</id>
-        <link href="https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains"/>
-        <updated>2024-04-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

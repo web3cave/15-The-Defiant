@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash",
+          "author": "yyctrader",
+          "description": "Nearly 14,000 wallets have triggered withdrawals from the Ethereum restaking protocol since April 29.",
+          "link": "https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash",
+          "publishedOn": "2024-05-01T20:24:47.000Z",
+          "wordCount": 1378,
+          "title": "EigenLayer Withdrawals Accelerate After Airdrop Backlash",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7ef703c434a00181d7ab6b7a4f6e3c3d2aae80b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f7ef703c434a00181d7ab6b7a4f6e3c3d2aae80b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium",
           "author": "Samuel Haig",
           "description": "Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility",
           "author": "Pedro Solimano",
-          "description": "XEN is monopolizing most of the network’s resources, as it did in October 2022 on Ethereum.",
+          "description": "A small project with a $28 million market cap is devouring Base’s network resources.",
           "link": "https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility",
           "publishedOn": "2024-04-12T20:05:00.000Z",
           "wordCount": 2004,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7fbef2bec9ec3a6433a783d2dd459e3b3c314be4-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains",
-          "author": "Samuel Haig",
-          "description": "Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.",
-          "link": "https://thedefiant.io/news/blockchains/layer-n-launches-testnet-aims-to-host-unified-ecosystem-of-appchains",
-          "publishedOn": "2024-04-10T19:00:00.000Z",
-          "wordCount": 1885,
-          "title": "Layer N Launches Testnet, Aims To Host Unified Ecosystem Of Appchains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f981514241a74cb0fdf8dda57ed87e9956f6bb07-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f981514241a74cb0fdf8dda57ed87e9956f6bb07-1792x1024.webp"
         }
       ]
     }
