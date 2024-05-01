@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T14:08:17.383Z</id>
+    <id>urn:2024-05-01T15:05:12.851Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-01T14:08:17.383Z</updated>
+    <updated>2024-05-01T15:05:12.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Witness Chain Soars Past $5B In Delegated ETH Amid Polygon DePIN Push]]></title>
+        <id>https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push</id>
+        <link href="https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push"/>
+        <updated>2024-05-01T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SynFutures v3 Overtakes Uniswap and dYdX By Daily Volume]]></title>
         <id>https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks"/>
         <updated>2024-04-12T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum will unlock smart contract capabilities for regular wallets through EIP-3074, but some onlookers warn the upgrade will benefit hackers.]]></summary>
+        <summary type="html"><![CDATA[EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Script3 is a decentralized finance studio that advances end-to-end strategic DeFi protocols based on market opportunity and demand. In today's interview, we chat with founder Markus Paulson-Luna to gain deeper insight into their mission and plans with building Blend Capital.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysts Remain Bearish On Ether ETF Prospects Despite SEC Meetings]]></title>
-        <id>https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings</id>
-        <link href="https://thedefiant.io/news/regulation/analysts-remain-bearish-on-ether-etf-prospects-despite-sec-meetings"/>
-        <updated>2024-04-10T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC met with Ether ETF hopefuls, but discussions reportedly lacked meaningful feedback.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
