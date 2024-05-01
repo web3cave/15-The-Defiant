@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T12:11:17.403Z</id>
+    <id>urn:2024-05-01T13:07:07.191Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-01T12:11:17.403Z</updated>
+    <updated>2024-05-01T13:07:07.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SynFutures v3 Overtakes Uniswap and dYdX By Daily Volume]]></title>
+        <id>https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume</id>
+        <link href="https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume"/>
+        <updated>2024-05-01T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Points farmers have driven SynFutures v3's daily DEX dominance up to 12%.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Founder Changpeng Zhao Gets 4-Month Prison Sentence]]></title>
         <id>https://thedefiant.io/news/cefi/binance-founder-changpeng-zhao-gets-4-month-prison-sentence</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks"/>
         <updated>2024-04-12T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.]]></summary>
+        <summary type="html"><![CDATA[Ethereum will unlock smart contract capabilities for regular wallets through EIP-3074, but some onlookers warn the upgrade will benefit hackers.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past</id>
         <link href="https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past"/>
         <updated>2024-04-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Karak is in hot water after being outed as the second reincarnation of Risk Harbor, which allegedly took millions from a Terra insurance fund.]]></summary>
+        <summary type="html"><![CDATA[Karak has been outed as the second reincarnation of Risk Harbor, a protocol accused of running off with millions earmarked as insurance for Terra’s failed UST stablecoin.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The SEC met with Ether ETF hopefuls, but discussions reportedly lacked meaningful feedback.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Entity Controls Keys to Nearly 50% of All Newly Mined Bitcoin]]></title>
-        <id>https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin</id>
-        <link href="https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin"/>
-        <updated>2024-04-10T09:56:57.000Z</updated>
-        <summary type="html"><![CDATA[According to industry experts, the custodian in question is Cobo.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>

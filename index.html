@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-01 datetime="2024-05-01T12:38:00.000Z">2024-05-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-01 datetime="2024-05-01T12:38:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume"
+                        open
+                      >
+                        <summary class="article-expander__title">SynFutures v3 Overtakes Uniswap and dYdX By Daily Volume</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/477b7423867dc6143cd83a77fed26eca9b416d00-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Points farmers have driven SynFutures v3&#x27;s daily DEX dominance up to 12%.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-04-30 datetime="2024-04-30T19:44:26.000Z">2024-04-30</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-04-30 datetime="2024-04-30T19:44:26.000Z"></time>
           </button>
@@ -2119,7 +2167,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/bfdd18be074b9cd29b4f105db387a0cd69bae025-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.</span>
+                              <span>Ethereum will unlock smart contract capabilities for regular wallets through EIP-3074, but some onlookers warn the upgrade will benefit hackers.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -2139,7 +2187,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/4b7fab2e5956cb0581b9331f2887607f1963e45e-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Karak is in hot water after being outed as the second reincarnation of Risk Harbor, which allegedly took millions from a Terra insurance fund.</span>
+                              <span>Karak has been outed as the second reincarnation of Risk Harbor, a protocol accused of running off with millions earmarked as insurance for Terra’s failed UST stablecoin.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -2503,26 +2551,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin"
-                        open
-                      >
-                        <summary class="article-expander__title">Single Entity Controls Keys to Nearly 50% of All Newly Mined Bitcoin</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/7ccd764e15e4ce7a41d7c5245ac71b594746121d-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>According to industry experts, the custodian in question is Cobo.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2530,8 +2558,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8909146027">
-        <time id="build-timestamp" datetime="2024-05-01T12:11:17.384Z">2024-05-01T12:11:17.384Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/8909731214">
+        <time id="build-timestamp" datetime="2024-05-01T13:07:07.164Z">2024-05-01T13:07:07.164Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

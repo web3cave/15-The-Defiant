@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume",
+          "author": "Mehab Qureshi",
+          "description": "Points farmers have driven SynFutures v3's daily DEX dominance up to 12%.",
+          "link": "https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume",
+          "publishedOn": "2024-05-01T12:38:00.000Z",
+          "wordCount": 1920,
+          "title": "SynFutures v3 Overtakes Uniswap and dYdX By Daily Volume",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/477b7423867dc6143cd83a77fed26eca9b416d00-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/477b7423867dc6143cd83a77fed26eca9b416d00-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/binance-founder-changpeng-zhao-gets-4-month-prison-sentence",
           "author": "Pedro Solimano",
           "description": "In Nov. 2023, the executive pleaded guilty to violating the Bank Secrecy Act.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks",
           "author": "Samuel Haig",
-          "description": "EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.",
+          "description": "Ethereum will unlock smart contract capabilities for regular wallets through EIP-3074, but some onlookers warn the upgrade will benefit hackers.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks",
           "publishedOn": "2024-04-12T13:59:00.000Z",
           "wordCount": 2312,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past",
           "author": "Samuel Haig",
-          "description": "Karak is in hot water after being outed as the second reincarnation of Risk Harbor, which allegedly took millions from a Terra insurance fund.",
+          "description": "Karak has been outed as the second reincarnation of Risk Harbor, a protocol accused of running off with millions earmarked as insurance for Terra’s failed UST stablecoin.",
           "link": "https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past",
           "publishedOn": "2024-04-12T12:00:00.000Z",
           "wordCount": 2335,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2516d38e759f67861913b399adfa18aeba0c8733-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin",
-          "author": "Pedro Solimano",
-          "description": "According to industry experts, the custodian in question is Cobo.",
-          "link": "https://thedefiant.io/news/blockchains/single-entity-controls-keys-to-nearly-50-of-all-newly-mined-bitcoin",
-          "publishedOn": "2024-04-10T09:56:57.000Z",
-          "wordCount": 2033,
-          "title": "Single Entity Controls Keys to Nearly 50% of All Newly Mined Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ccd764e15e4ce7a41d7c5245ac71b594746121d-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7ccd764e15e4ce7a41d7c5245ac71b594746121d-1792x1024.webp"
         }
       ]
     }
