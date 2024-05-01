@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium",
+          "author": "Samuel Haig",
+          "description": "Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.",
+          "link": "https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium",
+          "publishedOn": "2024-05-01T19:00:00.000Z",
+          "wordCount": 2064,
+          "title": "Aave Proposes V4 Iteration and Aave Network Validium",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b139e10cec2cae5d2779102ce5582b2c701d4fb-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b139e10cec2cae5d2779102ce5582b2c701d4fb-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-dive-ahead-of-fed-meeting",
+          "author": "Mehab Qureshi",
+          "description": "Over $340 million of long positions were liquidated in the past 24 hours.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-dive-ahead-of-fed-meeting",
+          "publishedOn": "2024-05-01T18:00:52.000Z",
+          "wordCount": 1683,
+          "title": "Crypto Markets Dive Ahead of Fed Meeting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/616be5f0955f1ec2ec1a2723b7bd42b33c07d23f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/616be5f0955f1ec2ec1a2723b7bd42b33c07d23f-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push",
           "author": "Samuel Haig",
           "description": "Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.",
@@ -56,7 +86,7 @@
           "description": "Six Bitcoin and Ether ETFs that debuted on the Hong Kong market on Tuesday generated just $11 million in trading volume.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-bleed-on-underwhelming-hong-kong-etf-flows",
           "publishedOn": "2024-04-30T17:17:16.000Z",
-          "wordCount": 1742,
+          "wordCount": 1716,
           "title": "Crypto Markets Bleed on Underwhelming Hong Kong ETF Flows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/819e8a9c0607708bb64e70b4920af505c1629932-1792x1024.webp",
@@ -221,7 +251,7 @@
           "description": "Traders gear up for a week filled with corporate earnings, key job reports, and a Fed meeting.",
           "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-continue-to-slide-amid-renewed-inflation-fears",
           "publishedOn": "2024-04-29T16:37:54.000Z",
-          "wordCount": 1727,
+          "wordCount": 1701,
           "title": "Bitcoin, Ethereum Continue to Slide Amid Renewed Inflation Fears",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b804d0c238ada72a0d116a880a25e63e2cf27684-1792x1024.webp",
@@ -431,7 +461,7 @@
           "description": "The downturn comes as inflows into BlackRock's spot Bitcoin ETF dry up.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected",
           "publishedOn": "2024-04-25T16:35:38.000Z",
-          "wordCount": 1736,
+          "wordCount": 1710,
           "title": "Bitcoin and Ethereum Prices Tumble as GDP Data Comes In Weaker Than Expected",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d16e311b9410a8bb50c0fe01a03132c07bf7f288-1792x1024.png",
@@ -551,7 +581,7 @@
           "description": "Santiment reports that wallets containing 1,000 to 10,000 BTC have accumulated $17 billion worth of Bitcoin in 2024.",
           "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-trade-lower-as-whales-show-signs-of-fomo",
           "publishedOn": "2024-04-24T18:11:00.000Z",
-          "wordCount": 1763,
+          "wordCount": 1737,
           "title": "Bitcoin, Ethereum Trade Lower As Whales Show Signs Of FOMO",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/49dba0c8b3382ceff8688abd521ae17ede3f9100-1792x1024.webp",
@@ -686,7 +716,7 @@
           "description": "Key economic indicators this week include GDP and PCE numbers, set for release on Thursday.",
           "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-stage-relief-rally-ahead-of-u-s-economic-data",
           "publishedOn": "2024-04-23T16:35:57.000Z",
-          "wordCount": 1843,
+          "wordCount": 1817,
           "title": "Bitcoin, Ethereum Stage Relief Rally Ahead of U.S. Economic Data",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e2228e8274daf9afa3aae8a8ce3503a7e668fe47-1792x1024.webp",
@@ -716,7 +746,7 @@
           "description": "A 99% majority vote resulted in the unfreezing of the SAFE token contract for transfers.",
           "link": "https://thedefiant.io/news/markets/safe-token-trades-at-usd1-2b-market-cap-after-community-vote-to-unpause-transfers",
           "publishedOn": "2024-04-23T13:55:37.000Z",
-          "wordCount": 1895,
+          "wordCount": 1869,
           "title": "Safe Token Trades at $1.2B Market Cap After Community Votes to Unpause Transfers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6399f7dc19ddadf9cb9c2b0fc8681d59c5119823-1792x1024.png",
@@ -836,7 +866,7 @@
           "description": "Leading mining stocks rallied by more than 17% since Tuesday.",
           "link": "https://thedefiant.io/news/markets/bitcoin-mining-stocks-thrive-while-hash-rate-slides-post-halving",
           "publishedOn": "2024-04-22T13:45:00.000Z",
-          "wordCount": 2129,
+          "wordCount": 2103,
           "title": "Bitcoin Mining Stocks Thrive While Hash Rate Slides Post Halving",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/63696f52373acf83c68064f069e5895f7683485e-1792x1024.webp",
@@ -956,7 +986,7 @@
           "description": "Bitcoin, Ethereum and Dogecoin slide as Wall Street exerts downward pressure on crypto markets.",
           "link": "https://thedefiant.io/news/markets/google-searches-for-bitcoin-halving-hit-all-time-high",
           "publishedOn": "2024-04-18T16:38:17.000Z",
-          "wordCount": 1856,
+          "wordCount": 1830,
           "title": "Google Searches for 'Bitcoin Halving' Hit All-time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b493e8fca7a2b11ee5a5757ad85fd435d713fba1-1792x1024.webp",
@@ -1031,7 +1061,7 @@
           "description": "Ahead of its April 20 halving, Bitcoin's value dips as the US dollar strengthens.",
           "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-dogecoin-take-a-plunge-amid-strengthening-us-dollar-could-bitcoin-halving-turn",
           "publishedOn": "2024-04-17T14:33:05.000Z",
-          "wordCount": 2492,
+          "wordCount": 2466,
           "title": "Bitcoin, Ethereum, Dogecoin Take A Plunge Amid Strengthening US Dollar— Could Bitcoin Halving Turn the Tables?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c476ce3fd654943077c235211f341d1272f0e4b8-1792x1024.png",
@@ -1121,7 +1151,7 @@
           "description": "Most altcoins have plummeted by 30% or more in the past week, while Bitcoin trades at $62,000.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-crater-on-rising-geopolitical-tensions",
           "publishedOn": "2024-04-16T17:19:56.000Z",
-          "wordCount": 1723,
+          "wordCount": 1697,
           "title": "Crypto Markets Crater On Rising Geopolitical Tensions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/93b44b16a2e67f54b7f4a0b6691308259bab2b9e-1792x1024.webp",
@@ -1474,36 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f981514241a74cb0fdf8dda57ed87e9956f6bb07-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/liquid-staking-lands-on-bitcoin-as-layer-2-race-heats-up",
-          "author": "Pedro Solimano",
-          "description": "Nomic DAO unveils liquid staking for BTC while Thesis announces the Bitcoin “Economic Layer.”",
-          "link": "https://thedefiant.io/news/defi/liquid-staking-lands-on-bitcoin-as-layer-2-race-heats-up",
-          "publishedOn": "2024-04-10T18:50:23.000Z",
-          "wordCount": 2097,
-          "title": "Liquid Staking Lands On Bitcoin As Layer 2 Race Heats Up",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0262702a650a8cff8bb700b0183505da85b6aec2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0262702a650a8cff8bb700b0183505da85b6aec2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/defi/meet-blend-stellar-s-modular-liquidity-layer",
-          "author": "Camila Russo",
-          "description": "Script3 is a decentralized finance studio that advances end-to-end strategic DeFi protocols based on market opportunity and demand. In today's interview, we chat with founder Markus Paulson-Luna to gain deeper insight into their mission and plans with building Blend Capital.",
-          "link": "https://thedefiant.io/podcasts-and-videos/defi/meet-blend-stellar-s-modular-liquidity-layer",
-          "publishedOn": "2024-04-10T18:38:00.000Z",
-          "wordCount": 1423,
-          "title": "Meet Blend: Stellar’s Modular Liquidity Layer",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/84c57fa750eec876669f17d99af4db1302c22980-640x357.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84c57fa750eec876669f17d99af4db1302c22980-640x357.jpg"
         }
       ]
     }
