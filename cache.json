@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud",
+          "author": "Samuel Haig",
+          "description": "Solana has steadily deepened ties with Google Cloud since onboarding the company as a validator in November 2022.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud",
+          "publishedOn": "2024-05-02T13:00:00.000Z",
+          "wordCount": 1774,
+          "title": "Solana Launches GameShift API on Google Cloud",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/582bdd0501c07bca4df021422eda48300f6a7754-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/582bdd0501c07bca4df021422eda48300f6a7754-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash",
           "author": "yyctrader",
           "description": "Nearly 14,000 wallets have triggered withdrawals from the Ethereum restaking protocol since April 29.",
@@ -446,7 +461,7 @@
           "description": "The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
           "publishedOn": "2024-04-25T18:21:58.000Z",
-          "wordCount": 1578,
+          "wordCount": 1552,
           "title": "Payments Giant Stripe Adds Crypto Again Starting With USDC, TechCrunch Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/67a02f55908b7d4adadaf921f6472091d74b2253-1792x1024.png",
@@ -656,7 +671,7 @@
           "description": "If approved, Grayscale's Ethereum Mini Trust would be seeded with Ether from the Grayscale Ethereum Trust.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf",
           "publishedOn": "2024-04-24T13:28:00.000Z",
-          "wordCount": 2047,
+          "wordCount": 2021,
           "title": "Grayscale Seeks SEC Nod To Introduce ‘Mini’ Ethereum ETF",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e865417f735419a5121c2dd69304671d677001b-1792x1024.webp",
@@ -806,7 +821,7 @@
           "description": "PayPal believes economic incentives can encourage miners to adopt green energy sources.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-and-energy-web-team-up-to-incentivize-green-bitcoin-mining",
           "publishedOn": "2024-04-23T09:50:00.000Z",
-          "wordCount": 2179,
+          "wordCount": 2153,
           "title": "PayPal and Energy Web Team Up To Incentivize Green Bitcoin Mining",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcf647839c6b670077e7db0ce97ae0da1a3a77dc-1792x1024.webp",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/solana-rolls-out-update-in-bid-to-end-network-congestion",
           "author": "Pedro Solimano",
-          "description": "The network has been under stress in recent months thanks to spam bots and memecoin trading.",
+          "description": "Solana developers are recommending developers adopt a much-needed network update to combat the recent congestion ailing the protocol.",
           "link": "https://thedefiant.io/news/blockchains/solana-rolls-out-update-in-bid-to-end-network-congestion",
           "publishedOn": "2024-04-15T14:31:43.000Z",
           "wordCount": 1696,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility",
           "author": "Pedro Solimano",
-          "description": "A small project with a $28 million market cap is devouring Base’s network resources.",
+          "description": "XEN is monopolizing most of the network’s resources, as it did in October 2022 on Ethereum.",
           "link": "https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility",
           "publishedOn": "2024-04-12T20:05:00.000Z",
           "wordCount": 2004,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/72c0bbbbec2335af2ea84967ca491dfaadc5745f-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs",
-          "author": "Camila Russo",
-          "description": "Uniswap is prepared to take on the U.S. securities regulator, founder Hayden Adams said.",
-          "link": "https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs",
-          "publishedOn": "2024-04-10T19:00:27.000Z",
-          "wordCount": 1840,
-          "title": "SEC to Sue Uniswap Labs; Team is \"Ready to Fight\"",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fbef2bec9ec3a6433a783d2dd459e3b3c314be4-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7fbef2bec9ec3a6433a783d2dd459e3b3c314be4-1792x1024.webp"
         }
       ]
     }

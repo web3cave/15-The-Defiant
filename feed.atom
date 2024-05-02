@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T12:11:39.604Z</id>
+    <id>urn:2024-05-02T13:07:13.953Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-02T12:11:39.604Z</updated>
+    <updated>2024-05-02T13:07:13.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Launches GameShift API on Google Cloud]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud"/>
+        <updated>2024-05-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Solana has steadily deepened ties with Google Cloud since onboarding the company as a validator in November 2022.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EigenLayer Withdrawals Accelerate After Airdrop Backlash]]></title>
         <id>https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-rolls-out-update-in-bid-to-end-network-congestion</id>
         <link href="https://thedefiant.io/news/blockchains/solana-rolls-out-update-in-bid-to-end-network-congestion"/>
         <updated>2024-04-15T14:31:43.000Z</updated>
-        <summary type="html"><![CDATA[The network has been under stress in recent months thanks to spam bots and memecoin trading.]]></summary>
+        <summary type="html"><![CDATA[Solana developers are recommending developers adopt a much-needed network update to combat the recent congestion ailing the protocol.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility</id>
         <link href="https://thedefiant.io/news/blockchains/nearly-70-of-base-is-used-by-project-of-questionable-utility"/>
         <updated>2024-04-12T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A small project with a $28 million market cap is devouring Base’s network resources.]]></summary>
+        <summary type="html"><![CDATA[XEN is monopolizing most of the network’s resources, as it did in October 2022 on Ethereum.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Runestones recently flipped Bored Apes to become the second most valuable NFT collection after CryptoPunks.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC to Sue Uniswap Labs; Team is "Ready to Fight"]]></title>
-        <id>https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs</id>
-        <link href="https://thedefiant.io/news/defi/sec-moves-to-sue-uniswap-labs"/>
-        <updated>2024-04-10T19:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap is prepared to take on the U.S. securities regulator, founder Hayden Adams said.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
