@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/saylor-unveils-decentralized-identities-on-bitcoin",
+          "author": "Pedro Solimano",
+          "description": "The identity product will be called Microstrategy Orange and leverage Ordinals",
+          "link": "https://thedefiant.io/news/cefi/saylor-unveils-decentralized-identities-on-bitcoin",
+          "publishedOn": "2024-05-02T20:19:14.000Z",
+          "wordCount": 2058,
+          "title": "Saylor Unveils Decentralized Identities on Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2cb1903f98f34e18de91e17d372bf417f7af1d53-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2cb1903f98f34e18de91e17d372bf417f7af1d53-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users",
           "author": "Pedro Solimano",
           "description": "The move opens the door to crypto for PayPal’s 426 million users.",
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d32fb2466f1553c2a1dd8b61e1a3a1a6726170b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/chainlink-launches-cross-chain-bridging-app-transporter",
-          "author": "Samuel Haig",
-          "description": "Transporter leverages Chainlink’s Cross-Chain Interoperability Protocol (CCIP), which is enjoying a recent surge in adoption.",
-          "link": "https://thedefiant.io/news/defi/chainlink-launches-cross-chain-bridging-app-transporter",
-          "publishedOn": "2024-04-11T16:00:00.000Z",
-          "wordCount": 1867,
-          "title": "Chainlink Launches Cross-Chain Bridging App ‘Transporter’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43d89e7badc72452a786939857542e0a60d8a4fc-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43d89e7badc72452a786939857542e0a60d8a4fc-1792x1024.png"
         }
       ]
     }

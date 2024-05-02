@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T20:06:40.518Z</id>
+    <id>urn:2024-05-02T21:04:27.093Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-02T20:06:40.518Z</updated>
+    <updated>2024-05-02T21:04:27.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Saylor Unveils Decentralized Identities on Bitcoin]]></title>
+        <id>https://thedefiant.io/news/cefi/saylor-unveils-decentralized-identities-on-bitcoin</id>
+        <link href="https://thedefiant.io/news/cefi/saylor-unveils-decentralized-identities-on-bitcoin"/>
+        <updated>2024-05-02T20:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The identity product will be called Microstrategy Orange and leverage Ordinals]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal Integrates With MoonPay And Brings Hundreds of Tokens To U.S. Users]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The no-code platform allows anyone to create a memecoin in minutes.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Launches Cross-Chain Bridging App ‘Transporter’]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-launches-cross-chain-bridging-app-transporter</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-launches-cross-chain-bridging-app-transporter"/>
-        <updated>2024-04-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Transporter leverages Chainlink’s Cross-Chain Interoperability Protocol (CCIP), which is enjoying a recent surge in adoption.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
