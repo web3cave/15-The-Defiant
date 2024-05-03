@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-03T17:05:13.244Z</id>
+    <id>urn:2024-05-03T18:08:06.627Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-03T17:05:13.244Z</updated>
+    <updated>2024-05-03T18:08:06.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fidelity Reveals Pension Funds Are Exploring Crypto]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto"/>
+        <updated>2024-05-03T18:04:47.000Z</updated>
+        <summary type="html"><![CDATA[The exploration is still in its very early stages, said Fidelity’s VP of Digital Assets.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Surge on U.S. Jobs Report]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-surge-on-us-jobs-report</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-surge-on-us-jobs-report"/>
+        <updated>2024-05-03T17:42:44.000Z</updated>
+        <summary type="html"><![CDATA[U.S. jobs report missed expectations, while the unemployment rate rose to 3.9%.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wasabi Wallet To Eliminate Coinjoin Amid U.S. Regulatory Fears]]></title>
         <id>https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Welcome to Crypto With Cami, your concise guide to the week's most significant developments in DeFi and Web3, all in 30 minutes or less.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Upgrade To Improve Wallets But Unlock New Attacks]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-upgrade-to-improve-wallets-but-unlock-new-attacks"/>
-        <updated>2024-04-12T13:59:00.000Z</updated>
-        <summary type="html"><![CDATA[EIP-3074 will introduce smart contract functionality for regular Ethereum wallets as part of the Pectra upgrade.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot New Restaking Project Karak Faces Backlash Over Team’s Past]]></title>
-        <id>https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past</id>
-        <link href="https://thedefiant.io/news/defi/hot-new-restaking-project-karak-faces-backlash-over-team-s-past"/>
-        <updated>2024-04-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Karak has been outed as the second reincarnation of Risk Harbor, a protocol accused of running off with millions earmarked as insurance for Terra’s failed UST stablecoin.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
