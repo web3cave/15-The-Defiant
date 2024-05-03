@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-03T16:07:32.577Z</id>
+    <id>urn:2024-05-03T17:05:13.244Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-03T16:07:32.577Z</updated>
+    <updated>2024-05-03T17:05:13.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wasabi Wallet To Eliminate Coinjoin Amid U.S. Regulatory Fears]]></title>
+        <id>https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears</id>
+        <link href="https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears"/>
+        <updated>2024-05-03T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The move follows U.S. authorities targeting privacy protocols and non-custodial wallets.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Fees Normalize After Runes' Coming Out Party Abruptly Ends]]></title>
         <id>https://thedefiant.io/news/defi/bitcoin-fees-normalize-after-runes-coming-out-party-abruptly-ends</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Karak has been outed as the second reincarnation of Risk Harbor, a protocol accused of running off with millions earmarked as insurance for Terra’s failed UST stablecoin.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Launches Six Actively Validated Services]]></title>
-        <id>https://thedefiant.io/news/defi/eigenlayer-launches-six-actively-validated-services</id>
-        <link href="https://thedefiant.io/news/defi/eigenlayer-launches-six-actively-validated-services"/>
-        <updated>2024-04-11T20:41:45.000Z</updated>
-        <summary type="html"><![CDATA[The restaking protocol aims to accelerate rollups, real-world data integration, and co-processors.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
