@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-07T13:06:18.146Z</id>
+    <id>urn:2024-05-07T14:06:04.421Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-07T13:06:18.146Z</updated>
+    <updated>2024-05-07T14:06:04.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -226,6 +226,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Borrow in DeFi | Crypto 101]]></title>
+        <id>https://thedefiant.io/education/how-to-borrow-in-defi-or-crypto-101</id>
+        <link href="https://thedefiant.io/education/how-to-borrow-in-defi-or-crypto-101"/>
+        <updated>2024-05-02T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the exciting world of DeFi borrowing. So sit tight because we're about to see exactly why DeFi borrowing will change the way you think about loans forever.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LayerZero Labs Sets Stage for Airdrop With Snapshot]]></title>
         <id>https://thedefiant.io/news/defi/layerzero-labs-sets-stage-for-airdrop-with-first-snapshot</id>
         <link href="https://thedefiant.io/news/defi/layerzero-labs-sets-stage-for-airdrop-with-first-snapshot"/>
@@ -353,6 +363,16 @@
         <summary type="html"><![CDATA[Critics decry the airdrop's linear allocation, initial lack of transferability, and geoblocked claims platform.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earn Airdrops By Playing Games!]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games"/>
+        <updated>2024-04-30T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[With the growing popularity of Web3 games and the ongoing airdrop frenzy, it’s only right we dive into a few games you can play and be rewarded for your time! So here’s 4 Web3 games you can check out right away, to qualify for a potential airdrop!]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-mining-stocks-thrive-while-hash-rate-slides-post-halving</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-mining-stocks-thrive-while-hash-rate-slides-post-halving"/>
         <updated>2024-04-22T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Leading mining stocks rallied by more than 17% since Tuesday.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin mining stocks are up while network hash rate is down following Bitcoin's fourth quadrennial halving.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[DVT implementation helps ease worries about Lido controlling too much staked ETH.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordinals Lending Market Heats Up on Ethereum]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ordinals-lending-market-heats-up-on-ethereum</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ordinals-lending-market-heats-up-on-ethereum"/>
-        <updated>2024-04-17T09:44:54.000Z</updated>
-        <summary type="html"><![CDATA[An $80,000 loan was taken out against a rare Nodemonke last week.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Removes Deposit Caps On Liquid Staking Tokens]]></title>
-        <id>https://thedefiant.io/news/defi/eigenlayer-removes-deposit-caps-on-liquid-staking-tokens</id>
-        <link href="https://thedefiant.io/news/defi/eigenlayer-removes-deposit-caps-on-liquid-staking-tokens"/>
-        <updated>2024-04-16T19:31:06.000Z</updated>
-        <summary type="html"><![CDATA[The move marks the culmination of the Ethereum restaking protocol’s rollout phase.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
