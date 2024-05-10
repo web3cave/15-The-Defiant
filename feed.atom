@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T13:07:59.522Z</id>
+    <id>urn:2024-05-10T14:05:40.518Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-10T13:07:59.522Z</updated>
+    <updated>2024-05-10T14:05:40.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jupiter Aims To Launch Mobile App Launch By July]]></title>
+        <id>https://thedefiant.io/news/defi/jupiter-aims-to-launch-mobile-app-launch-by-july</id>
+        <link href="https://thedefiant.io/news/defi/jupiter-aims-to-launch-mobile-app-launch-by-july"/>
+        <updated>2024-05-10T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter now accounts for 50% of Solana’s computational load.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Memecoins Rally Alongside SOL As Crossroads Conference Kicks Off]]></title>
         <id>https://thedefiant.io/news/markets/solana-memecoins-rally-alongside-sol-as-crossroads-conference-kicks-off</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf"/>
         <updated>2024-04-24T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[If approved, Grayscale's Ethereum Mini Trust would be seeded with Ether from the Grayscale Ethereum Trust.]]></summary>
+        <summary type="html"><![CDATA[Grayscale filed for a "mini" Ethereum ETF that would be seeded with assets from its propsective spot Ether ETF.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/u-s-prosecutors-seek-three-year-sentence-for-cz</id>
         <link href="https://thedefiant.io/news/regulation/u-s-prosecutors-seek-three-year-sentence-for-cz"/>
         <updated>2024-04-24T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. prosecutors requested an extended sentence of 36 months for Changpeng Zhou, Binance's former CEO.]]></summary>
+        <summary type="html"><![CDATA[Department of Justice demands extended sentence for Binance's former CEO, Changpeng Zhao.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Avalanche and Arbitrum emerge as front-running candidates to host GHO's second deployment.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum-based Perpetuals DEX Hyperliquid Crosses $450 Million In TVL]]></title>
-        <id>https://thedefiant.io/news/defi/arbitrum-based-perpetuals-dex-hyperliquid-crosses-usd450-million-in-tvl</id>
-        <link href="https://thedefiant.io/news/defi/arbitrum-based-perpetuals-dex-hyperliquid-crosses-usd450-million-in-tvl"/>
-        <updated>2024-04-20T14:40:14.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized exchange has processed more than $150 billion of trades since launching last year.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
