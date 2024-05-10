@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-crashes-by-usd2-000-in-60-minutes",
+          "author": "yyctrader",
+          "description": "Ether drops below $3,000 as leveraged liquidations approach $150 million.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-crashes-by-usd2-000-in-60-minutes",
+          "publishedOn": "2024-05-10T15:47:47.000Z",
+          "wordCount": 1142,
+          "title": "Bitcoin Crashes by $2,000 in 60 Minutes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b18d14a461ce1633b18825c5ee460f6bfa1671ac-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b18d14a461ce1633b18825c5ee460f6bfa1671ac-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/jupiter-aims-to-launch-mobile-app-launch-by-july",
           "author": "Samuel Haig",
           "description": "Jupiter now accounts for 50% of Solana’s computational load.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends",
           "author": "Pedro Solimano",
-          "description": "The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.",
+          "description": "The Ethereum re-staking token issued by Renzo, the second-largest restaking protocol by assets, lost its peg to ETH, causing liquidations across at least two decentralized finance (DeFi) platforms.",
           "link": "https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends",
           "publishedOn": "2024-04-24T15:24:25.000Z",
           "wordCount": 1636,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf",
           "author": "Mehab Qureshi",
-          "description": "Grayscale filed for a \"mini\" Ethereum ETF that would be seeded with assets from its propsective spot Ether ETF.",
+          "description": "If approved, Grayscale's Ethereum Mini Trust would be seeded with Ether from the Grayscale Ethereum Trust.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf",
           "publishedOn": "2024-04-24T13:28:00.000Z",
           "wordCount": 1918,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/63696f52373acf83c68064f069e5895f7683485e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-community-votes-on-next-network-to-host-gho",
-          "author": "Samuel Haig",
-          "description": "Avalanche and Arbitrum emerge as front-running candidates to host GHO's second deployment.",
-          "link": "https://thedefiant.io/news/defi/aave-community-votes-on-next-network-to-host-gho",
-          "publishedOn": "2024-04-22T11:25:00.000Z",
-          "wordCount": 1488,
-          "title": "Aave Community Votes On Next Network To Host GHO",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15768396e8aef40e147530b4992c24c75d372c82-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15768396e8aef40e147530b4992c24c75d372c82-1792x1024.webp"
         }
       ]
     }

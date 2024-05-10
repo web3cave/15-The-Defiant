@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T15:06:02.110Z</id>
+    <id>urn:2024-05-10T16:08:18.797Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-10T15:06:02.110Z</updated>
+    <updated>2024-05-10T16:08:18.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Crashes by $2,000 in 60 Minutes]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-crashes-by-usd2-000-in-60-minutes</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-crashes-by-usd2-000-in-60-minutes"/>
+        <updated>2024-05-10T15:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Ether drops below $3,000 as leveraged liquidations approach $150 million.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jupiter Aims To Launch Mobile App Launch By July]]></title>
         <id>https://thedefiant.io/news/defi/jupiter-aims-to-launch-mobile-app-launch-by-july</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends</id>
         <link href="https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends"/>
         <updated>2024-04-24T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum re-staking token issued by Renzo, the second-largest restaking protocol by assets, lost its peg to ETH, causing liquidations across at least two decentralized finance (DeFi) platforms.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf"/>
         <updated>2024-04-24T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale filed for a "mini" Ethereum ETF that would be seeded with assets from its propsective spot Ether ETF.]]></summary>
+        <summary type="html"><![CDATA[If approved, Grayscale's Ethereum Mini Trust would be seeded with Ether from the Grayscale Ethereum Trust.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Leading mining stocks rallied by more than 17% since Tuesday.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Community Votes On Next Network To Host GHO]]></title>
-        <id>https://thedefiant.io/news/defi/aave-community-votes-on-next-network-to-host-gho</id>
-        <link href="https://thedefiant.io/news/defi/aave-community-votes-on-next-network-to-host-gho"/>
-        <updated>2024-04-22T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Avalanche and Arbitrum emerge as front-running candidates to host GHO's second deployment.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
