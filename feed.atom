@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T16:08:18.797Z</id>
+    <id>urn:2024-05-10T17:04:39.027Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-10T16:08:18.798Z</updated>
+    <updated>2024-05-10T17:04:39.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anatoly Yakovenko Previews Solana Post-Firedancer]]></title>
+        <id>https://thedefiant.io/news/blockchains/anatoly-yakovenko-previews-solana-post-firedancer</id>
+        <link href="https://thedefiant.io/news/blockchains/anatoly-yakovenko-previews-solana-post-firedancer"/>
+        <updated>2024-05-10T16:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Solana’s co-founder says there the network faces an opportunity to emerge as the leading monolithic chain in web3.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Crashes by $2,000 in 60 Minutes]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-crashes-by-usd2-000-in-60-minutes</id>
@@ -830,7 +840,9 @@
         <id>https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol</id>
         <link href="https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol"/>
         <updated>2024-04-24T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Today’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.]]></summary>
+        <summary type="html"><![CDATA[Today we’re talking about the exciting new Bitcoin Runes Protocol which launched with Bitcoin’s fourth halving and made quite the crash landing! This new Ordinals-based protocol is taking the collectibles world by storm. And for good reason too. Because this latest innovation builds on the growing trend of digital collectibles meeting meme culture on the Bitcoin blockchain. 
+
+Today’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -840,7 +852,7 @@
         <id>https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends</id>
         <link href="https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends"/>
         <updated>2024-04-24T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum re-staking token issued by Renzo, the second-largest restaking protocol by assets, lost its peg to ETH, causing liquidations across at least two decentralized finance (DeFi) platforms.]]></summary>
+        <summary type="html"><![CDATA[The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1005,6 @@
         <summary type="html"><![CDATA[Controversy swirls as the project claims hitmen were hired to target the team, which has a dubious past.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Mining Stocks Thrive While Hash Rate Slides Post Halving]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-mining-stocks-thrive-while-hash-rate-slides-post-halving</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-mining-stocks-thrive-while-hash-rate-slides-post-halving"/>
-        <updated>2024-04-22T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Leading mining stocks rallied by more than 17% since Tuesday.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
