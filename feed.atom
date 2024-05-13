@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-13T17:04:37.115Z</id>
+    <id>urn:2024-05-13T18:07:15.064Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-13T17:04:37.115Z</updated>
+    <updated>2024-05-13T18:07:15.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pudgy Penguins Puts Toys In Target Stores]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-puts-toys-in-target-stores</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-puts-toys-in-target-stores"/>
+        <updated>2024-05-13T17:38:33.000Z</updated>
+        <summary type="html"><![CDATA[The NFT company has sold over one million Pudgy Toys since launching last year.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MarginFi To Launch Solana LST-Backed Decentralized Stablecoin This Month]]></title>
         <id>https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2</id>
         <link href="https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2"/>
         <updated>2024-04-25T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[X Layer went live on mainnet last week.]]></summary>
+        <summary type="html"><![CDATA[PotatoSwap is bringing Frax Finance's stablecoin and liquid restaking token onto OKX's new L2, X Layer.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Phase 2 of Metis’ decentralized sequencer rollout introduces rewards for node stakers and operators]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions In ‘Forgotten’ Crypto Lies Dormant On Bridges]]></title>
-        <id>https://thedefiant.io/news/defi/millions-in-forgotten-crypto-lies-dormant-on-bridges</id>
-        <link href="https://thedefiant.io/news/defi/millions-in-forgotten-crypto-lies-dormant-on-bridges"/>
-        <updated>2024-04-23T11:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Data from Arkham Intelligence shows wallets associated with Vitalik Buterin and Coinbase among the owners of seemingly forgotten bridged assets.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
