@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-13T18:07:15.064Z</id>
+    <id>urn:2024-05-13T19:03:20.503Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-13T18:07:15.064Z</updated>
+    <updated>2024-05-13T19:03:20.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gamestop and Memecoins Rally as RoaringKitty Returns]]></title>
+        <id>https://thedefiant.io/news/markets/gamestop-and-memecoins-rally-as-roaringkitty-returns</id>
+        <link href="https://thedefiant.io/news/markets/gamestop-and-memecoins-rally-as-roaringkitty-returns"/>
+        <updated>2024-05-13T18:27:53.000Z</updated>
+        <summary type="html"><![CDATA[GameStop stock is up 69% on the day as related memecoins soar.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pudgy Penguins Puts Toys In Target Stores]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-puts-toys-in-target-stores</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol</id>
         <link href="https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol"/>
         <updated>2024-04-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[CCIP is already generating $6,669 in daily revenue for Chainlink.]]></summary>
+        <summary type="html"><![CDATA[Chainlink's completed the general availability launch for its cross-chain interoperability protocol, enabling permissionless access for developers.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2</id>
         <link href="https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2"/>
         <updated>2024-04-25T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[PotatoSwap is bringing Frax Finance's stablecoin and liquid restaking token onto OKX's new L2, X Layer.]]></summary>
+        <summary type="html"><![CDATA[X Layer went live on mainnet last week.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A 99% majority vote resulted in the unfreezing of the SAFE token contract for transfers.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metis Introduces Decentralized Sequencer Mining With Phase 2 Rollout]]></title>
-        <id>https://thedefiant.io/news/blockchains/metis-introduces-decentralized-sequencer-mining-with-phase-2-rollout</id>
-        <link href="https://thedefiant.io/news/blockchains/metis-introduces-decentralized-sequencer-mining-with-phase-2-rollout"/>
-        <updated>2024-04-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Phase 2 of Metis’ decentralized sequencer rollout introduces rewards for node stakers and operators]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
