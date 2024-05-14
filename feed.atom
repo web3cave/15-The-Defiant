@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T15:07:58.104Z</id>
+    <id>urn:2024-05-14T16:08:21.106Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-14T15:07:58.104Z</updated>
+    <updated>2024-05-14T16:08:21.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Proposes Alliance Promoting stETH-Based Restaking Ecosystem]]></title>
+        <id>https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem</id>
+        <link href="https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem"/>
+        <updated>2024-05-14T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Lido has suffered multiple months of outflows as liquid restaking protocols grow.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Institutional ETPs Post First Inflow In Five Weeks Despite Bitcoin Price Pullback]]></title>
         <id>https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever"/>
         <updated>2024-04-25T16:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Punk 635 was bought for 4,000 ETH.]]></summary>
+        <summary type="html"><![CDATA[CryptoPunk 635 has changed hands for a whopping $12 million. The sale marks the fourth largest in dollar terms for a CryptoPunk, and it lands the transaction in sixth place in terms of ETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams</id>
         <link href="https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams"/>
         <updated>2024-04-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Avail announced its data availability solution will be integrated into tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare.]]></summary>
+        <summary type="html"><![CDATA[Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Key economic indicators this week include GDP and PCE numbers, set for release on Thursday.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Blockchains and Tokens Are Powering the Next Internet Revolution]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/how-blockchains-and-tokens-are-powering-the-next-internet-revolution</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-blockchains-and-tokens-are-powering-the-next-internet-revolution"/>
-        <updated>2024-04-23T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Today, I'm bringing you a very special episode from a session I moderated at SXSW, where I had the opportunity of leading a session with Chris Dixon, a General Partner at Andreessen Horowitz, where we focused on his recent publication, "Read Write Own: Building the Next Era of the Internet." This book is an essential read for anyone looking to grasp the essence of the Web3 movement. Let's dive in!]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
