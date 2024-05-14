@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T13:08:11.687Z</id>
+    <id>urn:2024-05-14T14:06:14.686Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-14T13:08:11.687Z</updated>
+    <updated>2024-05-14T14:06:14.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Institutional ETPs Post First Inflow In Five Weeks Despite Bitcoin Price Pullback]]></title>
+        <id>https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback</id>
+        <link href="https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback"/>
+        <updated>2024-05-14T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Weekly ETP trade volume is down 53% compared to April.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gamestop and Memecoins Rally as RoaringKitty Returns]]></title>
         <id>https://thedefiant.io/news/markets/gamestop-and-memecoins-rally-as-roaringkitty-returns</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams</id>
         <link href="https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams"/>
         <updated>2024-04-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.]]></summary>
+        <summary type="html"><![CDATA[Avail announced its data availability solution will be integrated into tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol</id>
         <link href="https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol"/>
         <updated>2024-04-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink's completed the general availability launch for its cross-chain interoperability protocol, enabling permissionless access for developers.]]></summary>
+        <summary type="html"><![CDATA[CCIP is already generating $6,669 in daily revenue for Chainlink.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Hello Defiers! Today, I'm bringing you a very special episode from a session I moderated at SXSW, where I had the opportunity of leading a session with Chris Dixon, a General Partner at Andreessen Horowitz, where we focused on his recent publication, "Read Write Own: Building the Next Era of the Internet." This book is an essential read for anyone looking to grasp the essence of the Web3 movement. Let's dive in!]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe Token Trades at $1.2B Market Cap After Community Votes to Unpause Transfers]]></title>
-        <id>https://thedefiant.io/news/markets/safe-token-trades-at-usd1-2b-market-cap-after-community-vote-to-unpause-transfers</id>
-        <link href="https://thedefiant.io/news/markets/safe-token-trades-at-usd1-2b-market-cap-after-community-vote-to-unpause-transfers"/>
-        <updated>2024-04-23T13:55:37.000Z</updated>
-        <summary type="html"><![CDATA[A 99% majority vote resulted in the unfreezing of the SAFE token contract for transfers.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>

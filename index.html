@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-14 datetime="2024-05-14T13:54:00.000Z">2024-05-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-14 datetime="2024-05-14T13:54:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback"
+                        open
+                      >
+                        <summary class="article-expander__title">Institutional ETPs Post First Inflow In Five Weeks Despite Bitcoin Price Pullback</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/e78013262304a219f625f773d4abb816fa4835c0-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Weekly ETP trade volume is down 53% compared to April.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-13 datetime="2024-05-13T18:27:53.000Z">2024-05-13</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-13 datetime="2024-05-13T18:27:53.000Z"></time>
           </button>
@@ -2115,7 +2163,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/7c9f78315e43ffe840a7ce39e3258bc5eda7a459-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.</span>
+                              <span>Avail announced its data availability solution will be integrated into tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
@@ -2135,7 +2183,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/0b56ade45041d3849e2a8473c3dd8a131bc7fd06-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Chainlink&#x27;s completed the general availability launch for its cross-chain interoperability protocol, enabling permissionless access for developers.</span>
+                              <span>CCIP is already generating $6,669 in daily revenue for Chainlink.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
@@ -2499,26 +2547,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/markets/safe-token-trades-at-usd1-2b-market-cap-after-community-vote-to-unpause-transfers"
-                        open
-                      >
-                        <summary class="article-expander__title">Safe Token Trades at $1.2B Market Cap After Community Votes to Unpause Transfers</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/markets/safe-token-trades-at-usd1-2b-market-cap-after-community-vote-to-unpause-transfers">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/6399f7dc19ddadf9cb9c2b0fc8681d59c5119823-1792x1024.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A 99% majority vote resulted in the unfreezing of the SAFE token contract for transfers.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2526,8 +2554,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/9079924267">
-        <time id="build-timestamp" datetime="2024-05-14T13:08:11.668Z">2024-05-14T13:08:11.668Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/9080789091">
+        <time id="build-timestamp" datetime="2024-05-14T14:06:14.659Z">2024-05-14T14:06:14.659Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
