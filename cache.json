@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-bounce-back-as-core-u-s-inflation-hits-3-year-low",
+          "author": "Mehab Qureshi",
+          "description": "Bitcoin surged 6% to $65,000, with Ether and Solana rallying 3% and 7%, respectively.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-bounce-back-as-core-u-s-inflation-hits-3-year-low",
+          "publishedOn": "2024-05-15T17:28:42.000Z",
+          "wordCount": 1705,
+          "title": "Crypto Markets Bounce Back as Core U.S Inflation Hits 3-Year Low",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7bc88bf40ae0a96637aeaed09f71284a021d48f4-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7bc88bf40ae0a96637aeaed09f71284a021d48f4-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/degen-chain-back-online-after-50-hour-outage",
           "author": "Mehab Qureshi",
           "description": "The price of DEGEN has crashed 22% since May 12 amid the downtime.",
@@ -116,7 +131,7 @@
           "description": "Weekly ETP trade volume is down 53% compared to April.",
           "link": "https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback",
           "publishedOn": "2024-05-14T13:54:00.000Z",
-          "wordCount": 1826,
+          "wordCount": 1825,
           "title": "Institutional ETPs Post First Inflow In Five Weeks Despite Bitcoin Price Pullback",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e78013262304a219f625f773d4abb816fa4835c0-1792x1024.webp",
@@ -281,7 +296,7 @@
           "description": "Solana-based memecoins are outperforming the broader crypto markets with daily market cap growth of 12%.",
           "link": "https://thedefiant.io/news/markets/solana-memecoins-rally-alongside-sol-as-crossroads-conference-kicks-off",
           "publishedOn": "2024-05-10T11:34:11.000Z",
-          "wordCount": 1795,
+          "wordCount": 1794,
           "title": "Solana Memecoins Rally Alongside SOL As Crossroads Conference Kicks Off",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/206bfc995f4046d21f982dce040dc7063130f22f-1792x1024.webp",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg",
           "author": "Samuel Haig",
-          "description": "Renzo updated its token allocation to Season 1 points farmers by 2%.",
+          "description": "Renzo revised the terms for its airdrop after community pushback and a violent depeg suffered by its liquid restaking token, ezETH.",
           "link": "https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg",
           "publishedOn": "2024-04-26T14:07:00.000Z",
           "wordCount": 1843,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
           "author": "Samuel Haig",
-          "description": "Ethereum's supply is at a six-week high after 11 straight days of inflation amid single-digit gas fees.",
+          "description": "Ether's supply is inflating despite Ethereum throughput remaining high",
           "link": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
           "publishedOn": "2024-04-26T12:12:00.000Z",
           "wordCount": 1633,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ff2c3c72df5306fdb785e70dc02e565b9dd29e4f-640x359.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends",
-          "author": "Pedro Solimano",
-          "description": "The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.",
-          "link": "https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends",
-          "publishedOn": "2024-04-24T15:24:25.000Z",
-          "wordCount": 1637,
-          "title": "Renzo’s Restaked ETH Depegs to $700 As Season 1 of Airdrop Ends",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c476ce3fd654943077c235211f341d1272f0e4b8-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c476ce3fd654943077c235211f341d1272f0e4b8-1792x1024.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-15T17:06:41.902Z</id>
+    <id>urn:2024-05-15T18:08:18.770Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-15T17:06:41.902Z</updated>
+    <updated>2024-05-15T18:08:18.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Bounce Back as Core U.S Inflation Hits 3-Year Low]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-bounce-back-as-core-u-s-inflation-hits-3-year-low</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-bounce-back-as-core-u-s-inflation-hits-3-year-low"/>
+        <updated>2024-05-15T17:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin surged 6% to $65,000, with Ether and Solana rallying 3% and 7%, respectively.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Degen Chain Back Online After 50-Hour Outage]]></title>
         <id>https://thedefiant.io/news/blockchains/degen-chain-back-online-after-50-hour-outage</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg</id>
         <link href="https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg"/>
         <updated>2024-04-26T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Renzo updated its token allocation to Season 1 points farmers by 2%.]]></summary>
+        <summary type="html"><![CDATA[Renzo revised the terms for its airdrop after community pushback and a violent depeg suffered by its liquid restaking token, ezETH.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet</id>
         <link href="https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet"/>
         <updated>2024-04-26T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's supply is at a six-week high after 11 straight days of inflation amid single-digit gas fees.]]></summary>
+        <summary type="html"><![CDATA[Ether's supply is inflating despite Ethereum throughput remaining high]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Today’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renzo’s Restaked ETH Depegs to $700 As Season 1 of Airdrop Ends]]></title>
-        <id>https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends</id>
-        <link href="https://thedefiant.io/news/defi/renzo-s-restaked-eth-depegs-to-usd700-as-season-1-of-airdrop-ends"/>
-        <updated>2024-04-24T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
