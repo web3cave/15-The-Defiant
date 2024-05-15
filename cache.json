@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sonne-finance-suffers-usd20-million-exploit",
+          "author": "yyctrader",
+          "description": "The Optimism-based lending protocol has paused operations.",
+          "link": "https://thedefiant.io/news/defi/sonne-finance-suffers-usd20-million-exploit",
+          "publishedOn": "2024-05-15T00:54:42.000Z",
+          "wordCount": 1069,
+          "title": "Sonne Finance Suffers $20 Million Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf73fabe01bc82f937148a868cacd78a72219a25-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf73fabe01bc82f937148a868cacd78a72219a25-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/infinex-attracts-usd60-million-of-deposits-in-two-days",
           "author": "yyctrader",
           "description": "Users can deposit USDC on multiple chains to earn Governance Points.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
           "author": "Pedro Solimano",
-          "description": "Fintech behemoth Stripe is going to allow customers to pay and receive cryptocurrency, starting with the stablecoin USDC.",
+          "description": "The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
           "publishedOn": "2024-04-25T18:21:58.000Z",
           "wordCount": 1449,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f083fa1a748f42197a61226b127769f92084b08-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/bitcoin-s-new-runes-protocol-fuels-sky-high-transaction-fees",
-          "author": "Pedro Solimano",
-          "description": "Runestones have dropped 70% after an airdrop snapshot was taken on April 21.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/bitcoin-s-new-runes-protocol-fuels-sky-high-transaction-fees",
-          "publishedOn": "2024-04-24T00:08:00.000Z",
-          "wordCount": 2376,
-          "title": "Bitcoin’s New Runes Protocol Fuels Sky High Transaction Fees",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f64a34e4502c646d24a53f1662f4d6d632384305-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f64a34e4502c646d24a53f1662f4d6d632384305-1792x1024.webp"
         }
       ]
     }

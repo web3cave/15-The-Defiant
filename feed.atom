@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-15T00:31:09.107Z</id>
+    <id>urn:2024-05-15T01:52:11.666Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-15T00:31:09.107Z</updated>
+    <updated>2024-05-15T01:52:11.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sonne Finance Suffers $20 Million Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/sonne-finance-suffers-usd20-million-exploit</id>
+        <link href="https://thedefiant.io/news/defi/sonne-finance-suffers-usd20-million-exploit"/>
+        <updated>2024-05-15T00:54:42.000Z</updated>
+        <summary type="html"><![CDATA[The Optimism-based lending protocol has paused operations.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinex Attracts $60 Million of Deposits in Two Days]]></title>
         <id>https://thedefiant.io/news/defi/infinex-attracts-usd60-million-of-deposits-in-two-days</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc"/>
         <updated>2024-04-25T18:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Fintech behemoth Stripe is going to allow customers to pay and receive cryptocurrency, starting with the stablecoin USDC.]]></summary>
+        <summary type="html"><![CDATA[The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Department of Justice demands extended sentence for Binance's former CEO, Changpeng Zhao.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin’s New Runes Protocol Fuels Sky High Transaction Fees]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/bitcoin-s-new-runes-protocol-fuels-sky-high-transaction-fees</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/bitcoin-s-new-runes-protocol-fuels-sky-high-transaction-fees"/>
-        <updated>2024-04-24T00:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Runestones have dropped 70% after an airdrop snapshot was taken on April 21.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
