@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-15T13:08:23.481Z</id>
+    <id>urn:2024-05-15T14:07:09.750Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-15T13:08:23.481Z</updated>
+    <updated>2024-05-15T14:07:09.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Degen Chain Back Online After 50-Hour Outage]]></title>
+        <id>https://thedefiant.io/news/blockchains/degen-chain-back-online-after-50-hour-outage</id>
+        <link href="https://thedefiant.io/news/blockchains/degen-chain-back-online-after-50-hour-outage"/>
+        <updated>2024-05-15T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The price of DEGEN has crashed 22% since May 12 amid the downtime.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S&amp; P Global Rankings Urges Asset Managers To Embrace Tokenization]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-rankings-urges-asset-managers-to-embrace-tokenization</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet</id>
         <link href="https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet"/>
         <updated>2024-04-26T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Ether's supply is inflating despite Ethereum throughput remaining high]]></summary>
+        <summary type="html"><![CDATA[Ethereum's supply is at a six-week high after 11 straight days of inflation amid single-digit gas fees.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The de-peg led to liquidations across DeFi protocols Gearbox and Morpho Labs.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Seeks SEC Nod To Introduce ‘Mini’ Ethereum ETF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-seeks-sec-nod-to-introduce-a-new-mini-ethereum-etf"/>
-        <updated>2024-04-24T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[If approved, Grayscale's Ethereum Mini Trust would be seeded with Ether from the Grayscale Ethereum Trust.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
