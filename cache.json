@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/blast-delays-token-launch-but-increases-airdrop-allocation",
+          "author": "Squiffs",
+          "description": "The Ethereum Layer 2 network was widely expected to drop its token in May but has delayed the launch to June 26.",
+          "link": "https://thedefiant.io/news/defi/blast-delays-token-launch-but-increases-airdrop-allocation",
+          "publishedOn": "2024-05-16T09:44:34.000Z",
+          "wordCount": 1254,
+          "title": "Blast Delays Token Launch But Increases Airdrop Allocation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b79623f8c4aa4b6fd4bc2607d008dd8a08015c26-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b79623f8c4aa4b6fd4bc2607d008dd8a08015c26-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/circle-to-relocate-legal-domicile-from-ireland-to-u-s",
           "author": "yyctrader",
           "description": "The move comes ahead of the USDC issuer’s potential IPO, for which it filed paperwork with the SEC in January.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "author": "Pedro Solimano",
-          "description": "Offchain Labs found bugs in Optimism's proposed dispute system.",
+          "description": "Developers caught two vulnerabilities in the testnet of Optimism, the second-largest Ethereum Layer 2 by assets.",
           "link": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "publishedOn": "2024-04-26T18:21:00.000Z",
           "wordCount": 1871,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e04098fc58f1b749633428ec1c4d16d17907d993-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-ethereum-trade-lower-as-whales-show-signs-of-fomo",
-          "author": "Mehab Qureshi",
-          "description": "Santiment reports that wallets containing 1,000 to 10,000 BTC have accumulated $17 billion worth of Bitcoin in 2024.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-trade-lower-as-whales-show-signs-of-fomo",
-          "publishedOn": "2024-04-24T18:11:00.000Z",
-          "wordCount": 1635,
-          "title": "Bitcoin, Ethereum Trade Lower As Whales Show Signs Of FOMO",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/49dba0c8b3382ceff8688abd521ae17ede3f9100-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/49dba0c8b3382ceff8688abd521ae17ede3f9100-1792x1024.webp"
         }
       ]
     }
