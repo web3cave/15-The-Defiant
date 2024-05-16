@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T18:08:31.307Z</id>
+    <id>urn:2024-05-16T19:03:10.271Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T18:08:31.307Z</updated>
+    <updated>2024-05-16T19:03:10.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Attacker Abuses Flashloans to Exploit Pump.Fun]]></title>
+        <id>https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun</id>
+        <link href="https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun"/>
+        <updated>2024-05-16T18:07:23.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-based memecoin platform has become a favored venue for token launches in recent weeks.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Drop After US Jobless Claims Report]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-drop-after-us-jobless-claims-report</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes</id>
         <link href="https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes"/>
         <updated>2024-04-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Runes users can now move their assets across Layer 1 and Layer 2 networks following an integration from Omnity.]]></summary>
+        <summary type="html"><![CDATA[Runes users can now move their assets across Layer 1 and Layer 2 networks.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[CCIP is already generating $6,669 in daily revenue for Chainlink.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frax and PotatoSwap Team Up On OKX’s New L2 X Layer]]></title>
-        <id>https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2</id>
-        <link href="https://thedefiant.io/news/defi/frax-and-potatoswap-team-up-on-okx-s-new-x-layer-l2"/>
-        <updated>2024-04-25T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[X Layer went live on mainnet last week.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
