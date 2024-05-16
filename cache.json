@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-price-bounces-after-institutions-reveal-usd10-7b-in-q1-spot-etf-buys",
+          "author": "Samuel Haig",
+          "description": "More than 900 institutional entities disclosed spot Bitcoin ETF share holdings worth at least $100M each.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-price-bounces-after-institutions-reveal-usd10-7b-in-q1-spot-etf-buys",
+          "publishedOn": "2024-05-16T12:23:00.000Z",
+          "wordCount": 2216,
+          "title": "Bitcoin Price Bounces After Institutions Reveal $10.7B In Q1 Spot ETF Buys",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ddac7b3872a61a92b3ea6de9f8df0ace30f53038-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ddac7b3872a61a92b3ea6de9f8df0ace30f53038-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/blast-delays-token-launch-but-increases-airdrop-allocation",
           "author": "Squiffs",
           "description": "The Ethereum Layer 2 network was widely expected to drop its token in May but has delayed the launch to June 26.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever",
           "author": "Pedro Solimano",
-          "description": "The network is “transforming into a true Layer-2” said Rena Shah of Trust Machines.",
+          "description": "Stacks, Bitcoin’s largest Layer 2 by market capitalization, is gearing up for its biggest hard fork: the Nakamoto upgrade.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever",
           "publishedOn": "2024-04-26T20:19:29.000Z",
           "wordCount": 2377,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "author": "Pedro Solimano",
-          "description": "Developers caught two vulnerabilities in the testnet of Optimism, the second-largest Ethereum Layer 2 by assets.",
+          "description": "Offchain Labs found bugs in Optimism's proposed dispute system.",
           "link": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "publishedOn": "2024-04-26T18:21:00.000Z",
           "wordCount": 1871,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4b0619703145d34435f4637eec21314339d37b37-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows",
-          "author": "Pedro Solimano",
-          "description": "The biggest winner was EtherFi, while Lido saw $1B+ of outflows.",
-          "link": "https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows",
-          "publishedOn": "2024-04-24T19:58:43.000Z",
-          "wordCount": 1823,
-          "title": "Restaking Overtakes Liquid Staking In Monthly Inflows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e04098fc58f1b749633428ec1c4d16d17907d993-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e04098fc58f1b749633428ec1c4d16d17907d993-1792x1024.png"
         }
       ]
     }

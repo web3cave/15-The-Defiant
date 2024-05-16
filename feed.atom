@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T12:11:59.226Z</id>
+    <id>urn:2024-05-16T13:08:19.579Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T12:11:59.226Z</updated>
+    <updated>2024-05-16T13:08:19.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Price Bounces After Institutions Reveal $10.7B In Q1 Spot ETF Buys]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-price-bounces-after-institutions-reveal-usd10-7b-in-q1-spot-etf-buys</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-price-bounces-after-institutions-reveal-usd10-7b-in-q1-spot-etf-buys"/>
+        <updated>2024-05-16T12:23:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 900 institutional entities disclosed spot Bitcoin ETF share holdings worth at least $100M each.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blast Delays Token Launch But Increases Airdrop Allocation]]></title>
         <id>https://thedefiant.io/news/defi/blast-delays-token-launch-but-increases-airdrop-allocation</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever"/>
         <updated>2024-04-26T20:19:29.000Z</updated>
-        <summary type="html"><![CDATA[The network is “transforming into a true Layer-2” said Rena Shah of Trust Machines.]]></summary>
+        <summary type="html"><![CDATA[Stacks, Bitcoin’s largest Layer 2 by market capitalization, is gearing up for its biggest hard fork: the Nakamoto upgrade.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet</id>
         <link href="https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet"/>
         <updated>2024-04-26T18:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers caught two vulnerabilities in the testnet of Optimism, the second-largest Ethereum Layer 2 by assets.]]></summary>
+        <summary type="html"><![CDATA[Offchain Labs found bugs in Optimism's proposed dispute system.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/feds-arrest-samourai-wallet-founders-on-money-laundering-charges"/>
         <updated>2024-04-24T20:34:34.000Z</updated>
         <summary type="html"><![CDATA[The government alleges the founders knowingly facilitated $2 billion of unlawful transactions and the laundering of $100 million from Silk Road and other black market platforms.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restaking Overtakes Liquid Staking In Monthly Inflows]]></title>
-        <id>https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows</id>
-        <link href="https://thedefiant.io/news/defi/restaking-overtakes-liquid-staking-in-monthly-inflows"/>
-        <updated>2024-04-24T19:58:43.000Z</updated>
-        <summary type="html"><![CDATA[The biggest winner was EtherFi, while Lido saw $1B+ of outflows.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
