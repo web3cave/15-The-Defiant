@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T20:06:48.632Z</id>
+    <id>urn:2024-05-16T21:06:50.736Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T20:06:48.632Z</updated>
+    <updated>2024-05-16T21:06:50.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Attacker Abuses Flashloans to Exploit Pump.Fun]]></title>
+        <title type="html"><![CDATA[Why Memecoins, Despite Being Unserious By Nature, Seriously Exemplify Web3’s Core Value Proposition]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value"/>
+        <updated>2024-05-16T20:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Memecoins are a prime example of how any collective group of individuals can create the economic infrastructure to facilitate commerce, trade, and collaboration without the need for an intermediary.]]></summary>
+        <author>
+            <name>Solo Ceesay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei Token Pops on V2 Roadmap]]></title>
+        <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
+        <link href="https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap"/>
+        <updated>2024-05-16T20:09:11.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memecoin Launchpad Pump.Fun Loses Nearly $2M In Exploit]]></title>
         <id>https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun</id>
         <link href="https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun"/>
         <updated>2024-05-16T18:07:23.000Z</updated>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name</id>
         <link href="https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name"/>
         <updated>2024-04-29T17:31:13.000Z</updated>
-        <summary type="html"><![CDATA[One of the earliest Bitcoin advocates is staging a comeback.]]></summary>
+        <summary type="html"><![CDATA[Was Bitcoin hijacked? According to one of the earliest and most controversial Bitcoiners, the network is no longer what Satoshi Nakamoto wanted it to be back in 2008.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Punk 635 was bought for 4,000 ETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avail Announces Data Availability Integrations With Five Leading L2 Teams]]></title>
-        <id>https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams</id>
-        <link href="https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams"/>
-        <updated>2024-04-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Completes Permissionless Rollout For Cross-Chain Interoperability Protocol]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol"/>
-        <updated>2024-04-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[CCIP is already generating $6,669 in daily revenue for Chainlink.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
