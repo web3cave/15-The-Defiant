@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins",
+          "author": "Pedro Solimano",
+          "description": "The new stablecoins are part of MakerDAO’s controversial Endgame plan and are intended to eventually replace DAI.",
+          "link": "https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins",
+          "publishedOn": "2024-05-17T18:16:04.000Z",
+          "wordCount": 2038,
+          "title": "MakerDAO Founder Unveils Two New Stablecoins",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e5282550b2b00ad3b04ffda523d98730fc756da-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e5282550b2b00ad3b04ffda523d98730fc756da-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-surge-on-positive-etf-inflows",
           "author": "Mehab Qureshi",
           "description": "Bitcoin rallied above $67,000 for the first time in nearly a month, while ETH surged 5%.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023",
           "author": "Samuel Haig",
-          "description": "The SEC approved Ether futures ETFs in October 2023 despite its ongoing investigation into whether ETH comprises a security.",
+          "description": "The SEC approved Ether futures ETFs in October 2023 despite launching an investigation into whether ETH is a security roughly six months earlier.",
           "link": "https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023",
           "publishedOn": "2024-04-30T15:35:00.000Z",
           "wordCount": 2031,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community",
           "author": "Mehab Qureshi",
-          "description": "EigenLayer's long-awaited airdrop is attracting criticism from the crypto community.",
+          "description": "Critics decry the airdrop's linear allocation, initial lack of transferability, and geoblocked claims platform.",
           "link": "https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community",
           "publishedOn": "2024-04-30T14:44:00.000Z",
           "wordCount": 2188,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/870579974efb5c77155623173b20f7310303994f-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
-          "author": "Samuel Haig",
-          "description": "Ether's supply is inflating despite Ethereum throughput remaining high",
-          "link": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
-          "publishedOn": "2024-04-26T12:12:00.000Z",
-          "wordCount": 1640,
-          "title": "Ether Inflates After Gas Fees Plummet",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bebe3c62512cee290eb54cde8d3d556e3c933b2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5bebe3c62512cee290eb54cde8d3d556e3c933b2-1792x1024.webp"
         }
       ]
     }

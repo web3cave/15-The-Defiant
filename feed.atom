@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T18:08:12.489Z</id>
+    <id>urn:2024-05-17T19:03:51.039Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T18:08:12.489Z</updated>
+    <updated>2024-05-17T19:03:51.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Founder Unveils Two New Stablecoins]]></title>
+        <id>https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins</id>
+        <link href="https://thedefiant.io/news/defi/makerdao-founder-unveils-two-new-stablecoins"/>
+        <updated>2024-05-17T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[The new stablecoins are part of MakerDAO’s controversial Endgame plan and are intended to eventually replace DAI.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Surge on Positive ETF Inflows]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-surge-on-positive-etf-inflows</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023</id>
         <link href="https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023"/>
         <updated>2024-04-30T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC approved Ether futures ETFs in October 2023 despite its ongoing investigation into whether ETH comprises a security.]]></summary>
+        <summary type="html"><![CDATA[The SEC approved Ether futures ETFs in October 2023 despite launching an investigation into whether ETH is a security roughly six months earlier.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community</id>
         <link href="https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community"/>
         <updated>2024-04-30T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer's long-awaited airdrop is attracting criticism from the crypto community.]]></summary>
+        <summary type="html"><![CDATA[Critics decry the airdrop's linear allocation, initial lack of transferability, and geoblocked claims platform.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/renzo-updates-airdrop-terms-after-explosive-ezeth-depeg"/>
         <updated>2024-04-26T14:07:00.000Z</updated>
         <summary type="html"><![CDATA[Renzo updated its token allocation to Season 1 points farmers by 2%.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Inflates After Gas Fees Plummet]]></title>
-        <id>https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet</id>
-        <link href="https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet"/>
-        <updated>2024-04-26T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Ether's supply is inflating despite Ethereum throughput remaining high]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
