@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction",
+          "author": "Samuel Haig",
+          "description": "Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.",
+          "link": "https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction",
+          "publishedOn": "2024-05-17T16:28:00.000Z",
+          "wordCount": 2410,
+          "title": "Did U.S. Regulators Just Legitimize MEV Extraction?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba1b2b483de5031caaf365d19db34b4c865c7d9-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ba1b2b483de5031caaf365d19db34b4c865c7d9-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-fun-identifies-ex-employee-in-usd1-9m-breach",
           "author": "Mehab Qureshi",
           "description": "Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.",
@@ -19,6 +34,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/830b4abdd78c98f78e70f682f2c1adec6f5a5256-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/defi/meet-the-gigabrains-shaping-the-future-of-web3",
+          "author": "Jack Dunham",
+          "description": "ETHDenver is a leading Ethereum-based event that combines hackathons, workshops, and discussions, fostering innovation and community building in the blockchain space.",
+          "link": "https://thedefiant.io/podcasts-and-videos/defi/meet-the-gigabrains-shaping-the-future-of-web3",
+          "publishedOn": "2024-05-17T14:30:33.000Z",
+          "wordCount": 1115,
+          "title": "Meet The Gigabrains Shaping The Future Of Web3",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/149e99ae914c8d819640d209866be08b9b11ad68-640x480.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/149e99ae914c8d819640d209866be08b9b11ad68-640x480.png"
         },
         {
           "id": "https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote",
@@ -68,10 +98,10 @@
         {
           "id": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
           "author": "Pedro Solimano",
-          "description": "The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.",
+          "description": "The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.",
           "link": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
           "publishedOn": "2024-05-16T20:09:11.000Z",
-          "wordCount": 1381,
+          "wordCount": 1360,
           "title": "Sei Token Pops on V2 Roadmap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ace2afc62199bb9808a97da2c3f14ecc7d5a67f8-1792x1024.webp",
@@ -116,7 +146,7 @@
           "description": "The Solana community is celebrating record-high revenue, but the milestone is a sign users are paying high transaction fees.",
           "link": "https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-by-revenue-after-parabolic-fee-spike",
           "publishedOn": "2024-05-16T15:44:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2141,
           "title": "Solana Surpasses Ethereum By Revenue After Parabolic Fee Spike",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aac9503a2419447313503421b85f62dcc2a312bd-1792x1024.webp",
@@ -206,7 +236,7 @@
           "description": "The price of DEGEN has crashed 22% since May 12 amid the downtime.",
           "link": "https://thedefiant.io/news/blockchains/degen-chain-back-online-after-50-hour-outage",
           "publishedOn": "2024-05-15T13:15:00.000Z",
-          "wordCount": 1927,
+          "wordCount": 1906,
           "title": "Degen Chain Back Online After 50-Hour Outage",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e560733fb0164df384c860010efd553700db6023-1792x1024.webp",
@@ -386,7 +416,7 @@
           "description": "Founder Charles Hoskinson said that community feedback factored into the decision.",
           "link": "https://thedefiant.io/news/blockchains/cardano-to-incorporate-cip-69-in-next-upgrade-to-streamline-dapp-development",
           "publishedOn": "2024-05-10T19:15:10.000Z",
-          "wordCount": 1563,
+          "wordCount": 1542,
           "title": "Cardano to Incorporate CIP-69 in Next Upgrade to Streamline dApp Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca4424684e3a702d957547076dc81de53e8e9bca-1792x1024.webp",
@@ -431,7 +461,7 @@
           "description": "Solana’s co-founder says there the network faces an opportunity to emerge as the leading monolithic chain in web3.",
           "link": "https://thedefiant.io/news/blockchains/anatoly-yakovenko-previews-solana-post-firedancer",
           "publishedOn": "2024-05-10T16:43:15.000Z",
-          "wordCount": 1650,
+          "wordCount": 1629,
           "title": "Anatoly Yakovenko Previews Solana Post-Firedancer",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e744504dc29219fa46cf1eef5083c2e8e65c47c7-1792x1024.webp",
@@ -506,7 +536,7 @@
           "description": "‎ Solana Crossroads is a crypto conference hosted in Istanbul, Türkiye that provides the opportunity for collaboration with the brightest minds in Solana. In partnership with Step Finance, we are broadcasting the full 2 day conference live as the exclusive media partner of Solana Crossroads here in Istanbul, Türkiye.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/solana-crossroads-the-solana-conference-day-1",
           "publishedOn": "2024-05-10T05:42:30.000Z",
-          "wordCount": 948,
+          "wordCount": null,
           "title": "Solana Crossroads - The Solana Conference [Day 1]",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2947593a61f8344e7726a7c0733e473d36eef409-1600x900.jpg",
@@ -581,7 +611,7 @@
           "description": "The Ethereum Layer 2 network debuted at a $73 million market capitalization.",
           "link": "https://thedefiant.io/news/blockchains/superchain-based-mode-network-kicks-off-airdrop",
           "publishedOn": "2024-05-07T19:35:23.000Z",
-          "wordCount": 1622,
+          "wordCount": 1601,
           "title": "Superchain-based Mode Network Kicks Off Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/650303ebede85e5c5784e25f351be6f83192803e-1792x1024.webp",
@@ -641,7 +671,7 @@
           "description": "Miden seeks to introduce high throughput parallelized execution to Polygon’s line-up of Ethereum scaling solutions.",
           "link": "https://thedefiant.io/news/blockchains/polygon-launches-alpha-testnet-for-stark-based-l2-miden",
           "publishedOn": "2024-05-07T14:39:00.000Z",
-          "wordCount": 1949,
+          "wordCount": 1928,
           "title": "Polygon Launches Alpha Testnet For STARK-Based L2 Miden",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90c1eb36c564e1bbc152a379ee15e3f896bfcf54-1792x1024.webp",
@@ -701,7 +731,7 @@
           "description": "Blast tokens and NFTs can now be entered to win Blast Gold via its new Jackpot mechanism.",
           "link": "https://thedefiant.io/news/blockchains/blast-ecosystem-surges-on-novel-jackpot-incentive-structure",
           "publishedOn": "2024-05-06T19:35:29.000Z",
-          "wordCount": 1766,
+          "wordCount": 1745,
           "title": "Blast Ecosystem Surges on Novel “Jackpot” Incentive Structure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ad6d505a52ca7d1f8d5773fe8c4db6f879db064-1792x1024.png",
@@ -761,7 +791,7 @@
           "description": "The Runes protocol drove a recent uptick in Bitcoin's on-chain transaction volume.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-network-surpasses-one-billion-on-chain-transactions",
           "publishedOn": "2024-05-06T10:57:00.000Z",
-          "wordCount": 1721,
+          "wordCount": 1700,
           "title": "Bitcoin Network Surpasses One Billion On-Chain Transactions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/63c41911ee03a2a31d91cb46df4413904fe51048-1792x1024.webp",
@@ -986,7 +1016,7 @@
           "description": "Base will offer up to $2 million in rewards and incentives to builders during the campaign.",
           "link": "https://thedefiant.io/news/blockchains/base-unveils-second-onchain-summer-hackathon",
           "publishedOn": "2024-05-02T16:00:00.000Z",
-          "wordCount": 1798,
+          "wordCount": 1777,
           "title": "Base Unveils Second Onchain Summer Hackathon",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb8d742e4f18489ff24c9998364d1a22414a61f7-1792x1024.webp",
@@ -1223,10 +1253,10 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games",
           "author": "Jack Dunham",
-          "description": "With the growing popularity of Web3 games and the ongoing airdrop frenzy, it’s only right we dive into a few games you can play and be rewarded for your time! So here’s 4 Web3 games you can check out right away, to qualify for a potential airdrop!",
+          "description": "Welcome back to the Defiant, today we’ve got something fun and exciting for all you gamers out there! With the growing popularity of Web3 games and the ongoing airdrop frenzy, it’s only right we dive into a few games you can play and be rewarded for your time! So here’s 4 Web3 games you can check out right away, to qualify for a potential airdrop!",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games",
           "publishedOn": "2024-04-30T12:59:00.000Z",
-          "wordCount": null,
+          "wordCount": 1397,
           "title": "Earn Airdrops By Playing Games!",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe0431c9b2231465965e5aa88f26edd92630c0f5-640x359.jpg",
@@ -1241,7 +1271,7 @@
           "description": "Heroglyphs facilitates the creation of tokens that only solo Ethereum validators can mine.",
           "link": "https://thedefiant.io/news/blockchains/0xmaki-proposes-ordinals-inspired-heroglyphs-to-incentivize-solo-stakers",
           "publishedOn": "2024-04-30T10:58:00.000Z",
-          "wordCount": 1841,
+          "wordCount": 1820,
           "title": "0xMaki Proposes Ordinals-Inspired 'Heroglyphs' To Incentivize Solo Stakers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d773f97b65b9e9208ba4be4bc49bbe4a9e5e4ffd-1792x1024.webp",
@@ -1286,7 +1316,7 @@
           "description": "The move aims to address rollup hacks.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
           "publishedOn": "2024-04-29T17:46:15.000Z",
-          "wordCount": 2060,
+          "wordCount": 2039,
           "title": "Ethereum Foundation Wants To Use AI to De-Risk ETH Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/670e5abf3f0bea7d80a1cebebb0edd35977d78e9-1792x1024.png",
@@ -1346,7 +1376,7 @@
           "description": "Runes users can now move their assets across Layer 1 and Layer 2 networks.",
           "link": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
           "publishedOn": "2024-04-29T13:00:00.000Z",
-          "wordCount": 1991,
+          "wordCount": 1970,
           "title": "Omnity Introduces Cross-Chain Transfer Functionality For Runes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/56dbb62c15e173f788c191d4c0e6b24b3438ab3f-1792x1024.webp",
@@ -1376,7 +1406,7 @@
           "description": "The network is “transforming into a true Layer-2” said Rena Shah of Trust Machines.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever",
           "publishedOn": "2024-04-26T20:19:29.000Z",
-          "wordCount": 2405,
+          "wordCount": 2384,
           "title": "Bitcoin Layer 2 Stacks Prepares for Nakamoto Upgrade, its Largest Hard-Fork Ever",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5652721d41e50ef3fcb157af55c9e72d983ec43-1792x1024.png",
@@ -1391,7 +1421,7 @@
           "description": "Offchain Labs found bugs in Optimism's proposed dispute system.",
           "link": "https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet",
           "publishedOn": "2024-04-26T18:21:00.000Z",
-          "wordCount": 1899,
+          "wordCount": 1878,
           "title": "Two Vulnerabilities Caught in Optimism Testnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0edbbb1fa50067514fd75554ffc1c38ce1f34eb4-1792x1024.png",
@@ -1451,7 +1481,7 @@
           "description": "Ether's supply is inflating despite Ethereum throughput remaining high",
           "link": "https://thedefiant.io/news/blockchains/ether-inflates-after-gas-fees-plummet",
           "publishedOn": "2024-04-26T12:12:00.000Z",
-          "wordCount": 1661,
+          "wordCount": 1640,
           "title": "Ether Inflates After Gas Fees Plummet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bebe3c62512cee290eb54cde8d3d556e3c933b2-1792x1024.webp",
@@ -1474,36 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa00a8edbe6c0eb1292a4895a4a9308d05dc8262-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/consensys-sues-sec-in-bid-to-defend-ethereum",
-          "author": "yyctrader",
-          "description": "“We don’t take this step lightly, but we feel compelled to act,” said founder Joseph Lubin, as the Web3 technology firm seeks to counter regulatory overreach.",
-          "link": "https://thedefiant.io/news/regulation/consensys-sues-sec-in-bid-to-defend-ethereum",
-          "publishedOn": "2024-04-25T19:06:41.000Z",
-          "wordCount": 1586,
-          "title": "Consensys Sues SEC In Bid To ‘Defend Ethereum’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec4eaf2eab5dcbf4c4febff80a66064c885ae598-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ec4eaf2eab5dcbf4c4febff80a66064c885ae598-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
-          "author": "Pedro Solimano",
-          "description": "The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc",
-          "publishedOn": "2024-04-25T18:21:58.000Z",
-          "wordCount": 1478,
-          "title": "Payments Giant Stripe Adds Crypto Again Starting With USDC, TechCrunch Reports",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67a02f55908b7d4adadaf921f6472091d74b2253-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67a02f55908b7d4adadaf921f6472091d74b2253-1792x1024.png"
         }
       ]
     }

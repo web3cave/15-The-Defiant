@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T16:07:31.361Z</id>
+    <id>urn:2024-05-17T17:04:45.690Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T16:07:31.361Z</updated>
+    <updated>2024-05-17T17:04:45.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did U.S. Regulators Just Legitimize MEV Extraction?]]></title>
+        <id>https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction</id>
+        <link href="https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction"/>
+        <updated>2024-05-17T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun Identifies Ex-Employee in $1.9M Breach]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-identifies-ex-employee-in-usd1-9m-breach</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet The Gigabrains Shaping The Future Of Web3]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/defi/meet-the-gigabrains-shaping-the-future-of-web3</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/defi/meet-the-gigabrains-shaping-the-future-of-web3"/>
+        <updated>2024-05-17T14:30:33.000Z</updated>
+        <summary type="html"><![CDATA[ETHDenver is a leading Ethereum-based event that combines hackathons, workshops, and discussions, fostering innovation and community building in the blockchain space.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -50,7 +70,7 @@
         <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
         <link href="https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap"/>
         <updated>2024-05-16T20:09:11.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games</id>
         <link href="https://thedefiant.io/podcasts-and-videos/defi/earn-airdrops-by-playing-games"/>
         <updated>2024-04-30T12:59:00.000Z</updated>
-        <summary type="html"><![CDATA[With the growing popularity of Web3 games and the ongoing airdrop frenzy, it’s only right we dive into a few games you can play and be rewarded for your time! So here’s 4 Web3 games you can check out right away, to qualify for a potential airdrop!]]></summary>
+        <summary type="html"><![CDATA[Welcome back to the Defiant, today we’ve got something fun and exciting for all you gamers out there! With the growing popularity of Web3 games and the ongoing airdrop frenzy, it’s only right we dive into a few games you can play and be rewarded for your time! So here’s 4 Web3 games you can check out right away, to qualify for a potential airdrop!]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/bitcoiners-spend-millions-on-buy-bitcoin-sign-and-first-sat-of-halving-block"/>
         <updated>2024-04-25T19:38:47.000Z</updated>
         <summary type="html"><![CDATA[The ‘Buy Bitcoin’ sign sold for $1 million, while the ‘Epic Sat’ was purchased for a whopping $2.1 million.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensys Sues SEC In Bid To ‘Defend Ethereum’]]></title>
-        <id>https://thedefiant.io/news/regulation/consensys-sues-sec-in-bid-to-defend-ethereum</id>
-        <link href="https://thedefiant.io/news/regulation/consensys-sues-sec-in-bid-to-defend-ethereum"/>
-        <updated>2024-04-25T19:06:41.000Z</updated>
-        <summary type="html"><![CDATA[“We don’t take this step lightly, but we feel compelled to act,” said founder Joseph Lubin, as the Web3 technology firm seeks to counter regulatory overreach.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payments Giant Stripe Adds Crypto Again Starting With USDC, TechCrunch Reports]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/payments-giant-stripe-adds-crypto-again-starting-with-usdc"/>
-        <updated>2024-04-25T18:21:58.000Z</updated>
-        <summary type="html"><![CDATA[The company will reportedly allow for USDC payments on Solana, Ethereum, and Polygon.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
