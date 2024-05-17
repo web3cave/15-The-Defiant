@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote",
+          "author": "Mehab Qureshi",
+          "description": "The resolution received bipartisan support in both the Senate and House of Representatives.",
+          "link": "https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote",
+          "publishedOn": "2024-05-17T11:55:00.000Z",
+          "wordCount": 2094,
+          "title": "U.S. Senate Rejects SEC’s Crypto Accounting Rule But Biden May Veto The Vote",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/305bf2742ef65bb21a6453b4e358b32d141dc852-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/305bf2742ef65bb21a6453b4e358b32d141dc852-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/dtcc-leverages-chainlink-for-smart-nav-pilot",
           "author": "yyctrader",
           "description": "The pilot program explored the feasibility of delivering mutual fund price and rate data using Chainlink’s CCIP.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
           "author": "Pedro Solimano",
-          "description": "The Ethereum Foundation wants to stave off hacks by using Artificial Intelligence (AI), according to one of their main researchers.",
+          "description": "The move aims to address rollup hacks.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
           "publishedOn": "2024-04-29T17:46:15.000Z",
           "wordCount": 2060,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aad79dc7c39c515de63e297f5f7cc9e8731dc278-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected",
-          "author": "Mehab Qureshi",
-          "description": "The downturn comes as inflows into BlackRock's spot Bitcoin ETF dry up.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected",
-          "publishedOn": "2024-04-25T16:35:38.000Z",
-          "wordCount": 1636,
-          "title": "Bitcoin and Ethereum Prices Tumble as GDP Data Comes In Weaker Than Expected",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d16e311b9410a8bb50c0fe01a03132c07bf7f288-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d16e311b9410a8bb50c0fe01a03132c07bf7f288-1792x1024.png"
         }
       ]
     }

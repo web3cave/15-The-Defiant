@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T11:03:55.470Z</id>
+    <id>urn:2024-05-17T12:11:10.652Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T11:03:55.470Z</updated>
+    <updated>2024-05-17T12:11:10.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Senate Rejects SEC’s Crypto Accounting Rule But Biden May Veto The Vote]]></title>
+        <id>https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote</id>
+        <link href="https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote"/>
+        <updated>2024-05-17T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The resolution received bipartisan support in both the Senate and House of Representatives.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DTCC Leverages Chainlink for Smart NAV Pilot]]></title>
         <id>https://thedefiant.io/news/defi/dtcc-leverages-chainlink-for-smart-nav-pilot</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem"/>
         <updated>2024-04-29T17:46:15.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation wants to stave off hacks by using Artificial Intelligence (AI), according to one of their main researchers.]]></summary>
+        <summary type="html"><![CDATA[The move aims to address rollup hacks.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The asset management firm’s $380 million OnChain U.S. Government Money Fund commands nearly a third of the tokenized Treasuries sector.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin and Ethereum Prices Tumble as GDP Data Comes In Weaker Than Expected]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-and-ethereum-prices-tumble-as-gdp-data-comes-in-weaker-than-expected"/>
-        <updated>2024-04-25T16:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The downturn comes as inflows into BlackRock's spot Bitcoin ETF dry up.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
