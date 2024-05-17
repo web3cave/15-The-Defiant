@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T10:06:55.147Z</id>
+    <id>urn:2024-05-17T11:03:55.470Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T10:06:55.147Z</updated>
+    <updated>2024-05-17T11:03:55.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DTCC Leverages Chainlink for Smart NAV Pilot]]></title>
+        <id>https://thedefiant.io/news/defi/dtcc-leverages-chainlink-for-smart-nav-pilot</id>
+        <link href="https://thedefiant.io/news/defi/dtcc-leverages-chainlink-for-smart-nav-pilot"/>
+        <updated>2024-05-17T10:41:49.000Z</updated>
+        <summary type="html"><![CDATA[The pilot program explored the feasibility of delivering mutual fund price and rate data using Chainlink’s CCIP.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Memecoins, Despite Being Unserious By Nature, Seriously Exemplify Web3’s Core Value Proposition]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem"/>
         <updated>2024-04-29T17:46:15.000Z</updated>
-        <summary type="html"><![CDATA[The move aims to address rollup hacks.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum Foundation wants to stave off hacks by using Artificial Intelligence (AI), according to one of their main researchers.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name</id>
         <link href="https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name"/>
         <updated>2024-04-29T17:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Was Bitcoin hijacked? According to one of the earliest and most controversial Bitcoiners, the network is no longer what Satoshi Nakamoto wanted it to be back in 2008.]]></summary>
+        <summary type="html"><![CDATA[One of the earliest Bitcoin advocates is staging a comeback.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The downturn comes as inflows into BlackRock's spot Bitcoin ETF dry up.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punk 635 Sold for $12M in 4th-Highest CryptoPunk Sale Ever]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/cryptopunk-sells-for-usd12m-in-4th-highest-trade-ever"/>
-        <updated>2024-04-25T16:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Punk 635 was bought for 4,000 ETH.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
