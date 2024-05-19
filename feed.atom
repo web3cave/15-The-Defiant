@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-19T14:03:50.685Z</id>
+    <id>urn:2024-05-19T15:05:43.905Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-19T14:03:50.685Z</updated>
+    <updated>2024-05-19T15:05:43.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Our Most Read Stories This Week: Pump.fun Hack, Blast Token, S&amp; P on RWA, SOL vs. ETH, Sonne Exploit, Lido Takes on EigenLayer]]></title>
+        <id>https://thedefiant.io/news/defi/our-most-read-stories-this-week-pump-fun-hack-blast-token-s-and-p-on-rwa-solana-vs-ethereum</id>
+        <link href="https://thedefiant.io/news/defi/our-most-read-stories-this-week-pump-fun-hack-blast-token-s-and-p-on-rwa-solana-vs-ethereum"/>
+        <updated>2024-05-19T14:44:52.000Z</updated>
+        <summary type="html"><![CDATA[The Defiant's most read stories for the week of May 13.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deutsche Bank Says Tokenization Is The Future Of Financial Innovation]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/deutsche-bank-says-tokenization-is-the-future-of-financial-innovation</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network"/>
         <updated>2024-04-30T16:49:17.000Z</updated>
-        <summary type="html"><![CDATA[The integration comes thanks to a partnership with Lightningspark.]]></summary>
+        <summary type="html"><![CDATA[Coinbase rolled out support for Bitcoin’s Lightning Network today,  educing the cost of sending BTC more than 20 times less the average 2% credit card charges.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/kamino-finance-debuts-token-with-70-drop-in-price</id>
         <link href="https://thedefiant.io/news/defi/kamino-finance-debuts-token-with-70-drop-in-price"/>
         <updated>2024-04-30T16:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Kamino Finance, Solana’s largest lending and liquidity protocol according to total value locked (TVL), suffered a fierce market rejection to its new token, KMNO.]]></summary>
+        <summary type="html"><![CDATA[The KMNO token plummeted from $0.11 to $0.04 in less than ten minutes.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[CEO Greg Solano took aim at “labyrinthine corporate processes” in a message to employees.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Adds Crypto Payments, Consensys Sues SEC, Renzo's ezETH DEPEGS]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/defi/stripe-adds-crypto-payments-consensys-sues-sec-renzo-s-ezeth-depegs</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/defi/stripe-adds-crypto-payments-consensys-sues-sec-renzo-s-ezeth-depegs"/>
-        <updated>2024-04-26T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Crypto With Cami, your concise guide to the week's most significant developments in DeFi and Web3, all in 30 minutes or less.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
