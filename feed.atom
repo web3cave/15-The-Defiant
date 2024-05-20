@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-20T18:08:32.973Z</id>
+    <id>urn:2024-05-20T19:03:10.402Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-20T18:08:32.973Z</updated>
+    <updated>2024-05-20T19:03:10.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Institutions Ramp Up Crypto Exposure As Weekly Volume Plummets: CoinShares]]></title>
+        <id>https://thedefiant.io/news/markets/institutions-ramp-up-crypto-exposure-as-weekly-volume-plummets-coinshares</id>
+        <link href="https://thedefiant.io/news/markets/institutions-ramp-up-crypto-exposure-as-weekly-volume-plummets-coinshares"/>
+        <updated>2024-05-20T18:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Large entities recorded inflows of $932 million, mostly in response to U.S. CPI data.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerZero Labs Identifies 800,000 Potential Sybil Addresses in Public List]]></title>
         <id>https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push</id>
         <link href="https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push"/>
         <updated>2024-05-01T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Witness Chain is now EigenLayer's third-largest AVS with more than $5 billion worth of delegated staked ETH.]]></summary>
+        <summary type="html"><![CDATA[Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Traders gear up for a week filled with corporate earnings, key job reports, and a Fed meeting.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnity Introduces Cross-Chain Transfer Functionality For Runes]]></title>
-        <id>https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes</id>
-        <link href="https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes"/>
-        <updated>2024-04-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Runes users can now move their assets across Layer 1 and Layer 2 networks.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

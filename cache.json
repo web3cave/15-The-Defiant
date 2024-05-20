@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/institutions-ramp-up-crypto-exposure-as-weekly-volume-plummets-coinshares",
+          "author": "Pedro Solimano",
+          "description": "Large entities recorded inflows of $932 million, mostly in response to U.S. CPI data.",
+          "link": "https://thedefiant.io/news/markets/institutions-ramp-up-crypto-exposure-as-weekly-volume-plummets-coinshares",
+          "publishedOn": "2024-05-20T18:37:35.000Z",
+          "wordCount": 1996,
+          "title": "Institutions Ramp Up Crypto Exposure As Weekly Volume Plummets: CoinShares",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f81768adfd965998b3402cd3571a01107e2aeedb-828x473.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f81768adfd965998b3402cd3571a01107e2aeedb-828x473.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list",
           "author": "Mehab Qureshi",
           "description": "The list is preliminary and not definitive until the final report is published.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push",
           "author": "Samuel Haig",
-          "description": "Witness Chain is now EigenLayer's third-largest AVS with more than $5 billion worth of delegated staked ETH.",
+          "description": "Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.",
           "link": "https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push",
           "publishedOn": "2024-05-01T14:17:00.000Z",
           "wordCount": 1839,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b804d0c238ada72a0d116a880a25e63e2cf27684-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
-          "author": "Samuel Haig",
-          "description": "Runes users can now move their assets across Layer 1 and Layer 2 networks.",
-          "link": "https://thedefiant.io/news/blockchains/omnity-introduces-cross-chain-transfer-functionality-for-runes",
-          "publishedOn": "2024-04-29T13:00:00.000Z",
-          "wordCount": 1970,
-          "title": "Omnity Introduces Cross-Chain Transfer Functionality For Runes",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56dbb62c15e173f788c191d4c0e6b24b3438ab3f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56dbb62c15e173f788c191d4c0e6b24b3438ab3f-1792x1024.webp"
         }
       ]
     }
