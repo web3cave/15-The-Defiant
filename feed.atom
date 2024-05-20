@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-20T10:07:18.135Z</id>
+    <id>urn:2024-05-20T11:06:44.228Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-20T10:07:18.135Z</updated>
+    <updated>2024-05-20T11:06:44.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Teams Compete To Bring Restaking To $1.2T Bitcoin Ecosystem]]></title>
+        <id>https://thedefiant.io/news/defi/web3-teams-compete-to-bring-restaking-to-usd1-2t-bitcoin-ecosystem</id>
+        <link href="https://thedefiant.io/news/defi/web3-teams-compete-to-bring-restaking-to-usd1-2t-bitcoin-ecosystem"/>
+        <updated>2024-05-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers are racing to leverage BTC to replicate Ethereum's booming restaking ecosystem.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Most Read Stories This Week: Pump.fun Hack, Blast Token, S&amp; P on RWA, SOL vs. ETH, Sonne Exploit, Lido Takes on EigenLayer]]></title>
         <id>https://thedefiant.io/news/defi/our-most-read-stories-this-week-pump-fun-hack-blast-token-s-and-p-on-rwa-solana-vs-ethereum</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-rolls-out-bitcoin-s-lightning-network"/>
         <updated>2024-04-30T16:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase rolled out support for Bitcoin’s Lightning Network today,  educing the cost of sending BTC more than 20 times less the average 2% credit card charges.]]></summary>
+        <summary type="html"><![CDATA[The integration comes thanks to a partnership with Lightningspark.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Offchain Labs found bugs in Optimism's proposed dispute system.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuga Labs to Restructure and Renew Focus on Otherside]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-to-restructure-and-renew-focus-on-otherside"/>
-        <updated>2024-04-26T18:03:52.000Z</updated>
-        <summary type="html"><![CDATA[CEO Greg Solano took aim at “labyrinthine corporate processes” in a message to employees.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
