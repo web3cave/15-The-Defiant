@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-20T11:06:44.228Z</id>
+    <id>urn:2024-05-20T12:13:39.315Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-20T11:06:44.228Z</updated>
+    <updated>2024-05-20T12:13:39.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Purported Pump.Fun Hacker Claims To Be In Hospital After Arrest and Release]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/purported-pump-fun-hacker-claims-to-be-in-hospital-after-arrest-and-release</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/purported-pump-fun-hacker-claims-to-be-in-hospital-after-arrest-and-release"/>
+        <updated>2024-05-20T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A former Pump.fun employee was arrested and released on bail in relation to a recent hack that stole $1.9M from the platform.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Teams Compete To Bring Restaking To $1.2T Bitcoin Ecosystem]]></title>
         <id>https://thedefiant.io/news/defi/web3-teams-compete-to-bring-restaking-to-usd1-2t-bitcoin-ecosystem</id>
@@ -67,8 +77,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun Identifies Ex-Employee in $1.9M Breach]]></title>
-        <id>https://thedefiant.io/news/defi/pump-fun-identifies-ex-employee-in-usd1-9m-breach</id>
-        <link href="https://thedefiant.io/news/defi/pump-fun-identifies-ex-employee-in-usd1-9m-breach"/>
+        <id>https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach</id>
+        <link href="https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach"/>
         <updated>2024-05-17T15:32:45.000Z</updated>
         <summary type="html"><![CDATA[Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.]]></summary>
         <author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/bitcoin-layer-2-stacks-prepares-for-nakamoto-upgrade-its-largest-hard-fork-ever"/>
         <updated>2024-04-26T20:19:29.000Z</updated>
         <summary type="html"><![CDATA[The network is “transforming into a true Layer-2” said Rena Shah of Trust Machines.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Vulnerabilities Caught in Optimism Testnet]]></title>
-        <id>https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet</id>
-        <link href="https://thedefiant.io/news/blockchains/two-vulnerabilities-caught-in-optimism-testnet"/>
-        <updated>2024-04-26T18:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Offchain Labs found bugs in Optimism's proposed dispute system.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
