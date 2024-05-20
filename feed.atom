@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-20T17:06:55.321Z</id>
+    <id>urn:2024-05-20T18:08:32.973Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-20T17:06:55.321Z</updated>
+    <updated>2024-05-20T18:08:32.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero Labs Identifies 800,000 Potential Sybil Addresses in Public List]]></title>
+        <id>https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list</id>
+        <link href="https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list"/>
+        <updated>2024-05-20T17:37:18.000Z</updated>
+        <summary type="html"><![CDATA[The list is preliminary and not definitive until the final report is published.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Surges While Rest of Crypto Majors Start Week Flat]]></title>
         <id>https://thedefiant.io/news/markets/solana-surges-while-rest-of-crypto-majors-start-week-flat</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push</id>
         <link href="https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push"/>
         <updated>2024-05-01T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.]]></summary>
+        <summary type="html"><![CDATA[Witness Chain is now EigenLayer's third-largest AVS with more than $5 billion worth of delegated staked ETH.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume</id>
         <link href="https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume"/>
         <updated>2024-05-01T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[The SynFutures v3 perpetuals DEX has emerged as the top decentralized exchange within three months of launching.]]></summary>
+        <summary type="html"><![CDATA[Points farmers have driven SynFutures v3's daily DEX dominance up to 12%.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Runes users can now move their assets across Layer 1 and Layer 2 networks.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoJ Opposes Motion to Dismiss Charges Against Tornado Cash Developer]]></title>
-        <id>https://thedefiant.io/news/regulation/doj-opposes-motion-to-dismiss-charges-against-tornado-cash-developer</id>
-        <link href="https://thedefiant.io/news/regulation/doj-opposes-motion-to-dismiss-charges-against-tornado-cash-developer"/>
-        <updated>2024-04-29T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Justice said Roman Storm profited to the tune of millions while working on Tornado Cash.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
