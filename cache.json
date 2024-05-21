@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/looming-ethereum-etf-approval-deadline-sparks-frenzy-of-activity",
+          "author": "Mehab Qureshi",
+          "description": "Rumors that the SEC is asking applicants to update filings and telling exchanges it's leaning to approve the rule change has sent ETH flying.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/looming-ethereum-etf-approval-deadline-sparks-frenzy-of-activity",
+          "publishedOn": "2024-05-21T17:50:00.000Z",
+          "wordCount": 2414,
+          "title": "Here Are All the Signs an ETH ETF Approval May Be Around the Corner",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69937626caad5b8540bfb091e973d55ea23bf748-1024x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69937626caad5b8540bfb091e973d55ea23bf748-1024x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop",
           "author": "Mehab Qureshi",
           "description": "A decline in the network hash rate signals falling miner revenues.",
@@ -146,7 +161,7 @@
           "description": "Deutsche Bank is the latest global financial institutional to praise tokenization after joining the Monetary Authority of Singapore's Project Guardian initiative.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/deutsche-bank-says-tokenization-is-the-future-of-financial-innovation",
           "publishedOn": "2024-05-17T23:43:00.000Z",
-          "wordCount": 1837,
+          "wordCount": 1858,
           "title": "Deutsche Bank Says Tokenization Is The Future Of Financial Innovation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a148e5b98360a35a29b316ae7f81701d7012ec93-1792x1024.webp",
@@ -431,7 +446,7 @@
           "description": "The esteemed credit rating agency argued that using public blockchains for tokenization offers significant efficiency benefits over legacy financial architecture.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-rankings-urges-asset-managers-to-embrace-tokenization",
           "publishedOn": "2024-05-15T11:45:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2075,
           "title": "S&amp; P Global Rankings Urges Asset Managers To Embrace Tokenization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2feceddba044e6ce41481f8d75e0ec155243ec6a-1792x1024.webp",
@@ -1046,7 +1061,7 @@
           "description": "The exploration is still in its very early stages, said Fidelity’s VP of Digital Assets.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto",
           "publishedOn": "2024-05-03T18:04:47.000Z",
-          "wordCount": 1607,
+          "wordCount": 1628,
           "title": "Fidelity Reveals Pension Funds Are Exploring Crypto",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/251036c80828f1229c70068255a0f8a5cc7cdf8c-1792x1024.png",
@@ -1166,7 +1181,7 @@
           "description": "The move opens the door to crypto for PayPal’s 426 million users.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users",
           "publishedOn": "2024-05-02T17:53:41.000Z",
-          "wordCount": 1456,
+          "wordCount": 1477,
           "title": "PayPal Integrates With MoonPay And Brings Hundreds of Tokens To U.S. Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/deb0c871ec5ced2146a03199d8d9da02d7f82329-1792x1024.png",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/layerzero-labs-sets-stage-for-airdrop-with-first-snapshot",
           "author": "Mehab Qureshi",
-          "description": "LayerZero's transfer volume surpassed $6.7 billion in the first quarter of 2024.",
+          "description": "LayerZero revealed it has taken a snapshot ahead of its upcoming airdrop.",
           "link": "https://thedefiant.io/news/defi/layerzero-labs-sets-stage-for-airdrop-with-first-snapshot",
           "publishedOn": "2024-05-02T13:36:00.000Z",
           "wordCount": 1548,
@@ -1253,10 +1268,10 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud",
           "author": "Samuel Haig",
-          "description": "GameShift, the web3 gaming AI from Solana, is now available to Google Cloud customers.",
+          "description": "Solana has steadily deepened ties with Google Cloud since onboarding the company as a validator in November 2022.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud",
           "publishedOn": "2024-05-02T13:00:00.000Z",
-          "wordCount": 1697,
+          "wordCount": 1718,
           "title": "Solana Launches GameShift API on Google Cloud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/582bdd0501c07bca4df021422eda48300f6a7754-1792x1024.webp",
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f64a8542f1b88d2ad6048596b357f205dc04d77e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
-          "author": "Pedro Solimano",
-          "description": "The move aims to address rollup hacks.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-wants-to-use-ai-to-de-risk-eth-ecosystem",
-          "publishedOn": "2024-04-29T17:46:15.000Z",
-          "wordCount": 2078,
-          "title": "Ethereum Foundation Wants To Use AI to De-Risk ETH Ecosystem",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/670e5abf3f0bea7d80a1cebebb0edd35977d78e9-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/670e5abf3f0bea7d80a1cebebb0edd35977d78e9-1792x1024.png"
         }
       ]
     }
