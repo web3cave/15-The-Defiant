@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-21T13:09:11.727Z</id>
+    <id>urn:2024-05-21T14:05:29.298Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-21T13:09:11.727Z</updated>
+    <updated>2024-05-21T14:05:29.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Gaming Token GALA Crashes After $240M Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/web3-gaming-token-gala-crashes-after-usd240m-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/web3-gaming-token-gala-crashes-after-usd240m-exploit"/>
+        <updated>2024-05-21T13:47:37.000Z</updated>
+        <summary type="html"><![CDATA[The price of GALA dropped 20% to $0.038 from $0.047 on Tuesday morning.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Soars As ETF Analysts Increase Odds for ETH ETF Approval To 75%]]></title>
         <id>https://thedefiant.io/news/markets/ethereum-soars-as-etf-analysts-increase-odds-for-eth-etf-approval-to-75</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium</id>
         <link href="https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium"/>
         <updated>2024-05-01T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave is proposing a three-year roadmap including the launch of its v4 iteration.]]></summary>
+        <summary type="html"><![CDATA[Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[One of the earliest Bitcoin advocates is staging a comeback.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave, Lens, and Avara: Stani Kulechov's Journey Through DeFi and Web3 Social]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social"/>
-        <updated>2024-04-29T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
