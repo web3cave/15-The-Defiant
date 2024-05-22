@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-22T10:06:53.545Z</id>
+    <id>urn:2024-05-22T11:04:47.344Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-22T10:06:53.545Z</updated>
+    <updated>2024-05-22T11:04:47.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kakarot ZK-EVM Launches Testnet, Paving The Way For EVM-Compatibility On Starknet]]></title>
+        <id>https://thedefiant.io/news/blockchains/kakarot-zk-evm-launches-testnet-paving-the-way-for-evm-compatibility-on-starknet</id>
+        <link href="https://thedefiant.io/news/blockchains/kakarot-zk-evm-launches-testnet-paving-the-way-for-evm-compatibility-on-starknet"/>
+        <updated>2024-05-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kakarot Labs is backed by StarkWare and Vitalik Buterin.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yuga Labs’ First “Punk in Residence” Release Sparks Controversy]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users"/>
         <updated>2024-05-02T17:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Payments behemoth PayPal has integrated with crypto buying app MoonPay, giving access to its 426 million of U.S. customers to over 100 cryptocurrencies.]]></summary>
+        <summary type="html"><![CDATA[The move opens the door to crypto for PayPal’s 426 million users.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The KMNO token plummeted from $0.11 to $0.04 in less than ten minutes.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensys Court Docs Reveal SEC Investigation Into ETH Started In March 2023]]></title>
-        <id>https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023</id>
-        <link href="https://thedefiant.io/news/regulation/consensys-court-docs-reveal-sec-investigation-into-eth-started-in-march-2023"/>
-        <updated>2024-04-30T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC approved Ether futures ETFs in October 2023 despite its ongoing investigation into whether ETH comprises a security.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
