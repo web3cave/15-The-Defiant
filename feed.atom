@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-22T06:09:30.240Z</id>
+    <id>urn:2024-05-22T07:06:50.921Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-22T06:09:30.240Z</updated>
+    <updated>2024-05-22T07:06:50.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs’ First “Punk in Residence” Release Sparks Controversy]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy"/>
+        <updated>2024-05-22T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[The community questions Yuga’s decision to launch an official CryptoPunk collaboration.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zkSync Could Launch Token This Week]]></title>
         <id>https://thedefiant.io/news/defi/zksync-could-launch-token-this-week</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-integrates-with-moonpay-and-brings-hundreds-of-tokens-to-u-s-users"/>
         <updated>2024-05-02T17:53:41.000Z</updated>
-        <summary type="html"><![CDATA[The move opens the door to crypto for PayPal’s 426 million users.]]></summary>
+        <summary type="html"><![CDATA[Payments behemoth PayPal has integrated with crypto buying app MoonPay, giving access to its 426 million of U.S. customers to over 100 cryptocurrencies.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The SEC approved Ether futures ETFs in October 2023 despite its ongoing investigation into whether ETH comprises a security.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIGEN Airdrop Elicits Pushback From EigenLayer Community]]></title>
-        <id>https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community</id>
-        <link href="https://thedefiant.io/news/defi/eigen-airdrop-elicits-pushback-from-eigenlayer-community"/>
-        <updated>2024-04-30T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Critics decry the airdrop's linear allocation, initial lack of transferability, and geoblocked claims platform.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
