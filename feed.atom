@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T06:09:37.810Z</id>
+    <id>urn:2024-05-23T07:06:44.260Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T06:09:37.810Z</updated>
+    <updated>2024-05-23T07:06:44.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NEAR to Focus on User-Owned AI]]></title>
+        <id>https://thedefiant.io/news/blockchains/near-to-focus-on-user-owned-ai</id>
+        <link href="https://thedefiant.io/news/blockchains/near-to-focus-on-user-owned-ai"/>
+        <updated>2024-05-23T06:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Layer 1 blockchain NEAR has launched an initiative to incubate and invest in native AI infrastructure.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Community Erupts as Key Players From Ethereum Foundation Become Advisors to Eigenlayer]]></title>
         <id>https://thedefiant.io/news/blockchains/community-erupts-as-key-players-from-ethereum-foundation-become-advisors-to-eigenlayer</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-surge-on-us-jobs-report</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-surge-on-us-jobs-report"/>
         <updated>2024-05-03T17:42:44.000Z</updated>
-        <summary type="html"><![CDATA[U.S. jobs report missed expectations, while the unemployment rate rose to 3.9%.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets rose on Friday morning following the release of the U.S. government's jobs report for April.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears</id>
         <link href="https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears"/>
         <updated>2024-05-03T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Wasabi Wallet is abandoning its privacy feature Coinjoin amid fears of a U.S. regulatory crackdown.]]></summary>
+        <summary type="html"><![CDATA[The move follows U.S. authorities targeting privacy protocols and non-custodial wallets.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Over $340 million of long positions were liquidated in the past 24 hours.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Witness Chain Soars Past $5B In Delegated ETH Amid Polygon DePIN Push]]></title>
-        <id>https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push</id>
-        <link href="https://thedefiant.io/news/defi/witness-chain-soars-past-usd5b-in-delegated-eth-amid-polygon-depin-push"/>
-        <updated>2024-05-01T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
