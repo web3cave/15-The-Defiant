@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T12:12:13.878Z</id>
+    <id>urn:2024-05-23T13:07:52.252Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T12:12:13.878Z</updated>
+    <updated>2024-05-23T13:07:52.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Xapo Launches Lightning Network Deposits Amid Growing Adoption In Key Latin Markets]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/xapo-launches-lightning-network-deposits-amid-growing-adoption-in-key-latin-markets</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/xapo-launches-lightning-network-deposits-amid-growing-adoption-in-key-latin-markets"/>
+        <updated>2024-05-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Argentina and Brazil accounted for 43% of Lightning Network payments executed via Xapo in March.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Taps 0x For Gasless Swaps On Arbitrum]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum"/>
+        <updated>2024-05-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood introduced support for swaps on Arbitrum in February.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EtherFi Unveils Plans For Credit Card Tied To Restaking Holdings]]></title>
         <id>https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/eigenlayer-airdrop-outcry-shows-how-points-are-raising-trader-expectations</id>
         <link href="https://thedefiant.io/news/research-and-opinion/eigenlayer-airdrop-outcry-shows-how-points-are-raising-trader-expectations"/>
         <updated>2024-05-03T20:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Are those traders right or entitled?]]></summary>
+        <summary type="html"><![CDATA[Eigen Layer airdropped tokens this week and there was huge backlash. Some criticism was more warranted than others but beyond allocation levels and tokenomics, the main reason the outcry was so fierce is because traders felt a social contract was broken.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto"/>
         <updated>2024-05-03T18:04:47.000Z</updated>
-        <summary type="html"><![CDATA[WatcherGuru reported that Manuel Nordeste, Fidelity’s VP of digital assets, said in an event that pension funds “are only starting to talk to their investment committees” about crypto assets.]]></summary>
+        <summary type="html"><![CDATA[The exploration is still in its very early stages, said Fidelity’s VP of Digital Assets.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/solana-launches-gameshift-api-on-google-cloud"/>
         <updated>2024-05-02T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[Solana has steadily deepened ties with Google Cloud since onboarding the company as a validator in November 2022.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Withdrawals Accelerate After Airdrop Backlash]]></title>
-        <id>https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash</id>
-        <link href="https://thedefiant.io/news/defi/eigenlayer-withdrawals-accelerate-after-airdrop-backlash"/>
-        <updated>2024-05-01T20:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 14,000 wallets have triggered withdrawals from the Ethereum restaking protocol since April 29.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Proposes V4 Iteration With Cross-Chain-Liquidity Layer]]></title>
-        <id>https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium</id>
-        <link href="https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium"/>
-        <updated>2024-05-01T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
