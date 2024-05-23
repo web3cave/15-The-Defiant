@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T04:08:16.379Z</id>
+    <id>urn:2024-05-23T05:09:01.001Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T04:08:16.379Z</updated>
+    <updated>2024-05-23T05:09:01.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Community Erupts as Key Players From Ethereum Foundation Become Advisors to Eigenlayer]]></title>
+        <id>https://thedefiant.io/news/blockchains/community-erupts-as-key-players-from-ethereum-foundation-become-advisors-to-eigenlayer</id>
+        <link href="https://thedefiant.io/news/blockchains/community-erupts-as-key-players-from-ethereum-foundation-become-advisors-to-eigenlayer"/>
+        <updated>2024-05-23T04:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Foundation researchers Dankrad Feist and Justin Drake are catching flak for their multimillion-dollar deals with the restaking protocol. Some defend them, however.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milady NFTs Soar Amid NFT Market Volatility]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/milady-nfts-soar-amid-nft-market-volatility</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears</id>
         <link href="https://thedefiant.io/news/regulation/wasabi-wallet-to-eliminate-coinjoin-amid-u-s-regulatory-fears"/>
         <updated>2024-05-03T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The move follows U.S. authorities targeting privacy protocols and non-custodial wallets.]]></summary>
+        <summary type="html"><![CDATA[Wasabi Wallet is abandoning its privacy feature Coinjoin amid fears of a U.S. regulatory crackdown.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/bitcoin-fees-normalize-after-runes-coming-out-party-abruptly-ends</id>
         <link href="https://thedefiant.io/news/defi/bitcoin-fees-normalize-after-runes-coming-out-party-abruptly-ends"/>
         <updated>2024-05-03T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Runes' daily transaction count has crashed 97.5% since launching two weeks ago, with Bitcoin transaction fees dropping 98% over the same period.]]></summary>
+        <summary type="html"><![CDATA[Runes’ on-chain activity and Bitcoin transaction fees dropped more than 97% in two weeks.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Witness Chain is the third-largest AVS on EigenLayer with 1.82 million staked Ether delegated.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SynFutures v3 Overtakes Uniswap and dYdX By Daily Volume]]></title>
-        <id>https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume</id>
-        <link href="https://thedefiant.io/news/defi/synfutures-v3-overtakes-uniswap-and-dydx-by-daily-trade-volume"/>
-        <updated>2024-05-01T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Points farmers have driven SynFutures v3's daily DEX dominance up to 12%.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
