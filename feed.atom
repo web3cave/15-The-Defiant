@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-24T20:07:00.006Z</id>
+    <id>urn:2024-05-24T21:05:29.555Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-24T20:07:00.006Z</updated>
+    <updated>2024-05-24T21:05:29.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Investors Look to Blackrock’s Next Target: Real World Assets]]></title>
+        <id>https://thedefiant.io/news/defi/investors-look-to-blackrock-s-next-target-real-world-assets</id>
+        <link href="https://thedefiant.io/news/defi/investors-look-to-blackrock-s-next-target-real-world-assets"/>
+        <updated>2024-05-24T19:52:59.000Z</updated>
+        <summary type="html"><![CDATA[RWA-related tokens such as Ondo and Chainlink have surged following the Ethereum ETF approval.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analysts Predict ETH Price Will Shoot to at Least $6,000 Following ETF Approval]]></title>
         <id>https://thedefiant.io/news/markets/analysts-predict-eth-price-will-shoot-to-at-least-usd6-000-following-etf-approval</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Are those traders right or entitled?]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poisoned Wallet Address Loses $70 Million in ‘Very Suspicious’ WBTC Transaction]]></title>
-        <id>https://thedefiant.io/news/hacks/poisoned-wallet-address-loses-usd70-million-in-very-suspicious-wbtc-transaction</id>
-        <link href="https://thedefiant.io/news/hacks/poisoned-wallet-address-loses-usd70-million-in-very-suspicious-wbtc-transaction"/>
-        <updated>2024-05-03T20:09:23.000Z</updated>
-        <summary type="html"><![CDATA[A fake transaction led a user to send 1,155 WBTC to the wrong address.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
