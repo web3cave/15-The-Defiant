@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-29T06:09:35.527Z</id>
+    <id>urn:2024-05-29T07:07:03.627Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-29T06:09:35.527Z</updated>
+    <updated>2024-05-29T07:07:03.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Institutional Crypto Inflows Hit 2024 High]]></title>
+        <id>https://thedefiant.io/news/markets/institutional-crypto-inflows-hit-2024-high</id>
+        <link href="https://thedefiant.io/news/markets/institutional-crypto-inflows-hit-2024-high"/>
+        <updated>2024-05-29T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week, $1 billion flowed into crypto-denominated assets, pushing 2024 inflows to $14.9 billion.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump’s Suddenly All About Crypto. What Changed?]]></title>
         <id>https://thedefiant.io/news/regulation/trump-s-suddenly-all-about-crypto-what-changed</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month</id>
         <link href="https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month"/>
         <updated>2024-05-11T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[MarginFi is looking to reduce the reliant of Solana's ecosystem on USDC with the launch of its XBY stablecoin later this month.]]></summary>
+        <summary type="html"><![CDATA[MarginFi said XBY will be the first major decentralized stablecoin on Solana.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Solana broke its three-day winning streak, dropping by almost 6% on the day.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superchain-based Mode Network Kicks Off Airdrop]]></title>
-        <id>https://thedefiant.io/news/blockchains/superchain-based-mode-network-kicks-off-airdrop</id>
-        <link href="https://thedefiant.io/news/blockchains/superchain-based-mode-network-kicks-off-airdrop"/>
-        <updated>2024-05-07T19:35:23.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Layer 2 network debuted at a $73 million market capitalization.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
