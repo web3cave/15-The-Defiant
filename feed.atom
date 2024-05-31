@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T12:12:00.479Z</id>
+    <id>urn:2024-05-31T13:08:07.486Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T12:12:00.479Z</updated>
+    <updated>2024-05-31T13:08:07.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury Warns That NFTs Are Vulnerable To Fraud and Money Laundering]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/u-s-treasury-warns-that-nfts-are-vulnerable-to-fraud-and-money-laundering</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/u-s-treasury-warns-that-nfts-are-vulnerable-to-fraud-and-money-laundering"/>
+        <updated>2024-05-31T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The Treasury Department said NFTs could serve as a vehicle for a variety of illicit activities.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Presidential Candidate RFK Says Bitcoin Can Help Solve The U.S. Debt Crisis]]></title>
         <id>https://thedefiant.io/news/regulation/presidential-candidate-rfk-says-bitcoin-can-help-solve-the-u-s-debt-crisis</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
         <link href="https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap"/>
         <updated>2024-05-16T20:09:11.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Lido has suffered multiple months of outflows as liquid restaking protocols grow.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Institutional ETPs Post First Inflow In Five Weeks Despite Bitcoin Price Pullback]]></title>
-        <id>https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback</id>
-        <link href="https://thedefiant.io/news/markets/institutional-etps-post-first-inflow-in-five-weeks-despite-bitcoin-price-pullback"/>
-        <updated>2024-05-14T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Weekly ETP trade volume is down 53% compared to April.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
