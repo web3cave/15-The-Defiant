@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T19:06:23.387Z</id>
+    <id>urn:2024-05-31T20:06:55.913Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T19:06:23.387Z</updated>
+    <updated>2024-05-31T20:06:55.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Social-Fi Activity Nears All-time Lows]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/social-fi-activity-nears-all-time-lows</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/social-fi-activity-nears-all-time-lows"/>
+        <updated>2024-05-31T19:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Daily active users on Friendtech and Fantasy Top continue to plummet.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Transactions on NEAR Protocol Surge to 6 Million]]></title>
+        <id>https://thedefiant.io/news/blockchains/daily-transactions-on-near-protocol-surge-to-6-million</id>
+        <link href="https://thedefiant.io/news/blockchains/daily-transactions-on-near-protocol-surge-to-6-million"/>
+        <updated>2024-05-31T19:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Transactions have tripled since the beginning of the year, while wallets have doubled to 75 million.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Ordinals Crash as Runes Rally]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/bitcoin-ordinals-crash-as-runes-rally</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote</id>
         <link href="https://thedefiant.io/news/regulation/u-s-senate-rejects-sec-s-crypto-accounting-rule-but-biden-may-veto-the-vote"/>
         <updated>2024-05-17T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Both U.S. houses have voted to repeal a SEC rule that would complicate accounting for banks providing crypto custody services.]]></summary>
+        <summary type="html"><![CDATA[The resolution received bipartisan support in both the Senate and House of Representatives.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The esteemed credit rating agency argued that using public blockchains for tokenization offers significant efficiency benefits over legacy financial architecture.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonne Finance Suffers $20 Million Exploit]]></title>
-        <id>https://thedefiant.io/news/hacks/sonne-finance-suffers-usd20-million-exploit</id>
-        <link href="https://thedefiant.io/news/hacks/sonne-finance-suffers-usd20-million-exploit"/>
-        <updated>2024-05-15T00:54:42.000Z</updated>
-        <summary type="html"><![CDATA[The Optimism-based lending protocol has paused operations.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinex Attracts $60 Million of Deposits in Two Days]]></title>
-        <id>https://thedefiant.io/news/defi/infinex-attracts-usd60-million-of-deposits-in-two-days</id>
-        <link href="https://thedefiant.io/news/defi/infinex-attracts-usd60-million-of-deposits-in-two-days"/>
-        <updated>2024-05-14T19:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Users can deposit USDC on multiple chains to earn Governance Points.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
