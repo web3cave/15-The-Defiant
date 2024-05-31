@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T14:06:07.193Z</id>
+    <id>urn:2024-05-31T15:06:44.252Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T14:06:07.193Z</updated>
+    <updated>2024-05-31T15:06:44.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hacker Ransacks Japanese Exchange DMM For $305 Million]]></title>
+        <id>https://thedefiant.io/news/hacks/hacker-ransacks-japanese-exchange-dmm-for-usd305-million</id>
+        <link href="https://thedefiant.io/news/hacks/hacker-ransacks-japanese-exchange-dmm-for-usd305-million"/>
+        <updated>2024-05-31T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The company said affected users will be paid back in full.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Treasury Warns That NFTs Are Vulnerable To Fraud and Money Laundering]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/u-s-treasury-warns-that-nfts-are-vulnerable-to-fraud-and-money-laundering</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
         <link href="https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap"/>
         <updated>2024-05-16T20:09:11.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Cryptocurrency stocks reversed premarket losses.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Proposes Alliance Promoting stETH-Based Restaking Ecosystem]]></title>
-        <id>https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem</id>
-        <link href="https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem"/>
-        <updated>2024-05-14T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido has suffered multiple months of outflows as liquid restaking protocols grow.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/hacker-ransacks-japanese-exchange-dmm-for-usd305-million",
+          "author": "Pedro Solimano",
+          "description": "The company said affected users will be paid back in full.",
+          "link": "https://thedefiant.io/news/hacks/hacker-ransacks-japanese-exchange-dmm-for-usd305-million",
+          "publishedOn": "2024-05-31T15:06:00.000Z",
+          "wordCount": 1376,
+          "title": "Hacker Ransacks Japanese Exchange DMM For $305 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f363d7192cdd9a9b229742e5639b9d3dbd43ac30-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f363d7192cdd9a9b229742e5639b9d3dbd43ac30-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/u-s-treasury-warns-that-nfts-are-vulnerable-to-fraud-and-money-laundering",
           "author": "Samuel Haig",
           "description": "The Treasury Department said NFTs could serve as a vehicle for a variety of illicit activities.",
@@ -221,7 +236,7 @@
           "description": "The team announced the 1:1 bridge opened on May 28 and will run until May 31, 10:00 EST.",
           "link": "https://thedefiant.io/news/hacks/zkasino-gives-users-72-hours-to-claim-their-eth-after-rug-pulling-them",
           "publishedOn": "2024-05-29T17:17:17.000Z",
-          "wordCount": 1919,
+          "wordCount": 1910,
           "title": "ZKasino Gives Users 72 Hours To Claim Their ETH After Rug-Pulling Them",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/63287c3ae67671306bc380762b7bec30f6f56165-1792x1024.png",
@@ -1001,7 +1016,7 @@
           "description": "The price of GALA dropped 20% to $0.038 from $0.047 on Tuesday morning.",
           "link": "https://thedefiant.io/news/hacks/web3-gaming-token-gala-crashes-after-usd240m-exploit",
           "publishedOn": "2024-05-21T13:47:37.000Z",
-          "wordCount": 1721,
+          "wordCount": 1712,
           "title": "Web3 Gaming Token GALA Crashes After $240M Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c90bfd726c778dcdc02b0a98bfaee71e6902b023-1024x1024.png",
@@ -1181,7 +1196,7 @@
           "description": "Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.",
           "link": "https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach",
           "publishedOn": "2024-05-17T15:32:45.000Z",
-          "wordCount": 1726,
+          "wordCount": 1717,
           "title": "Pump.fun Identifies Ex-Employee in $1.9M Breach",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/830b4abdd78c98f78e70f682f2c1adec6f5a5256-1792x1024.webp",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
           "author": "Pedro Solimano",
-          "description": "The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.",
+          "description": "The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.",
           "link": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
           "publishedOn": "2024-05-16T20:09:11.000Z",
           "wordCount": 1358,
@@ -1436,7 +1451,7 @@
           "description": "The Optimism-based lending protocol has paused operations.",
           "link": "https://thedefiant.io/news/hacks/sonne-finance-suffers-usd20-million-exploit",
           "publishedOn": "2024-05-15T00:54:42.000Z",
-          "wordCount": 1086,
+          "wordCount": 1077,
           "title": "Sonne Finance Suffers $20 Million Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf73fabe01bc82f937148a868cacd78a72219a25-1792x1024.webp",
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fd09a38b90648002b9f3551f57bc1fe2fc1ac78b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem",
-          "author": "Samuel Haig",
-          "description": "Lido has suffered multiple months of outflows as liquid restaking protocols grow.",
-          "link": "https://thedefiant.io/news/defi/lido-proposes-alliance-promoting-steth-based-restaking-ecosystem",
-          "publishedOn": "2024-05-14T15:24:00.000Z",
-          "wordCount": 1807,
-          "title": "Lido Proposes Alliance Promoting stETH-Based Restaking Ecosystem",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c6df642afb122c608faa533e43909913ab09d125-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c6df642afb122c608faa533e43909913ab09d125-1792x1024.webp"
         }
       ]
     }
