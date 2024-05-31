@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T20:06:55.913Z</id>
+    <id>urn:2024-05-31T21:06:39.199Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T20:06:55.913Z</updated>
+    <updated>2024-05-31T21:06:39.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Foundation Delays Fee Switch Vote]]></title>
+        <id>https://thedefiant.io/news/defi/uniswap-foundation-delays-fee-switch-vote</id>
+        <link href="https://thedefiant.io/news/defi/uniswap-foundation-delays-fee-switch-vote"/>
+        <updated>2024-05-31T20:11:14.000Z</updated>
+        <summary type="html"><![CDATA[The indefinite delay is due to a “stakeholder raising an issue,” said the Foundation.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Social-Fi Activity Nears All-time Lows]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/social-fi-activity-nears-all-time-lows</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction</id>
         <link href="https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction"/>
         <updated>2024-05-17T16:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.]]></summary>
+        <summary type="html"><![CDATA[A landmark indictment from the U.S. Department of Justice may have legitimized the practice of MEV extraction, experts say.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The price of DEGEN has crashed 22% since May 12 amid the downtime.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&amp; P Global Rankings Urges Asset Managers To Embrace Tokenization]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-rankings-urges-asset-managers-to-embrace-tokenization</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-rankings-urges-asset-managers-to-embrace-tokenization"/>
-        <updated>2024-05-15T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The esteemed credit rating agency argued that using public blockchains for tokenization offers significant efficiency benefits over legacy financial architecture.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
