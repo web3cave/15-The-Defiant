@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/june-kicks-off-with-a-bitcoin-boom",
+          "author": "Mehab Qureshi",
+          "description": "This week's U.S. economic updates feature Monday's manufacturing data and a key jobs report due on Friday.",
+          "link": "https://thedefiant.io/news/markets/june-kicks-off-with-a-bitcoin-boom",
+          "publishedOn": "2024-06-03T16:16:58.000Z",
+          "wordCount": 1532,
+          "title": "June Kicks Off with a Bitcoin Boom",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ebd01d5d311b92aebe3604216f3b22cb11fc3ee0-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ebd01d5d311b92aebe3604216f3b22cb11fc3ee0-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/matter-labs-abandons-zk-trademark-attempt-following-public-outcry",
           "author": "Mehab Qureshi",
           "description": "Matter Labs’ move to trademark the commonly-used acronym was met with condemnation from the web3 community.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list",
           "author": "Mehab Qureshi",
-          "description": "The list is preliminary and not definitive until the final report is published.",
+          "description": "LayerZero Labs, a cross-chain interoperability protocol, on Sunday said that it has made public a list of 800,000 addresses flagged as created solely for the purpose of farming the project’s airdrop.",
           "link": "https://thedefiant.io/news/defi/layerzero-labs-identifies-800-000-potential-sybil-addresses-in-public-list",
           "publishedOn": "2024-05-20T17:37:18.000Z",
           "wordCount": 1939,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/solana-surges-while-rest-of-crypto-majors-start-week-flat",
           "author": "Mehab Qureshi",
-          "description": "Crypto markets traded flat on Monday morning, following a strong performance last week driven by positive Exchange Traded Fund (ETF) inflows and macroeconomic indicators. Solana popped as network metrics climb.",
+          "description": "Solana has been on a tear this past week, as tokens issued on the blockchain hit new highs.",
           "link": "https://thedefiant.io/news/markets/solana-surges-while-rest-of-crypto-majors-start-week-flat",
           "publishedOn": "2024-05-20T16:30:53.000Z",
           "wordCount": 1861,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aac9503a2419447313503421b85f62dcc2a312bd-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101",
-          "author": "Jack Dunham",
-          "description": "Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.",
-          "link": "https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101",
-          "publishedOn": "2024-05-16T15:43:00.000Z",
-          "wordCount": 1363,
-          "title": "What Are DeFi Derivatives? | Crypto101",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e2545bb9d7d60c708320605807e58fcafee78921-640x356.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e2545bb9d7d60c708320605807e58fcafee78921-640x356.jpg"
         }
       ]
     }
