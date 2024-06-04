@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high",
+          "author": "Squiffs",
+          "description": "Activity on Ethereum Layer 2 network Base is surging ahead of Coinbase’s smart wallet release.",
+          "link": "https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high",
+          "publishedOn": "2024-06-04T07:14:11.000Z",
+          "wordCount": 1394,
+          "title": "Base Ecosystem TVL Hits All-time High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a46a48827ce5592d8fca60722934cc9dcc1f635d-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a46a48827ce5592d8fca60722934cc9dcc1f635d-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/linea-halts-network-after-velocore-exploit",
           "author": "Mehab Qureshi",
           "description": "Decentralized exchange Velocore was hacked for $7M over the weekend.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop",
           "author": "Mehab Qureshi",
-          "description": "A decline in the network hash rate signals falling miner revenues.",
+          "description": "Bitcoin's recent halving event is delivering  a financial blow to mining operators, as their earnings have sharply declined.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop",
           "publishedOn": "2024-05-21T16:08:14.000Z",
           "wordCount": 2590,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing",
           "author": "Camila Russo",
-          "description": "Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Originally developed under Gnosis as a smart account for securing digital assets, Safe eventually became an independent project after spinning off on its own. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market. Later, Lukas discusses the impact of quantum computing on blockchain security and the future potential of smart accounts. He also explores the challenges and opportunities in achieving mainstream adoption of Web3 wallets. The episode concludes with insights into Safe's upcoming features aimed at supporting a billion Web3 users.",
+          "description": "Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing",
           "publishedOn": "2024-05-21T15:49:00.000Z",
           "wordCount": 1909,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c80819b9d2dd33859b0dab6ac0d3f5ea91a5da1e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value",
-          "author": "Solo Ceesay",
-          "description": "Memecoins are a prime example of how any collective group of individuals can create the economic infrastructure to facilitate commerce, trade, and collaboration without the need for an intermediary.",
-          "link": "https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value",
-          "publishedOn": "2024-05-16T20:24:56.000Z",
-          "wordCount": 3064,
-          "title": "Why Memecoins, Despite Being Unserious By Nature, Seriously Exemplify Web3’s Core Value Proposition",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/35e1118fe89e371a83e44f964027aae29f8a692b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/35e1118fe89e371a83e44f964027aae29f8a692b-1792x1024.webp"
         }
       ]
     }

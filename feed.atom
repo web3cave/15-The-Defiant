@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-04T07:07:04.879Z</id>
+    <id>urn:2024-06-04T08:09:19.817Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-04T07:07:04.879Z</updated>
+    <updated>2024-06-04T08:09:19.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Ecosystem TVL Hits All-time High]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high</id>
+        <link href="https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high"/>
+        <updated>2024-06-04T07:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Activity on Ethereum Layer 2 network Base is surging ahead of Coinbase’s smart wallet release.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linea Halts Network after Velocore Exploit]]></title>
         <id>https://thedefiant.io/news/defi/linea-halts-network-after-velocore-exploit</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop"/>
         <updated>2024-05-21T16:08:14.000Z</updated>
-        <summary type="html"><![CDATA[A decline in the network hash rate signals falling miner revenues.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin's recent halving event is delivering  a financial blow to mining operators, as their earnings have sharply declined.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing</id>
         <link href="https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing"/>
         <updated>2024-05-21T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Originally developed under Gnosis as a smart account for securing digital assets, Safe eventually became an independent project after spinning off on its own. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market. Later, Lukas discusses the impact of quantum computing on blockchain security and the future potential of smart accounts. He also explores the challenges and opportunities in achieving mainstream adoption of Web3 wallets. The episode concludes with insights into Safe's upcoming features aimed at supporting a billion Web3 users.]]></summary>
+        <summary type="html"><![CDATA[Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The pilot program explored the feasibility of delivering mutual fund price and rate data using Chainlink’s CCIP.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Memecoins, Despite Being Unserious By Nature, Seriously Exemplify Web3’s Core Value Proposition]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value"/>
-        <updated>2024-05-16T20:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Memecoins are a prime example of how any collective group of individuals can create the economic infrastructure to facilitate commerce, trade, and collaboration without the need for an intermediary.]]></summary>
-        <author>
-            <name>Solo Ceesay</name>
         </author>
     </entry>
 </feed>
