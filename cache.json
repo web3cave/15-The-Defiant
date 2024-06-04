@@ -366,6 +366,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92ac596450f79084d0d02ac6c0d9d88c4667fcb9-1792x1024.webp"
         },
         {
+          "id": "https://thedefiant.io/education/passive-income-strategies-or-crypto101",
+          "author": "Jack Dunham",
+          "description": "Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Now, have you ever wondered how to make your digital assets work for you? Today, we’re diving into three top DeFi yields strategies: staking, lending, and liquidity provisions. These methods can generate passive yield and help you maximize your crypto holdings. So, let’s get started!",
+          "link": "https://thedefiant.io/education/passive-income-strategies-or-crypto101",
+          "publishedOn": "2024-05-30T05:38:00.000Z",
+          "wordCount": 1345,
+          "title": "Passive Income Strategies | Crypto101",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cea3f02292bc382ff80414b6abc04ed76dd09e1d-640x356.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cea3f02292bc382ff80414b6abc04ed76dd09e1d-640x356.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-falter-as-rising-treasury-yields-pressure-risk-assets",
           "author": "yyctrader",
           "description": "BlackRock’s IBIT has overtaken GBTC to become the largest Bitcoin ETF with nearly $20 billion in assets.",
@@ -484,6 +499,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69d7b8af70016a7d189f468c3bf18b8add321f87-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
+          "author": "Jack Dunham",
+          "description": "Sergey Nazarov is the Co-Founder of Chainlink, a decentralized oracle network that provides data for smart contracts and facilitates cross-chain communication.  Sergey shares his thoughts on the growing crypto scene in Dubai, reflects on the future of tokenization, and discusses the latest on Chainlink's Cross-Chain Interoperability Protocol (CCIP) and what it enables. This interview was recorded during Token2049 in Dubai.",
+          "link": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
+          "publishedOn": "2024-05-29T05:25:00.000Z",
+          "wordCount": 1463,
+          "title": "Latest on Chainlink, Cross-Chain Communication, and Tokenization with Sergey Nazarov",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/79dc3f8469b36f7982e46f73039697ad3ae889cf-640x357.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/79dc3f8469b36f7982e46f73039697ad3ae889cf-640x357.jpg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/trump-s-suddenly-all-about-crypto-what-changed",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing",
           "author": "Camila Russo",
-          "description": "Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market.",
+          "description": "Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Originally developed under Gnosis as a smart account for securing digital assets, Safe eventually became an independent project after spinning off on its own. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market. Later, Lukas discusses the impact of quantum computing on blockchain security and the future potential of smart accounts. He also explores the challenges and opportunities in achieving mainstream adoption of Web3 wallets. The episode concludes with insights into Safe's upcoming features aimed at supporting a billion Web3 users.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing",
           "publishedOn": "2024-05-21T15:49:00.000Z",
           "wordCount": 1909,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/markets/ethereum-soars-as-etf-analysts-increase-odds-for-eth-etf-approval-to-75",
           "author": "Pedro Solimano",
-          "description": "Two of the industry’s top analysts have increased the likelihood of a spot Ethereum Exchange Traded Fund (ETF) approval to 75% from 25% as the Securities and Exchange Commission (SEC)’s May 23 deadline to respond to the first applications approaches.",
+          "description": "Bloomberg analyst Eric Balchunas said he “heard chatter” the SEC could be reversing their stance.",
           "link": "https://thedefiant.io/news/markets/ethereum-soars-as-etf-analysts-increase-odds-for-eth-etf-approval-to-75",
           "publishedOn": "2024-05-20T20:21:47.000Z",
           "wordCount": 1632,
@@ -1474,36 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/35e1118fe89e371a83e44f964027aae29f8a692b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
-          "author": "Pedro Solimano",
-          "description": "The Layer 1 blockchain’s token spiked 25% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.",
-          "link": "https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap",
-          "publishedOn": "2024-05-16T20:09:11.000Z",
-          "wordCount": 1346,
-          "title": "Sei Token Pops on V2 Roadmap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ace2afc62199bb9808a97da2c3f14ecc7d5a67f8-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ace2afc62199bb9808a97da2c3f14ecc7d5a67f8-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/attacker-abuses-flashloans-to-exploit-pump-fun",
-          "author": "Squiffs",
-          "description": "The Solana-based memecoin platform has become a favored venue for token launches in recent weeks.",
-          "link": "https://thedefiant.io/news/hacks/attacker-abuses-flashloans-to-exploit-pump-fun",
-          "publishedOn": "2024-05-16T18:07:23.000Z",
-          "wordCount": 1440,
-          "title": "Memecoin Launchpad Pump.Fun Loses Nearly $2M In Exploit",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/629dcdcf27267af930419faa50cd6b3002e1dbbb-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/629dcdcf27267af930419faa50cd6b3002e1dbbb-1792x1024.webp"
         }
       ]
     }
