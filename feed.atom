@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-05T12:12:13.340Z</id>
+    <id>urn:2024-06-05T13:09:18.461Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-05T12:12:13.340Z</updated>
+    <updated>2024-06-05T13:09:18.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Misyon Bank Launches Tokenization Solution On Avalanche]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche"/>
+        <updated>2024-06-05T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Misyon Bank's Tokenization Platform facilitates the tokenization of shares, real estate, and government and corporate bonds.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leveraged Ether ETFs Enter The Market]]></title>
         <id>https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes</id>
         <link href="https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes"/>
         <updated>2024-05-21T19:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum ecosystem tokens climbed Tuesday driven by growing optimism about the potential approval of Ethereum exchange-traded funds (ETFs) by the Securities and Exchange Commission (SEC).]]></summary>
+        <summary type="html"><![CDATA[Open interest for ETH futures reached $12 billion on Tuesday, up 34% in the last 24 hours.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin rallied above $67,000 for the first time in nearly a month, while ETH surged 5%.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did U.S. Regulators Just Legitimize MEV Extraction?]]></title>
-        <id>https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction</id>
-        <link href="https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction"/>
-        <updated>2024-05-17T16:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

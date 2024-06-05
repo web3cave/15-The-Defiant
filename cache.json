@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche",
+          "author": "Samuel Haig",
+          "description": "Misyon Bank's Tokenization Platform facilitates the tokenization of shares, real estate, and government and corporate bonds.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche",
+          "publishedOn": "2024-06-05T13:08:00.000Z",
+          "wordCount": 1644,
+          "title": "Misyon Bank Launches Tokenization Solution On Avalanche",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85e9da0267b513bb8740cdad52cccebf6af65fc0-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85e9da0267b513bb8740cdad52cccebf6af65fc0-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market",
           "author": "Samuel Haig",
           "description": "The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes",
           "author": "Mehab Qureshi",
-          "description": "Ethereum ecosystem tokens climbed Tuesday driven by growing optimism about the potential approval of Ethereum exchange-traded funds (ETFs) by the Securities and Exchange Commission (SEC).",
+          "description": "Open interest for ETH futures reached $12 billion on Tuesday, up 34% in the last 24 hours.",
           "link": "https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes",
           "publishedOn": "2024-05-21T19:51:28.000Z",
           "wordCount": 1378,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9f5225776d25c4284882e16b7c823241ec5befa7-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction",
-          "author": "Samuel Haig",
-          "description": "Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.",
-          "link": "https://thedefiant.io/news/regulation/did-u-s-regulators-just-legitimize-mev-extraction",
-          "publishedOn": "2024-05-17T16:28:00.000Z",
-          "wordCount": 2421,
-          "title": "Did U.S. Regulators Just Legitimize MEV Extraction?",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba1b2b483de5031caaf365d19db34b4c865c7d9-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ba1b2b483de5031caaf365d19db34b4c865c7d9-1792x1024.png"
         }
       ]
     }
