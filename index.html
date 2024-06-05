@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-05 datetime="2024-06-05T10:16:00.000Z">2024-06-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-05 datetime="2024-06-05T10:16:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market"
+                        open
+                      >
+                        <summary class="article-expander__title">Leveraged Ether ETFs Enter The Market</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/2a29976476a0917421caff0977c50a481ecf32c5-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-04 datetime="2024-06-04T19:46:44.000Z">2024-06-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-04 datetime="2024-06-04T19:46:44.000Z"></time>
           </button>
@@ -2029,7 +2077,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/8c92e924fb83288acb1ab862da3aebb68f5d0a8c-1024x1024.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Open interest for ETH futures reached $12 billion on Tuesday, up 34% in the last 24 hours.</span>
+                              <span>Ethereum ecosystem tokens climbed Tuesday driven by growing optimism about the potential approval of Ethereum exchange-traded funds (ETFs) by the Securities and Exchange Commission (SEC).</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
@@ -2049,7 +2097,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/729bee9ee08609fcc158516ce4028d62f02a7de4-297x170.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Fantasy.Top, the trading card and fantasy sports hybrid built on Ethereum Layer 2 Blast, has just distributed its second round of  in-game rewards to creators.</span>
+                              <span>Heroes featured in the on-chain trading card game have collectively earned almost 600 ETH, but not everyone is happy.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
@@ -2411,26 +2459,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach"
-                        open
-                      >
-                        <summary class="article-expander__title">Pump.fun Identifies Ex-Employee in $1.9M Breach</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/830b4abdd78c98f78e70f682f2c1adec6f5a5256-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2438,8 +2466,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/9382184612">
-        <time id="build-timestamp" datetime="2024-06-05T10:07:21.326Z">2024-06-05T10:07:21.326Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/9382929593">
+        <time id="build-timestamp" datetime="2024-06-05T11:03:51.803Z">2024-06-05T11:03:51.803Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

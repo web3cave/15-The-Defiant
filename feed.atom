@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-05T10:07:21.345Z</id>
+    <id>urn:2024-06-05T11:03:51.823Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-05T10:07:21.345Z</updated>
+    <updated>2024-06-05T11:03:51.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Leveraged Ether ETFs Enter The Market]]></title>
+        <id>https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market</id>
+        <link href="https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market"/>
+        <updated>2024-06-05T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid TVL Hits All-time High, Surpassing dYdX]]></title>
         <id>https://thedefiant.io/news/defi/hyperliquid-tvl-hits-all-time-high-surpassing-dydx</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes</id>
         <link href="https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes"/>
         <updated>2024-05-21T19:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Open interest for ETH futures reached $12 billion on Tuesday, up 34% in the last 24 hours.]]></summary>
+        <summary type="html"><![CDATA[Ethereum ecosystem tokens climbed Tuesday driven by growing optimism about the potential approval of Ethereum exchange-traded funds (ETFs) by the Securities and Exchange Commission (SEC).]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/fantasy-top-creators-to-receive-nearly-600-eth-in-rewards</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/fantasy-top-creators-to-receive-nearly-600-eth-in-rewards"/>
         <updated>2024-05-21T18:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy.Top, the trading card and fantasy sports hybrid built on Ethereum Layer 2 Blast, has just distributed its second round of  in-game rewards to creators.]]></summary>
+        <summary type="html"><![CDATA[Heroes featured in the on-chain trading card game have collectively earned almost 600 ETH, but not everyone is happy.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Experts weigh in on the implications of the first U.S. indictment involving MEV extraction.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump.fun Identifies Ex-Employee in $1.9M Breach]]></title>
-        <id>https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach</id>
-        <link href="https://thedefiant.io/news/hacks/pump-fun-identifies-ex-employee-in-usd1-9m-breach"/>
-        <updated>2024-05-17T15:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Pump.fun has redeployed the contracts, and trading is now live with 0% fees for the next seven days.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
