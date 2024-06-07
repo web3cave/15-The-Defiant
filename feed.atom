@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-07T12:13:49.606Z</id>
+    <id>urn:2024-06-07T13:09:47.982Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-07T12:13:49.606Z</updated>
+    <updated>2024-06-07T13:09:47.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DYdX To Complete v5 Upgrade Next Week]]></title>
+        <id>https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week</id>
+        <link href="https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week"/>
+        <updated>2024-06-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Congress Considers Benefits of Tokenizing Real World Assets]]></title>
         <id>https://thedefiant.io/news/regulation/congress-considers-benefits-of-tokenizing-real-world-assets</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings</id>
         <link href="https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings"/>
         <updated>2024-05-23T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[EtherFi said users will be able to make payments anywhere worldwide with the card.]]></summary>
+        <summary type="html"><![CDATA[EtherFi said it will launch a credit card connected to users' liquid restaking holdings.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A decline in the network hash rate signals falling miner revenues.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$100B+ in Digital Assets: Lukas Schor on Safe, $SAFE, Smart Accounts and Quantum Computing]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/defi/usd100b-in-digital-assets-lukas-schor-on-safe-usdsafe-smart-accounts-and-quantum-computing"/>
-        <updated>2024-05-21T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Lukas Schor is the Co-Founder of Safe, an onchain asset custody protocol, securing ~$100 Billion in assets today. Today, Safe has a TVL of over $100B. In this episode, we go over the recently launched $GNO token, its use cases, early days of Gnosis as an onchain prediction market.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
