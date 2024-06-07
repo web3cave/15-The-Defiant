@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders",
+          "author": "Mehab Qureshi",
+          "description": "Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.",
+          "link": "https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders",
+          "publishedOn": "2024-06-07T13:23:00.000Z",
+          "wordCount": 1577,
+          "title": "Wormhole Launches Staking and Governance For W Token Holders",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/abaa162350e068da84d8d9503e1ee2124bdea8b1-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/abaa162350e068da84d8d9503e1ee2124bdea8b1-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week",
           "author": "Mehab Qureshi",
           "description": "DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.",
@@ -761,7 +776,7 @@
           "description": "Sergey Nazarov is the Co-Founder of Chainlink, a decentralized oracle network that provides data for smart contracts and facilitates cross-chain communication.  Sergey shares his thoughts on the growing crypto scene in Dubai, reflects on the future of tokenization, and discusses the latest on Chainlink's Cross-Chain Interoperability Protocol (CCIP) and what it enables. This interview was recorded during Token2049 in Dubai.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
           "publishedOn": "2024-05-29T05:25:00.000Z",
-          "wordCount": 1469,
+          "wordCount": 1470,
           "title": "Latest on Chainlink, Cross-Chain Communication, and Tokenization with Sergey Nazarov",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/79dc3f8469b36f7982e46f73039697ad3ae889cf-640x357.jpg",
@@ -821,7 +836,7 @@
           "description": "Aave CEO Stani Kulechov hinted that DeFi’s largest lending platform could launch Aave Network in 2025.",
           "link": "https://thedefiant.io/news/defi/aave-to-launch-own-blockchain-after-v4-upgrade",
           "publishedOn": "2024-05-28T17:14:04.000Z",
-          "wordCount": 1291,
+          "wordCount": 1315,
           "title": "Aave to Launch Own Blockchain After V4 Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/64c6a8cf26ebffaa91bc5d7d103d5c185f879377-1792x1024.webp",
@@ -1016,7 +1031,7 @@
           "description": "Depositors are racing to qualify for the Manta CeDeFi points program before the project tags $500 million in TVL.",
           "link": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
           "publishedOn": "2024-05-27T11:50:00.000Z",
-          "wordCount": 1618,
+          "wordCount": 1642,
           "title": "Manta CeDeFi Crossed $100M In TVL After One Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a14d9cceda61e3a3f14d7046b71d46d4038fbf5-1792x1024.webp",
@@ -1046,7 +1061,7 @@
           "description": "RWA-related tokens such as Ondo and Chainlink have surged following the Ethereum ETF approval.",
           "link": "https://thedefiant.io/news/defi/investors-look-to-blackrock-s-next-target-real-world-assets",
           "publishedOn": "2024-05-24T19:52:59.000Z",
-          "wordCount": 1272,
+          "wordCount": 1296,
           "title": "Investors Look to BlackRock’s Next Target: Real World Assets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a77059c11a37b260e140833290ef587e5b8e17be-1792x1024.webp",
@@ -1076,7 +1091,7 @@
           "description": "The Web3 wallet was downloaded 770,000 times in April.",
           "link": "https://thedefiant.io/news/defi/solana-wallet-phantom-overtakes-facebook-on-google-s-app-store",
           "publishedOn": "2024-05-24T18:12:34.000Z",
-          "wordCount": 1206,
+          "wordCount": 1207,
           "title": "Solana Wallet Phantom Overtakes Facebook on Google’s App Store",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/40b6a145d63c487c342d541340a679237f24113f-1792x1024.webp",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum",
           "author": "Samuel Haig",
-          "description": "Robinhood introduced support for swaps on Arbitrum in February.",
+          "description": "Robinhood is introducing support for gasless swaps on Arbitrum in a bid to remove the barriers to its users accessing on-chain finance.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum",
           "publishedOn": "2024-05-23T13:00:00.000Z",
           "wordCount": 1735,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings",
           "author": "Samuel Haig",
-          "description": "EtherFi said it will launch a credit card connected to users' liquid restaking holdings.",
+          "description": "EtherFi said users will be able to make payments anywhere worldwide with the card.",
           "link": "https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings",
           "publishedOn": "2024-05-23T10:33:00.000Z",
           "wordCount": 1629,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69937626caad5b8540bfb091e973d55ea23bf748-1024x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop",
-          "author": "Mehab Qureshi",
-          "description": "A decline in the network hash rate signals falling miner revenues.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop",
-          "publishedOn": "2024-05-21T16:08:14.000Z",
-          "wordCount": 2597,
-          "title": "Bitcoin Halving Strains Miners as Revenues Drop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/413878e634f4e689b46f1313fd60b150fd64ad4d-1024x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/413878e634f4e689b46f1313fd60b150fd64ad4d-1024x1024.png"
         }
       ]
     }

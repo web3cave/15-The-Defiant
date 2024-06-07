@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-07T13:09:47.982Z</id>
+    <id>urn:2024-06-07T14:06:41.608Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-07T13:09:47.982Z</updated>
+    <updated>2024-06-07T14:06:41.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wormhole Launches Staking and Governance For W Token Holders]]></title>
+        <id>https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders</id>
+        <link href="https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders"/>
+        <updated>2024-06-07T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DYdX To Complete v5 Upgrade Next Week]]></title>
         <id>https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum"/>
         <updated>2024-05-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood introduced support for swaps on Arbitrum in February.]]></summary>
+        <summary type="html"><![CDATA[Robinhood is introducing support for gasless swaps on Arbitrum in a bid to remove the barriers to its users accessing on-chain finance.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings</id>
         <link href="https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings"/>
         <updated>2024-05-23T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[EtherFi said it will launch a credit card connected to users' liquid restaking holdings.]]></summary>
+        <summary type="html"><![CDATA[EtherFi said users will be able to make payments anywhere worldwide with the card.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/looming-ethereum-etf-approval-deadline-sparks-frenzy-of-activity"/>
         <updated>2024-05-21T17:50:00.000Z</updated>
         <summary type="html"><![CDATA[Rumors that the SEC is asking applicants to update filings and telling exchanges it's leaning to approve the rule change has sent ETH flying.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Halving Strains Miners as Revenues Drop]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-halving-strains-miners-as-revenues-drop"/>
-        <updated>2024-05-21T16:08:14.000Z</updated>
-        <summary type="html"><![CDATA[A decline in the network hash rate signals falling miner revenues.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
