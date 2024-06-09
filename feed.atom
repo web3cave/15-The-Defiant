@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-09T14:06:45.443Z</id>
+    <id>urn:2024-06-09T15:05:55.142Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-09T14:06:45.443Z</updated>
+    <updated>2024-06-09T15:05:55.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -263,6 +263,16 @@
         <summary type="html"><![CDATA[This week's U.S. economic updates feature Monday's manufacturing data and a key jobs report due on Friday.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting Ripple: New Stablecoin, Airdrops, Network Attacks, and The SEC Case]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/revisiting-ripple-new-stablecoin-airdrops-network-attacks-and-the-sec-case</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/revisiting-ripple-new-stablecoin-airdrops-network-attacks-and-the-sec-case"/>
+        <updated>2024-06-03T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[David Schwartz is the CTO of Ripple, the platform behind XRP which is one of the original cryptocurrencies. In this podcast, we will explore all of the latest developments and more, starting with the founding story of Ripple.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -717,8 +727,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Inside PayPal's Blockchain Strategy: Insights from the Head of Crypto]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/tradfi-and-fintech/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/tradfi-and-fintech/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto"/>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto"/>
         <updated>2024-05-27T13:51:00.000Z</updated>
         <summary type="html"><![CDATA[Jose Fernandez da Ponte is the Head of Crypto at PayPal which entered the crypto market back in 2020. In this podcast, we explore PayPal's motivation for entering the crypto space, the current crypto applications available on their platform, the creation and purpose of their stablecoin, PYUSD, and their approach to facilitating mass adoption of blockchain technology.]]></summary>
         <author>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/low-ethereum-gas-fees-inflate-supply-by-50k-eth-in-one-month</id>
         <link href="https://thedefiant.io/news/blockchains/low-ethereum-gas-fees-inflate-supply-by-50k-eth-in-one-month"/>
         <updated>2024-05-24T05:35:41.000Z</updated>
-        <summary type="html"><![CDATA[$238 million worth of ETH has entered circulation since April 14.]]></summary>
+        <summary type="html"><![CDATA[A spate of low Ethereum gas prices following Dencun has resulted in ETH's supply ballooning over the past six weeks.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/u-s-securities-regulator-approves-spot-ether-etfs-in-landmark-decision</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/u-s-securities-regulator-approves-spot-ether-etfs-in-landmark-decision"/>
         <updated>2024-05-23T21:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Just over four months after Bitcoin ETFs began trading in the U.S., the Securities and Exchange Commission (SEC) has greenlit trading of exchange-traded funds backed by spot Ether.]]></summary>
+        <summary type="html"><![CDATA[The SEC has issued an omnibus approval for eight ETH ETF issuers.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Kakarot Labs is backed by StarkWare and Vitalik Buterin.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuga Labs’ First “Punk in Residence” Release Sparks Controversy]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy"/>
-        <updated>2024-05-22T01:25:44.000Z</updated>
-        <summary type="html"><![CDATA[The community questions Yuga’s decision to launch an official CryptoPunk collaboration.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
