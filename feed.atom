@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T20:07:17.874Z</id>
+    <id>urn:2024-06-10T21:07:22.814Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-10T20:07:17.874Z</updated>
+    <updated>2024-06-10T21:07:22.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Loopring's ‘Most Secure’ Smart Wallet Breached For $5 Million]]></title>
+        <id>https://thedefiant.io/news/defi/loopring-s-most-secure-smart-wallet-breached-for-usd5-million</id>
+        <link href="https://thedefiant.io/news/defi/loopring-s-most-secure-smart-wallet-breached-for-usd5-million"/>
+        <updated>2024-06-10T20:24:03.000Z</updated>
+        <summary type="html"><![CDATA[The attacker managed to compromise Loopring’s 2FA service.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Celebrates Stage 1 Decentralization With Permissionless Fault Proofs]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-celebrates-stage-1-decentralization-with-permissionless-fault-proofs</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week</id>
         <link href="https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week"/>
         <updated>2024-05-27T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Depositors are racing to qualify for the Manta CeDeFi points program before the project tags $500 million in TVL.]]></summary>
+        <summary type="html"><![CDATA[Manta's new CeDeFi product has attracted $120 million in deposits one week after launching.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/arbitrum-community-backs-200m-arb-plan-to-attract-web3-game-builders</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/arbitrum-community-backs-200m-arb-plan-to-attract-web3-game-builders"/>
         <updated>2024-05-27T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum is looking to bolster its web3 gaming sector with a three-year 200M ARB incentive program.]]></summary>
+        <summary type="html"><![CDATA[The proposal seeks 200 million ARB as incentives to foster the development of web3 gaming titles and infrastructure.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[EtherFi said users will be able to make payments anywhere worldwide with the card.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How zkVerify Collapses ZK Proof Costs by 90% | Robert Viglione on zkVerify, ApeChain &amp;  Horizen Labs]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/how-zkverify-collapses-zk-proof-costs-by-90-or-robert-viglione-on-zkverify-apechain-and-horizen</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/how-zkverify-collapses-zk-proof-costs-by-90-or-robert-viglione-on-zkverify-apechain-and-horizen"/>
-        <updated>2024-05-23T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Robert Viglione is the co-founder of Horizen Labs, which is a company that specializes in creating scalable and secure blockchain solutions.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>

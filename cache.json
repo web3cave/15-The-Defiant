@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/loopring-s-most-secure-smart-wallet-breached-for-usd5-million",
+          "author": "Mehab Qureshi",
+          "description": "The attacker managed to compromise Loopring’s 2FA service.",
+          "link": "https://thedefiant.io/news/defi/loopring-s-most-secure-smart-wallet-breached-for-usd5-million",
+          "publishedOn": "2024-06-10T20:24:03.000Z",
+          "wordCount": 1574,
+          "title": "Loopring's ‘Most Secure’ Smart Wallet Breached For $5 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e5882843f6bee505a9f12ff7118973317e619394-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e5882843f6bee505a9f12ff7118973317e619394-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/optimism-celebrates-stage-1-decentralization-with-permissionless-fault-proofs",
           "author": "Mehab Qureshi",
           "description": "Users can now permissionlessly execute withdrawals from OP Mainnet to Layer 1 Ethereum.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
           "author": "Samuel Haig",
-          "description": "Depositors are racing to qualify for the Manta CeDeFi points program before the project tags $500 million in TVL.",
+          "description": "Manta's new CeDeFi product has attracted $120 million in deposits one week after launching.",
           "link": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
           "publishedOn": "2024-05-27T11:50:00.000Z",
           "wordCount": 1569,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/arbitrum-community-backs-200m-arb-plan-to-attract-web3-game-builders",
           "author": "Samuel Haig",
-          "description": "Arbitrum is looking to bolster its web3 gaming sector with a three-year 200M ARB incentive program.",
+          "description": "The proposal seeks 200 million ARB as incentives to foster the development of web3 gaming titles and infrastructure.",
           "link": "https://thedefiant.io/news/nfts-and-web3/arbitrum-community-backs-200m-arb-plan-to-attract-web3-game-builders",
           "publishedOn": "2024-05-27T10:12:00.000Z",
           "wordCount": 1908,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/952d66a980c99514e7685f840596f7352effbf42-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/people/how-zkverify-collapses-zk-proof-costs-by-90-or-robert-viglione-on-zkverify-apechain-and-horizen",
-          "author": "Camila Russo",
-          "description": "Robert Viglione is the co-founder of Horizen Labs, which is a company that specializes in creating scalable and secure blockchain solutions.",
-          "link": "https://thedefiant.io/podcasts-and-videos/people/how-zkverify-collapses-zk-proof-costs-by-90-or-robert-viglione-on-zkverify-apechain-and-horizen",
-          "publishedOn": "2024-05-23T08:26:00.000Z",
-          "wordCount": 1160,
-          "title": "How zkVerify Collapses ZK Proof Costs by 90% | Robert Viglione on zkVerify, ApeChain &amp;  Horizen Labs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/faca557fccfe7b2be46c1995e66d43f2a9727c52-960x537.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/faca557fccfe7b2be46c1995e66d43f2a9727c52-960x537.jpg"
         }
       ]
     }
