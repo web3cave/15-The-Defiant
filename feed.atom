@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T16:09:02.547Z</id>
+    <id>urn:2024-06-10T17:02:49.878Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-10T16:09:02.547Z</updated>
+    <updated>2024-06-10T17:02:49.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum-based Lending Protocol Uwulend Suffers $20 Million Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/ethereum-based-lending-protocol-uwulend-suffers-usd20-million-exploit</id>
+        <link href="https://thedefiant.io/news/defi/ethereum-based-lending-protocol-uwulend-suffers-usd20-million-exploit"/>
+        <updated>2024-06-10T16:50:05.000Z</updated>
+        <summary type="html"><![CDATA[The attack involved three transactions that converted Wrapped Bitcoin and DAI into ETH.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Tread Water as Traders Await Fed's Interest Rate Decision]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-tread-water-as-traders-await-fed-s-interest-rate-decision</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-tread-water-as-traders-await-fed-s-interest-rate-decision"/>
+        <updated>2024-06-10T16:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin stayed below $70,000, while Solana, Ethereum and Polkadot were flat.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum’s Pectra Upgrade May Be Split Into Two Forks]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-s-pectra-upgrade-may-be-split-into-two-forks</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/regulation/ethereum-etf-approval-signals-ether-is-a-commodity-not-a-security</id>
         <link href="https://thedefiant.io/news/regulation/ethereum-etf-approval-signals-ether-is-a-commodity-not-a-security"/>
         <updated>2024-05-24T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC's passing of 19b-4 filings from spot Ether ETF applicants positions the asset as a commodity, rather than a security.]]></summary>
+        <summary type="html"><![CDATA[The ruling sets the stage for collaboration between the SEC and the CFTC on crypto regulations in the United States.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Milady Maker NFTs have surged 35% as most Ethereum NFTs slumped.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Consolidate Ahead of Fed Minutes]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-consolidate-ahead-of-fed-minutes</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-consolidate-ahead-of-fed-minutes"/>
-        <updated>2024-05-22T18:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Ether is holding above $3,700 amid a surge of applications for Ethereum ETFs under Form 19b-4.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Said  It Will Not Veto Crypto Bill in Major Industry Win]]></title>
-        <id>https://thedefiant.io/news/regulation/white-house-said-it-will-not-veto-crypto-bill-in-major-industry-win</id>
-        <link href="https://thedefiant.io/news/regulation/white-house-said-it-will-not-veto-crypto-bill-in-major-industry-win"/>
-        <updated>2024-05-22T16:10:55.000Z</updated>
-        <summary type="html"><![CDATA[The Biden administration said it opposes the bill and is eager to work with Congress in the process to regulate the crypto industry.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
