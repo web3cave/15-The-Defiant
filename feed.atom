@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-11T19:05:38.477Z</id>
+    <id>urn:2024-06-11T20:07:27.974Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-11T19:05:38.477Z</updated>
+    <updated>2024-06-11T20:07:27.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Funds Draw Highest Inflows Since March]]></title>
+        <id>https://thedefiant.io/news/defi/ethereum-funds-draw-highest-inflows-since-march</id>
+        <link href="https://thedefiant.io/news/defi/ethereum-funds-draw-highest-inflows-since-march"/>
+        <updated>2024-06-11T19:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Institutions poured $69 million into the asset last week.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Game Pirate Nation’s Activity Soars Ahead of Token Launch]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/crypto-game-pirate-nation-s-activity-soars-ahead-of-token-launch</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/eu-threatens-to-regulate-mev-as-market-abuse</id>
         <link href="https://thedefiant.io/news/regulation/eu-threatens-to-regulate-mev-as-market-abuse"/>
         <updated>2024-05-28T12:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest draft regulation from the EU securities regulator may require regulated crypto firms to identify and report MEV.]]></summary>
+        <summary type="html"><![CDATA[Draft EU regulations threaten to treat MEV as "market abuse," requiring that regulated crypto firms identify and report instances of MEV.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The SEC has issued an omnibus approval for eight ETH ETF issuers.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Climbs While Rest of Major Cryptocurrencies Slide Ahead of ETF Decision]]></title>
-        <id>https://thedefiant.io/news/markets/eth-rallies-while-rest-of-major-crypto-tokens-slide-ahead-of-etf-decision</id>
-        <link href="https://thedefiant.io/news/markets/eth-rallies-while-rest-of-major-crypto-tokens-slide-ahead-of-etf-decision"/>
-        <updated>2024-05-23T17:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Investors anticipate that the approval of spot Ethereum ETFs could attract institutional investment]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
