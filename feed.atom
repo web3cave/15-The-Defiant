@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T14:06:39.680Z</id>
+    <id>urn:2024-06-13T15:06:59.246Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-13T14:06:39.680Z</updated>
+    <updated>2024-06-13T15:06:59.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Plots Stage 2 Decentralization With Permissionless Transaction Validation]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-plots-stage-2-decentralization-with-permissionless-transaction-validation</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-plots-stage-2-decentralization-with-permissionless-transaction-validation"/>
+        <updated>2024-06-13T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum community is greenlighting the introduction of its BoLD dispute resolution protocol.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Finance Founder Michael Egorov Suffers Massive Liquidations]]></title>
         <id>https://thedefiant.io/news/defi/curve-finance-founder-michael-egorov-suffers-massive-liquidations</id>
@@ -840,6 +850,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov</id>
         <link href="https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov"/>
         <updated>2024-05-29T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Sergey Nazarov is the Co-Founder of Chainlink, a decentralized oracle network that provides data for smart contracts and facilitates cross-chain communication.  Sergey shares his thoughts on the growing crypto scene in Dubai, reflects on the future of tokenization, and discusses the latest on Chainlink's Cross-Chain Interoperability Protocol (CCIP) and what it enables. This interview was recorded during Token2049 in Dubai.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -992,16 +1003,6 @@
         <summary type="html"><![CDATA[Jose Fernandez da Ponte is the Head of Crypto at PayPal which entered the crypto market back in 2020. In this podcast, we explore PayPal's motivation for entering the crypto space, the current crypto applications available on their platform, the creation and purpose of their stablecoin, PYUSD, and their approach to facilitating mass adoption of blockchain technology.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caitlyn Jenner Promotes Crypto Token, Denies Account Hack]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/caitlyn-jenner-promotes-crypto-token-denies-account-hack</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/caitlyn-jenner-promotes-crypto-token-denies-account-hack"/>
-        <updated>2024-05-27T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[JENNER generated $28.3 million in volume within 1.5 hours of launch.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
