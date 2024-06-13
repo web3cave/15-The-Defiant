@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/zapperfi-to-build-road-to-onchain-literacy-with-zapper-protocol",
+          "author": "Pedro Solimano",
+          "description": "Powered by a forthcoming ZAP token, the new protocol aims to incentivize better interpretation and contextualization of onchain information.",
+          "link": "https://thedefiant.io/news/defi/zapperfi-to-build-road-to-onchain-literacy-with-zapper-protocol",
+          "publishedOn": "2024-06-13T19:46:29.000Z",
+          "wordCount": 1243,
+          "title": "ZapperFi to Build ‘Road to Onchain Literacy’ with Zapper Protocol",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/928f717340386e0e14974717acc1fc1ede854811-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/928f717340386e0e14974717acc1fc1ede854811-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/u-s-senator-tells-gary-gensler-crypto-desperately-needs-resources",
           "author": "Pedro Solimano",
           "description": "Senator Patrick Hagerty grilled SEC Chairman Gensler over the agency's lack of prioritization of a “constructive industry.”",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/uniswap-and-across-team-up-on-standard-for-cross-chain-trades",
           "author": "Samuel Haig",
-          "description": "ERC-7683 seeks to combat liquidity fragmentation by providing a standardized framework for cross-chain trading.",
+          "description": "Uniswap and Across Protocol teamed up to propose a standard for cross-chain trade execution.",
           "link": "https://thedefiant.io/news/defi/uniswap-and-across-team-up-on-standard-for-cross-chain-trades",
           "publishedOn": "2024-05-29T11:08:00.000Z",
           "wordCount": 1491,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c34eb587dec0cdbd50d5d0ef03c083755d85fd80-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aptos-surges-past-solana-in-daily-transactions",
-          "author": "Pedro Solimano",
-          "description": "The Layer 1 blockchain achieved record throughput with 115 million transactions on May 24.",
-          "link": "https://thedefiant.io/news/blockchains/aptos-surges-past-solana-in-daily-transactions",
-          "publishedOn": "2024-05-27T18:44:27.000Z",
-          "wordCount": 1433,
-          "title": "Aptos Surges Past Solana In Daily Transactions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4525719bd35c8207be5df8e6255be1023d43ab8b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4525719bd35c8207be5df8e6255be1023d43ab8b-1792x1024.webp"
         }
       ]
     }
