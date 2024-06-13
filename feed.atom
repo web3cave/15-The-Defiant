@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T15:06:59.246Z</id>
+    <id>urn:2024-06-13T16:09:03.507Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-13T15:06:59.246Z</updated>
+    <updated>2024-06-13T16:09:03.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gensler Predicts Ethereum ETFs Approval by ‘End of Summer’]]></title>
+        <id>https://thedefiant.io/news/markets/gensler-predicts-ethereum-etfs-approval-by-end-of-summer</id>
+        <link href="https://thedefiant.io/news/markets/gensler-predicts-ethereum-etfs-approval-by-end-of-summer"/>
+        <updated>2024-06-13T15:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets tumbled after yesterday’s Fed statement revealed that policymakers now expect a single rate cut this year.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Plots Stage 2 Decentralization With Permissionless Transaction Validation]]></title>
         <id>https://thedefiant.io/news/blockchains/arbitrum-plots-stage-2-decentralization-with-permissionless-transaction-validation</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ether is approaching $4,000 following last week’s spot ETF approvals.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside PayPal's Blockchain Strategy: Insights from the Head of Crypto]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/inside-paypals-blockchain-strategy-insights-from-the-head-of-crypto"/>
-        <updated>2024-05-27T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Jose Fernandez da Ponte is the Head of Crypto at PayPal which entered the crypto market back in 2020. In this podcast, we explore PayPal's motivation for entering the crypto space, the current crypto applications available on their platform, the creation and purpose of their stablecoin, PYUSD, and their approach to facilitating mass adoption of blockchain technology.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
