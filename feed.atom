@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T14:06:33.334Z</id>
+    <id>urn:2024-06-18T15:06:55.330Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-18T14:06:33.334Z</updated>
+    <updated>2024-06-18T15:06:55.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ronin Network Unveils Permissionless zkEVM]]></title>
+        <id>https://thedefiant.io/news/blockchains/ronin-network-unveils-permissionless-zkevm</id>
+        <link href="https://thedefiant.io/news/blockchains/ronin-network-unveils-permissionless-zkevm"/>
+        <updated>2024-06-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Game developers will be able to deploy Layer 2 blockchains atop Ronin, leveraging a modified version of Polygon’s CDK.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Looks To Compete Against DeFi With Upcoming Synthetic Asset Platform]]></title>
         <id>https://thedefiant.io/news/cefi/tether-looks-to-compete-against-defi-with-upcoming-synthetic-asset-platform</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/presidential-candidate-rfk-says-bitcoin-can-help-solve-the-u-s-debt-crisis</id>
         <link href="https://thedefiant.io/news/regulation/presidential-candidate-rfk-says-bitcoin-can-help-solve-the-u-s-debt-crisis"/>
         <updated>2024-05-31T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Kennedy owns seven figures worth of BTC.]]></summary>
+        <summary type="html"><![CDATA[Presidential candidate Robert F. Kennedy Jr. wants to back U.S. treasury bills with Bitcoin and other "hard assets."]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/matter-labs-in-hot-water-over-zero-knowledge-trademark-bid</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/matter-labs-in-hot-water-over-zero-knowledge-trademark-bid"/>
         <updated>2024-05-31T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs is facing backlash after seeking to trade the term "ZK" as propriety intellectual property.]]></summary>
+        <summary type="html"><![CDATA[Rival projects using zero-knowledge technology publicly slammed Matter Labs over the trademark drama.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[ERC-7683 seeks to combat liquidity fragmentation by providing a standardized framework for cross-chain trading.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENS Rallies on Layer 2 Migration Plan]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ens-rallies-on-layer-2-migration-plan</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ens-rallies-on-layer-2-migration-plan"/>
-        <updated>2024-05-29T08:48:38.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Name Service protocol has unveiled its V2 iteration that will offer increased flexibility for .eth domain owners.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
