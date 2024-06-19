@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-19T10:08:17.750Z</id>
+    <id>urn:2024-06-19T11:04:34.215Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-19T10:08:17.750Z</updated>
+    <updated>2024-06-19T11:04:34.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Consensys Says SEC Is Ending Investigation Into Whether ETH Is A Security]]></title>
+        <id>https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security</id>
+        <link href="https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security"/>
+        <updated>2024-06-19T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Consensys sued the SEC in pursuit of a court ruling establishing that Ether is a commodity asset and not a security in April.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum NFTs Crater as Blur Incentives Wind Down]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/ethereum-nfts-crater-as-blur-incentives-wind-down</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/revisiting-ripple-new-stablecoin-airdrops-network-attacks-and-the-sec-case</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/revisiting-ripple-new-stablecoin-airdrops-network-attacks-and-the-sec-case"/>
         <updated>2024-06-03T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[David Schwartz is the CTO of Ripple, the platform behind XRP which is one of the original cryptocurrencies. In this podcast, we will explore all of the latest developments and more, starting with the founding story of Ripple.]]></summary>
+        <summary type="html"><![CDATA[David Schwartz is the CTO of Ripple, a Layer 1 blockchain that has been an established name in the cryptocurrency industry since 2012. Ripple is the platform behind XRP, one of the original cryptocurrencies, which currently ranks eighth in market capitalization at $30 billion. Known for its numerous legal battles with the SEC, Ripple has also recently announced the launch of a new stablecoin. In this podcast, we will explore all of the latest developments and more, starting with the founding story of Ripple.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/matter-labs-abandons-zk-trademark-attempt-following-public-outcry</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/matter-labs-abandons-zk-trademark-attempt-following-public-outcry"/>
         <updated>2024-06-03T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs, the team behind ZkSync Era, has backed down on seeking to trademark the term "ZK" after copping significsant backlash.]]></summary>
+        <summary type="html"><![CDATA[Matter Labs’ move to trademark the commonly-used acronym was met with condemnation from the web3 community.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Hester M. Peirce suggests a collaborative effort toward building out a regulatory framework.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unregulated Stablecoins Pose Risk To National Security: U.S. Treasury Department]]></title>
-        <id>https://thedefiant.io/news/regulation/unregulated-stablecoins-pose-risk-to-national-security-u-s-treasury-department</id>
-        <link href="https://thedefiant.io/news/regulation/unregulated-stablecoins-pose-risk-to-national-security-u-s-treasury-department"/>
-        <updated>2024-05-30T15:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department wants to crack down on jurisdictional regulatory arbitrage.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
