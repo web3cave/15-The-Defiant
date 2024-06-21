@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T12:11:50.461Z</id>
+    <id>urn:2024-06-21T13:08:56.322Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T12:11:50.461Z</updated>
+    <updated>2024-06-21T13:08:56.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Community Backs Lido Alliance, Greenlighting stETH-Focused V3 Deployment]]></title>
+        <id>https://thedefiant.io/news/defi/aave-community-backs-lido-alliance-greenlighting-steth-focused-v3-deployment</id>
+        <link href="https://thedefiant.io/news/defi/aave-community-backs-lido-alliance-greenlighting-steth-focused-v3-deployment"/>
+        <updated>2024-06-21T12:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Aave’s community passed a proposal to launch a Lido-focused deployment of v3 designed to facilitate recursive stETH borrowing.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3iQ Submits Prospectus For Solana ETP in Canada]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/3iq-submits-prospectus-for-solana-etp-in-canada</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/cefi/robinhood-to-acquire-veteran-crypto-exchange-bitstamp</id>
         <link href="https://thedefiant.io/news/cefi/robinhood-to-acquire-veteran-crypto-exchange-bitstamp"/>
         <updated>2024-06-06T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood is set to acquire Bitstamp, a cryptocurrency exchange that has boasted significant market share since launching in 2011.]]></summary>
+        <summary type="html"><![CDATA[This move will allow Robinhood to compete more aggressively in the crypto exchange market.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The amount represents 0.1% of the fund's total assets under management.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Kicks Off with a Bitcoin Boom]]></title>
-        <id>https://thedefiant.io/news/markets/june-kicks-off-with-a-bitcoin-boom</id>
-        <link href="https://thedefiant.io/news/markets/june-kicks-off-with-a-bitcoin-boom"/>
-        <updated>2024-06-03T16:16:58.000Z</updated>
-        <summary type="html"><![CDATA[This week's U.S. economic updates feature Monday's manufacturing data and a key jobs report due on Friday.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
