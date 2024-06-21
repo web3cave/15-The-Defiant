@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T20:08:24.584Z</id>
+    <id>urn:2024-06-21T21:07:38.929Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T20:08:24.584Z</updated>
+    <updated>2024-06-21T21:07:38.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana DEX Volumes Hit Lowest Level Since March]]></title>
+        <id>https://thedefiant.io/news/markets/solana-dex-volumes-hit-lowest-level-since-march</id>
+        <link href="https://thedefiant.io/news/markets/solana-dex-volumes-hit-lowest-level-since-march"/>
+        <updated>2024-06-21T20:08:45.000Z</updated>
+        <summary type="html"><![CDATA[On-chain trading on Solana is in a steady downtrend as memecoin mania fizzles out.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is the Bear Market Back? Data Says Yes]]></title>
         <id>https://thedefiant.io/news/markets/is-the-bear-market-back-data-says-yes</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week</id>
         <link href="https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week"/>
         <updated>2024-06-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.]]></summary>
+        <summary type="html"><![CDATA[DYdX will launch its highly anticipated v5 upgrade next week, introducing isolated markets, batch orders, liquidity vaults, and new price oracles.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal</id>
         <link href="https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal"/>
         <updated>2024-06-07T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. In our interview, conducted during Consensus 2024 in Austin, we discuss a range of topics from industry’s ethos to Mario’s insights on why the industry is attractive to many. Mario shares his perspective on the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.]]></summary>
+        <summary type="html"><![CDATA[Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. We discussed a range of topics from the industry’s ethos and Mario’s insights on why the industry is attractive to many, to the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Both the physical violin and its representative NFT are being used as collateral for the loan.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkWare Reveals Ambitious Plan To Scale Bitcoin Through Controversial Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/starkware-reveals-ambitious-plan-to-scale-bitcoin-through-controversial-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/starkware-reveals-ambitious-plan-to-scale-bitcoin-through-controversial-upgrade"/>
-        <updated>2024-06-04T14:46:35.000Z</updated>
-        <summary type="html"><![CDATA[The move comes with a $1 million fund for researchers.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
