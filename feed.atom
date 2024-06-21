@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T17:07:07.646Z</id>
+    <id>urn:2024-06-21T18:09:47.878Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T17:07:07.646Z</updated>
+    <updated>2024-06-21T18:09:47.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is the Bear Market Back? Data Says Yes]]></title>
+        <id>https://thedefiant.io/news/markets/is-the-bear-market-back-data-says-yes</id>
+        <link href="https://thedefiant.io/news/markets/is-the-bear-market-back-data-says-yes"/>
+        <updated>2024-06-21T17:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Research contradicts the consensus opinion that ETFs, the Bitcoin halving, and Fed policy have been driving the asset’s price action.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SocialFi’s coming of age: Solving for user experience, then DeFi]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/socialfi-s-coming-of-age-solving-for-user-experience-then-defi</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/socialfi-s-coming-of-age-solving-for-user-experience-then-defi"/>
+        <updated>2024-06-21T17:27:17.000Z</updated>
+        <summary type="html"><![CDATA[SocialFi platforms can benefit greatly by fusing elements of web2 and web3 while integrating DeFi features that are less of a technical barrier and more of supplementing resources.]]></summary>
+        <author>
+            <name>Dave Catudal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerZero’s Airdrop Drives Record Arbitrum Fee Revenue]]></title>
         <id>https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal</id>
         <link href="https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal"/>
         <updated>2024-06-07T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. We discussed a range of topics from the industry’s ethos and Mario’s insights on why the industry is attractive to many, to the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.]]></summary>
+        <summary type="html"><![CDATA[Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. In our interview, conducted during Consensus 2024 in Austin, we discuss a range of topics from industry’s ethos to Mario’s insights on why the industry is attractive to many. Mario shares his perspective on the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/how-many-users-does-farcaster-actually-have</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/how-many-users-does-farcaster-actually-have"/>
         <updated>2024-06-06T18:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Farcaster is the blockchain-based social media darling of this cycle, enjoying parabolic growth and a billion-dollar valuation, but data show active users may be a fraction of the most widely-cited numbers.]]></summary>
+        <summary type="html"><![CDATA[A Dune dashboard says 55,000 daily active users (DAU) , but their API says it may be a tenth of that.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The move comes with a $1 million fund for researchers.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Ecosystem TVL Hits All-time High]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high</id>
-        <link href="https://thedefiant.io/news/blockchains/base-ecosystem-tvl-hits-all-time-high"/>
-        <updated>2024-06-04T07:14:11.000Z</updated>
-        <summary type="html"><![CDATA[Activity on Ethereum Layer 2 network Base is surging ahead of Coinbase’s smart wallet release.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linea Halts Network after Velocore Exploit]]></title>
-        <id>https://thedefiant.io/news/defi/linea-halts-network-after-velocore-exploit</id>
-        <link href="https://thedefiant.io/news/defi/linea-halts-network-after-velocore-exploit"/>
-        <updated>2024-06-03T18:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized exchange Velocore was hacked for $7M over the weekend.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
