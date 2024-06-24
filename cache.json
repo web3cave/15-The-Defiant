@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/former-certik-clients-question-security-firm-s-stronghold-on-protocol-audits",
+          "author": "Pedro Solimano",
+          "description": "A Solana cybersecurity researcher said  that the firm does the bare minimum when auditing protocols.",
+          "link": "https://thedefiant.io/news/hacks/former-certik-clients-question-security-firm-s-stronghold-on-protocol-audits",
+          "publishedOn": "2024-06-24T19:58:03.000Z",
+          "wordCount": 2734,
+          "title": "Former Certik Clients Question Security Firm’s Stronghold On Protocol Audits",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6053b562121da8cac9ed8fe49b041357d3aeaa8-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6053b562121da8cac9ed8fe49b041357d3aeaa8-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears",
           "author": "Mehab Qureshi",
           "description": "Over $313 million of leveraged positions were liquidated in the past 24 hours.",
@@ -191,7 +206,7 @@
           "description": "Kraken’s Chief Security Officer confirmed the funds have been returned minus a small amount “lost to fees.”",
           "link": "https://thedefiant.io/news/hacks/certik-returns-usd3-million-to-kraken-amid-controversy-for-holding-funds-hostage",
           "publishedOn": "2024-06-20T14:35:32.000Z",
-          "wordCount": 1540,
+          "wordCount": 1526,
           "title": "Certik Returns $3 Million To Kraken Amid Controversy For Holding Funds ‘Hostage’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a3f20206bba992c8064d9e6694794b77024fd7f-828x473.png",
@@ -701,7 +716,7 @@
           "description": "Analysts believe the exploit may have been perpetrated by a “rogue developer.”",
           "link": "https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50",
           "publishedOn": "2024-06-14T10:27:00.000Z",
-          "wordCount": 1734,
+          "wordCount": 1720,
           "title": "Insider Accused Of Perpetrating Holograph Exploit, Tanking HLG By 50%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6d811cef015a25949cade9ceff8453c7277213a-1792x1024.webp",
@@ -836,7 +851,7 @@
           "description": "The protocol lost an additional $3.72 million after getting hacked for the second time in three days.",
           "link": "https://thedefiant.io/news/hacks/uwu-lend-suffers-second-exploit-in-one-week-bringing-losses-usd23-million",
           "publishedOn": "2024-06-13T09:43:00.000Z",
-          "wordCount": 1470,
+          "wordCount": 1456,
           "title": "UwU Lend Suffers Second Exploit In One Week, Bringing Losses To $23 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e2a1215716206c06a021addea16446731aa3bb8-1792x1024.webp",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures",
           "author": "Pedro Solimano",
-          "description": "Users can now deposit stETH, weETH, ETH and WBTC on Aave to borrow stablecoins into Ethena USDe or sUSDe.",
+          "description": "Ethena Labs, issuer of the fourth-largest stablecoin by market capitalization, continues  to broaden USDe’s reach in Decentralized Finance (DeFi), and has integrated with the industry’s largest lending platform, Aave.",
           "link": "https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures",
           "publishedOn": "2024-06-07T18:38:36.000Z",
           "wordCount": 1684,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/403f7f752ffcb0370a357a4a38e1a6fc3c69d11a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche",
-          "author": "Samuel Haig",
-          "description": "Misyon Bank's Tokenization Platform facilitates the tokenization of shares, real estate, and government and corporate bonds.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche",
-          "publishedOn": "2024-06-05T13:08:00.000Z",
-          "wordCount": 1573,
-          "title": "Misyon Bank Launches Tokenization Solution On Avalanche",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85e9da0267b513bb8740cdad52cccebf6af65fc0-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85e9da0267b513bb8740cdad52cccebf6af65fc0-1792x1024.webp"
         }
       ]
     }

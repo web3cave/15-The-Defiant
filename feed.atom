@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T19:05:13.636Z</id>
+    <id>urn:2024-06-24T20:07:45.907Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-24T19:05:13.636Z</updated>
+    <updated>2024-06-24T20:07:45.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Former Certik Clients Question Security Firm’s Stronghold On Protocol Audits]]></title>
+        <id>https://thedefiant.io/news/hacks/former-certik-clients-question-security-firm-s-stronghold-on-protocol-audits</id>
+        <link href="https://thedefiant.io/news/hacks/former-certik-clients-question-security-firm-s-stronghold-on-protocol-audits"/>
+        <updated>2024-06-24T19:58:03.000Z</updated>
+        <summary type="html"><![CDATA[A Solana cybersecurity researcher said  that the firm does the bare minimum when auditing protocols.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Plummet on Mt. Gox Repayment Fears]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures</id>
         <link href="https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures"/>
         <updated>2024-06-07T18:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Users can now deposit stETH, weETH, ETH and WBTC on Aave to borrow stablecoins into Ethena USDe or sUSDe.]]></summary>
+        <summary type="html"><![CDATA[Ethena Labs, issuer of the fourth-largest stablecoin by market capitalization, continues  to broaden USDe’s reach in Decentralized Finance (DeFi), and has integrated with the industry’s largest lending platform, Aave.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin ETFs had their second-best day ever, with $887 million in inflows on June 4.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misyon Bank Launches Tokenization Solution On Avalanche]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/misyon-bank-launches-tokenization-solution-on-avalanche"/>
-        <updated>2024-06-05T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Misyon Bank's Tokenization Platform facilitates the tokenization of shares, real estate, and government and corporate bonds.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
