@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T14:07:08.508Z</id>
+    <id>urn:2024-06-24T15:07:30.066Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-24T14:07:08.508Z</updated>
+    <updated>2024-06-24T15:07:30.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana's 'ZK Compression’ Scaling Solution Ignites Controversy]]></title>
+        <id>https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy</id>
+        <link href="https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy"/>
+        <updated>2024-06-24T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereans argue that ZK Compression is little more than a Layer 2.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt. Gox To Repay Creditors Next Month Amid Heavy Bitcoin Miners Sell-Off]]></title>
+        <id>https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off</id>
+        <link href="https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off"/>
+        <updated>2024-06-24T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The news coincides with miners offloading $2 billion worth of BTC in June so far.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Gas Prices Tag Multi-Year Low As ETH Supply Inflates]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders</id>
         <link href="https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders"/>
         <updated>2024-06-07T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Wormhole has launched a staking and governance mechanism for W tokenholders.]]></summary>
+        <summary type="html"><![CDATA[Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Crypto Curtains: Market Insights from CoinGecko Co-Founder Bobby Ong]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong"/>
-        <updated>2024-06-05T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Bobby Ong is the Co-Founder of CoinGecko, a cryptocurrency analysis platform that tracks price, volume, market capitalization, community growth, open source code development, major events, and onchain metrics.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid TVL Hits All-time High, Surpassing dYdX]]></title>
-        <id>https://thedefiant.io/news/defi/hyperliquid-tvl-hits-all-time-high-surpassing-dydx</id>
-        <link href="https://thedefiant.io/news/defi/hyperliquid-tvl-hits-all-time-high-surpassing-dydx"/>
-        <updated>2024-06-04T19:46:44.000Z</updated>
-        <summary type="html"><![CDATA[The Arbitrum-based DEX also announced a new points program that kicked off on May 28.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
