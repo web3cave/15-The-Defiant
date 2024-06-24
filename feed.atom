@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T10:08:25.094Z</id>
+    <id>urn:2024-06-24T11:07:58.182Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-24T10:08:25.094Z</updated>
+    <updated>2024-06-24T11:07:58.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Gas Prices Tag Multi-Year Low As ETH Supply Inflates]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates"/>
+        <updated>2024-06-24T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[If current trends continue, ETH’s supply will tag a new 2024 high in the next six days.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana DEX Volumes Hit Lowest Level Since March]]></title>
         <id>https://thedefiant.io/news/markets/solana-dex-volumes-hit-lowest-level-since-march</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders</id>
         <link href="https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders"/>
         <updated>2024-06-07T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.]]></summary>
+        <summary type="html"><![CDATA[Wormhole has launched a staking and governance mechanism for W tokenholders.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week</id>
         <link href="https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week"/>
         <updated>2024-06-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DYdX will launch its highly anticipated v5 upgrade next week, introducing isolated markets, batch orders, liquidity vaults, and new price oracles.]]></summary>
+        <summary type="html"><![CDATA[DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Arbitrum-based DEX also announced a new points program that kicked off on May 28.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Digital Issues Multimillion-dollar Loan Against Tokenized Stradivarius Violin]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/galaxy-digital-issues-multimillion-dollar-loan-against-tokenized-stradivarius-violin</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/galaxy-digital-issues-multimillion-dollar-loan-against-tokenized-stradivarius-violin"/>
-        <updated>2024-06-04T17:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Both the physical violin and its representative NFT are being used as collateral for the loan.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
