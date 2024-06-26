@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
+          "author": "Samuel Haig",
+          "description": "Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.",
+          "link": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
+          "publishedOn": "2024-06-26T13:16:00.000Z",
+          "wordCount": 1586,
+          "title": "CertiK Accused Of Front-Running Bug Bounties Through Subsidiary",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2ea3d23d338675aba93f3d29feb1e7668b50cc0-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f2ea3d23d338675aba93f3d29feb1e7668b50cc0-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/doj-sentences-hydro-founders-in-first-ruling-that-a-cryptocurrency-is-a-security",
           "author": "Samuel Haig",
           "description": "The pair were sentenced with securities fraud for manipulating the price of HYDRO with wash trades and spoof orders.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-suisse-issues-tokenized-bond-on-polygon",
           "author": "Mehab Qureshi",
-          "description": "The news comes as the tokenized real-world asset sector is booming.",
+          "description": "Bitcoin Suisse has launched a tokenized on Polygon in the latest example of web3's booming real-world asset sector.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-suisse-issues-tokenized-bond-on-polygon",
           "publishedOn": "2024-06-11T12:05:00.000Z",
           "wordCount": 1700,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/uniswap-acquires-crypto-the-game-in-on-chain-gaming-play",
           "author": "Samuel Haig",
-          "description": "Uniswap Labs has acquired Crypto: The Game in the company's first major on-chain gaming play.",
+          "description": "The Survivor-inspired game has quickly amassed a cult following since launching in January.",
           "link": "https://thedefiant.io/news/nfts-and-web3/uniswap-acquires-crypto-the-game-in-on-chain-gaming-play",
           "publishedOn": "2024-06-11T10:58:00.000Z",
           "wordCount": 1706,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/abaa162350e068da84d8d9503e1ee2124bdea8b1-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week",
-          "author": "Mehab Qureshi",
-          "description": "DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.",
-          "link": "https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week",
-          "publishedOn": "2024-06-07T13:00:00.000Z",
-          "wordCount": 1834,
-          "title": "DYdX To Complete v5 Upgrade Next Week",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d1ab0270cdc1caf49a9854619ec284d42feaacac-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d1ab0270cdc1caf49a9854619ec284d42feaacac-1792x1024.webp"
         }
       ]
     }

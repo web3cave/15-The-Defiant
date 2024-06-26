@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-26T13:10:17.938Z</id>
+    <id>urn:2024-06-26T14:06:37.558Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-26T13:10:17.938Z</updated>
+    <updated>2024-06-26T14:06:37.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CertiK Accused Of Front-Running Bug Bounties Through Subsidiary]]></title>
+        <id>https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary</id>
+        <link href="https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary"/>
+        <updated>2024-06-26T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoJ Sentences HYDRO Founders In First Ruling That A Cryptocurrency Is A Security]]></title>
         <id>https://thedefiant.io/news/regulation/doj-sentences-hydro-founders-in-first-ruling-that-a-cryptocurrency-is-a-security</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitcoin-suisse-issues-tokenized-bond-on-polygon</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bitcoin-suisse-issues-tokenized-bond-on-polygon"/>
         <updated>2024-06-11T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The news comes as the tokenized real-world asset sector is booming.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin Suisse has launched a tokenized on Polygon in the latest example of web3's booming real-world asset sector.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/uniswap-acquires-crypto-the-game-in-on-chain-gaming-play</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/uniswap-acquires-crypto-the-game-in-on-chain-gaming-play"/>
         <updated>2024-06-11T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs has acquired Crypto: The Game in the company's first major on-chain gaming play.]]></summary>
+        <summary type="html"><![CDATA[The Survivor-inspired game has quickly amassed a cult following since launching in January.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders"/>
         <updated>2024-06-07T13:23:00.000Z</updated>
         <summary type="html"><![CDATA[Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DYdX To Complete v5 Upgrade Next Week]]></title>
-        <id>https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week</id>
-        <link href="https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week"/>
-        <updated>2024-06-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
