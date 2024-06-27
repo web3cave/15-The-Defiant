@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-27T13:09:47.989Z</id>
+    <id>urn:2024-06-27T14:06:56.279Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-27T13:09:47.989Z</updated>
+    <updated>2024-06-27T14:06:56.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SOL Surges on VanEck Spot Solana ETF Filing]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sol-surges-on-vaneck-spot-solana-etf-filing</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sol-surges-on-vaneck-spot-solana-etf-filing"/>
+        <updated>2024-06-27T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[VanEck filed an S-1 registration statement with the SEC to launch a spot exchange-traded fund investing in Solana.]]></summary>
+        <author>
+            <name>Samuel Haig and Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Digital Mines Millions In KAS As Kaspa Surges]]></title>
         <id>https://thedefiant.io/news/blockchains/marathon-digital-mines-millions-in-kas-as-kaspa-surges</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50</id>
         <link href="https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50"/>
         <updated>2024-06-14T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysts believe the exploit may have been perpetrated by a “rogue developer.”]]></summary>
+        <summary type="html"><![CDATA[Holograph is latest web3 project that appears to have been attacked by one of its own team members.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Consensys is targeting the liquid staking sector with its MetaMask Pooled Staking service.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZkSync Airdrop Allocations Leave DeFi Community Split]]></title>
-        <id>https://thedefiant.io/news/blockchains/zksync-to-airdrop-17-5-of-token-supply</id>
-        <link href="https://thedefiant.io/news/blockchains/zksync-to-airdrop-17-5-of-token-supply"/>
-        <updated>2024-06-12T11:26:44.000Z</updated>
-        <summary type="html"><![CDATA[The billion-dollar ZK airdrop proves to be controversial as users review distributions and anti-sybil measures.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
