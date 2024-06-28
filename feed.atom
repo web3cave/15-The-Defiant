@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-28T17:06:45.879Z</id>
+    <id>urn:2024-06-28T18:08:53.217Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-28T17:06:45.880Z</updated>
+    <updated>2024-06-28T18:08:53.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Targets Ethereum Liquid Staking]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking</id>
+        <link href="https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking"/>
+        <updated>2024-06-28T17:20:35.000Z</updated>
+        <summary type="html"><![CDATA[The lawsuit alleging Lido and Rocket Pool are violating securities laws comes less than two weeks after the SEC dropped its Ethereum investigation.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU's MiCA Regulation for Stablecoins Set to Take Effect June 30]]></title>
+        <id>https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30</id>
+        <link href="https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30"/>
+        <updated>2024-06-28T16:53:14.000Z</updated>
+        <summary type="html"><![CDATA[The European Union's Markets in Crypto-Assets (MiCA) regulation is set to take partial effect on June 30, targeting stablecoins.]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Introduces Timeboost Proposal for MEV and Voting]]></title>
         <id>https://thedefiant.io/news/blockchains/arbitrum-introduces-timeboost-proposal-mev-voting</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author</id>
         <link href="https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author"/>
         <updated>2024-06-18T18:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Armin Sabouri put a dent in the hype surrounding the script, even though he authored the Bitcoin Improvement Proposal.]]></summary>
+        <summary type="html"><![CDATA[As builders continue to test out the Satoshi-era opcode, prominent Bitcoin community members say the code, known as OP_CAT, has verbose scripting language that may add risk to the oldest blockchain.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users</id>
         <link href="https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users"/>
         <updated>2024-06-18T16:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Trading on Base, the Coinbase-supported Layer 2, is soaring, positioning the network to become the second-most active in terms of decentralized exchanges (DEX) users this month.]]></summary>
+        <summary type="html"><![CDATA[Most DEX users on the Base network come from Uniswap.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Polkadot plans to move away from its parachain architecture]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insider Accused Of Perpetrating Holograph Exploit, Tanking HLG By 50%]]></title>
-        <id>https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50</id>
-        <link href="https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50"/>
-        <updated>2024-06-14T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysts believe the exploit may have been perpetrated by a “rogue developer.”]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memecoins Get Decimated Amid Market Downturn]]></title>
-        <id>https://thedefiant.io/news/markets/memecoins-get-decimated-amid-market-downturn</id>
-        <link href="https://thedefiant.io/news/markets/memecoins-get-decimated-amid-market-downturn"/>
-        <updated>2024-06-14T08:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Leading memecoins have plunged, with market leaders PEPE and WIF dropping 15% and 25%, respectively, in the past seven days.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

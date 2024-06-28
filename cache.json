@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking",
+          "author": "Squiffs",
+          "description": "The lawsuit alleging Lido and Rocket Pool are violating securities laws comes less than two weeks after the SEC dropped its Ethereum investigation.",
+          "link": "https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking",
+          "publishedOn": "2024-06-28T17:20:35.000Z",
+          "wordCount": 1176,
+          "title": "SEC Targets Ethereum Liquid Staking",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb4779c731d852ee3330d07a286d5ae0d50b271e-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb4779c731d852ee3330d07a286d5ae0d50b271e-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30",
+          "author": "DeepNewz",
+          "description": "The European Union's Markets in Crypto-Assets (MiCA) regulation is set to take partial effect on June 30, targeting stablecoins.",
+          "link": "https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30",
+          "publishedOn": "2024-06-28T16:53:14.000Z",
+          "wordCount": 1070,
+          "title": "EU's MiCA Regulation for Stablecoins Set to Take Effect June 30",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffe5217b49a2af680540f076297fb66bfe6afeca-1200x600.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ffe5217b49a2af680540f076297fb66bfe6afeca-1200x600.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/arbitrum-introduces-timeboost-proposal-mev-voting",
           "author": "DeepNewz",
           "description": "Arbitrum has introduced a new transaction ordering policy called Timeboost, which is now live for voting.",
@@ -1153,7 +1183,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author",
           "author": "Pedro Solimano",
-          "description": "Armin Sabouri put a dent in the hype surrounding the script, even though he authored the Bitcoin Improvement Proposal.",
+          "description": "As builders continue to test out the Satoshi-era opcode, prominent Bitcoin community members say the code, known as OP_CAT, has verbose scripting language that may add risk to the oldest blockchain.",
           "link": "https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author",
           "publishedOn": "2024-06-18T18:09:12.000Z",
           "wordCount": 3210,
@@ -1183,7 +1213,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users",
           "author": "Mehab Qureshi",
-          "description": "Trading on Base, the Coinbase-supported Layer 2, is soaring, positioning the network to become the second-most active in terms of decentralized exchanges (DEX) users this month.",
+          "description": "Most DEX users on the Base network come from Uniswap.",
           "link": "https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users",
           "publishedOn": "2024-06-18T16:29:52.000Z",
           "wordCount": 1533,
@@ -1404,36 +1434,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d11ad08f3529b3501a7da91f8b60fb574396fc9e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50",
-          "author": "Mehab Qureshi",
-          "description": "Analysts believe the exploit may have been perpetrated by a “rogue developer.”",
-          "link": "https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50",
-          "publishedOn": "2024-06-14T10:27:00.000Z",
-          "wordCount": 1726,
-          "title": "Insider Accused Of Perpetrating Holograph Exploit, Tanking HLG By 50%",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6d811cef015a25949cade9ceff8453c7277213a-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e6d811cef015a25949cade9ceff8453c7277213a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/memecoins-get-decimated-amid-market-downturn",
-          "author": "Squiffs",
-          "description": "Leading memecoins have plunged, with market leaders PEPE and WIF dropping 15% and 25%, respectively, in the past seven days.",
-          "link": "https://thedefiant.io/news/markets/memecoins-get-decimated-amid-market-downturn",
-          "publishedOn": "2024-06-14T08:21:47.000Z",
-          "wordCount": 1188,
-          "title": "Memecoins Get Decimated Amid Market Downturn",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89d048500c366d64622402da7894d2fd4a203520-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89d048500c366d64622402da7894d2fd4a203520-1792x1024.webp"
         }
       ]
     }
