@@ -6,6 +6,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
+          "author": "Samuel Haig",
+          "description": "The move marks the first deployment of GHO's cross-chain expansion.",
+          "link": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
+          "publishedOn": "2024-07-02T16:00:00.000Z",
+          "wordCount": 1961,
+          "title": "Aave Launches GHO Stablecoin On Arbitrum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d76dbef05304af7368db1aba70d7ad8acd965cff-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d76dbef05304af7368db1aba70d7ad8acd965cff-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-hood-considers-listing-bitcoin-crypto-futures-us-europe",
+          "author": "DeepNewz",
+          "description": "Robinhood $HOOD is reportedly considering listing cryptocurrency futures in the United States and Europe.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-hood-considers-listing-bitcoin-crypto-futures-us-europe",
+          "publishedOn": "2024-07-02T15:31:55.000Z",
+          "wordCount": 1052,
+          "title": "Robinhood $HOOD Considers Listing Bitcoin and Crypto Futures in US and Europe",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade",
           "author": "Samuel Haig",
           "description": "ZKsync aims to foster an interconnected ecosystem of ZK Stack-based Layer 2 rollups.",
@@ -168,16 +193,6 @@
           "publishedOn": "2024-06-30T10:09:59.000Z",
           "wordCount": 1114,
           "title": "Polymarket Hits $100M Monthly Volume Amid Election Prediction Surge, $200M in Bets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/over-3-billion-crypto-tokens-to-unlock-july-including-730m-across-40-projects",
-          "author": "DeepNewz",
-          "description": "In July, over $3 billion worth of crypto tokens are set to be unlocked as vesting periods end for more than 40 projects.",
-          "link": "https://thedefiant.io/news/markets/over-3-billion-crypto-tokens-to-unlock-july-including-730m-across-40-projects",
-          "publishedOn": "2024-06-30T10:09:55.000Z",
-          "wordCount": 1123,
-          "title": "Over $3 Billion in Crypto Tokens to Unlock in July, Including $730M Across 40 Projects",
           "imageUrl": null
         },
         {
@@ -1158,7 +1173,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/konami-taps-avalanche-for-yen-based-nft-marketplace-resella",
           "author": "Mehab Qureshi",
-          "description": "Konami will launch a centralized NFT marketplace targeting mainstream game companies as an Avalanche subnet.",
+          "description": "Resella will comprise a centralized NFT marketplace supporting payments in the form of Japanese Yen.",
           "link": "https://thedefiant.io/news/nfts-and-web3/konami-taps-avalanche-for-yen-based-nft-marketplace-resella",
           "publishedOn": "2024-06-20T15:06:00.000Z",
           "wordCount": 1430,
@@ -1394,21 +1409,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/111796206fb7a14114a54758e70f495ca3cefe32-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ethereum-nfts-crater-as-blur-incentives-wind-down",
-          "author": "yyctrader",
-          "description": "Major liquidity providers have pulled their bids ahead of next week’s Blast token launch.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ethereum-nfts-crater-as-blur-incentives-wind-down",
-          "publishedOn": "2024-06-18T20:12:03.000Z",
-          "wordCount": 1403,
-          "title": "Ethereum NFTs Crater as Blur Incentives Wind Down",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d65334c1c1ec79a20be09e5c97abd975b3ca50f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d65334c1c1ec79a20be09e5c97abd975b3ca50f-1792x1024.webp"
         }
       ]
     }
