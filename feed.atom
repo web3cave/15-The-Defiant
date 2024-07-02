@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T10:07:24.933Z</id>
+    <id>urn:2024-07-02T11:06:29.045Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-02T10:07:24.933Z</updated>
+    <updated>2024-07-02T11:06:29.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitfinex Securities and Mikro Kapital Announce Second Tokenized Bond Offering]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitfinex-securities-and-mikro-kapital-announce-second-tokenized-bond-offering</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitfinex-securities-and-mikro-kapital-announce-second-tokenized-bond-offering"/>
+        <updated>2024-07-02T10:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The move comes amid a surge in the number of tokenized bond offerings this year.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle Launches Incentives Campaign for its Liquid Staking Protocol]]></title>
         <id>https://thedefiant.io/news/defi/mantle-launches-incentives-campaign-for-its-liquid-staking-protocol</id>
@@ -73,6 +83,16 @@
         <summary type="html"><![CDATA[Legal experts describe the ruling as a significant victory over the SEC for the web3 sector.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Bitcoin's Potential: How Rootstock Uses EVM For Scalability]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/unlocking-bitcoins-potential-how-rootstock-uses-evm-for-scalability</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/unlocking-bitcoins-potential-how-rootstock-uses-evm-for-scalability"/>
+        <updated>2024-07-01T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Fogg is the CEO of RootstockLabs, the organization behind the Rootstock sidechain, which is a Bitcoin Layer 2 solution designed to enhance Bitcoin's capabilities with smart contract functionality. Rootstock was launched in January 2018, becoming the first Bitcoin sidechain, and is secured by Bitcoin's hashing power through a merged mining process. This innovative sidechain leverages Bitcoin's security while enabling Ethereum compatible smart contracts, aiming to reduce transaction costs and improve scalability​.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -486,6 +506,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Rise &amp;  Fall &amp;  Rise of Solana]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/blockchains/the-rise-and-fall-and-rise-of-solana</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/blockchains/the-rise-and-fall-and-rise-of-solana"/>
+        <updated>2024-06-26T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re uncovering the untold elements of Solana’s comeback — a blockchain that battled endless adversities to redefine its own destiny. From an ambitious launch and meteoric rise to overcoming nearly catastrophic setbacks, this tale of innovation, endurance, and rebirth is arguably unique. But what exactly was it that allowed Solana to survive against all odds, to cement itself as one of the leading Layer 1 blockchains today? In other words, what can we learn about the ups and downs of Solana’s journey which could ultimately shape the industry’s future? Stay tuned, because this story is just getting started.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blast Layer 2 Unveils Tokenomics Ahead of Airdrop]]></title>
         <id>https://thedefiant.io/news/blockchains/blast-layer-2-unveils-tokenomics-ahead-of-airdrop</id>
         <link href="https://thedefiant.io/news/blockchains/blast-layer-2-unveils-tokenomics-ahead-of-airdrop"/>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/hacks/certik-returns-usd3-million-to-kraken-amid-controversy-for-holding-funds-hostage</id>
         <link href="https://thedefiant.io/news/hacks/certik-returns-usd3-million-to-kraken-amid-controversy-for-holding-funds-hostage"/>
         <updated>2024-06-20T14:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Kraken’s Chief Security Officer confirmed the funds have been returned minus a small amount “lost to fees.”]]></summary>
+        <summary type="html"><![CDATA[After Certik came forward as the cybersecurity firm that found a critical bug in cryptocurrency exchange Kraken, and proceeded to drain and keep $3 million hostage, the security firm has now returned the funds.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/defi/second-phase-of-eigenlayer-airdrop-opens-claims-for-lrt-users</id>
         <link href="https://thedefiant.io/news/defi/second-phase-of-eigenlayer-airdrop-opens-claims-for-lrt-users"/>
         <updated>2024-06-20T11:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The second phase of EigenLayer's Season 1 airdrop is now live, enabling claims for many LRT protocol users.]]></summary>
+        <summary type="html"><![CDATA[EigenLayer added that it will soon announce airdrop allocations for its second points season.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Long-time holders accumulating shows investors are preparing for a BItcoin rally, according to Sam Callahan of Swan Bitcoin.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“It Might Be Hard Explaining Future Devs Why We Did These Things With OP_CAT” Says BIP Author]]></title>
-        <id>https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author</id>
-        <link href="https://thedefiant.io/news/blockchains/it-might-be-hard-explaining-future-devs-why-we-did-these-things-with-op_cat-says-bip-author"/>
-        <updated>2024-06-18T18:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Armin Sabouri put a dent in the hype surrounding the script, even though he authored the Bitcoin Improvement Proposal.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets Drop as Altcoin Liquidations Top $440 Million]]></title>
-        <id>https://thedefiant.io/news/markets/markets-drop-as-altcoin-liquidations-top-usd440-million</id>
-        <link href="https://thedefiant.io/news/markets/markets-drop-as-altcoin-liquidations-top-usd440-million"/>
-        <updated>2024-06-18T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Overall crypto market capitalization has fallen to $2.45 trillion, with nearly all top 100 digital assets posting losses in the past 24 hours.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Network Surpasses Binance Chain in Active DEX Users]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users</id>
-        <link href="https://thedefiant.io/news/blockchains/base-network-surpasses-binance-chain-in-active-dex-users"/>
-        <updated>2024-06-18T16:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Most DEX users on the Base network come from Uniswap.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
