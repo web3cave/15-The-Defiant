@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T12:12:55.561Z</id>
+    <id>urn:2024-07-03T13:09:58.420Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-03T12:12:55.561Z</updated>
+    <updated>2024-07-03T13:09:58.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Miner Genesis Digital Reportedly Eyes U.S. IPO]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/genesis-digital-assets-reportedly-eyes-u-s-ipo</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/genesis-digital-assets-reportedly-eyes-u-s-ipo"/>
+        <updated>2024-07-03T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Alameda Research, the sister trading firm of the failed FTX exchange, invested $1.15 billion in Genesis Digital.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Contradicts Narrative: Ethereum Continues to Dominate Layer 1 Sector]]></title>
         <id>https://thedefiant.io/news/defi/data-contradicts-narrative-ethereum-continues-to-dominate-layer-1-sector</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy</id>
         <link href="https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy"/>
         <updated>2024-06-24T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Solana's ZK Compression scaling solution is ruffling Ethereans' feathers over its resemblance to Layer 2 networks.]]></summary>
+        <summary type="html"><![CDATA[Ethereans argue that ZK Compression is little more than a Layer 2.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[EigenLayer added that it will soon announce airdrop allocations for its second points season.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Airdrop Allocations Disappoint DeFi Users]]></title>
-        <id>https://thedefiant.io/news/defi/layerzero-airdrop-allocations-disappoint-defi-users</id>
-        <link href="https://thedefiant.io/news/defi/layerzero-airdrop-allocations-disappoint-defi-users"/>
-        <updated>2024-06-20T09:56:10.000Z</updated>
-        <summary type="html"><![CDATA[The cross-chain messaging protocol released its official airdrop allocation checker on June 19.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
