@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T10:07:58.121Z</id>
+    <id>urn:2024-07-03T11:05:57.481Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-03T10:07:58.121Z</updated>
+    <updated>2024-07-03T11:05:57.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Contradicts Narrative: Ethereum Continues to Dominate Layer 1 Sector]]></title>
+        <id>https://thedefiant.io/news/defi/data-contradicts-narrative-ethereum-continues-to-dominate-layer-1-sector</id>
+        <link href="https://thedefiant.io/news/defi/data-contradicts-narrative-ethereum-continues-to-dominate-layer-1-sector"/>
+        <updated>2024-07-03T10:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum leads in terms of smart contracts, Layer 1 revenue and DeFi TVL.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polkadot Community Unhappy With Heavy Treasury Spend]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/polkadot-community-unhappy-with-heavy-treasury-spend</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy</id>
         <link href="https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy"/>
         <updated>2024-06-24T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereans argue that ZK Compression is little more than a Layer 2.]]></summary>
+        <summary type="html"><![CDATA[Solana's ZK Compression scaling solution is ruffling Ethereans' feathers over its resemblance to Layer 2 networks.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off</id>
         <link href="https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off"/>
         <updated>2024-06-24T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Mt. Gox is set to begin distributing payments to creditors next month, with the news coming as Bitcoin miners are selling their BTC.]]></summary>
+        <summary type="html"><![CDATA[The news coincides with miners offloading $2 billion worth of BTC in June so far.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The cross-chain messaging protocol released its official airdrop allocation checker on June 19.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certik Holds $3 Million ‘Hostage’ From Kraken as Exchange Threatens Employees]]></title>
-        <id>https://thedefiant.io/news/cefi/certik-holds-usd3-million-hostage-from-kraken-as-exchange-threatens-employees</id>
-        <link href="https://thedefiant.io/news/cefi/certik-holds-usd3-million-hostage-from-kraken-as-exchange-threatens-employees"/>
-        <updated>2024-06-20T09:44:18.000Z</updated>
-        <summary type="html"><![CDATA[The cybersecurity firm made a suspiciously large number of transactions to “test” a vulnerability in the crypto exchange.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
