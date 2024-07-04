@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/tron-poised-to-threaten-ethereum-s-revenue-dominance",
+          "author": "Samuel Haig and Mehab Qureshi",
+          "description": "While Ethereum generated $2.73 billion in fee revenue over the past year, the network appears on track to accrue just $1.65 billion in the next 12 months.",
+          "link": "https://thedefiant.io/news/blockchains/tron-poised-to-threaten-ethereum-s-revenue-dominance",
+          "publishedOn": "2024-07-04T14:12:00.000Z",
+          "wordCount": 2275,
+          "title": "Tron Poised To Threaten Ethereum's Revenue Dominance",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7735a92824962ae9b652314bddd797023e017860-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7735a92824962ae9b652314bddd797023e017860-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/rising-dominance-of-arbitrum-and-base-defies-liquidity-fragmentation-narrative",
           "author": "Samuel Haig",
           "description": "Base and Arbitrum account for half of the TVL, active addresses, DEX volume, and transactions on Layer 2s, while roughly 10 networks account for more than 90%.",
@@ -1369,21 +1384,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/02fb781186f922b5f578f35334af7231b6c46933-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-dex-volumes-hit-lowest-level-since-march",
-          "author": "Squiffs",
-          "description": "On-chain trading on Solana is in a steady downtrend as memecoin mania fizzles out.",
-          "link": "https://thedefiant.io/news/markets/solana-dex-volumes-hit-lowest-level-since-march",
-          "publishedOn": "2024-06-21T20:08:45.000Z",
-          "wordCount": 1178,
-          "title": "Solana DEX Volumes Hit Lowest Level Since March",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e3110baf31af86494efb3b7921a70da979278e42-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3110baf31af86494efb3b7921a70da979278e42-1792x1024.webp"
         }
       ]
     }
