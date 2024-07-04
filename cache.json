@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/bittensor-halts-network-after-users-fall-victim-to-malicious-python-software",
+          "author": "Mehab Qureshi",
+          "description": "Victims who downloaded the software and decoded their keys suffered roughly $8 million in losses.",
+          "link": "https://thedefiant.io/news/hacks/bittensor-halts-network-after-users-fall-victim-to-malicious-python-software",
+          "publishedOn": "2024-07-04T15:24:00.000Z",
+          "wordCount": 1528,
+          "title": "Bittensor Halts Network After Users Fall Victim To Malicious Python Software",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf963e0fcf7962cc583aaafeae0bd8acae5cdd1b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf963e0fcf7962cc583aaafeae0bd8acae5cdd1b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/tron-poised-to-threaten-ethereum-s-revenue-dominance",
           "author": "Samuel Haig and Mehab Qureshi",
           "description": "While Ethereum generated $2.73 billion in fee revenue over the past year, the network appears on track to accrue just $1.65 billion in the next 12 months.",
@@ -1006,7 +1021,7 @@
           "description": "Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.",
           "link": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
           "publishedOn": "2024-06-26T13:16:00.000Z",
-          "wordCount": 1590,
+          "wordCount": 1578,
           "title": "CertiK Accused Of Front-Running Bug Bounties Through Subsidiary",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2ea3d23d338675aba93f3d29feb1e7668b50cc0-1792x1024.webp",
@@ -1301,7 +1316,7 @@
           "description": "A Solana cybersecurity researcher said  that the firm does the bare minimum when auditing protocols.",
           "link": "https://thedefiant.io/news/hacks/former-certik-clients-question-security-firm-s-stronghold-on-protocol-audits",
           "publishedOn": "2024-06-24T19:58:03.000Z",
-          "wordCount": 2727,
+          "wordCount": 2715,
           "title": "Former Certik Clients Question Security Firm’s Stronghold On Protocol Audits",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6053b562121da8cac9ed8fe49b041357d3aeaa8-1792x1024.png",
@@ -1369,21 +1384,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d6ff260a080c7b6f01396116b75ea1088c281b06-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates",
-          "author": "Samuel Haig",
-          "description": "If current trends continue, ETH’s supply will tag a new 2024 high in the next six days.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates",
-          "publishedOn": "2024-06-24T10:54:00.000Z",
-          "wordCount": 1891,
-          "title": "Ethereum Gas Prices Tag Multi-Year Low As ETH Supply Inflates",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/02fb781186f922b5f578f35334af7231b6c46933-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/02fb781186f922b5f578f35334af7231b6c46933-1792x1024.webp"
         }
       ]
     }

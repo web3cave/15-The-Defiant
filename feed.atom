@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T15:07:01.294Z</id>
+    <id>urn:2024-07-04T16:08:08.221Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-04T15:07:01.294Z</updated>
+    <updated>2024-07-04T16:08:08.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bittensor Halts Network After Users Fall Victim To Malicious Python Software]]></title>
+        <id>https://thedefiant.io/news/hacks/bittensor-halts-network-after-users-fall-victim-to-malicious-python-software</id>
+        <link href="https://thedefiant.io/news/hacks/bittensor-halts-network-after-users-fall-victim-to-malicious-python-software"/>
+        <updated>2024-07-04T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Victims who downloaded the software and decoded their keys suffered roughly $8 million in losses.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tron Poised To Threaten Ethereum's Revenue Dominance]]></title>
         <id>https://thedefiant.io/news/blockchains/tron-poised-to-threaten-ethereum-s-revenue-dominance</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Suji Yan is the founder of Mask Network, a platform that brings privacy and benefits from Web3 to traditional social media like Facebook & Twitter. In our conversation, we get into the current SocialFi landscape, its limitations, and the importance of decentralized social media for everyday users.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Gas Prices Tag Multi-Year Low As ETH Supply Inflates]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-gas-prices-tag-multi-year-low-as-eth-supply-inflates"/>
-        <updated>2024-06-24T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[If current trends continue, ETH’s supply will tag a new 2024 high in the next six days.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
