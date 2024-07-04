@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-set-for-second-biggest-drop-since-ftx-collapse",
+          "author": "Pedro Solimano",
+          "description": "The price of Bitcoin hashrate is also at the lowest it's been in more than four years.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-set-for-second-biggest-drop-since-ftx-collapse",
+          "publishedOn": "2024-07-04T20:55:48.000Z",
+          "wordCount": 1743,
+          "title": "Bitcoin Mining Difficulty Set for Second Biggest Drop Since FTX Collapse",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6bc624f8afd50ba103409eeef153667760a5c4d9-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6bc624f8afd50ba103409eeef153667760a5c4d9-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/jupiter-exchange-to-distribute-60m-rewards-upbit-lists-jup-solana-ecosystem",
           "author": "DeepNewz",
           "description": "Jupiter Exchange has announced the distribution of approximately $60 million worth of Active Staking Rewards (ASR) to users who participated in the JUP DAO vote over the last three months.",
@@ -1123,7 +1138,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
           "author": "Samuel Haig",
-          "description": "Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.",
+          "description": "A CertiK-linked bug bounty aggregator has come under fire for allegedly front-running reports.",
           "link": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
           "publishedOn": "2024-06-26T13:16:00.000Z",
           "wordCount": 1578,
@@ -1138,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/doj-sentences-hydro-founders-in-first-ruling-that-a-cryptocurrency-is-a-security",
           "author": "Samuel Haig",
-          "description": "The Department of Justice has ruled that a cryptocurrency comprises a security asset for the first time.",
+          "description": "The pair were sentenced with securities fraud for manipulating the price of HYDRO with wash trades and spoof orders.",
           "link": "https://thedefiant.io/news/regulation/doj-sentences-hydro-founders-in-first-ruling-that-a-cryptocurrency-is-a-security",
           "publishedOn": "2024-06-26T11:38:00.000Z",
           "wordCount": 1925,
@@ -1354,21 +1369,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce1c3acded40b48117e94d5e8950786b17d8ec5c-1200x630.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zksync-introduces-elastic-chain-architecture-3-0-roadmap-on-june-25",
-          "author": "DeepNewz",
-          "description": "Layer-2 network ZKsync has introduced a new 'Elastic Chain' architecture as part of its 3",
-          "link": "https://thedefiant.io/news/blockchains/zksync-introduces-elastic-chain-architecture-3-0-roadmap-on-june-25",
-          "publishedOn": "2024-06-25T13:20:05.000Z",
-          "wordCount": 986,
-          "title": "ZKsync Introduces 'Elastic Chain' Architecture in 3.0 Roadmap on June 25",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00ef309fcf52717a645fb632cd270e4f5fe4d086-1920x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00ef309fcf52717a645fb632cd270e4f5fe4d086-1920x1080.jpg"
         }
       ]
     }
