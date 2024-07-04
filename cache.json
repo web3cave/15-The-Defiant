@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations",
+          "author": "Mehab Qureshi",
+          "description": "BTC dropped to $58,000 on fears that the German government is looking to sell billions worth of Bitcoin.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations",
+          "publishedOn": "2024-07-04T17:27:02.000Z",
+          "wordCount": 1258,
+          "title": "Crypto Markets Bleed Amid Massive Liquidations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/75dfea83832771bb56deda70e41a83484544ed81-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/75dfea83832771bb56deda70e41a83484544ed81-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/symbiotic-tvl-triples-to-usd1b-within-24-hours-of-raising-deposit-limits",
           "author": "Samuel Haig",
           "description": "Symbiotic has emerged as the second-largest restaking protocol within one month of launching.",
@@ -19,6 +34,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/27be9aec753474b7591565b8f9cada32be767f2d-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/lower-before-higher-say-bitcoin-analysts",
+          "author": "Pedro Solimano",
+          "description": "Former Glassnode analyst James Check sees more “chopsolidation” on the cards.",
+          "link": "https://thedefiant.io/news/markets/lower-before-higher-say-bitcoin-analysts",
+          "publishedOn": "2024-07-04T16:18:54.000Z",
+          "wordCount": 1912,
+          "title": "‘Lower Before Higher’ Say Bitcoin Analysts",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3646041e7c2c1d93407af2bed02cad7fdf7f9c8f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3646041e7c2c1d93407af2bed02cad7fdf7f9c8f-1792x1024.webp"
         },
         {
           "id": "https://thedefiant.io/news/hacks/bittensor-halts-network-after-users-fall-victim-to-malicious-python-software",
@@ -497,7 +527,7 @@
           "link": "https://thedefiant.io/news/regulation/crypto-celebrates-court-dismissing-sec-claims-that-secondary-bnb-sales-are-securities",
           "publishedOn": "2024-07-01T12:54:00.000Z",
           "wordCount": 2571,
-          "title": "Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Are Securities",
+          "title": "Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Aren't Securities",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9fb76c079cadf270dd3cc386304c63ccdf1f0bb-1792x1024.webp",
             "length": "1000000",
@@ -1354,36 +1384,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1a68f84aef64482d0d7f8f65886b1a8c7386f423-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy",
-          "author": "Mehab Qureshi",
-          "description": "Ethereans argue that ZK Compression is little more than a Layer 2.",
-          "link": "https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy",
-          "publishedOn": "2024-06-24T14:23:00.000Z",
-          "wordCount": 2051,
-          "title": "Solana's 'ZK Compression’ Scaling Solution Ignites Controversy",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6916837d56254930db205dd867e9412644767dcc-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6916837d56254930db205dd867e9412644767dcc-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off",
-          "author": "Mehab Qureshi",
-          "description": "The news coincides with miners offloading $2 billion worth of BTC in June so far.",
-          "link": "https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off",
-          "publishedOn": "2024-06-24T14:09:00.000Z",
-          "wordCount": 2217,
-          "title": "Mt. Gox To Repay Creditors Next Month Amid Heavy Bitcoin Miner Sell-Off",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a913ca8063a7d4f9075ac7c08b74367c4e145b3f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a913ca8063a7d4f9075ac7c08b74367c4e145b3f-1792x1024.webp"
         }
       ]
     }
