@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-05T07:06:57.844Z</id>
+    <id>urn:2024-07-05T08:09:27.250Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-05T07:06:57.844Z</updated>
+    <updated>2024-07-05T08:09:27.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Apps Reach All-Time High of 10 Million Daily Active Users]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/web3-apps-reach-all-time-high-of-10-million-daily-active-users</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/web3-apps-reach-all-time-high-of-10-million-daily-active-users"/>
+        <updated>2024-07-05T07:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Usage grew 40% in the past quarter, according to DappRadar.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Mining Difficulty Set for Second Biggest Drop Since FTX Collapse]]></title>
         <id>https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-set-for-second-biggest-drop-since-ftx-collapse</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary</id>
         <link href="https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary"/>
         <updated>2024-06-26T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A CertiK-linked bug bounty aggregator has come under fire for allegedly front-running reports.]]></summary>
+        <summary type="html"><![CDATA[Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Cuban has already sold 14 NFTs for $38,500 in the past two days.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle Finance Launches New High-Yield Pools with Fixed APY for Cryptocurrencies Expiring August 2024]]></title>
-        <id>https://thedefiant.io/news/defi/pendle-finance-launches-new-high-yield-pools-fixed-apy-cryptocurrencies-expiring</id>
-        <link href="https://thedefiant.io/news/defi/pendle-finance-launches-new-high-yield-pools-fixed-apy-cryptocurrencies-expiring"/>
-        <updated>2024-06-25T13:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Pendle Finance has launched new pools for various cryptocurrencies, including USDe, eETH, ezETH, and rsETH, with expiration dates on August 21 and August 22, 2024]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
