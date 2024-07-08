@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
+          "author": "Squiffs",
+          "description": "Millions of spam transactions on Solana are bolstering Raydium’s fee income.",
+          "link": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
+          "publishedOn": "2024-07-08T20:20:54.000Z",
+          "wordCount": 1238,
+          "title": "Solana DEX Raydium Flips Uniswap in Weekly Fees",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4cb886425f26dc7dedc226c2819fb10a17aafa65-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4cb886425f26dc7dedc226c2819fb10a17aafa65-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-roiled-as-mt-gox-s-usd9-billion-payouts-start",
+          "author": "Pedro Solimano",
+          "description": "The first payouts have begun according to onchain data, although the timeline for when coins will be distributed to investors remains unclear.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-roiled-as-mt-gox-s-usd9-billion-payouts-start",
+          "publishedOn": "2024-07-08T20:14:54.000Z",
+          "wordCount": 2047,
+          "title": "Crypto Markets Roiled as Mt. Gox’s $9 Billion Payouts Start",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/17422e50d95c1e8e91e3544d625dfe839f8e58bf-1292x738.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/17422e50d95c1e8e91e3544d625dfe839f8e58bf-1292x738.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off",
           "author": "Pedro Solimano",
           "description": "The Ethereum Layer 2’s TVL dropped to $2.1 billion from $2.5 billion a week ago.",
@@ -19,6 +49,31 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bd75bd8b525d0ac2bd4ad3c238788355d217f8d2-1024x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etf-expected-2-weeks-sec-approval-imminent",
+          "author": "DeepNewz",
+          "description": "Experts and reports suggest that a spot Ethereum ETF could be listed and traded within the next two weeks, with expectations for launch around the week of July 15",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etf-expected-2-weeks-sec-approval-imminent",
+          "publishedOn": "2024-07-08T18:18:16.000Z",
+          "wordCount": 1098,
+          "title": "Spot Ethereum ETF Expected Within 2 Weeks, SEC Approval Imminent",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2b1a5f76a36cfa16a60a94e1eb728a619a85b16-1920x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f2b1a5f76a36cfa16a60a94e1eb728a619a85b16-1920x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/lionel-messi-promotes-water-token-to-504m-followers-causes-200-surge-to-70m-cap",
+          "author": "DeepNewz",
+          "description": "Lionel Messi has recently promoted the WATER token on his Instagram story to his 504 million followers",
+          "link": "https://thedefiant.io/news/markets/lionel-messi-promotes-water-token-to-504m-followers-causes-200-surge-to-70m-cap",
+          "publishedOn": "2024-07-08T18:18:09.000Z",
+          "wordCount": 1056,
+          "title": "Lionel Messi Promotes WATER Token to 504M Followers, Causes 200% Surge to $70M Market Cap",
+          "imageUrl": null
         },
         {
           "id": "https://thedefiant.io/news/markets/german-govt-sells-over-52-bitcoin-holdings-largest-sales-day-16000-btc-sold",
@@ -1098,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/opensea-claws-back-market-share-from-blur",
           "author": "Squiffs",
-          "description": "The former NFT trading leader flipped Blur in volume and sales after incentives diminished.",
+          "description": "OpenSea flipped Blur in 24-hour volume and total sales Wednesday, and has commanded the majority of unique buyers over the last 90 days.",
           "link": "https://thedefiant.io/news/nfts-and-web3/opensea-claws-back-market-share-from-blur",
           "publishedOn": "2024-06-27T20:21:09.000Z",
           "wordCount": 1937,
@@ -1319,61 +1374,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d91fcd379b6c3a2a84f34e9c820a0a82308c1d3e-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/long-awaited-blast-token-drops-at-usd420m-market-cap",
-          "author": "Samuel Haig",
-          "description": "Blast users can still earn points as part of its Phase 2 rewards campaign for the next four months.",
-          "link": "https://thedefiant.io/news/defi/long-awaited-blast-token-drops-at-usd420m-market-cap",
-          "publishedOn": "2024-06-26T14:34:00.000Z",
-          "wordCount": 2142,
-          "title": "Long-Awaited BLAST Token Drops At $420M Market Cap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f9a2a2ea66708b1c86aa9ae5144874ac1ae1a30-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f9a2a2ea66708b1c86aa9ae5144874ac1ae1a30-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etfs-expected-to-attract-15-billion-net-inflows-18-months",
-          "author": "DeepNewz",
-          "description": "Analysts predict that spot Ethereum ETFs will attract $15 billion in net inflows within 18 months of their U",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etfs-expected-to-attract-15-billion-net-inflows-18-months",
-          "publishedOn": "2024-06-26T13:21:43.000Z",
-          "wordCount": 1038,
-          "title": "Spot Ethereum ETFs Expected to Attract $15 Billion in Net Inflows Within 18 Months",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/ripple-wins-partial-judgment-xrp-lawsuit-ceo-claims-gensler-cost-biden-election",
-          "author": "DeepNewz",
-          "description": "Ripple has secured a partial summary judgment in a securities lawsuit, with a California judge dismissing allegations that Ripple violated federal securities laws",
-          "link": "https://thedefiant.io/news/regulation/ripple-wins-partial-judgment-xrp-lawsuit-ceo-claims-gensler-cost-biden-election",
-          "publishedOn": "2024-06-26T13:21:36.000Z",
-          "wordCount": 1117,
-          "title": "Ripple Wins Partial Judgment in XRP Lawsuit; CEO Claims Gensler Could Cost Biden Election",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f8960eb65da39a432147d32779310834172a51-1280x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0f8960eb65da39a432147d32779310834172a51-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
-          "author": "Samuel Haig",
-          "description": "Security researchers have flagged OpenBounty, a platform affiliated with CertiK, for allegedly front-running bug bounty reports.",
-          "link": "https://thedefiant.io/news/hacks/certik-accused-of-front-running-bug-bounties-through-subsidiary",
-          "publishedOn": "2024-06-26T13:16:00.000Z",
-          "wordCount": 1593,
-          "title": "CertiK Accused Of Front-Running Bug Bounties Through Subsidiary",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2ea3d23d338675aba93f3d29feb1e7668b50cc0-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f2ea3d23d338675aba93f3d29feb1e7668b50cc0-1792x1024.webp"
         }
       ]
     }
