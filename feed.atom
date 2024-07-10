@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-10T19:07:15.192Z</id>
+    <id>urn:2024-07-10T20:07:30.731Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-10T19:07:15.192Z</updated>
+    <updated>2024-07-10T20:07:30.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lyra Finance Offers Leveraged Exposure to ETH Through Ethena]]></title>
+        <id>https://thedefiant.io/news/defi/lyra-finance-offers-leveraged-exposure-to-eth-through-ethena</id>
+        <link href="https://thedefiant.io/news/defi/lyra-finance-offers-leveraged-exposure-to-eth-through-ethena"/>
+        <updated>2024-07-10T19:17:22.000Z</updated>
+        <summary type="html"><![CDATA[The platform has launched its sUSDeBULL vault, providing depositors with leveraged upside to ETH’s price increasing.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starkware Introduces Proposal For Staking on Starknet by End of Year]]></title>
+        <id>https://thedefiant.io/news/defi/starkware-introduces-proposal-for-staking-on-starknet-by-end-of-year</id>
+        <link href="https://thedefiant.io/news/defi/starkware-introduces-proposal-for-staking-on-starknet-by-end-of-year"/>
+        <updated>2024-07-10T19:03:18.000Z</updated>
+        <summary type="html"><![CDATA[The proposal would need to be approved by the community of token holders.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terraform Labs To Sell Four Businesses Amid Bankruptcy Proceedings]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/terraform-labs-to-sell-four-businesses-amid-bankruptcy-proceedings</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/aave-labs-issued-12-month-grant-to-develop-v4-iteration</id>
         <link href="https://thedefiant.io/news/defi/aave-labs-issued-12-month-grant-to-develop-v4-iteration"/>
         <updated>2024-07-01T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The Aave DAO greenlit a grant distributing $12 million GHO to Aave Labs' over the course of one year.]]></summary>
+        <summary type="html"><![CDATA[Aave Labs is set to begin working on Aave v4, with the team receiving a $12M GHO grant from the Aave DAO.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Chainlink Data Streams have been launched on the Avalanche mainnet, with GMX V2 as the launch partner.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Partners with Stripe to Enable USDC Transfers on Base Platform]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-partners-stripe-to-enable-usdc-transfers-on-base-platform</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-partners-stripe-to-enable-usdc-transfers-on-base-platform"/>
-        <updated>2024-06-27T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[On June 27, 2024, Coinbase announced a partnership with Stripe to enable USDC transfers on the Base platform.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Claws Back Market-Share from Blur]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/opensea-claws-back-market-share-from-blur</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/opensea-claws-back-market-share-from-blur"/>
-        <updated>2024-06-27T20:21:09.000Z</updated>
-        <summary type="html"><![CDATA[The former NFT trading leader flipped Blur in volume and sales after incentives diminished.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
