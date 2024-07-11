@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-11T14:06:48.521Z</id>
+    <id>urn:2024-07-11T15:06:55.373Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-11T14:06:48.521Z</updated>
+    <updated>2024-07-11T15:06:55.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CFTC Chair Asserts At Least 70% of Crypto Assets Are Not Securities]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities"/>
+        <updated>2024-07-11T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Behnam urged Congress to grant the agency more authority over digital assets.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound Finance Website Compromised by Phishing; Protocol Unaffected]]></title>
         <id>https://thedefiant.io/news/defi/compound-finance-website-compromised-phishing-protocol-unaffected</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[T-Rex Group has filed for the first-ever 2x leveraged MicroStrategy ETFs, which include both long and inverse positions on $MSTR.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe To Support Base Amid Coinbase Partnership]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/stripe-announces-support-for-base-as-part-of-coinbase-partnership</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/stripe-announces-support-for-base-as-part-of-coinbase-partnership"/>
-        <updated>2024-06-28T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Stripe will roll out support for USDC on Base.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
