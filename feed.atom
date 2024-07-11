@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-11T06:10:11.570Z</id>
+    <id>urn:2024-07-11T07:07:03.755Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-11T06:10:11.570Z</updated>
+    <updated>2024-07-11T07:07:03.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BitMEX Pleads Guilty to Bank Secrecy Act Violations]]></title>
+        <id>https://thedefiant.io/news/regulation/bitmex-pleads-guilty-to-bank-secrecy-act-violations</id>
+        <link href="https://thedefiant.io/news/regulation/bitmex-pleads-guilty-to-bank-secrecy-act-violations"/>
+        <updated>2024-07-11T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The company admitted to failing to establish an adequate anti-money laundering (AML) program.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lyra Finance Offers Leveraged Exposure to ETH Through Ethena]]></title>
         <id>https://thedefiant.io/news/defi/lyra-finance-offers-leveraged-exposure-to-eth-through-ethena</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-labs-issued-12-month-grant-to-develop-v4-iteration</id>
         <link href="https://thedefiant.io/news/defi/aave-labs-issued-12-month-grant-to-develop-v4-iteration"/>
         <updated>2024-07-01T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave Labs is set to begin working on Aave v4, with the team receiving a $12M GHO grant from the Aave DAO.]]></summary>
+        <summary type="html"><![CDATA[The Aave DAO greenlit a grant distributing $12 million GHO to Aave Labs' over the course of one year.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/bolivia-lifts-ban-on-bitcoin-crypto-trading-payments"/>
         <updated>2024-06-28T05:50:00.000Z</updated>
         <summary type="html"><![CDATA[Bolivia's Central Bank has lifted the ban on Bitcoin and cryptocurrency trading and payments, making it legal for financial entities to use cryptocurrencies]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Data Streams Launch on Avalanche Mainnet, Enhancing DeFi with GMX V2]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-data-streams-launch-on-avalanche-mainnet-enhancing-defi-gmx-v2</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-data-streams-launch-on-avalanche-mainnet-enhancing-defi-gmx-v2"/>
-        <updated>2024-06-27T23:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink Data Streams have been launched on the Avalanche mainnet, with GMX V2 as the launch partner.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
