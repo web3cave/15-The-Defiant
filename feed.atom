@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-11T19:04:01.542Z</id>
+    <id>urn:2024-07-11T20:07:45.822Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-11T19:04:01.542Z</updated>
+    <updated>2024-07-11T20:07:45.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MOCA Token Soars to $800 Million Valuation as Mocaverse NFTs Crater]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater"/>
+        <updated>2024-07-11T19:57:39.000Z</updated>
+        <summary type="html"><![CDATA[The floor price of Mocaverse NFTs plummeted 47% on July 9.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysian Government Blames Bitcoin Mining for Electricity Theft]]></title>
+        <id>https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft</id>
+        <link href="https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft"/>
+        <updated>2024-07-11T19:47:08.000Z</updated>
+        <summary type="html"><![CDATA[The Minister of Energy and Water claims the country has lost $682 million since 2018.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Drops Investigation into Stablecoin Issuer Paxos]]></title>
         <id>https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade"/>
         <updated>2024-07-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ZKsync aims to foster an interconnected ecosystem of ZK Stack-based Layer 2 rollups.]]></summary>
+        <summary type="html"><![CDATA[ZKsync is moving from a siloed L2 architecture to an ecosystem of multiple chains following its 3.0 upgrade.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The lawsuit alleging Lido and Rocket Pool are violating securities laws comes less than two weeks after the SEC dropped its Ethereum investigation.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU's MiCA Regulation for Stablecoins Set to Take Effect June 30]]></title>
-        <id>https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30</id>
-        <link href="https://thedefiant.io/news/regulation/eu-s-mica-regulation-stablecoins-set-to-take-effect-june-30"/>
-        <updated>2024-06-28T16:53:14.000Z</updated>
-        <summary type="html"><![CDATA[The European Union's Markets in Crypto-Assets (MiCA) regulation is set to take partial effect on June 30, targeting stablecoins.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Introduces Timeboost Proposal for MEV and Voting]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-introduces-timeboost-proposal-mev-voting</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-introduces-timeboost-proposal-mev-voting"/>
-        <updated>2024-06-28T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum has introduced a new transaction ordering policy called Timeboost, which is now live for voting.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
