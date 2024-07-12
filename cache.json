@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-price-dips-as-germany-offloads-usd2b-of-btc-in-one-week",
+          "author": "Mehab Qureshi",
+          "description": "The German government appears to have offloaded 92% of its BTC holdings",
+          "link": "https://thedefiant.io/news/markets/bitcoin-price-dips-as-germany-offloads-usd2b-of-btc-in-one-week",
+          "publishedOn": "2024-07-12T15:54:00.000Z",
+          "wordCount": 1747,
+          "title": "Bitcoin Price Dips As Germany Offloads $2B Of BTC In One Week",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f80906504f818577bb249bc139453b8eda008fc0-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f80906504f818577bb249bc139453b8eda008fc0-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks",
           "author": "Mehab Qureshi",
           "description": "The migration of Google’s domain registrar to Squarespace resulted in more than 120 DeFi domains becoming vulnerable to DNS attacks.",
@@ -27,7 +42,7 @@
           "link": "https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater",
           "publishedOn": "2024-07-11T19:57:39.000Z",
           "wordCount": 1402,
-          "title": "MOCA Token Soars to $800 Million Valuation as Mocaverse NFTs Crater",
+          "title": "MOCA Token Soars to $800M Fully-Diluted Valuation as Mocaverse NFTs Crater",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a5b5eab7064b69a3e7299c35fd2524c63b1cf50-1792x1024.webp",
             "length": "1000000",
@@ -1026,7 +1041,7 @@
           "description": "Chris Bradbury is the CEO of Summer.fi (previously oasis.app) which is a prominent DeFi protocol that enables users to borrow, lend, and multiply assets across multiple DeFi protocols. Summer.fi's $RAYS is a new points system designed to reward users for engaging with DeFi protocols, offering incentives based on activity and long term participation.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/introducing-usdrays-how-to-optimize-your-defi-rewards-with-summer-fi-s-new-points-system",
           "publishedOn": "2024-07-03T10:27:00.000Z",
-          "wordCount": 1226,
+          "wordCount": null,
           "title": "Introducing $RAYS: How to Optimize Your DeFi Rewards with Summer.fi's New Points System",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/28a9631eb098ba83531809ee45489d0baeb5d75d-1280x720.jpg",
@@ -1173,7 +1188,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
           "author": "Samuel Haig",
-          "description": "The move marks the first deployment of GHO's cross-chain expansion.",
+          "description": "Aave's GHO stablecoin is now live on Arbitrum, marking the first deployment in GHO's cross-chain expansion.",
           "link": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
           "publishedOn": "2024-07-02T16:00:00.000Z",
           "wordCount": 1986,
@@ -1399,21 +1414,6 @@
           "wordCount": 1065,
           "title": "Coinbase Derivatives Becomes First U.S. Exchange to List Regulated Futures for SHIB, LINK, AVAX, XLM, and DOT",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/nigerian-sec-issues-30-day-deadline-crypto-firms-to-re-register-values-industry",
-          "author": "DeepNewz",
-          "description": "The Nigerian Securities and Exchange Commission (SEC) has issued a 30-day deadline for cryptocurrency firms to re-register under a new regulatory regime or face enforcement actions.",
-          "link": "https://thedefiant.io/news/regulation/nigerian-sec-issues-30-day-deadline-crypto-firms-to-re-register-values-industry",
-          "publishedOn": "2024-06-28T18:20:21.000Z",
-          "wordCount": 1144,
-          "title": "Nigerian SEC Issues 30-Day Deadline for Crypto Firms to Re-register, Values Industry at $400 Million",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc382919626412ba67f4a5ce46bfbfc401208566-1024x512.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc382919626412ba67f4a5ce46bfbfc401208566-1024x512.jpg"
         }
       ]
     }
