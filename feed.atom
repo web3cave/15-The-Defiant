@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-12T10:07:32.896Z</id>
+    <id>urn:2024-07-12T11:05:54.761Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-12T10:07:32.896Z</updated>
+    <updated>2024-07-12T11:05:54.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[More Than 120 DeFi Front-End Could Be Vulnerable To DNS Attacks]]></title>
+        <id>https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks</id>
+        <link href="https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks"/>
+        <updated>2024-07-12T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The migration of Google’s domain registrar to Squarespace resulted in more than 120 DeFi domains becoming vulnerable to DNS attacks.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOCA Token Soars to $800 Million Valuation as Mocaverse NFTs Crater]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade"/>
         <updated>2024-07-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ZKsync is moving from a siloed L2 architecture to an ecosystem of multiple chains following its 3.0 upgrade.]]></summary>
+        <summary type="html"><![CDATA[ZKsync aims to foster an interconnected ecosystem of ZK Stack-based Layer 2 rollups.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Nigerian Securities and Exchange Commission (SEC) has issued a 30-day deadline for cryptocurrency firms to re-register under a new regulatory regime or face enforcement actions.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Targets Ethereum Liquid Staking]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking</id>
-        <link href="https://thedefiant.io/news/regulation/sec-targets-ethereum-liquid-staking"/>
-        <updated>2024-06-28T17:20:35.000Z</updated>
-        <summary type="html"><![CDATA[The lawsuit alleging Lido and Rocket Pool are violating securities laws comes less than two weeks after the SEC dropped its Ethereum investigation.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
