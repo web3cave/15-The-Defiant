@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-15T16:08:34.201Z</id>
+    <id>urn:2024-07-15T17:06:20.553Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-15T16:08:34.202Z</updated>
+    <updated>2024-07-15T17:06:20.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rally After Failed Assasination Attempt On Donald Trump]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump"/>
+        <updated>2024-07-15T16:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Optimism is also driven by expectations that the SEC will approve spot Ether ETFs this week.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matcha Unveils New Price Engine For Whales Trading on DEXs]]></title>
         <id>https://thedefiant.io/news/defi/matcha-unveils-new-price-engine-for-whales-trading-on-dexs</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/genesis-digital-assets-reportedly-eyes-u-s-ipo</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/genesis-digital-assets-reportedly-eyes-u-s-ipo"/>
         <updated>2024-07-03T12:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Alameda Research, the sister trading firm of the failed FTX exchange, invested $1.15 billion in Genesis Digital.]]></summary>
+        <summary type="html"><![CDATA[Genesis Digital, a major Bitcoin mining firm, is reportedly plotting an initial public offering. FTX is a notable shareholder in the company.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,6 +850,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/defi/introducing-usdrays-how-to-optimize-your-defi-rewards-with-summer-fi-s-new-points-system</id>
         <link href="https://thedefiant.io/podcasts-and-videos/defi/introducing-usdrays-how-to-optimize-your-defi-rewards-with-summer-fi-s-new-points-system"/>
         <updated>2024-07-03T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Bradbury is the CEO of Summer.fi (previously oasis.app) which is a prominent DeFi protocol that enables users to borrow, lend, and multiply assets across multiple DeFi protocols. Summer.fi's $RAYS is a new points system designed to reward users for engaging with DeFi protocols, offering incentives based on activity and long term participation.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -992,16 +1003,6 @@
         <summary type="html"><![CDATA[The ‘Metamorphosis’ campaign rewards stakers with Powder, which will be convertible to COOK, Mantle LSP’s future governance token.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Becomes Europe’s First Compliant Stablecoin Issuer]]></title>
-        <id>https://thedefiant.io/news/defi/circle-becomes-europe-s-first-compliant-stablecoin-issuer</id>
-        <link href="https://thedefiant.io/news/defi/circle-becomes-europe-s-first-compliant-stablecoin-issuer"/>
-        <updated>2024-07-01T19:49:58.000Z</updated>
-        <summary type="html"><![CDATA[USDC and EURC are now compliant with Europe’s MiCA regulations.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
