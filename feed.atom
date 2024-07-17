@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T21:06:56.626Z</id>
+    <id>urn:2024-07-17T22:07:33.224Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T21:06:56.626Z</updated>
+    <updated>2024-07-17T22:07:33.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crossing The Chasm With Jeremy Allaire | Circle, USDC, Stablecoins, CBDCs]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs"/>
+        <updated>2024-07-17T21:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy Allaire is an American entrepreneur and technology executive known for his work in the internet and cryptocurrency industries. He is the co-founder and CEO of Circle, a financial technology company that focuses on digital currency and blockchain technology. Circle is best known for its stablecoin, USD Coin (USDC), which is a type of cryptocurrency designed to have a stable value tied to the US dollar. This interview was recorded during EthCC[7].]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid’s Upcoming Airdrop has Users Flocking to the Ecosystem]]></title>
         <id>https://thedefiant.io/news/defi/hyperliquid-s-upcoming-airdrop-has-users-flocking-to-the-ecosystem</id>
@@ -466,6 +476,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Superchain Thesis: Scaling Ethereum with Optimism - A Deep Dive with Benjamin Jones]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/the-superchain-thesis-scaling-ethereum-with-optimism-a-deep-dive-with-benjamin-jones</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/the-superchain-thesis-scaling-ethereum-with-optimism-a-deep-dive-with-benjamin-jones"/>
+        <updated>2024-07-15T21:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin Jones is the director of the Optimism Foundation, which is dedicated to scaling Ethereum and the team building Optimism Layer 2. Currently, Optimism sits in third place among Layer 2s with $6.42B in TVL. In this episode, we dive deep into the Superchain thesis and explore how Optimism aims to optimize Ethereum scalability. We start by discussing what Optimism is and its mission to scale Ethereum, moving on to the foundation's end goal and its vision for the future.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Trump-related Tokens Soar After Ex President Survived Shooting at Rally]]></title>
         <id>https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally</id>
         <link href="https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally"/>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex</id>
         <link href="https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex"/>
         <updated>2024-07-09T21:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.]]></summary>
+        <summary type="html"><![CDATA[Curve Finance users are locking in more CRV tokens in the decentralized exchange than ever before.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/liquid-staking-on-solana-soars-to-all-time-high</id>
         <link href="https://thedefiant.io/news/defi/liquid-staking-on-solana-soars-to-all-time-high"/>
         <updated>2024-07-09T21:09:58.000Z</updated>
-        <summary type="html"><![CDATA[Defying the narrative that Solana is only about memecoins, data indicates that users are increasingly using the network for other activities such as liquid staking.]]></summary>
+        <summary type="html"><![CDATA[Liquid staking accounts for 7% of Solana’s total market cap.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/will-spot-ethereum-etfs-live-up-to-the-hype-of-spot-bitcoin-etfs-analysts-weigh-in"/>
         <updated>2024-07-08T15:40:00.000Z</updated>
         <summary type="html"><![CDATA[Analysts believe that Ethereum ETFs will likely have a smaller market impact than Bitcoin ETFs did.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modular Security Debate | EthCC[7] Live Stream With Cartesi]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi"/>
-        <updated>2024-07-08T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartesi and The Defiant are teaming up to bring you an exclusive live stream from ETHCC[7] in Brussels. Join us for in-depth discussions on critical topics like fraud proofs and cross-rollup interoperability, featuring expert speakers from Avail, Ethereum Foundation, Espresso, Scroll, and other leading L2 projects.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Volatile Ahead of Looming Spot ETF Approval]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-volatile-ahead-of-looming-spot-etf-approval</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-volatile-ahead-of-looming-spot-etf-approval"/>
-        <updated>2024-07-08T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is absorbing heavy sales from the German government while Golem appears to have offloaded nine figures worth of ETH.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
