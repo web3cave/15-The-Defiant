@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network",
+          "author": "Pedro Solimano",
+          "description": "It was made possible thanks to a Satoshi-era code called OP_CAT currently being tested on Bitcoin’s Signet.",
+          "link": "https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network",
+          "publishedOn": "2024-07-17T16:54:42.000Z",
+          "wordCount": 2158,
+          "title": "StarkWare Verifies Zero-Knowledge Proof on Bitcoin’s Test Network",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c85b8cf92ca0c0adfcb2eade8b300ae566b6019-828x473.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c85b8cf92ca0c0adfcb2eade8b300ae566b6019-828x473.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows",
+          "author": "Mehab Qureshi",
+          "description": "This week recorded spot Bitcoin ETF flows worth $722 million, including the highest daily inflow in a month.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows",
+          "publishedOn": "2024-07-17T16:08:30.000Z",
+          "wordCount": 1356,
+          "title": "Crypto Markets Rally as Spot Bitcoin ETFs Attract Major Inflows",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65b8ef564d19f270e6bc6cb51efcdcae46d6f146-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65b8ef564d19f270e6bc6cb51efcdcae46d6f146-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund",
           "author": "Samuel Haig",
           "description": "The news comes after the market cap of tokenized treasuries grew 140% since the start of the year.",
@@ -56,7 +86,7 @@
           "description": "The launch of spot Ether (ETH) ETFs in the United States is anticipated to drive the price of the second largest cryptocurrency to new all-time highs above $5,000.",
           "link": "https://thedefiant.io/news/markets/spot-ether-etfs-to-drive-price-above-5000-bitwise",
           "publishedOn": "2024-07-17T11:58:40.000Z",
-          "wordCount": 1079,
+          "wordCount": 1049,
           "title": "Spot Ether ETFs to Drive Price Above $5,000: Bitwise",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0b2505a273a7ee37a040bc0bce172900ce86839-150x150.jpg",
@@ -86,7 +116,7 @@
           "description": "Starknet announces the upcoming release of Starknet v0.13.2 in August.",
           "link": "https://thedefiant.io/news/blockchains/starknet-to-release-faster-transactions-fees-down-tps-up-august",
           "publishedOn": "2024-07-17T10:50:02.000Z",
-          "wordCount": 925,
+          "wordCount": 895,
           "title": "Starknet to Release Faster Transactions with Fees Down, TPS Up in August",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c616277e980a221ddf3ac5c80c5f2f15ee172af6-1200x630.jpg",
@@ -156,7 +186,7 @@
           "description": "This increase represents a 2.4% gain since June and a 5.6% rise since the last Bitcoin halving.",
           "link": "https://thedefiant.io/news/blockchains/u-s-listed-bitcoin-miners-reach-record-26-6-global-hashrate-share-early-july",
           "publishedOn": "2024-07-17T07:11:32.000Z",
-          "wordCount": 1060,
+          "wordCount": 1030,
           "title": "U.S.-Listed Bitcoin Miners Reach Record 26.6% Global Hashrate Share in Early July",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f09bf749eb321ade6434dbf522ee0abed7676ed4-1024x512.jpg",
@@ -171,7 +201,7 @@
           "description": "$SOL, the cryptocurrency associated with Solana, has shown significant bullish momentum.",
           "link": "https://thedefiant.io/news/markets/sol-shows-bullish-momentum-key-support-120-32m-shorts-liquidated-new-aths",
           "publishedOn": "2024-07-17T07:10:58.000Z",
-          "wordCount": 1036,
+          "wordCount": 1006,
           "title": "$SOL Shows Bullish Momentum with Key Support at $120, $32M Shorts Liquidated, New ATHs Expected",
           "imageUrl": null
         },
@@ -191,7 +221,7 @@
           "description": "$DOG, a memecoin on Bitcoin, has reclaimed a market cap of $500 million as of July 15, 2024, after hitting a low of $410 million on July 12.",
           "link": "https://thedefiant.io/news/markets/bitcoin-rune-dog-reclaims-500m-market-cap-surpasses-77200-holders",
           "publishedOn": "2024-07-17T07:10:38.000Z",
-          "wordCount": 1073,
+          "wordCount": 1043,
           "title": "Bitcoin Rune $DOG Reclaims $500M Market Cap, Surpasses 77,200 Holders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/382752a9c0578d55963e0438935fddcc676867b6-1280x720.jpg",
@@ -251,7 +281,7 @@
           "description": "XRP has seen a significant surge in its price, rising 38% over the past week.",
           "link": "https://thedefiant.io/news/markets/xrp-surges-38-to-0-60-traders-eye-potential-breakout",
           "publishedOn": "2024-07-17T07:09:55.000Z",
-          "wordCount": 1008,
+          "wordCount": 978,
           "title": "XRP Surges 38% to $0.60 as Traders Eye Potential Breakout",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f3195a6b7360edd81715edb608b3c19ccb2cf130-1200x799.jpg",
@@ -296,7 +326,7 @@
           "description": "Solana ($SOL) has seen significant gains, reclaiming a market cap of $70 billion and surpassing $160 in price, with an earlier reclaim above $150",
           "link": "https://thedefiant.io/news/markets/solana-reclaims-70b-market-cap-160-price-raydium-dominates-dex-volume-market-36",
           "publishedOn": "2024-07-16T17:51:03.000Z",
-          "wordCount": 1154,
+          "wordCount": 1124,
           "title": "Solana Reclaims $70B Market Cap and $160 Price, Raydium Dominates DEX Volume, Market Share Grows from 36% to 66%",
           "imageUrl": null
         },
@@ -321,7 +351,7 @@
           "description": "Larry Fink's comment on Bitcoin sent ripples through the crypto world.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-surge-after-blackrock-ceo-larry-fink-calls-bitcoin-digital-gold",
           "publishedOn": "2024-07-16T17:20:19.000Z",
-          "wordCount": 1941,
+          "wordCount": 1911,
           "title": "Crypto Markets Surge After BlackRock CEO Larry Fink Calls Bitcoin ‘Digital Gold’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c1a77f03b927b16e94ad9b6efb3570d299ac8cf-1792x1024.png",
@@ -551,7 +581,7 @@
           "description": "Trump’s digital trading cards nearly doubled in price and volume increased tenfold in the hours after he was shot at.",
           "link": "https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally",
           "publishedOn": "2024-07-15T17:31:29.000Z",
-          "wordCount": 1783,
+          "wordCount": 1753,
           "title": "Trump-related Tokens Soar After Ex President Survived Shooting at Rally",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/85d74b3fb7680875a826eed7d7272d4f63aed4c3-1792x1024.png",
@@ -566,7 +596,7 @@
           "description": "Optimism is also driven by expectations that the SEC will approve spot Ether ETFs this week.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump",
           "publishedOn": "2024-07-15T16:07:33.000Z",
-          "wordCount": 2096,
+          "wordCount": 2066,
           "title": "Crypto Markets Rally After Assassination Attempt On Donald Trump",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fdf1d043395f122565f43cef1e324e646d54303-1792x1024.webp",
@@ -646,7 +676,7 @@
           "description": "The Ethereum-based memecoin MOG has experienced significant growth, becoming the biggest 24-hour gainer among the top 100 tokens by market cap.",
           "link": "https://thedefiant.io/news/markets/ethereum-memecoin-mog-becomes-biggest-24h-gainer-among-top-100-tokens-yields",
           "publishedOn": "2024-07-15T07:02:30.000Z",
-          "wordCount": 1136,
+          "wordCount": 1106,
           "title": "Ethereum Memecoin MOG Becomes Biggest 24H Gainer Among Top 100 Tokens, Yields 16940x Profit",
           "imageUrl": null
         },
@@ -671,7 +701,7 @@
           "description": "Former President Donald Trump survived an assassination attempt, leading to significant reactions in the cryptocurrency market",
           "link": "https://thedefiant.io/news/markets/bitcoin-surges-to-60000-memecoins-rally-after-trump-survives-assassination",
           "publishedOn": "2024-07-14T01:40:33.000Z",
-          "wordCount": 990,
+          "wordCount": 960,
           "title": "Bitcoin Surges to $60,000, Memecoins Rally After Trump Survives Assassination Attempt",
           "imageUrl": null
         },
@@ -681,7 +711,7 @@
           "description": "Donald Trump's odds of winning the 2024 presidential election have surged significantly in recent days, according to various prediction markets and forecasts",
           "link": "https://thedefiant.io/news/markets/trump-s-odds-surge-to-70-2024-presidential-race-amid-betting-market-reactions",
           "publishedOn": "2024-07-14T01:40:27.000Z",
-          "wordCount": 1325,
+          "wordCount": 1295,
           "title": "Trump's Odds Surge to 70% in 2024 Presidential Race Amid Betting Market Reactions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c349a1f34449d506fb33cb897aa04a090c7e5318-150x150.jpg",
@@ -696,7 +726,7 @@
           "description": "Former President Donald Trump survived a shooting during a campaign rally in Pennsylvania, leading to a significant surge in various Trump-related meme coins",
           "link": "https://thedefiant.io/news/markets/trump-survives-shooting-trump-related-meme-coins-surge-90-50",
           "publishedOn": "2024-07-14T01:40:22.000Z",
-          "wordCount": 1017,
+          "wordCount": 987,
           "title": "Trump Survives Shooting, Trump-Related Meme Coins Surge 90% and 50%",
           "imageUrl": null
         },
@@ -721,7 +751,7 @@
           "description": "The German government appears to have offloaded 92% of its BTC holdings",
           "link": "https://thedefiant.io/news/markets/bitcoin-price-dips-as-germany-offloads-usd2b-of-btc-in-one-week",
           "publishedOn": "2024-07-12T15:54:00.000Z",
-          "wordCount": 1738,
+          "wordCount": 1708,
           "title": "Bitcoin Price Dips As Germany Offloads $2B Of BTC In One Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f80906504f818577bb249bc139453b8eda008fc0-1792x1024.webp",
@@ -766,7 +796,7 @@
           "description": "The Minister of Energy and Water claims the country has lost $682 million since 2018.",
           "link": "https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft",
           "publishedOn": "2024-07-11T19:47:08.000Z",
-          "wordCount": 1676,
+          "wordCount": 1646,
           "title": "Malaysian Government Blames Bitcoin Mining for Electricity Theft",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/84985977b9964f78531c327bd1d92e34b91dcb25-1792x1024.webp",
@@ -796,7 +826,7 @@
           "description": "Investors anticipate the Federal Reserve will cut interest rates later this year.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-surge-on-inflation-hitting-three-year-low",
           "publishedOn": "2024-07-11T15:37:00.000Z",
-          "wordCount": 1610,
+          "wordCount": 1580,
           "title": "Crypto Markets Surge On Inflation Hitting Three-Year Low",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/250732f16a60e39999fcb51ec60b742925b20625-1792x1024.webp",
@@ -916,7 +946,7 @@
           "description": "On-chain analysts believe roughly one dozen wallets control more than one-third of WATER’s supply.",
           "link": "https://thedefiant.io/news/markets/messi-promoted-memecoin-faces-backlash-over-alleged-hefty-insider-allocations",
           "publishedOn": "2024-07-10T16:54:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1837,
           "title": "Messi-Promoted Memecoin Faces Backlash Over Alleged Hefty Insider Allocations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d94ea4feb9000faa8cca05a445af846259150417-1792x1024.webp",
@@ -931,7 +961,7 @@
           "description": "Digital assets continue to recover following the heavy weekend sell-off.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rally-as-fed-chair-cautions-against-prolonged-high-interest-rates",
           "publishedOn": "2024-07-10T13:35:00.000Z",
-          "wordCount": 1734,
+          "wordCount": 1704,
           "title": "Crypto Markets Rally as Fed Chair Cautions Against Prolonged High Interest Rates",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0472fe7dbd81f89f0e57ce713a63a92f24100ca-1792x1024.webp",
@@ -961,7 +991,7 @@
           "description": "The Moca Network has announced that the $MOCA airdrop claim will commence on July 11th at 4am UTC",
           "link": "https://thedefiant.io/news/markets/moca-airdrop-claim-to-begin-on-july-11th-4am-utc",
           "publishedOn": "2024-07-09T21:38:18.000Z",
-          "wordCount": 1103,
+          "wordCount": 1073,
           "title": "$MOCA Airdrop Claim to Begin on July 11th at 4am UTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d39ef0e54e4327eed763fd829de7a1e962bd914f-480x480.jpg",
@@ -976,7 +1006,7 @@
           "description": "The Open Network (TON), a blockchain with ties to Telegram Messenger, is set to release a Layer-2 (L2) solution based on Polygon's technology",
           "link": "https://thedefiant.io/news/blockchains/ton-blockchain-to-release-layer-2-solution-using-polygon-s-technology-officially",
           "publishedOn": "2024-07-09T21:38:11.000Z",
-          "wordCount": 1126,
+          "wordCount": 1096,
           "title": "TON Blockchain to Release Layer-2 Solution Using Polygon's Technology, Not Officially by TON Team",
           "imageUrl": null
         },
@@ -1001,7 +1031,7 @@
           "description": "Storj Labs has acquired Valdi, a provider of high-performance cloud computing services for the artificial intelligence market",
           "link": "https://thedefiant.io/news/blockchains/storj-labs-acquires-valdi-16000-gpus-to-enhance-ai-cloud-computing",
           "publishedOn": "2024-07-09T21:37:38.000Z",
-          "wordCount": 1036,
+          "wordCount": 1006,
           "title": "Storj Labs Acquires Valdi and Its 16,000 GPUs to Enhance AI Cloud Computing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/014e455cd8914b66993f6c483976a8933de1801f-1280x717.jpg",
@@ -1016,7 +1046,7 @@
           "description": "Masa has launched the first AI Data Subnet on Bittensor, making the $MASA token the first live token in any Bittensor ecosystem subnet",
           "link": "https://thedefiant.io/news/blockchains/masa-launches-first-ai-data-subnet-on-bittensor-masa-dual-token-reward",
           "publishedOn": "2024-07-09T21:37:21.000Z",
-          "wordCount": 1095,
+          "wordCount": 1065,
           "title": "Masa Launches First AI Data Subnet on Bittensor with $MASA and Dual-Token Reward",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/03a5071db879fa460a3ff18410975d0a57d505f1-762x457.jpg",
@@ -1076,7 +1106,7 @@
           "description": "Spot Bitcoin ETFS hosted their strongest inflow in five weeks on July 8.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-record-highest-inflows-since-june-6",
           "publishedOn": "2024-07-09T16:19:00.000Z",
-          "wordCount": 1813,
+          "wordCount": 1783,
           "title": "Crypto Markets Rally as Spot Bitcoin ETFs Record Highest Inflows Since June 6",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d4fcd5b99ce71a5520b3bbc09ef9c16300e0f757-1792x1024.webp",
@@ -1133,7 +1163,7 @@
         {
           "id": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
           "author": "Squiffs",
-          "description": "Millions of spam transactions on Solana are bolstering Raydium’s fee income.",
+          "description": "Raydium, the leading decentralized exchange (DEX)  on Solana, narrowly flipped Uniswap in weekly fees and processed over 10 times as many transactions as Ethereum’s largest DEX.",
           "link": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
           "publishedOn": "2024-07-08T20:20:54.000Z",
           "wordCount": 1221,
@@ -1151,7 +1181,7 @@
           "description": "The first payouts have begun according to onchain data, although the timeline for when coins will be distributed to investors remains unclear.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-roiled-as-mt-gox-s-usd9-billion-payouts-start",
           "publishedOn": "2024-07-08T20:14:54.000Z",
-          "wordCount": 2096,
+          "wordCount": 2066,
           "title": "Crypto Markets Roiled as Mt. Gox’s Multi-Billion Payouts Start",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/17422e50d95c1e8e91e3544d625dfe839f8e58bf-1292x738.png",
@@ -1163,10 +1193,10 @@
         {
           "id": "https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off",
           "author": "Pedro Solimano",
-          "description": "Users of Zircuit, an Ethereum Layer 2 network, have pulled out half a million dollars in assets from the protocol just in the past week, as phase one of its rewards program wraps up.",
+          "description": "The Ethereum Layer 2’s TVL dropped to $2.1 billion from $2.5 billion a week ago.",
           "link": "https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off",
           "publishedOn": "2024-07-08T18:58:41.000Z",
-          "wordCount": 1593,
+          "wordCount": 1563,
           "title": "Zircuit Loses Half a Billion in TVL as Phase Two of Rewards Program Kicks Off",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bd75bd8b525d0ac2bd4ad3c238788355d217f8d2-1024x1024.png",
@@ -1196,7 +1226,7 @@
           "description": "Lionel Messi has recently promoted the WATER token on his Instagram story to his 504 million followers",
           "link": "https://thedefiant.io/news/markets/lionel-messi-promotes-water-token-to-504m-followers-causes-200-surge-to-70m-cap",
           "publishedOn": "2024-07-08T18:18:09.000Z",
-          "wordCount": 1039,
+          "wordCount": 1009,
           "title": "Lionel Messi Promotes WATER Token to 504M Followers, Causes 200% Surge to $70M Market Cap",
           "imageUrl": null
         },
@@ -1206,7 +1236,7 @@
           "description": "The German government has sold over 52% of its Bitcoin holdings, totaling more than 16,000 BTC in the largest sales day",
           "link": "https://thedefiant.io/news/markets/german-govt-sells-over-52-bitcoin-holdings-largest-sales-day-16000-btc-sold",
           "publishedOn": "2024-07-08T18:18:02.000Z",
-          "wordCount": 979,
+          "wordCount": 949,
           "title": "German Govt Sells Over 52% of Bitcoin Holdings; Largest Sales Day: 16,000 BTC Sold",
           "imageUrl": null
         },
@@ -1276,7 +1306,7 @@
           "description": "Bitcoin is absorbing heavy sales from the German government while Golem appears to have offloaded nine figures worth of ETH.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-volatile-ahead-of-looming-spot-etf-approval",
           "publishedOn": "2024-07-08T14:22:00.000Z",
-          "wordCount": 2057,
+          "wordCount": 2027,
           "title": "Crypto Markets Volatile Ahead of Looming Spot ETF Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed3b847a1f72d08a31461b8b7621b8a288e36c80-1792x1024.webp",
@@ -1321,7 +1351,7 @@
           "description": "Bull cycles are never up only.",
           "link": "https://thedefiant.io/news/markets/is-this-the-end-of-the-crypto-bull-market-history-says-no",
           "publishedOn": "2024-07-05T20:11:22.000Z",
-          "wordCount": 2155,
+          "wordCount": 2125,
           "title": "Is This the End of the Crypto Bull Market? History Says No",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c1a77f03b927b16e94ad9b6efb3570d299ac8cf-1792x1024.png",
@@ -1366,34 +1396,9 @@
           "description": "Multicoin Capital has announced a pledge to match up to $1 million in SOL donations to the Sentinel Action Fund over the next ten days",
           "link": "https://thedefiant.io/news/markets/multicoin-capital-pledges-1m-sol-donations-to-support-pro-crypto-senate",
           "publishedOn": "2024-07-05T17:14:53.000Z",
-          "wordCount": 1041,
+          "wordCount": 1011,
           "title": "Multicoin Capital Pledges $1M in SOL Donations to Support Pro-Crypto Senate Candidates",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-price-drops-below-55000-567-million-liquidated-market-downturn",
-          "author": "DeepNewz",
-          "description": "The Bitcoin market experienced significant turmoil as the price of Bitcoin fell below $55,000",
-          "link": "https://thedefiant.io/news/markets/bitcoin-price-drops-below-55000-567-million-liquidated-market-downturn",
-          "publishedOn": "2024-07-05T17:14:49.000Z",
-          "wordCount": 953,
-          "title": "Bitcoin Price Drops Below $55,000, $567 Million Liquidated in Market Downturn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities",
-          "author": "Samuel Haig",
-          "description": "The news followed a long-lasting dispute between the SEC and CFTC over when a cryptocurrency is a commodity or security.",
-          "link": "https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities",
-          "publishedOn": "2024-07-05T17:11:00.000Z",
-          "wordCount": 1908,
-          "title": "U.S. Court Rules Two Obscure Altcoins Are Commodities",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c5a2154c40d4231260d6ebb9d77f1d2c20a8e072-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c5a2154c40d4231260d6ebb9d77f1d2c20a8e072-1792x1024.webp"
         }
       ]
     }

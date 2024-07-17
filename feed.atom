@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T16:08:14.282Z</id>
+    <id>urn:2024-07-17T17:06:12.842Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T16:08:14.282Z</updated>
+    <updated>2024-07-17T17:06:12.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkWare Verifies Zero-Knowledge Proof on Bitcoin’s Test Network]]></title>
+        <id>https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network</id>
+        <link href="https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network"/>
+        <updated>2024-07-17T16:54:42.000Z</updated>
+        <summary type="html"><![CDATA[It was made possible thanks to a Satoshi-era code called OP_CAT currently being tested on Bitcoin’s Signet.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rally as Spot Bitcoin ETFs Attract Major Inflows]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows"/>
+        <updated>2024-07-17T16:08:30.000Z</updated>
+        <summary type="html"><![CDATA[This week recorded spot Bitcoin ETF flows worth $722 million, including the highest daily inflow in a month.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arca Taps Securitize To List Tokenized U.S. Treasury Fund]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees</id>
         <link href="https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees"/>
         <updated>2024-07-08T20:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Millions of spam transactions on Solana are bolstering Raydium’s fee income.]]></summary>
+        <summary type="html"><![CDATA[Raydium, the leading decentralized exchange (DEX)  on Solana, narrowly flipped Uniswap in weekly fees and processed over 10 times as many transactions as Ethereum’s largest DEX.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off</id>
         <link href="https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off"/>
         <updated>2024-07-08T18:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Users of Zircuit, an Ethereum Layer 2 network, have pulled out half a million dollars in assets from the protocol just in the past week, as phase one of its rewards program wraps up.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum Layer 2’s TVL dropped to $2.1 billion from $2.5 billion a week ago.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Multicoin Capital has announced a pledge to match up to $1 million in SOL donations to the Sentinel Action Fund over the next ten days]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Price Drops Below $55,000, $567 Million Liquidated in Market Downturn]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-price-drops-below-55000-567-million-liquidated-market-downturn</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-price-drops-below-55000-567-million-liquidated-market-downturn"/>
-        <updated>2024-07-05T17:14:49.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin market experienced significant turmoil as the price of Bitcoin fell below $55,000]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Court Rules Two Obscure Altcoins Are Commodities]]></title>
-        <id>https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities</id>
-        <link href="https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities"/>
-        <updated>2024-07-05T17:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The news followed a long-lasting dispute between the SEC and CFTC over when a cryptocurrency is a commodity or security.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
