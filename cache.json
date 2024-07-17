@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-launches-decentralized-ai-fund",
+          "author": "Squiffs",
+          "description": "The fund will provide accredited investors exposure to DeFi’s artificial intelligence sector.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-launches-decentralized-ai-fund",
+          "publishedOn": "2024-07-17T17:09:56.000Z",
+          "wordCount": 1158,
+          "title": "Grayscale Launches Decentralized AI Fund",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2618faae4ccc13a62b1c920a5e00230e2b01edfa-297x170.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2618faae4ccc13a62b1c920a5e00230e2b01edfa-297x170.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network",
           "author": "Pedro Solimano",
           "description": "It was made possible thanks to a Satoshi-era code called OP_CAT currently being tested on Bitcoin’s Signet.",
@@ -41,7 +56,7 @@
           "description": "The news comes after the market cap of tokenized treasuries grew 140% since the start of the year.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund",
           "publishedOn": "2024-07-17T13:00:00.000Z",
-          "wordCount": 1694,
+          "wordCount": 1664,
           "title": "Arca Taps Securitize To List Tokenized U.S. Treasury Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9bb1c426641773b2258cb0312ac0baa9ad88d2f7-1792x1024.webp",
@@ -381,7 +396,7 @@
           "description": "Bloomberg ETF experts have estimated between $12-15 billion in net inflows for Bitcoin ETFs in the first year.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-etfs-surpass-16-billion-net-inflows-six-months-beating-yearly-estimate",
           "publishedOn": "2024-07-16T15:04:16.000Z",
-          "wordCount": 1074,
+          "wordCount": 1044,
           "title": "Bitcoin ETFs Surpass $16 Billion in Net Inflows in Six Months, Beating Yearly Estimate",
           "imageUrl": null
         },
@@ -466,7 +481,7 @@
           "description": "On July 16, 2024, Stripe has expanded its cryptocurrency integration into the European Union, allowing users to buy Bitcoin (BTC), Solana (SOL), Ethereum (ETH), and other coins using their credit or debit cards.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-expands-crypto-integration-european-union-allows-purchases-via-credit-or",
           "publishedOn": "2024-07-16T12:11:08.000Z",
-          "wordCount": 1109,
+          "wordCount": 1079,
           "title": "Stripe Expands Crypto Integration in European Union, Allows Purchases via Credit or Debit Cards",
           "imageUrl": null
         },
@@ -546,7 +561,7 @@
           "description": "MicroStrategy's bold strategy of converting its treasury to Bitcoin has inspired midcap firms and nonprofits to follow suit.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/microstrategy-s-bitcoin-strategy-inspires-midcaps-nonprofits-stock-prices-surge",
           "publishedOn": "2024-07-16T05:28:52.000Z",
-          "wordCount": 985,
+          "wordCount": 955,
           "title": "MicroStrategy's Bitcoin Strategy Inspires Midcaps and Nonprofits, Stock Prices Surge 20-40%",
           "imageUrl": null
         },
@@ -566,7 +581,7 @@
           "description": "The SEC is reportedly asking for final S-1 applications by Wednesday.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23",
           "publishedOn": "2024-07-15T21:31:38.000Z",
-          "wordCount": 1581,
+          "wordCount": 1551,
           "title": "Bloomberg Analyst Says Ethereum Spot ETF to Launch July 23",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b39c8ca3582c05b7b918dc3b81ba3574b70af502-828x473.png",
@@ -931,7 +946,7 @@
           "description": "Terraform Labs is looking to offload Pulsar, Station, Warp, and Enterprise.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/terraform-labs-to-sell-four-businesses-amid-bankruptcy-proceedings",
           "publishedOn": "2024-07-10T17:22:00.000Z",
-          "wordCount": 1735,
+          "wordCount": 1705,
           "title": "Terraform Labs To Sell Four Businesses Amid Bankruptcy Proceedings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/46512d4b9e10ae94d9c3c0a7f676ab3d65141903-1792x1024.webp",
@@ -1076,7 +1091,7 @@
           "description": "ETHE holders will receive shares of the ETH Trust at a 1-to-1 ratio.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation",
           "publishedOn": "2024-07-09T21:20:49.000Z",
-          "wordCount": 1458,
+          "wordCount": 1428,
           "title": "Grayscale Targets July 18 for Potential ETH ETF Creation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/01509292a04f68bab58c7052c34a1dcdaa09233f-1792x1024.webp",
@@ -1148,10 +1163,10 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-tokenized-securities-fund-buidl-tops-usd500m",
           "author": "Pedro Solimano",
-          "description": "The on-chain U.S. Treasuries sector has grown by 133% in 2024 so far.",
+          "description": "BlackRock's on-chain treasuries fund BUIDL has soared past $500 million in assets under management in less than four months.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-tokenized-securities-fund-buidl-tops-usd500m",
           "publishedOn": "2024-07-09T06:41:00.000Z",
-          "wordCount": 1373,
+          "wordCount": 1343,
           "title": "Blackrock’s Tokenized Treasuries Fund BUIDL Tops $500M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d22048d95470576d6ef6b4c9ae33186a11912a7-1792x1024.webp",
@@ -1163,7 +1178,7 @@
         {
           "id": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
           "author": "Squiffs",
-          "description": "Raydium, the leading decentralized exchange (DEX)  on Solana, narrowly flipped Uniswap in weekly fees and processed over 10 times as many transactions as Ethereum’s largest DEX.",
+          "description": "Millions of spam transactions on Solana are bolstering Raydium’s fee income.",
           "link": "https://thedefiant.io/news/defi/solana-dex-raydium-flips-uniswap-in-weekly-fees",
           "publishedOn": "2024-07-08T20:20:54.000Z",
           "wordCount": 1221,
@@ -1211,7 +1226,7 @@
           "description": "Experts and reports suggest that a spot Ethereum ETF could be listed and traded within the next two weeks, with expectations for launch around the week of July 15",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etf-expected-2-weeks-sec-approval-imminent",
           "publishedOn": "2024-07-08T18:18:16.000Z",
-          "wordCount": 1081,
+          "wordCount": 1051,
           "title": "Spot Ethereum ETF Expected Within 2 Weeks, SEC Approval Imminent",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2b1a5f76a36cfa16a60a94e1eb728a619a85b16-1920x1080.jpg",
@@ -1276,7 +1291,7 @@
           "description": "Analysts believe that Ethereum ETFs will likely have a smaller market impact than Bitcoin ETFs did.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/will-spot-ethereum-etfs-live-up-to-the-hype-of-spot-bitcoin-etfs-analysts-weigh-in",
           "publishedOn": "2024-07-08T15:40:00.000Z",
-          "wordCount": 2204,
+          "wordCount": 2174,
           "title": "Will Spot Ethereum ETFs Live Up to the Hype? Analysts Weigh In",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ff2a595ed349c97cb671c19e8d4f8058c41904a4-1792x1024.webp",
@@ -1389,16 +1404,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbea019115dcee28d5f3d5ff73ccaf87b4513da1-550x550.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/multicoin-capital-pledges-1m-sol-donations-to-support-pro-crypto-senate",
-          "author": "DeepNewz",
-          "description": "Multicoin Capital has announced a pledge to match up to $1 million in SOL donations to the Sentinel Action Fund over the next ten days",
-          "link": "https://thedefiant.io/news/markets/multicoin-capital-pledges-1m-sol-donations-to-support-pro-crypto-senate",
-          "publishedOn": "2024-07-05T17:14:53.000Z",
-          "wordCount": 1011,
-          "title": "Multicoin Capital Pledges $1M in SOL Donations to Support Pro-Crypto Senate Candidates",
-          "imageUrl": null
         }
       ]
     }
