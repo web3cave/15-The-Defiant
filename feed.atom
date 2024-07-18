@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T12:13:25.653Z</id>
+    <id>urn:2024-07-18T13:11:35.224Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-18T12:13:25.653Z</updated>
+    <updated>2024-07-18T13:11:35.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Hold Firm as Tech Stocks Crater]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-hold-firm-as-tech-stocks-crater</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-hold-firm-as-tech-stocks-crater"/>
+        <updated>2024-07-18T12:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is consolidating around $65,000 despite the Nasdaq posting its worst day since December 2022.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Launches Digital Asset Sandbox For Financial Institutions]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-launches-digital-asset-sandbox-for-financial-institutions</id>
@@ -21,6 +31,16 @@
         <link href="https://thedefiant.io/news/defi/veworld-wallet-incorporates-apple-pay-through-transak-integration"/>
         <updated>2024-07-18T11:45:59.000Z</updated>
         <summary type="html"><![CDATA[The partnership aims to make crypto more accessible to VeChain users.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon Spearheads Next-Gen Loyalty Programs in Collaboration with Google Cloud and Accenture]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/polygon-spearheads-next-gen-loyalty-programs-in-collaboration-with-google-cloud-and-accenture</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/polygon-spearheads-next-gen-loyalty-programs-in-collaboration-with-google-cloud-and-accenture"/>
+        <updated>2024-07-18T10:40:17.000Z</updated>
+        <summary type="html"><![CDATA[An integral feature of these reimagined loyalty programs is the creation of a dynamic marketplace that would enable the exchange of rewards.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-surge-on-inflation-hitting-three-year-low</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-surge-on-inflation-hitting-three-year-low"/>
         <updated>2024-07-11T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Investors anticipate the Federal Reserve will cut interest rates later this year.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets continued on a bullish trajectory in response to U.S. inflation dipping to a multi-year low.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Masa has launched the first AI Data Subnet on Bittensor, making the $MASA token the first live token in any Bittensor ecosystem subnet]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Finance Users are Locking Record Amounts of CRV Tokens in the DEX]]></title>
-        <id>https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex</id>
-        <link href="https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex"/>
-        <updated>2024-07-09T21:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Targets July 18 for Potential ETH ETF Creation]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation"/>
-        <updated>2024-07-09T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[ETHE holders will receive shares of the ETH Trust at a 1-to-1 ratio.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
