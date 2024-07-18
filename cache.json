@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring",
+          "author": "Pedro Solimano",
+          "description": "Ethereum's censored transactions now account for 35% of the total.",
+          "link": "https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring",
+          "publishedOn": "2024-07-18T20:38:36.000Z",
+          "wordCount": 1921,
+          "title": "Top Builder On Ethereum is No Longer Censoring",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a77e1864e8511fbe870957aedf96f6e2bf36be3-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1a77e1864e8511fbe870957aedf96f6e2bf36be3-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-hold-firm-as-tech-stocks-crater",
           "author": "yyctrader",
           "description": "Bitcoin is consolidating around $65,000 despite the Nasdaq posting its worst day since December 2022.",
@@ -131,7 +146,7 @@
           "description": "Ronin Network has experienced significant growth, with its daily active addresses (DAA) increasing by 93% over 26 days.",
           "link": "https://thedefiant.io/news/blockchains/ronin-network-s-daa-surges-93-43-26-days-amid-runiverse-game-migration-token-up",
           "publishedOn": "2024-07-18T07:30:23.000Z",
-          "wordCount": 1204,
+          "wordCount": 1240,
           "title": "Ronin Network's DAA Surges 93.43% in 26 Days Amid Runiverse Game Migration, Token Up 17%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c616277e980a221ddf3ac5c80c5f2f15ee172af6-1200x630.jpg",
@@ -311,7 +326,7 @@
           "description": "It was made possible thanks to a Satoshi-era code called OP_CAT currently being tested on Bitcoin’s Signet.",
           "link": "https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network",
           "publishedOn": "2024-07-17T16:54:42.000Z",
-          "wordCount": 2158,
+          "wordCount": 2194,
           "title": "StarkWare Verifies Zero-Knowledge Proof on Bitcoin’s Test Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c85b8cf92ca0c0adfcb2eade8b300ae566b6019-828x473.png",
@@ -416,7 +431,7 @@
           "description": "Starknet announces the upcoming release of Starknet v0.13.2 in August.",
           "link": "https://thedefiant.io/news/blockchains/starknet-to-release-faster-transactions-fees-down-tps-up-august",
           "publishedOn": "2024-07-17T10:50:02.000Z",
-          "wordCount": 895,
+          "wordCount": 931,
           "title": "Starknet to Release Faster Transactions with Fees Down, TPS Up in August",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c616277e980a221ddf3ac5c80c5f2f15ee172af6-1200x630.jpg",
@@ -486,7 +501,7 @@
           "description": "This increase represents a 2.4% gain since June and a 5.6% rise since the last Bitcoin halving.",
           "link": "https://thedefiant.io/news/blockchains/u-s-listed-bitcoin-miners-reach-record-26-6-global-hashrate-share-early-july",
           "publishedOn": "2024-07-17T07:11:32.000Z",
-          "wordCount": 1030,
+          "wordCount": 1066,
           "title": "U.S.-Listed Bitcoin Miners Reach Record 26.6% Global Hashrate Share in Early July",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f09bf749eb321ade6434dbf522ee0abed7676ed4-1024x512.jpg",
@@ -1111,7 +1126,7 @@
           "description": "The Minister of Energy and Water claims the country has lost $682 million since 2018.",
           "link": "https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft",
           "publishedOn": "2024-07-11T19:47:08.000Z",
-          "wordCount": 1646,
+          "wordCount": 1682,
           "title": "Malaysian Government Blames Bitcoin Mining for Electricity Theft",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/84985977b9964f78531c327bd1d92e34b91dcb25-1792x1024.webp",
@@ -1138,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-surge-on-inflation-hitting-three-year-low",
           "author": "Mehab Qureshi",
-          "description": "Investors anticipate the Federal Reserve will cut interest rates later this year.",
+          "description": "Crypto markets continued on a bullish trajectory in response to U.S. inflation dipping to a multi-year low.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-surge-on-inflation-hitting-three-year-low",
           "publishedOn": "2024-07-11T15:37:00.000Z",
           "wordCount": 1616,
@@ -1153,7 +1168,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities",
           "author": "Mehab Qureshi",
-          "description": "The chairman of the CFTC told the U.S. Senate that at least 70% of cryptocurrencies do not comprise security assets.",
+          "description": "Behnam urged Congress to grant the agency more authority over digital assets.",
           "link": "https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities",
           "publishedOn": "2024-07-11T14:35:00.000Z",
           "wordCount": 3234,
@@ -1336,7 +1351,7 @@
           "description": "The Open Network (TON), a blockchain with ties to Telegram Messenger, is set to release a Layer-2 (L2) solution based on Polygon's technology",
           "link": "https://thedefiant.io/news/blockchains/ton-blockchain-to-release-layer-2-solution-using-polygon-s-technology-officially",
           "publishedOn": "2024-07-09T21:38:11.000Z",
-          "wordCount": 1096,
+          "wordCount": 1132,
           "title": "TON Blockchain to Release Layer-2 Solution Using Polygon's Technology, Not Officially by TON Team",
           "imageUrl": null
         },
@@ -1361,7 +1376,7 @@
           "description": "Storj Labs has acquired Valdi, a provider of high-performance cloud computing services for the artificial intelligence market",
           "link": "https://thedefiant.io/news/blockchains/storj-labs-acquires-valdi-16000-gpus-to-enhance-ai-cloud-computing",
           "publishedOn": "2024-07-09T21:37:38.000Z",
-          "wordCount": 1006,
+          "wordCount": 1042,
           "title": "Storj Labs Acquires Valdi and Its 16,000 GPUs to Enhance AI Cloud Computing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/014e455cd8914b66993f6c483976a8933de1801f-1280x717.jpg",
@@ -1376,7 +1391,7 @@
           "description": "Masa has launched the first AI Data Subnet on Bittensor, making the $MASA token the first live token in any Bittensor ecosystem subnet",
           "link": "https://thedefiant.io/news/blockchains/masa-launches-first-ai-data-subnet-on-bittensor-masa-dual-token-reward",
           "publishedOn": "2024-07-09T21:37:21.000Z",
-          "wordCount": 1065,
+          "wordCount": 1101,
           "title": "Masa Launches First AI Data Subnet on Bittensor with $MASA and Dual-Token Reward",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/03a5071db879fa460a3ff18410975d0a57d505f1-762x457.jpg",
@@ -1384,21 +1399,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03a5071db879fa460a3ff18410975d0a57d505f1-762x457.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex",
-          "author": "Pedro Solimano",
-          "description": "Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.",
-          "link": "https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex",
-          "publishedOn": "2024-07-09T21:30:13.000Z",
-          "wordCount": 1909,
-          "title": "Curve Finance Users are Locking Record Amounts of CRV Tokens in the DEX",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89eebf4038529d91f89d89f3b0f19097705ac56f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89eebf4038529d91f89d89f3b0f19097705ac56f-1792x1024.webp"
         }
       ]
     }
