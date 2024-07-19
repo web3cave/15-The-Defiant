@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/base-onchain-summer-heats-up",
+          "author": "Squiffs",
+          "description": "Activity on Coinbase’s Layer 2 network has spiked since the company introduced points into its “Onchain Summer” campaign.",
+          "link": "https://thedefiant.io/news/defi/base-onchain-summer-heats-up",
+          "publishedOn": "2024-07-19T07:28:11.000Z",
+          "wordCount": 1456,
+          "title": "Base’s Onchain Summer Heats Up",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1b5cfb43822e4b9c7efab79f00cf6400eac7f2d-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1b5cfb43822e4b9c7efab79f00cf6400eac7f2d-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ether-fi-releases-season-2-of-its-ethfi-token-airdrop",
           "author": "Squiffs",
           "description": "The liquid restaking protocol is now starting the third phase of its campaign to distribute $ETHFI to users.",
@@ -1153,7 +1168,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos",
           "author": "Squiffs",
-          "description": "The SEC has bailed on its investigation into Paxos and its BUSD stablecoin.",
+          "description": "The move comes just two weeks after a U.S. federal judge ruled that BUSD does not comprise a security.",
           "link": "https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos",
           "publishedOn": "2024-07-11T16:22:00.000Z",
           "wordCount": 1597,
@@ -1384,21 +1399,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91f389dc474e839bf3fdfe82817b6766718f741b-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/storj-labs-acquires-valdi-16000-gpus-to-enhance-ai-cloud-computing",
-          "author": "DeepNewz",
-          "description": "Storj Labs has acquired Valdi, a provider of high-performance cloud computing services for the artificial intelligence market",
-          "link": "https://thedefiant.io/news/blockchains/storj-labs-acquires-valdi-16000-gpus-to-enhance-ai-cloud-computing",
-          "publishedOn": "2024-07-09T21:37:38.000Z",
-          "wordCount": 1042,
-          "title": "Storj Labs Acquires Valdi and Its 16,000 GPUs to Enhance AI Cloud Computing",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/014e455cd8914b66993f6c483976a8933de1801f-1280x717.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/014e455cd8914b66993f6c483976a8933de1801f-1280x717.jpg"
         }
       ]
     }
