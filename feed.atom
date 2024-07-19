@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T15:08:03.342Z</id>
+    <id>urn:2024-07-19T16:07:48.347Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T15:08:03.342Z</updated>
+    <updated>2024-07-19T16:07:48.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Goes Down But Crypto Doesn’t Care]]></title>
+        <id>https://thedefiant.io/news/cefi/microsoft-goes-down-but-crypto-doesn-t-care</id>
+        <link href="https://thedefiant.io/news/cefi/microsoft-goes-down-but-crypto-doesn-t-care"/>
+        <updated>2024-07-19T15:56:20.000Z</updated>
+        <summary type="html"><![CDATA[While outages are reported across industries, crypto websites and blockchains are up and running.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll Halts Chain Finalization After $7 Million Rho Market Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit"/>
+        <updated>2024-07-19T15:08:21.000Z</updated>
+        <summary type="html"><![CDATA[The exploiter has sent the funds to a multi-sig wallet after what experts presume to be a white hat hack.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZetaChain Aims to Push Cross-Chain Interoperability Envelope With Gateway Upgrade]]></title>
         <id>https://thedefiant.io/news/defi/zetachain-aims-to-push-cross-chain-interoperability-envelope-with-gateway-upgrade</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The German government appears to have offloaded 92% of its BTC holdings]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than 120 DeFi Front-End Could Be Vulnerable To DNS Attacks]]></title>
-        <id>https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks</id>
-        <link href="https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks"/>
-        <updated>2024-07-12T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The migration of Google’s domain registrar to Squarespace resulted in more than 120 DeFi domains becoming vulnerable to DNS attacks.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOCA Token Soars to $800M Fully-Diluted Valuation as Mocaverse NFTs Crater]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater"/>
-        <updated>2024-07-11T19:57:39.000Z</updated>
-        <summary type="html"><![CDATA[The floor price of Mocaverse NFTs plummeted 47% on July 9.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
