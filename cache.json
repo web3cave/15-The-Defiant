@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-burn-rate-slumped-67-in-q2",
+          "author": "Samuel Haig",
+          "description": "ETH's supply is now at its highest level since December 2023.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-burn-rate-slumped-67-in-q2",
+          "publishedOn": "2024-07-22T10:26:00.000Z",
+          "wordCount": 1652,
+          "title": "Ethereum's Burn Rate Slumped 67% In Q2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/78119b60ba811045dd889b148764fd90e34d41dd-825x471.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78119b60ba811045dd889b148764fd90e34d41dd-825x471.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/bnb-foundation-completes-28th-quarterly-token-burn-reducing-supply-1-6m-bnb-971m",
+          "author": "DeepNewz",
+          "description": "The BNB Foundation has officially announced the completion of the 28th quarterly BNB token burn by BNB Chain.",
+          "link": "https://thedefiant.io/news/blockchains/bnb-foundation-completes-28th-quarterly-token-burn-reducing-supply-1-6m-bnb-971m",
+          "publishedOn": "2024-07-22T09:03:14.000Z",
+          "wordCount": 1083,
+          "title": "BNB Foundation Completes 28th Quarterly Token Burn, Reducing Supply by 1.6M BNB Worth $971M",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0699701810c1a6901e8bf05bed60fe47f43981e2-1600x900.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0699701810c1a6901e8bf05bed60fe47f43981e2-1600x900.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/mt-gox-begins-repayment-process-5-8-billion-bitcoin-tests-0-021-btc-transfer-to",
+          "author": "DeepNewz",
+          "description": "Mt. Gox, the defunct cryptocurrency exchange, has initiated the repayment process to its creditors",
+          "link": "https://thedefiant.io/news/markets/mt-gox-begins-repayment-process-5-8-billion-bitcoin-tests-0-021-btc-transfer-to",
+          "publishedOn": "2024-07-22T09:03:09.000Z",
+          "wordCount": 1107,
+          "title": "Mt. Gox Begins Repayment Process with $5.8 Billion in Bitcoin, Tests 0.021 BTC Transfer to Bitstamp",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0bc47c0fd825158515e6a773b18f96e54bf2c968-1024x512.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0bc47c0fd825158515e6a773b18f96e54bf2c968-1024x512.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/people/trump-considers-blackrock-ceo-larry-fink-pro-bitcoin-advocate-treasury-secretary",
           "author": "DeepNewz",
           "description": "Former President Donald Trump is reportedly considering Larry Fink, the CEO of BlackRock, as a potential candidate for Treasury Secretary",
@@ -201,7 +246,7 @@
           "description": "Solscan has integrated AllDomains, a Solana name service for customizable Web3 identities, into their explorer",
           "link": "https://thedefiant.io/news/blockchains/solscan-integrates-solana-s-alldomains-customizable-web3-identities-scan-tool",
           "publishedOn": "2024-07-19T09:09:49.000Z",
-          "wordCount": 960,
+          "wordCount": 961,
           "title": "Solscan Integrates Solana's AllDomains for Customizable Web3 Identities and Scan Tool",
           "imageUrl": null
         },
@@ -401,7 +446,7 @@
           "description": "Ethereum's censored transactions now account for 35% of the total.",
           "link": "https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring",
           "publishedOn": "2024-07-18T20:38:36.000Z",
-          "wordCount": 1912,
+          "wordCount": 1913,
           "title": "Top Builder On Ethereum is No Longer Censoring",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a77e1864e8511fbe870957aedf96f6e2bf36be3-1792x1024.png",
@@ -536,7 +581,7 @@
           "description": "Ronin Network has experienced significant growth, with its daily active addresses (DAA) increasing by 93% over 26 days.",
           "link": "https://thedefiant.io/news/blockchains/ronin-network-s-daa-surges-93-43-26-days-amid-runiverse-game-migration-token-up",
           "publishedOn": "2024-07-18T07:30:23.000Z",
-          "wordCount": 1231,
+          "wordCount": 1232,
           "title": "Ronin Network's DAA Surges 93.43% in 26 Days Amid Runiverse Game Migration, Token Up 17%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c616277e980a221ddf3ac5c80c5f2f15ee172af6-1200x630.jpg",
@@ -716,7 +761,7 @@
           "description": "It was made possible thanks to a Satoshi-era code called OP_CAT currently being tested on Bitcoin’s Signet.",
           "link": "https://thedefiant.io/news/blockchains/starkware-verifies-zero-knowledge-proof-on-bitcoin-s-test-network",
           "publishedOn": "2024-07-17T16:54:42.000Z",
-          "wordCount": 2185,
+          "wordCount": 2186,
           "title": "StarkWare Verifies Zero-Knowledge Proof on Bitcoin’s Test Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c85b8cf92ca0c0adfcb2eade8b300ae566b6019-828x473.png",
@@ -821,7 +866,7 @@
           "description": "Starknet announces the upcoming release of Starknet v0.13.2 in August.",
           "link": "https://thedefiant.io/news/blockchains/starknet-to-release-faster-transactions-fees-down-tps-up-august",
           "publishedOn": "2024-07-17T10:50:02.000Z",
-          "wordCount": 922,
+          "wordCount": 923,
           "title": "Starknet to Release Faster Transactions with Fees Down, TPS Up in August",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c616277e980a221ddf3ac5c80c5f2f15ee172af6-1200x630.jpg",
@@ -891,7 +936,7 @@
           "description": "This increase represents a 2.4% gain since June and a 5.6% rise since the last Bitcoin halving.",
           "link": "https://thedefiant.io/news/blockchains/u-s-listed-bitcoin-miners-reach-record-26-6-global-hashrate-share-early-july",
           "publishedOn": "2024-07-17T07:11:32.000Z",
-          "wordCount": 1057,
+          "wordCount": 1058,
           "title": "U.S.-Listed Bitcoin Miners Reach Record 26.6% Global Hashrate Share in Early July",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f09bf749eb321ade6434dbf522ee0abed7676ed4-1024x512.jpg",
@@ -1339,41 +1384,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78edefe7c4763b0d295312d2cb4eb438c07c0b7e-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/scroll-tvl-hits-1-billion-immutable-s-zkevm-grows-rapidly-to-2-2m-users",
-          "author": "DeepNewz",
-          "description": "Scroll's Total Value Locked (TVL) has surged by 21% in the past week.",
-          "link": "https://thedefiant.io/news/defi/scroll-tvl-hits-1-billion-immutable-s-zkevm-grows-rapidly-to-2-2m-users",
-          "publishedOn": "2024-07-15T13:05:39.000Z",
-          "wordCount": 1014,
-          "title": "Scroll TVL Hits $1 Billion, Immutable's zkEVM Grows Rapidly to 2.2M Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-to-participate-in-makerdao-s-usd1-billion-rwa-push",
-          "author": "Mehab Qureshi",
-          "description": "Kicking off on August 12, the Spark Tokenization Grand Prix is part of MakerDAO's Endgame strategy.",
-          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-to-participate-in-makerdao-s-usd1-billion-rwa-push",
-          "publishedOn": "2024-07-15T11:21:12.000Z",
-          "wordCount": 1926,
-          "title": "BlackRock’s BUIDL to Participate in MakerDAO’s $1 Billion RWA Push",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9d6b888837e22657d4bf2576c305072bf5b4db9-1024x578.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9d6b888837e22657d4bf2576c305072bf5b4db9-1024x578.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/lazarus-group-suspected-305m-dmm-bitcoin-hack-july-2024",
-          "author": "DeepNewz",
-          "description": "The notorious Lazarus Group is suspected to be behind the recent $305 million hack of the Japanese cryptocurrency exchange DMM Bitcoin in July 2024.",
-          "link": "https://thedefiant.io/news/cefi/lazarus-group-suspected-305m-dmm-bitcoin-hack-july-2024",
-          "publishedOn": "2024-07-15T08:35:58.000Z",
-          "wordCount": 1028,
-          "title": "Lazarus Group Suspected in $305M DMM Bitcoin Hack in July 2024",
-          "imageUrl": null
         }
       ]
     }
