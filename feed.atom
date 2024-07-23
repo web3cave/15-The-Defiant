@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-23T16:09:07.131Z</id>
+    <id>urn:2024-07-23T17:06:37.203Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-23T16:09:07.131Z</updated>
+    <updated>2024-07-23T17:06:37.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Dip as Ethereum Spot ETFs Make Debut]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-ethereum-spot-etfs-make-debut</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-dip-as-ethereum-spot-etfs-make-debut"/>
+        <updated>2024-07-23T16:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum spot ETFs launch amid downturn for major cryptocurrencies.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Trades Flat Despite Spot Ethereum ETFs Going Live]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/eth-trades-flat-despite-spot-ethereum-etfs-going-live</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b</id>
         <link href="https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b"/>
         <updated>2024-07-17T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[DeFi protocols leveraging Veda can now source yields from multiple networks simultaneously.]]></summary>
+        <summary type="html"><![CDATA[Veda surpassed $1B in TVL less than four months after launching.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[XRP has seen a significant surge in its price, rising 38% over the past week.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real World Asset Sector Outperforms on Growing TradFi Tokenization Effort]]></title>
-        <id>https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort</id>
-        <link href="https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort"/>
-        <updated>2024-07-16T20:10:20.000Z</updated>
-        <summary type="html"><![CDATA[RWAs are surging driven by Goldman Sachs’ tokenization initiative, and MakerDAO’s plan to invest $1 billion in the sector.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
