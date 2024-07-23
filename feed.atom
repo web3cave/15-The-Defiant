@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-23T08:11:14.878Z</id>
+    <id>urn:2024-07-23T09:07:56.173Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-23T08:11:14.878Z</updated>
+    <updated>2024-07-23T09:07:56.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Grants Final Approval To Spot Ether ETFs]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sec-grants-final-approval-to-spot-ether-etfs</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sec-grants-final-approval-to-spot-ether-etfs"/>
+        <updated>2024-07-23T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The funds are expected to begin trading on Tuesday morning.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin DeFi Platform Liquidium Distributes Surprise Airdrop]]></title>
         <id>https://thedefiant.io/news/defi/bitcoin-defi-platform-liquidium-distributes-surprise-airdrop</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort</id>
         <link href="https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort"/>
         <updated>2024-07-16T20:10:20.000Z</updated>
-        <summary type="html"><![CDATA[RWAs are surging driven by Goldman Sachs’ tokenization initiative, and MakerDAO’s plan to invest $1 billion in the sector.]]></summary>
+        <summary type="html"><![CDATA[Real World Assets (RWA) tokens are leading the altcoin bounce during the recent crypto market’s rally.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Pendle has also partnered with the restaking protocol Karak Network.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll TVL Soars Past $1 Billion]]></title>
-        <id>https://thedefiant.io/news/defi/scroll-tvl-soars-past-usd1-billion</id>
-        <link href="https://thedefiant.io/news/defi/scroll-tvl-soars-past-usd1-billion"/>
-        <updated>2024-07-16T07:07:03.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Layer 2 network is outperforming the rest of the sector, driven by its ‘Session One’ points program.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
