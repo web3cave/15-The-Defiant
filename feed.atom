@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-23T09:07:56.173Z</id>
+    <id>urn:2024-07-23T10:07:36.352Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-23T09:07:56.173Z</updated>
+    <updated>2024-07-23T10:07:36.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avail Unveils DA Mainnet Alongside Native Token]]></title>
+        <id>https://thedefiant.io/news/blockchains/avail-unveils-da-mainnet-alongside-native-token</id>
+        <link href="https://thedefiant.io/news/blockchains/avail-unveils-da-mainnet-alongside-native-token"/>
+        <updated>2024-07-23T09:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The project said Avail DA offers support for more than 70 chains and tech stacks.]]></summary>
+        <author>
+            <name>Samuel Haig and Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Grants Final Approval To Spot Ether ETFs]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/sec-grants-final-approval-to-spot-ether-etfs</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort</id>
         <link href="https://thedefiant.io/news/defi/real-world-asset-sector-outperforms-on-growing-tradfi-tokenization-effort"/>
         <updated>2024-07-16T20:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Real World Assets (RWA) tokens are leading the altcoin bounce during the recent crypto market’s rally.]]></summary>
+        <summary type="html"><![CDATA[RWAs are surging driven by Goldman Sachs’ tokenization initiative, and MakerDAO’s plan to invest $1 billion in the sector.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ordinals and Runes traders are falling victim to onchain front-running.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle Launches New Pools On Arbitrum Network]]></title>
-        <id>https://thedefiant.io/news/defi/pendle-launches-new-pools-on-arbitrum-network</id>
-        <link href="https://thedefiant.io/news/defi/pendle-launches-new-pools-on-arbitrum-network"/>
-        <updated>2024-07-16T08:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Pendle has also partnered with the restaking protocol Karak Network.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
