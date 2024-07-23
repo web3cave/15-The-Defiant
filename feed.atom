@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-23T13:11:05.287Z</id>
+    <id>urn:2024-07-23T14:07:09.671Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-23T13:11:05.287Z</updated>
+    <updated>2024-07-23T14:07:09.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Trades Flat Despite Spot Ethereum ETFs Going Live]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/eth-trades-flat-despite-spot-ethereum-etfs-going-live</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/eth-trades-flat-despite-spot-ethereum-etfs-going-live"/>
+        <updated>2024-07-23T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[The web3 community is speculating on the performance of the debuting ETF asset class.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citi Upgrades Coinbase to Buy, Raises Price Target to $345]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/citi-upgrades-coinbase-to-buy-raises-price-target-to-345</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b</id>
         <link href="https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b"/>
         <updated>2024-07-17T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Veda surpassed $1B in TVL less than four months after launching.]]></summary>
+        <summary type="html"><![CDATA[DeFi protocols leveraging Veda can now source yields from multiple networks simultaneously.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[RWAs are surging driven by Goldman Sachs’ tokenization initiative, and MakerDAO’s plan to invest $1 billion in the sector.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Prediction Market Polymarket Hires Forecasting Guru Nate Silver Amid Rising News Bets]]></title>
-        <id>https://thedefiant.io/news/defi/crypto-prediction-market-polymarket-hires-forecasting-guru-nate-silver-amid-news</id>
-        <link href="https://thedefiant.io/news/defi/crypto-prediction-market-polymarket-hires-forecasting-guru-nate-silver-amid-news"/>
-        <updated>2024-07-16T17:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Polymarket, a crypto prediction market, has hired renowned election statistician and forecasting guru Nate Silver as an advisor]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
