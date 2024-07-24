@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/jeff-garzik-s-hemi-network-brings-evm-execution-to-bitcoin",
+          "author": "Samuel Haig",
+          "description": "The project introduces the Hemi Virtual Machine and leverages Proof-of-Proof consensus to inherit security from Bitcoin.",
+          "link": "https://thedefiant.io/news/blockchains/jeff-garzik-s-hemi-network-brings-evm-execution-to-bitcoin",
+          "publishedOn": "2024-07-24T13:00:00.000Z",
+          "wordCount": 1684,
+          "title": "Jeff Garzik’s Hemi Network Brings EVM Execution To Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d64223edbcf6f7cbf58a6cb628deb967bb96f92a-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d64223edbcf6f7cbf58a6cb628deb967bb96f92a-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-parent-company-raises-usd11-million-to-build-consumer-blockchain",
           "author": "yyctrader",
           "description": "The new chain, dubbed Abstract, will leverage zero-knowledge technology and EigenDA.",
@@ -1118,7 +1133,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring",
           "author": "Pedro Solimano",
-          "description": "Ethereum's censored transactions now account for 35% of the total.",
+          "description": "The top builder on Ethereum stopped censoring transactions, bringing censored transactions to account for 35% of the total.",
           "link": "https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring",
           "publishedOn": "2024-07-18T20:38:36.000Z",
           "wordCount": 1882,
@@ -1358,16 +1373,6 @@
           "publishedOn": "2024-07-18T07:24:31.000Z",
           "wordCount": 971,
           "title": "Taiwan Passes New AML Legislation for Crypto Firms with Penalties Up to $153,800",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/kraken-confirms-mt-gox-funds-amid-wednesday-cyberattack-concerns",
-          "author": "DeepNewz",
-          "description": "Kraken has informed users that Mt. Gox reimbursement funds have been received.",
-          "link": "https://thedefiant.io/news/cefi/kraken-confirms-mt-gox-funds-amid-wednesday-cyberattack-concerns",
-          "publishedOn": "2024-07-18T07:24:27.000Z",
-          "wordCount": 918,
-          "title": "Kraken Confirms Mt. Gox Funds Amid Wednesday Cyberattack Concerns",
           "imageUrl": null
         }
       ]

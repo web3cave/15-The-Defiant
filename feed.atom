@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-24T12:12:28.115Z</id>
+    <id>urn:2024-07-24T13:11:26.576Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-24T12:12:28.115Z</updated>
+    <updated>2024-07-24T13:11:26.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jeff Garzik’s Hemi Network Brings EVM Execution To Bitcoin]]></title>
+        <id>https://thedefiant.io/news/blockchains/jeff-garzik-s-hemi-network-brings-evm-execution-to-bitcoin</id>
+        <link href="https://thedefiant.io/news/blockchains/jeff-garzik-s-hemi-network-brings-evm-execution-to-bitcoin"/>
+        <updated>2024-07-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The project introduces the Hemi Virtual Machine and leverages Proof-of-Proof consensus to inherit security from Bitcoin.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pudgy Penguins’ Parent Company Raises $11 Million to Build Consumer Blockchain]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-parent-company-raises-usd11-million-to-build-consumer-blockchain</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring</id>
         <link href="https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring"/>
         <updated>2024-07-18T20:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's censored transactions now account for 35% of the total.]]></summary>
+        <summary type="html"><![CDATA[The top builder on Ethereum stopped censoring transactions, bringing censored transactions to account for 35% of the total.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/taiwan-passes-new-aml-legislation-crypto-firms-penalties-up-to-153800"/>
         <updated>2024-07-18T07:24:31.000Z</updated>
         <summary type="html"><![CDATA[Taiwan's Legislative Yuan has passed new anti-money laundering (AML) legislation that imposes stringent requirements on cryptocurrency firms.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Confirms Mt. Gox Funds Amid Wednesday Cyberattack Concerns]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-confirms-mt-gox-funds-amid-wednesday-cyberattack-concerns</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-confirms-mt-gox-funds-amid-wednesday-cyberattack-concerns"/>
-        <updated>2024-07-18T07:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Kraken has informed users that Mt. Gox reimbursement funds have been received.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
