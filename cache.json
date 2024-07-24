@@ -6,6 +6,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet",
+          "author": "Samuel Haig",
+          "description": "Base deployed fault proofs on its Sepolia testnet.",
+          "link": "https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet",
+          "publishedOn": "2024-07-24T09:09:00.000Z",
+          "wordCount": 1915,
+          "title": "Base Launches Stage 1 Decentralization On Testnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f8d4a1ff98e9a2cb86b8e707ba4723daa66be03-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f8d4a1ff98e9a2cb86b8e707ba4723daa66be03-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dydx-trading-inc-discusses-sale-of-v3-infrastructure-for-undisclosed-amount-to-wintermute-and",
+          "author": "DeepNewz",
+          "description": "The company is reportedly in discussions to sell its deprecated dYdX V3 infrastructure, specifically the StarkEx rollup, to a consortium that includes major crypto market makers such as Wintermute Trading Ltd. and Selini Capital.",
+          "link": "https://thedefiant.io/news/defi/dydx-trading-inc-discusses-sale-of-v3-infrastructure-for-undisclosed-amount-to-wintermute-and",
+          "publishedOn": "2024-07-24T08:52:37.000Z",
+          "wordCount": 1146,
+          "title": "dYdX Trading Inc. Discusses Sale of V3 Infrastructure for Undisclosed Amount to Wintermute and Selini",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/navigating-the-institutional-defi-trilemma",
           "author": "IntoTheBlock",
           "description": "Engaging in DeFi at scale presents unique challenges, encapsulated by the \"Institutional DeFi Trilemma\" model — Risk, Reward, and Capacity.",
@@ -1128,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/defi/polygon-schedules-matic-to-pol-token-migration-for-september-7",
           "author": "Samuel Haig",
-          "description": "POL will immediately become the gas and staking token on the Polygon PoS network.",
+          "description": "Polygon plans to launch token migrations from MATIC to POL in early September.",
           "link": "https://thedefiant.io/news/defi/polygon-schedules-matic-to-pol-token-migration-for-september-7",
           "publishedOn": "2024-07-18T08:00:00.000Z",
           "wordCount": 1715,
@@ -1364,36 +1389,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9bb1c426641773b2258cb0312ac0baa9ad88d2f7-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hermetica-launches-bitcoin-backed-synthetic-dollar",
-          "author": "yyctrader",
-          "description": "USDh leverages the Runes protocol and currently offers a 12% staking yield.",
-          "link": "https://thedefiant.io/news/defi/hermetica-launches-bitcoin-backed-synthetic-dollar",
-          "publishedOn": "2024-07-17T12:22:35.000Z",
-          "wordCount": 1391,
-          "title": "Hermetica Launches Bitcoin-backed Synthetic Dollar",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e3329de088b69b675370c91a498a2c2369df2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e3329de088b69b675370c91a498a2c2369df2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b",
-          "author": "Samuel Haig",
-          "description": "Veda surpassed $1B in TVL less than four months after launching.",
-          "link": "https://thedefiant.io/news/defi/veda-introduces-multi-chain-yield-infrastructure-after-tvl-roars-past-usd1b",
-          "publishedOn": "2024-07-17T12:12:00.000Z",
-          "wordCount": 1434,
-          "title": "Veda Introduces Multi-Chain Yield Infrastructure After TVL Roars Past $1B",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c208459871d1b04dc4fd90d471ce7593f90b2d6-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c208459871d1b04dc4fd90d471ce7593f90b2d6-1792x1024.webp"
         }
       ]
     }
