@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-25T12:13:00.001Z</id>
+    <id>urn:2024-07-25T13:11:02.186Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-25T12:13:00.001Z</updated>
+    <updated>2024-07-25T13:11:02.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Colombia’s Largest Bank Taps Chainlink Proof of Reserves For COPW Stablecoin]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin"/>
+        <updated>2024-07-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bancolombia Group entered the web3 sector in May after 10 years of research.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yona Network Integrates Neon For EVM and SVM Compatibility On Bitcoin]]></title>
+        <id>https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin</id>
+        <link href="https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin"/>
+        <updated>2024-07-25T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Yona Network integrated the Neon Stack to combine EVM-compatibility with its Solana Virtual Machine.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clearpool Launches Institutional Credit Marketplace on Arbitrum]]></title>
+        <id>https://thedefiant.io/news/defi/clearpool-launches-institutional-credit-marketplace-on-arbitrum</id>
+        <link href="https://thedefiant.io/news/defi/clearpool-launches-institutional-credit-marketplace-on-arbitrum"/>
+        <updated>2024-07-25T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi credit protocol has received an ARB token grant from the Arbitrum Foundation to support its growth.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK FCA Fines Coinbase Group's CB Payments £3.5 Million; 14 Banks Face New Rules Amid Actions Against HSBC, TSB, and Lloyds]]></title>
         <id>https://thedefiant.io/news/regulation/uk-fca-fines-coinbase-group-s-cb-payments-ps3-5-million-14-banks-face-new-rules</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/bitgo-integrates-stacks-l2-supports-sbtc-post-nakamoto-upgrade-amid-demand"/>
         <updated>2024-07-19T09:09:45.000Z</updated>
         <summary type="html"><![CDATA[BitGo has announced its integration with the Stacks L2 platform and support for sBTC, following growing institutional demand for Bitcoin-related services]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Adds Perpetual Futures for TON, TAO, and TRB Starting July 25, 2024]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-adds-perpetual-futures-ton-tao-trb-starting-july-25-2024</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-adds-perpetual-futures-ton-tao-trb-starting-july-25-2024"/>
-        <updated>2024-07-19T09:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase has announced the addition of new perpetual future contracts on its Coinbase Advanced platform]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parcl and Propy Announce Partnership to Enhance Onchain Home Analytics, Target $50 Billion Tokenization]]></title>
-        <id>https://thedefiant.io/news/defi/parcl-propy-announce-partnership-to-enhance-onchain-home-analytics-target-50</id>
-        <link href="https://thedefiant.io/news/defi/parcl-propy-announce-partnership-to-enhance-onchain-home-analytics-target-50"/>
-        <updated>2024-07-19T09:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Parcl and Propy have announced a strategic partnership to enhance onchain home analytics and valuation]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonshot Launches iOS App for Solana Memecoins with Apple Pay, Zero Fees Until August 8]]></title>
-        <id>https://thedefiant.io/news/defi/moonshot-launches-ios-app-solana-memecoins-apple-pay-zero-fees-until-august-8</id>
-        <link href="https://thedefiant.io/news/defi/moonshot-launches-ios-app-solana-memecoins-apple-pay-zero-fees-until-august-8"/>
-        <updated>2024-07-19T09:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Moonshot, a new iOS app, has launched on July 18, allowing users to buy and sell memecoins using Apple Pay]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
