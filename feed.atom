@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-25T08:10:27.916Z</id>
+    <id>urn:2024-07-25T09:07:47.046Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-25T08:10:27.916Z</updated>
+    <updated>2024-07-25T09:07:47.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin and Ether Plunge Amid Mt. Gox Distributions]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-and-ether-plunge-amid-mt-gox-distributions</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-and-ether-plunge-amid-mt-gox-distributions"/>
+        <updated>2024-07-25T08:48:49.000Z</updated>
+        <summary type="html"><![CDATA[In the past 24 hours, $290 million of leveraged crypto positions have been liquidated.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proton Announces its Self-Custodial Bitcoin Wallet]]></title>
         <id>https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Indian cryptocurrency exchange WazirX has reportedly been hacked, resulting in the loss of over $230 million.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Schedules MATIC to POL Token Migration For September 4]]></title>
-        <id>https://thedefiant.io/news/defi/polygon-schedules-matic-to-pol-token-migration-for-september-7</id>
-        <link href="https://thedefiant.io/news/defi/polygon-schedules-matic-to-pol-token-migration-for-september-7"/>
-        <updated>2024-07-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[POL will immediately become the gas and staking token on the Polygon PoS network.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
