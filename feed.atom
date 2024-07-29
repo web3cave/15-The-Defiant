@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-29T17:06:44.800Z</id>
+    <id>urn:2024-07-29T18:09:35.360Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-29T17:06:44.800Z</updated>
+    <updated>2024-07-29T18:09:35.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Slovenia Issues First Digital Sovereign Bond In Europe]]></title>
+        <id>https://thedefiant.io/news/defi/slovenia-issues-first-digital-sovereign-bond-in-europe</id>
+        <link href="https://thedefiant.io/news/defi/slovenia-issues-first-digital-sovereign-bond-in-europe"/>
+        <updated>2024-07-29T17:10:24.000Z</updated>
+        <summary type="html"><![CDATA[The $30 million euro bond was settled through Bank of France’s tokenized cash system and BNP Paribas.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum ETFs Lag Behind Bitcoin ETFs in First Week]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-etfs-lag-behind-bitcoin-etfs-in-first-week</id>
@@ -43,6 +53,16 @@
         <summary type="html"><![CDATA[Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Launches Lido-Only V3 Deployment]]></title>
+        <id>https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment</id>
+        <link href="https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment"/>
+        <updated>2024-07-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new market exclusively supports liquidity pools for Lido’s stETH and wrapped stETH liquid staking token.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Coinbase (COIN) has seen significant positive activity recently]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atari Launches Onchain Arcade on Base Network]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/atari-launches-onchain-arcade-on-base-network</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/atari-launches-onchain-arcade-on-base-network"/>
-        <updated>2024-07-23T12:21:45.000Z</updated>
-        <summary type="html"><![CDATA[The gaming giant appears to be undeterred by the recent downturn in the blockchain gaming sector, which declined 28% in June.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Trump Actually Good For Crypto?]]></title>
-        <id>https://thedefiant.io/news/people/is-trump-actually-good-for-crypto</id>
-        <link href="https://thedefiant.io/news/people/is-trump-actually-good-for-crypto"/>
-        <updated>2024-07-23T12:19:35.000Z</updated>
-        <summary type="html"><![CDATA[The Republican presidential nominee has made crypto a central part of his campaign trail. What should we make of it?]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
