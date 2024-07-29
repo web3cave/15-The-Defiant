@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment",
+          "author": "Samuel Haig",
+          "description": "The new market exclusively supports liquidity pools for Lido’s stETH and wrapped stETH liquid staking token.",
+          "link": "https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment",
+          "publishedOn": "2024-07-29T13:00:00.000Z",
+          "wordCount": 1826,
+          "title": "Aave Launches Lido-Only V3 Deployment",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6aa2d65b6d0309fe8d9eb29f1e1ada62ad97965f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6aa2d65b6d0309fe8d9eb29f1e1ada62ad97965f-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/compound-community-accuses-notorious-whale-of-engineering-governance-attack",
           "author": "Samuel Haig",
           "description": "Compound governance passed a proposal to mobilize $24 million worth of COMP to Humpy’s goldCOMP vault, but critics say foul play is afoot.",
@@ -1329,21 +1344,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cae8cca538de31e19d60e979b8e2c772944e2dfb-1920x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
-          "author": "DeepNewz",
-          "description": "Paraguay has recently become a hub for bitcoin miners due to its cheap electricity, lax laws, and low taxes",
-          "link": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
-          "publishedOn": "2024-07-23T09:40:50.000Z",
-          "wordCount": 1231,
-          "title": "HIVE Digital to Build 100MW Bitcoin Mining Facility in Paraguay Amid 14% Tariff Hikes, Brazil Exodus",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg"
         }
       ]
     }
