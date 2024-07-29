@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/developers-compete-to-bring-smart-contracts-to-dogecoin-ecosystem",
+          "author": "Mehab Qureshi",
+          "description": "Laika and Qed Protocol are among a growing cohort of projects working to bring advanced web3 functionality to Dogecoin.",
+          "link": "https://thedefiant.io/news/blockchains/developers-compete-to-bring-smart-contracts-to-dogecoin-ecosystem",
+          "publishedOn": "2024-07-29T14:59:00.000Z",
+          "wordCount": 1966,
+          "title": "Developers Compete To Bring Smart Contracts To Dogecoin Ecosystem",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
           "author": "Mehab Qureshi",
           "description": "Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.",
@@ -66,7 +81,7 @@
           "description": "Bitcoin miners are adapting to significant changes in the industry following April's fourth halving",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-adapt-post-halving-hashrate-hits-677-eh-s",
           "publishedOn": "2024-07-29T11:08:48.000Z",
-          "wordCount": 1062,
+          "wordCount": 1075,
           "title": "Bitcoin Miners Adapt Post-Halving, Hashrate Hits 677 EH/s",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bff93f637dadccb9b03e4766d8084e5ce9cd9c3-1280x720.jpg",
@@ -176,7 +191,7 @@
           "description": "Trump, sidechains, layer 2s, and Ordinals are the most talked about topics.",
           "link": "https://thedefiant.io/news/blockchains/trump-and-bitcoin-season-2-dominate-bitcoin2024",
           "publishedOn": "2024-07-26T22:48:37.000Z",
-          "wordCount": 2414,
+          "wordCount": 2427,
           "title": "Trump and ‘Bitcoin Season 2’ Dominate Bitcoin2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/852c4bc195f7607cfedf7243d070063a8de22c28-1792x1024.webp",
@@ -236,7 +251,7 @@
           "description": "The Chang hard fork aims to shift control from centralized entities to ADA holders.",
           "link": "https://thedefiant.io/news/blockchains/cardano-validator-begin-migration-in-preparation-for-chang-hard-fork",
           "publishedOn": "2024-07-26T11:57:00.000Z",
-          "wordCount": 1723,
+          "wordCount": 1736,
           "title": "Cardano Validators Begin Migration In Preparation for Chang Hard Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90a2d8b9ad6d68677b5b6c0edb29a25716fe4bc2-1792x1024.webp",
@@ -306,7 +321,7 @@
           "description": "Sui Network has launched its major upgrade, Mysticeti, which significantly improves consensus performance",
           "link": "https://thedefiant.io/news/blockchains/sui-network-launches-mysticeti-upgrade-achieves-80-faster-consensus-p50-400ms",
           "publishedOn": "2024-07-26T08:46:03.000Z",
-          "wordCount": 996,
+          "wordCount": 1009,
           "title": "Sui Network Launches Mysticeti Upgrade, Achieves 80% Faster Consensus with p50 400ms Latency",
           "imageUrl": null
         },
@@ -481,7 +496,7 @@
           "description": "The TON Core team, in collaboration with Tonkeeper, has introduced a new smart wallet standard, the W5 Smart Wallet, which enables gasless transactions",
           "link": "https://thedefiant.io/news/blockchains/ton-core-team-launches-w5-smart-wallet-gasless-transactions",
           "publishedOn": "2024-07-25T18:45:24.000Z",
-          "wordCount": 1079,
+          "wordCount": 1092,
           "title": "TON Core Team Launches W5 Smart Wallet for Gasless Transactions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/192c8b387871b07f3b41c8cd904dc4d9c4d57081-1920x1080.jpg",
@@ -541,7 +556,7 @@
           "description": "Yona Network integrated the Neon Stack to add Ethereum Virtual Machine (EVM)-compatibility. It already runs a Solana Virtual Machine (SVM).",
           "link": "https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin",
           "publishedOn": "2024-07-25T12:55:00.000Z",
-          "wordCount": 1560,
+          "wordCount": 1573,
           "title": "Bitcoin Layer 2 Yona Network Wants to Bring Ethereum and Solana dApps to Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/13ad5cf492974557a664ab28bf9bdfa2ae998b67-1792x1024.webp",
@@ -686,7 +701,7 @@
           "description": "BitcoinOS has achieved a significant milestone by verifying a zero-knowledge proof (ZK-proof) on the Bitcoin mainnet for the first time",
           "link": "https://thedefiant.io/news/blockchains/bitcoinos-verifies-first-zero-knowledge-proof-on-bitcoin-mainnet-block-853626",
           "publishedOn": "2024-07-25T09:24:23.000Z",
-          "wordCount": 985,
+          "wordCount": 998,
           "title": "BitcoinOS Verifies First Zero-Knowledge Proof on Bitcoin Mainnet in Block 853626",
           "imageUrl": null
         },
@@ -916,7 +931,7 @@
           "description": "The project introduces the Hemi Virtual Machine and leverages Proof-of-Proof consensus to inherit security from Bitcoin.",
           "link": "https://thedefiant.io/news/blockchains/jeff-garzik-s-hemi-network-brings-evm-execution-to-bitcoin",
           "publishedOn": "2024-07-24T13:00:00.000Z",
-          "wordCount": 1695,
+          "wordCount": 1708,
           "title": "Jeff Garzik’s Hemi Network Brings EVM Execution To Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d64223edbcf6f7cbf58a6cb628deb967bb96f92a-1792x1024.webp",
@@ -946,7 +961,7 @@
           "description": "Base deployed fault proofs on its Sepolia testnet.",
           "link": "https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet",
           "publishedOn": "2024-07-24T09:09:00.000Z",
-          "wordCount": 1926,
+          "wordCount": 1939,
           "title": "Base Launches Stage 1 Decentralization On Testnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f8d4a1ff98e9a2cb86b8e707ba4723daa66be03-1792x1024.webp",
@@ -971,7 +986,7 @@
           "description": "Telegram has launched an App Store for TON-based mini apps, enabling projects to deploy applications directly within the messaging platform",
           "link": "https://thedefiant.io/news/blockchains/telegram-launches-app-store-ton-mini-apps-featuring-master-bot-anomaly-games",
           "publishedOn": "2024-07-24T08:52:23.000Z",
-          "wordCount": 1125,
+          "wordCount": 1138,
           "title": "Telegram Launches App Store for TON Mini Apps, Featuring Master Bot and Anomaly Games' Web3 Integration",
           "imageUrl": null
         },
@@ -1066,7 +1081,7 @@
           "description": "Bitcoin made a notable appearance on the Las Vegas Sphere last night, becoming the first cryptocurrency to be displayed on the iconic structure",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-becomes-first-cryptocurrency-displayed-on-las-vegas-sphere",
           "publishedOn": "2024-07-24T06:54:21.000Z",
-          "wordCount": 1009,
+          "wordCount": 1022,
           "title": "Bitcoin Becomes First Cryptocurrency Displayed on Las Vegas Sphere",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/62c4b3491147194f2d597041b2e2996a0c0dba57-1024x512.jpg",
@@ -1101,7 +1116,7 @@
           "description": "Bittensor, a decentralized machine learning network, has gained attention following the introduction of its new subnet, Graphite, which aims to address the Traveling Salesman Problem",
           "link": "https://thedefiant.io/news/blockchains/bittensor-launches-graphite-subnet-to-tackle-traveling-salesman-problem",
           "publishedOn": "2024-07-24T06:52:55.000Z",
-          "wordCount": 1081,
+          "wordCount": 1094,
           "title": "Bittensor Launches Graphite Subnet to Tackle Traveling Salesman Problem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d1cc918bf6a8c85cbcc10d18dbafbe93e191fe0-1280x720.jpg",
@@ -1331,18 +1346,8 @@
           "description": "Franklin Templeton has led an $11 million Series A funding round into Bitlayer, a move aimed at scaling the Bitcoin network",
           "link": "https://thedefiant.io/news/blockchains/franklin-templeton-leads-11-million-series-investment-bitlayer-to-scale-bitcoin",
           "publishedOn": "2024-07-23T12:12:41.000Z",
-          "wordCount": 1043,
+          "wordCount": 1056,
           "title": "Franklin Templeton Leads $11 Million Series A Investment in Bitlayer to Scale Bitcoin Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/spot-ether-etfs-expected-to-bring-5b-to-10b-inflows-boosting-liquidity-causing",
-          "author": "DeepNewz",
-          "description": "The anticipated launch of Spot Ether ETFs is expected to bring significant capital inflows into the Ethereum market, with predictions ranging from $5 billion to $10 billion",
-          "link": "https://thedefiant.io/news/markets/spot-ether-etfs-expected-to-bring-5b-to-10b-inflows-boosting-liquidity-causing",
-          "publishedOn": "2024-07-23T11:37:01.000Z",
-          "wordCount": 1230,
-          "title": "Spot Ether ETFs Expected to Bring $5B to $10B in Inflows, Boosting Liquidity and Causing Price Volatility, Says Kaiko",
           "imageUrl": null
         }
       ]
