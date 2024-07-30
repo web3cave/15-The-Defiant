@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales",
+          "author": "Mehab Qureshi",
+          "description": "The federal government transferred $2 billion worth of Bitcoin on Monday, according to Arkham Intelligence.",
+          "link": "https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales",
+          "publishedOn": "2024-07-30T10:18:04.000Z",
+          "wordCount": 1516,
+          "title": "Markets Turn Lower Amid Fears of U.S. Government Sales",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/34b29345591779c74a1a57c746d873cd91f76893-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34b29345591779c74a1a57c746d873cd91f76893-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/compound-agrees-to-distribute-30-of-reserves-to-comp-stakers-to-end-alleged-governance-attack",
           "author": "Samuel Haig",
           "description": "Compound will introduce the staking program in exchange for Humpy, a notorious whale accused of launching a governance attack against the protocol, canceling a recently passed governance proposal.",
@@ -216,7 +231,7 @@
           "description": "The U",
           "link": "https://thedefiant.io/news/markets/u-s-government-transfers-2-billion-seized-silk-road-bitcoin-splits-into-two-s",
           "publishedOn": "2024-07-29T19:25:29.000Z",
-          "wordCount": 1117,
+          "wordCount": 1119,
           "title": "U.S. Government Transfers $2 Billion in Seized Silk Road Bitcoin, Splits into Two Addresses After Trump's Speech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc582adb5427da0bc9466248468e2fdfddcd0e75-1920x1080.jpg",
@@ -291,7 +306,7 @@
           "description": "Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.",
           "link": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
           "publishedOn": "2024-07-29T13:09:39.000Z",
-          "wordCount": 1691,
+          "wordCount": 1693,
           "title": "BTC Inches Closer to $70,000 after Trump Says ‘Never Sell Your Bitcoin’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f06ea1f50b33b5fb976f175d2f02c7c827d10977-1792x1024.webp",
@@ -501,7 +516,7 @@
           "description": "At least 22 celebrities used Pump.fun to launch memecoins but most have abandoned their projects.",
           "link": "https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero",
           "publishedOn": "2024-07-26T22:31:28.000Z",
-          "wordCount": 1317,
+          "wordCount": 1319,
           "title": "Nearly Every Celebrity Token Launched in 2024 Has Gone to Zero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc6988e6b40f19dc78f10f4e6b31884a8c5584ec-1792x1024.webp",
@@ -701,7 +716,7 @@
           "description": "Crypto traders get some relief as BTC and ETH rally 5% and 3%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-bounces-back-after-brutal-crypto-selloff",
           "publishedOn": "2024-07-26T07:47:59.000Z",
-          "wordCount": 1571,
+          "wordCount": 1573,
           "title": "Bitcoin Bounces Back after Brutal Crypto Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c47242134fbfbbb06061dfa833df394c8500890-1792x1024.webp",
@@ -1111,7 +1126,7 @@
           "description": "In the past 24 hours, $290 million of leveraged crypto positions have been liquidated.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ether-plunge-amid-mt-gox-distributions",
           "publishedOn": "2024-07-25T08:48:49.000Z",
-          "wordCount": 1676,
+          "wordCount": 1678,
           "title": "Bitcoin and Ether Plunge Amid Mt. Gox Distributions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db135c859ca909667bdf1f0d3c4cbb15b9507dad-1792x1024.webp",
@@ -1123,7 +1138,7 @@
         {
           "id": "https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet",
           "author": "Squiffs",
-          "description": "Early access is now open for Proton Wallet, marking the launch of the privacy company's first crypto product.",
+          "description": "Proton, a privacy focused service provider known for its email client, opened up early access for a  self-custodial Bitcoin wallet.",
           "link": "https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet",
           "publishedOn": "2024-07-24T21:41:27.000Z",
           "wordCount": 1309,
@@ -1138,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/defi/solana-s-solend-rebrands-to-save-and-announces-plans-to-launch-stablecoin",
           "author": "Squiffs",
-          "description": "Solana lending and borrowing platform Solend is rebranding to Save and launching new financial products as it aims to claw back market share.",
+          "description": "Solend, now Save, said it wants to launch a native stablecoin, a liquid staking token, and a protocol for shorting memecoins.",
           "link": "https://thedefiant.io/news/defi/solana-s-solend-rebrands-to-save-and-announces-plans-to-launch-stablecoin",
           "publishedOn": "2024-07-24T19:03:25.000Z",
           "wordCount": 1444,
@@ -1156,7 +1171,7 @@
           "description": "Ethereum’s ETH is flat in the past 24 hours even after ETFs drew in more than $100 million of inflows.",
           "link": "https://thedefiant.io/news/markets/eth-is-flat-after-strong-etf-debut",
           "publishedOn": "2024-07-24T18:16:36.000Z",
-          "wordCount": 1570,
+          "wordCount": 1572,
           "title": "ETH is Flat After Strong ETF Debut",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c8ae8fab7650b95433994718dea95dbf8b5f719-1292x738.png",
@@ -1186,7 +1201,7 @@
           "description": "Solana, a prominent player in the cryptocurrency space, is experiencing renewed interest following a successful rebranding initiative by its money market protocol, Solend",
           "link": "https://thedefiant.io/news/markets/solana-s-sol-token-gains-momentum-to-250-amid-successful-solend-rebranding-etf",
           "publishedOn": "2024-07-24T16:25:19.000Z",
-          "wordCount": 1134,
+          "wordCount": 1136,
           "title": "Solana's SOL Token Gains Momentum to $250 Amid Successful Solend Rebranding and Ethereum ETF Speculation",
           "imageUrl": null
         },
@@ -1344,21 +1359,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a05fe0798d18c23e64f4a8a1468848da4ee9ec2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-eyes-major-investment-from-ethena-labs",
-          "author": "Mehab Qureshi",
-          "description": "The USDe issuer is looking to deploy some of its reserves in real-world assets (RWAs).",
-          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-eyes-major-investment-from-ethena-labs",
-          "publishedOn": "2024-07-24T08:17:32.000Z",
-          "wordCount": 1633,
-          "title": "BlackRock's BUIDL Eyes Major Investment from Ethena Labs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fba7cbbe1ca2fe2d79e4711cc2ba17144633aedb-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fba7cbbe1ca2fe2d79e4711cc2ba17144633aedb-1792x1024.webp"
         }
       ]
     }

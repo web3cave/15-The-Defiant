@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T10:07:38.562Z</id>
+    <id>urn:2024-07-30T11:05:17.508Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T10:07:38.562Z</updated>
+    <updated>2024-07-30T11:05:17.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Turn Lower Amid Fears of U.S. Government Sales]]></title>
+        <id>https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales</id>
+        <link href="https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales"/>
+        <updated>2024-07-30T10:18:04.000Z</updated>
+        <summary type="html"><![CDATA[The federal government transferred $2 billion worth of Bitcoin on Monday, according to Arkham Intelligence.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound Agrees To Distribute 30% Of Reserves To COMP Stakers To End Alleged Governance Attack]]></title>
         <id>https://thedefiant.io/news/defi/compound-agrees-to-distribute-30-of-reserves-to-comp-stakers-to-end-alleged-governance-attack</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet</id>
         <link href="https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet"/>
         <updated>2024-07-24T21:41:27.000Z</updated>
-        <summary type="html"><![CDATA[Early access is now open for Proton Wallet, marking the launch of the privacy company's first crypto product.]]></summary>
+        <summary type="html"><![CDATA[Proton, a privacy focused service provider known for its email client, opened up early access for a  self-custodial Bitcoin wallet.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/solana-s-solend-rebrands-to-save-and-announces-plans-to-launch-stablecoin</id>
         <link href="https://thedefiant.io/news/defi/solana-s-solend-rebrands-to-save-and-announces-plans-to-launch-stablecoin"/>
         <updated>2024-07-24T19:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Solana lending and borrowing platform Solend is rebranding to Save and launching new financial products as it aims to claw back market share.]]></summary>
+        <summary type="html"><![CDATA[Solend, now Save, said it wants to launch a native stablecoin, a liquid staking token, and a protocol for shorting memecoins.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Engaging in DeFi at scale presents unique challenges, encapsulated by the "Institutional DeFi Trilemma" model — Risk, Reward, and Capacity.]]></summary>
         <author>
             <name>IntoTheBlock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock's BUIDL Eyes Major Investment from Ethena Labs]]></title>
-        <id>https://thedefiant.io/news/defi/blackrock-s-buidl-eyes-major-investment-from-ethena-labs</id>
-        <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-eyes-major-investment-from-ethena-labs"/>
-        <updated>2024-07-24T08:17:32.000Z</updated>
-        <summary type="html"><![CDATA[The USDe issuer is looking to deploy some of its reserves in real-world assets (RWAs).]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
