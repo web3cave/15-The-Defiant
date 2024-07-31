@@ -6,6 +6,61 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/arbitrum-to-expand-orbit-chains-beyond-ethereum-ecosystem",
+          "author": "Samuel Haig",
+          "description": "Arbitrum’s community is hours away from passing a governance proposal enabling developers to launch Orbit chains outside of the Ethereum ecosystem.",
+          "link": "https://thedefiant.io/news/blockchains/arbitrum-to-expand-orbit-chains-beyond-ethereum-ecosystem",
+          "publishedOn": "2024-07-31T12:53:00.000Z",
+          "wordCount": 1833,
+          "title": "Arbitrum To Expand Orbit Chains Beyond Ethereum Ecosystem",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca109451072fde3bd0ccb82c3751df3313be4bc3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca109451072fde3bd0ccb82c3751df3313be4bc3-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/worldcoin-launches-world-id-verification-austria-on-july-31-2024",
+          "author": "DeepNewz",
+          "description": "Worldcoin has launched its World ID verification system in Austria on July 31, 2024",
+          "link": "https://thedefiant.io/news/blockchains/worldcoin-launches-world-id-verification-austria-on-july-31-2024",
+          "publishedOn": "2024-07-31T12:30:00.000Z",
+          "wordCount": 937,
+          "title": "Worldcoin Launches World ID Verification in Austria on July 31, 2024",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b24c7d21a2e83d6e01c601db619d9f819a76509-3024x1702.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4b24c7d21a2e83d6e01c601db619d9f819a76509-3024x1702.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-international-lists-physical-bitcoin-etp-on-london-stock-exchange-mini",
+          "author": "DeepNewz",
+          "description": "Fidelity International has officially listed a physical Bitcoin Exchange-Traded Product (ETP) on the London Stock Exchange",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-international-lists-physical-bitcoin-etp-on-london-stock-exchange-mini",
+          "publishedOn": "2024-07-31T12:29:48.000Z",
+          "wordCount": 1081,
+          "title": "Fidelity International Lists Physical Bitcoin ETP on London Stock Exchange; Grayscale Launches Bitcoin Mini with $BTC Ticker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed",
+          "author": "Mehab Qureshi",
+          "description": "Key events this week include the FOMC meeting and Big Tech earnings from Apple, Amazon, and Meta.",
+          "link": "https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed",
+          "publishedOn": "2024-07-31T12:14:24.000Z",
+          "wordCount": 1994,
+          "title": "XRP Rallies 8% as Bitcoin and Ether Trade Flat Ahead of Fed",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/efcb35045c2dcf7bced1b4d3791508252957d5b3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efcb35045c2dcf7bced1b4d3791508252957d5b3-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/compound-governance-attack-reveals-inherent-vulnerabilities-of-daos",
           "author": "Pedro Solimano",
           "description": "Many experts agree that DAOs are vulnerable to misaligned incentives and the whim of large tokenholders.",
@@ -56,7 +111,7 @@
           "description": "On July 30, 2024, Radix is set to launch RadQuest, a new user onboarding platform aimed at enhancing the Web3 experience",
           "link": "https://thedefiant.io/news/blockchains/radix-to-launch-radquest-enhanced-web3-onboarding-on-july-30-2024",
           "publishedOn": "2024-07-31T08:02:10.000Z",
-          "wordCount": 1024,
+          "wordCount": 1025,
           "title": "Radix to Launch RadQuest for Enhanced Web3 Onboarding on July 30, 2024",
           "imageUrl": null
         },
@@ -81,7 +136,7 @@
           "description": "According to Bernstein, the U.S. market for bitcoin mining hardware could represent a $20 billion opportunity",
           "link": "https://thedefiant.io/news/blockchains/bernstein-sees-20-billion-opportunity-u-s-bitcoin-mining-hardware-amid-trump-s",
           "publishedOn": "2024-07-31T08:01:57.000Z",
-          "wordCount": 1138,
+          "wordCount": 1139,
           "title": "Bernstein Sees $20 Billion Opportunity in U.S. Bitcoin Mining Hardware Amid Trump's Push; Bitcoin May Hit $73,000 or Fall Below $60,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3e71456cb050ca5eab77e9647771f6a25a6cd76b-800x513.jpg",
@@ -121,7 +176,7 @@
           "description": "The Ethereum community is actively discussing the potential implementation of multiple concurrent proposers (MCP) to enhance the protocol's efficiency and transaction handling",
           "link": "https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency",
           "publishedOn": "2024-07-31T08:01:20.000Z",
-          "wordCount": 1168,
+          "wordCount": 1169,
           "title": "Ethereum Community Debates Multiple Concurrent Proposers to Enhance Efficiency Amid Concerns of Transaction Spam and MEV Advantages",
           "imageUrl": null
         },
@@ -346,7 +401,7 @@
           "description": "The federal government transferred $2 billion worth of Bitcoin on Monday, according to Arkham Intelligence.",
           "link": "https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales",
           "publishedOn": "2024-07-30T10:18:04.000Z",
-          "wordCount": 1516,
+          "wordCount": 1500,
           "title": "Markets Turn Lower Amid Fears of U.S. Government Sales",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/34b29345591779c74a1a57c746d873cd91f76893-1792x1024.webp",
@@ -486,7 +541,7 @@
           "description": "Ethereum, the second-largest cryptocurrency by market capitalization, celebrates its 9th birthday on July 30, 2024",
           "link": "https://thedefiant.io/news/blockchains/ethereum-celebrates-9th-birthday-on-july-30-2024-vitalik-buterin-anticipates",
           "publishedOn": "2024-07-30T06:47:37.000Z",
-          "wordCount": 991,
+          "wordCount": 990,
           "title": "Ethereum Celebrates 9th Birthday on July 30, 2024; Vitalik Buterin Anticipates Future Innovations",
           "imageUrl": null
         },
@@ -496,7 +551,7 @@
           "description": "Interview of 3,538 people in the U.S. shows 22% of very liberal respondents own bitcoin.",
           "link": "https://thedefiant.io/news/blockchains/very-liberal-americans-are-most-likely-to-own-bitcoin-says-new-study",
           "publishedOn": "2024-07-29T21:24:58.000Z",
-          "wordCount": 1832,
+          "wordCount": 1831,
           "title": "Very Liberal Americans Are Most Likely To Own Bitcoin Says New Study",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fb97a441dfc4e78c352baefb76d55eea9dcd3dd9-1792x1024.png",
@@ -551,7 +606,7 @@
           "description": "The U",
           "link": "https://thedefiant.io/news/markets/u-s-government-transfers-2-billion-seized-silk-road-bitcoin-splits-into-two-s",
           "publishedOn": "2024-07-29T19:25:29.000Z",
-          "wordCount": 1119,
+          "wordCount": 1103,
           "title": "U.S. Government Transfers $2 Billion in Seized Silk Road Bitcoin, Splits into Two Addresses After Trump's Speech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc582adb5427da0bc9466248468e2fdfddcd0e75-1920x1080.jpg",
@@ -611,7 +666,7 @@
           "description": "Laika and Qed Protocol are among a growing cohort of projects working to bring advanced web3 functionality to Dogecoin.",
           "link": "https://thedefiant.io/news/blockchains/developers-compete-to-bring-smart-contracts-to-dogecoin-ecosystem",
           "publishedOn": "2024-07-29T14:59:00.000Z",
-          "wordCount": 1952,
+          "wordCount": 1951,
           "title": "Developers Compete To Bring Smart Contracts To Dogecoin Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp",
@@ -641,7 +696,7 @@
           "description": "Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.",
           "link": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
           "publishedOn": "2024-07-29T13:09:39.000Z",
-          "wordCount": 1693,
+          "wordCount": 1677,
           "title": "BTC Inches Closer to $70,000 after Trump Says ‘Never Sell Your Bitcoin’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f06ea1f50b33b5fb976f175d2f02c7c827d10977-1792x1024.webp",
@@ -696,7 +751,7 @@
           "description": "Bitcoin miners are adapting to significant changes in the industry following April's fourth halving",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-adapt-post-halving-hashrate-hits-677-eh-s",
           "publishedOn": "2024-07-29T11:08:48.000Z",
-          "wordCount": 1061,
+          "wordCount": 1060,
           "title": "Bitcoin Miners Adapt Post-Halving, Hashrate Hits 677 EH/s",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bff93f637dadccb9b03e4766d8084e5ce9cd9c3-1280x720.jpg",
@@ -806,7 +861,7 @@
           "description": "Trump, sidechains, layer 2s, and Ordinals are the most talked about topics.",
           "link": "https://thedefiant.io/news/blockchains/trump-and-bitcoin-season-2-dominate-bitcoin2024",
           "publishedOn": "2024-07-26T22:48:37.000Z",
-          "wordCount": 2413,
+          "wordCount": 2412,
           "title": "Trump and ‘Bitcoin Season 2’ Dominate Bitcoin2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/852c4bc195f7607cfedf7243d070063a8de22c28-1792x1024.webp",
@@ -836,7 +891,7 @@
           "description": "At least 22 celebrities used Pump.fun to launch memecoins but most have abandoned their projects.",
           "link": "https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero",
           "publishedOn": "2024-07-26T22:31:28.000Z",
-          "wordCount": 1319,
+          "wordCount": 1303,
           "title": "Nearly Every Celebrity Token Launched in 2024 Has Gone to Zero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc6988e6b40f19dc78f10f4e6b31884a8c5584ec-1792x1024.webp",
@@ -866,7 +921,7 @@
           "description": "The Chang hard fork aims to shift control from centralized entities to ADA holders.",
           "link": "https://thedefiant.io/news/blockchains/cardano-validator-begin-migration-in-preparation-for-chang-hard-fork",
           "publishedOn": "2024-07-26T11:57:00.000Z",
-          "wordCount": 1722,
+          "wordCount": 1721,
           "title": "Cardano Validators Begin Migration In Preparation for Chang Hard Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90a2d8b9ad6d68677b5b6c0edb29a25716fe4bc2-1792x1024.webp",
@@ -936,7 +991,7 @@
           "description": "Sui Network has launched its major upgrade, Mysticeti, which significantly improves consensus performance",
           "link": "https://thedefiant.io/news/blockchains/sui-network-launches-mysticeti-upgrade-achieves-80-faster-consensus-p50-400ms",
           "publishedOn": "2024-07-26T08:46:03.000Z",
-          "wordCount": 995,
+          "wordCount": 994,
           "title": "Sui Network Launches Mysticeti Upgrade, Achieves 80% Faster Consensus with p50 400ms Latency",
           "imageUrl": null
         },
@@ -1036,7 +1091,7 @@
           "description": "Crypto traders get some relief as BTC and ETH rally 5% and 3%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-bounces-back-after-brutal-crypto-selloff",
           "publishedOn": "2024-07-26T07:47:59.000Z",
-          "wordCount": 1573,
+          "wordCount": 1557,
           "title": "Bitcoin Bounces Back after Brutal Crypto Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c47242134fbfbbb06061dfa833df394c8500890-1792x1024.webp",
@@ -1111,7 +1166,7 @@
           "description": "The TON Core team, in collaboration with Tonkeeper, has introduced a new smart wallet standard, the W5 Smart Wallet, which enables gasless transactions",
           "link": "https://thedefiant.io/news/blockchains/ton-core-team-launches-w5-smart-wallet-gasless-transactions",
           "publishedOn": "2024-07-25T18:45:24.000Z",
-          "wordCount": 1078,
+          "wordCount": 1077,
           "title": "TON Core Team Launches W5 Smart Wallet for Gasless Transactions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/192c8b387871b07f3b41c8cd904dc4d9c4d57081-1920x1080.jpg",
@@ -1141,7 +1196,7 @@
           "description": "Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Cryptocurrency is a term that exploded into the mainstream in recent years, sure, but there still seems to be some confusion around the term. So what exactly is cryptocurrency? How does it work, is it just digital money, and why is it so revolutionary?",
           "link": "https://thedefiant.io/education/what-is-cryptocurrency-crypto-101",
           "publishedOn": "2024-07-25T15:54:00.000Z",
-          "wordCount": 1107,
+          "wordCount": 1108,
           "title": "What Is Cryptocurrency? | Crypto 101",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d5046850e76d98bcf6e62398febcdd84e6e0d46-640x347.jpg",
@@ -1168,10 +1223,10 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin",
           "author": "Samuel Haig",
-          "description": "Bancolombia, the largest bank in Colombia, integrated Chainlink's Proof of Reserves for its COPW stablecoin.",
+          "description": "Bancolombia Group entered the web3 sector in May after 10 years of research.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin",
           "publishedOn": "2024-07-25T13:00:00.000Z",
-          "wordCount": 1583,
+          "wordCount": 1584,
           "title": "Colombia’s Largest Bank Taps Chainlink Proof of Reserves For COPW Stablecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/734d4e76d88a631cea4ebe0d58c8b7752e13f3ec-1792x1024.webp",
@@ -1186,7 +1241,7 @@
           "description": "Yona Network integrated the Neon Stack to add Ethereum Virtual Machine (EVM)-compatibility. It already runs a Solana Virtual Machine (SVM).",
           "link": "https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin",
           "publishedOn": "2024-07-25T12:55:00.000Z",
-          "wordCount": 1559,
+          "wordCount": 1558,
           "title": "Bitcoin Layer 2 Yona Network Wants to Bring Ethereum and Solana dApps to Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/13ad5cf492974557a664ab28bf9bdfa2ae998b67-1792x1024.webp",
@@ -1324,56 +1379,6 @@
           "wordCount": 1013,
           "title": "Coinbase Plans Tokenized Money-Market Fund on Ethereum Following BlackRock's Success",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoinos-verifies-first-zero-knowledge-proof-on-bitcoin-mainnet-block-853626",
-          "author": "DeepNewz",
-          "description": "BitcoinOS has achieved a significant milestone by verifying a zero-knowledge proof (ZK-proof) on the Bitcoin mainnet for the first time",
-          "link": "https://thedefiant.io/news/blockchains/bitcoinos-verifies-first-zero-knowledge-proof-on-bitcoin-mainnet-block-853626",
-          "publishedOn": "2024-07-25T09:24:23.000Z",
-          "wordCount": 984,
-          "title": "BitcoinOS Verifies First Zero-Knowledge Proof on Bitcoin Mainnet in Block 853626",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-introduces-mpc-wallets-via-platform-api-server-signer",
-          "author": "DeepNewz",
-          "description": "Coinbase has announced the availability of MPC (Multi-Party Computation) Wallets through its Platform API",
-          "link": "https://thedefiant.io/news/defi/coinbase-introduces-mpc-wallets-via-platform-api-server-signer",
-          "publishedOn": "2024-07-25T09:24:04.000Z",
-          "wordCount": 928,
-          "title": "Coinbase Introduces MPC Wallets via Platform API with Server Signer",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39193661129734aec9e238827bd5d80294949ff4-1200x630.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39193661129734aec9e238827bd5d80294949ff4-1200x630.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/bridging-costs-to-arbitrum-drop-to-0-324-100-0-034-l2-transfers-eth-bridged-more",
-          "author": "DeepNewz",
-          "description": "Recent discussions in the cryptocurrency community highlight the increasing cost-effectiveness of bridging assets to Layer 2 networks such as Arbitrum, Base, and Optimism",
-          "link": "https://thedefiant.io/news/defi/bridging-costs-to-arbitrum-drop-to-0-324-100-0-034-l2-transfers-eth-bridged-more",
-          "publishedOn": "2024-07-25T09:23:46.000Z",
-          "wordCount": 1219,
-          "title": "Bridging Costs to Arbitrum Drop to $0.324 for $100, $0.034 for L2 Transfers; ETH Bridged More Than Doubles Since TGE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain",
-          "author": "DeepNewz",
-          "description": "AgriDex, a Solana-based marketplace, has completed its first agricultural RWA trade on the Solana blockchain",
-          "link": "https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain",
-          "publishedOn": "2024-07-25T09:23:38.000Z",
-          "wordCount": 951,
-          "title": "AgriDex Completes First Agricultural RWA Trade on Solana Blockchain",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbccfb49dbe920e2d4c71e9791fd1e643a0435c8-1200x799.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dbccfb49dbe920e2d4c71e9791fd1e643a0435c8-1200x799.jpg"
         }
       ]
     }
