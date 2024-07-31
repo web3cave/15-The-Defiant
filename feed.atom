@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-31T09:08:50.977Z</id>
+    <id>urn:2024-07-31T10:06:05.200Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-31T09:08:50.977Z</updated>
+    <updated>2024-07-31T10:06:05.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Compound Governance Attack Reveals Inherent Vulnerabilities Of DAOs]]></title>
+        <id>https://thedefiant.io/news/defi/compound-governance-attack-reveals-inherent-vulnerabilities-of-daos</id>
+        <link href="https://thedefiant.io/news/defi/compound-governance-attack-reveals-inherent-vulnerabilities-of-daos"/>
+        <updated>2024-07-31T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Many experts agree that DAOs are vulnerable to misaligned incentives and the whim of large tokenholders.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movement Labs Integrates with Polygon’s AggLayer to Improve Liquidity on Move-based L2 Chains]]></title>
         <id>https://thedefiant.io/news/defi/movement-labs-integrates-with-polygon-s-agglayer-to-improve-liquidity-on-move-based-l2-chains</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin"/>
         <updated>2024-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bancolombia Group entered the web3 sector in May after 10 years of research.]]></summary>
+        <summary type="html"><![CDATA[Bancolombia, the largest bank in Colombia, integrated Chainlink's Proof of Reserves for its COPW stablecoin.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin</id>
         <link href="https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin"/>
         <updated>2024-07-25T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Yona Network, a Bitcoin Layer 2, now supports EVM-compatibility alongside the Solana Virtual Machine.]]></summary>
+        <summary type="html"><![CDATA[Yona Network integrated the Neon Stack to add Ethereum Virtual Machine (EVM)-compatibility. It already runs a Solana Virtual Machine (SVM).]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain"/>
         <updated>2024-07-25T09:23:38.000Z</updated>
         <summary type="html"><![CDATA[AgriDex, a Solana-based marketplace, has completed its first agricultural RWA trade on the Solana blockchain]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Lyman: U.S. Considers Bitcoin as Strategic Tool Against China and Russia's Gold Reserves in Economic Statecraft]]></title>
-        <id>https://thedefiant.io/news/people/sam-lyman-u-s-considers-bitcoin-strategic-tool-against-china-russia-s-gold</id>
-        <link href="https://thedefiant.io/news/people/sam-lyman-u-s-considers-bitcoin-strategic-tool-against-china-russia-s-gold"/>
-        <updated>2024-07-25T09:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Recent discussions among U.S. policymakers highlight the potential of Bitcoin as a strategic tool in foreign policy]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
