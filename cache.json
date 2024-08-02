@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-says-ethereum-is-ready-to-support-tens-of-millions-of-on-chain-users",
+          "author": "Samuel Haig",
+          "description": "Ethereum’s chief scientist also called on Layer 2 developers to prioritize cross-L2 interoperability and improving decentralization.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-says-ethereum-is-ready-to-support-tens-of-millions-of-on-chain-users",
+          "publishedOn": "2024-08-02T10:51:00.000Z",
+          "wordCount": 2290,
+          "title": "Vitalik Says Ethereum Is Ready To Support ‘Tens Of Millions’ Of On-Chain Users",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5dcb7603259c039113ba8db1168f6f639c7eadf5-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5dcb7603259c039113ba8db1168f6f639c7eadf5-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/from-digital-scarcity-to-abundance-how-crypto-and-ai-complement-each-other",
           "author": "Momir Amidzic | IOSG Ventures",
           "description": "The convergence of crypto and AI presents a landscape ripe with innovation and potential.",
@@ -441,7 +456,7 @@
           "description": "Polyhedra’s Proof Cloud comprises a ZK prover marketplace and benchmarking platform for L2 developers.",
           "link": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
           "publishedOn": "2024-07-31T19:00:00.000Z",
-          "wordCount": 1651,
+          "wordCount": 1605,
           "title": "Polyhedra Launches ‘ZK-As-A-Service’ Platform In Partnership With Google Cloud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ff6753ec220310c8f390dbc97a7a7824b88cdff4-1792x1024.webp",
@@ -456,7 +471,7 @@
           "description": "The move sees the DMV digitize 42 million on Avalanche (AVAX) to simplify title management.",
           "link": "https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain",
           "publishedOn": "2024-07-31T17:08:32.000Z",
-          "wordCount": 1272,
+          "wordCount": 1226,
           "title": "California DMV Brings Car Titles onto the Avalanche Blockchain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/525e0ddc389166a4a12872872fd034b452ea13fa-1792x1024.png",
@@ -501,7 +516,7 @@
           "description": "Arbitrum’s community is hours away from passing a governance proposal enabling developers to launch Orbit chains outside of the Ethereum ecosystem.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-to-expand-orbit-chains-beyond-ethereum-ecosystem",
           "publishedOn": "2024-07-31T12:53:00.000Z",
-          "wordCount": 1905,
+          "wordCount": 1859,
           "title": "Arbitrum To Expand Orbit Chains Beyond Ethereum Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca109451072fde3bd0ccb82c3751df3313be4bc3-1792x1024.webp",
@@ -516,7 +531,7 @@
           "description": "Worldcoin has launched its World ID verification system in Austria on July 31, 2024",
           "link": "https://thedefiant.io/news/blockchains/worldcoin-launches-world-id-verification-austria-on-july-31-2024",
           "publishedOn": "2024-07-31T12:30:00.000Z",
-          "wordCount": 1009,
+          "wordCount": 963,
           "title": "Worldcoin Launches World ID Verification in Austria on July 31, 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b24c7d21a2e83d6e01c601db619d9f819a76509-3024x1702.jpg",
@@ -601,7 +616,7 @@
           "description": "On July 30, 2024, Radix is set to launch RadQuest, a new user onboarding platform aimed at enhancing the Web3 experience",
           "link": "https://thedefiant.io/news/blockchains/radix-to-launch-radquest-enhanced-web3-onboarding-on-july-30-2024",
           "publishedOn": "2024-07-31T08:02:10.000Z",
-          "wordCount": 1097,
+          "wordCount": 1051,
           "title": "Radix to Launch RadQuest for Enhanced Web3 Onboarding on July 30, 2024",
           "imageUrl": null
         },
@@ -626,7 +641,7 @@
           "description": "According to Bernstein, the U.S. market for bitcoin mining hardware could represent a $20 billion opportunity",
           "link": "https://thedefiant.io/news/blockchains/bernstein-sees-20-billion-opportunity-u-s-bitcoin-mining-hardware-amid-trump-s",
           "publishedOn": "2024-07-31T08:01:57.000Z",
-          "wordCount": 1211,
+          "wordCount": 1165,
           "title": "Bernstein Sees $20 Billion Opportunity in U.S. Bitcoin Mining Hardware Amid Trump's Push; Bitcoin May Hit $73,000 or Fall Below $60,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3e71456cb050ca5eab77e9647771f6a25a6cd76b-800x513.jpg",
@@ -666,7 +681,7 @@
           "description": "The Ethereum community is actively discussing the potential implementation of multiple concurrent proposers (MCP) to enhance the protocol's efficiency and transaction handling",
           "link": "https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency",
           "publishedOn": "2024-07-31T08:01:20.000Z",
-          "wordCount": 1241,
+          "wordCount": 1195,
           "title": "Ethereum Community Debates Multiple Concurrent Proposers to Enhance Efficiency Amid Concerns of Transaction Spam and MEV Advantages",
           "imageUrl": null
         },
@@ -1016,7 +1031,7 @@
           "description": "Ethereum, the second-largest cryptocurrency by market capitalization, celebrates its 9th birthday on July 30, 2024",
           "link": "https://thedefiant.io/news/blockchains/ethereum-celebrates-9th-birthday-on-july-30-2024-vitalik-buterin-anticipates",
           "publishedOn": "2024-07-30T06:47:37.000Z",
-          "wordCount": 1062,
+          "wordCount": 1016,
           "title": "Ethereum Celebrates 9th Birthday on July 30, 2024; Vitalik Buterin Anticipates Future Innovations",
           "imageUrl": null
         },
@@ -1026,7 +1041,7 @@
           "description": "Interview of 3,538 people in the U.S. shows 22% of very liberal respondents own bitcoin.",
           "link": "https://thedefiant.io/news/blockchains/very-liberal-americans-are-most-likely-to-own-bitcoin-says-new-study",
           "publishedOn": "2024-07-29T21:24:58.000Z",
-          "wordCount": 1903,
+          "wordCount": 1857,
           "title": "Very Liberal Americans Are Most Likely To Own Bitcoin Says New Study",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fb97a441dfc4e78c352baefb76d55eea9dcd3dd9-1792x1024.png",
@@ -1141,7 +1156,7 @@
           "description": "Laika and Qed Protocol are among a growing cohort of projects working to bring advanced web3 functionality to Dogecoin.",
           "link": "https://thedefiant.io/news/blockchains/developers-compete-to-bring-smart-contracts-to-dogecoin-ecosystem",
           "publishedOn": "2024-07-29T14:59:00.000Z",
-          "wordCount": 2023,
+          "wordCount": 1977,
           "title": "Developers Compete To Bring Smart Contracts To Dogecoin Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp",
@@ -1226,7 +1241,7 @@
           "description": "Bitcoin miners are adapting to significant changes in the industry following April's fourth halving",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-adapt-post-halving-hashrate-hits-677-eh-s",
           "publishedOn": "2024-07-29T11:08:48.000Z",
-          "wordCount": 1132,
+          "wordCount": 1086,
           "title": "Bitcoin Miners Adapt Post-Halving, Hashrate Hits 677 EH/s",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bff93f637dadccb9b03e4766d8084e5ce9cd9c3-1280x720.jpg",
@@ -1336,7 +1351,7 @@
           "description": "Trump, sidechains, layer 2s, and Ordinals are the most talked about topics.",
           "link": "https://thedefiant.io/news/blockchains/trump-and-bitcoin-season-2-dominate-bitcoin2024",
           "publishedOn": "2024-07-26T22:48:37.000Z",
-          "wordCount": 2484,
+          "wordCount": 2438,
           "title": "Trump and ‘Bitcoin Season 2’ Dominate Bitcoin2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/852c4bc195f7607cfedf7243d070063a8de22c28-1792x1024.webp",
@@ -1396,7 +1411,7 @@
           "description": "The Chang hard fork aims to shift control from centralized entities to ADA holders.",
           "link": "https://thedefiant.io/news/blockchains/cardano-validator-begin-migration-in-preparation-for-chang-hard-fork",
           "publishedOn": "2024-07-26T11:57:00.000Z",
-          "wordCount": 1793,
+          "wordCount": 1747,
           "title": "Cardano Validators Begin Migration In Preparation for Chang Hard Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90a2d8b9ad6d68677b5b6c0edb29a25716fe4bc2-1792x1024.webp",
@@ -1404,21 +1419,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90a2d8b9ad6d68677b5b6c0edb29a25716fe4bc2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/were-icos-really-so-bad-sentiment-is-starting-to-shift",
-          "author": "Pedro Solimano",
-          "description": "Some in the crypto community are wondering whether it was rash to completely eradicate once ubiquitous Initial Coin Offerings (ICO).",
-          "link": "https://thedefiant.io/news/defi/were-icos-really-so-bad-sentiment-is-starting-to-shift",
-          "publishedOn": "2024-07-26T11:26:00.000Z",
-          "wordCount": 3120,
-          "title": "Were ICOs Really So Bad? Sentiment is Starting to Shift",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1f6a5f96afb20635e79e08786b5ae739455e653a-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1f6a5f96afb20635e79e08786b5ae739455e653a-1792x1024.webp"
         }
       ]
     }
