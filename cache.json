@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
+          "author": "Samuel Haig",
+          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
+          "publishedOn": "2024-08-06T10:41:00.000Z",
+          "wordCount": 3541,
+          "title": "Coinbase Accused Of Campaign Finance Violations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a491f106974025bb347af32f7cc3f8fe6eda985-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a491f106974025bb347af32f7cc3f8fe6eda985-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-bounce-after-monday-rout",
           "author": "yyctrader",
           "description": "Bitcoin is trading at $56,000, up 13% from yesterday’s intraday low of $49,200.",
@@ -1173,7 +1188,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/artists-sue-the-sec-to-get-it-to-say-nfts-are-not-securities",
           "author": "Pedro Solimano",
-          "description": "Brian Frye and Jonathan Mann are taking the Commission to court to determine whether art is a security.",
+          "description": "Two artists are suing the Securities and Exchange Commission (SEC) to push the agency to declare that the non-fungible tokens (NFTs) linked to their creations are not securities.",
           "link": "https://thedefiant.io/news/regulation/artists-sue-the-sec-to-get-it-to-say-nfts-are-not-securities",
           "publishedOn": "2024-07-30T16:39:27.000Z",
           "wordCount": 3453,
@@ -1188,7 +1203,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-charges-bitclout-founder-with-fraud-and-unregistered-offering-of-securities",
           "author": "Squiffs",
-          "description": "The Securities and Exchange Commission (SEC) charged BitClout Founder Nader Al-Naji with perpetrating a multi-million dollar fraud scheme, and the offering of unregistered securities.",
+          "description": "The securities regulator claims Nader Al-Naji defrauded investors after raising over $200 million for a social-fi blockchain.",
           "link": "https://thedefiant.io/news/regulation/sec-charges-bitclout-founder-with-fraud-and-unregistered-offering-of-securities",
           "publishedOn": "2024-07-30T15:46:06.000Z",
           "wordCount": 2719,
@@ -1409,16 +1424,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fb97a441dfc4e78c352baefb76d55eea9dcd3dd9-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/doodles-nft-project-generates-50m-royalties-launches-stoodio-on-base-platform",
-          "author": "DeepNewz",
-          "description": "The Doodles NFT project has generated approximately $50 million in royalties, highlighting its cultural significance and value in the digital art space",
-          "link": "https://thedefiant.io/news/nfts-and-web3/doodles-nft-project-generates-50m-royalties-launches-stoodio-on-base-platform",
-          "publishedOn": "2024-07-29T20:58:06.000Z",
-          "wordCount": 2590,
-          "title": "Doodles NFT Project Generates $50M in Royalties, Launches Stoodio on Base Platform, Season Pass Dropping Tomorrow",
-          "imageUrl": null
         }
       ]
     }
