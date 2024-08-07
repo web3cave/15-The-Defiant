@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-07T17:07:43.449Z</id>
+    <id>urn:2024-08-07T18:09:20.431Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-07T17:07:43.449Z</updated>
+    <updated>2024-08-07T18:09:20.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Launches Bittensor and Sui Funds]]></title>
+        <id>https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds</id>
+        <link href="https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds"/>
+        <updated>2024-08-07T17:59:37.000Z</updated>
+        <summary type="html"><![CDATA[The funds will be available only to accredited investors.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hydration Extends Dominance Over Polkadot’s DeFi Ecosystem]]></title>
         <id>https://thedefiant.io/news/defi/hydration-extends-dominance-over-polkadot-s-defi-ecosystem</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud</id>
         <link href="https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud"/>
         <updated>2024-07-31T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Polyhedra’s Proof Cloud comprises a ZK prover marketplace and benchmarking platform for L2 developers.]]></summary>
+        <summary type="html"><![CDATA[Polyhedra developed a marketplace and benchmarking platform for ZK provers in partnership with Google Cloud.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain</id>
         <link href="https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain"/>
         <updated>2024-07-31T17:08:32.000Z</updated>
-        <summary type="html"><![CDATA[California’s Department of Motor Vehicles (DMV) is digitizing 42 million car titles in order to modernize the title transfer process.]]></summary>
+        <summary type="html"><![CDATA[The move sees the DMV digitize 42 million vehicle titles on Avalanche to simplify management.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/sec-launches-information-page-terraform-labs-investors-kwon-to-transfer-204m"/>
         <updated>2024-07-31T08:01:36.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission (SEC) has launched an information page for investors harmed by the collapse of Terraform Labs.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Community Debates Multiple Concurrent Proposers to Enhance Efficiency Amid Concerns of Transaction Spam and MEV Advantages]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency"/>
-        <updated>2024-07-31T08:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum community is actively discussing the potential implementation of multiple concurrent proposers (MCP) to enhance the protocol's efficiency and transaction handling]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

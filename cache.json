@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds",
+          "author": "Pedro Solimano",
+          "description": "The funds will be available only to accredited investors.",
+          "link": "https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds",
+          "publishedOn": "2024-08-07T17:59:37.000Z",
+          "wordCount": 3101,
+          "title": "Grayscale Launches Bittensor and Sui Funds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ec6e281af71ca5a9ef356695eb4ae821f9dcbca-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9ec6e281af71ca5a9ef356695eb4ae821f9dcbca-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hydration-extends-dominance-over-polkadot-s-defi-ecosystem",
           "author": "Samuel Haig",
           "description": "Hydration boasts more than $40 million in TVL and is consistently hosting seven-figure daily volumes.",
@@ -1153,7 +1168,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
           "author": "Samuel Haig",
-          "description": "Polyhedra’s Proof Cloud comprises a ZK prover marketplace and benchmarking platform for L2 developers.",
+          "description": "Polyhedra developed a marketplace and benchmarking platform for ZK provers in partnership with Google Cloud.",
           "link": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
           "publishedOn": "2024-07-31T19:00:00.000Z",
           "wordCount": 3090,
@@ -1168,7 +1183,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain",
           "author": "Squiffs",
-          "description": "California’s Department of Motor Vehicles (DMV) is digitizing 42 million car titles in order to modernize the title transfer process.",
+          "description": "The move sees the DMV digitize 42 million vehicle titles on Avalanche to simplify management.",
           "link": "https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain",
           "publishedOn": "2024-07-31T17:08:32.000Z",
           "wordCount": 2711,
@@ -1389,16 +1404,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd11ab44330ba75ec45ab1478fbe98d336fafd07-1920x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency",
-          "author": "DeepNewz",
-          "description": "The Ethereum community is actively discussing the potential implementation of multiple concurrent proposers (MCP) to enhance the protocol's efficiency and transaction handling",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-community-debates-multiple-concurrent-proposers-to-enhance-efficiency",
-          "publishedOn": "2024-07-31T08:01:20.000Z",
-          "wordCount": 2680,
-          "title": "Ethereum Community Debates Multiple Concurrent Proposers to Enhance Efficiency Amid Concerns of Transaction Spam and MEV Advantages",
-          "imageUrl": null
         }
       ]
     }
