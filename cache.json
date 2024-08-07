@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/solana-s-dominance-versus-ethereum-reaches-new-highs",
+          "author": "Squiffs",
+          "description": "SOL/ETH is at all-time highs in spite of the recent Ethereum ETF.",
+          "link": "https://thedefiant.io/news/markets/solana-s-dominance-versus-ethereum-reaches-new-highs",
+          "publishedOn": "2024-08-07T21:12:33.000Z",
+          "wordCount": 3105,
+          "title": "Solana’s Dominance Versus Ethereum Reaches New Highs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc38780a8e3fb12695d89c2097cc686c77a76c22-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc38780a8e3fb12695d89c2097cc686c77a76c22-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds",
           "author": "Pedro Solimano",
           "description": "The funds will be available only to accredited investors.",
@@ -1153,7 +1168,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/tether-reports-usd5-2-billion-profit-in-first-half-of-2024",
           "author": "Squiffs",
-          "description": "The stablecoin issuer reported record-breaking profits, treasury bill ownership, and reserves.",
+          "description": "Tether Holdings LTD, the largest stablecoin issuer in the world, reported it made record profits in the first half of the year.",
           "link": "https://thedefiant.io/news/cefi/tether-reports-usd5-2-billion-profit-in-first-half-of-2024",
           "publishedOn": "2024-07-31T20:36:56.000Z",
           "wordCount": 2858,
@@ -1168,7 +1183,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
           "author": "Samuel Haig",
-          "description": "Polyhedra developed a marketplace and benchmarking platform for ZK provers in partnership with Google Cloud.",
+          "description": "Polyhedra’s Proof Cloud comprises a ZK prover marketplace and benchmarking platform for L2 developers.",
           "link": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
           "publishedOn": "2024-07-31T19:00:00.000Z",
           "wordCount": 3090,
@@ -1389,21 +1404,6 @@
           "wordCount": 2622,
           "title": "Coinbase Eliminates Fees for Transfers to Base, Enhances Mobile and Web Wallet App",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-launches-information-page-terraform-labs-investors-kwon-to-transfer-204m",
-          "author": "DeepNewz",
-          "description": "The U.S. Securities and Exchange Commission (SEC) has launched an information page for investors harmed by the collapse of Terraform Labs.",
-          "link": "https://thedefiant.io/news/regulation/sec-launches-information-page-terraform-labs-investors-kwon-to-transfer-204m",
-          "publishedOn": "2024-07-31T08:01:36.000Z",
-          "wordCount": 2595,
-          "title": "SEC Launches Information Page for Terraform Labs Investors, Kwon to Transfer $204M",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd11ab44330ba75ec45ab1478fbe98d336fafd07-1920x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd11ab44330ba75ec45ab1478fbe98d336fafd07-1920x1080.jpg"
         }
       ]
     }
