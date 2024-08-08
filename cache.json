@@ -6,6 +6,71 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/metis-integrates-chainlink-ccip-for-cross-chain-functionality",
+          "author": "Samuel Haig",
+          "description": "Chainlink’s Cross-Chain Interoperability Protocol has hosted $198 million worth of transfers.",
+          "link": "https://thedefiant.io/news/blockchains/metis-integrates-chainlink-ccip-for-cross-chain-functionality",
+          "publishedOn": "2024-08-08T16:00:00.000Z",
+          "wordCount": 3181,
+          "title": "Metis Integrates Chainlink CCIP For Cross-Chain Functionality",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4428ec90cf8b003c6a1c9f57577065a9570d911-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a4428ec90cf8b003c6a1c9f57577065a9570d911-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/california-based-bitgo-secures-major-payment-institution-license-from-singapore-s-monetary",
+          "author": "DeepNewz",
+          "description": "BitGo, a California-based digital asset trust and security company, has secured a Major Payment Institution license from the Monetary Authority of Singapore",
+          "link": "https://thedefiant.io/news/cefi/california-based-bitgo-secures-major-payment-institution-license-from-singapore-s-monetary",
+          "publishedOn": "2024-08-08T14:42:39.000Z",
+          "wordCount": 2528,
+          "title": "California-based BitGo Secures Major Payment Institution License from Singapore's Monetary Authority",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2056a9146ff32895b5d6cea81cd68f4f9bda75f1-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2056a9146ff32895b5d6cea81cd68f4f9bda75f1-1280x720.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/solana-surpasses-bnb-to-fourth-largest-cryptocurrency",
+          "author": "DeepNewz",
+          "description": "Solana (SOL) has surpassed Binance Coin (BNB) in market capitalization to become the fourth largest cryptocurrency in the world",
+          "link": "https://thedefiant.io/news/markets/solana-surpasses-bnb-to-fourth-largest-cryptocurrency",
+          "publishedOn": "2024-08-08T14:42:36.000Z",
+          "wordCount": 2434,
+          "title": "Solana Surpasses BNB to Become Fourth Largest Cryptocurrency",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/injective-partners-elliptic-gains-utila-support-highlights-inj-token",
+          "author": "DeepNewz",
+          "description": "Injective, a blockchain platform, has integrated with Elliptic, a leading blockchain analytics service",
+          "link": "https://thedefiant.io/news/blockchains/injective-partners-elliptic-gains-utila-support-highlights-inj-token",
+          "publishedOn": "2024-08-08T14:41:41.000Z",
+          "wordCount": 2492,
+          "title": "Injective Partners with Elliptic; Gains Utila Support and Highlights $INJ Token",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/animoca-brands-partners-lamborghini-to-enhance-automotive-brand-engagement",
+          "author": "DeepNewz",
+          "description": "Animoca Brands has announced a partnership with luxury car manufacturer Lamborghini",
+          "link": "https://thedefiant.io/news/nfts-and-web3/animoca-brands-partners-lamborghini-to-enhance-automotive-brand-engagement",
+          "publishedOn": "2024-08-08T14:41:20.000Z",
+          "wordCount": 2453,
+          "title": "Animoca Brands Partners with Lamborghini to Enhance Automotive Brand Engagement",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/284359671243741ddd61dfd53ba07be38cae588c-2048x820.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/284359671243741ddd61dfd53ba07be38cae588c-2048x820.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/brazil-approves-spot-solana-etf",
           "author": "Mehab Qureshi",
           "description": "SOL has outperformed in recent days, with the SOL/ETH ratio hitting an all-time high.",
@@ -1093,7 +1158,7 @@
         {
           "id": "https://thedefiant.io/news/defi/solana-flips-ethereum-in-monthly-dex-volume-for-first-time-ever",
           "author": "Pedro Solimano",
-          "description": "Solana’s DEXs processed $54 billion of trading volume in July, while Ethereum’s DEXs did $52 billion.",
+          "description": "Solana’s decentralized exchanges (DEXs) are processing the most onchain volume in Web3, beating out Ethereum, which has been the long-time holder of that title.",
           "link": "https://thedefiant.io/news/defi/solana-flips-ethereum-in-monthly-dex-volume-for-first-time-ever",
           "publishedOn": "2024-08-01T20:39:20.000Z",
           "wordCount": 3131,
@@ -1334,81 +1399,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a0dbc8d14c9f917b0050c4462d7a0ee68f1a5fa-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eth-bounces-back-amid-etf-inflows",
-          "author": "Squiffs",
-          "description": "The ETH/BTC ratio rebounded as spot Ether ETF flows turned positive on July 30.",
-          "link": "https://thedefiant.io/news/markets/eth-bounces-back-amid-etf-inflows",
-          "publishedOn": "2024-08-01T07:29:37.000Z",
-          "wordCount": 2743,
-          "title": "ETH Bounces Back Amid ETF Inflows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/916b432282f2594e8c3dad36bf2e69d34ff730b9-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/916b432282f2594e8c3dad36bf2e69d34ff730b9-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/tether-reports-usd5-2-billion-profit-in-first-half-of-2024",
-          "author": "Squiffs",
-          "description": "The stablecoin issuer reported record-breaking profits, treasury bill ownership, and reserves.",
-          "link": "https://thedefiant.io/news/cefi/tether-reports-usd5-2-billion-profit-in-first-half-of-2024",
-          "publishedOn": "2024-07-31T20:36:56.000Z",
-          "wordCount": 2858,
-          "title": "Tether Reports $5.2 Billion Profit in First Half of 2024",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fba7cbbe1ca2fe2d79e4711cc2ba17144633aedb-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fba7cbbe1ca2fe2d79e4711cc2ba17144633aedb-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
-          "author": "Samuel Haig",
-          "description": "Polyhedra’s Proof Cloud comprises a ZK prover marketplace and benchmarking platform for L2 developers.",
-          "link": "https://thedefiant.io/news/blockchains/polyhedra-launches-zk-as-a-service-platform-in-partnership-with-google-cloud",
-          "publishedOn": "2024-07-31T19:00:00.000Z",
-          "wordCount": 3090,
-          "title": "Polyhedra Launches ‘ZK-As-A-Service’ Platform In Partnership With Google Cloud",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ff6753ec220310c8f390dbc97a7a7824b88cdff4-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ff6753ec220310c8f390dbc97a7a7824b88cdff4-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain",
-          "author": "Squiffs",
-          "description": "The move sees the DMV digitize 42 million vehicle titles on Avalanche to simplify management.",
-          "link": "https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain",
-          "publishedOn": "2024-07-31T17:08:32.000Z",
-          "wordCount": 2711,
-          "title": "California DMV Brings Car Titles onto the Avalanche Blockchain",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/525e0ddc389166a4a12872872fd034b452ea13fa-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/525e0ddc389166a4a12872872fd034b452ea13fa-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/degens-can-now-make-memecoins-from-tweets",
-          "author": "Pedro Solimano",
-          "description": "Four steps and users can launch their memecoins on makenow.meme.",
-          "link": "https://thedefiant.io/news/defi/degens-can-now-make-memecoins-from-tweets",
-          "publishedOn": "2024-07-31T16:49:44.000Z",
-          "wordCount": 3059,
-          "title": "Degens Can Now Make Memecoins From Tweets",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd1c6d5cafd81b70fb5c87498c6684500abc8966-1792x1024.webp"
         }
       ]
     }
