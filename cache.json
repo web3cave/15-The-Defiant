@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability",
+          "author": "Pedro Solimano",
+          "description": "A Discord alert triggered core contributors to quickly push out a fix this week.",
+          "link": "https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability",
+          "publishedOn": "2024-08-09T21:35:07.000Z",
+          "wordCount": 3244,
+          "title": "Solana Developers Quietly Patched a Critical Vulnerability",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/189b9bb687aa897526fa4cf698a7014d5e61e89c-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/189b9bb687aa897526fa4cf698a7014d5e61e89c-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ripple-starts-testing-its-rlusd-stablecoin-on-xrpledger-and-ethereum",
           "author": "Pedro Solimano",
           "description": "Tests are conducted in private beta until the token receives regulatory clearance.",
@@ -1108,7 +1123,7 @@
         {
           "id": "https://thedefiant.io/news/people/justin-sun-wants-to-save-crypto-with-usd1-billion-fund",
           "author": "Pedro Solimano",
-          "description": "The fund will allegedly fight FUD, invest more, and provide liquidity.",
+          "description": "Justin Sun, the founder of Tron, is out to save the industry amid a crushing sell off in global financial markets across.",
           "link": "https://thedefiant.io/news/people/justin-sun-wants-to-save-crypto-with-usd1-billion-fund",
           "publishedOn": "2024-08-05T16:25:35.000Z",
           "wordCount": 3478,
@@ -1344,21 +1359,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/80e25537f41cff169743b137aa263317e626f6ec-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/genesis-moves-usd1-5-billion-in-btc-and-eth-fueling-market-fears",
-          "author": "Squiffs",
-          "description": "Investors are speculating the  now-bankrupt crypto lender moved over 16,000 BTC and 166,000 ETH to begin repayments.",
-          "link": "https://thedefiant.io/news/cefi/genesis-moves-usd1-5-billion-in-btc-and-eth-fueling-market-fears",
-          "publishedOn": "2024-08-02T18:25:44.000Z",
-          "wordCount": 2711,
-          "title": "Genesis Moves $1.5 Billion in BTC and ETH, Fueling Market Fears",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b6d522888fca4ed975e2eec9be6e9a92c0e7031-828x470.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b6d522888fca4ed975e2eec9be6e9a92c0e7031-828x470.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-09T21:06:28.612Z</id>
+    <id>urn:2024-08-09T22:08:35.834Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-09T21:06:28.612Z</updated>
+    <updated>2024-08-09T22:08:35.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Developers Quietly Patched a Critical Vulnerability]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability"/>
+        <updated>2024-08-09T21:35:07.000Z</updated>
+        <summary type="html"><![CDATA[A Discord alert triggered core contributors to quickly push out a fix this week.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple Starts Testing Its RLUSD Stablecoin on XRPLedger and Ethereum]]></title>
         <id>https://thedefiant.io/news/blockchains/ripple-starts-testing-its-rlusd-stablecoin-on-xrpledger-and-ethereum</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/people/justin-sun-wants-to-save-crypto-with-usd1-billion-fund</id>
         <link href="https://thedefiant.io/news/people/justin-sun-wants-to-save-crypto-with-usd1-billion-fund"/>
         <updated>2024-08-05T16:25:35.000Z</updated>
-        <summary type="html"><![CDATA[The fund will allegedly fight FUD, invest more, and provide liquidity.]]></summary>
+        <summary type="html"><![CDATA[Justin Sun, the founder of Tron, is out to save the industry amid a crushing sell off in global financial markets across.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Of 1.58 million tokens that launched, barely 1.4% made it to Raydium for open trading.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis Moves $1.5 Billion in BTC and ETH, Fueling Market Fears]]></title>
-        <id>https://thedefiant.io/news/cefi/genesis-moves-usd1-5-billion-in-btc-and-eth-fueling-market-fears</id>
-        <link href="https://thedefiant.io/news/cefi/genesis-moves-usd1-5-billion-in-btc-and-eth-fueling-market-fears"/>
-        <updated>2024-08-02T18:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Investors are speculating the  now-bankrupt crypto lender moved over 16,000 BTC and 166,000 ETH to begin repayments.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
