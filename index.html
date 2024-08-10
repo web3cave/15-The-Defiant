@@ -59,6 +59,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-10 datetime="2024-08-10T16:00:00.000Z">2024-08-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-10 datetime="2024-08-10T16:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch"
+                        open
+                      >
+                        <summary class="article-expander__title">Uniswap Layer 2 Addresses are Up 350% - But There&#x27;s a Catch</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>June and July set consecutive all time high unique L2 addresses on Uniswap.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-09 datetime="2024-08-09T21:35:07.000Z">2024-08-09</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-09 datetime="2024-08-09T21:35:07.000Z"></time>
           </button>
@@ -1813,7 +1860,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/2ff11cb5868b81c880fb141e9a8513f2dfe3650b-828x473.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Nomad bridge and PancakeBunny hackers are buying ETH.</span>
+                              <span>Hackers who exploited the Nomad cross-chain bridge to steal $200 million, leveraged the cryptocurrency market crash to purchase ETH.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
@@ -1833,7 +1880,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/2f78389c5226ba2aeccd917dbf4ff9cdb58b7a7c-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Justin Sun, the founder of Tron, is out to save the industry amid a crushing sell off in global financial markets across.</span>
+                              <span>The fund will allegedly fight FUD, invest more, and provide liquidity.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
@@ -2166,26 +2213,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/markets/almost-99-of-pump-fun-tokens-fail"
-                        open
-                      >
-                        <summary class="article-expander__title">Almost 99% of Pump.fun Tokens Fail</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/markets/almost-99-of-pump-fun-tokens-fail">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/80e25537f41cff169743b137aa263317e626f6ec-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Of 1.58 million tokens that launched, barely 1.4% made it to Raydium for open trading.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2193,8 +2220,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10332515370">
-        <time id="build-timestamp" datetime="2024-08-10T15:06:01.996Z">2024-08-10T15:06:01.996Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10332858156">
+        <time id="build-timestamp" datetime="2024-08-10T16:08:19.560Z">2024-08-10T16:08:19.560Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
