@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-12T16:08:58.301Z</id>
+    <id>urn:2024-08-12T17:06:59.331Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-12T16:08:58.301Z</updated>
+    <updated>2024-08-12T17:06:59.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Canto Blockchain Suffers Multi-Day Outage Due To 'Consensus Problem']]></title>
+        <id>https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem</id>
+        <link href="https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem"/>
+        <updated>2024-08-12T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Canto blockchain last processed a transaction two days ago.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superstate Integrates Chainlink For Tokenized Treasuries Data]]></title>
+        <id>https://thedefiant.io/news/defi/superstate-integrates-chainlink-for-tokenized-treasuries-data</id>
+        <link href="https://thedefiant.io/news/defi/superstate-integrates-chainlink-for-tokenized-treasuries-data"/>
+        <updated>2024-08-12T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Superstate said the integration bolsters the composability of its USTB token within DeFi.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Plans To Unlock Superchain Interoperability Next Year]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations"/>
         <updated>2024-08-06T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase is pushing back against allegations it violated campaign financing laws by donating to pro-crypto PACs while serving as a federal contractor.]]></summary>
+        <summary type="html"><![CDATA[Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Tory Green is the Co-Founder and CEO of io.net, which is a decentralized computing network to power to ML applications and a prominent project in the DePIN category. Their primary mission is to unlock fair access to computing power by assembling over 1 million GPUs from independent data centers, crypto miners, and projects like Filecoin and Render, aiming to decentralize the AI stack and reduce big tech's dominance in the AI industry. They recently made headlines when their CEO stepped down just days before their token launch. In this episode, Tory shares the behind-the-scenes details of this departure and provides an in-depth look into everything io.net.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Crash Wipes Out DeFi Borrowers As All-Time Aave v3 Liquidations Double]]></title>
-        <id>https://thedefiant.io/news/defi/crypto-crash-wipes-out-defi-borrowers-as-all-time-aave-v3-liquidations-double</id>
-        <link href="https://thedefiant.io/news/defi/crypto-crash-wipes-out-defi-borrowers-as-all-time-aave-v3-liquidations-double"/>
-        <updated>2024-08-05T10:02:00.000Z</updated>
-        <summary type="html"><![CDATA[DeFi lending protocols processed more than $341 million worth of liquidations on Aug. 5.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jump Crypto Appears to be Liquidating Millions in Crypto]]></title>
-        <id>https://thedefiant.io/news/markets/jump-crypto-appears-to-be-liquidating-millions-in-crypto</id>
-        <link href="https://thedefiant.io/news/markets/jump-crypto-appears-to-be-liquidating-millions-in-crypto"/>
-        <updated>2024-08-05T07:14:53.000Z</updated>
-        <summary type="html"><![CDATA[The trading firm has transferred $277 million of ETH to exchanges over the past 10 days amid a deepening selloff across crypto markets.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>

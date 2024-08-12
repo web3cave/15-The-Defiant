@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem",
+          "author": "Mehab Qureshi",
+          "description": "Canto blockchain last processed a transaction two days ago.",
+          "link": "https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem",
+          "publishedOn": "2024-08-12T16:59:00.000Z",
+          "wordCount": 2884,
+          "title": "Canto Blockchain Suffers Multi-Day Outage Due To 'Consensus Problem'",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d594772cf226bd79d83506dbd9432c752ad5e820-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d594772cf226bd79d83506dbd9432c752ad5e820-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/superstate-integrates-chainlink-for-tokenized-treasuries-data",
+          "author": "Squiffs",
+          "description": "Superstate said the integration bolsters the composability of its USTB token within DeFi.",
+          "link": "https://thedefiant.io/news/defi/superstate-integrates-chainlink-for-tokenized-treasuries-data",
+          "publishedOn": "2024-08-12T16:45:00.000Z",
+          "wordCount": 3065,
+          "title": "Superstate Integrates Chainlink For Tokenized Treasuries Data",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/90376fde6b887a63eed7dd7fa449d771bfc16a9b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90376fde6b887a63eed7dd7fa449d771bfc16a9b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year",
           "author": "Samuel Haig",
           "description": "The launch of native Superchain interoperability is designed to make transacting across ecosystem networks feel like using a single chain.",
@@ -1123,7 +1153,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
           "author": "Samuel Haig",
-          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to pro-crypto PACs while serving as a federal contractor.",
+          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.",
           "link": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
           "publishedOn": "2024-08-06T10:41:00.000Z",
           "wordCount": 3502,
@@ -1334,36 +1364,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7de69bbc694ad21a9ebbf069089ba0015543c6bf-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/crypto-crash-wipes-out-defi-borrowers-as-all-time-aave-v3-liquidations-double",
-          "author": "Samuel Haig",
-          "description": "DeFi lending protocols processed more than $341 million worth of liquidations on Aug. 5.",
-          "link": "https://thedefiant.io/news/defi/crypto-crash-wipes-out-defi-borrowers-as-all-time-aave-v3-liquidations-double",
-          "publishedOn": "2024-08-05T10:02:00.000Z",
-          "wordCount": 3388,
-          "title": "Crypto Crash Wipes Out DeFi Borrowers As All-Time Aave v3 Liquidations Double",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59d11e83aa7d6d180258b2110741399d583304fb-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59d11e83aa7d6d180258b2110741399d583304fb-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/jump-crypto-appears-to-be-liquidating-millions-in-crypto",
-          "author": "Mehab Qureshi",
-          "description": "The trading firm has transferred $277 million of ETH to exchanges over the past 10 days amid a deepening selloff across crypto markets.",
-          "link": "https://thedefiant.io/news/markets/jump-crypto-appears-to-be-liquidating-millions-in-crypto",
-          "publishedOn": "2024-08-05T07:14:53.000Z",
-          "wordCount": 3272,
-          "title": "Jump Crypto Appears to be Liquidating Millions in Crypto",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/375c20ce6819a2a3028029800cd3227a22a9ffbd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/375c20ce6819a2a3028029800cd3227a22a9ffbd-1792x1024.webp"
         }
       ]
     }
