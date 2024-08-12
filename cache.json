@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/customers-bancorp-becomes-latest-crypto-friendly-bank-hit-by-enforcement-action",
+          "author": "Mehab Qureshi",
+          "description": "Web3 advocates described the move as the latest chapter in a coordinated attack on U.S. banks providing services to crypto firms.",
+          "link": "https://thedefiant.io/news/regulation/customers-bancorp-becomes-latest-crypto-friendly-bank-hit-by-enforcement-action",
+          "publishedOn": "2024-08-12T12:26:00.000Z",
+          "wordCount": 3711,
+          "title": "Customers Bancorp Becomes Latest Crypto-Friendly Bank Hit By Enforcement Action",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aef117595773b501e46da499c177de431673c2bb-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aef117595773b501e46da499c177de431673c2bb-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/makerdao-mulls-offboarding-wbtc-amid-wrapped-bitcoin-restructure",
           "author": "Samuel Haig",
           "description": "BiT Global and Justin Sun’ will soon exercise control over Wrapped Bitcoin through a joint venture with BitGo.",
@@ -26,9 +41,14 @@
           "description": "June and July set consecutive all time high unique L2 addresses on Uniswap.",
           "link": "https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch",
           "publishedOn": "2024-08-10T16:00:00.000Z",
-          "wordCount": 3133,
+          "wordCount": 3185,
           "title": "Uniswap Layer 2 Addresses are Up 350% - But There's a Catch",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf7ad947b1dfe1e3445a8dbb00cd08e32ebc492d-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf7ad947b1dfe1e3445a8dbb00cd08e32ebc492d-1792x1024.webp"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability",
@@ -81,7 +101,7 @@
           "description": "A recent Zoom meeting between high-ranking Democrats and crypto industry execs reportedly went poorly.",
           "link": "https://thedefiant.io/news/regulation/is-it-too-late-for-the-democratic-party-to-court-crypto-votes",
           "publishedOn": "2024-08-09T14:53:00.000Z",
-          "wordCount": 3601,
+          "wordCount": 3661,
           "title": "Is It Too Late For The Democratic Party To Court Crypto Votes?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/001e9e2f44f6f766e7021125fda18b6b211567e3-1792x1024.webp",
@@ -176,7 +196,7 @@
           "description": "A recent report from the New York Federal Reserve indicates that sanctions imposed on Tornado Cash have yielded mixed results",
           "link": "https://thedefiant.io/news/regulation/ny-fed-report-shows-mixed-impact-tornado-cash-sanctions-okx-to-block-accounts",
           "publishedOn": "2024-08-09T12:33:26.000Z",
-          "wordCount": 2628,
+          "wordCount": 2688,
           "title": "NY Fed Report Shows Mixed Impact of Tornado Cash Sanctions; OKX to Block Accounts Interacting with Garantex, Ethereum Builders Compliance",
           "imageUrl": null
         },
@@ -196,7 +216,7 @@
           "description": "Turkey has announced a list of 47 cryptocurrency companies that have applied for licenses as new regulations take effect",
           "link": "https://thedefiant.io/news/regulation/turkey-lists-47-crypto-firms-seeking-licenses-including-bitfinex-binance-tr-okx",
           "publishedOn": "2024-08-09T12:33:12.000Z",
-          "wordCount": 2500,
+          "wordCount": 2560,
           "title": "Turkey Lists 47 Crypto Firms Seeking Licenses, Including Bitfinex, Binance TR, OKX TR",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c34fb710bc996d9869280c8454bba3e159470723-250x250.png",
@@ -226,7 +246,7 @@
           "description": "Nearly half of the CFTC's cases in the last fiscal year were related to digital assets.",
           "link": "https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case",
           "publishedOn": "2024-08-09T10:08:50.000Z",
-          "wordCount": 3374,
+          "wordCount": 3434,
           "title": "CFTC Awards $1 Million to Whistleblower in Digital Asset Case",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d4e0d5221c87d42c16e924a99d55c43ec632b47-1792x1024.webp",
@@ -456,7 +476,7 @@
           "description": "One law allows for mining operations and the other is an experimental regime for cross-border payments with crypto.",
           "link": "https://thedefiant.io/news/regulation/russia-legalizes-crypto-mining-and-gives-central-bank-crypto-specific-authority",
           "publishedOn": "2024-08-08T17:33:54.000Z",
-          "wordCount": 3236,
+          "wordCount": 3296,
           "title": "Russia Legalizes Crypto Mining and Gives Central Bank Crypto-Specific Authority",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3016824c39617815de40bb049978e32ec04099ee-1792x1024.webp",
@@ -581,7 +601,7 @@
           "description": "Judge Torres found that Ripple’s institutional sales of XRP comprised unlicensed securities sales.",
           "link": "https://thedefiant.io/news/regulation/court-fines-ripple-labs-usd125m-for-securities-law-violations",
           "publishedOn": "2024-08-08T11:00:00.000Z",
-          "wordCount": 3063,
+          "wordCount": 3123,
           "title": "Court Fines Ripple Labs $125M For Securities Law Violations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a9ee1532778b057fcb167065f711cb70b631672-1792x1024.webp",
@@ -681,7 +701,7 @@
           "description": "A New York judge has approved a $12.7 billion settlement involving the defunct cryptocurrency exchange FTX",
           "link": "https://thedefiant.io/news/regulation/new-york-judge-approves-12-7-billion-settlement-ftx-alameda-cftc-to-repay",
           "publishedOn": "2024-08-08T07:02:47.000Z",
-          "wordCount": 2466,
+          "wordCount": 2526,
           "title": "New York Judge Approves $12.7 Billion Settlement for FTX, Alameda, and CFTC to Repay Creditors",
           "imageUrl": null
         },
@@ -706,7 +726,7 @@
           "description": "The IMF said that many potential risks associated with Bitcoin “have not yet materialized.”",
           "link": "https://thedefiant.io/news/regulation/imf-says-it-s-willing-to-overlook-bitcoin-risk-in-el-salvador-agreement",
           "publishedOn": "2024-08-08T06:27:23.000Z",
-          "wordCount": 3125,
+          "wordCount": 3185,
           "title": "IMF Says It’s Willing to Overlook Bitcoin Risk in El Salvador Agreement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a3b1ae31648ea288e8df810aae25a3dd3fbf29fd-1792x1024.webp",
@@ -1016,7 +1036,7 @@
           "description": "The Securities and Exchange Commission (SEC) is pushing back against Coinbase's subpoena requests for documents related to SEC Chair Gary Gensler",
           "link": "https://thedefiant.io/news/regulation/sec-pushes-back-against-coinbase-s-subpoena-requests-gary-gensler-s-emails",
           "publishedOn": "2024-08-06T12:18:41.000Z",
-          "wordCount": 2513,
+          "wordCount": 2573,
           "title": "SEC Pushes Back Against Coinbase's Subpoena Requests for Gary Gensler's Emails",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/39a18de732f56bf5531e397be82b8524785f7d6b-1920x1080.jpg",
@@ -1103,7 +1123,7 @@
         {
           "id": "https://thedefiant.io/news/markets/stablecoins-survive-stress-test-amid-extreme-volatility",
           "author": "Squiffs",
-          "description": "Blast’s USDB recovered from a de-peg event and Tether dominance rose by 7%.",
+          "description": "The stablecoin market endured high degrees of volatility over the weekend as the crypto market crashed. Only two of the top 20 stablecoins by market capitalization lost their peg for more than an hour, and both of them rebounded back by 1:00 am EST Monday.",
           "link": "https://thedefiant.io/news/markets/stablecoins-survive-stress-test-amid-extreme-volatility",
           "publishedOn": "2024-08-05T22:17:22.000Z",
           "wordCount": 3206,
@@ -1118,7 +1138,7 @@
         {
           "id": "https://thedefiant.io/news/markets/here-s-an-eli5-on-on-how-japan-sent-global-markets-tumbling",
           "author": "Pedro Solimano",
-          "description": "0.25% – just a blip in crypto terms, but enough to cause a domino effect that’s rippling and causing havoc across global markets.",
+          "description": "The Bank of Japan’s 0.25% hike surprised investors and caused a domino effect of massive proportions.",
           "link": "https://thedefiant.io/news/markets/here-s-an-eli5-on-on-how-japan-sent-global-markets-tumbling",
           "publishedOn": "2024-08-05T21:29:27.000Z",
           "wordCount": 4071,
@@ -1344,21 +1364,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6896f34cbe91611709b6ca144e7a323c18a85b1f-1920x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions",
-          "author": "Pedro Solimano",
-          "description": "Bitcoin-based memecoins, known as Runes, have only been around since April this year.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions",
-          "publishedOn": "2024-08-02T21:07:00.000Z",
-          "wordCount": 3158,
-          "title": "Bitcoin Memecoins Runes Make Up 35% of All the Chain's Transactions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69e3eef3f24b1780ecfeb2b315385e974f9cc14e-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69e3eef3f24b1780ecfeb2b315385e974f9cc14e-1792x1024.png"
         }
       ]
     }
