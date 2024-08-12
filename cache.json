@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year",
+          "author": "Samuel Haig",
+          "description": "The launch of native Superchain interoperability is designed to make transacting across ecosystem networks feel like using a single chain.",
+          "link": "https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year",
+          "publishedOn": "2024-08-12T16:00:00.000Z",
+          "wordCount": 3113,
+          "title": "Optimism Plans To Unlock Superchain Interoperability Next Year",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/793f2a1bedbad0fac6287432dc02fa695592378a-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/793f2a1bedbad0fac6287432dc02fa695592378a-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-prices-dip-as-institutional-demand-dries-up",
           "author": "Mehab Qureshi",
           "description": "Spot Ethereum ETFs recorded net inflows of $104.8 million last week.",
@@ -71,7 +86,7 @@
           "description": "A Discord alert triggered core contributors to quickly push out a fix this week.",
           "link": "https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability",
           "publishedOn": "2024-08-09T21:35:07.000Z",
-          "wordCount": 3244,
+          "wordCount": 3304,
           "title": "Solana Developers Quietly Patched a Critical Vulnerability",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/189b9bb687aa897526fa4cf698a7014d5e61e89c-1792x1024.webp",
@@ -86,7 +101,7 @@
           "description": "Tests are conducted in private beta until the token receives regulatory clearance.",
           "link": "https://thedefiant.io/news/blockchains/ripple-starts-testing-its-rlusd-stablecoin-on-xrpledger-and-ethereum",
           "publishedOn": "2024-08-09T19:33:46.000Z",
-          "wordCount": 3164,
+          "wordCount": 3224,
           "title": "Ripple Starts Testing Its RLUSD Stablecoin on XRPLedger and Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74baff58c52ac36f1d6778f2f3931f04c20f5171-1792x1024.webp",
@@ -101,7 +116,7 @@
           "description": "The ecosystem claims it's built for speed, security, low fees, and memes. It's raised almost $8 million for the presale of its PEPU token.",
           "link": "https://thedefiant.io/news/blockchains/pepe-unchained-raises-millions-for-a-memecoin-fueled-layer-2",
           "publishedOn": "2024-08-09T19:15:41.000Z",
-          "wordCount": 2940,
+          "wordCount": 3000,
           "title": "Pepe Unchained Raises Millions For a Memecoin-Fueled Layer 2",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e140921b49eccc66e0aa1359863a903586e94-1792x1024.webp",
@@ -381,7 +396,7 @@
           "description": "The Optimism Collective has announced a significant development in its decentralization efforts as @modenetwork, @zora, and @metal_l2 have transferred their keys to the Optimism Collective Security Council",
           "link": "https://thedefiant.io/news/blockchains/optimism-collective-advances-to-stage-1-decentralization-key-transfers",
           "publishedOn": "2024-08-09T07:39:13.000Z",
-          "wordCount": 2484,
+          "wordCount": 2544,
           "title": "Optimism Collective Advances to Stage 1 Decentralization with Key Transfers",
           "imageUrl": null
         },
@@ -446,7 +461,7 @@
           "description": "Speed Wallet introduced USDT-L on Bitcoin’s Layer 2.",
           "link": "https://thedefiant.io/news/blockchains/wrapped-usdt-lands-on-lightning-network-to-compete-with-tron-and-ethereum",
           "publishedOn": "2024-08-08T20:57:42.000Z",
-          "wordCount": 3422,
+          "wordCount": 3482,
           "title": "Wrapped USDT Lands On Lightning Network To Compete With Tron and Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa9fefbc22be698bbb0d5d27d3182a6f349d43a8-1792x1024.webp",
@@ -506,7 +521,7 @@
           "description": "Chainlink’s Cross-Chain Interoperability Protocol has hosted $198 million worth of transfers.",
           "link": "https://thedefiant.io/news/blockchains/metis-integrates-chainlink-ccip-for-cross-chain-functionality",
           "publishedOn": "2024-08-08T16:00:00.000Z",
-          "wordCount": 3142,
+          "wordCount": 3202,
           "title": "Metis Integrates Chainlink CCIP For Cross-Chain Functionality",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4428ec90cf8b003c6a1c9f57577065a9570d911-1792x1024.webp",
@@ -546,7 +561,7 @@
           "description": "Injective, a blockchain platform, has integrated with Elliptic, a leading blockchain analytics service",
           "link": "https://thedefiant.io/news/blockchains/injective-partners-elliptic-gains-utila-support-highlights-inj-token",
           "publishedOn": "2024-08-08T14:41:41.000Z",
-          "wordCount": 2453,
+          "wordCount": 2513,
           "title": "Injective Partners with Elliptic; Gains Utila Support and Highlights $INJ Token",
           "imageUrl": null
         },
@@ -801,7 +816,7 @@
           "description": "The news comes as Arbitrum is working to expand the Orbit ecosystem.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-orbit-integrates-usdc-as-custom-gas-token",
           "publishedOn": "2024-08-07T16:00:00.000Z",
-          "wordCount": 3063,
+          "wordCount": 3123,
           "title": "Arbitrum Orbit Integrates USDC As Custom Gas Token",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/868433e0170dc129927ffe1a21cd4397a582ed9f-1792x1024.webp",
@@ -1108,7 +1123,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
           "author": "Samuel Haig",
-          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.",
+          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to pro-crypto PACs while serving as a federal contractor.",
           "link": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
           "publishedOn": "2024-08-06T10:41:00.000Z",
           "wordCount": 3502,
@@ -1281,7 +1296,7 @@
           "description": "The number of new Ethereum wallet addresses has reached its lowest level in 2024, coinciding with the recent launch of spot Ether exchange-traded funds",
           "link": "https://thedefiant.io/news/blockchains/new-ethereum-wallet-addresses-hit-december-2023-low-after-spot-ether-etf-launch",
           "publishedOn": "2024-08-05T13:23:23.000Z",
-          "wordCount": 2612,
+          "wordCount": 2672,
           "title": "New Ethereum Wallet Addresses Hit December 2023 Low After Spot Ether ETF Launch; Solana Sees Growth",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2bec615d261d004ea12bb23400c9ea12100d96af-1920x1080.jpg",
@@ -1349,21 +1364,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/375c20ce6819a2a3028029800cd3227a22a9ffbd-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-gets-obliterated-amid-global-stock-market-selloff",
-          "author": "Samuel Haig",
-          "description": "Many major cryptocurrencies have plummeted to 6-month lows after Bitcoin cratered 11% in the past 24 hours.",
-          "link": "https://thedefiant.io/news/markets/crypto-gets-obliterated-amid-global-stock-market-selloff",
-          "publishedOn": "2024-08-05T06:16:00.000Z",
-          "wordCount": 3301,
-          "title": "Crypto Gets Obliterated Amid Global Stock Market Selloff",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d14393a0d3191cb47cc811d9c141a900d402b31-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d14393a0d3191cb47cc811d9c141a900d402b31-1792x1024.webp"
         }
       ]
     }
