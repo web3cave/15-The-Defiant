@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/makerdao-mulls-offboarding-wbtc-amid-wrapped-bitcoin-restructure",
+          "author": "Samuel Haig",
+          "description": "BiT Global and Justin Sun’ will soon exercise control over Wrapped Bitcoin through a joint venture with BitGo.",
+          "link": "https://thedefiant.io/news/defi/makerdao-mulls-offboarding-wbtc-amid-wrapped-bitcoin-restructure",
+          "publishedOn": "2024-08-12T09:02:00.000Z",
+          "wordCount": 3717,
+          "title": "MakerDAO Mulls Offboarding WBTC Amid Wrapped Bitcoin Restructure",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5b1a2d1eb8d0a334ac32cf848bbafa615b42ab1-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b5b1a2d1eb8d0a334ac32cf848bbafa615b42ab1-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch",
           "author": "Squiffs",
           "description": "June and July set consecutive all time high unique L2 addresses on Uniswap.",
           "link": "https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch",
           "publishedOn": "2024-08-10T16:00:00.000Z",
-          "wordCount": 3079,
+          "wordCount": 3133,
           "title": "Uniswap Layer 2 Addresses are Up 350% - But There's a Catch",
           "imageUrl": null
         },
@@ -126,7 +141,7 @@
           "description": "Tether Holdings, the issuer of the $115 billion stablecoin USDT, has announced plans to double its workforce over the next year",
           "link": "https://thedefiant.io/news/defi/tether-to-double-workforce-compliance-2025",
           "publishedOn": "2024-08-09T12:33:42.000Z",
-          "wordCount": 2481,
+          "wordCount": 2535,
           "title": "Tether to Double Workforce for Compliance by 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a53b8131a2c8e261652679d8f2242360f9c552a2-1200x800.jpg",
@@ -226,7 +241,7 @@
           "description": "The memecoin launchpad will also pay out 0.5 SOL to coin creators when tokens successfully migrate to Raydium.",
           "link": "https://thedefiant.io/news/defi/memecoins-can-now-be-created-for-free-on-pump-fun",
           "publishedOn": "2024-08-09T08:59:09.000Z",
-          "wordCount": 3040,
+          "wordCount": 3094,
           "title": "Memecoins Can Now Be Created For Free on Pump.fun",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31e21cd5f84d8bdcec1588ff6c5cfa5700b0d362-1792x1024.webp",
@@ -266,7 +281,7 @@
           "description": "Sherlock DeFi, a blockchain security firm, has officially launched a next-generation bug bounty platform exclusively for its customers",
           "link": "https://thedefiant.io/news/defi/sherlock-defi-launches-next-gen-bug-bounty-platform",
           "publishedOn": "2024-08-09T07:41:11.000Z",
-          "wordCount": 2467,
+          "wordCount": 2521,
           "title": "Sherlock DeFi Launches Next-Gen Bug Bounty Platform",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e5906d79e147835d8517b6afc8eae3120069359-1200x630.png",
@@ -291,7 +306,7 @@
           "description": "A new report on tokenized precious metals has been released, highlighting the sector's growth towards a market cap nearing $1 billion",
           "link": "https://thedefiant.io/news/defi/tokenized-precious-metals-sector-approaches-1-billion-market-cap-focuses-on-gold",
           "publishedOn": "2024-08-09T07:40:46.000Z",
-          "wordCount": 2594,
+          "wordCount": 2648,
           "title": "Tokenized Precious Metals Sector Approaches $1 Billion Market Cap, Focuses on Gold and Silver in New WisdomTree Prime Report",
           "imageUrl": null
         },
@@ -301,7 +316,7 @@
           "description": "Chainlink is positioning itself as a leading infrastructure platform for Real World Assets (RWAs), with the sector surpassing $3 billion in value excluding stablecoins in 2024",
           "link": "https://thedefiant.io/news/defi/chainlink-aims-dominance-16t-rwa-market-surpassing-3b-value",
           "publishedOn": "2024-08-09T07:39:32.000Z",
-          "wordCount": 2569,
+          "wordCount": 2623,
           "title": "Chainlink Aims for Dominance in $16T RWA Market, Surpassing $3B in Value",
           "imageUrl": null
         },
@@ -311,7 +326,7 @@
           "description": "Avraham 'Avi' Eisenberg, who was previously convicted in the Mango Markets trial, is seeking an acquittal or a new trial",
           "link": "https://thedefiant.io/news/defi/avraham-eisenberg-seeks-new-trial-mango-markets-case",
           "publishedOn": "2024-08-09T07:39:26.000Z",
-          "wordCount": 2410,
+          "wordCount": 2464,
           "title": "Avraham Eisenberg Seeks New Trial in Mango Markets Case",
           "imageUrl": null
         },
@@ -321,7 +336,7 @@
           "description": "Celestia is set to launch its first major upgrade, Lemongrass, which introduces several new features aimed at enhancing user experience across the Modular Ecosystem",
           "link": "https://thedefiant.io/news/defi/celestia-s-lemongrass-upgrade-5-cips-live-on-arabica-devnet-mainnet-beta",
           "publishedOn": "2024-08-09T07:39:20.000Z",
-          "wordCount": 2580,
+          "wordCount": 2634,
           "title": "Celestia's Lemongrass Upgrade with 5 CIPs Live on Arabica Devnet, Mainnet Beta in September",
           "imageUrl": null
         },
@@ -356,7 +371,7 @@
           "description": "Switchboard, a multi-chain, permissionless oracle protocol, has announced its plans to support Jito's re-staking platform on Solana",
           "link": "https://thedefiant.io/news/defi/switchboard-partners-jito-re-staking-on-solana",
           "publishedOn": "2024-08-09T07:38:41.000Z",
-          "wordCount": 2387,
+          "wordCount": 2441,
           "title": "Switchboard Partners with Jito for Re-Staking on Solana",
           "imageUrl": null
         },
@@ -366,7 +381,7 @@
           "description": "The new feature is part of Cosmos-based Vega’s latest Colosseo II upgrade.",
           "link": "https://thedefiant.io/news/defi/coinbase-backed-vega-protocol-takes-aim-at-polymarket-with-new-prediction-market",
           "publishedOn": "2024-08-09T07:24:09.000Z",
-          "wordCount": 3071,
+          "wordCount": 3125,
           "title": "Coinbase-backed Vega Protocol Takes Aim at Polymarket With New Prediction Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d126182c857491277178cce9b9967012b7348df-1792x1024.webp",
@@ -381,7 +396,7 @@
           "description": "The perpetual futures DEX processed a record $4.3 billion in trading volume on August 5.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-tops-perpetuals-sector-rankings",
           "publishedOn": "2024-08-09T06:50:50.000Z",
-          "wordCount": 2793,
+          "wordCount": 2847,
           "title": "Hyperliquid Tops Perpetuals Sector Rankings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c6614cd8ab7b2aa37a5bf32fce931b8ff8855fc4-1792x1024.webp",
@@ -596,7 +611,7 @@
           "description": "Vercel, a provider of developer tools and cloud infrastructure, is experiencing a significant outage affecting multiple services",
           "link": "https://thedefiant.io/news/defi/vercel-outage-disrupts-major-platforms-dapps",
           "publishedOn": "2024-08-08T07:04:18.000Z",
-          "wordCount": 2440,
+          "wordCount": 2494,
           "title": "Vercel Outage Disrupts Major Platforms and dApps",
           "imageUrl": null
         },
@@ -621,7 +636,7 @@
           "description": "PacMoon, a memecoin previously operating on the Blast blockchain, has announced its migration to Solana",
           "link": "https://thedefiant.io/news/defi/pacmoon-migrates-to-solana-token-surges-65-to-11-2-million",
           "publishedOn": "2024-08-08T07:03:15.000Z",
-          "wordCount": 2505,
+          "wordCount": 2559,
           "title": "PacMoon Migrates to Solana, Token Surges 65% to $11.2 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5da22b14a558e458e3f254c329b1b0dec23af1f3-1920x1080.png",
@@ -636,7 +651,7 @@
           "description": "Mantle Network has launched a series of initiatives involving its mETH token, partnering with platforms like Pendle and Binance Web3 Wallet",
           "link": "https://thedefiant.io/news/defi/mantle-network-s-meth-initiatives-offer-powder-cook-rewards-pendle-binance",
           "publishedOn": "2024-08-08T07:03:04.000Z",
-          "wordCount": 2585,
+          "wordCount": 2639,
           "title": "Mantle Network's mETH Initiatives Offer Powder and COOK Rewards with Pendle, Binance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/401b8cb0bc8eb7239654ef80801a7a47d9b0a280-1920x1080.png",
@@ -736,7 +751,7 @@
           "description": "Hydration boasts more than $40 million in TVL and is consistently hosting seven-figure daily volumes.",
           "link": "https://thedefiant.io/news/defi/hydration-extends-dominance-over-polkadot-s-defi-ecosystem",
           "publishedOn": "2024-08-07T16:40:00.000Z",
-          "wordCount": 2833,
+          "wordCount": 2887,
           "title": "Hydration Extends Dominance Over Polkadot’s DeFi Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef5e5d7ce3f237b2950d6ee28cde0880c7e4286f-1792x1024.webp",
@@ -766,7 +781,7 @@
           "description": "The move aims to reverse Ethena’s dropping market capitalization.",
           "link": "https://thedefiant.io/news/defi/ethena-expands-to-solana-and-adds-sol-to-usde-collateral-basket",
           "publishedOn": "2024-08-07T14:00:55.000Z",
-          "wordCount": 3019,
+          "wordCount": 3073,
           "title": "Ethena Expands to Solana and Adds SOL to USDe Collateral Basket",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2181c3e873054f35817204a1d41f4e27aaba826-1792x1024.webp",
@@ -816,7 +831,7 @@
           "description": "The Uniswap Foundation has disclosed its financial status in a recent report",
           "link": "https://thedefiant.io/news/defi/uniswap-foundation-reports-usd36-81m-in-assets-allocates-usd26-12m-for-grants",
           "publishedOn": "2024-08-07T10:52:00.000Z",
-          "wordCount": 2447,
+          "wordCount": 2501,
           "title": "Uniswap Foundation Reports $36.81M in Assets, Allocates $26.12M for Grants",
           "imageUrl": null
         },
@@ -836,7 +851,7 @@
           "description": "Nexera's DeFi protocol has reportedly been compromised, resulting in an estimated loss of $1.5M",
           "link": "https://thedefiant.io/news/defi/nexera-defi-protocol-compromised-1-5-million-exploit",
           "publishedOn": "2024-08-07T09:27:54.000Z",
-          "wordCount": 2398,
+          "wordCount": 2452,
           "title": "Nexera DeFi Protocol Compromised in $1.5 Million Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe940d3458f40157fc71e734c4291864243237a4-1200x600.jpg",
@@ -931,7 +946,7 @@
           "description": "The DJT token led by Martin Shkreli, who alleged  Barron Trump was involved, plummeted 88% in one massive sell.",
           "link": "https://thedefiant.io/news/defi/donald-j-trump-memecoin-rugpulls",
           "publishedOn": "2024-08-06T19:02:39.000Z",
-          "wordCount": 2717,
+          "wordCount": 2771,
           "title": "Donald J Trump Memecoin Rugpulls",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5fe5142c48ef5169cca48bb8872279d7fff093a5-1792x1024.png",
@@ -961,7 +976,7 @@
           "description": "So-called ‘white hat’ hackers stole 4,000 ETH and $2 million in USDC before the team took action.",
           "link": "https://thedefiant.io/news/defi/ronin-network-paused-after-upgrade-allows-attackers-to-drain-usd12-million",
           "publishedOn": "2024-08-06T14:46:25.000Z",
-          "wordCount": 2997,
+          "wordCount": 3051,
           "title": "Ronin Network Paused After Upgrade Allows Attackers to Drain $12 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c5422e5cb3aa67a9364b219f3de44af0db23736-1792x1024.webp",
@@ -976,7 +991,7 @@
           "description": "PancakeSwap, a leading decentralized exchange (DEX), has unveiled a new platform called 'PancakeSwap Quest",
           "link": "https://thedefiant.io/news/defi/pancakeswap-unveils-multichain-gamified-quest-platform-defi-beta",
           "publishedOn": "2024-08-06T14:39:35.000Z",
-          "wordCount": 2511,
+          "wordCount": 2565,
           "title": "PancakeSwap Unveils Multichain Gamified Quest Platform for DeFi in Beta",
           "imageUrl": null
         },
@@ -1031,7 +1046,7 @@
           "description": "Pendle Finance has announced the launch of its principal tokens (PTs), specifically PT-weETH and PT-sUSDe, on the Term Structure platform, enhancing the utility of yield tokens",
           "link": "https://thedefiant.io/news/defi/pendle-finance-launches-pt-weeth-pt-susde-offers-12-apy-on-ethereum-sees-40",
           "publishedOn": "2024-08-06T12:18:14.000Z",
-          "wordCount": 2718,
+          "wordCount": 2772,
           "title": "Pendle Finance Launches PT-weETH and PT-sUSDe, Offers 12% APY on Ethereum, and Sees 40% Price Surge",
           "imageUrl": null
         },
@@ -1051,7 +1066,7 @@
           "description": "Ethena's USDe stablecoin has experienced nearly $100 million in redemptions this week, marking a significant stress test for the synthetic dollar",
           "link": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-faces-100-million-redemptions-amid-stress-test-101",
           "publishedOn": "2024-08-06T12:11:26.000Z",
-          "wordCount": 2537,
+          "wordCount": 2591,
           "title": "Ethena's USDe Stablecoin Faces $100 Million in Redemptions Amid Stress Test, Maintains 101% Reserve",
           "imageUrl": null
         },
@@ -1103,7 +1118,7 @@
         {
           "id": "https://thedefiant.io/news/markets/here-s-an-eli5-on-on-how-japan-sent-global-markets-tumbling",
           "author": "Pedro Solimano",
-          "description": "The Bank of Japan’s 0.25% hike surprised investors and caused a domino effect of massive proportions.",
+          "description": "0.25% – just a blip in crypto terms, but enough to cause a domino effect that’s rippling and causing havoc across global markets.",
           "link": "https://thedefiant.io/news/markets/here-s-an-eli5-on-on-how-japan-sent-global-markets-tumbling",
           "publishedOn": "2024-08-05T21:29:27.000Z",
           "wordCount": 4071,
@@ -1118,7 +1133,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/hackers-capitalize-on-crypto-market-crash-to-buy-discounted-ethereum",
           "author": "Mehab Qureshi",
-          "description": "Hackers who exploited the Nomad cross-chain bridge to steal $200 million, leveraged the cryptocurrency market crash to purchase ETH.",
+          "description": "Nomad bridge and PancakeBunny hackers are buying ETH.",
           "link": "https://thedefiant.io/news/hacks/hackers-capitalize-on-crypto-market-crash-to-buy-discounted-ethereum",
           "publishedOn": "2024-08-05T21:00:43.000Z",
           "wordCount": 2724,
@@ -1151,7 +1166,7 @@
           "description": "The dYdX community has recently approved several significant measures as part of its ongoing governance activities",
           "link": "https://thedefiant.io/news/defi/dydx-community-approves-5m-token-distribution-rndr-usd-update-mavia-vote-august",
           "publishedOn": "2024-08-05T13:49:33.000Z",
-          "wordCount": 2629,
+          "wordCount": 2683,
           "title": "dYdX Community Approves $5M Token Distribution, RNDR-USD Update, and MAVIA Vote by August 6",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6289e56655d3f4d0272a01da46fa900d4699160-3000x1688.jpg",
@@ -1276,7 +1291,7 @@
           "description": "DeFi lending protocols processed more than $341 million worth of liquidations on Aug. 5.",
           "link": "https://thedefiant.io/news/defi/crypto-crash-wipes-out-defi-borrowers-as-all-time-aave-v3-liquidations-double",
           "publishedOn": "2024-08-05T10:02:00.000Z",
-          "wordCount": 3334,
+          "wordCount": 3388,
           "title": "Crypto Crash Wipes Out DeFi Borrowers As All-Time Aave v3 Liquidations Double",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/59d11e83aa7d6d180258b2110741399d583304fb-1792x1024.webp",
@@ -1344,16 +1359,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69e3eef3f24b1780ecfeb2b315385e974f9cc14e-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/trump-suggests-using-bitcoin-to-address-35-trillion-us-debt",
-          "author": "DeepNewz",
-          "description": "Former President Donald Trump has suggested the possibility of using cryptocurrency, specifically Bitcoin, to address the United States' $35 trillion national debt",
-          "link": "https://thedefiant.io/news/regulation/trump-suggests-using-bitcoin-to-address-35-trillion-us-debt",
-          "publishedOn": "2024-08-02T19:34:54.000Z",
-          "wordCount": 2517,
-          "title": "Trump Suggests Using Bitcoin to Address $35 Trillion US Debt",
-          "imageUrl": null
         }
       ]
     }
