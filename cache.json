@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/tether-says-celsius-lawsuit-is-a-shake-down",
+          "author": "Mehab Qureshi",
+          "description": "Celsius is suing Tether over dispute on bitcoin collateral liquidation, demands $3.5 billion",
+          "link": "https://thedefiant.io/news/cefi/tether-says-celsius-lawsuit-is-a-shake-down",
+          "publishedOn": "2024-08-13T18:26:56.000Z",
+          "wordCount": 3233,
+          "title": "Tether Says Celsius Lawsuit is a “Shake Down”",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a9ee1532778b057fcb167065f711cb70b631672-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6a9ee1532778b057fcb167065f711cb70b631672-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/mkr-rallies-after-grayscale-makerdao-trust-launch",
           "author": "Samuel Haig",
           "description": "The MakerDAO Trust will allow accredited investors to gain exposure to one of DeFi’s leading protocols.",
@@ -326,7 +341,7 @@
           "description": "Coinbase has announced the addition of ZetaChain and Across Protocol to its listing roadmap",
           "link": "https://thedefiant.io/news/cefi/coinbase-adds-zetachain-across-protocol-to-listing-roadmap-zetachain-surges-18",
           "publishedOn": "2024-08-09T12:33:39.000Z",
-          "wordCount": 2433,
+          "wordCount": 2466,
           "title": "Coinbase Adds ZetaChain and Across Protocol to Listing Roadmap, ZetaChain Surges 18%",
           "imageUrl": null
         },
@@ -656,7 +671,7 @@
           "description": "BitGo, a California-based digital asset trust and security company, has secured a Major Payment Institution license from the Monetary Authority of Singapore",
           "link": "https://thedefiant.io/news/cefi/california-based-bitgo-secures-major-payment-institution-license-from-singapore-s-monetary",
           "publishedOn": "2024-08-08T14:42:39.000Z",
-          "wordCount": 2489,
+          "wordCount": 2522,
           "title": "California-based BitGo Secures Major Payment Institution License from Singapore's Monetary Authority",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2056a9146ff32895b5d6cea81cd68f4f9bda75f1-1280x720.jpg",
@@ -836,7 +851,7 @@
           "description": "Binance has announced the listing of Toncoin ($TON) on its platform, effective August 8, 2024, at 10:00 UTC",
           "link": "https://thedefiant.io/news/cefi/binance-lists-toncoin-ton-seed-tag-10-00-utc-on-august-8-2024-including-trading",
           "publishedOn": "2024-08-08T07:02:52.000Z",
-          "wordCount": 2612,
+          "wordCount": 2645,
           "title": "Binance Lists Toncoin ($TON) with Seed Tag at 10:00 UTC on August 8, 2024, Including Trading Pairs TON/BTC, TON/USDT, and TON/FDUSD",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7980f673b0d3c927e0a7f57e20626a49fceb39ed-1292x766.jpg",
@@ -906,7 +921,7 @@
           "description": "The funds will be available only to accredited investors.",
           "link": "https://thedefiant.io/news/cefi/grayscale-launches-bittensor-and-sui-funds",
           "publishedOn": "2024-08-07T17:59:37.000Z",
-          "wordCount": 3062,
+          "wordCount": 3095,
           "title": "Grayscale Launches Bittensor and Sui Funds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ec6e281af71ca5a9ef356695eb4ae821f9dcbca-1792x1024.webp",
@@ -1128,10 +1143,10 @@
         {
           "id": "https://thedefiant.io/news/cefi/xapo-enters-u-k-with-dual-bitcoin-and-fiat-interest-accounts",
           "author": "Pedro Solimano",
-          "description": "The Bitcoin account yields 1% without staking, lending, or locking up assets, said the company.",
+          "description": "Xapo Bank, one of the first digital asset custodians and Bitcoin-native bank, has entered the U.K. market after receiving its banking license.",
           "link": "https://thedefiant.io/news/cefi/xapo-enters-u-k-with-dual-bitcoin-and-fiat-interest-accounts",
           "publishedOn": "2024-08-06T16:58:08.000Z",
-          "wordCount": 2963,
+          "wordCount": 2996,
           "title": "Xapo Enters U.K. With Dual Bitcoin and Fiat Interest Accounts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3ac2558b0951f10b9cf6191f84e84de1ac29d002-828x468.png",
@@ -1246,7 +1261,7 @@
           "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.",
           "link": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
           "publishedOn": "2024-08-06T10:41:00.000Z",
-          "wordCount": 3502,
+          "wordCount": 3535,
           "title": "Coinbase Accused Of Campaign Finance Violations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a491f106974025bb347af32f7cc3f8fe6eda985-1792x1024.webp",
@@ -1359,16 +1374,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba4de8d6b1af514c95d985d7ec1da95f891e9347-1200x630.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/magnificent-seven-tech-stocks-lose-1-trillion-nvidia-down-325b-apple-down-300b-s",
-          "author": "DeepNewz",
-          "description": "In a significant downturn, the 'Magnificent Seven' tech stocks are set to lose over $1 trillion in value during premarket trading",
-          "link": "https://thedefiant.io/news/markets/magnificent-seven-tech-stocks-lose-1-trillion-nvidia-down-325b-apple-down-300b-s",
-          "publishedOn": "2024-08-05T13:45:27.000Z",
-          "wordCount": 2669,
-          "title": "Magnificent Seven Tech Stocks Lose $1 Trillion; Nvidia Down $325B, Apple Down $300B, S&amp; P 500 Down 4.6%",
-          "imageUrl": null
         }
       ]
     }
