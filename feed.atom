@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-13T07:08:11.970Z</id>
+    <id>urn:2024-08-13T08:09:54.707Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-13T07:08:11.970Z</updated>
+    <updated>2024-08-13T08:09:54.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Community Approves Bridging wstETH Onto BNB Chain]]></title>
+        <id>https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain</id>
+        <link href="https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain"/>
+        <updated>2024-08-13T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The vote greenlit Wormhole and Axelar to serve as the canonical bridge for wstETH on BNB Chain.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Miners At ‘Max Pain’ As Experts Reckon Bottom Is In]]></title>
         <id>https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The number of new Ethereum wallet addresses has reached its lowest level in 2024, coinciding with the recent launch of spot Ether exchange-traded funds]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Miners Nurse Losses as BTC Struggles to Hold $50K]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-miners-nurse-losses-as-btc-struggles-to-hold-usd50k</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-miners-nurse-losses-as-btc-struggles-to-hold-usd50k"/>
-        <updated>2024-08-05T13:10:39.000Z</updated>
-        <summary type="html"><![CDATA[The ongoing crypto selloff comes as miners are still feeling the pinch from the Bitcoin halving in April.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
