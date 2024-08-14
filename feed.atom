@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T19:05:24.394Z</id>
+    <id>urn:2024-08-14T20:07:52.401Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-14T19:05:24.394Z</updated>
+    <updated>2024-08-14T20:07:52.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Introduces Permissionless Token Support]]></title>
+        <id>https://thedefiant.io/news/defi/eigenlayer-introduces-permissionless-token-support</id>
+        <link href="https://thedefiant.io/news/defi/eigenlayer-introduces-permissionless-token-support"/>
+        <updated>2024-08-14T19:32:13.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade will allow any ERC-20 token to be added as a restakable asset, expanding the potential security of decentralized networks.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.Fun Smashes Revenue Records But Some Users Are Not Happy]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/arbitrum-orbit-integrates-usdc-as-custom-gas-token</id>
         <link href="https://thedefiant.io/news/blockchains/arbitrum-orbit-integrates-usdc-as-custom-gas-token"/>
         <updated>2024-08-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The news comes as Arbitrum is working to expand the Orbit ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Arbitrum Orbit developers can now support bridged USDC as a custom gas token.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[So-called ‘white hat’ hackers stole 4,000 ETH and $2 million in USDC before the team took action.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PancakeSwap Unveils Multichain Gamified Quest Platform for DeFi in Beta]]></title>
-        <id>https://thedefiant.io/news/defi/pancakeswap-unveils-multichain-gamified-quest-platform-defi-beta</id>
-        <link href="https://thedefiant.io/news/defi/pancakeswap-unveils-multichain-gamified-quest-platform-defi-beta"/>
-        <updated>2024-08-06T14:39:35.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap, a leading decentralized exchange (DEX), has unveiled a new platform called 'PancakeSwap Quest]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>

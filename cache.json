@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/eigenlayer-introduces-permissionless-token-support",
+          "author": "Squiffs",
+          "description": "The upgrade will allow any ERC-20 token to be added as a restakable asset, expanding the potential security of decentralized networks.",
+          "link": "https://thedefiant.io/news/defi/eigenlayer-introduces-permissionless-token-support",
+          "publishedOn": "2024-08-14T19:32:13.000Z",
+          "wordCount": 2839,
+          "title": "EigenLayer Introduces Permissionless Token Support",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/793f2a1bedbad0fac6287432dc02fa695592378a-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/793f2a1bedbad0fac6287432dc02fa695592378a-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy",
           "author": "Squiffs",
           "description": "Traders are growing increasingly frustrated as they learn that the house always wins.",
@@ -1158,7 +1173,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/arbitrum-orbit-integrates-usdc-as-custom-gas-token",
           "author": "Samuel Haig",
-          "description": "The news comes as Arbitrum is working to expand the Orbit ecosystem.",
+          "description": "Arbitrum Orbit developers can now support bridged USDC as a custom gas token.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-orbit-integrates-usdc-as-custom-gas-token",
           "publishedOn": "2024-08-07T16:00:00.000Z",
           "wordCount": 3121,
@@ -1379,16 +1394,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c5422e5cb3aa67a9364b219f3de44af0db23736-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pancakeswap-unveils-multichain-gamified-quest-platform-defi-beta",
-          "author": "DeepNewz",
-          "description": "PancakeSwap, a leading decentralized exchange (DEX), has unveiled a new platform called 'PancakeSwap Quest",
-          "link": "https://thedefiant.io/news/defi/pancakeswap-unveils-multichain-gamified-quest-platform-defi-beta",
-          "publishedOn": "2024-08-06T14:39:35.000Z",
-          "wordCount": 2563,
-          "title": "PancakeSwap Unveils Multichain Gamified Quest Platform for DeFi in Beta",
-          "imageUrl": null
         }
       ]
     }
