@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings",
+          "author": "Mehab Qureshi",
+          "description": "Wells Fargo, Morgan Stanley, and JPMorgan Chase also hold spot Bitcoin ETF shares.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings",
+          "publishedOn": "2024-08-14T14:09:00.000Z",
+          "wordCount": 3311,
+          "title": "Goldman Sachs Discloses $418 Million In Bitcoin ETF Holdings",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/35cfedaebd1ceedd884418b53d70fe602d2e0e8b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/35cfedaebd1ceedd884418b53d70fe602d2e0e8b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/offchain-labs-launches-incubator-division-targeting-infrastructure-projects",
           "author": "Samuel Haig",
           "description": "The new division will target blockchain applications and infrastructure projects building on top of Arbitrum’s tech.",
@@ -1153,7 +1168,7 @@
         {
           "id": "https://thedefiant.io/news/markets/institutional-investors-accumulate-ether-etf-shares-amid-price-decline",
           "author": "Samuel Haig",
-          "description": "Institutions stepped in to buy Ether ETF shares in response to the violent crypto crash.",
+          "description": "Spot Ether ETFs hosted $147 million worth of inflows in the past two days.",
           "link": "https://thedefiant.io/news/markets/institutional-investors-accumulate-ether-etf-shares-amid-price-decline",
           "publishedOn": "2024-08-07T09:03:00.000Z",
           "wordCount": 3260,
@@ -1359,21 +1374,6 @@
           "wordCount": 2589,
           "title": "Ethena's USDe Stablecoin Faces $100 Million in Redemptions Amid Stress Test, Maintains 101% Reserve",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
-          "author": "Samuel Haig",
-          "description": "Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.",
-          "link": "https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations",
-          "publishedOn": "2024-08-06T10:41:00.000Z",
-          "wordCount": 3535,
-          "title": "Coinbase Accused Of Campaign Finance Violations",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a491f106974025bb347af32f7cc3f8fe6eda985-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a491f106974025bb347af32f7cc3f8fe6eda985-1792x1024.webp"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T14:07:43.027Z</id>
+    <id>urn:2024-08-14T15:07:10.768Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-14T14:07:43.027Z</updated>
+    <updated>2024-08-14T15:07:10.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Goldman Sachs Discloses $418 Million In Bitcoin ETF Holdings]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings"/>
+        <updated>2024-08-14T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Wells Fargo, Morgan Stanley, and JPMorgan Chase also hold spot Bitcoin ETF shares.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Offchain Labs Launches Incubator Division Targeting Infrastructure Projects]]></title>
         <id>https://thedefiant.io/news/defi/offchain-labs-launches-incubator-division-targeting-infrastructure-projects</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/institutional-investors-accumulate-ether-etf-shares-amid-price-decline</id>
         <link href="https://thedefiant.io/news/markets/institutional-investors-accumulate-ether-etf-shares-amid-price-decline"/>
         <updated>2024-08-07T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Institutions stepped in to buy Ether ETF shares in response to the violent crypto crash.]]></summary>
+        <summary type="html"><![CDATA[Spot Ether ETFs hosted $147 million worth of inflows in the past two days.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ethena's USDe stablecoin has experienced nearly $100 million in redemptions this week, marking a significant stress test for the synthetic dollar]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Accused Of Campaign Finance Violations]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-accused-of-campaign-finance-violations"/>
-        <updated>2024-08-06T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase is pushing back against allegations it violated campaign financing laws by donating to political actions committees while serving as a federal contractor.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
