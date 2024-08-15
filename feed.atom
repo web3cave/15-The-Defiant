@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-15T13:11:10.413Z</id>
+    <id>urn:2024-08-15T14:06:47.469Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-15T13:11:10.413Z</updated>
+    <updated>2024-08-15T14:06:47.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Completes Chainlink Rollout With Data Streams and VRF]]></title>
+        <id>https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf</id>
+        <link href="https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf"/>
+        <updated>2024-08-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Base developers can access Chainlink’s Price Feeds, CCIP, Functions, Data Streams, and VRF products.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Price Pulls Back After Failing To Overcome Key Resistance Level]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-price-pulls-back-after-failing-to-overcome-key-resistance-level</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Aleph, a month-long pop-up city initiative, officially launched in Buenos Aires on August 5, 2024]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan’s Carry Trade Chaos Brings FTX-Level Losses To Short-term Bitcoin Holders]]></title>
-        <id>https://thedefiant.io/news/markets/japan-s-carry-trade-chaos-brings-ftx-level-losses-to-short-term-bitcoin-holders</id>
-        <link href="https://thedefiant.io/news/markets/japan-s-carry-trade-chaos-brings-ftx-level-losses-to-short-term-bitcoin-holders"/>
-        <updated>2024-08-07T06:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Entities with less than 1 BTC realized losses not seen since 2022, while whales accumulated.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
