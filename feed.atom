@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-15T11:05:07.619Z</id>
+    <id>urn:2024-08-15T12:14:04.495Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-15T11:05:07.619Z</updated>
+    <updated>2024-08-15T12:14:04.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Price Pulls Back After Failing To Overcome Key Resistance Level]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-price-pulls-back-after-failing-to-overcome-key-resistance-level</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-price-pulls-back-after-failing-to-overcome-key-resistance-level"/>
+        <updated>2024-08-15T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[BTC crashed 4.7% in 24 hours after failing to hold above resistance at $61,000.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram Unveils New Monetization Options for Creators]]></title>
         <id>https://thedefiant.io/news/defi/telegram-unveils-new-monetization-options-creators</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/solana-s-dominance-versus-ethereum-reaches-new-highs</id>
         <link href="https://thedefiant.io/news/markets/solana-s-dominance-versus-ethereum-reaches-new-highs"/>
         <updated>2024-08-07T21:12:33.000Z</updated>
-        <summary type="html"><![CDATA[The SOL/ETH ratio reached new highs this week with SOL leading the market’s relief rally.]]></summary>
+        <summary type="html"><![CDATA[SOL/ETH is at all-time highs in spite of the recent Ethereum ETF.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Entities with less than 1 BTC realized losses not seen since 2022, while whales accumulated.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investors Sell BlackRock’s BUIDL Fund After a Volatile Weekend]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/investors-sell-blackrock-s-buidl-fund-after-a-volatile-weekend</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/investors-sell-blackrock-s-buidl-fund-after-a-volatile-weekend"/>
-        <updated>2024-08-06T19:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The asset manager has sent nearly $9 million to Ondo Finance in 2 days for redemption payments.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
