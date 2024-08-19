@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-19 datetime="2024-08-19T16:07:29.000Z">2024-08-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-19 datetime="2024-08-19T16:07:29.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/education/what-are-smart-contract-platforms"
+                        open
+                      >
+                        <summary class="article-expander__title">What are Smart Contract platforms?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/education/what-are-smart-contract-platforms">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/68eef63ab34b00b97f73703097862d61db51f62c-1600x900.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>To fully grasp smart contract platforms, we first need to understand what a smart contract is. In the simplest terms, a smart contract is a line of code on a blockchain that automatically executes an agreement when certain conditions are met.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-17 datetime="2024-08-17T14:54:00.000Z">2024-08-17</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-17 datetime="2024-08-17T14:54:00.000Z"></time>
           </button>
@@ -1937,7 +1985,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/b9cf658c6a48b00d940dafac1f28bae2b584160d-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>The search for the real Trump memecoin goes on with the launch of Restore the Republic token.</span>
+                              <span>Less than a week after the latest “official” Donald Trump memecoin rugged, crypto Twitter pumped and dumped another token that was rumored to be connected with the former president.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
                             </span>
@@ -1957,7 +2005,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/3016824c39617815de40bb049978e32ec04099ee-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Russia’s State Duma, the lower chamber of the country’s parliament, approved two cryptocurrency-related laws today, one that legalizes mining, and an experimental regime that confers power to the Russian central bank to authorize companies for cross-border payments with crypto.</span>
+                              <span>One law allows for mining operations and the other is an experimental regime for cross-border payments with crypto.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;11
                                   min&hairsp;)</span>
                             </span>
@@ -2262,26 +2310,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/cefi/binance-lists-toncoin-ton-seed-tag-10-00-utc-on-august-8-2024-including-trading"
-                        open
-                      >
-                        <summary class="article-expander__title">Binance Lists Toncoin ($TON) with Seed Tag at 10:00 UTC on August 8, 2024, Including Trading Pairs TON/BTC, TON/USDT, and TON/FDUSD</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/cefi/binance-lists-toncoin-ton-seed-tag-10-00-utc-on-august-8-2024-including-trading">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/7980f673b0d3c927e0a7f57e20626a49fceb39ed-1292x766.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Binance has announced the listing of Toncoin ($TON) on its platform, effective August 8, 2024, at 10:00 UTC</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2289,8 +2317,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10455944230">
-        <time id="build-timestamp" datetime="2024-08-19T15:07:31.366Z">2024-08-19T15:07:31.366Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10456916894">
+        <time id="build-timestamp" datetime="2024-08-19T16:08:46.527Z">2024-08-19T16:08:46.527Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
