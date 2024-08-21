@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-21T14:08:17.638Z</id>
+    <id>urn:2024-08-21T15:07:01.253Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-21T14:08:17.638Z</updated>
+    <updated>2024-08-21T15:07:01.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Tumble Amid Mt. Gox Transfers]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-tumble-amid-mt-gox-transfers</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-tumble-amid-mt-gox-transfers"/>
+        <updated>2024-08-21T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Mt. Gox is preparing for another round of payouts to its creditors.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Return Entertainment Taps Aethir’s DePIN Infrastructure For Smart TV Gaming]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/return-entertainment-taps-aethir-s-depin-infrastructure-for-smart-tv-gaming</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[One law allows for mining operations and the other is an experimental regime for cross-border payments with crypto.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metis Integrates Chainlink CCIP For Cross-Chain Functionality]]></title>
-        <id>https://thedefiant.io/news/blockchains/metis-integrates-chainlink-ccip-for-cross-chain-functionality</id>
-        <link href="https://thedefiant.io/news/blockchains/metis-integrates-chainlink-ccip-for-cross-chain-functionality"/>
-        <updated>2024-08-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink’s Cross-Chain Interoperability Protocol has hosted $198 million worth of transfers.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
