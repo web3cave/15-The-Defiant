@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-21T23:07:14.708Z</id>
+    <id>urn:2024-08-22T00:34:56.798Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-21T23:07:14.708Z</updated>
+    <updated>2024-08-22T00:34:56.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Launches on ZKsync Era]]></title>
+        <id>https://thedefiant.io/news/defi/aave-launches-on-zksync-era</id>
+        <link href="https://thedefiant.io/news/defi/aave-launches-on-zksync-era"/>
+        <updated>2024-08-21T23:10:53.000Z</updated>
+        <summary type="html"><![CDATA[DeFi’s largest lending protocol brings its V3 iteration to the ZK-powered Ethereum Layer 2 network.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CryptoPunks Lead Ethereum NFT Resurgence]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/cryptopunks-lead-ethereum-nft-resurgence</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The new feature is part of Cosmos-based Vega’s latest Colosseo II upgrade.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Tops Perpetuals Sector Rankings]]></title>
-        <id>https://thedefiant.io/news/defi/hyperliquid-tops-perpetuals-sector-rankings</id>
-        <link href="https://thedefiant.io/news/defi/hyperliquid-tops-perpetuals-sector-rankings"/>
-        <updated>2024-08-09T06:50:50.000Z</updated>
-        <summary type="html"><![CDATA[The perpetual futures DEX processed a record $4.3 billion in trading volume on August 5.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
