@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-22T04:09:06.456Z</id>
+    <id>urn:2024-08-22T05:07:22.489Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-22T04:09:06.456Z</updated>
+    <updated>2024-08-22T05:07:22.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brazil Approves Second Spot Solana ETF]]></title>
+        <id>https://thedefiant.io/news/regulation/brazil-approves-second-spot-solana-etf</id>
+        <link href="https://thedefiant.io/news/regulation/brazil-approves-second-spot-solana-etf"/>
+        <updated>2024-08-22T04:59:22.000Z</updated>
+        <summary type="html"><![CDATA[Meanwhile, analysts believe that approval of spot Solana ETFs in the U.S. is unlikely under the current administration.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Launches on ZKsync Era]]></title>
         <id>https://thedefiant.io/news/defi/aave-launches-on-zksync-era</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Switchboard, a multi-chain, permissionless oracle protocol, has announced its plans to support Jito's re-staking platform on Solana]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase-backed Vega Protocol Takes Aim at Polymarket With New Prediction Market]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-backed-vega-protocol-takes-aim-at-polymarket-with-new-prediction-market</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-backed-vega-protocol-takes-aim-at-polymarket-with-new-prediction-market"/>
-        <updated>2024-08-09T07:24:09.000Z</updated>
-        <summary type="html"><![CDATA[The new feature is part of Cosmos-based Vega’s latest Colosseo II upgrade.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
