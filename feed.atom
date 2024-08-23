@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-23T14:07:09.688Z</id>
+    <id>urn:2024-08-23T15:08:25.072Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-23T14:07:09.688Z</updated>
+    <updated>2024-08-23T15:08:25.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Transaction Fees Spike 10x Amid Babylon’s Mainnet Launch]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-transaction-fees-spike-10x-amid-babylon-s-mainnet-launch</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-transaction-fees-spike-10x-amid-babylon-s-mainnet-launch"/>
+        <updated>2024-08-23T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Users maxed out Babylon’s 1,000 BTC deposit limit within four hours despite the protocol limiting transfers to 0.05 BTC per transaction.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tron Community Shaken By 12,000 BTC Withdrawal From USDD Reserves]]></title>
         <id>https://thedefiant.io/news/tokens/tron-community-shaken-by-12-000-btc-withdrawal-from-usdd-reserves</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/customers-bancorp-becomes-latest-crypto-friendly-bank-hit-by-enforcement-action</id>
         <link href="https://thedefiant.io/news/regulation/customers-bancorp-becomes-latest-crypto-friendly-bank-hit-by-enforcement-action"/>
         <updated>2024-08-12T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Web3 advocates described the move as the latest chapter in a coordinated attack on U.S. banks providing services to crypto firms.]]></summary>
+        <summary type="html"><![CDATA[Customer Bancorp is latest crypto-friendly U.S. bank to face regulatory scrutiny.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/makerdao-mulls-offboarding-wbtc-amid-wrapped-bitcoin-restructure</id>
         <link href="https://thedefiant.io/news/defi/makerdao-mulls-offboarding-wbtc-amid-wrapped-bitcoin-restructure"/>
         <updated>2024-08-12T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO community memebers are calling for the project to offboard WBTC in response to Justin Sun's looming involvement with Wrapped Bitcoin.]]></summary>
+        <summary type="html"><![CDATA[BiT Global and Justin Sun’ will soon exercise control over Wrapped Bitcoin through a joint venture with BitGo.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Samsung Web3 TVs will feature Illuvium NFTs as part of the strategic partnership between the two entities.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Awards $1 Million to Whistleblower in Digital Asset Case]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case"/>
-        <updated>2024-08-09T10:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Nearly half of the CFTC's cases in the last fiscal year were related to digital assets.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
