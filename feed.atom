@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-26T19:06:39.245Z</id>
+    <id>urn:2024-08-26T20:08:45.904Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-26T19:06:39.245Z</updated>
+    <updated>2024-08-26T20:08:45.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tokenized Treasuries Market Cap Hits $2 Billion]]></title>
+        <id>https://thedefiant.io/news/defi/tokenized-treasuries-market-cap-hits-2-billion</id>
+        <link href="https://thedefiant.io/news/defi/tokenized-treasuries-market-cap-hits-2-billion"/>
+        <updated>2024-08-26T19:16:15.000Z</updated>
+        <summary type="html"><![CDATA[The market for tokenized treasuries has experienced significant growth, reaching a market capitalization of $2 billion]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantasy.Top Mounts a Comeback with ‘Tactics V2’]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/fantasy-top-mounts-a-comeback-with-tactics-v2</id>
@@ -13,6 +23,26 @@
         <summary type="html"><![CDATA[The SocialFi trading card game recorded its highest trading volume since June on August 23.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Market Cap, Excluding Algorithmic, Hits Record $168 Billion]]></title>
+        <id>https://thedefiant.io/news/defi/stablecoin-market-cap-excluding-algorithmic-hits-record-168-billion</id>
+        <link href="https://thedefiant.io/news/defi/stablecoin-market-cap-excluding-algorithmic-hits-record-168-billion"/>
+        <updated>2024-08-26T16:18:50.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin market cap, excluding algorithmic stablecoins, has reached a new all-time high of $168 billion, surpassing the previous record set in early 2022]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base Hits 1M Daily Addresses, 4.3M Transactions, $4.1B Transfers]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-hits-1m-daily-addresses-4-3m-transactions-4-1b-transfers</id>
+        <link href="https://thedefiant.io/news/blockchains/base-hits-1m-daily-addresses-4-3m-transactions-4-1b-transfers"/>
+        <updated>2024-08-26T16:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Base, a Layer 2 blockchain network on Ethereum, has achieved significant growth milestones]]></summary>
+        <author>
+            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-layer-2s-push-gas-fees-to-four-year-lows</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-layer-2s-push-gas-fees-to-four-year-lows"/>
         <updated>2024-08-13T19:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Analysts say users shouldn’t be counting on transaction costs to remain this low for long.]]></summary>
+        <summary type="html"><![CDATA[Low prices drove Ethereum’s gas fees to the single digits in the past days, but experts are warning that these levels likely won’t last.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/cefi/tether-says-celsius-lawsuit-is-a-shake-down</id>
         <link href="https://thedefiant.io/news/cefi/tether-says-celsius-lawsuit-is-a-shake-down"/>
         <updated>2024-08-13T18:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Celsius Network, a bankrupt cryptocurrency lender, is demanding $3.5 billion in damages and returns from Tether, alleging improper liquidation of Bitcoin collateral. Tether labeled the lawsuit a "shake down.]]></summary>
+        <summary type="html"><![CDATA[Celsius is suing Tether over dispute on bitcoin collateral liquidation, demands $3.5 billion]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[June and July set consecutive all time high unique L2 addresses on Uniswap.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Developers Quietly Patched a Critical Vulnerability]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability"/>
-        <updated>2024-08-09T21:35:07.000Z</updated>
-        <summary type="html"><![CDATA[A Discord alert triggered core contributors to quickly push out a fix this week.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple Starts Testing Its RLUSD Stablecoin on XRPLedger and Ethereum]]></title>
-        <id>https://thedefiant.io/news/blockchains/ripple-starts-testing-its-rlusd-stablecoin-on-xrpledger-and-ethereum</id>
-        <link href="https://thedefiant.io/news/blockchains/ripple-starts-testing-its-rlusd-stablecoin-on-xrpledger-and-ethereum"/>
-        <updated>2024-08-09T19:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Tests are conducted in private beta until the token receives regulatory clearance.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pepe Unchained Raises Millions For a Memecoin-Fueled Layer 2]]></title>
-        <id>https://thedefiant.io/news/blockchains/pepe-unchained-raises-millions-for-a-memecoin-fueled-layer-2</id>
-        <link href="https://thedefiant.io/news/blockchains/pepe-unchained-raises-millions-for-a-memecoin-fueled-layer-2"/>
-        <updated>2024-08-09T19:15:41.000Z</updated>
-        <summary type="html"><![CDATA[The ecosystem claims it's built for speed, security, low fees, and memes. It's raised almost $8 million for the presale of its PEPU token.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
