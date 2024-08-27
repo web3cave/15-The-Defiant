@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T12:13:10.020Z</id>
+    <id>urn:2024-08-27T13:13:08.181Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T12:13:10.020Z</updated>
+    <updated>2024-08-27T13:13:08.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Miden Integrates QED Protocol To Accelerate Transaction Execution]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-miden-integrates-qed-protocol-to-accelerate-transaction-execution</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-miden-integrates-qed-protocol-to-accelerate-transaction-execution"/>
+        <updated>2024-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[QED Protocol’s WebGPU API is estimated to speed up client-side proving on Miden by 10 times.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakerDAO Schedules "Sky" Rebrands and USDS Stablecoin Launch]]></title>
         <id>https://thedefiant.io/news/defi/makerdao-schedules-sky-rebrands-and-usds-stablecoin-launch</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/neon-evm-unveils-new-loyalty-points-program</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/neon-evm-unveils-new-loyalty-points-program"/>
         <updated>2024-08-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Neon EVM is the latest project to launch a points campaign to reward early users and incentivize new adoption.]]></summary>
+        <summary type="html"><![CDATA[Points are reward tokens earned through activities such as staking, trading, or participating in governance.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[It’s harder than ever to mine Bitcoin as the reward is also hardest to come by.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canto Blockchain Suffers Multi-Day Outage Due To 'Consensus Problem']]></title>
-        <id>https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem</id>
-        <link href="https://thedefiant.io/news/blockchains/canto-blockchain-suffers-multi-day-outage-due-to-consensus-problem"/>
-        <updated>2024-08-12T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Canto blockchain last processed a transaction two days ago.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
