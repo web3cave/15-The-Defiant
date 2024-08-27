@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court",
+          "author": "Mehab Qureshi",
+          "description": "The SEC has increased its scrutiny of the cryptocurrency industry over the years.",
+          "link": "https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court",
+          "publishedOn": "2024-08-27T15:25:00.000Z",
+          "wordCount": 3687,
+          "title": "SEC Charges Abra, Prepares To Battle Kraken In Court",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a83f81347ba9d41b67a03fe71042f518e409ee71-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a83f81347ba9d41b67a03fe71042f518e409ee71-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polygon-miden-integrates-qed-protocol-to-accelerate-transaction-execution",
           "author": "Samuel Haig",
           "description": "QED Protocol’s WebGPU API is estimated to speed up client-side proving on Miden by 10 times.",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/320ab5652da22b34711318c84ae8584c98342d4f-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in",
-          "author": "Pedro Solimano",
-          "description": "It’s harder than ever to mine Bitcoin as the reward is also hardest to come by.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in",
-          "publishedOn": "2024-08-12T20:20:41.000Z",
-          "wordCount": 3943,
-          "title": "Bitcoin Miners At ‘Max Pain’ As Experts Reckon Bottom Is In",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca736a9b007a704d4d906c5c42c84db458474359-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca736a9b007a704d4d906c5c42c84db458474359-1792x1024.webp"
         }
       ]
     }
