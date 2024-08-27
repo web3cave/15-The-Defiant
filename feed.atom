@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T17:06:30.455Z</id>
+    <id>urn:2024-08-27T18:09:50.220Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T17:06:30.455Z</updated>
+    <updated>2024-08-27T18:09:50.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“This Technology Can’t Be Stopped,” Says Top Argentina Regulator About Crypto]]></title>
+        <id>https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto</id>
+        <link href="https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto"/>
+        <updated>2024-08-27T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Vitolo, General Inspector of Justice for Argentina, is one of many government officials becoming friendly with the crypto movement Crecimiento.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Community Rattled by Foundation’s ETH Sales and Vitalik’s “DeFi Hate”]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[“There’s a lot of untapped value in the Bitcoin ecosystem,” said Alex Shevchenko, the CEO of Aurora Labs.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Community Approves Bridging wstETH Onto BNB Chain]]></title>
-        <id>https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain</id>
-        <link href="https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain"/>
-        <updated>2024-08-13T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The vote greenlit Wormhole and Axelar to serve as the canonical bridge for wstETH on BNB Chain.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
