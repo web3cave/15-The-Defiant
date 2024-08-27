@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T09:07:53.751Z</id>
+    <id>urn:2024-08-27T10:07:38.805Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T09:07:53.751Z</updated>
+    <updated>2024-08-27T10:07:38.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[France Reveals Charges Levied Against Telegram CEO Pavel Durov]]></title>
+        <id>https://thedefiant.io/news/regulation/france-reveals-charges-levied-against-telegram-ceo-pavel-durov</id>
+        <link href="https://thedefiant.io/news/regulation/france-reveals-charges-levied-against-telegram-ceo-pavel-durov"/>
+        <updated>2024-08-27T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Durov is accused of complicity in a slew of cybercrime stemming from his failure to enforce content moderation on Telegram.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized Treasuries Market Cap Hits $2 Billion]]></title>
         <id>https://thedefiant.io/news/defi/tokenized-treasuries-market-cap-hits-2-billion</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bart-simpson-pattern-pushes-bitcoin-price-below-usd60k-despite-inflation-slowing</id>
         <link href="https://thedefiant.io/news/markets/bart-simpson-pattern-pushes-bitcoin-price-below-usd60k-despite-inflation-slowing"/>
         <updated>2024-08-14T15:56:00.000Z</updated>
-        <summary type="html"><![CDATA[The Consumer Price Index increased by just 0.2% in July.]]></summary>
+        <summary type="html"><![CDATA[Bears rejected Bitcoin rallying above $61,000, with BTC last changing hands for $59,360.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-discloses-usd418-million-in-bitcoin-etf-holdings"/>
         <updated>2024-08-14T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Goldman Sachs, the global investment bank, disclosed holding shares in the spot Bitcoin ETFs worth $418 million.]]></summary>
+        <summary type="html"><![CDATA[Wells Fargo, Morgan Stanley, and JPMorgan Chase also hold spot Bitcoin ETF shares.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Superstate said the integration bolsters the composability of its USTB token within DeFi.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Plans To Unlock Superchain Interoperability Next Year]]></title>
-        <id>https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year</id>
-        <link href="https://thedefiant.io/news/blockchains/optimism-plans-to-unlock-superchain-interoperability-next-year"/>
-        <updated>2024-08-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The launch of native Superchain interoperability is designed to make transacting across ecosystem networks feel like using a single chain.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
