@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ton-goes-offline-for-seven-hours-amid-dogs-airdrop",
+          "author": "Samuel Haig",
+          "description": "The Open network suffered a seven-hour outage as memecoin degens raced to claim DOGS tokens.",
+          "link": "https://thedefiant.io/news/blockchains/ton-goes-offline-for-seven-hours-amid-dogs-airdrop",
+          "publishedOn": "2024-08-28T09:56:00.000Z",
+          "wordCount": 3104,
+          "title": "TON Goes Offline For Seven Hours Amid DOGS Airdrop",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e3cfea36bd0d5b86d336fb99707ce6e876c0458c-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3cfea36bd0d5b86d336fb99707ce6e876c0458c-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/sony-launches-testnet-and-incubator-for-soneium-layer-2",
+          "author": "Mehab Qureshi",
+          "description": "Soneium wants to foster projects targeting the DeFi, NFT, gaming, and social sectors.",
+          "link": "https://thedefiant.io/news/blockchains/sony-launches-testnet-and-incubator-for-soneium-layer-2",
+          "publishedOn": "2024-08-28T09:14:00.000Z",
+          "wordCount": 3356,
+          "title": "Sony Launches Testnet and Incubator For Soneium Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85b21920cbd3d5eca2e3a5ff543c9e869b6dad19-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85b21920cbd3d5eca2e3a5ff543c9e869b6dad19-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-friday-futures-on-september-30",
           "author": "DeepNewz",
           "description": "CME Group has announced the launch of Bitcoin Friday Futures (BFF) on September 30, 2024",
@@ -1228,7 +1258,7 @@
         {
           "id": "https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf",
           "author": "Samuel Haig",
-          "description": "Base developers can now access Chainlink's entire product suite after the Layer 2 integrated support for Chainlink's Data Streams and VRF products.",
+          "description": "Base developers can access Chainlink’s Price Feeds, CCIP, Functions, Data Streams, and VRF products.",
           "link": "https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf",
           "publishedOn": "2024-08-15T14:00:00.000Z",
           "wordCount": 3062,
@@ -1449,36 +1479,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19107f146906f379447d48ae773e285c642a054b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ton-ventures-spins-out-of-ton-foundation-after-usd40-million-raise",
-          "author": "Mehab Qureshi",
-          "description": "TON Ventures aims to connect investors and developers within the TON ecosystem.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ton-ventures-spins-out-of-ton-foundation-after-usd40-million-raise",
-          "publishedOn": "2024-08-14T12:00:00.000Z",
-          "wordCount": 3579,
-          "title": "TON Ventures Spins Out Of TON Foundation After $40 Million Raise",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8174f3d8761bcc617b1d44fab27760f4eec38486-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8174f3d8761bcc617b1d44fab27760f4eec38486-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-teases-cbbtc-amid-wrapped-bitcoin-drama",
-          "author": "Samuel Haig",
-          "description": "Coinbase tweeted that cbBTC is “coming soon,” while Base announced plans to foster a Bitcoin-based DeFi ecosystem.",
-          "link": "https://thedefiant.io/news/defi/coinbase-teases-cbbtc-amid-wrapped-bitcoin-drama",
-          "publishedOn": "2024-08-14T08:52:00.000Z",
-          "wordCount": 3232,
-          "title": "Coinbase Teases cbBTC Amid Wrapped Bitcoin Drama",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ae5967f7e5a5f642eb349fd3b27c32b068436660-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ae5967f7e5a5f642eb349fd3b27c32b068436660-1792x1024.webp"
         }
       ]
     }
