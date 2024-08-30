@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-30T11:08:10.649Z</id>
+    <id>urn:2024-08-30T12:13:22.598Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-30T11:08:10.649Z</updated>
+    <updated>2024-08-30T12:13:22.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Court Dismisses $258B Lawsuit Alleging Elon Musk and Tesla Manipulated Dogecoin]]></title>
+        <id>https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin</id>
+        <link href="https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin"/>
+        <updated>2024-08-30T11:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The court found Musk’s statements to be non-factual and aspirational, describing them as "puffery."]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aerodrome Tops 2024 DEX Revenue Rankings]]></title>
         <id>https://thedefiant.io/news/defi/aerodrome-tops-2024-dex-revenue-rankings</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/ex-sushi-cto-joseph-delong-s-new-venture-is-a-socialfi-dapp-called-untitled</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/ex-sushi-cto-joseph-delong-s-new-venture-is-a-socialfi-dapp-called-untitled"/>
         <updated>2024-08-17T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The platform facilitates a Dutch auction-powered economy for web3-native social posting.]]></summary>
+        <summary type="html"><![CDATA[Joseph Delong's new platform, Untitled, offers an innovative take on decentralized social media.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/blast-struggles-after-its-highly-anticipated-airdrop</id>
         <link href="https://thedefiant.io/news/defi/blast-struggles-after-its-highly-anticipated-airdrop"/>
         <updated>2024-08-16T20:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Blast critics are running victory laps as the heavily hyped Layer 2 (L2) experiences an onchain exodus.]]></summary>
+        <summary type="html"><![CDATA[The Layer 2’s metrics are in free fall as airdrop farmers leave the ecosystem en masse.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Uniswap Labs has announced a major security competition with a prize pool of $2]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Completes Chainlink Rollout With Data Streams and VRF]]></title>
-        <id>https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf</id>
-        <link href="https://thedefiant.io/news/defi/base-completes-chainlink-rollout-with-data-streams-and-vrf"/>
-        <updated>2024-08-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Base developers can access Chainlink’s Price Feeds, CCIP, Functions, Data Streams, and VRF products.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
