@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-02T14:07:03.100Z</id>
+    <id>urn:2024-09-02T15:07:39.931Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-02T14:07:03.100Z</updated>
+    <updated>2024-09-02T15:07:39.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Miners Suffer Worst Month In One Year]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year"/>
+        <updated>2024-09-02T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[March recorded the highest miner revenue in the last 12 months, peaking at $2 billion.]]></summary>
+        <author>
+            <name>Samuel Haig and Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SafeDAO Proposes Collecting Swap Fees As Revenue]]></title>
         <id>https://thedefiant.io/news/defi/safedao-proposes-collecting-swap-fees-as-revenue</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[SunPump claims to be the Tron network's first memecoin launchpad.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTX Global Partners with Justin Sun's SunPump for Meme Coins on Tron]]></title>
-        <id>https://thedefiant.io/news/defi/htx-global-partners-justin-sun-s-sunpump-meme-coins-on-tron</id>
-        <link href="https://thedefiant.io/news/defi/htx-global-partners-justin-sun-s-sunpump-meme-coins-on-tron"/>
-        <updated>2024-08-16T16:34:16.000Z</updated>
-        <summary type="html"><![CDATA[HTX Global has announced a collaboration with SunPump, a new platform for swap, yield farming, and self-governance on the Tron blockchain]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
