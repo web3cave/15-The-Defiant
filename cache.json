@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade",
+          "author": "Mehab Qureshi",
+          "description": "Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.",
+          "link": "https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade",
+          "publishedOn": "2024-09-03T16:00:00.000Z",
+          "wordCount": 2477,
+          "title": "Arbitrum Ships Stylus Upgrade",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f43c12f2f4ad16d729e58b2043b20b4360283d45-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f43c12f2f4ad16d729e58b2043b20b4360283d45-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal",
           "author": "Samuel Haig and Mehab Qureshi",
           "description": "Sky wants to bootstrap the growth of its new USDS stablecoin via Aave v3, with both projects agreeing to split revenue evenly.",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/687cbcae954070a06269cf8322c18ff86c338b29-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/tether-s-usdt-to-launch-on-layer-1-aptos-promising-gas-fees-below-usd0-01",
-          "author": "Mehab Qureshi",
-          "description": "Tether said USDT transfers will have gas fees below $0.01.",
-          "link": "https://thedefiant.io/news/blockchains/tether-s-usdt-to-launch-on-layer-1-aptos-promising-gas-fees-below-usd0-01",
-          "publishedOn": "2024-08-19T17:51:57.000Z",
-          "wordCount": 2459,
-          "title": "Tether’s USDT to Launch on Layer 1 Aptos",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39669f76722d336354a430bc483db9378af0888b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39669f76722d336354a430bc483db9378af0888b-1792x1024.webp"
         }
       ]
     }

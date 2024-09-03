@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-03T15:07:49.202Z</id>
+    <id>urn:2024-09-03T16:09:53.276Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-03T15:07:49.202Z</updated>
+    <updated>2024-09-03T16:09:53.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Ships Stylus Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade"/>
+        <updated>2024-09-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave and Sky Set Differences Aside For USDS Incentives Proposal]]></title>
         <id>https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[CRV holders are unhappy with the proposal requesting 44% of the Curve Community Fund’s holdings without providing a detailed costing analysis.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether’s USDT to Launch on Layer 1 Aptos]]></title>
-        <id>https://thedefiant.io/news/blockchains/tether-s-usdt-to-launch-on-layer-1-aptos-promising-gas-fees-below-usd0-01</id>
-        <link href="https://thedefiant.io/news/blockchains/tether-s-usdt-to-launch-on-layer-1-aptos-promising-gas-fees-below-usd0-01"/>
-        <updated>2024-08-19T17:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Tether said USDT transfers will have gas fees below $0.01.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
