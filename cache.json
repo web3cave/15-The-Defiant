@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-price-drops-to-kick-off-historically-bearish-september",
+          "author": "Mehab Qureshi",
+          "description": "Traders look ahead to Friday’s jobs numbers and the Fed meeting later this month.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-price-drops-to-kick-off-historically-bearish-september",
+          "publishedOn": "2024-09-03T20:29:21.000Z",
+          "wordCount": 2338,
+          "title": "Bitcoin Price Drops to Kick Off Historically Bearish September",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2bfdc237a6fc0d8cca495901df10b4d6851fed87-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2bfdc237a6fc0d8cca495901df10b4d6851fed87-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pendle-pauses-contracts-after-yield-protocol-penpie-suffers-usd27-million-exploit",
+          "author": "Pedro Solimano",
+          "description": "The attacker exploited a smart contract vulnerability, said cybersecurity firm Cyvers.",
+          "link": "https://thedefiant.io/news/defi/pendle-pauses-contracts-after-yield-protocol-penpie-suffers-usd27-million-exploit",
+          "publishedOn": "2024-09-03T20:10:26.000Z",
+          "wordCount": 2296,
+          "title": "Pendle Pauses Contracts After Yield Protocol Penpie Suffers $27 Million Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a38ec4df812aba822c5cfbdd2e74683b1ef18f45-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a38ec4df812aba822c5cfbdd2e74683b1ef18f45-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures",
           "author": "Squiffs",
           "description": "The crypto-focused fund that shut down after losing substantial assets on FTX quickly announced its intent to settle with the SEC and is “glad to put this matter behind us.”",
@@ -1203,7 +1233,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-s-on-chain-treasuries-fund-launches-on-avalanche",
           "author": "Samuel Haig",
-          "description": "The move comes two weeks after the fund expanded onto Arbitrum.",
+          "description": "Franklin Templeton expanded its tokenized U.S. treasuries fund onto Avalanche two weeks after launching on Arbitrum.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-s-on-chain-treasuries-fund-launches-on-avalanche",
           "publishedOn": "2024-08-22T13:00:00.000Z",
           "wordCount": 2494,
@@ -1233,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/harris-campaign-advisor-says-kamala-will-support-crypto-industry",
           "author": "Mehab Qureshi",
-          "description": "Brian Nelson, senior advisor to Kamala Harris' campaign, said a Harris administration will support crypto innovation.",
+          "description": "Nelson’s statements come in spite of the Democratic Party’s 2024 policy platform making no mention of crypto.",
           "link": "https://thedefiant.io/news/regulation/harris-campaign-advisor-says-kamala-will-support-crypto-industry",
           "publishedOn": "2024-08-22T11:19:00.000Z",
           "wordCount": 2545,
@@ -1454,36 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fd4d50d890218ba286b14c5960975c1e7901578e-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/democrats-2024-manifesto-ignores-crypto",
-          "author": "Pedro Solimano",
-          "description": "The 90-page document makes no mention of cryptocurrency at a pivotal time in U.S. politics, despite Trump embracing the industry.",
-          "link": "https://thedefiant.io/news/regulation/democrats-2024-manifesto-ignores-crypto",
-          "publishedOn": "2024-08-20T17:40:09.000Z",
-          "wordCount": 2483,
-          "title": "Democrats’ 2024 Manifesto Ignores Crypto",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8243b60d834c342eb720dfe5702ecce316bcf162-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8243b60d834c342eb720dfe5702ecce316bcf162-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bears-halt-crypto-market-rally",
-          "author": "Samuel Haig and Mehab Qureshi",
-          "description": "Digital assets suffered a sharp retracement alongside U.S. stocks after surging in the early hours of Tuesday.",
-          "link": "https://thedefiant.io/news/markets/bears-halt-crypto-market-rally",
-          "publishedOn": "2024-08-20T17:22:00.000Z",
-          "wordCount": 2655,
-          "title": "Bears Halt Crypto Market Rally",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d401f914293908fdac8bdbf844febf99e3ec7da8-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d401f914293908fdac8bdbf844febf99e3ec7da8-1792x1024.webp"
         }
       ]
     }
