@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/matter-labs-lays-off-staff-for-the-first-time-since-inception",
+          "author": "Pedro Solimano",
+          "description": "The company behind Ethereum Layer 2 ZKsync is firing 24 employees to keep the team “agile and effective.”",
+          "link": "https://thedefiant.io/news/blockchains/matter-labs-lays-off-staff-for-the-first-time-since-inception",
+          "publishedOn": "2024-09-03T16:17:53.000Z",
+          "wordCount": 2440,
+          "title": "Matter Labs Lays Off Staff for the First Time Since Inception",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/99e3a549b8ff60ad7d8aad7fcb9e9b51a3051399-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99e3a549b8ff60ad7d8aad7fcb9e9b51a3051399-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade",
           "author": "Mehab Qureshi",
           "description": "Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade",
           "publishedOn": "2024-09-03T16:00:00.000Z",
-          "wordCount": 2477,
+          "wordCount": 2479,
           "title": "Arbitrum Ships Stylus Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f43c12f2f4ad16d729e58b2043b20b4360283d45-1792x1024.webp",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa31447d80603dfec17c0fd6ec56f8b971aa41b1-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/michael-egorov-requests-21m-crv-grant-to-fund-curve-s-development-team",
-          "author": "Samuel Haig",
-          "description": "CRV holders are unhappy with the proposal requesting 44% of the Curve Community Fund’s holdings without providing a detailed costing analysis.",
-          "link": "https://thedefiant.io/news/defi/michael-egorov-requests-21m-crv-grant-to-fund-curve-s-development-team",
-          "publishedOn": "2024-08-20T09:54:00.000Z",
-          "wordCount": 2706,
-          "title": "Michael Egorov Requests 21M CRV Grant To Fund Curve’s Development Team",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/687cbcae954070a06269cf8322c18ff86c338b29-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/687cbcae954070a06269cf8322c18ff86c338b29-1792x1024.webp"
         }
       ]
     }
