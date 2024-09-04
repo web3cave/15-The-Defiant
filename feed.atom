@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T11:06:02.027Z</id>
+    <id>urn:2024-09-04T12:14:41.200Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-04T11:06:02.027Z</updated>
+    <updated>2024-09-04T12:14:41.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Movement Labs Claims One Second L2 Transaction Confirmations Are Possible]]></title>
+        <id>https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible</id>
+        <link href="https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible"/>
+        <updated>2024-09-04T11:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Movement Labs said its new postconfirmation finalization mechanism could unlock new DeFi applications.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloomberg Terminal Integrates Polymarket Election Data]]></title>
         <id>https://thedefiant.io/news/defi/bloomberg-terminal-integrates-polymarket-election-data</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/avax-rallies-7-on-grayscale-avalanche-trust-announcement</id>
         <link href="https://thedefiant.io/news/markets/avax-rallies-7-on-grayscale-avalanche-trust-announcement"/>
         <updated>2024-08-22T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[AVAX rallied 6% in one hour in response to the launch of the Grayscale Avalanche Trust.]]></summary>
+        <summary type="html"><![CDATA[Grayscales now offers 22 digital asset trusts, including 18 single-asset funds.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Runes have accounted for less than 50% of Bitcoin transactions in only nine of the past thirty days. Meanwhile, interest in Ordinals has plummeted.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRX Posts 18% Weekly Gain Driven by Memecoin Madness]]></title>
-        <id>https://thedefiant.io/news/defi/trx-posts-18-weekly-gain-driven-by-memecoin-madness</id>
-        <link href="https://thedefiant.io/news/defi/trx-posts-18-weekly-gain-driven-by-memecoin-madness"/>
-        <updated>2024-08-20T18:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun’s  Layer 1 blockchain is one of the largest gainers on the week thanks to an influx of degen traders.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
