@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
+          "author": "Samuel Haig",
+          "description": "Developers can build and chain together money market vaults using Euler v2.",
+          "link": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
+          "publishedOn": "2024-09-04T14:00:00.000Z",
+          "wordCount": 2592,
+          "title": "Euler Finance Rises From The Ashes With Modular v2 Release",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/86d401b29f86692607883bcf3b18b7f90c588641-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86d401b29f86692607883bcf3b18b7f90c588641-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible",
           "author": "Mehab Qureshi",
           "description": "Movement Labs said its new postconfirmation finalization mechanism could unlock new DeFi applications.",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/022fd6037e4205eb06bf86c8828dbe92ca3f9765-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ordinals-flounder-while-runes-dominate-bitcoin-network",
-          "author": "Pedro Solimano",
-          "description": "Runes have accounted for less than 50% of Bitcoin transactions in only nine of the past thirty days. Meanwhile, interest in Ordinals has plummeted.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ordinals-flounder-while-runes-dominate-bitcoin-network",
-          "publishedOn": "2024-08-20T20:08:52.000Z",
-          "wordCount": 2538,
-          "title": "Ordinals Flounder While Runes Dominate Bitcoin Network",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8e48944cfddf7674761bdf954e9c230a21649ae3-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8e48944cfddf7674761bdf954e9c230a21649ae3-1792x1024.webp"
         }
       ]
     }

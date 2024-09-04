@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T13:15:26.882Z</id>
+    <id>urn:2024-09-04T14:07:15.033Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-04T13:15:26.882Z</updated>
+    <updated>2024-09-04T14:07:15.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Euler Finance Rises From The Ashes With Modular v2 Release]]></title>
+        <id>https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration</id>
+        <link href="https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration"/>
+        <updated>2024-09-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers can build and chain together money market vaults using Euler v2.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movement Labs Claims One Second L2 Transaction Confirmations Are Possible]]></title>
         <id>https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Users are growing increasingly frustrated with the rollercoaster price action of memecoins on the leading Solana-based launchpad platform.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordinals Flounder While Runes Dominate Bitcoin Network]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ordinals-flounder-while-runes-dominate-bitcoin-network</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ordinals-flounder-while-runes-dominate-bitcoin-network"/>
-        <updated>2024-08-20T20:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Runes have accounted for less than 50% of Bitcoin transactions in only nine of the past thirty days. Meanwhile, interest in Ordinals has plummeted.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
