@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T19:06:15.507Z</id>
+    <id>urn:2024-09-04T20:08:38.111Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-04T19:06:15.507Z</updated>
+    <updated>2024-09-04T20:08:38.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Migrates MATIC to POL Token in Road to Polygon 2.0]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0"/>
+        <updated>2024-09-04T19:39:21.000Z</updated>
+        <summary type="html"><![CDATA[The migration brings additional utility to the token.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Trades Flat as Crypto Market Cap Hovers at $2 Trillion]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-trades-flat-as-crypto-market-cap-hovers-at-usd2-trillion</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/sony-unveils-web3-division-and-layer-2-network</id>
         <link href="https://thedefiant.io/news/blockchains/sony-unveils-web3-division-and-layer-2-network"/>
         <updated>2024-08-23T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony Block Solutions Labs and Startale Labs will soon launch a testnet for the upcoming Soneium Layer 2 network.]]></summary>
+        <summary type="html"><![CDATA[Sony is teaming up with Startale Labs, the team behind Astar, to develop and Ethereum Layer 2.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move follows Xai's emergence as the top Layer 3 network by transaction throughput.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Tumble Amid Mt. Gox Transfers]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-tumble-amid-mt-gox-transfers</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-tumble-amid-mt-gox-transfers"/>
-        <updated>2024-08-21T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Mt. Gox is preparing for another round of payouts to its creditors.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
