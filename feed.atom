@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T10:08:06.140Z</id>
+    <id>urn:2024-09-04T11:06:02.027Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-04T10:08:06.140Z</updated>
+    <updated>2024-09-04T11:06:02.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bloomberg Terminal Integrates Polymarket Election Data]]></title>
+        <id>https://thedefiant.io/news/defi/bloomberg-terminal-integrates-polymarket-election-data</id>
+        <link href="https://thedefiant.io/news/defi/bloomberg-terminal-integrates-polymarket-election-data"/>
+        <updated>2024-09-04T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The integration comes as Polymarket is enjoying record adoption.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Price Drops to Kick Off Historically Bearish September]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-price-drops-to-kick-off-historically-bearish-september</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/avax-rallies-7-on-grayscale-avalanche-trust-announcement</id>
         <link href="https://thedefiant.io/news/markets/avax-rallies-7-on-grayscale-avalanche-trust-announcement"/>
         <updated>2024-08-22T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Grayscales now offers 22 digital asset trusts, including 18 single-asset funds.]]></summary>
+        <summary type="html"><![CDATA[AVAX rallied 6% in one hour in response to the launch of the Grayscale Avalanche Trust.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-s-on-chain-treasuries-fund-launches-on-avalanche</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-s-on-chain-treasuries-fund-launches-on-avalanche"/>
         <updated>2024-08-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Franklin Templeton expanded its tokenized U.S. treasuries fund onto Avalanche two weeks after launching on Arbitrum.]]></summary>
+        <summary type="html"><![CDATA[The move comes two weeks after the fund expanded onto Arbitrum.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Justin Sun’s  Layer 1 blockchain is one of the largest gainers on the week thanks to an influx of degen traders.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Mining Operations are Pivoting to AI]]></title>
-        <id>https://thedefiant.io/news/infrastructure/bitcoin-mining-operations-are-pivoting-to-ai</id>
-        <link href="https://thedefiant.io/news/infrastructure/bitcoin-mining-operations-are-pivoting-to-ai"/>
-        <updated>2024-08-20T18:08:27.000Z</updated>
-        <summary type="html"><![CDATA[BTC miners are asking whether they should transition their energy assets into something more profitable, said Nick Hansen, CEO of mining firm Luxor.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
