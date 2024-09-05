@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-05T18:08:51.109Z</id>
+    <id>urn:2024-09-05T19:05:48.165Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-05T18:08:51.109Z</updated>
+    <updated>2024-09-05T19:05:48.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Drop on U.S. Labor Market Concerns]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-drop-on-u-s-labor-market-concerns</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-on-u-s-labor-market-concerns"/>
+        <updated>2024-09-05T17:58:07.000Z</updated>
+        <summary type="html"><![CDATA[The number of active addresses on the Bitcoin network has hit the lowest level since 2021.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Injective Enables Traders to Bet On Growth of BlackRock's BUIDL Fund]]></title>
         <id>https://thedefiant.io/news/defi/injective-enables-traders-to-bet-on-growth-of-blackrock-s-buidl-fund</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/telegram-ceo-pavel-durov-s-detention-extended-after-paris-arrest</id>
         <link href="https://thedefiant.io/news/regulation/telegram-ceo-pavel-durov-s-detention-extended-after-paris-arrest"/>
         <updated>2024-08-26T09:13:00.000Z</updated>
-        <summary type="html"><![CDATA[On Aug. 24, Durov was arrested at Le Bourget airport north of Paris.]]></summary>
+        <summary type="html"><![CDATA[Telegram's CEO remains in the custody of French authorities following his arrest on Saturday.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move comes two weeks after the fund expanded onto Arbitrum.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near Protocol Deploys Nightshade 2.0 Upgrade On Mainnet]]></title>
-        <id>https://thedefiant.io/news/blockchains/near-protocol-deploys-nightshade-2-0-upgrade-on-mainnet</id>
-        <link href="https://thedefiant.io/news/blockchains/near-protocol-deploys-nightshade-2-0-upgrade-on-mainnet"/>
-        <updated>2024-08-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Near estimates the upgrade will speed up transaction execution by 400%.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
