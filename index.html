@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-09 datetime="2024-09-09T10:10:00.000Z">2024-09-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-09 datetime="2024-09-09T10:10:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/defi/friendtech-transfers-control-to-ethereum-burn-address"
+                        open
+                      >
+                        <summary class="article-expander__title">FriendTech Transfers Control Over Its Contracts To Burn Address</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/defi/friendtech-transfers-control-to-ethereum-burn-address">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/f72ab452d0a6c8612aad8b0e9ebd1fd7fa4b12e8-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Onlookers inferred the FriendTech effectively shuttered the project after the once-booming platform&#x27;s adoption evaporated.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-07 datetime="2024-09-07T15:47:31.000Z">2024-09-07</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-07 datetime="2024-09-07T15:47:31.000Z"></time>
           </button>
@@ -196,7 +244,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/e2f5377687a9f9fcfe923f738337496c5a6c9a07-1200x600.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Lombard Finance has introduced LBTC, a Bitcoin liquid staking token, which is now integrated into the Morpho ecosystem</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -436,7 +484,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/87fbf3c21a965bd6c6ce1c611df6a0bebf7575a1-1292x738.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>The alternative decentralized exchange features a no-code token launchpad and seeks to mitigate quick rugpulls.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -544,7 +592,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/2914b2f89628f126b1705bd550c8da87a565b893-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>BUIDL has emerged as the leading tokenized Treasury fund, managing $517 million in assets.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1188,7 +1236,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/1ceca48cb7b40af9fe08d8455a1f72aa684bfb73-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Should the proposal pass, SafeDAO will use the fees to accumulate SAFE tokens for the project’s treasury.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2253,7 +2301,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/d7f2978fde58cd0f62d43ff4956baeb2b07a7697-1200x675.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>The stablecoin market cap, excluding algorithmic stablecoins, has reached a new all-time high of $168 billion, surpassing the previous record set in early 2022</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2360,26 +2408,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/markets/ai-tokens-rally-amid-crypto-market-lull"
-                        open
-                      >
-                        <summary class="article-expander__title">AI Tokens Rally Amid Crypto Market Lull</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/markets/ai-tokens-rally-amid-crypto-market-lull">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/cec25ea073bb65f773d8a27a1c8c8d19b5439c83-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Nvidia’s quarterly earnings, due on Wednesday, often influence the AI crypto sector&#x27;s outlook.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2387,8 +2415,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10771070153">
-        <time id="build-timestamp" datetime="2024-09-09T10:08:45.449Z">2024-09-09T10:08:45.449Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10771935658">
+        <time id="build-timestamp" datetime="2024-09-09T11:06:52.085Z">2024-09-09T11:06:52.085Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
