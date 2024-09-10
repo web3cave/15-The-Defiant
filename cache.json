@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/swissborg-taps-morpho-vaults-for-usdc-earn-product",
+          "author": "Samuel Haig",
+          "description": "The launch marks the first CeFi integration for Morpho's Vaults.",
+          "link": "https://thedefiant.io/news/cefi/swissborg-taps-morpho-vaults-for-usdc-earn-product",
+          "publishedOn": "2024-09-10T14:18:00.000Z",
+          "wordCount": 2475,
+          "title": "SwissBorg Taps Morpho Vaults For USDC Earn Product",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0599d88993155cff7fffe801f46f23871d0f5172-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0599d88993155cff7fffe801f46f23871d0f5172-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polygon-taps-fabric-cryptography-s-vpu-chips-to-lower-zk-proof-costs",
           "author": "Samuel Haig and Mehab Qureshi",
           "description": "Polygon said Fabric’s VPU chips can facilitate real-time proof generation.",
@@ -117,7 +132,7 @@
           "link": "https://thedefiant.io/news/defi/aave-launches-etherfi-dedicated-v3-deployment",
           "publishedOn": "2024-09-10T10:32:00.000Z",
           "wordCount": 2571,
-          "title": "Aave Launches EtherFi-Dedicated v3 Deployment",
+          "title": "Aave Launches EtherFi-Dedicated V3 Deployment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b33713bb297bf630ab00a063466eb10c17259efe-1792x1024.webp",
             "length": "1000000",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/base-and-taiko-sustain-boom-in-layer-2-activity",
           "author": "Samuel Haig",
-          "description": "Base and Taiko are driving nearly 6.5 million daily transactions combined.",
+          "description": "Transaction throughput and active addresses on Base and Taiko are posting new all-time highs.",
           "link": "https://thedefiant.io/news/blockchains/base-and-taiko-sustain-boom-in-layer-2-activity",
           "publishedOn": "2024-08-29T09:20:00.000Z",
           "wordCount": 2560,
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/news/defi/cobie-s-platform-echo-has-invested-usd10-million-into-startups",
           "author": "Squiffs",
-          "description": "Echo, a platform allowing retail investors to access early-stage funding rounds, have mobilized $10 million of investments since launching in April.",
+          "description": "Echo offers everyday users access to investments otherwise restricted to venture capitalists.",
           "link": "https://thedefiant.io/news/defi/cobie-s-platform-echo-has-invested-usd10-million-into-startups",
           "publishedOn": "2024-08-29T06:13:00.000Z",
           "wordCount": 2465,
@@ -1456,7 +1471,7 @@
           "description": "Robinhood has announced the addition of Solana network support to its wallet, allowing users to self-custody, send, and receive Solana tokens over the blockchain",
           "link": "https://thedefiant.io/news/cefi/robinhood-wallet-adds-solana-support-price-hits-155",
           "publishedOn": "2024-08-27T19:51:28.000Z",
-          "wordCount": 2207,
+          "wordCount": 2180,
           "title": "Robinhood Wallet Adds Solana Support as Price Hits $155",
           "imageUrl": null
         },
@@ -1474,21 +1489,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ecefdcdb6da9f5cc6d88b86278ae75af0401274-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop",
-          "author": "Mehab Qureshi",
-          "description": "Activity took a downturn for StarkNet after its much anticipated airdrop did not meet the community's expectations.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop",
-          "publishedOn": "2024-08-27T17:42:10.000Z",
-          "wordCount": 3413,
-          "title": "Ethereum Layer 2 Network StarkNet Struggles to Maintain Its Footing Post-Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/752fe23bc2a9dc2e1e461860936853a9d1bea32d-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/752fe23bc2a9dc2e1e461860936853a9d1bea32d-1792x1024.png"
         }
       ]
     }
