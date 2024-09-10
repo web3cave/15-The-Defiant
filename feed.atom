@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-10T15:07:42.762Z</id>
+    <id>urn:2024-09-10T16:08:43.410Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-10T15:07:42.762Z</updated>
+    <updated>2024-09-10T16:08:43.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal and Venmo Integrate Support For ENS Names]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names"/>
+        <updated>2024-09-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The market cap of PayPal's PYUSD stablecoin is down 17% in two weeks.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwissBorg Taps Morpho Vaults For USDC Earn Product]]></title>
         <id>https://thedefiant.io/news/cefi/swissborg-taps-morpho-vaults-for-usdc-earn-product</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/kakao-s-klaytn-and-line-s-finschia-blockchains-merge-to-create-kaia-network</id>
         <link href="https://thedefiant.io/news/blockchains/kakao-s-klaytn-and-line-s-finschia-blockchains-merge-to-create-kaia-network"/>
         <updated>2024-08-29T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Kaia aims to compete with The Open Network by powering dApps on the Line and Kakao messaging applications.]]></summary>
+        <summary type="html"><![CDATA[Klaytn and Finschia merged to create Kaia network in a bid to compete with booming web3 ecosystem on The Open Network and Telegram.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/base-and-taiko-sustain-boom-in-layer-2-activity</id>
         <link href="https://thedefiant.io/news/blockchains/base-and-taiko-sustain-boom-in-layer-2-activity"/>
         <updated>2024-08-29T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Transaction throughput and active addresses on Base and Taiko are posting new all-time highs.]]></summary>
+        <summary type="html"><![CDATA[Base and Taiko are driving nearly 6.5 million daily transactions combined.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Robinhood has announced the addition of Solana network support to its wallet, allowing users to self-custody, send, and receive Solana tokens over the blockchain]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Price Drops as Crypto Markets Erase Weekend Gains]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-price-drops-as-crypto-markets-erase-weekend-gains</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-price-drops-as-crypto-markets-erase-weekend-gains"/>
-        <updated>2024-08-27T18:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Over 60,000 leveraged traders were liquidated in the last 24 hours.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
