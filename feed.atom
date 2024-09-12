@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T19:05:10.783Z</id>
+    <id>urn:2024-09-12T20:08:36.994Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-12T19:05:10.783Z</updated>
+    <updated>2024-09-12T20:08:36.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZKSync Launches Three-Body Governance System]]></title>
+        <id>https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system</id>
+        <link href="https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system"/>
+        <updated>2024-09-12T19:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Governance is designed around three core pillars: token assembly, a security council, and guardians.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Launches First Ripple Trust in the U.S.]]></title>
+        <id>https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s</id>
+        <link href="https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s"/>
+        <updated>2024-09-12T18:54:33.000Z</updated>
+        <summary type="html"><![CDATA[XRP, the seventh-largest cryptocurrency by market capitalization, is now accessible to institutional investors.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hamster Kombat's $HMSTR to be Listed on Bybit and Binance with 5x Leverage from September 12]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/hamster-kombat-s-hmstr-to-listed-on-bybit-binance-5x-leverage-september-12</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration</id>
         <link href="https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration"/>
         <updated>2024-09-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Euler has launched its v2 iteration nearly 18 months after suffering a devastating hack.]]></summary>
+        <summary type="html"><![CDATA[Developers can build and chain together money market vaults using Euler v2.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[According to Brian Armstrong, AI agents used tokens to buy tokens.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Miners Suffer Worst Month In One Year]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year"/>
-        <updated>2024-09-02T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[March recorded the highest miner revenue in the last 12 months, peaking at $2 billion.]]></summary>
-        <author>
-            <name>Samuel Haig and Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeDAO Proposes Collecting Swap Fees As Revenue]]></title>
-        <id>https://thedefiant.io/news/defi/safedao-proposes-collecting-swap-fees-as-revenue</id>
-        <link href="https://thedefiant.io/news/defi/safedao-proposes-collecting-swap-fees-as-revenue"/>
-        <updated>2024-09-02T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Should the proposal pass, SafeDAO will use the fees to accumulate SAFE tokens for the project’s treasury.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
