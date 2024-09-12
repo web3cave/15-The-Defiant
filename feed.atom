@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T07:08:00.636Z</id>
+    <id>urn:2024-09-12T08:10:40.623Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-12T07:08:00.636Z</updated>
+    <updated>2024-09-12T08:10:40.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eigen Labs Introduces Security Model, Partners with Nuffle Labs for Nuff Protocol Beyond Ethereum L1]]></title>
+        <id>https://thedefiant.io/news/defi/eigen-labs-introduces-security-model-partners-nuffle-labs-nuff-protocol-beyond</id>
+        <link href="https://thedefiant.io/news/defi/eigen-labs-introduces-security-model-partners-nuffle-labs-nuff-protocol-beyond"/>
+        <updated>2024-09-12T04:22:14.000Z</updated>
+        <summary type="html"><![CDATA[Eigen Labs has introduced the EigenLayer Security Model, a novel approach to operating and securing decentralized services]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Layer 2 Atlas Launches Private Testnet]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-layer-2-atlas-launches-private-testnet</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade"/>
         <updated>2024-09-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Arbitrum shipped its Stylus upgrade, introducing support for WebAssembly programming languages across the Arbitrum ecosystem.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal</id>
         <link href="https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal"/>
         <updated>2024-09-03T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Sky and Aave are teaming up on a proposal to incentivize Aave markets for Sky's upcoming USDS stablecoin.]]></summary>
+        <summary type="html"><![CDATA[Sky wants to bootstrap the growth of its new USDS stablecoin via Aave v3, with both projects agreeing to split revenue evenly.]]></summary>
         <author>
             <name>Samuel Haig and Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Microsoft has identified a North Korean hacking campaign that exploited a zero-day vulnerability in Chromium browsers earlier this month]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON Faces Uncertainty After Telegram CEO Pavel Durov’s Arrest]]></title>
-        <id>https://thedefiant.io/news/blockchains/ton-faces-uncertainty-after-telegram-ceo-pavel-durov-s-arrest</id>
-        <link href="https://thedefiant.io/news/blockchains/ton-faces-uncertainty-after-telegram-ceo-pavel-durov-s-arrest"/>
-        <updated>2024-08-30T17:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Durov’s arrest has left many questioning the future of The Open Network.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
