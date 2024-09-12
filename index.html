@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-12 datetime="2024-09-12T03:33:23.000Z">2024-09-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-12 datetime="2024-09-12T03:33:23.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/regulation/polymarket-shows-heated-presidential-race-after-trump-harris-debate"
+                        open
+                      >
+                        <summary class="article-expander__title">Polymarket Shows Heated Presidential Race After Trump-Harris Debate</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/regulation/polymarket-shows-heated-presidential-race-after-trump-harris-debate">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/b7bc4ef07b8158c58a53e18ebb032537e2304915-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Candidates are within one percentage point of each other, with both briefly gaining the lead in the past 24 hours.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-11 datetime="2024-09-11T21:09:56.000Z">2024-09-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-11 datetime="2024-09-11T21:09:56.000Z"></time>
           </button>
@@ -1951,7 +1999,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/b6043d7ffcd7c3c36b4aa873b495cc3fe69d8de3-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Disappointing ETFs, Vitalik’s anti-DeFi comments, and lackluster Layer 1 activity, are putting sell pressure on ETH.</span>
+                              <span>Ethereum had its worst month in over two years as a series of factors, from exchange-traded funds (ETFs) outflows to lack of mainnet activity, are conspiring to produce a very bearish bull market.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;11
                                   min&hairsp;)</span>
                             </span>
@@ -1971,7 +2019,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/2e085061fefe339782a25e4a34eb648ef88275b5-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Cryptocurrency markets slid less than 1% Monday, with Bitcoin trading sideways afer it had its worst seven days in four weeks.</span>
+                              <span>Nearly 61,200  traders were liquidated, with total liquidations amounting to $166.72 million.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
@@ -2334,26 +2382,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin"
-                        open
-                      >
-                        <summary class="article-expander__title">Court Dismisses $258B Lawsuit Alleging Elon Musk and Tesla Manipulated Dogecoin</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/2ac13706316121af5f6f2c29706f46d690efc2ca-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The court found Musk’s statements to be non-factual and aspirational, describing them as &quot;puffery.&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2361,8 +2389,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10823434638">
-        <time id="build-timestamp" datetime="2024-09-12T03:08:51.504Z">2024-09-12T03:08:51.504Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/10823996403">
+        <time id="build-timestamp" datetime="2024-09-12T04:10:07.271Z">2024-09-12T04:10:07.271Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
