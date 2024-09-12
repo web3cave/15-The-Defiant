@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/donald-trump-to-launch-world-liberty-financial-defi-project-on-september-16-8-pm",
+          "author": "DeepNewz",
+          "description": "Former President Donald Trump is set to launch a new DeFi project, 'World Liberty Financial,' on September 16",
+          "link": "https://thedefiant.io/news/defi/donald-trump-to-launch-world-liberty-financial-defi-project-on-september-16-8-pm",
+          "publishedOn": "2024-09-12T20:21:50.000Z",
+          "wordCount": 2218,
+          "title": "Donald Trump to Launch 'World Liberty Financial' DeFi Project on September 16 at 8 PM ET from Mar-a-Lago",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days",
           "author": "Pedro Solimano",
           "description": "Over 30% of Bitcoin miners are merge-mining with Fractal, while transactions on the Bitcoin sidechain have skyrocketed by 20,000%.",
@@ -94,6 +104,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73084e910a2ac401aeb8a686240cb1a6eace3ae0-1200x720.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dex-wars-intensify-cow-swap-gains-24-ethereum-market-share-uniswap-falls-to-36",
+          "author": "DeepNewz",
+          "description": "CoW Swap has significantly increased its market share in the decentralized exchange (DEX) space, now handling 24% of all trade volume on Ethereum",
+          "link": "https://thedefiant.io/news/defi/dex-wars-intensify-cow-swap-gains-24-ethereum-market-share-uniswap-falls-to-36",
+          "publishedOn": "2024-09-12T18:13:41.000Z",
+          "wordCount": 2248,
+          "title": "DEX Wars Intensify: CoW Swap Gains 24% Ethereum Market Share, Uniswap Falls to 36%",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d6b20baf68fb3e32636b934c4e5360201c877c4-1200x1200.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d6b20baf68fb3e32636b934c4e5360201c877c4-1200x1200.png"
         },
         {
           "id": "https://thedefiant.io/news/markets/markets-rise-after-u-s-wholesale-inflation-report",
@@ -1223,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0",
           "author": "Pedro Solimano",
-          "description": "The migration brings additional utility to the token.",
+          "description": "Polygon Labs, the team behind scaling solutions including Polygon PoS, is upgrading its MATIC token to POL today in a major step towards Polygon 2.0.",
           "link": "https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0",
           "publishedOn": "2024-09-04T19:39:21.000Z",
           "wordCount": 2362,
@@ -1253,7 +1278,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "author": "Squiffs",
-          "description": "The Commodity Futures Trading Commission (CFTC) issued an order to file and settle charges against Unisawp Labs for offering illegal digital asset derivatives trading.",
+          "description": "Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.",
           "link": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "publishedOn": "2024-09-04T17:58:50.000Z",
           "wordCount": 2504,
@@ -1474,36 +1499,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b6043d7ffcd7c3c36b4aa873b495cc3fe69d8de3-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month",
-          "author": "Mehab Qureshi",
-          "description": "Nearly 61,200  traders were liquidated, with total liquidations amounting to $166.72 million.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month",
-          "publishedOn": "2024-09-02T17:09:56.000Z",
-          "wordCount": 2597,
-          "title": "Crypto Markets Trade Flat After BTC and ETH Had Worst Week in a Month",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e085061fefe339782a25e4a34eb648ef88275b5-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2e085061fefe339782a25e4a34eb648ef88275b5-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/cardano-moves-to-embrace-decentralized-governance-with-first-chang-hard-fork",
-          "author": "Samuel Haig",
-          "description": "Cardano's governance is now in the hands of Delegated Representatives, Stake Pool Operators, and its Interim Constitutional Committee.",
-          "link": "https://thedefiant.io/news/blockchains/cardano-moves-to-embrace-decentralized-governance-with-first-chang-hard-fork",
-          "publishedOn": "2024-09-02T16:43:00.000Z",
-          "wordCount": 2510,
-          "title": "Cardano Moves To Embrace Decentralized Governance With First Chang Hard Fork",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b048b31afe67c7ee4ce2e39376796b4c7db0ae56-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b048b31afe67c7ee4ce2e39376796b4c7db0ae56-1792x1024.webp"
         }
       ]
     }

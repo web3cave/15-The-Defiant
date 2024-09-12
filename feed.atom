@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T21:06:55.110Z</id>
+    <id>urn:2024-09-12T22:07:59.023Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-12T21:06:55.110Z</updated>
+    <updated>2024-09-12T22:07:59.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump to Launch 'World Liberty Financial' DeFi Project on September 16 at 8 PM ET from Mar-a-Lago]]></title>
+        <id>https://thedefiant.io/news/defi/donald-trump-to-launch-world-liberty-financial-defi-project-on-september-16-8-pm</id>
+        <link href="https://thedefiant.io/news/defi/donald-trump-to-launch-world-liberty-financial-defi-project-on-september-16-8-pm"/>
+        <updated>2024-09-12T20:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Former President Donald Trump is set to launch a new DeFi project, 'World Liberty Financial,' on September 16]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Fractal Mania’ Continues With Token up 300% in Four Days]]></title>
         <id>https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days</id>
@@ -61,6 +71,16 @@
         <link href="https://thedefiant.io/news/defi/circle-launches-new-web3-developer-tools-arbitrum"/>
         <updated>2024-09-12T18:13:46.000Z</updated>
         <summary type="html"><![CDATA[Circle has launched a new suite of developer tools for Arbitrum, enhancing the capabilities for developers building on the Arbitrum One platform]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEX Wars Intensify: CoW Swap Gains 24% Ethereum Market Share, Uniswap Falls to 36%]]></title>
+        <id>https://thedefiant.io/news/defi/dex-wars-intensify-cow-swap-gains-24-ethereum-market-share-uniswap-falls-to-36</id>
+        <link href="https://thedefiant.io/news/defi/dex-wars-intensify-cow-swap-gains-24-ethereum-market-share-uniswap-falls-to-36"/>
+        <updated>2024-09-12T18:13:41.000Z</updated>
+        <summary type="html"><![CDATA[CoW Swap has significantly increased its market share in the decentralized exchange (DEX) space, now handling 24% of all trade volume on Ethereum]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0</id>
         <link href="https://thedefiant.io/news/blockchains/polygon-migrates-matic-to-pol-token-in-road-to-polygon-2-0"/>
         <updated>2024-09-04T19:39:21.000Z</updated>
-        <summary type="html"><![CDATA[The migration brings additional utility to the token.]]></summary>
+        <summary type="html"><![CDATA[Polygon Labs, the team behind scaling solutions including Polygon PoS, is upgrading its MATIC token to POL today in a major step towards Polygon 2.0.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs</id>
         <link href="https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs"/>
         <updated>2024-09-04T17:58:50.000Z</updated>
-        <summary type="html"><![CDATA[The Commodity Futures Trading Commission (CFTC) issued an order to file and settle charges against Unisawp Labs for offering illegal digital asset derivatives trading.]]></summary>
+        <summary type="html"><![CDATA[Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Disappointing ETFs, Vitalik’s anti-DeFi comments, and lackluster Layer 1 activity, are putting sell pressure on ETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Trade Flat After BTC and ETH Had Worst Week in a Month]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month"/>
-        <updated>2024-09-02T17:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 61,200  traders were liquidated, with total liquidations amounting to $166.72 million.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano Moves To Embrace Decentralized Governance With First Chang Hard Fork]]></title>
-        <id>https://thedefiant.io/news/blockchains/cardano-moves-to-embrace-decentralized-governance-with-first-chang-hard-fork</id>
-        <link href="https://thedefiant.io/news/blockchains/cardano-moves-to-embrace-decentralized-governance-with-first-chang-hard-fork"/>
-        <updated>2024-09-02T16:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Cardano's governance is now in the hands of Delegated Representatives, Stake Pool Operators, and its Interim Constitutional Committee.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
