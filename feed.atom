@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T04:10:07.306Z</id>
+    <id>urn:2024-09-12T05:08:17.819Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-12T04:10:07.306Z</updated>
+    <updated>2024-09-12T05:08:17.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Layer 2 Atlas Launches Private Testnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-layer-2-atlas-launches-private-testnet</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-layer-2-atlas-launches-private-testnet"/>
+        <updated>2024-09-12T03:43:29.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain is built using an implementation of the Solana virtual machine, but settles transactions to Ethereum.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Eden Offers 50% Diamond Bonus For Buying NFTs or Ordinals]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/magic-eden-offers-50-diamond-bonus-for-buying-nfts-or-ordinals</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/magic-eden-offers-50-diamond-bonus-for-buying-nfts-or-ordinals"/>
+        <updated>2024-09-12T03:38:11.000Z</updated>
+        <summary type="html"><![CDATA[The additional reward is for users who purchase NFTs through the Magic Eden mobile wallet.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Shows Heated Presidential Race After Trump-Harris Debate]]></title>
         <id>https://thedefiant.io/news/regulation/polymarket-shows-heated-presidential-race-after-trump-harris-debate</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal</id>
         <link href="https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal"/>
         <updated>2024-09-03T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Sky wants to bootstrap the growth of its new USDS stablecoin via Aave v3, with both projects agreeing to split revenue evenly.]]></summary>
+        <summary type="html"><![CDATA[Sky and Aave are teaming up on a proposal to incentivize Aave markets for Sky's upcoming USDS stablecoin.]]></summary>
         <author>
             <name>Samuel Haig and Mehab Qureshi</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/markets/ethereum-clocks-worst-month-in-over-two-years</id>
         <link href="https://thedefiant.io/news/markets/ethereum-clocks-worst-month-in-over-two-years"/>
         <updated>2024-09-02T21:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum had its worst month in over two years as a series of factors, from exchange-traded funds (ETFs) outflows to lack of mainnet activity, are conspiring to produce a very bearish bull market.]]></summary>
+        <summary type="html"><![CDATA[Disappointing ETFs, Vitalik’s anti-DeFi comments, and lackluster Layer 1 activity, are putting sell pressure on ETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Durov’s arrest has left many questioning the future of The Open Network.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Drops as ETFs Record Third Day of Net Outflows]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-drops-as-etfs-record-third-day-of-net-outflows</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-drops-as-etfs-record-third-day-of-net-outflows"/>
-        <updated>2024-08-30T17:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Spot Bitcoin ETFs recorded $71.8 million in net outflows on Thursday.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controversial Curve Funding Proposal Wins Over Tokenholders]]></title>
-        <id>https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders</id>
-        <link href="https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders"/>
-        <updated>2024-08-30T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The proposal previously attracted pushback from Curve’s community.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
