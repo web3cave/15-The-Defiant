@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days",
+          "author": "Pedro Solimano",
+          "description": "Over 30% of Bitcoin miners are merge-mining with Fractal, while transactions on the Bitcoin sidechain have skyrocketed by 20,000%.",
+          "link": "https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days",
+          "publishedOn": "2024-09-12T20:11:44.000Z",
+          "wordCount": 2474,
+          "title": "‘Fractal Mania’ Continues With Token up 300% in Four Days",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1b19042f8bd0b66051210e6ede803d228b3b5ec6-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1b19042f8bd0b66051210e6ede803d228b3b5ec6-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system",
           "author": "Pedro Solimano",
           "description": "Governance is designed around three core pillars: token assembly, a security council, and guardians.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "author": "Squiffs",
-          "description": "Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.",
+          "description": "The Commodity Futures Trading Commission (CFTC) issued an order to file and settle charges against Unisawp Labs for offering illegal digital asset derivatives trading.",
           "link": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "publishedOn": "2024-09-04T17:58:50.000Z",
           "wordCount": 2504,
@@ -1489,21 +1504,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b048b31afe67c7ee4ce2e39376796b4c7db0ae56-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction",
-          "author": "Pedro Solimano",
-          "description": "According to Brian Armstrong, AI agents used tokens to buy tokens.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction",
-          "publishedOn": "2024-09-02T15:50:01.000Z",
-          "wordCount": 2423,
-          "title": "Coinbase Says it Unlocked First AI-to-AI Crypto Transaction",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fecc1b0d400124a2b6fffe10dded9516ff47a880-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fecc1b0d400124a2b6fffe10dded9516ff47a880-1792x1024.webp"
         }
       ]
     }

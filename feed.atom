@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T20:08:36.994Z</id>
+    <id>urn:2024-09-12T21:06:55.110Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-12T20:08:36.994Z</updated>
+    <updated>2024-09-12T21:06:55.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Fractal Mania’ Continues With Token up 300% in Four Days]]></title>
+        <id>https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days</id>
+        <link href="https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days"/>
+        <updated>2024-09-12T20:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Over 30% of Bitcoin miners are merge-mining with Fractal, while transactions on the Bitcoin sidechain have skyrocketed by 20,000%.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZKSync Launches Three-Body Governance System]]></title>
         <id>https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs</id>
         <link href="https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs"/>
         <updated>2024-09-04T17:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.]]></summary>
+        <summary type="html"><![CDATA[The Commodity Futures Trading Commission (CFTC) issued an order to file and settle charges against Unisawp Labs for offering illegal digital asset derivatives trading.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Cardano's governance is now in the hands of Delegated Representatives, Stake Pool Operators, and its Interim Constitutional Committee.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Says it Unlocked First AI-to-AI Crypto Transaction]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction"/>
-        <updated>2024-09-02T15:50:01.000Z</updated>
-        <summary type="html"><![CDATA[According to Brian Armstrong, AI agents used tokens to buy tokens.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
