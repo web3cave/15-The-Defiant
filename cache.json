@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-as-microstrategy-buys-more-bitcoin",
+          "author": "Mehab Qureshi",
+          "description": "MicroStrategy spent $1.11 billion on its latest purchase of 18,300 BTC.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-as-microstrategy-buys-more-bitcoin",
+          "publishedOn": "2024-09-13T18:05:15.000Z",
+          "wordCount": 2481,
+          "title": "Crypto Markets Rally as MicroStrategy Buys More Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e2132c9844bb1949b0188862869314113a4c0800-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e2132c9844bb1949b0188862869314113a4c0800-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/wormhole-brings-world-id-to-solana",
           "author": "Pedro Solimano",
           "description": "Until now, only Ethereum-based protocols were compatible with Worldcoin’s biometric identity protocol.",
@@ -256,10 +271,10 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/68f7775b393ea45eb430a44dcc611262338a467b-1792x1024.webp"
         },
         {
-          "id": "https://thedefiant.io/news/tokens/coinbase-begins-cbbtc-rollout",
+          "id": "https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout",
           "author": "Samuel Haig",
           "description": "Coinbase is looking to capitalize on the controversy surrounding Wrapped Bitcoin's ownership restructure.",
-          "link": "https://thedefiant.io/news/tokens/coinbase-begins-cbbtc-rollout",
+          "link": "https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout",
           "publishedOn": "2024-09-12T11:00:00.000Z",
           "wordCount": 2488,
           "title": "Coinbase Begins cbBTC Rollout",
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/robinhood-settles-with-doj-for-failing-to-allow-crypto-withdrawals",
           "author": "Mehab Qureshi",
-          "description": "Robinhood settled with the DoJ after failing to allow customers to withdraw cryptocurrency and publishing misleading advertising.",
+          "description": "The $3.9 million settlement brings Robinhood’s latest conflict with regulators to a close.",
           "link": "https://thedefiant.io/news/regulation/robinhood-settles-with-doj-for-failing-to-allow-crypto-withdrawals",
           "publishedOn": "2024-09-05T14:19:00.000Z",
           "wordCount": 2545,
@@ -1484,21 +1499,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a38ec4df812aba822c5cfbdd2e74683b1ef18f45-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures",
-          "author": "Squiffs",
-          "description": "The crypto-focused fund that shut down after losing substantial assets on FTX quickly announced its intent to settle with the SEC and is “glad to put this matter behind us.”",
-          "link": "https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures",
-          "publishedOn": "2024-09-03T19:11:15.000Z",
-          "wordCount": 2453,
-          "title": "Galois Capital Settles With the SEC Over Alleged Custody Failures",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1e4622118ac6b94d1465a8d62edc5c1f66d48b9b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1e4622118ac6b94d1465a8d62edc5c1f66d48b9b-1792x1024.webp"
         }
       ]
     }

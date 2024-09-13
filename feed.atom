@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-13T18:10:20.293Z</id>
+    <id>urn:2024-09-13T19:04:49.905Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-13T18:10:20.293Z</updated>
+    <updated>2024-09-13T19:04:49.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rally as MicroStrategy Buys More Bitcoin]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rally-as-microstrategy-buys-more-bitcoin</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-as-microstrategy-buys-more-bitcoin"/>
+        <updated>2024-09-13T18:05:15.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy spent $1.11 billion on its latest purchase of 18,300 BTC.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wormhole Brings World ID to Solana]]></title>
         <id>https://thedefiant.io/news/defi/wormhole-brings-world-id-to-solana</id>
@@ -177,8 +187,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Begins cbBTC Rollout]]></title>
-        <id>https://thedefiant.io/news/tokens/coinbase-begins-cbbtc-rollout</id>
-        <link href="https://thedefiant.io/news/tokens/coinbase-begins-cbbtc-rollout"/>
+        <id>https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout"/>
         <updated>2024-09-12T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Coinbase is looking to capitalize on the controversy surrounding Wrapped Bitcoin's ownership restructure.]]></summary>
         <author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/robinhood-settles-with-doj-for-failing-to-allow-crypto-withdrawals</id>
         <link href="https://thedefiant.io/news/regulation/robinhood-settles-with-doj-for-failing-to-allow-crypto-withdrawals"/>
         <updated>2024-09-05T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood settled with the DoJ after failing to allow customers to withdraw cryptocurrency and publishing misleading advertising.]]></summary>
+        <summary type="html"><![CDATA[The $3.9 million settlement brings Robinhood’s latest conflict with regulators to a close.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The attacker exploited a smart contract vulnerability, said cybersecurity firm Cyvers.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galois Capital Settles With the SEC Over Alleged Custody Failures]]></title>
-        <id>https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures</id>
-        <link href="https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures"/>
-        <updated>2024-09-03T19:11:15.000Z</updated>
-        <summary type="html"><![CDATA[The crypto-focused fund that shut down after losing substantial assets on FTX quickly announced its intent to settle with the SEC and is “glad to put this matter behind us.”]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
