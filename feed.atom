@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-13T12:13:44.516Z</id>
+    <id>urn:2024-09-13T13:14:34.835Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-13T12:13:44.516Z</updated>
+    <updated>2024-09-13T13:14:34.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Proposal Calls For Fully Offboarding WBTC Over Justin Sun Concerns]]></title>
+        <id>https://thedefiant.io/news/defi/sky-proposal-calls-for-fully-offboarding-wbtc-over-justin-sun-concerns</id>
+        <link href="https://thedefiant.io/news/defi/sky-proposal-calls-for-fully-offboarding-wbtc-over-justin-sun-concerns"/>
+        <updated>2024-09-13T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The move comes as Wrapped Bitcoin readies to overhaul its ownership structure, with its new joint venture accused of downplaying Justin Sun’s involvement.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Bill Seeks To Reconcile Regulatory Division Between SEC and CFTC]]></title>
         <id>https://thedefiant.io/news/regulation/new-bill-seeks-to-reconcile-regulatory-division-between-sec-and-cftc</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/bnb-chain-welcomes-ybtc-and-core-launches-lstbtc-as-bitcoin-staking-heats-up</id>
         <link href="https://thedefiant.io/news/defi/bnb-chain-welcomes-ybtc-and-core-launches-lstbtc-as-bitcoin-staking-heats-up"/>
         <updated>2024-09-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An increasing number of projects are vying for Bitcoin staking dominance.]]></summary>
+        <summary type="html"><![CDATA[Competition for Bitcoin staking market share is growing, with pSTAKE launching yBTC on BNB Chain and Core Foundation shipping LstBTC.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/trump-family-is-working-with-aave-on-defi-project</id>
         <link href="https://thedefiant.io/news/defi/trump-family-is-working-with-aave-on-defi-project"/>
         <updated>2024-09-05T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[World Liberty Financial, the upcoming web3 platform from the Trump family, said it is closely working with Aave on the forthcoming protocol.]]></summary>
+        <summary type="html"><![CDATA[World Liberty Financial appears to be working on a stablecoin-focused lending protocol.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The company behind Ethereum Layer 2 ZKsync is firing 24 employees to keep the team “agile and effective.”]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Ships Stylus Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade"/>
-        <updated>2024-09-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
