@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-14T09:07:30.881Z</id>
+    <id>urn:2024-09-14T10:07:08.532Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-14T09:07:30.881Z</updated>
+    <updated>2024-09-14T10:07:08.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet Community Approves Dynamic Staking]]></title>
+        <id>https://thedefiant.io/news/blockchains/starknet-community-approves-dynamic-staking</id>
+        <link href="https://thedefiant.io/news/blockchains/starknet-community-approves-dynamic-staking"/>
+        <updated>2024-09-14T09:03:29.000Z</updated>
+        <summary type="html"><![CDATA[The proposed mechanism aims to control STRK inflation by minting tokens at a rate proportional to network staking levels.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TreasureDAO Accused of “Grant Hopping” as it Mulls Move to ZKsync]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/treasuredao-accused-of-grant-hopping-as-it-mulls-move-to-zksync</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/behind-the-scenes-in-argentina-s-crypto-scene-now-that-the-aleph-pop-up-city-is-over</id>
         <link href="https://thedefiant.io/news/regulation/behind-the-scenes-in-argentina-s-crypto-scene-now-that-the-aleph-pop-up-city-is-over"/>
         <updated>2024-09-05T18:51:41.000Z</updated>
-        <summary type="html"><![CDATA[No more than two dozen people are found in the hallways of Aleph’s co-working hub in the plush neighborhood of Palermo, Buenos Aires. It’s where much of a month-long crypto pop-up city took place, and where the magma of the Crecimiento movement flowed.]]></summary>
+        <summary type="html"><![CDATA[Month-long Aleph is over, but supporters of the Crecimiento movement say that a new phase for the industry is just beginning.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Movement Labs said its new postconfirmation finalization mechanism could unlock new DeFi applications.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloomberg Terminal Integrates Polymarket Election Data]]></title>
-        <id>https://thedefiant.io/news/defi/bloomberg-terminal-integrates-polymarket-election-data</id>
-        <link href="https://thedefiant.io/news/defi/bloomberg-terminal-integrates-polymarket-election-data"/>
-        <updated>2024-09-04T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The integration comes as Polymarket is enjoying record adoption.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
