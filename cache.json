@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc",
+          "author": "Samuel Haig",
+          "description": "The integration paves the way for a native USDC deployment on Soneium in the future.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc",
+          "publishedOn": "2024-09-16T09:00:00.000Z",
+          "wordCount": 2426,
+          "title": "Soneium Integrates Support For Bridged USDC",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a33f6565dd9b3dee489a5c061a04f03b1721a89b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a33f6565dd9b3dee489a5c061a04f03b1721a89b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/starknet-community-approves-dynamic-staking",
           "author": "Pedro Solimano",
           "description": "The proposed mechanism aims to control STRK inflation by minting tokens at a rate proportional to network staking levels.",
@@ -621,7 +636,7 @@
           "description": "Standard Chartered, a $800 billion multinational banking giant, has launched a Bitcoin and crypto custody service in the United Arab Emirates (UAE)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/800-billion-standard-chartered-launches-bitcoin-crypto-custody-services-uae",
           "publishedOn": "2024-09-11T12:17:54.000Z",
-          "wordCount": 2202,
+          "wordCount": 2223,
           "title": "$800 Billion Standard Chartered Launches Bitcoin and Crypto Custody Services in UAE",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/781d9a8297abb09afda1923462497990847cb9bf-1200x672.jpg",
@@ -726,7 +741,7 @@
           "description": "The market cap of PayPal's PYUSD stablecoin is down 17% in two weeks.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names",
           "publishedOn": "2024-09-10T16:00:00.000Z",
-          "wordCount": 2483,
+          "wordCount": 2450,
           "title": "PayPal and Venmo Integrate Support For ENS Names",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eae8f44cbe26d51f62dbdbd3e8a1848f56fc49c1-1792x1024.webp",
@@ -1026,7 +1041,7 @@
           "description": "VanEck has announced plans to close and liquidate its Ethereum futures ETF (EFUT)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-to-close-liquidate-ethereum-futures-etf-september-23-2024",
           "publishedOn": "2024-09-06T19:42:25.000Z",
-          "wordCount": 2188,
+          "wordCount": 2209,
           "title": "VanEck to Close and Liquidate Ethereum Futures ETF by September 23, 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/73c244254f5ffb55fac16ebd24f880afbb8d4921-800x500.png",
@@ -1176,7 +1191,7 @@
           "description": "The new crypto card is dubbed Spend.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe",
           "publishedOn": "2024-09-06T14:02:37.000Z",
-          "wordCount": 2334,
+          "wordCount": 2355,
           "title": "Mastercard Joins Forces With Mercuryo To Launch Non-Custodial Crypto Card in Europe",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0ba484fdf24810a87fe355874c77ca4dc28c3f79-1792x1024.webp",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad",
           "author": "Squiffs",
-          "description": "The alternative decentralized exchange features a no-code token launchpad and seeks to mitigate quick rugpulls.",
+          "description": "EtherVista, a decentralized exchange (DEX) that launched on Aug. 31 is attracting both attention and liquidity. As a result, its token is up over 40x in the last four days.",
           "link": "https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad",
           "publishedOn": "2024-09-06T01:42:19.000Z",
           "wordCount": 2546,
@@ -1484,21 +1499,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86d401b29f86692607883bcf3b18b7f90c588641-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible",
-          "author": "Mehab Qureshi",
-          "description": "Movement Labs said its new postconfirmation finalization mechanism could unlock new DeFi applications.",
-          "link": "https://thedefiant.io/news/infrastructure/movement-labs-claims-one-second-l2-transaction-confirmations-are-possible",
-          "publishedOn": "2024-09-04T11:57:00.000Z",
-          "wordCount": 2515,
-          "title": "Movement Labs Claims One Second L2 Transaction Confirmations Are Possible",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d8bbf924d6e16e2a08b78cfc2d69d097817db1d-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d8bbf924d6e16e2a08b78cfc2d69d097817db1d-1792x1024.webp"
         }
       ]
     }
