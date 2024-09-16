@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york",
+          "author": "Samuel Haig",
+          "description": "The announcement garnered mixed responses from the web3 community.",
+          "link": "https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york",
+          "publishedOn": "2024-09-16T09:22:00.000Z",
+          "wordCount": 2505,
+          "title": "Circle Plans To Relocate Headquarters To New York",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/57a51405ec46bb54fc7ba975a5953003a0cbca33-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57a51405ec46bb54fc7ba975a5953003a0cbca33-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc",
           "author": "Samuel Haig",
           "description": "The integration paves the way for a native USDC deployment on Soneium in the future.",
@@ -336,7 +351,7 @@
           "description": "Coinbase is looking to capitalize on the controversy surrounding Wrapped Bitcoin's ownership restructure.",
           "link": "https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout",
           "publishedOn": "2024-09-12T11:00:00.000Z",
-          "wordCount": 2488,
+          "wordCount": 2481,
           "title": "Coinbase Begins cbBTC Rollout",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/37e716e17a70399ceef02675ca74532b82b7bbfb-1792x1024.webp",
@@ -561,7 +576,7 @@
           "description": "The world’s fourth-largest centralized exchange also holds 11% of all staked ETH and is behind the second-largest Ethereum Layer 2.",
           "link": "https://thedefiant.io/news/cefi/coinbase-holds-11-of-bitcoin-s-total-supply-how-worried-should-we-be",
           "publishedOn": "2024-09-11T17:04:26.000Z",
-          "wordCount": 3680,
+          "wordCount": 3673,
           "title": "Coinbase Holds 11% of Bitcoin’s Total Supply – How Worried Should We Be?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/475fc9ce7235a897a41ba2ad60fc9423d72239d5-1555x875.png",
@@ -651,7 +666,7 @@
           "description": "Indonesian cryptocurrency exchange Indodax suffered a major security breach on the evening of September 10, 2024, resulting in the theft of over $22 million worth of various tokens",
           "link": "https://thedefiant.io/news/cefi/indonesian-crypto-exchange-indodax-hacked-over-22-million-goes-offline",
           "publishedOn": "2024-09-11T12:17:37.000Z",
-          "wordCount": 2261,
+          "wordCount": 2282,
           "title": "Indonesian Crypto Exchange Indodax Hacked for Over $22 Million, Goes Offline",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bf33dbd2c90a8c41b238c8fc114c225eba0c7b8-800x533.png",
@@ -666,7 +681,7 @@
           "description": "Tether, a prominent player in the cryptocurrency market, generated $6",
           "link": "https://thedefiant.io/news/cefi/tether-surpasses-blackrock-6-2-billion-profit-2023-700-million-more",
           "publishedOn": "2024-09-11T12:17:32.000Z",
-          "wordCount": 2161,
+          "wordCount": 2182,
           "title": "Tether Surpasses BlackRock with $6.2 Billion Profit in 2023, $700 Million More",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/735617c47f8ee817696461d42a16fd597a5e99df-1200x675.jpg",
@@ -756,7 +771,7 @@
           "description": "The launch marks the first CeFi integration for Morpho's Vaults.",
           "link": "https://thedefiant.io/news/cefi/swissborg-taps-morpho-vaults-for-usdc-earn-product",
           "publishedOn": "2024-09-10T14:18:00.000Z",
-          "wordCount": 2496,
+          "wordCount": 2489,
           "title": "SwissBorg Leverages Morpho Vaults For USDC Earn Product",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0599d88993155cff7fffe801f46f23871d0f5172-1792x1024.webp",
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad",
           "author": "Squiffs",
-          "description": "EtherVista, a decentralized exchange (DEX) that launched on Aug. 31 is attracting both attention and liquidity. As a result, its token is up over 40x in the last four days.",
+          "description": "The alternative decentralized exchange features a no-code token launchpad and seeks to mitigate quick rugpulls.",
           "link": "https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad",
           "publishedOn": "2024-09-06T01:42:19.000Z",
           "wordCount": 2546,
@@ -1484,21 +1499,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1feca5b23732332c211289598c1d9ba2e54d77c2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
-          "author": "Samuel Haig",
-          "description": "Developers can build and chain together money market vaults using Euler v2.",
-          "link": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
-          "publishedOn": "2024-09-04T14:00:00.000Z",
-          "wordCount": 2654,
-          "title": "Euler Finance Rises From The Ashes With Modular v2 Release",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/86d401b29f86692607883bcf3b18b7f90c588641-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86d401b29f86692607883bcf3b18b7f90c588641-1792x1024.webp"
         }
       ]
     }

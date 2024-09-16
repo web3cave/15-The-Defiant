@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-16T09:09:40.791Z</id>
+    <id>urn:2024-09-16T10:09:05.379Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-16T09:09:40.791Z</updated>
+    <updated>2024-09-16T10:09:05.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Plans To Relocate Headquarters To New York]]></title>
+        <id>https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york</id>
+        <link href="https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york"/>
+        <updated>2024-09-16T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[The announcement garnered mixed responses from the web3 community.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soneium Integrates Support For Bridged USDC]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad</id>
         <link href="https://thedefiant.io/news/defi/vista-token-surges-40x-as-ethervista-aims-to-create-a-rugpull-free-memecoin-launchpad"/>
         <updated>2024-09-06T01:42:19.000Z</updated>
-        <summary type="html"><![CDATA[EtherVista, a decentralized exchange (DEX) that launched on Aug. 31 is attracting both attention and liquidity. As a result, its token is up over 40x in the last four days.]]></summary>
+        <summary type="html"><![CDATA[The alternative decentralized exchange features a no-code token launchpad and seeks to mitigate quick rugpulls.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Preorders for the SuiPlay0X1 are now live, priced at $599.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euler Finance Rises From The Ashes With Modular v2 Release]]></title>
-        <id>https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration</id>
-        <link href="https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration"/>
-        <updated>2024-09-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers can build and chain together money market vaults using Euler v2.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
