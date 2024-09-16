@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-16T16:09:08.771Z</id>
+    <id>urn:2024-09-16T17:07:11.474Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-16T16:09:08.771Z</updated>
+    <updated>2024-09-16T17:07:11.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Market Recap: ETH/BTC At Multi-Year Low, Bernstein Bullish On DeFi]]></title>
+        <id>https://thedefiant.io/news/markets/market-recap-eth-btc-at-multi-year-low-bernstein-bullish-on-defi</id>
+        <link href="https://thedefiant.io/news/markets/market-recap-eth-btc-at-multi-year-low-bernstein-bullish-on-defi"/>
+        <updated>2024-09-16T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The ETH/BTC ratio slumped under 0.04, its lowest level since April 2021.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeltaPrime’s TVL Crashes 40% After $6M Exploit]]></title>
         <id>https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/synthetix-to-launch-snaxchain-appchain-on-sept-16</id>
         <link href="https://thedefiant.io/news/blockchains/synthetix-to-launch-snaxchain-appchain-on-sept-16"/>
         <updated>2024-09-06T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SNAXchain’s launch will coincide with Synthetix’s next governance epoch commencing.]]></summary>
+        <summary type="html"><![CDATA[Synthetix is gearing up to launch SNAXchain, and OP Stack-powered appchain, in less than two weeks.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges</id>
         <link href="https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges"/>
         <updated>2024-09-06T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Pavel Durov, Telegram's CEO, criticized the charges levied against him by French authorities in his first public statement since his arrest last week.]]></summary>
+        <summary type="html"><![CDATA[Durov speaks out against being held responsible for Telegram users' actions.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Intents Can Vastly Improve the Web3 User Experience]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience"/>
-        <updated>2024-09-04T17:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Intents may be the missing link between the world of decentralized protocols (and all the benefits they offer) and the world of everyday users who are accustomed to the simplicity of Web2 experiences.]]></summary>
-        <author>
-            <name>Adrian Brink</name>
         </author>
     </entry>
 </feed>
