@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-16T12:15:08.568Z</id>
+    <id>urn:2024-09-16T13:17:08.216Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-16T12:15:08.568Z</updated>
+    <updated>2024-09-16T13:17:08.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeltaPrime’s TVL Crashes 40% After $6M Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit"/>
+        <updated>2024-09-16T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[The hacker compromised the admin keys for DeltaPrime's Arbitrum deployment.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Plans To Relocate Headquarters To New York]]></title>
         <id>https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges</id>
         <link href="https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges"/>
         <updated>2024-09-06T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Durov speaks out against being held responsible for Telegram users' actions.]]></summary>
+        <summary type="html"><![CDATA[Pavel Durov, Telegram's CEO, criticized the charges levied against him by French authorities in his first public statement since his arrest last week.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Intents may be the missing link between the world of decentralized protocols (and all the benefits they offer) and the world of everyday users who are accustomed to the simplicity of Web2 experiences.]]></summary>
         <author>
             <name>Adrian Brink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui Creator Mysten Labs Launches Handheld Web3 Gaming Device]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device"/>
-        <updated>2024-09-04T17:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Preorders for the SuiPlay0X1 are now live, priced at $599.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit",
+          "author": "Samuel Haig",
+          "description": "The hacker compromised the admin keys for DeltaPrime's Arbitrum deployment.",
+          "link": "https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit",
+          "publishedOn": "2024-09-16T12:22:00.000Z",
+          "wordCount": 2397,
+          "title": "DeltaPrime’s TVL Crashes 40% After $6M Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/84158637c1069788e7798957e6347e983e46df5c-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84158637c1069788e7798957e6347e983e46df5c-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york",
           "author": "Samuel Haig",
           "description": "The announcement garnered mixed responses from the web3 community.",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges",
           "author": "Mehab Qureshi",
-          "description": "Durov speaks out against being held responsible for Telegram users' actions.",
+          "description": "Pavel Durov, Telegram's CEO, criticized the charges levied against him by French authorities in his first public statement since his arrest last week.",
           "link": "https://thedefiant.io/news/regulation/detained-telegram-ceo-pushes-back-against-charges",
           "publishedOn": "2024-09-06T10:39:00.000Z",
           "wordCount": 2771,
@@ -1484,21 +1499,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7310c9e841dd1d963c718f4026001d9906e1d52b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device",
-          "author": "Mehab Qureshi",
-          "description": "Preorders for the SuiPlay0X1 are now live, priced at $599.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device",
-          "publishedOn": "2024-09-04T17:01:34.000Z",
-          "wordCount": 2564,
-          "title": "Sui Creator Mysten Labs Launches Handheld Web3 Gaming Device",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1feca5b23732332c211289598c1d9ba2e54d77c2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1feca5b23732332c211289598c1d9ba2e54d77c2-1792x1024.webp"
         }
       ]
     }
