@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-20T14:08:10.954Z</id>
+    <id>urn:2024-09-20T15:07:38.207Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-20T14:08:10.954Z</updated>
+    <updated>2024-09-20T15:07:38.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Silvergate Bank Shut Down Because Of Operation Choke Point 2.0, Not Insolvency]]></title>
+        <id>https://thedefiant.io/news/regulation/silvergate-bank-shut-down-because-of-operation-choke-point-2-0-not-insolvency</id>
+        <link href="https://thedefiant.io/news/regulation/silvergate-bank-shut-down-because-of-operation-choke-point-2-0-not-insolvency"/>
+        <updated>2024-09-20T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Silvergate’s bankruptcy filings attribute the bank's failure to regulators cracking down on its ability to service the crypto industry.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum’s Next Pectra Upgrade To Take Place Over Two Forks]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-s-next-pectra-upgrade-to-take-place-over-two-forks</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/sony-to-integrate-chainlink-for-cross-chain-interoperability-for-soneium-l2</id>
         <link href="https://thedefiant.io/news/blockchains/sony-to-integrate-chainlink-for-cross-chain-interoperability-for-soneium-l2"/>
         <updated>2024-09-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Soneium also launched support for Chainlink’s data feeds on testnet and is joining Chainlink’s Scale program.]]></summary>
+        <summary type="html"><![CDATA[Sony's forthcoming Layer 2 network, Soneium, will leverage Chainlink CCIP for cross-chain interoperability.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout"/>
         <updated>2024-09-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase has launched its tokenized Bit]]></summary>
+        <summary type="html"><![CDATA[Coinbase is looking to capitalize on the controversy surrounding Wrapped Bitcoin's ownership restructure.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The world’s fourth-largest centralized exchange also holds 11% of all staked ETH and is behind the second-largest Ethereum Layer 2.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Trade Flat After U.S. Inflation Report]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-u-s-inflation-report</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-u-s-inflation-report"/>
-        <updated>2024-09-11T16:53:21.000Z</updated>
-        <summary type="html"><![CDATA[The annual inflation rate has fallen to 2.5%, the lowest since February 2021.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
