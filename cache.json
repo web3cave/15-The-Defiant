@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tokens/hamster-kombat-faces-backlash-for-excluding-57-of-users-from-airdrop",
+          "author": "Mehab Qureshi",
+          "description": "Just 43% of Hamster Kombat's claimed 300 million users are eligible for its Season 1 airdrop.",
+          "link": "https://thedefiant.io/news/tokens/hamster-kombat-faces-backlash-for-excluding-57-of-users-from-airdrop",
+          "publishedOn": "2024-09-23T15:22:00.000Z",
+          "wordCount": 2895,
+          "title": "Hamster Kombat Faces Backlash For Excluding 57% Of Users From Airdrop",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2eef2bf51a4ec9e1ca051f99693225118414d069-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2eef2bf51a4ec9e1ca051f99693225118414d069-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zeta-markets-plots-solana-l2-despite-ecosystem-opposition",
           "author": "Samuel Haig",
           "description": "The Solana community has long been antagonistic towards Layer 2 scaling.",
@@ -1188,7 +1203,7 @@
         {
           "id": "https://thedefiant.io/news/markets/market-recap-eth-btc-at-multi-year-low-bernstein-bullish-on-defi",
           "author": "Samuel Haig",
-          "description": "The ETH/BTC ratio slumped under 0.04, its lowest level since April 2021.",
+          "description": "ETH continues to underperform top-ranked crypto markets, but Bernstein expects Ether and DeFi assets will soon rally.",
           "link": "https://thedefiant.io/news/markets/market-recap-eth-btc-at-multi-year-low-bernstein-bullish-on-defi",
           "publishedOn": "2024-09-16T16:34:00.000Z",
           "wordCount": 2790,
@@ -1203,7 +1218,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit",
           "author": "Samuel Haig",
-          "description": "A hacker made off with $6M after compromising the private keys for DeltaPrime's admin.",
+          "description": "The hacker compromised the admin keys for DeltaPrime's Arbitrum deployment.",
           "link": "https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit",
           "publishedOn": "2024-09-16T12:22:00.000Z",
           "wordCount": 2602,
@@ -1434,21 +1449,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1b19042f8bd0b66051210e6ede803d228b3b5ec6-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system",
-          "author": "Pedro Solimano",
-          "description": "Governance is designed around three core pillars: token assembly, a security council, and guardians.",
-          "link": "https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system",
-          "publishedOn": "2024-09-12T19:33:42.000Z",
-          "wordCount": 2763,
-          "title": "ZKSync Launches Three-Body Governance System",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20a15b96ec4a92896a0ca05cc4323ff6bdd22bcd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20a15b96ec4a92896a0ca05cc4323ff6bdd22bcd-1792x1024.webp"
         }
       ]
     }
