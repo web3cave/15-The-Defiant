@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-23T19:06:17.140Z</id>
+    <id>urn:2024-09-23T20:08:43.658Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-23T19:06:17.140Z</updated>
+    <updated>2024-09-23T20:08:43.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microstrategy Has Outperformed All S&amp; P 500 Companies Thanks to Bitcoin]]></title>
+        <id>https://thedefiant.io/news/markets/microstrategy-has-outperformed-all-s-and-p-500-companies-thanks-to-bitcoin</id>
+        <link href="https://thedefiant.io/news/markets/microstrategy-has-outperformed-all-s-and-p-500-companies-thanks-to-bitcoin"/>
+        <updated>2024-09-23T19:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Up 1,000% in four years, the technology firm’s stock price has gone parabolic since it adopted its Bitcoin strategy.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Rally as Fed Cut Spurs Institutional Inflows]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-as-fed-cut-spurs-institutional-inflows</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/hedera-launches-asset-tokenization-studio-amid-global-rwa-push</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/hedera-launches-asset-tokenization-studio-amid-global-rwa-push"/>
         <updated>2024-09-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The move comes as more than 40 firms joined the Bank for International Settlements’ tokenization initiative, Project Agorá.]]></summary>
+        <summary type="html"><![CDATA[Hedera is looking to capitalize on the growing momentum of on-chain real-world assets with the launch of its tokenization studio.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/trump-family-s-world-liberty-financial-announces-token-sale</id>
         <link href="https://thedefiant.io/news/defi/trump-family-s-world-liberty-financial-announces-token-sale"/>
         <updated>2024-09-17T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[World Liberty Financial plans to sell 63% of the supply for its WLFI governance token to accredited U.S. investors.]]></summary>
+        <summary type="html"><![CDATA[The token sale will distribute 63% of WLFI's supply to U.S.-based accredited investors.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The integration paves the way for a native USDC deployment on Soneium in the future.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet Community Approves Dynamic Staking]]></title>
-        <id>https://thedefiant.io/news/blockchains/starknet-community-approves-dynamic-staking</id>
-        <link href="https://thedefiant.io/news/blockchains/starknet-community-approves-dynamic-staking"/>
-        <updated>2024-09-14T09:03:29.000Z</updated>
-        <summary type="html"><![CDATA[The proposed mechanism aims to control STRK inflation by minting tokens at a rate proportional to network staking levels.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
