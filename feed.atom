@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-23T12:14:52.019Z</id>
+    <id>urn:2024-09-23T13:17:23.014Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-23T12:14:52.019Z</updated>
+    <updated>2024-09-23T13:17:23.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zeta Markets Plots Solana L2 Despite Ecosystem Opposition]]></title>
+        <id>https://thedefiant.io/news/blockchains/zeta-markets-plots-solana-l2-despite-ecosystem-opposition</id>
+        <link href="https://thedefiant.io/news/blockchains/zeta-markets-plots-solana-l2-despite-ecosystem-opposition"/>
+        <updated>2024-09-23T12:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solana community has long been antagonistic towards Layer 2 scaling.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Researchers Warn Node Operators Can Be Deanonymized]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-researchers-warn-node-operators-can-be-deanonymized</id>
@@ -830,9 +840,19 @@
         <id>https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit</id>
         <link href="https://thedefiant.io/news/hacks/deltaprime-s-tvl-crashes-40-after-usd6m-exploit"/>
         <updated>2024-09-16T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The hacker compromised the admin keys for DeltaPrime's Arbitrum deployment.]]></summary>
+        <summary type="html"><![CDATA[A hacker made off with $6M after compromising the private keys for DeltaPrime's admin.]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building the Future of Ethereum: Joe Lubin on Consensys, Layer 2 Scaling, and Regulatory Challenges]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/building-the-future-of-ethereum-joe-lubin-on-consensys-layer-2-scaling-and-regulatory-challenges</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/building-the-future-of-ethereum-joe-lubin-on-consensys-layer-2-scaling-and-regulatory-challenges"/>
+        <updated>2024-09-16T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Joe Lubin, co-founder of Ethereum and Consensys, explores the evolution of blockchain technology and the expanding role of the Ethereum ecosystem in this episode.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york</id>
         <link href="https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york"/>
         <updated>2024-09-16T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Circle is moving its headquarters to the One World Trade Center in New York despite recently expressing concerns about the U.S. regulatory climate regarding crypto.]]></summary>
+        <summary type="html"><![CDATA[The announcement garnered mixed responses from the web3 community.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Governance is designed around three core pillars: token assembly, a security council, and guardians.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Launches First Ripple Trust in the U.S.]]></title>
-        <id>https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s</id>
-        <link href="https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s"/>
-        <updated>2024-09-12T18:54:33.000Z</updated>
-        <summary type="html"><![CDATA[XRP, the seventh-largest cryptocurrency by market capitalization, is now accessible to institutional investors.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hamster Kombat's $HMSTR to be Listed on Bybit and Binance with 5x Leverage from September 12]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/hamster-kombat-s-hmstr-to-listed-on-bybit-binance-5x-leverage-september-12</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/hamster-kombat-s-hmstr-to-listed-on-bybit-binance-5x-leverage-september-12"/>
-        <updated>2024-09-12T18:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Hamster Kombat's $HMSTR token is set to be listed on multiple exchanges following its airdrop]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
