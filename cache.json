@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/celestia-raises-usd100-million-ahead-of-usd1-billion-token-unlock",
+          "author": "Pedro Solimano",
+          "description": "The latest funding round was led by Bain Capital Crypto, with participation from Syncracy Capital, 1kx, Robot Ventures, and others.",
+          "link": "https://thedefiant.io/news/blockchains/celestia-raises-usd100-million-ahead-of-usd1-billion-token-unlock",
+          "publishedOn": "2024-09-23T20:32:37.000Z",
+          "wordCount": 2354,
+          "title": "Celestia Raises $100 Million Ahead of $1 Billion Token Unlock",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/244be8ce5831ae697b6dfad6cad9dd6f0333b5ea-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/244be8ce5831ae697b6dfad6cad9dd6f0333b5ea-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/microstrategy-has-outperformed-all-s-and-p-500-companies-thanks-to-bitcoin",
           "author": "Pedro Solimano",
           "description": "Up 1,000% in four years, the technology firm’s stock price has gone parabolic since it adopted its Bitcoin strategy.",
@@ -1193,7 +1208,7 @@
         {
           "id": "https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration",
           "author": "Mehab Qureshi",
-          "description": "The move follows EigenLayer launching support for EIGEN in May.",
+          "description": "EigenLayer launched support for tBTC in its latest bid to expand its roster of supported assets.",
           "link": "https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration",
           "publishedOn": "2024-09-17T13:06:00.000Z",
           "wordCount": 2374,
@@ -1208,7 +1223,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/hedera-launches-asset-tokenization-studio-amid-global-rwa-push",
           "author": "Mehab Qureshi",
-          "description": "Hedera is looking to capitalize on the growing momentum of on-chain real-world assets with the launch of its tokenization studio.",
+          "description": "The move comes as more than 40 firms joined the Bank for International Settlements’ tokenization initiative, Project Agorá.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/hedera-launches-asset-tokenization-studio-amid-global-rwa-push",
           "publishedOn": "2024-09-17T13:00:00.000Z",
           "wordCount": 2446,
@@ -1439,21 +1454,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57a51405ec46bb54fc7ba975a5953003a0cbca33-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc",
-          "author": "Samuel Haig",
-          "description": "The integration paves the way for a native USDC deployment on Soneium in the future.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/soneium-integrates-support-for-bridged-usdc",
-          "publishedOn": "2024-09-16T09:00:00.000Z",
-          "wordCount": 2422,
-          "title": "Soneium Integrates Support For Bridged USDC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a33f6565dd9b3dee489a5c061a04f03b1721a89b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a33f6565dd9b3dee489a5c061a04f03b1721a89b-1792x1024.webp"
         }
       ]
     }
