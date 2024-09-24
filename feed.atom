@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-24T11:06:45.683Z</id>
+    <id>urn:2024-09-24T12:15:06.114Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-24T11:06:45.683Z</updated>
+    <updated>2024-09-24T12:15:06.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anemoy Taps Chronicle For RWA Oracle On Centrifuge]]></title>
+        <id>https://thedefiant.io/news/defi/anemoy-taps-chronicle-for-rwa-oracle-on-centrifuge</id>
+        <link href="https://thedefiant.io/news/defi/anemoy-taps-chronicle-for-rwa-oracle-on-centrifuge"/>
+        <updated>2024-09-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asset issuers can now leverage Chronicle for on-chain and off-chain data on Centrifuge.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Reportedly Eying $50M Fundraise and Token Launch]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/polymarket-reportedly-eying-usd50m-fundraise-and-token-launch</id>
@@ -156,7 +166,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zeta Markets Plots Solana L2 Despite Ecosystem Opposition]]></title>
+        <title type="html"><![CDATA[Zeta Markets Plots Solana L2 Despite Previous Ecosystem Opposition]]></title>
         <id>https://thedefiant.io/news/blockchains/zeta-markets-plots-solana-l2-despite-ecosystem-opposition</id>
         <link href="https://thedefiant.io/news/blockchains/zeta-markets-plots-solana-l2-despite-ecosystem-opposition"/>
         <updated>2024-09-23T12:18:00.000Z</updated>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The hacker compromised the admin keys for DeltaPrime's Arbitrum deployment.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building the Future of Ethereum: Joe Lubin on Consensys, Layer 2 Scaling, and Regulatory Challenges]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/building-the-future-of-ethereum-joe-lubin-on-consensys-layer-2-scaling-and-regulatory-challenges</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/building-the-future-of-ethereum-joe-lubin-on-consensys-layer-2-scaling-and-regulatory-challenges"/>
-        <updated>2024-09-16T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Joe Lubin, co-founder of Ethereum and Consensys, explores the evolution of blockchain technology and the expanding role of the Ethereum ecosystem in this episode.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
