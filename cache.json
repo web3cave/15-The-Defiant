@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign",
+          "author": "Samuel Haig",
+          "description": "EtherFi users will begin earning a wrapped token accruing rewards from EigenLayer’s AVS ecosystem during Season 4.",
+          "link": "https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign",
+          "publishedOn": "2024-09-25T15:24:00.000Z",
+          "wordCount": 2535,
+          "title": "EtherFi Launches USDe LRT and Season 4 Points Campaign",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cdbbd64a79f83d5c857de31154427cc098932f78-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cdbbd64a79f83d5c857de31154427cc098932f78-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/babylon-teams-up-with-asphere-on-bitcoin-l2-infrastructure",
           "author": "Samuel Haig",
           "description": "L2s deploying on top of the solution will leverage Babylon’s Bitcoin staking layer for security.",
@@ -1208,7 +1223,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/hemi-labs-closes-usd15-million-funding-round-led-by-breyer-capital-and-binance",
           "author": "Samuel Haig and Mehab Qureshi",
-          "description": "VCs are backing Hemi's vision for a DeFi ecosystem interacting with both the Ethereum and Bitcoin networks.",
+          "description": "Hemi Network aims to support applications that interact with both Bitcoin and Ethereum.",
           "link": "https://thedefiant.io/news/blockchains/hemi-labs-closes-usd15-million-funding-round-led-by-breyer-capital-and-binance",
           "publishedOn": "2024-09-18T13:00:00.000Z",
           "wordCount": 2696,
@@ -1434,21 +1449,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b4ffbf17971193cedd7a8748b00dc4d0fe640099-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration",
-          "author": "Mehab Qureshi",
-          "description": "The move follows EigenLayer launching support for EIGEN in May.",
-          "link": "https://thedefiant.io/news/defi/eigenlayer-expands-restaking-assets-with-tbtc-integration",
-          "publishedOn": "2024-09-17T13:06:00.000Z",
-          "wordCount": 2390,
-          "title": "EigenLayer Expands Roster Of Restakable Assets With tBTC Integration",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2817f2ac658feac49b482c4d5bed99728bab368f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2817f2ac658feac49b482c4d5bed99728bab368f-1792x1024.webp"
         }
       ]
     }
