@@ -6,12 +6,42 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/ftx-creditors-expect-only-10-to-25-of-crypto-holdings-to-be-recovered",
+          "author": "Mehab Qureshi",
+          "description": "Creditors argue that cash payouts don't fairly compensate for their losses.",
+          "link": "https://thedefiant.io/news/cefi/ftx-creditors-expect-only-10-to-25-of-crypto-holdings-to-be-recovered",
+          "publishedOn": "2024-09-30T16:22:16.000Z",
+          "wordCount": 2856,
+          "title": "FTX Creditors Expect Only 10% to 25% of Crypto Holdings to Be Recovered",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/22868f1fe5fca0afa9701abbf91289048d7265ea-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/22868f1fe5fca0afa9701abbf91289048d7265ea-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/synthetix-governance-overhaul-garners-near-unanimous-support",
+          "author": "Mehab Qureshi",
+          "description": "The new proposal, dubbed “SR-2”, aims to bring more control and efficiency to the protocol.",
+          "link": "https://thedefiant.io/news/defi/synthetix-governance-overhaul-garners-near-unanimous-support",
+          "publishedOn": "2024-09-30T15:23:08.000Z",
+          "wordCount": 2562,
+          "title": "Synthetix Governance Overhaul Garners Near-Unanimous Support",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/334aa8ac91fd48dedbfc90ba26428f1793b232d8-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/334aa8ac91fd48dedbfc90ba26428f1793b232d8-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/moonshot-memecoin-trading-app-gains-traction",
           "author": "Squiffs",
           "description": "The retail-friendly memecoin app has partnered with MoonPay and is available on Apple and Google app stores.",
           "link": "https://thedefiant.io/news/defi/moonshot-memecoin-trading-app-gains-traction",
           "publishedOn": "2024-09-27T20:08:41.000Z",
-          "wordCount": 2293,
+          "wordCount": 2294,
           "title": "Moonshot Memecoin Trading App Gains Traction",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ceb802180f58e8825f05576e3c95ad9f1e97b30-1792x1024.webp",
@@ -56,7 +86,7 @@
           "description": "Zhao will be released two days ahead of schedule after 119 days behind bars.",
           "link": "https://thedefiant.io/news/cefi/binance-founder-cz-set-for-prison-release",
           "publishedOn": "2024-09-27T17:52:56.000Z",
-          "wordCount": 2418,
+          "wordCount": 2424,
           "title": "Binance Founder CZ Set for Prison Release",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4389abd38f196b01475e5a2f102eec31276b98f-1792x1024.webp",
@@ -101,7 +131,7 @@
           "description": "Phantom Wallet, a Solana-based wallet, has integrated with dYdX, a leading decentralized exchange (DEX), allowing users to access perpetual trading on the platform",
           "link": "https://thedefiant.io/news/defi/solana-based-phantom-wallet-integrates-dydx-facilitates-250-million-volume-36cdc329",
           "publishedOn": "2024-09-27T16:41:12.000Z",
-          "wordCount": 2232,
+          "wordCount": 2212,
           "title": "Solana-Based Phantom Wallet Integrates with dYdX, Facilitates $250 Million in Volume",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/24ada3fd40b7543e2e00ec72dd75fc1a269a0b69-1200x675.jpg",
@@ -146,7 +176,7 @@
           "description": "dYdX Trading has announced plans to sunset its v3 platform starting from October 28, 2024",
           "link": "https://thedefiant.io/news/defi/dydx-trading-to-sunset-v3-platform-on-october-28-2024-marking-start-unlimited-54cbe956",
           "publishedOn": "2024-09-27T16:38:57.000Z",
-          "wordCount": 2234,
+          "wordCount": 2214,
           "title": "dYdX Trading to Sunset v3 Platform on October 28, 2024, Marking Start of 'Unlimited Era'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/77a670c5716c26621e34cf8e72069bbe35a0f04e-1000x1199.jpg",
@@ -176,7 +206,7 @@
           "description": "The token dropped as much as 90% before partially recovering.",
           "link": "https://thedefiant.io/news/defi/vusd-stablecoin-depegs-after-usd3-8-million-exploit-of-onyxdao",
           "publishedOn": "2024-09-27T15:47:14.000Z",
-          "wordCount": 2381,
+          "wordCount": 2369,
           "title": "VUSD Stablecoin Depegs After $3.8 Million Exploit of OnyxDAO",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/36e84aee824239ab0c0836c034548269a70ab4fe-1792x1024.webp",
@@ -191,7 +221,7 @@
           "description": "Aave also onboarded two new BTC-backed tokens over the past week.",
           "link": "https://thedefiant.io/news/defi/aave-s-wbtc-holdings-surge-to-record-high-despite-restructure-drama",
           "publishedOn": "2024-09-27T12:59:00.000Z",
-          "wordCount": 2751,
+          "wordCount": 2757,
           "title": "Aave’s WBTC Holdings Surge To Record High Despite Restructure Drama",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f2b8bc7b8e917cd73c0b7a0fb9f8a64d796c37d-1792x1024.webp",
@@ -236,7 +266,7 @@
           "description": "The bounty is being posted as a reward for a return of the stolen funds.",
           "link": "https://thedefiant.io/news/defi/truflation-offers-usd500-000-bounty-after-suffering-usd5-million-hack",
           "publishedOn": "2024-09-26T19:44:07.000Z",
-          "wordCount": 2357,
+          "wordCount": 2346,
           "title": "Truflation Offers $500,000 Bounty After Suffering $5 Million Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b126afa13f2d03a9623ca33d568a0d022679e148-1792x1024.webp",
@@ -281,7 +311,7 @@
           "description": "UStb will be fully backed by BlackRock’s tokenized Treasury fund BUIDL.",
           "link": "https://thedefiant.io/news/defi/ethena-launches-stablecoin-backed-by-blackrock-s-buidl-fund",
           "publishedOn": "2024-09-26T17:21:33.000Z",
-          "wordCount": 2457,
+          "wordCount": 2463,
           "title": "Ethena Launches Stablecoin Backed by BlackRock’s BUIDL Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6fcae3a41d31988d3d154090626ab0f086ad4609-1792x1024.webp",
@@ -371,7 +401,7 @@
           "description": "Sui and Sei have rallied over 100% off their August lows, sparking renewed interest in their DeFi ecosystems.",
           "link": "https://thedefiant.io/news/defi/sui-and-sei-lead-altcoin-market-higher",
           "publishedOn": "2024-09-25T20:40:41.000Z",
-          "wordCount": 2495,
+          "wordCount": 2501,
           "title": "Sui and Sei Lead Altcoin Market Higher",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6b0cb8771199850ecafff57712a468b43c940982-1792x1024.webp",
@@ -386,7 +416,7 @@
           "description": "The Telegram trading bot said in an incident report it identified a potential vulnerability in its message oracle.",
           "link": "https://thedefiant.io/news/defi/banana-gun-pledges-to-pay-back-victims-of-usd3-million-exploit",
           "publishedOn": "2024-09-25T18:25:39.000Z",
-          "wordCount": 2365,
+          "wordCount": 2371,
           "title": "Banana Gun Pledges to Pay Back Victims of $3 Million Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/04c079c7465eb7fa05baf05e36430ec2b8b67048-1792x1024.webp",
@@ -431,7 +461,7 @@
           "description": "EtherFi users will begin earning a wrapped token accruing rewards from EigenLayer’s AVS ecosystem during Season 4.",
           "link": "https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign",
           "publishedOn": "2024-09-25T15:24:00.000Z",
-          "wordCount": 2539,
+          "wordCount": 2545,
           "title": "EtherFi Launches USDe LRT and Season 4 Points Campaign",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cdbbd64a79f83d5c857de31154427cc098932f78-1792x1024.webp",
@@ -521,7 +551,7 @@
           "description": "Pump.Fun metrics are experiencing a downtrend, coinciding with SOL/BTC price action.",
           "link": "https://thedefiant.io/news/defi/solana-dominance-drops-as-pump-fun-mania-wanes",
           "publishedOn": "2024-09-24T20:38:34.000Z",
-          "wordCount": 2239,
+          "wordCount": 2245,
           "title": "Solana Dominance Drops as Pump.Fun Mania Wanes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/69a94fa6dd5e996a10d234e73c95bed9feaa1098-1792x1024.webp",
@@ -551,7 +581,7 @@
           "description": "The largest exchange in the world had the biggest monthly increase in ETH staking.",
           "link": "https://thedefiant.io/news/cefi/binance-users-added-the-most-eth-out-of-all-ethereum-stakers-in-september",
           "publishedOn": "2024-09-24T18:52:18.000Z",
-          "wordCount": 2594,
+          "wordCount": 2600,
           "title": "Binance Users Added the Most ETH Out of All Ethereum Stakers in September",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f055b3d5a8545d2ebeaf537eba3a6a7f0a06111e-1792x1024.webp",
@@ -576,7 +606,7 @@
           "description": "Cega, a decentralized structured investment protocol, has introduced its Vault Token Market (VTM), which allows users to unlock the extensive utility of Cega vault tokens",
           "link": "https://thedefiant.io/news/defi/cega-launches-vault-token-market-on-ethereum-arbitrum-enhanced-liquidity-options-8259ee18",
           "publishedOn": "2024-09-24T17:38:45.000Z",
-          "wordCount": 2256,
+          "wordCount": 2245,
           "title": "Cega Launches Vault Token Market on Ethereum and Arbitrum with Enhanced Liquidity Options",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5c7456a2519ed1fc2ace0d1fdb42fa36b51e1214-1200x900.jpg",
@@ -651,7 +681,7 @@
           "description": "Asset issuers can now leverage Chronicle for on-chain and off-chain data on Centrifuge.",
           "link": "https://thedefiant.io/news/defi/anemoy-taps-chronicle-for-rwa-oracle-on-centrifuge",
           "publishedOn": "2024-09-24T12:00:00.000Z",
-          "wordCount": 2589,
+          "wordCount": 2595,
           "title": "Anemoy Taps Chronicle For RWA Oracle On Centrifuge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a28370e674e17aef4980835b5921f38513833a41-1792x1024.webp",
@@ -751,7 +781,7 @@
           "description": "Scallop, a DeFi lending protocol within the Sui Network ecosystem, has achieved significant milestones",
           "link": "https://thedefiant.io/news/defi/scallop-surpasses-150m-tvl-80m-borrowing-47m-swap-volume-launches-new-incentive-34a427d3",
           "publishedOn": "2024-09-23T17:45:00.000Z",
-          "wordCount": 2215,
+          "wordCount": 2204,
           "title": "Scallop Surpasses $150M TVL, $80M Borrowing, $47M Swap Volume, Launches New Incentive Program",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88d3b9d91fd81f60bef53ab2a717a50880ae8b97-1199x358.jpg",
@@ -811,7 +841,7 @@
           "description": "Stablecoins and cryptocurrencies are gaining significant traction in Eastern Asia, challenging the dominance of traditional fiat currencies",
           "link": "https://thedefiant.io/news/defi/stablecoins-challenge-fiat-eastern-asia-hong-kong-leads-40-crypto-value-ca514562",
           "publishedOn": "2024-09-23T17:43:04.000Z",
-          "wordCount": 2226,
+          "wordCount": 2215,
           "title": "Stablecoins Challenge Fiat in Eastern Asia, Hong Kong Leads with 40% Crypto Value",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7487156b24156f6daee90e9bafe32c5fc2eac88-1111x721.jpg",
@@ -841,7 +871,7 @@
           "description": "tBTC has officially launched on Aave on September 23, marking a significant development for BitcoinFi",
           "link": "https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46",
           "publishedOn": "2024-09-23T17:42:47.000Z",
-          "wordCount": 2180,
+          "wordCount": 2169,
           "title": "tBTC Officially Launches on Aave on September 23, Marking Major BitcoinFi Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b3f0c32f6ba2dd623bc459f0b49daf90554dee2-1200x860.jpg",
@@ -961,7 +991,7 @@
           "description": "Fuse Wallet has announced the launch of Fuse Pay, a virtual Visa card that allows users to spend stablecoins directly from their Fuse Wallet on the Solana blockchain",
           "link": "https://thedefiant.io/news/defi/fuse-wallet-launches-virtual-visa-card-for-stablecoins-on-solana",
           "publishedOn": "2024-09-21T15:36:43.000Z",
-          "wordCount": 2218,
+          "wordCount": 2207,
           "title": "Fuse Wallet Launches Virtual Visa Card for Stablecoins on Solana",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2dda31866183fa496ac818e01b21093a214c6cc8-1199x668.jpg",
@@ -1031,7 +1061,7 @@
           "description": "The potential expansion is in the discussion stage after a proposal was floated by Sky (MakerDAO) founder Rune Christensen.",
           "link": "https://thedefiant.io/news/defi/sky-preps-for-solana-expansion",
           "publishedOn": "2024-09-21T01:04:08.000Z",
-          "wordCount": 2400,
+          "wordCount": 2406,
           "title": "Sky Preps for Solana Expansion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/56771654d9054de178df1660e27d8b9fffb4dcfa-1792x1024.webp",
@@ -1211,7 +1241,7 @@
           "description": "‘Motherland’ enters a competitive gambling space dominated by Stake.",
           "link": "https://thedefiant.io/news/defi/iggy-azalea-to-launch-crypto-casino-integrating-mother",
           "publishedOn": "2024-09-20T17:30:54.000Z",
-          "wordCount": 2572,
+          "wordCount": 2578,
           "title": "Iggy Azalea to Launch Crypto Casino Integrating MOTHER",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/94579f8703dc6639d45ce9b8e1a4be37a361b475-1792x1024.webp",
@@ -1238,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-s-next-pectra-upgrade-to-take-place-over-two-forks",
           "author": "Samuel Haig",
-          "description": "Ethereum's upcoming Pectra upgrade will be divided across two hard forks.",
+          "description": "Ethereum’s developers are gearing up for the network’s next major upgrade.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-s-next-pectra-upgrade-to-take-place-over-two-forks",
           "publishedOn": "2024-09-20T12:58:00.000Z",
           "wordCount": 2803,
@@ -1256,7 +1286,7 @@
           "description": "The launch pushes SynFutures into the fast-growing prediction markets sector dominated by Polymarket.",
           "link": "https://thedefiant.io/news/defi/synfutures-launches-leverages-perps-tracking-polymarket-election-markets",
           "publishedOn": "2024-09-20T09:53:00.000Z",
-          "wordCount": 2558,
+          "wordCount": 2564,
           "title": "SynFutures Launches Leverages Perps Tracking Polymarket Election Markets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/26d7b44825285f0caa5e4b650a264b53fed33095-1792x1024.webp",
@@ -1301,7 +1331,7 @@
           "description": "The Token2049 conference in Singapore featured Solana's Seeker phone launch, BitGo’s USDS stablecoin, and other major product announcements.",
           "link": "https://thedefiant.io/news/defi/token2049-roundup-solana-seeker-bitgo-stablecoin-and-more",
           "publishedOn": "2024-09-19T19:06:13.000Z",
-          "wordCount": 2746,
+          "wordCount": 2735,
           "title": "Token2049 Roundup: Solana Seeker, BitGo Stablecoin and More",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e3caeed2778d864165ba58a4ac975b034e724a6-1792x1024.webp",
@@ -1376,7 +1406,7 @@
           "description": "The hacker behind WazirX has moved $32 million in ETH over the past four days, with the 7th batch of $12 million being laundered via Tornado Cash",
           "link": "https://thedefiant.io/news/cefi/wazirx-hacker-moves-7th-batch-32m-eth-amid-ownership-dispute-92e3d168",
           "publishedOn": "2024-09-19T16:05:21.000Z",
-          "wordCount": 2253,
+          "wordCount": 2257,
           "title": "WazirX Hacker Moves 7th Batch of $32M in ETH Amid Ownership Dispute",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7baeb491f392c40311b37086582e69906b1a4820-1198x278.jpg",
@@ -1391,7 +1421,7 @@
           "description": "Bitget, a cryptocurrency exchange, has secured an eight-figure, multi-million dollar partnership with LaLiga, Spain's top football league",
           "link": "https://thedefiant.io/news/cefi/bitget-secures-eight-figure-deal-laliga-select-regions-8b5eff81",
           "publishedOn": "2024-09-19T16:05:07.000Z",
-          "wordCount": 2161,
+          "wordCount": 2165,
           "title": "Bitget Secures Eight-Figure Deal with LaLiga in Select Regions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/858ea5ae79d98591428034cd03476d754a435a11-1024x576.jpg",
@@ -1436,7 +1466,7 @@
           "description": "Aave’s community is pushing back against a proposal to prevent users from taking out new WBTC loans.",
           "link": "https://thedefiant.io/news/defi/aave-community-opposes-offboarding-wbtc-despite-looming-restructure",
           "publishedOn": "2024-09-19T14:28:00.000Z",
-          "wordCount": 2696,
+          "wordCount": 2702,
           "title": "Aave Community Opposes Offboarding WBTC Despite Looming Restructure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/850c8e9d305bbf13e4230546b45cec83decd4695-1792x1024.webp",
@@ -1459,36 +1489,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0f6775d83a6d354925eb4a82da3519827170d045-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/rari-capital-settles-with-sec-over-unregistered-offerings",
-          "author": "Mehab Qureshi",
-          "description": "The SEC alleges that Rari Capital operated as an unregistered broker and sold securities through its Fuse platform.",
-          "link": "https://thedefiant.io/news/regulation/rari-capital-settles-with-sec-over-unregistered-offerings",
-          "publishedOn": "2024-09-19T11:10:00.000Z",
-          "wordCount": 2549,
-          "title": "Rari Capital Settles With SEC Over Unregistered Offerings",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcbff4a785d2ca29003fb484c29364df404a4ffc-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dcbff4a785d2ca29003fb484c29364df404a4ffc-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/moody-s-touts-depin-as-promising-approach-to-infrastructure",
-          "author": "Squiffs",
-          "description": "The DePIN sector has outperformed in 2024, led by projects like Helium and Render Networks.",
-          "link": "https://thedefiant.io/news/infrastructure/moody-s-touts-depin-as-promising-approach-to-infrastructure",
-          "publishedOn": "2024-09-18T20:13:11.000Z",
-          "wordCount": 2316,
-          "title": "Moody’s Touts DePIN as Promising Approach to Infrastructure",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d01e694b717c42cc10bc7559ccaa3d9bc1a041c0-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d01e694b717c42cc10bc7559ccaa3d9bc1a041c0-1792x1024.webp"
         }
       ]
     }
