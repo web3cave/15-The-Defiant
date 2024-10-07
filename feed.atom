@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-07T17:07:14.733Z</id>
+    <id>urn:2024-10-07T18:11:04.158Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-07T17:07:14.733Z</updated>
+    <updated>2024-10-07T18:11:04.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://thedefiant.io/news/regulation/national-bank-bahrain-launches-first-bitcoin-investment-product-managing-15-ba16445c"/>
         <updated>2024-10-07T14:47:47.000Z</updated>
         <summary type="html"><![CDATA[The National Bank of Bahrain has launched its first Bitcoin-linked structured investment product in partnership with ARP Digital]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Asset Funds See $147M Outflows Amid Economic Data; Solana Gains $5.3M, $159M Bitcoin, $29M Ethereum]]></title>
+        <id>https://thedefiant.io/news/markets/digital-asset-funds-see-147m-outflows-amid-economic-data-solana-gains-5-3m-159m-97764113</id>
+        <link href="https://thedefiant.io/news/markets/digital-asset-funds-see-147m-outflows-amid-economic-data-solana-gains-5-3m-159m-97764113"/>
+        <updated>2024-10-07T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital asset investment products experienced minor outflows totaling $147 million last week, according to CoinShares]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-s-wbtc-holdings-surge-to-record-high-despite-restructure-drama</id>
         <link href="https://thedefiant.io/news/defi/aave-s-wbtc-holdings-surge-to-record-high-despite-restructure-drama"/>
         <updated>2024-09-27T12:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave's WBTC deposits are at an all-time high despite Wrapped Bitcoin gearing up for its controversial restructure.]]></summary>
+        <summary type="html"><![CDATA[Aave also onboarded two new BTC-backed tokens over the past week.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Trading began at midday New York time.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EtherFi Launches USDe LRT and Season 4 Points Campaign]]></title>
-        <id>https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign</id>
-        <link href="https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign"/>
-        <updated>2024-09-25T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[EtherFi users will begin earning a wrapped token accruing rewards from EigenLayer’s AVS ecosystem during Season 4.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
