@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-07T11:08:27.912Z</id>
+    <id>urn:2024-10-07T12:15:21.549Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-07T11:08:27.912Z</updated>
+    <updated>2024-10-07T12:15:21.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UAE Rolls Out VAT Exemptions For Crypto Transactions]]></title>
+        <id>https://thedefiant.io/news/regulation/uae-rolls-out-vat-exemptions-for-crypto-transactions</id>
+        <link href="https://thedefiant.io/news/regulation/uae-rolls-out-vat-exemptions-for-crypto-transactions"/>
+        <updated>2024-10-07T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Crypto transfers and conversions are now VAT-free in the United Arab Emirates.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2 Adoption Wanes Despite Base Activity Continuing To Surge]]></title>
+        <id>https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge</id>
+        <link href="https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge"/>
+        <updated>2024-10-07T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Active addresses on Arbitrum and Linea have crashed by 62% and 87% in recent months.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aerodrome Faces Criticism Over Code License Amid Rapid Growth]]></title>
         <id>https://thedefiant.io/news/defi/aerodrome-faces-criticism-over-code-license-amid-rapid-growth</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-rolls-out-crypto-trading-and-transfers-for-u-s-merchants</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-rolls-out-crypto-trading-and-transfers-for-u-s-merchants"/>
         <updated>2024-09-26T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The market cap of PayPal’s PYUSD stablecoin on Solana has crashed by half in the past month.]]></summary>
+        <summary type="html"><![CDATA[U.S. merchants can now trade and transfer cryptocurrencies using PayPal business accounts.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/avalanche-announces-usd40m-grant-program-ahead-of-avalanche9000-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/avalanche-announces-usd40m-grant-program-ahead-of-avalanche9000-upgrade"/>
         <updated>2024-09-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Avalanche Foundation is launching a $40 million grant program for developers leveraging its upcoming Avalanche9000 upgrade.]]></summary>
+        <summary type="html"><![CDATA[Avalanche is readying to overhaul its subnet architecture.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The governance vote is slated to close in 48 hours, with 99% of voters currently in favor of the proposal.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Users Added the Most ETH Out of All Ethereum Stakers in September]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-users-added-the-most-eth-out-of-all-ethereum-stakers-in-september</id>
-        <link href="https://thedefiant.io/news/cefi/binance-users-added-the-most-eth-out-of-all-ethereum-stakers-in-september"/>
-        <updated>2024-09-24T18:52:18.000Z</updated>
-        <summary type="html"><![CDATA[The largest exchange in the world had the biggest monthly increase in ETH staking.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguins Launches First Solana Activation with DRiP Haus and Free Collectible]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-first-solana-activation-drip-haus-free-collectible-4bf4cac1</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-first-solana-activation-drip-haus-free-collectible-4bf4cac1"/>
-        <updated>2024-09-24T17:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Pudgy Penguins has chosen DRiP Haus for its first activation on the Solana blockchain as part of a DRiP campaign]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
