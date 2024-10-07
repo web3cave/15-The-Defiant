@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-07T18:11:04.158Z</id>
+    <id>urn:2024-10-07T19:06:14.374Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-07T18:11:04.158Z</updated>
+    <updated>2024-10-07T19:06:14.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Memecoin ‘Vampire Attacks’ Increase]]></title>
+        <id>https://thedefiant.io/news/defi/memecoin-vampire-attacks-increase</id>
+        <link href="https://thedefiant.io/news/defi/memecoin-vampire-attacks-increase"/>
+        <updated>2024-10-07T18:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Popular tokens are being recreated on different blockchains and labeled as “Community Takeovers.”]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Rally Ahead of U.S. Inflation Report]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-u-s-inflation-report</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools</id>
         <link href="https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools"/>
         <updated>2024-09-27T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Bedrock reached out to the hacker with a job offer.]]></summary>
+        <summary type="html"><![CDATA[Liquidity pool's for Bedrock's uniBTC token were drained after a hacker spotted a vulnerability allowing them to the asset against ETH.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Polymarket traders are increasingly betting against a new Ethereum all-time high in 2024.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZkSync's ZK Pumps 10% on Coinbase Listing]]></title>
-        <id>https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing</id>
-        <link href="https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing"/>
-        <updated>2024-09-25T18:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Trading began at midday New York time.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>

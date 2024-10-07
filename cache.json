@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/memecoin-vampire-attacks-increase",
+          "author": "Squiffs",
+          "description": "Popular tokens are being recreated on different blockchains and labeled as “Community Takeovers.”",
+          "link": "https://thedefiant.io/news/defi/memecoin-vampire-attacks-increase",
+          "publishedOn": "2024-10-07T18:45:55.000Z",
+          "wordCount": 2347,
+          "title": "Memecoin ‘Vampire Attacks’ Increase",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a825765bf38ed71c5ce98c8b3cc1193e938e2a4b-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a825765bf38ed71c5ce98c8b3cc1193e938e2a4b-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-u-s-inflation-report",
           "author": "Mehab Qureshi",
           "description": "Bitcoin and Ethereum jumped 2% ahead of a crucial week that includes U.S. CPI and Federal Reserve minutes.",
@@ -1203,7 +1218,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools",
           "author": "Mehab Qureshi",
-          "description": "Bedrock reached out to the hacker with a job offer.",
+          "description": "Liquidity pool's for Bedrock's uniBTC token were drained after a hacker spotted a vulnerability allowing them to the asset against ETH.",
           "link": "https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools",
           "publishedOn": "2024-09-27T16:10:00.000Z",
           "wordCount": 2542,
@@ -1454,21 +1469,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7b640f0365440637caf5c6dd5a4f0780e3f3db67-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing",
-          "author": "Pedro Solimano",
-          "description": "Trading began at midday New York time.",
-          "link": "https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing",
-          "publishedOn": "2024-09-25T18:16:48.000Z",
-          "wordCount": 2306,
-          "title": "ZkSync's ZK Pumps 10% on Coinbase Listing",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp"
         }
       ]
     }
