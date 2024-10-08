@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-08T22:07:36.685Z</id>
+    <id>urn:2024-10-08T23:08:19.208Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-08T22:07:36.685Z</updated>
+    <updated>2024-10-08T23:08:19.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers Float Two Proposals To Improve Layer 1 Efficiency]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency"/>
+        <updated>2024-10-08T22:15:46.000Z</updated>
+        <summary type="html"><![CDATA[EIP-7781 would lower the network’s slot time, increase blobs per block, and help scale the main chain.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JupiterExchange Launches iOS Mobile App for Solana with 1-Tap Swap, Zero Fees, and Multiple Payment Methods]]></title>
         <id>https://thedefiant.io/news/defi/jupiterexchange-launches-ios-mobile-app-solana-1-tap-swap-zero-fees-multiple-451e0d7e</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[dYdX Trading has announced plans to sunset its v3 platform starting from October 28, 2024]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bedrock Vulnerability Allows Hacker To Drain $2M From UniBTC Liquidity Pools]]></title>
-        <id>https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools</id>
-        <link href="https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools"/>
-        <updated>2024-09-27T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Bedrock reached out to the hacker with a job offer.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
