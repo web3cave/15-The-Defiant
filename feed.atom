@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T23:09:18.073Z</id>
+    <id>urn:2024-10-10T00:38:42.773Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-09T23:09:18.073Z</updated>
+    <updated>2024-10-10T00:38:42.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin’s Taproot Upgrade Suffers Slow Adoption Despite More Companies Supporting It]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it"/>
+        <updated>2024-10-09T23:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Dune data shows that Taproot transactions comprise a meager 20% of all Bitcoin transactions.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Launches Native USDC On SUI]]></title>
         <id>https://thedefiant.io/news/defi/circle-launches-native-usdc-on-sui</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/christie-s-to-auction-first-bitcoin-ordinal"/>
         <updated>2024-09-30T17:40:57.000Z</updated>
         <summary type="html"><![CDATA[The 1/1 piece is dubbed ‘Ascend’ by artists Ryan Koopmans and Alice Wexell.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeSci Projects AminoChain and GenoBank Fight Over IP Rights]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/desci-projects-aminochain-and-genobank-fight-over-ip-rights</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/desci-projects-aminochain-and-genobank-fight-over-ip-rights"/>
-        <updated>2024-09-30T17:17:25.000Z</updated>
-        <summary type="html"><![CDATA[GenoBank alleges AminoChain is infringing on its BioNFT patent.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>

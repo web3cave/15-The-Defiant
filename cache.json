@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it",
+          "author": "Pedro Solimano",
+          "description": "Dune data shows that Taproot transactions comprise a meager 20% of all Bitcoin transactions.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it",
+          "publishedOn": "2024-10-09T23:33:39.000Z",
+          "wordCount": 2328,
+          "title": "Bitcoin’s Taproot Upgrade Suffers Slow Adoption Despite More Companies Supporting It",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c6ee927c335183ac0c2391b7d0a1e2e6d560cf7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9c6ee927c335183ac0c2391b7d0a1e2e6d560cf7-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/circle-launches-native-usdc-on-sui",
           "author": "Pedro Solimano",
           "description": "The move comes as USDC has lost 5% of its market capitalization in the last month.",
@@ -1454,21 +1469,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a0e2d36d528221233a4a1753692ec08a01bce46a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/desci-projects-aminochain-and-genobank-fight-over-ip-rights",
-          "author": "Pedro Solimano",
-          "description": "GenoBank alleges AminoChain is infringing on its BioNFT patent.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/desci-projects-aminochain-and-genobank-fight-over-ip-rights",
-          "publishedOn": "2024-09-30T17:17:25.000Z",
-          "wordCount": 2795,
-          "title": "DeSci Projects AminoChain and GenoBank Fight Over IP Rights",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0f941d2473d2d8ae81a1dbe9a792b7ac2586d62-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a0f941d2473d2d8ae81a1dbe9a792b7ac2586d62-1792x1024.webp"
         }
       ]
     }
