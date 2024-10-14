@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T14:08:14.286Z</id>
+    <id>urn:2024-10-14T15:08:30.327Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-14T14:08:14.286Z</updated>
+    <updated>2024-10-14T15:08:30.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morpho User Exploits Oracle Error To Turn $350 Into $230K]]></title>
+        <id>https://thedefiant.io/news/defi/morpho-user-exploits-oracle-error-to-turn-usd350-into-usd230k</id>
+        <link href="https://thedefiant.io/news/defi/morpho-user-exploits-oracle-error-to-turn-usd350-into-usd230k"/>
+        <updated>2024-10-14T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[The attack was enabled by a user misconfiguring the decimals places for PAXG relative to USDC.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm Execs Unveil Web3 Development Firm Ithica and Ethereum L2]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/paradigm-execs-unveil-web3-development-firm-ithica-and-ethereum-l2</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/ripple-partners-mercado-bitcoin-to-launch-international-payments-solution-brazil-f6e6bb16"/>
         <updated>2024-10-03T17:06:08.000Z</updated>
         <summary type="html"><![CDATA[Ripple has partnered with Mercado Bitcoin, a leading Brazilian cryptocurrency exchange, to launch an international end-to-end payments solution in Brazil]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Labs Invests in Sophon Ecosystem in Token Round]]></title>
-        <id>https://thedefiant.io/news/defi/binance-labs-invests-sophon-ecosystem-token-round-dc67dc71</id>
-        <link href="https://thedefiant.io/news/defi/binance-labs-invests-sophon-ecosystem-token-round-dc67dc71"/>
-        <updated>2024-10-03T17:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Binance Labs has announced an investment in Sophon, a ZKsync 'elastic chain' ecosystem focused on entertainment applications in gaming, social, AI, and prediction markets]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
