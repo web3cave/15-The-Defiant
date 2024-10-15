@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum",
+          "author": "Pedro Solimano",
+          "description": "Ethereum’s chief scientist explored ideas to make the network faster and transactions cheaper, including reducing staking deposits.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum",
+          "publishedOn": "2024-10-15T18:38:02.000Z",
+          "wordCount": 2496,
+          "title": "Vitalik Proposes Fundamental Changes to Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf3c0c2b1f10f401d65ba6acf66be12ecc29b371-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf3c0c2b1f10f401d65ba6acf66be12ecc29b371-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/trump-s-world-liberty-financial-website-crashes-shortly-into-token-sale",
+          "author": "Squiffs",
+          "description": "The website for the Trump family’s DeFi project has faced repeated interruptions and downtime since the sale went live earlier today.",
+          "link": "https://thedefiant.io/news/defi/trump-s-world-liberty-financial-website-crashes-shortly-into-token-sale",
+          "publishedOn": "2024-10-15T18:10:25.000Z",
+          "wordCount": 2208,
+          "title": "Trump’s World Liberty Financial Website Crashes Shortly Into Token Sale",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed6e653c8773b57d3fbb5d75119042554fa1e2c1-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed6e653c8773b57d3fbb5d75119042554fa1e2c1-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-dip-after-spot-bitcoin-etfs-record-massive-inflows",
           "author": "Mehab Qureshi",
           "description": "U.S. Bitcoin ETFs attracted more than $550 million on Monday.",
@@ -86,7 +116,7 @@
           "description": "ZeroLend's @LineaBuild market is nearing $250 million in Total Value Locked (TVL), allowing users to supply or borrow more than 15 assets with competitive Annual Percentage Rates (APRs) and emissions",
           "link": "https://thedefiant.io/news/defi/zerolend-nears-250m-tvl-spark-deploys-25m-usds-to-aave-sky-s-d3m-module-active-b8ecdee0",
           "publishedOn": "2024-10-14T20:29:03.000Z",
-          "wordCount": 2275,
+          "wordCount": 2247,
           "title": "ZeroLend Nears $250M TVL, Spark Deploys $25M USDS to Aave, Sky's D3M Module Active",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bee6e24d222267d1231dfb08d315cbceb17edf57-1199x755.jpg",
@@ -206,7 +236,7 @@
           "description": "The attack was enabled by a user misconfiguring the decimals places for PAXG relative to USDC.",
           "link": "https://thedefiant.io/news/defi/morpho-user-exploits-oracle-error-to-turn-usd350-into-usd230k",
           "publishedOn": "2024-10-14T14:22:00.000Z",
-          "wordCount": 2500,
+          "wordCount": 2472,
           "title": "Morpho User Exploits Oracle Error To Turn $350 Into $230K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/32eaa0c988e9b79be088e7f0196f7fc0bd553511-1555x875.png",
@@ -326,7 +356,7 @@
           "description": "Worldcoin has announced a partnership with Dune Analytics to enhance data accessibility and transparency ahead of the World Chain mainnet launch",
           "link": "https://thedefiant.io/news/blockchains/worldcoin-partners-dune-analytics-enhanced-transparency-ahead-world-chain-launch-7895e9c3",
           "publishedOn": "2024-10-11T19:23:16.000Z",
-          "wordCount": 2190,
+          "wordCount": 2185,
           "title": "Worldcoin Partners with Dune Analytics for Enhanced Transparency Ahead of World Chain Mainnet Launch, $WLD Involved",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/763923fb3987922ad601aad44c361c051b2bed23-1200x928.jpg",
@@ -341,7 +371,7 @@
           "description": "Paradigm has invested $20 million in Ithaca, a new venture focused on developing a Layer 2 blockchain",
           "link": "https://thedefiant.io/news/blockchains/paradigm-invests-20-million-ithaca-s-odyssey-testnet-layer-2-blockchain-008a0761",
           "publishedOn": "2024-10-11T19:22:20.000Z",
-          "wordCount": 2176,
+          "wordCount": 2171,
           "title": "Paradigm Invests $20 Million in Ithaca's Odyssey Testnet for Layer 2 Blockchain Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d930dafba1d81d17e7930e6e2774e5881cae92e1-739x415.jpg",
@@ -356,7 +386,7 @@
           "description": "Arkham Intelligence, a blockchain data company backed by OpenAI's founder Sam Altman, is planning to launch a derivatives exchange next month in November",
           "link": "https://thedefiant.io/news/defi/arkham-intelligence-backed-sam-altman-to-launch-derivatives-exchange-november-f3bfdf00",
           "publishedOn": "2024-10-11T19:22:16.000Z",
-          "wordCount": 2170,
+          "wordCount": 2143,
           "title": "Arkham Intelligence, Backed by Sam Altman, to Launch Derivatives Exchange in November",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e8ad1e0788488aa829559d31f8711cb3cb7b4c14-1200x1036.jpg",
@@ -446,7 +476,7 @@
           "description": "Gear.exe uses a non-blockchain architecture to bolster Ethereum’s scalability and facilitate parallelized execution.",
           "link": "https://thedefiant.io/news/blockchains/gear-foundation-unveils-computational-layer-to-scale-ethereum",
           "publishedOn": "2024-10-11T15:00:00.000Z",
-          "wordCount": 2319,
+          "wordCount": 2323,
           "title": "Gear Foundation Unveils Computational Layer To Scale Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f98cb2e4df074acb7a00325535293200bcab9caa-1555x875.png",
@@ -551,7 +581,7 @@
           "description": "The liquid staking protocol is gearing up to launch its long-awaited SWELL token.",
           "link": "https://thedefiant.io/news/defi/swell-network-releases-airdrop-checker",
           "publishedOn": "2024-10-10T20:19:49.000Z",
-          "wordCount": 2303,
+          "wordCount": 2275,
           "title": "Swell Network Releases Airdrop Checker",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/26fd221163f6fb21584473c50f62e77e5e95b210-1555x875.png",
@@ -581,7 +611,7 @@
           "description": "The APU token is now multi-chain, allowing it to be listed on the Moonshot memecoin trading app.",
           "link": "https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app",
           "publishedOn": "2024-10-10T16:35:03.000Z",
-          "wordCount": 2340,
+          "wordCount": 2312,
           "title": "Memecoins are Moving from Ethereum to Solana to Access Moonshot App",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png",
@@ -611,7 +641,7 @@
           "description": "The Bitcoin backing WBTC is now custodied in the U.S., Hong Kong, and Singapore.",
           "link": "https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring",
           "publishedOn": "2024-10-10T14:51:00.000Z",
-          "wordCount": 2556,
+          "wordCount": 2528,
           "title": "Wrapped Bitcoin Completes Corporate Restructuring",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f7ffdd668ce971001ae424d3c74ea657833e47-1792x1024.webp",
@@ -626,7 +656,7 @@
           "description": "Unichain claims to offer one-second block times and will join Optimism’s Superchain ecosystem.",
           "link": "https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2",
           "publishedOn": "2024-10-10T14:14:00.000Z",
-          "wordCount": 2531,
+          "wordCount": 2503,
           "title": "Uniswap Launches Testnet For Unichain Layer 2",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e8cf96d40c532f735e02eb23f785fa78fb2d3a2f-1792x1024.webp",
@@ -656,7 +686,7 @@
           "description": "Aave would receive 20% of World Liberty Financial’s protocol fees per the proposal.",
           "link": "https://thedefiant.io/news/defi/trumps-world-liberty-financial-proposes-aave-deployment-on-ethereum",
           "publishedOn": "2024-10-10T10:52:00.000Z",
-          "wordCount": 2769,
+          "wordCount": 2741,
           "title": "Trumps’ World Liberty Financial Proposes Aave V3 Deployment On Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3ad95ec708d4488cb0a8b778c40e2016beaab28a-1555x875.png",
@@ -671,7 +701,7 @@
           "description": "Dune data shows that Taproot transactions comprise a meager 20% of all Bitcoin transactions.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it",
           "publishedOn": "2024-10-09T23:33:39.000Z",
-          "wordCount": 2326,
+          "wordCount": 2330,
           "title": "Bitcoin’s Taproot Upgrade Suffers Slow Adoption Despite More Companies Supporting It",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c6ee927c335183ac0c2391b7d0a1e2e6d560cf7-1555x875.png",
@@ -686,7 +716,7 @@
           "description": "The move comes as USDC has lost 5% of its market capitalization in the last month.",
           "link": "https://thedefiant.io/news/defi/circle-launches-native-usdc-on-sui",
           "publishedOn": "2024-10-09T19:34:05.000Z",
-          "wordCount": 2446,
+          "wordCount": 2418,
           "title": "Circle Launches Native USDC On SUI",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aad3d627a00c3cd966d35a396d76561197aa85f-1555x875.png",
@@ -731,7 +761,7 @@
           "description": "Littio offers real world asset-backed yield vaults dubbed “yield pots.”",
           "link": "https://thedefiant.io/news/defi/colombian-neobank-connects-opentrade-with-avalanche-for-interest-bearing-usd-accounts",
           "publishedOn": "2024-10-09T16:00:55.000Z",
-          "wordCount": 2454,
+          "wordCount": 2427,
           "title": "Colombian Neobank Connects OpenTrade With Avalanche for Interest-bearing USD Accounts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/30e0d35cd683e639ef57cfc959b46dcb0cd3735b-1555x875.png",
@@ -806,7 +836,7 @@
           "description": "WBTC’s total value locked abruptly fell 99% on DeFi Llama.",
           "link": "https://thedefiant.io/news/defi/wrapped-bitcoin-transfers-reserves-ahead-of-controversial-restructure",
           "publishedOn": "2024-10-09T13:45:00.000Z",
-          "wordCount": 2576,
+          "wordCount": 2548,
           "title": "Wrapped Bitcoin Transfers Reserves Ahead Of Controversial Restructure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/610eef6aa8cc4afb78ca053522525fcd46b6642a-1792x1024.webp",
@@ -821,7 +851,7 @@
           "description": "The price of BTC is down 0.8% over the past 24 hours.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-roundup-ethiopian-mining-booms-russian-investigator-jailed-over-btc-bribe-fold-files-for",
           "publishedOn": "2024-10-09T13:07:00.000Z",
-          "wordCount": 2884,
+          "wordCount": 2888,
           "title": "Bitcoin Roundup: Ethiopian Mining Booms, Russian Investigator Jailed Over BTC Bribe, Fold Files For IPO",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ba7c4c17e42c2453676a8acf1151ccd47f9a7f7-1792x1024.webp",
@@ -836,7 +866,7 @@
           "description": "Users raced to deposit BTC on Babylon to begin earning points.",
           "link": "https://thedefiant.io/news/defi/babylon-attracts-usd1-42b-in-btc-over-10-bitcoin-blocks",
           "publishedOn": "2024-10-09T10:10:00.000Z",
-          "wordCount": 2570,
+          "wordCount": 2542,
           "title": "Babylon Attracts $1.42B In BTC Over 10 Bitcoin Blocks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/556ddcce2018303bf3abd6443b15c7c3561e4430-1792x1024.webp",
@@ -866,7 +896,7 @@
           "description": "EIP-7781 would lower the network’s slot time, increase blobs per block, and help scale the main chain.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency",
           "publishedOn": "2024-10-08T22:15:46.000Z",
-          "wordCount": 2692,
+          "wordCount": 2696,
           "title": "Ethereum Developers Float Two Proposals To Improve Layer 1 Efficiency",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f794a87760fd7f3644474c855c96ce8d5f10883-1555x875.png",
@@ -881,7 +911,7 @@
           "description": "JupiterExchange has launched its much-anticipated mobile app, now available on iOS",
           "link": "https://thedefiant.io/news/defi/jupiterexchange-launches-ios-mobile-app-solana-1-tap-swap-zero-fees-multiple-451e0d7e",
           "publishedOn": "2024-10-08T20:18:44.000Z",
-          "wordCount": 2218,
+          "wordCount": 2191,
           "title": "JupiterExchange Launches iOS Mobile App for Solana with 1-Tap Swap, Zero Fees, and Multiple Payment Methods",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a079c2bd9066a7f5aa24f049c586e37225edbcdd-1154x1035.jpg",
@@ -896,7 +926,7 @@
           "description": "First airdrop will distribute 7% of the Layer 2’s token supply.",
           "link": "https://thedefiant.io/news/defi/scroll-to-airdrop-15-of-scr-token-to-its-community",
           "publishedOn": "2024-10-08T19:34:29.000Z",
-          "wordCount": 2729,
+          "wordCount": 2701,
           "title": "Ethereum Layer 2 Scroll to Airdrop 15% of SCR Token to its Community",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4dff8d3b26569664f7b2ad60cdc0020162b6addf-1555x875.png",
@@ -941,7 +971,7 @@
           "description": "GHO is currently available on Ethereum mainnet and Arbitrum.",
           "link": "https://thedefiant.io/news/defi/aave-could-soon-launch-gho-stablecoin-on-avalanche-and-base",
           "publishedOn": "2024-10-08T19:13:54.000Z",
-          "wordCount": 2293,
+          "wordCount": 2265,
           "title": "Aave Could Soon Launch GHO Stablecoin on Avalanche and Base",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b20ffd7d56e84df32dae0b23cde1947b79ae6c8-1555x875.png",
@@ -986,7 +1016,7 @@
           "description": "The Safupie insurance protocol aims to service third-party projects in the future.",
           "link": "https://thedefiant.io/news/defi/penpie-proposes-compensation-plan-and-insurance-protocol-after-usd27m-exploit",
           "publishedOn": "2024-10-08T15:21:00.000Z",
-          "wordCount": 2745,
+          "wordCount": 2717,
           "title": "Penpie Proposes Compensation Plan and Insurance Protocol After $27M Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a949ede41ba6b5b733ad42752930e2beed7fd560-1792x1024.webp",
@@ -1076,7 +1106,7 @@
           "description": "Upcoming features include Runes activation, CAT20 assets in UniSat wallet, and trustless CAT20 trading markets.",
           "link": "https://thedefiant.io/news/blockchains/fractal-bitcoin-token-drops-as-team-unveils-q4-roadmap",
           "publishedOn": "2024-10-07T20:28:23.000Z",
-          "wordCount": 2532,
+          "wordCount": 2536,
           "title": "Fractal Bitcoin Token Drops as Team Unveils Q4 Roadmap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9104638a9f7a7ad57278304d466894be96716818-1555x875.png",
@@ -1091,7 +1121,7 @@
           "description": "A wallet-draining scam operating on The Open Network (TON) has shut down due to a lack of high-value targets within the network and is now shifting its focus to Bitcoin",
           "link": "https://thedefiant.io/news/defi/hackers-shut-down-ton-wallet-drainer-due-to-lack-whales-target-bitcoin-next-fac294a7",
           "publishedOn": "2024-10-07T19:28:22.000Z",
-          "wordCount": 2246,
+          "wordCount": 2219,
           "title": "Hackers Shut Down TON Wallet Drainer Due to Lack of Whales, Target Bitcoin Next",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3440bd66ca7390c4846c0c492f761633ef5ff4f7-1024x1024.jpg",
@@ -1151,7 +1181,7 @@
           "description": "Infinex, a new DeFi frontend founded by Synthetix creator Kain Warwick, has partnered with Wormhole to enhance cross-chain functionality and support multichain expansion",
           "link": "https://thedefiant.io/news/defi/infinex-partners-wormhole-to-boost-cross-chain-functionality-after-65-3-million-02e31475",
           "publishedOn": "2024-10-07T19:27:13.000Z",
-          "wordCount": 2166,
+          "wordCount": 2139,
           "title": "Infinex Partners with Wormhole to Boost Cross-Chain Functionality After $65.3 Million NFT Sale",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1019e988789f26d578f83a590ff8ec1bf3796c4b-768x439.png",
@@ -1166,7 +1196,7 @@
           "description": "Popular tokens are being recreated on different blockchains and labeled as “Community Takeovers.”",
           "link": "https://thedefiant.io/news/defi/memecoin-vampire-attacks-increase",
           "publishedOn": "2024-10-07T18:45:55.000Z",
-          "wordCount": 2383,
+          "wordCount": 2355,
           "title": "Memecoin ‘Vampire Attacks’ Increase",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a825765bf38ed71c5ce98c8b3cc1193e938e2a4b-1555x875.png",
@@ -1301,7 +1331,7 @@
           "description": "Active addresses on Arbitrum and Linea have crashed by 62% and 87% in recent months.",
           "link": "https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge",
           "publishedOn": "2024-10-07T11:15:00.000Z",
-          "wordCount": 2550,
+          "wordCount": 2554,
           "title": "L2 Adoption Wanes Despite Base Activity Continuing To Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb90e5c7c3988b667513d0ad8869b3834dfd05ab-1792x1024.webp",
@@ -1316,7 +1346,7 @@
           "description": "The DEX is one of the largest in all of DeFi, but Andre Cronje of Sonic Labs took a shot at Aerodrome’s origins.",
           "link": "https://thedefiant.io/news/defi/aerodrome-faces-criticism-over-code-license-amid-rapid-growth",
           "publishedOn": "2024-10-04T22:22:01.000Z",
-          "wordCount": 2663,
+          "wordCount": 2635,
           "title": "Aerodrome Faces Criticism Over Code License Amid Rapid Growth",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7afb35309b63391cacf1caf0acd684796c7b230-1555x875.png",
@@ -1361,7 +1391,7 @@
           "description": "Puffer has amassed $1.28 billion in TVL since launching early this year.",
           "link": "https://thedefiant.io/news/defi/liquid-restaking-protocol-puffer-finance-preps-for-airdrop",
           "publishedOn": "2024-10-04T17:38:48.000Z",
-          "wordCount": 2484,
+          "wordCount": 2456,
           "title": "Liquid Restaking Protocol Puffer Finance Preps for Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d47319b60654af794d10e47148107786e53ba8e5-1555x875.png",
@@ -1454,31 +1484,6 @@
           "wordCount": 2126,
           "title": "Magic Eden and Ubisoft Launch Captain Laserhawk Gaming NFT Collection on Arbitrum",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/el-salvador-buys-1-bitcoin-daily-to-counter-imf-neocolonialism-f63e0d58",
-          "author": "DeepNewz",
-          "description": "El Salvador has initiated a policy of purchasing one Bitcoin every day, a move described by Christine Lagarde as an attempt to 'escape' the IMF's neocolonialism",
-          "link": "https://thedefiant.io/news/regulation/el-salvador-buys-1-bitcoin-daily-to-counter-imf-neocolonialism-f63e0d58",
-          "publishedOn": "2024-10-04T16:53:05.000Z",
-          "wordCount": 2161,
-          "title": "El Salvador Buys 1 Bitcoin Daily to Counter IMF Neocolonialism",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-rally-on-positive-u-s-jobs-report",
-          "author": "Mehab Qureshi",
-          "description": "September’s jobs report offers a bullish signal for crypto investors, driving market gains.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-rally-on-positive-u-s-jobs-report",
-          "publishedOn": "2024-10-04T16:48:14.000Z",
-          "wordCount": 2443,
-          "title": "Bitcoin and Ethereum Rally on Positive U.S. Jobs Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/12e336442f9d09b47feaf1c4145174d40bf6f6a5-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/12e336442f9d09b47feaf1c4145174d40bf6f6a5-1555x875.png"
         }
       ]
     }
