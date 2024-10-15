@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-15T09:08:44.870Z</id>
+    <id>urn:2024-10-15T10:10:10.610Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-15T09:08:44.870Z</updated>
+    <updated>2024-10-15T10:10:10.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sui Foundation Denies Accusations Of Insider Token Sales]]></title>
+        <id>https://thedefiant.io/news/markets/sui-foundation-denies-accusations-of-insider-token-sales</id>
+        <link href="https://thedefiant.io/news/markets/sui-foundation-denies-accusations-of-insider-token-sales"/>
+        <updated>2024-10-15T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[SUI's price is up 108% in the past month.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Miner Sues Local Council To Exhume 8,000 BTC Buried In Landfill]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/bitcoin-miner-sues-local-council-to-exhume-8-000-btc-buried-in-landfill</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/uae-rolls-out-vat-exemptions-for-crypto-transactions</id>
         <link href="https://thedefiant.io/news/regulation/uae-rolls-out-vat-exemptions-for-crypto-transactions"/>
         <updated>2024-10-07T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Crypto transfers and conversions are now VAT-free in the United Arab Emirates.]]></summary>
+        <summary type="html"><![CDATA[The UAE is exempting cryptocurrency transactions and trades from VAT taxation.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge</id>
         <link href="https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge"/>
         <updated>2024-10-07T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 adoption is falling despite activity on Base continuing to tag new highs.]]></summary>
+        <summary type="html"><![CDATA[Active addresses on Arbitrum and Linea have crashed by 62% and 87% in recent months.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The new fund provides exposure to AAVE tokens and holds $150,000 in assets under management.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa Launches Tokenization Platform for Institutions]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-launches-tokenization-platform-for-institutions</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-launches-tokenization-platform-for-institutions"/>
-        <updated>2024-10-04T09:55:29.000Z</updated>
-        <summary type="html"><![CDATA[VTAP enables banks to issue fiat-backed tokens.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
