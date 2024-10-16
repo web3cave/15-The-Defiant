@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/radiant-capital-exploited-for-usd18-million-and-counting",
+          "author": "Squiffs",
+          "description": "Ancilia Inc reported the malicious activity and recommends users revoke approvals for Radiant’s smart contracts, citing a potential backdoor contract deployment.",
+          "link": "https://thedefiant.io/news/defi/radiant-capital-exploited-for-usd18-million-and-counting",
+          "publishedOn": "2024-10-16T18:06:42.000Z",
+          "wordCount": 2169,
+          "title": "Radiant Capital Exploited for Over $50 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe6fb53b873906ff8f5e3be5c34c6bbd8ae38e12-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fe6fb53b873906ff8f5e3be5c34c6bbd8ae38e12-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/coinbase-rebounds-to-204-up-28-amid-bitcoin-surge-7af3e46a",
           "author": "DeepNewz",
           "description": "Coinbase (COIN) has experienced a significant rebound, with its stock price reaching $204, up from $140 in early August",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a825765bf38ed71c5ce98c8b3cc1193e938e2a4b-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-u-s-inflation-report",
-          "author": "Mehab Qureshi",
-          "description": "Bitcoin and Ethereum jumped 2% ahead of a crucial week that includes U.S. CPI and Federal Reserve minutes.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-u-s-inflation-report",
-          "publishedOn": "2024-10-07T16:09:47.000Z",
-          "wordCount": 2594,
-          "title": "Crypto Markets Rally Ahead of U.S. Inflation Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2cfd2b5312adf3b2a41f11fa2116c9cbec3b2637-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2cfd2b5312adf3b2a41f11fa2116c9cbec3b2637-1555x875.png"
         }
       ]
     }
