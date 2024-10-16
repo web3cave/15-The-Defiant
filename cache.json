@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ton-taps-axelar-for-first-cross-chain-interoperability-infrastructure",
+          "author": "Samuel Haig",
+          "description": "Axelar’s Mobius Development Stack will connect TON with 68 different blockchain networks.",
+          "link": "https://thedefiant.io/news/blockchains/ton-taps-axelar-for-first-cross-chain-interoperability-infrastructure",
+          "publishedOn": "2024-10-16T13:00:00.000Z",
+          "wordCount": 2360,
+          "title": "TON Taps Axelar For First Cross-Chain Interoperability Infrastructure",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00bb1d59ecac477d01bf35f512d85efd28d9500c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00bb1d59ecac477d01bf35f512d85efd28d9500c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-to-convert-usd520m-multi-crypto-fund-into-spot-etf",
           "author": "Samuel Haig",
           "description": "The fund notably holds SOL, XRP, and ADA.",
@@ -41,7 +56,7 @@
           "description": "Controversy erupted after mempool.space added a feature that allows users to know if a transaction includes a Rune.",
           "link": "https://thedefiant.io/news/blockchains/new-bitcoin-block-explorer-feature-has-maxis-complaining-again",
           "publishedOn": "2024-10-15T21:08:26.000Z",
-          "wordCount": 2615,
+          "wordCount": 2601,
           "title": "New Bitcoin Block Explorer Feature Has Maxis Complaining Again",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a11db2dceb1879fea0dd6f7644afce2b4ef0e228-1555x875.png",
@@ -56,7 +71,7 @@
           "description": "The litepaper disclosed details about Sonic’s mainnet launch and upcoming airdrop.",
           "link": "https://thedefiant.io/news/blockchains/ftm-surges-as-sonic-publishes-litepaper",
           "publishedOn": "2024-10-15T20:21:12.000Z",
-          "wordCount": 2329,
+          "wordCount": 2315,
           "title": "FTM Surges as Sonic Publishes Litepaper",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f406080e394bd923029da8c2f7a11684508efb4a-1555x875.png",
@@ -71,7 +86,7 @@
           "description": "Ethereum’s chief scientist explored ideas to make the network faster and transactions cheaper, including reducing staking deposits.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum",
           "publishedOn": "2024-10-15T18:38:02.000Z",
-          "wordCount": 2496,
+          "wordCount": 2482,
           "title": "Vitalik Proposes Fundamental Changes to Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf3c0c2b1f10f401d65ba6acf66be12ecc29b371-1555x875.png",
@@ -416,7 +431,7 @@
           "description": "Worldcoin has announced a partnership with Dune Analytics to enhance data accessibility and transparency ahead of the World Chain mainnet launch",
           "link": "https://thedefiant.io/news/blockchains/worldcoin-partners-dune-analytics-enhanced-transparency-ahead-world-chain-launch-7895e9c3",
           "publishedOn": "2024-10-11T19:23:16.000Z",
-          "wordCount": 2185,
+          "wordCount": 2169,
           "title": "Worldcoin Partners with Dune Analytics for Enhanced Transparency Ahead of World Chain Mainnet Launch, $WLD Involved",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/763923fb3987922ad601aad44c361c051b2bed23-1200x928.jpg",
@@ -431,7 +446,7 @@
           "description": "Paradigm has invested $20 million in Ithaca, a new venture focused on developing a Layer 2 blockchain",
           "link": "https://thedefiant.io/news/blockchains/paradigm-invests-20-million-ithaca-s-odyssey-testnet-layer-2-blockchain-008a0761",
           "publishedOn": "2024-10-11T19:22:20.000Z",
-          "wordCount": 2171,
+          "wordCount": 2155,
           "title": "Paradigm Invests $20 Million in Ithaca's Odyssey Testnet for Layer 2 Blockchain Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d930dafba1d81d17e7930e6e2774e5881cae92e1-739x415.jpg",
@@ -536,7 +551,7 @@
           "description": "Gear.exe uses a non-blockchain architecture to bolster Ethereum’s scalability and facilitate parallelized execution.",
           "link": "https://thedefiant.io/news/blockchains/gear-foundation-unveils-computational-layer-to-scale-ethereum",
           "publishedOn": "2024-10-11T15:00:00.000Z",
-          "wordCount": 2323,
+          "wordCount": 2309,
           "title": "Gear Foundation Unveils Computational Layer To Scale Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f98cb2e4df074acb7a00325535293200bcab9caa-1555x875.png",
@@ -761,7 +776,7 @@
           "description": "Dune data shows that Taproot transactions comprise a meager 20% of all Bitcoin transactions.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-s-taproot-upgrade-suffers-slow-adoption-despite-more-companies-supporting-it",
           "publishedOn": "2024-10-09T23:33:39.000Z",
-          "wordCount": 2330,
+          "wordCount": 2316,
           "title": "Bitcoin’s Taproot Upgrade Suffers Slow Adoption Despite More Companies Supporting It",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c6ee927c335183ac0c2391b7d0a1e2e6d560cf7-1555x875.png",
@@ -911,7 +926,7 @@
           "description": "The price of BTC is down 0.8% over the past 24 hours.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-roundup-ethiopian-mining-booms-russian-investigator-jailed-over-btc-bribe-fold-files-for",
           "publishedOn": "2024-10-09T13:07:00.000Z",
-          "wordCount": 2888,
+          "wordCount": 2874,
           "title": "Bitcoin Roundup: Ethiopian Mining Booms, Russian Investigator Jailed Over BTC Bribe, Fold Files For IPO",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ba7c4c17e42c2453676a8acf1151ccd47f9a7f7-1792x1024.webp",
@@ -956,7 +971,7 @@
           "description": "EIP-7781 would lower the network’s slot time, increase blobs per block, and help scale the main chain.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency",
           "publishedOn": "2024-10-08T22:15:46.000Z",
-          "wordCount": 2696,
+          "wordCount": 2682,
           "title": "Ethereum Developers Float Two Proposals To Improve Layer 1 Efficiency",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f794a87760fd7f3644474c855c96ce8d5f10883-1555x875.png",
@@ -1166,7 +1181,7 @@
           "description": "Upcoming features include Runes activation, CAT20 assets in UniSat wallet, and trustless CAT20 trading markets.",
           "link": "https://thedefiant.io/news/blockchains/fractal-bitcoin-token-drops-as-team-unveils-q4-roadmap",
           "publishedOn": "2024-10-07T20:28:23.000Z",
-          "wordCount": 2536,
+          "wordCount": 2522,
           "title": "Fractal Bitcoin Token Drops as Team Unveils Q4 Roadmap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9104638a9f7a7ad57278304d466894be96716818-1555x875.png",
@@ -1331,7 +1346,7 @@
           "description": "Ethereum co-founder Vitalik Buterin has proposed lowering the solo staking requirement from 32 ETH to a range of 16-24 ETH, with a potential future reduction to 1 ETH",
           "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-lowering-ethereum-solo-staking-requirement-32-eth-to-16-65c61137",
           "publishedOn": "2024-10-07T14:46:37.000Z",
-          "wordCount": 2210,
+          "wordCount": 2194,
           "title": "Vitalik Buterin Proposes Lowering Ethereum Solo Staking Requirement from 32 ETH to 16-24 ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/769380e203c48b35fe3b477f5bd0d2d3dfd8fa80-742x379.png",
@@ -1391,7 +1406,7 @@
           "description": "Active addresses on Arbitrum and Linea have crashed by 62% and 87% in recent months.",
           "link": "https://thedefiant.io/news/blockchains/l2-adoption-wanes-despite-base-activity-continuing-to-surge",
           "publishedOn": "2024-10-07T11:15:00.000Z",
-          "wordCount": 2554,
+          "wordCount": 2540,
           "title": "L2 Adoption Wanes Despite Base Activity Continuing To Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb90e5c7c3988b667513d0ad8869b3834dfd05ab-1792x1024.webp",
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4193a649e8148654adee66dfe29255051df8b794-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-10-trillion-bet-on-bitcoin-eth-sec-approves-etf-options-e0dde255",
-          "author": "DeepNewz",
-          "description": "BlackRock, the world's largest asset manager with $10 trillion in assets, has recently made significant moves in the cryptocurrency market",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-10-trillion-bet-on-bitcoin-eth-sec-approves-etf-options-e0dde255",
-          "publishedOn": "2024-10-04T16:53:34.000Z",
-          "wordCount": 2211,
-          "title": "BlackRock's $10 Trillion Bet on Bitcoin and ETH: SEC Approves ETF Options",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a37b3cae56ece43aab808a0fdaea72125a0caab1-320x158.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a37b3cae56ece43aab808a0fdaea72125a0caab1-320x158.png"
         }
       ]
     }
