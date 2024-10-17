@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-17 datetime="2024-10-17T09:46:00.000Z">2024-10-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-17 datetime="2024-10-17T09:46:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs"
+                        open
+                      >
+                        <summary class="article-expander__title">No, The SEC Did Not Miss Its Deadline To Appeal Against Ripple Labs</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/9a84f6665b7727b94b50f7005c6fcf63ace9b750-1555x875.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Despite multiple media outlets reporting that the SEC already missed a crucial filing deadline, the agency has until Oct. 18 to submit all necessary documents.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-16 datetime="2024-10-16T21:20:23.000Z">2024-10-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-16 datetime="2024-10-16T21:20:23.000Z"></time>
           </button>
@@ -1895,7 +1943,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/556ddcce2018303bf3abd6443b15c7c3561e4430-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Users raced to deposit BTC on Babylon to begin earning points.</span>
+                              <span>Users deposited nearly 23,000 BTC to Babylon over less than two hours.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -1915,7 +1963,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/c0535d10f20229258f701205ebfcf23e8e72db63-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>The crypto community is pushing back an HBO documentary claiming that Peter Todd, a long-time Bitcoin contributor, is the network&#x27;s pseudonymous founder.</span>
+                              <span>Prominent crypto commentators accuse the documentary of needlessly putting Todd in danger without providing substantial evidence supporting the claim he is Satoshi.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
@@ -2279,26 +2327,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/defi/hackers-shut-down-ton-wallet-drainer-due-to-lack-whales-target-bitcoin-next-fac294a7"
-                        open
-                      >
-                        <summary class="article-expander__title">Hackers Shut Down TON Wallet Drainer Due to Lack of Whales, Target Bitcoin Next</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/defi/hackers-shut-down-ton-wallet-drainer-due-to-lack-whales-target-bitcoin-next-fac294a7">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/3440bd66ca7390c4846c0c492f761633ef5ff4f7-1024x1024.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A wallet-draining scam operating on The Open Network (TON) has shut down due to a lack of high-value targets within the network and is now shifting its focus to Bitcoin</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2306,8 +2334,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/11381857639">
-        <time id="build-timestamp" datetime="2024-10-17T09:08:47.455Z">2024-10-17T09:08:47.455Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/11382820674">
+        <time id="build-timestamp" datetime="2024-10-17T10:08:46.615Z">2024-10-17T10:08:46.615Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
