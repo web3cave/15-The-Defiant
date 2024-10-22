@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/core-launches-cross-chain-atomic-swaps",
+          "author": "Samuel Haig",
+          "description": "Core now supports trustless swaps with Bitcoin and Ethereum.",
+          "link": "https://thedefiant.io/news/defi/core-launches-cross-chain-atomic-swaps",
+          "publishedOn": "2024-10-22T14:00:00.000Z",
+          "wordCount": 2361,
+          "title": "Core Launches Cross-Chain Atomic Swaps",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c5793b80e942d0d3c8f018c6ff25035f1867e8a2-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c5793b80e942d0d3c8f018c6ff25035f1867e8a2-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization",
           "author": "Mehab Qureshi",
           "description": "Movement Network will become the first non-EVM network to integrate ERC-3643.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/94262ec8762faf932cfb123f4b4647322c119fd4-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/former-ftx-exec-ryan-salame-kicks-off-prison-stint-with-bizarre-linkedin-post",
-          "author": "Pedro Solimano",
-          "description": "\"I’m happy to share that I’m starting a new position as [an] inmate at FCI Cumberland,” he wrote.",
-          "link": "https://thedefiant.io/news/people/former-ftx-exec-ryan-salame-kicks-off-prison-stint-with-bizarre-linkedin-post",
-          "publishedOn": "2024-10-11T18:56:15.000Z",
-          "wordCount": 2352,
-          "title": "Former FTX Exec Ryan Salame Kicks Off Prison Stint with Bizarre LinkedIn Post",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a424ab924eed01c0053f19da651d40b9bef99cfd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a424ab924eed01c0053f19da651d40b9bef99cfd-1555x875.png"
         }
       ]
     }
