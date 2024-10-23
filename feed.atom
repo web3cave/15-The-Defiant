@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-23T11:07:00.043Z</id>
+    <id>urn:2024-10-23T12:15:05.448Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-23T11:07:00.043Z</updated>
+    <updated>2024-10-23T12:15:05.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gensler Defends SEC Crypto Crackdown and 90-Year-Old Securities Laws]]></title>
+        <id>https://thedefiant.io/news/regulation/gensler-defends-sec-crypto-crackdown-and-90-year-old-securities-laws</id>
+        <link href="https://thedefiant.io/news/regulation/gensler-defends-sec-crypto-crackdown-and-90-year-old-securities-laws"/>
+        <updated>2024-10-23T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Gensler said the same laws developed in response to the financial crises of the 1920s are applicable to the web3 sector today.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avalanche Unveils Visa Debit Card]]></title>
         <id>https://thedefiant.io/news/blockchains/avalanche-unveils-visa-debit-card</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-breaks-usd64k-as-short-traders-face-massive-liquidations"/>
         <updated>2024-10-14T18:00:18.000Z</updated>
         <summary type="html"><![CDATA[Over the past 24 hours, more than $57 million in Bitcoin shorts were liquidated.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morpho User Exploits Oracle Error To Turn $350 Into $230K]]></title>
-        <id>https://thedefiant.io/news/defi/morpho-user-exploits-oracle-error-to-turn-usd350-into-usd230k</id>
-        <link href="https://thedefiant.io/news/defi/morpho-user-exploits-oracle-error-to-turn-usd350-into-usd230k"/>
-        <updated>2024-10-14T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The attack was enabled by a user misconfiguring the decimals places for PAXG relative to USDC.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
