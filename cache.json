@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-unveils-part-4-of-ethereum-roadmap",
+          "author": "Pedro Solimano",
+          "description": "In a new post, Ethereum’s chief scientist explained how verifying transactions could be made easier.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-unveils-part-4-of-ethereum-roadmap",
+          "publishedOn": "2024-10-23T19:13:34.000Z",
+          "wordCount": 2305,
+          "title": "Verifying Transactions on Smartwatches: Vitalik Unveils Part 4 of Ethereum Roadmap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/24a97b4a0773b3fbbbebd2c81c963427bc917919-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/24a97b4a0773b3fbbbebd2c81c963427bc917919-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/markets-slip-as-bitcoin-etfs-record-first-outflows-in-two-weeks",
           "author": "Mehab Qureshi",
           "description": "Total Bitcoin futures open interest on exchanges now sits at $38.77 billion.",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/news/defi/base-overtakes-arbitrum-by-defi-tvl",
           "author": "Samuel Haig",
-          "description": "DeFi protocols on Base now hold more than $2.57 billion worth of assets.",
+          "description": "Base is now the top Ethereum Layer 2 by both DeFi TVL and throughput.",
           "link": "https://thedefiant.io/news/defi/base-overtakes-arbitrum-by-defi-tvl",
           "publishedOn": "2024-10-16T08:42:00.000Z",
           "wordCount": 2414,
@@ -1479,21 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6bf2176e6b9a30260fecd3f925863ecb7030cb0f-768x403.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/coinbase-to-list-degen-degen-token-on-base-network-spot-trading-on-october-15-9-b5891aff",
-          "author": "DeepNewz",
-          "description": "Coinbase has announced that it will list the Degen (DEGEN) token for spot trading on the Base network starting October 15, 2024",
-          "link": "https://thedefiant.io/news/markets/coinbase-to-list-degen-degen-token-on-base-network-spot-trading-on-october-15-9-b5891aff",
-          "publishedOn": "2024-10-14T20:28:02.000Z",
-          "wordCount": 2215,
-          "title": "Coinbase to List Degen (DEGEN) Token on Base Network for Spot Trading on October 15 at 9 AM PT",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f16fd4dea49a71c61a677d1b7df1ac14da01acaa-721x481.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f16fd4dea49a71c61a677d1b7df1ac14da01acaa-721x481.png"
         }
       ]
     }
