@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-23T06:12:05.767Z</id>
+    <id>urn:2024-10-23T07:08:20.317Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-23T06:12:05.767Z</updated>
+    <updated>2024-10-23T07:08:20.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Unveils Visa Debit Card]]></title>
+        <id>https://thedefiant.io/news/blockchains/avalanche-unveils-visa-debit-card</id>
+        <link href="https://thedefiant.io/news/blockchains/avalanche-unveils-visa-debit-card"/>
+        <updated>2024-10-23T06:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Users can sign up for a waitlist to get access to the card.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buenos Aires Government Launches Decentralized ID]]></title>
         <id>https://thedefiant.io/news/regulation/buenos-aires-government-launches-decentralized-id</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The attack was enabled by a user misconfiguring the decimals places for PAXG relative to USDC.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm Execs Unveil Web3 Development Firm Ithica and Ethereum L2]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/paradigm-execs-unveil-web3-development-firm-ithica-and-ethereum-l2</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/paradigm-execs-unveil-web3-development-firm-ithica-and-ethereum-l2"/>
-        <updated>2024-10-14T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Ithica’s Layer 2, Odyssey, is live on the Sepolia testnet and supports features included in Ethereum’s forthcoming Pectra upgrade.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
