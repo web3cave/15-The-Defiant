@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-toys-launch-in-2-000-u-s-walgreens-stores",
+          "author": "Pedro Solimano",
+          "description": "The NFT-inspired physical toys continue to expand in retailers across the country.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/pudgy-toys-launch-in-2-000-u-s-walgreens-stores",
+          "publishedOn": "2024-10-24T19:15:35.000Z",
+          "wordCount": 2342,
+          "title": "Pudgy Toys Launch in 2,000 U.S. Walgreens Stores",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc1b107b5fd06c452adebe55926518f96c0d6adb-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc1b107b5fd06c452adebe55926518f96c0d6adb-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/crypto-exchange-kraken-plans-to-launch-an-ethereum-layer-2-called-ink",
           "author": "Squiffs",
           "description": "The centralized exchange plans to launch the chain in 2025.",
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs",
           "author": "Samuel Haig",
-          "description": "Despite multiple media outlets reporting that the SEC already missed a crucial filing deadline, the agency has until Oct. 18 to submit all necessary documents.",
+          "description": "The SEC has until Oct. 18 to appeal the court's ruling in its case against Ripple Labs.",
           "link": "https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs",
           "publishedOn": "2024-10-17T09:46:00.000Z",
           "wordCount": 2699,
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34bbbfb0b633a2c1cd2d100ba09f5d3dc762f7e4-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ton-taps-axelar-for-first-cross-chain-interoperability-infrastructure",
-          "author": "Samuel Haig",
-          "description": "Axelar’s Mobius Development Stack will connect TON with 68 different blockchain networks.",
-          "link": "https://thedefiant.io/news/blockchains/ton-taps-axelar-for-first-cross-chain-interoperability-infrastructure",
-          "publishedOn": "2024-10-16T13:00:00.000Z",
-          "wordCount": 2360,
-          "title": "TON Taps Axelar For First Cross-Chain Interoperability Infrastructure",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00bb1d59ecac477d01bf35f512d85efd28d9500c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00bb1d59ecac477d01bf35f512d85efd28d9500c-1555x875.png"
         }
       ]
     }
