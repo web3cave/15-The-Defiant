@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-25T07:08:14.988Z</id>
+    <id>urn:2024-10-25T08:11:18.872Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-25T07:08:14.988Z</updated>
+    <updated>2024-10-25T08:11:18.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S Government Hacked For $20M]]></title>
+        <id>https://thedefiant.io/news/hacks/u-s-government-hacked-for-usd20m</id>
+        <link href="https://thedefiant.io/news/hacks/u-s-government-hacked-for-usd20m"/>
+        <updated>2024-10-25T07:58:00.000Z</updated>
+        <summary type="html"><![CDATA[$20 million worth of crypto held by U.S. government wallets were transferred to a wallet that has since sent one-third of the assets to exchanges.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mysterious Wallet Frontruns Truth Terminal’s Memecoin Shill]]></title>
         <id>https://thedefiant.io/news/markets/mysterious-wallet-frontruns-truth-terminal-s-memecoin-shill</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/infrastructure/sui-s-mysten-labs-launches-walrus-data-storage-network-on-testnet</id>
         <link href="https://thedefiant.io/news/infrastructure/sui-s-mysten-labs-launches-walrus-data-storage-network-on-testnet"/>
         <updated>2024-10-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mysten Labs, the development team behind Sui, launched the testnet deployment of its upcoming data network, Walrus.]]></summary>
+        <summary type="html"><![CDATA[Walrus aims to bolster the efficiency of data storage on Sui and other blockchain networks.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Sei Network has officially launched fastUSD, a yield-bearing stablecoin integrated with Elixir and DragonSwap DEX]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rallies to $68,000 as Open Interest Hits Record High]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-rallies-to-usd68-000-as-open-interest-hits-record-high</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-rallies-to-usd68-000-as-open-interest-hits-record-high"/>
-        <updated>2024-10-16T17:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Dogecoin is up 10% as the crypto rally continues.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
