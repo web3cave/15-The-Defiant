@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-26T05:07:47.732Z</id>
+    <id>urn:2024-10-26T06:10:35.907Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-26T05:07:47.732Z</updated>
+    <updated>2024-10-26T06:10:35.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Dominance Reaches Highest Level Since 2021]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-dominance-reaches-highest-level-since-2021</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-dominance-reaches-highest-level-since-2021"/>
+        <updated>2024-10-26T05:20:58.000Z</updated>
+        <summary type="html"><![CDATA[BTC dominance is approaching 60% as the altcoin market fails to outperform.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacker Returns $19 Million Stolen from U.S. Government]]></title>
         <id>https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ancilia Inc reported the malicious activity and recommends users revoke approvals for Radiant’s smart contracts, citing a potential backdoor contract deployment.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Rebounds to $204, Up 28% Amid Bitcoin Surge]]></title>
-        <id>https://thedefiant.io/news/markets/coinbase-rebounds-to-204-up-28-amid-bitcoin-surge-7af3e46a</id>
-        <link href="https://thedefiant.io/news/markets/coinbase-rebounds-to-204-up-28-amid-bitcoin-surge-7af3e46a"/>
-        <updated>2024-10-16T17:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase (COIN) has experienced a significant rebound, with its stock price reaching $204, up from $140 in early August]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
