@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-is-exploring-staking-its-eth",
+          "author": "Samuel Haig",
+          "description": "The Ethereum Foundation’s recent ETH sales have irked the project’s community.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-is-exploring-staking-its-eth",
+          "publishedOn": "2024-10-28T09:57:00.000Z",
+          "wordCount": 2362,
+          "title": "Ethereum Foundation Is Exploring Staking Its ETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7cc01ae52cd23d82e0e6903577af69fab496a2ad-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7cc01ae52cd23d82e0e6903577af69fab496a2ad-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/education/premium-tutorials/tokemak-autopilot-earn-34-on-eth-with-the-first-automated-liquidity-router-for-lps",
           "author": "The Defiant Team",
           "description": "This week, we’re diving into a new DeFi innovation called Autopools, powered by Tokemak's Autopilot. These pools are designed to simplify liquidity provisions (LPs) by autonomously rebalancing your positions across multiple decentralized exchanges (DEXs) and assets, all while keeping you connected to DeFi.",
@@ -381,7 +396,7 @@
           "description": "The cryptocurrency landscape is experiencing significant developments, particularly in the areas of Bitcoin mining and Ethereum's interoperability",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-rises-378-ethereum-interoperability-solutions-emerge-42533031",
           "publishedOn": "2024-10-24T15:36:35.000Z",
-          "wordCount": 2229,
+          "wordCount": 2228,
           "title": "Bitcoin Mining Difficulty Rises 378%; Ethereum Interoperability Solutions Emerge as CryptoQuant CEO Predicts Bitcoin as Currency by 2030",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/14a81fcd96afc9061d98a482f4c04003b0a9c27d-1024x1024.jpg",
@@ -396,7 +411,7 @@
           "description": "The Solana blockchain is experiencing a notable surge in activity and interest, particularly in the context of artificial intelligence (AI) innovation",
           "link": "https://thedefiant.io/news/blockchains/solana-blockchain-sees-ai-revolution-sol-approaches-all-time-highs-described-f54c0272",
           "publishedOn": "2024-10-24T15:36:25.000Z",
-          "wordCount": 2183,
+          "wordCount": 2182,
           "title": "Solana Blockchain Sees AI Revolution as $SOL Approaches All-Time Highs, Described as Financialized Cocaine",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e9576ad8135372d37cfd231704ec41fbdb8d722-235x336.jpg",
@@ -411,7 +426,7 @@
           "description": "The cryptocurrency community is currently divided over the impact of launching Layer 2 (L2) solutions on Ethereum",
           "link": "https://thedefiant.io/news/blockchains/crypto-community-divided-over-ethereum-s-future-amid-kraken-s-layer-2-solution-16963583",
           "publishedOn": "2024-10-24T15:36:20.000Z",
-          "wordCount": 2121,
+          "wordCount": 2120,
           "title": "Crypto Community Divided Over Ethereum's Future Amid Kraken's Layer 2 Solution Launch",
           "imageUrl": null
         },
@@ -676,7 +691,7 @@
           "description": "Users can sign up for a waitlist to get access to the card.",
           "link": "https://thedefiant.io/news/blockchains/avalanche-unveils-visa-debit-card",
           "publishedOn": "2024-10-23T06:47:21.000Z",
-          "wordCount": 2128,
+          "wordCount": 2127,
           "title": "Avalanche Unveils Visa Debit Card",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/187b31b51032d6234b14c6d6b3a4b5fe5785cd73-1555x875.png",
@@ -1056,7 +1071,7 @@
           "description": "The World Network touts over 6.9 million verified users.",
           "link": "https://thedefiant.io/news/blockchains/world-network-launches-ethereum-layer-2-world-chain",
           "publishedOn": "2024-10-18T20:11:19.000Z",
-          "wordCount": 2488,
+          "wordCount": 2487,
           "title": "World Network Launches Ethereum Layer 2 'World Chain'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9cc020f8af73ab1f704bc4bd1c7656bfeafd2fbd-1555x875.png",
@@ -1086,7 +1101,7 @@
           "description": "Bittensor’s TAO token has more than doubled in the past month.",
           "link": "https://thedefiant.io/news/blockchains/bittensor-launches-smart-contracts-and-ethereum-compatibility",
           "publishedOn": "2024-10-18T18:57:31.000Z",
-          "wordCount": 2206,
+          "wordCount": 2205,
           "title": "Bittensor Launches Smart Contracts and Ethereum Compatibility",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/82508a7cc15db8f37df5b026b3890eb5445a5bf6-1555x875.png",
@@ -1218,7 +1233,7 @@
         {
           "id": "https://thedefiant.io/news/defi/solv-launches-bitcoin-liquid-staking-token-on-solana",
           "author": "Samuel Haig",
-          "description": "The token offers hedged exposure to liquidity provider positions on the Jupiter DEX aggregator to generate BTC-denominated yield.",
+          "description": "Solv is launching a Bitcoin liquid staking token on Solana offering exposure to Jupiter liquidity provider yields.",
           "link": "https://thedefiant.io/news/defi/solv-launches-bitcoin-liquid-staking-token-on-solana",
           "publishedOn": "2024-10-18T11:55:00.000Z",
           "wordCount": 2462,
@@ -1311,7 +1326,7 @@
           "description": "In a new post, Ethereum’s chief scientist laid out his vision for scaling the ecosystem beyond 100,000 transactions per second.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-outlines-ethereum-s-road-to-100-000-tps",
           "publishedOn": "2024-10-17T19:43:28.000Z",
-          "wordCount": 2386,
+          "wordCount": 2385,
           "title": "Vitalik Outlines Ethereum’s Road to 100,000 TPS",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4cc49d069fe674db0e6a8faad03bd00b34babfc6-1555x875.png",
@@ -1469,21 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/271936adcd502bcbd352cd9c65d86960115afa48-701x434.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/fbi-arrests-alabama-s-eric-council-hacking-sec-s-x-account-fake-bitcoin-etf-6ba0012a",
-          "author": "DeepNewz",
-          "description": "An Alabama man, 25-year-old Eric Council Jr from Athens, was arrested by the FBI for allegedly hacking the Securities and Exchange Commission's (SEC) X account on January 9, 2024",
-          "link": "https://thedefiant.io/news/regulation/fbi-arrests-alabama-s-eric-council-hacking-sec-s-x-account-fake-bitcoin-etf-6ba0012a",
-          "publishedOn": "2024-10-17T18:37:49.000Z",
-          "wordCount": 2214,
-          "title": "FBI Arrests Alabama's Eric Council for Hacking SEC's X Account with Fake Bitcoin ETF Approval",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9782436cca0a1ecb68bd450ae86d7dc2c556f6a-1199x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e9782436cca0a1ecb68bd450ae86d7dc2c556f6a-1199x675.jpg"
         }
       ]
     }
