@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-29T13:17:59.954Z</id>
+    <id>urn:2024-10-29T14:08:05.850Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-29T13:17:59.954Z</updated>
+    <updated>2024-10-29T14:08:05.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Teams Up With Mantra’s On Infrastructure and RWA Accelerator]]></title>
+        <id>https://thedefiant.io/news/infrastructure/google-cloud-teams-up-with-mantra-s-on-infrastructure-and-rwa-accelerator</id>
+        <link href="https://thedefiant.io/news/infrastructure/google-cloud-teams-up-with-mantra-s-on-infrastructure-and-rwa-accelerator"/>
+        <updated>2024-10-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The news comes after Mantra’s OM token rallied 6,550% year-to-date.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Unveils Platform For Deploying AI Agents As Boom Continues]]></title>
         <id>https://thedefiant.io/news/infrastructure/coinbase-unveils-platform-for-deploying-ai-agents-as-boom-continues</id>
@@ -841,7 +851,7 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <id>https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization</id>
         <link href="https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization"/>
         <updated>2024-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Movement Labs will leverage ERC-3643 to enable compliant RWA tokenization on its upcoming Layer 2, Move Network.]]></summary>
+        <summary type="html"><![CDATA[Movement Network will become the first non-EVM network to integrate ERC-3643.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -994,16 +1004,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[Bittensor’s TAO token has more than doubled in the past month.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer's X Account Hacked, Fake $EIGEN Airdrop Scam Causes $1 Million in Losses]]></title>
-        <id>https://thedefiant.io/news/defi/eigenlayer-s-x-account-hacked-fake-eigen-airdrop-scam-causes-1-million-losses-58e90407</id>
-        <link href="https://thedefiant.io/news/defi/eigenlayer-s-x-account-hacked-fake-eigen-airdrop-scam-causes-1-million-losses-58e90407"/>
-        <updated>2024-10-18T18:47:48.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer's official X (formerly Twitter) account has been compromised and is being used to promote a fake airdrop of its $EIGEN token, according to multiple online reports]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
