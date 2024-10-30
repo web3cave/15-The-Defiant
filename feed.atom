@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-30T10:09:48.035Z</id>
+    <id>urn:2024-10-30T11:06:55.805Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-30T10:09:48.036Z</updated>
+    <updated>2024-10-30T11:06:55.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Integrates Support For Visa Direct]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct"/>
+        <updated>2024-10-30T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The news comes as Coinbase is looking to reclaim USD market share from Crypto.com.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetix Proposes Acquiring Kwenta From Tokenholders]]></title>
         <id>https://thedefiant.io/news/defi/synthetix-proposes-acquiring-kwenta-from-tokenholders</id>
@@ -994,16 +1004,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[Bitcoin and Ethereum caught a boost over the weekend after the SEC approved options trading for Bitcoin ETFs.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Infra Provider Lava Network Unveils “Industry First” Incentive Structure]]></title>
-        <id>https://thedefiant.io/news/infrastructure/blockchain-infra-provider-lava-network-unveils-industry-first-incentive-structure</id>
-        <link href="https://thedefiant.io/news/infrastructure/blockchain-infra-provider-lava-network-unveils-industry-first-incentive-structure"/>
-        <updated>2024-10-21T17:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Supported blockchains will gradually pay out $1 million in their native tokens to Lava contributors.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
