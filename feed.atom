@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-30T12:15:12.839Z</id>
+    <id>urn:2024-10-30T13:17:35.580Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-30T12:15:12.839Z</updated>
+    <updated>2024-10-30T13:17:35.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stacks Unlocks Fast Blocks and ‘Bitcoin Finality’ With Nakamoto Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade"/>
+        <updated>2024-10-30T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The long-awaited upgrade also paves the way for the launch of Stacks’ sBTC token.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Integrates Support For Visa Direct]]></title>
         <id>https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct</id>
@@ -994,16 +1004,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[APE is up more than 100% in the past two days.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Erase Weekend Gains as Rising Treasury Yields Dampen Risk Assets]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-erase-weekend-gains-as-rising-treasury-yields-dampen-risk-assets</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-erase-weekend-gains-as-rising-treasury-yields-dampen-risk-assets"/>
-        <updated>2024-10-21T17:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum caught a boost over the weekend after the SEC approved options trading for Bitcoin ETFs.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
