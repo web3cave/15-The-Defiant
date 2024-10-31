@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings",
+          "author": "Mehab Qureshi",
+          "description": "Coinbase’s Q3 revenue rose 81% year-over-year to $1.13 billion but missed the $1.26 billion forecast by analysts.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings",
+          "publishedOn": "2024-10-31T08:56:00.000Z",
+          "wordCount": 2571,
+          "title": "Coinbase Announces $1 Billion Share Buyback and Q3 Earnings",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/314bd349d4bba4c99540353ef2176f97ea46ee7d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/314bd349d4bba4c99540353ef2176f97ea46ee7d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management",
           "author": "Squiffs",
           "description": "The asset management group will be launching the Delta Wellington Ultra Short Treasury On-Chain Fund with Ondo.",
@@ -86,7 +101,7 @@
           "description": "The news comes as Coinbase is looking to reclaim USD market share from Crypto.com.",
           "link": "https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct",
           "publishedOn": "2024-10-30T10:40:00.000Z",
-          "wordCount": 2390,
+          "wordCount": 2386,
           "title": "Coinbase Integrates Support For Visa Direct",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/64f23b6e1e78fc52b705a3f463048d17733a12b7-1555x875.png",
@@ -926,7 +941,7 @@
           "description": "The centralized exchange plans to launch the chain in 2025.",
           "link": "https://thedefiant.io/news/cefi/crypto-exchange-kraken-plans-to-launch-an-ethereum-layer-2-called-ink",
           "publishedOn": "2024-10-24T18:45:43.000Z",
-          "wordCount": 2377,
+          "wordCount": 2373,
           "title": "Crypto Exchange Kraken Plans to Launch an Ethereum Layer 2 Called Ink",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/654852b8cec94b193914a058900ca8500c4b07af-1555x875.png",
@@ -1218,7 +1233,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/mantra-launches-mainnet-of-rwa-focused-l1",
           "author": "Samuel Haig",
-          "description": "Users can now stake OM and bridge the token to qualify for future RWA airdrops.",
+          "description": "Mantra has launched a Layer 1 network designed to facilitate use cases for tokenized real-world asset.",
           "link": "https://thedefiant.io/news/blockchains/mantra-launches-mainnet-of-rwa-focused-l1",
           "publishedOn": "2024-10-23T15:32:00.000Z",
           "wordCount": 2347,
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/markets/scroll-backers-down-48-as-fdvs-of-airdropped-tokens-fall",
           "author": "Samuel Haig",
-          "description": "VCs participating in Scroll's March 2023 funding round appear to have lost nearly half of their investments.",
+          "description": "Scroll’s last funding round closed at a fully-diluted valuation of $1.8 billion.",
           "link": "https://thedefiant.io/news/markets/scroll-backers-down-48-as-fdvs-of-airdropped-tokens-fall",
           "publishedOn": "2024-10-23T14:37:00.000Z",
           "wordCount": 2442,
@@ -1459,21 +1474,6 @@
           "wordCount": 2181,
           "title": "Governor Newsom Vetoes SB 1047, AI Safety Bill, Supports Federal Preemption",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization",
-          "author": "Mehab Qureshi",
-          "description": "Movement Network will become the first non-EVM network to integrate ERC-3643.",
-          "link": "https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization",
-          "publishedOn": "2024-10-22T13:00:00.000Z",
-          "wordCount": 2558,
-          "title": "Movement Labs Leverages ERC-3643 For Compliant RWA Tokenization",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/99d334cc0fc157b94e0404d254d074085683a928-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99d334cc0fc157b94e0404d254d074085683a928-1555x875.png"
         }
       ]
     }

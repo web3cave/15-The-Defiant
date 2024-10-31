@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-31T08:11:21.085Z</id>
+    <id>urn:2024-10-31T09:08:57.045Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-31T08:11:21.085Z</updated>
+    <updated>2024-10-31T09:08:57.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Announces $1 Billion Share Buyback and Q3 Earnings]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings"/>
+        <updated>2024-10-31T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase’s Q3 revenue rose 81% year-over-year to $1.13 billion but missed the $1.26 billion forecast by analysts.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ondo Finance Partners with Trillion Dollar Wellington Management]]></title>
         <id>https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management</id>
@@ -831,7 +841,7 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <id>https://thedefiant.io/news/blockchains/mantra-launches-mainnet-of-rwa-focused-l1</id>
         <link href="https://thedefiant.io/news/blockchains/mantra-launches-mainnet-of-rwa-focused-l1"/>
         <updated>2024-10-23T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can now stake OM and bridge the token to qualify for future RWA airdrops.]]></summary>
+        <summary type="html"><![CDATA[Mantra has launched a Layer 1 network designed to facilitate use cases for tokenized real-world asset.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -841,7 +851,7 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <id>https://thedefiant.io/news/markets/scroll-backers-down-48-as-fdvs-of-airdropped-tokens-fall</id>
         <link href="https://thedefiant.io/news/markets/scroll-backers-down-48-as-fdvs-of-airdropped-tokens-fall"/>
         <updated>2024-10-23T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[VCs participating in Scroll's March 2023 funding round appear to have lost nearly half of their investments.]]></summary>
+        <summary type="html"><![CDATA[Scroll’s last funding round closed at a fully-diluted valuation of $1.8 billion.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -994,16 +1004,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[On October 20, California Governor Gavin Newsom vetoed a landmark AI safety bill, SB 1047, which would have required advanced AI models to undergo rigorous safety testing before deployment]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movement Labs Leverages ERC-3643 For Compliant RWA Tokenization]]></title>
-        <id>https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization</id>
-        <link href="https://thedefiant.io/news/tokens/movement-labs-leverages-erc-3643-fir-complaint-rwa-tokenization"/>
-        <updated>2024-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Movement Network will become the first non-EVM network to integrate ERC-3643.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
