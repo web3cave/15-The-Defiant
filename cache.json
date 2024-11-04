@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees",
+          "author": "Mehab Qureshi",
+          "description": "Web3 projects claim that both Binance and Coinbase have requested sizable listing fees.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees",
+          "publishedOn": "2024-11-04T16:21:00.000Z",
+          "wordCount": 2683,
+          "title": "Coinbase and Binance Face Backlash Over Alleged Listing Fees",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee08bfaa5978138cf3357405a98e2ab99a3c8d22-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee08bfaa5978138cf3357405a98e2ab99a3c8d22-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
           "author": "Samuel Haig",
           "description": "Solana emits $7.62 worth of SOL for every $1 generated in fee revenue.",
@@ -1208,7 +1223,7 @@
         {
           "id": "https://thedefiant.io/news/defi/lido-greenlights-permissionless-ethereum-staking-with-2-4-eth-collateral",
           "author": "Samuel Haig",
-          "description": "Lido users will be able to launch validators with just a 2.4 ETH bond.",
+          "description": "Lido is launching a module enabling users to permissionless launch Ethereum validators with a bond of just 2.4 ETH.",
           "link": "https://thedefiant.io/news/defi/lido-greenlights-permissionless-ethereum-staking-with-2-4-eth-collateral",
           "publishedOn": "2024-10-25T16:30:00.000Z",
           "wordCount": 2497,
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation",
           "author": "Samuel Haig",
-          "description": "Microsoft is pushing against a shareholder's call for it to invest corporate assets in Bitcoin.",
+          "description": "The National Center for Public Policy Research called on Microsoft to invest at least 1% of its assets into BTC to hedge against inflation.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation",
           "publishedOn": "2024-10-25T09:35:00.000Z",
           "wordCount": 2396,
@@ -1454,21 +1469,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/11761a66bfedf18e8acb20c6b8c22f4a7e51ad39-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/pumpfun-sells-over-usd6m-worth-of-solana-s-sol",
-          "author": "Mehab Qureshi",
-          "description": "PumpFun has sold a total of 503,343 SOL, worth approximately $78.7 million .",
-          "link": "https://thedefiant.io/news/markets/pumpfun-sells-over-usd6m-worth-of-solana-s-sol",
-          "publishedOn": "2024-10-23T21:31:49.000Z",
-          "wordCount": 2504,
-          "title": "PumpFun Sells Over $6M Worth of Solana’s SOL",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e298e56387d56caa1a3aa6412b71092b22aedcc7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e298e56387d56caa1a3aa6412b71092b22aedcc7-1555x875.png"
         }
       ]
     }

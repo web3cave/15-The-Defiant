@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-04T16:10:11.122Z</id>
+    <id>urn:2024-11-04T17:06:56.322Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-04T16:10:11.122Z</updated>
+    <updated>2024-11-04T17:06:56.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase and Binance Face Backlash Over Alleged Listing Fees]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees"/>
+        <updated>2024-11-04T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3 projects claim that both Binance and Coinbase have requested sizable listing fees.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Spends $1.28 Per $1 of Fee Revenue, But Solana Pays Six Times As Much]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much</id>
@@ -831,7 +841,7 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <id>https://thedefiant.io/news/defi/lido-greenlights-permissionless-ethereum-staking-with-2-4-eth-collateral</id>
         <link href="https://thedefiant.io/news/defi/lido-greenlights-permissionless-ethereum-staking-with-2-4-eth-collateral"/>
         <updated>2024-10-25T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido users will be able to launch validators with just a 2.4 ETH bond.]]></summary>
+        <summary type="html"><![CDATA[Lido is launching a module enabling users to permissionless launch Ethereum validators with a bond of just 2.4 ETH.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -841,7 +851,7 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <id>https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation"/>
         <updated>2024-10-25T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is pushing against a shareholder's call for it to invest corporate assets in Bitcoin.]]></summary>
+        <summary type="html"><![CDATA[The National Center for Public Policy Research called on Microsoft to invest at least 1% of its assets into BTC to hedge against inflation.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -994,16 +1004,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[The platform has made less than $300,000 since July and most days it earns less than $1,000, according to Dune Analytics data.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PumpFun Sells Over $6M Worth of Solana’s SOL]]></title>
-        <id>https://thedefiant.io/news/markets/pumpfun-sells-over-usd6m-worth-of-solana-s-sol</id>
-        <link href="https://thedefiant.io/news/markets/pumpfun-sells-over-usd6m-worth-of-solana-s-sol"/>
-        <updated>2024-10-23T21:31:49.000Z</updated>
-        <summary type="html"><![CDATA[PumpFun has sold a total of 503,343 SOL, worth approximately $78.7 million .]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
