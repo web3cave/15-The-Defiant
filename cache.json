@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
+          "author": "Samuel Haig",
+          "description": "Solana emits $7.62 worth of SOL for every $1 generated in fee revenue.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
+          "publishedOn": "2024-11-04T11:35:00.000Z",
+          "wordCount": 2543,
+          "title": "Ethereum Spends $1.28 Per $1 of Fee Revenue, But Solana Pays Six Times As Much",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4789ba9977dfd55bdc3092b0b9dc9f55e39be2ff-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4789ba9977dfd55bdc3092b0b9dc9f55e39be2ff-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia",
           "author": "Squiffs",
           "description": "Asia is now the leading location for blockchain developers.",
@@ -1208,7 +1223,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation",
           "author": "Samuel Haig",
-          "description": "The National Center for Public Policy Research called on Microsoft to invest at least 1% of its assets into BTC to hedge against inflation.",
+          "description": "Microsoft is pushing against a shareholder's call for it to invest corporate assets in Bitcoin.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-pushes-back-against-proposed-bitcoin-treasury-allocation",
           "publishedOn": "2024-10-25T09:35:00.000Z",
           "wordCount": 2396,
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/u-s-government-hacked-for-usd20m",
           "author": "Samuel Haig",
-          "description": "A hacker appears to have stolen $20 million from a compromised U.S. government Ethereum wallet in a brazen heist.",
+          "description": "$20 million worth of crypto held by U.S. government wallets were transferred to a wallet that has since sent one-third of the assets to exchanges.",
           "link": "https://thedefiant.io/news/hacks/u-s-government-hacked-for-usd20m",
           "publishedOn": "2024-10-25T07:58:00.000Z",
           "wordCount": 2276,
@@ -1454,21 +1469,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e298e56387d56caa1a3aa6412b71092b22aedcc7-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/christie-s-bridging-worlds-auction-to-benefit-unhcr-runs-october-23-30-8e47070b",
-          "author": "DeepNewz",
-          "description": "Christie's has launched an online auction titled 'Bridging Worlds: Digital Art Beyond Borders' to benefit the United Nations High Commissioner for Refugees (UNHCR)",
-          "link": "https://thedefiant.io/news/nfts-and-web3/christie-s-bridging-worlds-auction-to-benefit-unhcr-runs-october-23-30-8e47070b",
-          "publishedOn": "2024-10-23T20:36:06.000Z",
-          "wordCount": 2173,
-          "title": "Christie's 'Bridging Worlds' Auction to Benefit UNHCR Runs October 23-30",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0314e617dfcd882354d319a420b1e8d28e8cb55f-1200x671.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0314e617dfcd882354d319a420b1e8d28e8cb55f-1200x671.jpg"
         }
       ]
     }
