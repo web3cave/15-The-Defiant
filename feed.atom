@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-05T18:10:43.183Z</id>
+    <id>urn:2024-11-05T19:04:16.365Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-05T18:10:43.183Z</updated>
+    <updated>2024-11-05T19:04:16.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Rallies Above $70,000 On Election Day]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day"/>
+        <updated>2024-11-05T18:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Dogecoin soared 12%, the biggest gainer among the Top 100 digital assets.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Michigan Hosts First U.S. Pension Fund to Buy Spot Ethereum ETF Shares]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw</id>
         <link href="https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw"/>
         <updated>2024-10-28T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can still withdraw more than $100M from dYdX v3 despite the DEX sunsetting, illustrating the importance of Stage 1 decentralization.]]></summary>
+        <summary type="html"><![CDATA[DYdX v3 sunsetting illustrates the importance of Layer 2s realizing Stage 1 decentralization.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -992,16 +1002,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <link href="https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government"/>
         <updated>2024-10-25T18:40:26.000Z</updated>
         <summary type="html"><![CDATA[Roughly $700,000 of assets are still missing.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle-based mETH Protocol Announces Oct. 29 Airdrop]]></title>
-        <id>https://thedefiant.io/news/defi/mantle-based-meth-protocol-announces-oct-29-airdrop</id>
-        <link href="https://thedefiant.io/news/defi/mantle-based-meth-protocol-announces-oct-29-airdrop"/>
-        <updated>2024-10-25T18:10:29.000Z</updated>
-        <summary type="html"><![CDATA[COOK tokens will be available to claim on Oct. 29, and the network’s restaking token cmETH will launch the next day.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>

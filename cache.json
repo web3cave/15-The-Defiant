@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day",
+          "author": "Mehab Qureshi",
+          "description": "Dogecoin soared 12%, the biggest gainer among the Top 100 digital assets.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day",
+          "publishedOn": "2024-11-05T18:26:46.000Z",
+          "wordCount": 2466,
+          "title": "Bitcoin Rallies Above $70,000 On Election Day",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c0480c5b77bcab1feecd05da1f0975d3d3ad6195-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c0480c5b77bcab1feecd05da1f0975d3d3ad6195-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
           "author": "Mehab Qureshi",
           "description": "The fund own more than $11 million worth of Ethereum ETF shares.",
@@ -1213,7 +1228,7 @@
         {
           "id": "https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw",
           "author": "Samuel Haig",
-          "description": "Users can still withdraw more than $100M from dYdX v3 despite the DEX sunsetting, illustrating the importance of Stage 1 decentralization.",
+          "description": "DYdX v3 sunsetting illustrates the importance of Layer 2s realizing Stage 1 decentralization.",
           "link": "https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw",
           "publishedOn": "2024-10-28T14:28:00.000Z",
           "wordCount": 2500,
@@ -1444,21 +1459,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0df1797be215e44cbd5d6f59dc1c9c6aa479eef-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/mantle-based-meth-protocol-announces-oct-29-airdrop",
-          "author": "Pedro Solimano",
-          "description": "COOK tokens will be available to claim on Oct. 29, and the network’s restaking token cmETH will launch the next day.",
-          "link": "https://thedefiant.io/news/defi/mantle-based-meth-protocol-announces-oct-29-airdrop",
-          "publishedOn": "2024-10-25T18:10:29.000Z",
-          "wordCount": 2359,
-          "title": "Mantle-based mETH Protocol Announces Oct. 29 Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4860ff731ded32afce10eed2b2db79cf675c8d44-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4860ff731ded32afce10eed2b2db79cf675c8d44-1555x875.png"
         }
       ]
     }
