@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
+          "author": "Mehab Qureshi",
+          "description": "The fund own more than $11 million worth of Ethereum ETF shares.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
+          "publishedOn": "2024-11-05T11:08:00.000Z",
+          "wordCount": 2426,
+          "title": "Michigan Hosts First U.S. Pension Fund to Buy Spot Ethereum ETF Shares",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/curve-proposes-giving-10-of-crvusd-revenue-to-savings-crvusd-holders",
           "author": "Samuel Haig",
           "description": "The measure aims to scale crvUSD to stabilize borrow rates and price fluctuations.",
@@ -26,7 +41,7 @@
           "description": "The move comes just three days after UBS launched its own tokenized product.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citi-and-fidelity-announce-on-chain-money-market-fund",
           "publishedOn": "2024-11-04T23:03:07.000Z",
-          "wordCount": 2393,
+          "wordCount": 2411,
           "title": "Citi and Fidelity Announce On-Chain Money Market Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/98a3dabcadfa6dac73c8f8cca7718aff858068a7-1555x875.png",
@@ -56,7 +71,7 @@
           "description": "SBI Digital Markets and UBS Asset Management have successfully completed a pilot project using Chainlink's Cross-Chain Interoperability Protocol (CCIP) to streamline tokenized fund operations across different chains and financial systems",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sbi-digital-ubs-complete-pilot-using-chainlink-ccip-tokenized-funds-project-68cba8c9",
           "publishedOn": "2024-11-04T21:15:09.000Z",
-          "wordCount": 2219,
+          "wordCount": 2243,
           "title": "SBI Digital and UBS Complete Pilot Using Chainlink CCIP for Tokenized Funds in Project Guardian",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ab63a0a7670ab3383092bdbdc22ccfa6c76e58f-1114x900.jpg",
@@ -156,7 +171,7 @@
           "description": "Cartwright, a British pension specialist, has announced a groundbreaking decision to allocate 3% of a UK pension scheme's portfolio to Bitcoin",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/cartwright-leads-first-uk-pension-scheme-to-invest-bitcoin-largest-3-allocation-a69efa3f",
           "publishedOn": "2024-11-04T20:18:40.000Z",
-          "wordCount": 2220,
+          "wordCount": 2245,
           "title": "Cartwright Leads First UK Pension Scheme to Invest in Bitcoin with Largest 3% Allocation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/10dbf5aa5d785e28d89395335885cb506e1e6331-1080x1080.jpg",
@@ -626,7 +641,7 @@
           "description": "Microsoft shareholders have begun voting on whether the company should invest in Bitcoin for its $3 trillion corporate treasury",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1",
           "publishedOn": "2024-10-30T19:00:04.000Z",
-          "wordCount": 2165,
+          "wordCount": 2190,
           "title": "Microsoft Shareholders Begin Voting on $3 Trillion Bitcoin Investment Despite Opposition",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg",
@@ -671,7 +686,7 @@
           "description": "Reddit has disclosed in an SEC filing that it sold the majority of its cryptocurrency portfolio, primarily consisting of Bitcoin (BTC) and Ethereum (ETH), before the significant price rally in October",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/reddit-sells-majority-btc-eth-treasury-holdings-before-october-rally-sec-filing-db356bd8",
           "publishedOn": "2024-10-30T18:58:21.000Z",
-          "wordCount": 2218,
+          "wordCount": 2243,
           "title": "Reddit Sells Majority of BTC and ETH Treasury Holdings Before October Rally, SEC Filing Reveals",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9354f966b6eb895398f74a4296c6faca9bc408e-1200x800.jpg",
@@ -1016,7 +1031,7 @@
           "description": "Japanese company Metaplanet has acquired an additional 156 BTC",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/metaplanet-becomes-asia-s-largest-bitcoin-holder-1018-btc-after-y-1-6-billion-b685186f",
           "publishedOn": "2024-10-28T16:04:24.000Z",
-          "wordCount": 2141,
+          "wordCount": 2166,
           "title": "Metaplanet Becomes Asia's Largest Bitcoin Holder with 1,018 BTC After ¥1.6 Billion Purchase",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d17cf26fd4887cce28ca4774b84fcc725cbb5484-1200x637.jpg",
@@ -1198,7 +1213,7 @@
         {
           "id": "https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw",
           "author": "Samuel Haig",
-          "description": "DYdX v3 sunsetting illustrates the importance of Layer 2s realizing Stage 1 decentralization.",
+          "description": "Users can still withdraw more than $100M from dYdX v3 despite the DEX sunsetting, illustrating the importance of Stage 1 decentralization.",
           "link": "https://thedefiant.io/news/defi/dydx-v3-s-tvl-is-usd100m-as-shutdown-begins-but-users-can-still-withdraw",
           "publishedOn": "2024-10-28T14:28:00.000Z",
           "wordCount": 2500,
@@ -1213,7 +1228,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/lamborghini-taps-base-for-revuelto-nft-mint",
           "author": "Samuel Haig",
-          "description": "Lamborghini will launch its upcoming Revuelto NFT mint on Base.",
+          "description": "Lamborghini has teamed up with Animoca Brands for its latest NFT project.",
           "link": "https://thedefiant.io/news/nfts-and-web3/lamborghini-taps-base-for-revuelto-nft-mint",
           "publishedOn": "2024-10-28T12:00:00.000Z",
           "wordCount": 2471,
@@ -1444,21 +1459,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4860ff731ded32afce10eed2b2db79cf675c8d44-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-trade-sideways-as-etf-demand-hits-six-month-high",
-          "author": "Pedro Solimano",
-          "description": "Net flows into Bitcoin ETFs total nearly 65,000 BTC ($4.4 billion) in the past month, according to CryptoQuant.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-trade-sideways-as-etf-demand-hits-six-month-high",
-          "publishedOn": "2024-10-25T16:41:47.000Z",
-          "wordCount": 2656,
-          "title": "Crypto Markets Trade Sideways as ETF Demand Hits Six-Month High",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d2c7c96b11b9551b687ea87ae793d9610d610217-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d2c7c96b11b9551b687ea87ae793d9610d610217-1555x875.png"
         }
       ]
     }
