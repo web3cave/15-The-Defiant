@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-06T08:11:27.933Z</id>
+    <id>urn:2024-11-06T09:08:53.308Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-06T08:11:27.933Z</updated>
+    <updated>2024-11-06T09:08:53.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Researchers Resign From EigenLayer]]></title>
+        <id>https://thedefiant.io/news/people/ethereum-foundation-researchers-resign-from-eigenlayer</id>
+        <link href="https://thedefiant.io/news/people/ethereum-foundation-researchers-resign-from-eigenlayer"/>
+        <updated>2024-11-06T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The resignations followed months of backlash from the Ethereum community.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Tags All-Time High As Trump Takes Early Election Lead]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-tags-all-time-high-as-trump-takes-early-election-lead</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Nana Murugesan, President of Matter Labs and former VP of Business Development at Coinbase, joins Camila Russo in this week’s podcast to discuss the latest updates from ZKsync, including the recently launched Elastic Chain.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokemak Autopilot: Earn 34% on ETH with the First Automated Liquidity Router for LPs]]></title>
-        <id>https://thedefiant.io/education/premium-tutorials/tokemak-autopilot-earn-34-on-eth-with-the-first-automated-liquidity-router-for-lps</id>
-        <link href="https://thedefiant.io/education/premium-tutorials/tokemak-autopilot-earn-34-on-eth-with-the-first-automated-liquidity-router-for-lps"/>
-        <updated>2024-10-27T16:04:45.000Z</updated>
-        <summary type="html"><![CDATA[This week, we’re diving into a new DeFi innovation called Autopools, powered by Tokemak's Autopilot. These pools are designed to simplify liquidity provisions (LPs) by autonomously rebalancing your positions across multiple decentralized exchanges (DEXs) and assets, all while keeping you connected to DeFi.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
