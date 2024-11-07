@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/the-vital-role-of-decentralized-ai-in-navigating-the-new-frontier-of-misinformation",
+          "author": "Nick Emmons",
+          "description": "Decentralized AI, with its ability to trace information back to its source transparently, provides a tool for voters and regulators alike to combat these threats effectively.",
+          "link": "https://thedefiant.io/news/research-and-opinion/the-vital-role-of-decentralized-ai-in-navigating-the-new-frontier-of-misinformation",
+          "publishedOn": "2024-11-07T20:21:14.000Z",
+          "wordCount": 3273,
+          "title": "The Vital Role of Decentralized AI in Navigating the New Frontier of Misinformation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/45a614aea01aa7523ee5c237675dee889e66c38d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/45a614aea01aa7523ee5c237675dee889e66c38d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
           "author": "Squiffs",
           "description": "The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.",
@@ -1459,16 +1474,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5dd3330772a45c113be500bb537097c0678db8f3-1200x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/solana-s-phantom-wallet-faces-major-downtime-during-grass-airdrop-f3119579",
-          "author": "DeepNewz",
-          "description": "Phantom, a prominent Solana and multi-chain web3 wallet, is currently experiencing significant downtime due to a major backend incident",
-          "link": "https://thedefiant.io/news/defi/solana-s-phantom-wallet-faces-major-downtime-during-grass-airdrop-f3119579",
-          "publishedOn": "2024-10-28T15:55:02.000Z",
-          "wordCount": 2133,
-          "title": "Solana's Phantom Wallet Faces Major Downtime During GRASS Airdrop",
-          "imageUrl": null
         }
       ]
     }
