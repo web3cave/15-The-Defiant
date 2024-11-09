@@ -1,4 +1,1477 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "The Defiant",
+      "feedUrl": "https://thedefiant.io/feed/",
+      "siteUrl": "https://thedefiant.io",
+      "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles",
+          "author": "Squiffs",
+          "description": "After an alleged three months of attempted migration, Degenchain says Conduit “refused to take ownership for damages” to the Degen community.",
+          "link": "https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles",
+          "publishedOn": "2024-11-09T17:06:52.000Z",
+          "wordCount": 2353,
+          "title": "Degenchain Blames Conduit for Migration Struggles",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/11feb43f3cae45578a69b3fae4843ae3c0645bf6-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/11feb43f3cae45578a69b3fae4843ae3c0645bf6-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/polygon-tvl-drops-20-as-polymarket-fever-cools",
+          "author": "Squiffs",
+          "description": "Many election traders on Polymarket promptly removed their funds from Polygon as soon as the election markets closed.",
+          "link": "https://thedefiant.io/news/blockchains/polygon-tvl-drops-20-as-polymarket-fever-cools",
+          "publishedOn": "2024-11-08T23:55:57.000Z",
+          "wordCount": 2199,
+          "title": "Polygon TVL Drops 20% as Polymarket Fever Cools",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c9768bbd2130fe7cb2511c508ed0d8eb5c8d04f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c9768bbd2130fe7cb2511c508ed0d8eb5c8d04f-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-touches-usd77-000-as-spot-etfs-attract-record-usd1-4-billion",
+          "author": "Mehab Qureshi",
+          "description": "On Thursday, the Fed cut benchmark U.S. interest rates by 0.25%.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-touches-usd77-000-as-spot-etfs-attract-record-usd1-4-billion",
+          "publishedOn": "2024-11-08T19:59:57.000Z",
+          "wordCount": 2467,
+          "title": "Bitcoin Touches $77,000 as Spot ETFs Attract Record $1.4 Billion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/10111357ecfd93742fc7f8416a9f7a9999675c20-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/10111357ecfd93742fc7f8416a9f7a9999675c20-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-publishes-conflict-of-interest-policy",
+          "author": "Samuel Haig",
+          "description": "Ethereum Foundation researchers taking paid positions at third-party projects has been an issue of community contention in recent months.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-publishes-conflict-of-interest-policy",
+          "publishedOn": "2024-11-08T14:44:00.000Z",
+          "wordCount": 2589,
+          "title": "Ethereum Foundation Reveals Conflict Of Interest Policy",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f424349db35768be16ca438fc8b76ce12bae43-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0f424349db35768be16ca438fc8b76ce12bae43-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/detroit-to-become-largest-u-s-city-to-accept-cryptocurrency-for-taxes-and-fees",
+          "author": "Mehab Qureshi",
+          "description": "At least five U.S. states support various government service payments in the form of crypto.",
+          "link": "https://thedefiant.io/news/regulation/detroit-to-become-largest-u-s-city-to-accept-cryptocurrency-for-taxes-and-fees",
+          "publishedOn": "2024-11-08T13:30:00.000Z",
+          "wordCount": 2492,
+          "title": "Detroit to Become Largest U.S. City Accepting Crypto for Taxes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bfd5cb7dedb8380dd5717af8b13887845002a4cf-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bfd5cb7dedb8380dd5717af8b13887845002a4cf-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/wintermute-calls-for-ethena-to-share-revenue-with-stakers",
+          "author": "Mehab Qureshi",
+          "description": "If passed, sENA holders would receive a share of the revenue generated by Ethena.",
+          "link": "https://thedefiant.io/news/defi/wintermute-calls-for-ethena-to-share-revenue-with-stakers",
+          "publishedOn": "2024-11-08T12:55:00.000Z",
+          "wordCount": 2652,
+          "title": "Wintermute Calls For Ethena To Share Revenue With Stakers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/23c9867cd6329fc6c9ad8af9ca7914b1a708c804-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/23c9867cd6329fc6c9ad8af9ca7914b1a708c804-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/germany-sells-50000-btc-54k-losing-872-million-bitcoin-value-surges-to-3-75-02a76683",
+          "author": "DeepNewz",
+          "description": "Germany's recent decision to sell its Bitcoin holdings has drawn criticism as the cryptocurrency's value has surged",
+          "link": "https://thedefiant.io/news/regulation/germany-sells-50000-btc-54k-losing-872-million-bitcoin-value-surges-to-3-75-02a76683",
+          "publishedOn": "2024-11-08T12:45:47.000Z",
+          "wordCount": 2193,
+          "title": "Germany Sells 50,000 BTC at $54K, Losing $872 Million as Bitcoin Value Surges to $3.75 Billion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/49642430802ccad5d990fe36678449b81b3e0bc5-666x234.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/49642430802ccad5d990fe36678449b81b3e0bc5-666x234.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/coinbase-launches-first-solana-based-token-cbbtc-bitcoin-backed-spl-token-39f421fc",
+          "author": "DeepNewz",
+          "description": "Coinbase has launched cbBTC, now live on Solana, a Solana Program Library (SPL) token backed 1:1 by Bitcoin (BTC) held in custody by Coinbase",
+          "link": "https://thedefiant.io/news/defi/coinbase-launches-first-solana-based-token-cbbtc-bitcoin-backed-spl-token-39f421fc",
+          "publishedOn": "2024-11-08T12:45:29.000Z",
+          "wordCount": 2138,
+          "title": "Coinbase Launches First Solana-Based Token cbBTC, a Bitcoin-Backed SPL Token",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6432078ec4f28a4bda66f66d81900b989c22624c-1200x768.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6432078ec4f28a4bda66f66d81900b989c22624c-1200x768.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/north-korean-hackers-intensify-cyberattacks-on-crypto-firms-macos-users-winos-4-dc5798e0",
+          "author": "DeepNewz",
+          "description": "North Korean hackers, specifically the DPRK-linked group BlueNoroff, are intensifying their cyberattacks targeting cryptocurrency firms and users of macOS systems",
+          "link": "https://thedefiant.io/news/defi/north-korean-hackers-intensify-cyberattacks-on-crypto-firms-macos-users-winos-4-dc5798e0",
+          "publishedOn": "2024-11-08T12:45:21.000Z",
+          "wordCount": 2201,
+          "title": "North Korean Hackers Intensify Cyberattacks on Crypto Firms and macOS Users with Winos 4.0 Malware and BlueNoroff Tactics",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bd8896c912dadb51fe74a63cf11c8f4faff83037-1020x680.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bd8896c912dadb51fe74a63cf11c8f4faff83037-1020x680.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/caroline-ellison-begins-two-year-prison-sentence-danbury-role-ftx-fraud-fea3ce23",
+          "author": "DeepNewz",
+          "description": "Caroline Ellison, a former top executive in Sam Bankman-Fried’s FTX cryptocurrency empire and ex-co-CEO of Alameda Research, began her two-year prison sentence at the Federal Correctional Institution in Danbury, Connecticut",
+          "link": "https://thedefiant.io/news/people/caroline-ellison-begins-two-year-prison-sentence-danbury-role-ftx-fraud-fea3ce23",
+          "publishedOn": "2024-11-08T12:45:05.000Z",
+          "wordCount": 2178,
+          "title": "Caroline Ellison Begins Two-Year Prison Sentence in Danbury for Role in FTX Fraud",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ac5b644fb712ab761241729de69ae91611ded985-1200x800.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ac5b644fb712ab761241729de69ae91611ded985-1200x800.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/trump-to-make-u-s-worlds-crypto-capital-establish-strategic-bitcoin-reserve-amid-f3685e58",
+          "author": "DeepNewz",
+          "description": "China Central Television has reported that Donald Trump plans to position the United States as the world's leading Bitcoin and cryptocurrency capital",
+          "link": "https://thedefiant.io/news/people/trump-to-make-u-s-worlds-crypto-capital-establish-strategic-bitcoin-reserve-amid-f3685e58",
+          "publishedOn": "2024-11-08T12:44:59.000Z",
+          "wordCount": 2196,
+          "title": "Trump to Make U.S. World’s Crypto Capital and Establish Strategic Bitcoin Reserve Amid $1.4 Trillion Stimulus, Chinese Media Reports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hits-multiple-all-time-highs-latest-76679-fourth-time-this-week-bf707a08",
+          "author": "DeepNewz",
+          "description": "Bitcoin has reached a new all-time high (ATH) multiple times this week, with the latest peak at $76,679",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hits-multiple-all-time-highs-latest-76679-fourth-time-this-week-bf707a08",
+          "publishedOn": "2024-11-08T12:44:47.000Z",
+          "wordCount": 2141,
+          "title": "Bitcoin Hits Multiple All-Time Highs, Latest at $76,679, Fourth Time This Week",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65b1f2fb8cc9fd77b955b9846364791d393d8a8c-1072x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65b1f2fb8cc9fd77b955b9846364791d393d8a8c-1072x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/detroit-to-accept-bitcoin-taxes-fees-2025-managed-paypal-b50a4cb9",
+          "author": "DeepNewz",
+          "description": "Detroit, Michigan, has announced that it will start accepting Bitcoin and other cryptocurrencies for tax payments and city fees beginning in mid-2025",
+          "link": "https://thedefiant.io/news/regulation/detroit-to-accept-bitcoin-taxes-fees-2025-managed-paypal-b50a4cb9",
+          "publishedOn": "2024-11-08T12:41:58.000Z",
+          "wordCount": 2156,
+          "title": "Detroit to Accept Bitcoin for Taxes and Fees in 2025, Managed by PayPal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/abbd74ed1b28158ca9eec0c5b89026e383c1f82b-810x810.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/abbd74ed1b28158ca9eec0c5b89026e383c1f82b-810x810.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/phantom-enables-crypto-purchases-venmo-via-moonpay-solana-included-9da4dca4",
+          "author": "DeepNewz",
+          "description": "Phantom has announced a new feature allowing its users to buy cryptocurrency using Venmo",
+          "link": "https://thedefiant.io/news/infrastructure/phantom-enables-crypto-purchases-venmo-via-moonpay-solana-included-9da4dca4",
+          "publishedOn": "2024-11-08T12:41:54.000Z",
+          "wordCount": 2089,
+          "title": "Phantom Enables Crypto Purchases with Venmo via MoonPay, Solana Included",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4bb4838f0de3430eb51818f9f9a756be1db235a-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f4bb4838f0de3430eb51818f9f9a756be1db235a-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-talks-to-acquire-minority-stake-70-billion-millennium-management-major-c7ae27c3",
+          "author": "DeepNewz",
+          "description": "BlackRock is in discussions to acquire a minority stake in Millennium Management, a hedge fund managed by Izzy Englander",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-talks-to-acquire-minority-stake-70-billion-millennium-management-major-c7ae27c3",
+          "publishedOn": "2024-11-08T12:41:49.000Z",
+          "wordCount": 2157,
+          "title": "BlackRock in Talks to Acquire Minority Stake in $70 Billion Millennium Management, Major BTC Holder",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/744c379031e28cbe76380ab66d9b6589fc56e4f4-1200x375.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/744c379031e28cbe76380ab66d9b6589fc56e4f4-1200x375.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/trump-to-replace-sec-chair-gensler-immediately-robinhood-clo-dan-gallagher-front-37e21d3d",
+          "author": "DeepNewz",
+          "description": "President-elect Donald Trump is considering candidates to replace SEC Chair Gary Gensler immediately upon taking office, with Robinhood's Chief Legal Officer Dan Gallagher reportedly the front-runner, according to Reuters",
+          "link": "https://thedefiant.io/news/regulation/trump-to-replace-sec-chair-gensler-immediately-robinhood-clo-dan-gallagher-front-37e21d3d",
+          "publishedOn": "2024-11-08T12:41:35.000Z",
+          "wordCount": 2238,
+          "title": "Trump to Replace SEC Chair Gensler Immediately, Robinhood CLO Dan Gallagher Front-runner",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd7d029aca1f0d86ae20d90074744224b1e3b6f9-1024x768.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd7d029aca1f0d86ae20d90074744224b1e3b6f9-1024x768.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/solana-surges-30-three-days-to-200-eyes-260-amid-bullish-momentum-d50db8de",
+          "author": "DeepNewz",
+          "description": "Solana (SOL) has experienced a significant surge in value, reaching $200 for the first time since July",
+          "link": "https://thedefiant.io/news/markets/solana-surges-30-three-days-to-200-eyes-260-amid-bullish-momentum-d50db8de",
+          "publishedOn": "2024-11-08T12:41:25.000Z",
+          "wordCount": 2213,
+          "title": "Solana Surges 30% in Three Days to $200, Eyes $260 Amid Bullish Momentum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9eddb1f04c0797d720fa3cc3d9d90d0cb3c9f67-1061x589.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e9eddb1f04c0797d720fa3cc3d9d90d0cb3c9f67-1061x589.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/ai-da-robot-s-ai-god-portrait-alan-turing-fetches-record-1-32-million-sotheby-s-58856f1a",
+          "author": "DeepNewz",
+          "description": "A portrait of English mathematician Alan Turing, created by the humanoid robot artist Ai-Da, sold for a record $1.32M",
+          "link": "https://thedefiant.io/news/nfts-and-web3/ai-da-robot-s-ai-god-portrait-alan-turing-fetches-record-1-32-million-sotheby-s-58856f1a",
+          "publishedOn": "2024-11-08T12:41:21.000Z",
+          "wordCount": 2175,
+          "title": "Ai-Da Robot's 'AI God' Portrait of Alan Turing Fetches Record $1.32 Million at Sotheby's",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aed5bf7548b38b82ed2272233da35c3c2c591cb-634x865.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7aed5bf7548b38b82ed2272233da35c3c2c591cb-634x865.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-reveals-970-2m-assets-october-31-2024-81-3-crypto-1441b4b9",
+          "author": "DeepNewz",
+          "description": "The Ethereum Foundation has released its 2024 financial report, revealing it holds $970M",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-reveals-970-2m-assets-october-31-2024-81-3-crypto-1441b4b9",
+          "publishedOn": "2024-11-08T12:41:16.000Z",
+          "wordCount": 2128,
+          "title": "Ethereum Foundation Reveals $970.2M in Assets as of October 31, 2024, with 81.3% in Crypto",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e787eadcc5b5e4fc2ec5f630c6f21ac76d3bdd62-1024x768.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e787eadcc5b5e4fc2ec5f630c6f21ac76d3bdd62-1024x768.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/makerdao-governance-confirms-sky-rebrand-will-go-ahead",
+          "author": "Samuel Haig",
+          "description": "MakerDAO rebranded to Sky on Sept. 18, but community members expressed confusion.",
+          "link": "https://thedefiant.io/news/defi/makerdao-governance-confirms-sky-rebrand-will-go-ahead",
+          "publishedOn": "2024-11-08T11:44:00.000Z",
+          "wordCount": 2443,
+          "title": "MakerDAO Governance Confirms Sky Rebrand Will Go Ahead",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/79868d1756df5cab0c1f6cf6bd7ece7fb26a6223-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/79868d1756df5cab0c1f6cf6bd7ece7fb26a6223-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/grass-token-soars-to-usd3-billion-valuation",
+          "author": "Squiffs",
+          "description": "The bandwidth-sharing DePIN project’s price action suggests that airdrops are not dead after all.",
+          "link": "https://thedefiant.io/news/defi/grass-token-soars-to-usd3-billion-valuation",
+          "publishedOn": "2024-11-08T01:30:39.000Z",
+          "wordCount": 2183,
+          "title": "GRASS Token Soars to $3 Billion Valuation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f60c54dbf134e2ef4189ef4628fcd227a72abe21-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f60c54dbf134e2ef4189ef4628fcd227a72abe21-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/the-vital-role-of-decentralized-ai-in-navigating-the-new-frontier-of-misinformation",
+          "author": "Nick Emmons",
+          "description": "Decentralized AI, with its ability to trace information back to its source transparently, provides a tool for voters and regulators alike to combat these threats effectively.",
+          "link": "https://thedefiant.io/news/research-and-opinion/the-vital-role-of-decentralized-ai-in-navigating-the-new-frontier-of-misinformation",
+          "publishedOn": "2024-11-07T20:21:14.000Z",
+          "wordCount": 3273,
+          "title": "The Vital Role of Decentralized AI in Navigating the New Frontier of Misinformation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/45a614aea01aa7523ee5c237675dee889e66c38d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/45a614aea01aa7523ee5c237675dee889e66c38d-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
+          "author": "Squiffs",
+          "description": "The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.",
+          "link": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
+          "publishedOn": "2024-11-07T19:08:17.000Z",
+          "wordCount": 2225,
+          "title": "Eclipse Launches Public Mainnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision",
+          "author": "Mehab Qureshi",
+          "description": "Ethereum and Solana rallied 8% and 5%, respectively.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision",
+          "publishedOn": "2024-11-07T18:13:08.000Z",
+          "wordCount": 2414,
+          "title": "Bitcoin Soars Above $76,000 Ahead of Fed Decision",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9781875c407a0a6d56c67f9fc1f2f02ef52e9b8c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9781875c407a0a6d56c67f9fc1f2f02ef52e9b8c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development",
+          "author": "Samuel Haig",
+          "description": "The Ethereum community is rallying behind Protocol Guild, a collective funding mechanism supporting 181 Ethereum core protocol developers.",
+          "link": "https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development",
+          "publishedOn": "2024-11-07T13:42:00.000Z",
+          "wordCount": 2670,
+          "title": "Protocol Guild Has Distributed $20M To Support Ethereum Development",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca705a452dbcd411c4a0d0deffd607d677f673fc-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca705a452dbcd411c4a0d0deffd607d677f673fc-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cynthia-lummis-announces-u-s-strategic-bitcoin-reserve-after-trump-win",
+          "author": "Mehab Qureshi",
+          "description": "Trump pledged that his administration would retain all U.S. government-held Bitcoin if elected.",
+          "link": "https://thedefiant.io/news/regulation/cynthia-lummis-announces-u-s-strategic-bitcoin-reserve-after-trump-win",
+          "publishedOn": "2024-11-07T13:11:00.000Z",
+          "wordCount": 2498,
+          "title": "Cynthia Lummis Announces U.S. ‘Strategic Bitcoin Reserve’ After Trump Win",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f74280356fdbfc19923c5ca46c2527ad127386b8-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f74280356fdbfc19923c5ca46c2527ad127386b8-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/over-75-of-memecoins-were-created-in-2024-but-97-are-dead",
+          "author": "Mehab Qureshi",
+          "description": "Memecoins’ share of the altcoin market has nearly tripled since 2022.",
+          "link": "https://thedefiant.io/news/tokens/over-75-of-memecoins-were-created-in-2024-but-97-are-dead",
+          "publishedOn": "2024-11-07T10:56:00.000Z",
+          "wordCount": 2543,
+          "title": "Over 75% of Memecoins Were Created in 2024, But 97% Are Dead",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee545250f2d6e2816eacca7423f3280b2580083c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee545250f2d6e2816eacca7423f3280b2580083c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
+          "author": "Mehab Qureshi",
+          "description": "Historically, Bitcoin Core development discussions took place by email and on the BitcoinTalk.org forum.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
+          "publishedOn": "2024-11-07T08:34:00.000Z",
+          "wordCount": 2541,
+          "title": "Bitcoin-dev Archives Purged From Linux, Re-Homed On Google Groups",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/polymarket-whales-cash-out-millions-on-trump-win",
+          "author": "Squiffs",
+          "description": "One user profited nearly $50 million across 4 Polymarket accounts.",
+          "link": "https://thedefiant.io/news/defi/polymarket-whales-cash-out-millions-on-trump-win",
+          "publishedOn": "2024-11-07T06:23:44.000Z",
+          "wordCount": 2261,
+          "title": "Polymarket Whales Cash Out Millions on Trump Win",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d81b3c35ae56af600f677b60c61500d1a658f4d6-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d81b3c35ae56af600f677b60c61500d1a658f4d6-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/defi-tokens-outperform-amid-broad-crypto-rally",
+          "author": "yyctrader",
+          "description": "Uniswap and Lido are today’s top gainers among the Top 100 digital assets.",
+          "link": "https://thedefiant.io/news/markets/defi-tokens-outperform-amid-broad-crypto-rally",
+          "publishedOn": "2024-11-06T22:19:13.000Z",
+          "wordCount": 2236,
+          "title": "DeFi Tokens Outperform Amid Broad Crypto Rally",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2498109ea59f1fd6cac7ec1e7f2e53c006df16df-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2498109ea59f1fd6cac7ec1e7f2e53c006df16df-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/trump-memecoins-plummet-as-bitcoin-hits-all-time-high",
+          "author": "Squiffs",
+          "description": "Traders are dumping Trump memecoins after his election victory.",
+          "link": "https://thedefiant.io/news/markets/trump-memecoins-plummet-as-bitcoin-hits-all-time-high",
+          "publishedOn": "2024-11-06T20:35:13.000Z",
+          "wordCount": 2208,
+          "title": "Trump Memecoins Plummet as Bitcoin Hits All-Time High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/861b0a7cc22c449262abfb7b1fd06240fa52ef11-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/861b0a7cc22c449262abfb7b1fd06240fa52ef11-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-soar-on-trump-election-victory",
+          "author": "Mehab Qureshi",
+          "description": "BTC hit a new all-time high, with BlackRock's iShares Bitcoin ETF recording $1 billion in volume within the first 20 minutes of trading.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-soar-on-trump-election-victory",
+          "publishedOn": "2024-11-06T19:18:44.000Z",
+          "wordCount": 2495,
+          "title": "Crypto Markets Soar On Trump Election Victory",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6af0e7414f4afe746c6820b35fd74e621085b460-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6af0e7414f4afe746c6820b35fd74e621085b460-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/pro-crypto-candidates-dominate-2024-elections-as-trump-reclaims-presidency",
+          "author": "Mehab Qureshi",
+          "description": "247 pro-crypto candidates won seats in the House of Representatives.",
+          "link": "https://thedefiant.io/news/regulation/pro-crypto-candidates-dominate-2024-elections-as-trump-reclaims-presidency",
+          "publishedOn": "2024-11-06T18:03:39.000Z",
+          "wordCount": 2775,
+          "title": "Pro-Crypto Candidates Dominate 2024 Elections as Trump Reclaims Presidency",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dee70c874c0ae8bfd3cc44223d7733e1edf6606-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dee70c874c0ae8bfd3cc44223d7733e1edf6606-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/elizabeth-warren-defeats-pro-crypto-deaton-to-secure-third-senate-term",
+          "author": "Mehab Qureshi",
+          "description": "The 2024 U.S. presidential election featured several tight Senate races involving pro-crypto candidates.",
+          "link": "https://thedefiant.io/news/regulation/elizabeth-warren-defeats-pro-crypto-deaton-to-secure-third-senate-term",
+          "publishedOn": "2024-11-06T10:58:00.000Z",
+          "wordCount": 2995,
+          "title": "Elizabeth Warren Defeats Pro-Crypto Deaton To Secure Third Senate Term",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/746c2af9670c801f7c7b5efe09f202e8c88cff6f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/746c2af9670c801f7c7b5efe09f202e8c88cff6f-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/ethereum-foundation-researchers-resign-from-eigenlayer",
+          "author": "Mehab Qureshi",
+          "description": "The resignations followed months of backlash from the Ethereum community.",
+          "link": "https://thedefiant.io/news/people/ethereum-foundation-researchers-resign-from-eigenlayer",
+          "publishedOn": "2024-11-06T09:06:00.000Z",
+          "wordCount": 2517,
+          "title": "Ethereum Foundation Researchers Resign From EigenLayer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad0801a9506960ee4e876671764be2214df592ac-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ad0801a9506960ee4e876671764be2214df592ac-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-tags-all-time-high-as-trump-takes-early-election-lead",
+          "author": "Samuel Haig",
+          "description": "The combined cryptocurrency market cap is at its highest level since July.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-tags-all-time-high-as-trump-takes-early-election-lead",
+          "publishedOn": "2024-11-06T05:12:00.000Z",
+          "wordCount": 2473,
+          "title": "Bitcoin Tags All-Time High As Trump Takes Early Election Lead",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/814fcabfbd0b478073b31fd028ddb8d6e6fc6344-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/814fcabfbd0b478073b31fd028ddb8d6e6fc6344-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/kleros-to-collaborate-with-supreme-court-of-mendoza",
+          "author": "Squiffs",
+          "description": "The agreement marks a groundbreaking progression in the modernization of the judicial process in Argentina.",
+          "link": "https://thedefiant.io/news/regulation/kleros-to-collaborate-with-supreme-court-of-mendoza",
+          "publishedOn": "2024-11-05T21:46:51.000Z",
+          "wordCount": 2351,
+          "title": "Kleros to Collaborate with Supreme Court of Mendoza",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a739e013f708fdcd386bbce14784910659aadfe-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a739e013f708fdcd386bbce14784910659aadfe-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/polymarket-does-more-volume-in-5-days-than-all-of-2023",
+          "author": "Squiffs",
+          "description": "Prediction market volumes are at all-time highs as the odds of a Trump presidency soar.",
+          "link": "https://thedefiant.io/news/defi/polymarket-does-more-volume-in-5-days-than-all-of-2023",
+          "publishedOn": "2024-11-05T21:00:33.000Z",
+          "wordCount": 2397,
+          "title": "Polymarket Does More Volume in 5 Days than All of 2023",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a6e65c4444bc3426daf2a761d651d422a3b3893-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a6e65c4444bc3426daf2a761d651d422a3b3893-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/education/premium-tutorials/level-up-your-solana-memecoin-trading-with-photon",
+          "author": "The Defiant Team",
+          "description": "Photon is a trading platform that lets you trade coins with one click, including those that are yet to graduate to Raydium from PumpFun.",
+          "link": "https://thedefiant.io/education/premium-tutorials/level-up-your-solana-memecoin-trading-with-photon",
+          "publishedOn": "2024-11-05T20:43:16.000Z",
+          "wordCount": 2300,
+          "title": "Level Up Your Solana Memecoin Trading with Photon",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b9363c9edbf0335565c9263fe2a8ab389422e715-795x217.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b9363c9edbf0335565c9263fe2a8ab389422e715-795x217.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/mt-gox-transfers-32371-btc-2-19b-to-unmarked-wallets-50ac0a37",
+          "author": "DeepNewz",
+          "description": "Defunct cryptocurrency exchange Mt. Gox has transferred approximately 32,371 Bitcoin (worth around $2.19 billion)",
+          "link": "https://thedefiant.io/news/markets/mt-gox-transfers-32371-btc-2-19b-to-unmarked-wallets-50ac0a37",
+          "publishedOn": "2024-11-05T20:25:59.000Z",
+          "wordCount": 2156,
+          "title": "Mt. Gox Transfers 32,371 BTC ($2.19B) to Unmarked Wallets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7c1ae4efefb78b50c5cc746bc5412c66605e912-1200x1058.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f7c1ae4efefb78b50c5cc746bc5412c66605e912-1200x1058.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/gary-gensler-expected-to-step-down-sec-chair-crypto-mom-hester-peirce-crypto-dad-987a4a70",
+          "author": "DeepNewz",
+          "description": "Gary Gensler is expected to step down as the SEC Chair following the US elections",
+          "link": "https://thedefiant.io/news/regulation/gary-gensler-expected-to-step-down-sec-chair-crypto-mom-hester-peirce-crypto-dad-987a4a70",
+          "publishedOn": "2024-11-05T20:24:51.000Z",
+          "wordCount": 2238,
+          "title": "Gary Gensler Expected to Step Down as SEC Chair, 'Crypto Mom' Hester Peirce and 'Crypto Dad' Chris Giancarlo Eyed as Successors",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffd20a57a4caff02e1b7ee7ac9aabcef87cb7034-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ffd20a57a4caff02e1b7ee7ac9aabcef87cb7034-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-hits-record-high-surpasses-100-trillion-amid-73700-95cb0685",
+          "author": "DeepNewz",
+          "description": "Bitcoin mining difficulty has reached an all-time high, surpassing 100 trillion for the first time, as reported by Bitcoin Magazine and CoinDesk",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-hits-record-high-surpasses-100-trillion-amid-73700-95cb0685",
+          "publishedOn": "2024-11-05T20:24:05.000Z",
+          "wordCount": 2155,
+          "title": "Bitcoin Mining Difficulty Hits Record High, Surpasses 100 Trillion Amid $73,700 Peak",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88e306c509d37321228813a74107bc585dd4d5a7-750x709.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88e306c509d37321228813a74107bc585dd4d5a7-750x709.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-pyth-etn-on-euronext-amsterdam-paris-today-632aeb0c",
+          "author": "DeepNewz",
+          "description": "Asset management company VanEck has launched the VanEck Pyth exchange-traded note (ETN) on Euronext Amsterdam and Euronext Paris today",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-pyth-etn-on-euronext-amsterdam-paris-today-632aeb0c",
+          "publishedOn": "2024-11-05T20:23:48.000Z",
+          "wordCount": 2116,
+          "title": "VanEck Launches Pyth ETN on Euronext Amsterdam and Paris Today",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f86e329efe614b93755a7a6315e025e54ae616af-950x565.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f86e329efe614b93755a7a6315e025e54ae616af-950x565.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hits-70541-2-2b-inflows-push-aum-to-record-102b-amid-us-election-rally-57e99ca6",
+          "author": "DeepNewz",
+          "description": "Bitcoin surged past $70,000 as U.S. voters headed to the polls on Election Day",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hits-70541-2-2b-inflows-push-aum-to-record-102b-amid-us-election-rally-57e99ca6",
+          "publishedOn": "2024-11-05T20:23:12.000Z",
+          "wordCount": 2215,
+          "title": "Bitcoin Hits $70,541 as $2.2B Inflows Push AUM to Record $102B Amid US Election Rally",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a28ab764a1fc9f8cc427f8243cf2a5162463c3fc-1127x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a28ab764a1fc9f8cc427f8243cf2a5162463c3fc-1127x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/degens-hit-the-memecoin-trenches-to-gamble-on-election",
+          "author": "Squiffs",
+          "description": "Kamala Harris and Donald Trump memecoins are trading in tandem with Polymarket odds and general market sentiment.",
+          "link": "https://thedefiant.io/news/defi/degens-hit-the-memecoin-trenches-to-gamble-on-election",
+          "publishedOn": "2024-11-05T20:10:35.000Z",
+          "wordCount": 2267,
+          "title": "Degens Hit the Memecoin Trenches to Gamble on Election",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d544cceb810c1619d45383da7d58d48bdd7cc133-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d544cceb810c1619d45383da7d58d48bdd7cc133-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/paxos-launches-a-yield-bearing-stablecoin-with-support-from-industry-heave-weights",
+          "author": "Mehab Qureshi",
+          "description": "USDG is backed by Anchorage Digital, Bullish, Galaxy Digital, Kraken, Nuvei, Paxos and Robinhood.",
+          "link": "https://thedefiant.io/news/cefi/paxos-launches-a-yield-bearing-stablecoin-with-support-from-industry-heave-weights",
+          "publishedOn": "2024-11-05T19:11:44.000Z",
+          "wordCount": 2572,
+          "title": "Paxos Launches Yield-Bearing Stablecoin Backed By Industry Heavyweights",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06776200775eb3994f8bc771f8b0046085f5159c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06776200775eb3994f8bc771f8b0046085f5159c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day",
+          "author": "Mehab Qureshi",
+          "description": "Dogecoin soared 12%, the biggest gainer among the Top 100 digital assets.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day",
+          "publishedOn": "2024-11-05T18:26:46.000Z",
+          "wordCount": 2450,
+          "title": "Bitcoin Rallies Above $70,000 On Election Day",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c0480c5b77bcab1feecd05da1f0975d3d3ad6195-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c0480c5b77bcab1feecd05da1f0975d3d3ad6195-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
+          "author": "Mehab Qureshi",
+          "description": "The fund own more than $11 million worth of Ethereum ETF shares.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
+          "publishedOn": "2024-11-05T11:08:00.000Z",
+          "wordCount": 2412,
+          "title": "Michigan Hosts First U.S. Pension Fund to Buy Spot Ethereum ETF Shares",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/curve-proposes-giving-10-of-crvusd-revenue-to-savings-crvusd-holders",
+          "author": "Samuel Haig",
+          "description": "The measure aims to scale crvUSD to stabilize borrow rates and price fluctuations.",
+          "link": "https://thedefiant.io/news/defi/curve-proposes-giving-10-of-crvusd-revenue-to-savings-crvusd-holders",
+          "publishedOn": "2024-11-05T09:36:00.000Z",
+          "wordCount": 2565,
+          "title": "Curve Proposes Giving 10% Of crvUSD Revenue To Savings crvUSD Holders",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d06caaf6cfade2a440bb9c114a38249ed2fb1f7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d06caaf6cfade2a440bb9c114a38249ed2fb1f7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/citi-and-fidelity-announce-on-chain-money-market-fund",
+          "author": "Squiffs",
+          "description": "The move comes just three days after UBS launched its own tokenized product.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/citi-and-fidelity-announce-on-chain-money-market-fund",
+          "publishedOn": "2024-11-04T23:03:07.000Z",
+          "wordCount": 2397,
+          "title": "Citi and Fidelity Announce On-Chain Money Market Fund",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/98a3dabcadfa6dac73c8f8cca7718aff858068a7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/98a3dabcadfa6dac73c8f8cca7718aff858068a7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-loses-259-million-players-amid-86-drop-blockchain-gaming-01e15538",
+          "author": "DeepNewz",
+          "description": "Hamster Kombat, a tap-to-earn game on Telegram, has experienced a significant decline in its user base",
+          "link": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-loses-259-million-players-amid-86-drop-blockchain-gaming-01e15538",
+          "publishedOn": "2024-11-04T21:15:22.000Z",
+          "wordCount": 2187,
+          "title": "Hamster Kombat Loses 259 Million Players Amid 86% Drop and Blockchain Gaming Developments",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69aac926277512f4ca293178b569fa16d67c4937-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69aac926277512f4ca293178b569fa16d67c4937-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/sbi-digital-ubs-complete-pilot-using-chainlink-ccip-tokenized-funds-project-68cba8c9",
+          "author": "DeepNewz",
+          "description": "SBI Digital Markets and UBS Asset Management have successfully completed a pilot project using Chainlink's Cross-Chain Interoperability Protocol (CCIP) to streamline tokenized fund operations across different chains and financial systems",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/sbi-digital-ubs-complete-pilot-using-chainlink-ccip-tokenized-funds-project-68cba8c9",
+          "publishedOn": "2024-11-04T21:15:09.000Z",
+          "wordCount": 2225,
+          "title": "SBI Digital and UBS Complete Pilot Using Chainlink CCIP for Tokenized Funds in Project Guardian",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ab63a0a7670ab3383092bdbdc22ccfa6c76e58f-1114x900.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ab63a0a7670ab3383092bdbdc22ccfa6c76e58f-1114x900.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/solana-surpasses-ethereum-nft-user-adoption-hits-139-million-active-addresses-42-e88cf6db",
+          "author": "DeepNewz",
+          "description": "Solana has surpassed other blockchains, including Ethereum, in monthly NFT user adoption, with 137,000 users and a 37% dominance",
+          "link": "https://thedefiant.io/news/nfts-and-web3/solana-surpasses-ethereum-nft-user-adoption-hits-139-million-active-addresses-42-e88cf6db",
+          "publishedOn": "2024-11-04T21:15:00.000Z",
+          "wordCount": 2168,
+          "title": "Solana Surpasses Ethereum in NFT User Adoption, Hits 139 Million Active Addresses with 42% Increase",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/81a7cf1c644444298eb66126e7427f52f07221f3-1043x575.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/81a7cf1c644444298eb66126e7427f52f07221f3-1043x575.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/deutsche-telekom-germany-s-oldest-bank-launch-bitcoin-mining-pilot-using-surplus-d9bd9bd8",
+          "author": "DeepNewz",
+          "description": "Europe's largest telecommunications company, Deutsche Telekom, has launched a pilot project to mine Bitcoin using surplus renewable energy",
+          "link": "https://thedefiant.io/news/blockchains/deutsche-telekom-germany-s-oldest-bank-launch-bitcoin-mining-pilot-using-surplus-d9bd9bd8",
+          "publishedOn": "2024-11-04T20:20:25.000Z",
+          "wordCount": 2154,
+          "title": "Deutsche Telekom and Germany's Oldest Bank Launch Bitcoin Mining Pilot Using Surplus Renewable Energy",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bff42e51e58c423b210d3502ddbfa1b590dded4f-1200x598.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bff42e51e58c423b210d3502ddbfa1b590dded4f-1200x598.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-warns-rising-crypto-scams-on-whatsapp-telegram-snapchat-018e47b1",
+          "author": "DeepNewz",
+          "description": "The Commodity Futures Trading Commission (CFTC) has issued a warning about the rise of cryptocurrency scams on popular messaging apps such as WhatsApp, Telegram, and SnapChat",
+          "link": "https://thedefiant.io/news/regulation/cftc-warns-rising-crypto-scams-on-whatsapp-telegram-snapchat-018e47b1",
+          "publishedOn": "2024-11-04T20:20:13.000Z",
+          "wordCount": 2186,
+          "title": "CFTC Warns of Rising Crypto Scams on WhatsApp, Telegram, and SnapChat",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/70b1628b3fcdbbbdd2095eabd6aba040e9cbb8f4-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/70b1628b3fcdbbbdd2095eabd6aba040e9cbb8f4-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/rektguy-nft-project-achieves-one-largest-product-sales-222000-rekt-drinks-sold-f9b67cf7",
+          "author": "DeepNewz",
+          "description": "Rektguy, a prominent NFT project, achieved a significant milestone last week by selling 222,000 cans of 'Rekt Drinks' within 48 hours",
+          "link": "https://thedefiant.io/news/nfts-and-web3/rektguy-nft-project-achieves-one-largest-product-sales-222000-rekt-drinks-sold-f9b67cf7",
+          "publishedOn": "2024-11-04T20:19:22.000Z",
+          "wordCount": 2196,
+          "title": "Rektguy NFT Project Achieves One of Largest Product Sales with 222,000 'Rekt Drinks' Sold in 48 Hours",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2205d1df7a4bbb125669bdc7d6d2ef852033b3cf-1014x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2205d1df7a4bbb125669bdc7d6d2ef852033b3cf-1014x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125",
+          "author": "DeepNewz",
+          "description": "The cryptocurrency market is experiencing significant declines, with the ETH/BTC trading pair reaching a new year-to-date low",
+          "link": "https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125",
+          "publishedOn": "2024-11-04T20:19:00.000Z",
+          "wordCount": 2133,
+          "title": "ETH/BTC Hits New Year-to-Date Low and 3.5-Year Low, Lowest Since April 2021",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/92f85811ea22449d22b1a2c0df3f30395b748aeb-1200x769.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92f85811ea22449d22b1a2c0df3f30395b748aeb-1200x769.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18",
+          "author": "DeepNewz",
+          "description": "Magic Eden has announced the launch of full mempool protection, effectively ending the practice of sniping for Ordinals",
+          "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18",
+          "publishedOn": "2024-11-04T20:18:48.000Z",
+          "wordCount": 2145,
+          "title": "Magic Eden Launches Full Mempool Protection, Ending Sniping for Ordinals; Runes Protection Coming Soon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/cartwright-leads-first-uk-pension-scheme-to-invest-bitcoin-largest-3-allocation-a69efa3f",
+          "author": "DeepNewz",
+          "description": "Cartwright, a British pension specialist, has announced a groundbreaking decision to allocate 3% of a UK pension scheme's portfolio to Bitcoin",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/cartwright-leads-first-uk-pension-scheme-to-invest-bitcoin-largest-3-allocation-a69efa3f",
+          "publishedOn": "2024-11-04T20:18:40.000Z",
+          "wordCount": 2227,
+          "title": "Cartwright Leads First UK Pension Scheme to Invest in Bitcoin with Largest 3% Allocation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/10dbf5aa5d785e28d89395335885cb506e1e6331-1080x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/10dbf5aa5d785e28d89395335885cb506e1e6331-1080x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/bitcoin-policy-institute-recommends-u-s-strategic-bitcoin-reserve-to-counter-df17aa03",
+          "author": "DeepNewz",
+          "description": "The Bitcoin Policy Institute has released a 44-page paper recommending the United States develop a Strategic Bitcoin Reserve (SBR)",
+          "link": "https://thedefiant.io/news/regulation/bitcoin-policy-institute-recommends-u-s-strategic-bitcoin-reserve-to-counter-df17aa03",
+          "publishedOn": "2024-11-04T20:18:25.000Z",
+          "wordCount": 2151,
+          "title": "Bitcoin Policy Institute Recommends U.S. Strategic Bitcoin Reserve to Counter China, Worth Billions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a508ef558df4814f04fb981d45cc049c32b2f76-1024x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8a508ef558df4814f04fb981d45cc049c32b2f76-1024x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/elon-musk-becomes-key-trump-donor-dogecoin-rally-speculated-trump-wins-election-8c446520",
+          "author": "DeepNewz",
+          "description": "Elon Musk has emerged as one of Donald Trump's top campaign donors, a development that could have significant implications",
+          "link": "https://thedefiant.io/news/people/elon-musk-becomes-key-trump-donor-dogecoin-rally-speculated-trump-wins-election-8c446520",
+          "publishedOn": "2024-11-04T20:18:12.000Z",
+          "wordCount": 2161,
+          "title": "Elon Musk Becomes Key Trump Donor, Dogecoin Rally Speculated if Trump Wins Election Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/celo-offers-cusd-payments-euler-distributes-3660-reul-tokens-new-reward-programs-df52f976",
+          "author": "DeepNewz",
+          "description": "Celo and Euler are launching new reward initiatives to incentivize participation within their ecosystems",
+          "link": "https://thedefiant.io/news/defi/celo-offers-cusd-payments-euler-distributes-3660-reul-tokens-new-reward-programs-df52f976",
+          "publishedOn": "2024-11-04T20:18:03.000Z",
+          "wordCount": 2203,
+          "title": "Celo Offers cUSD Payments and Euler Distributes 3,660 rEUL Tokens in New Reward Programs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/908a4bdc29ee25890efc6f70be3df77f95ab4fde-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/908a4bdc29ee25890efc6f70be3df77f95ab4fde-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/polymarket-s-us-election-prediction-market-surpasses-3-2-billion-volume-day-cdc0677e",
+          "author": "DeepNewz",
+          "description": "The prediction market for the 2024 US Presidential Election on Polymarket has surpassed $3 billion in volume",
+          "link": "https://thedefiant.io/news/regulation/polymarket-s-us-election-prediction-market-surpasses-3-2-billion-volume-day-cdc0677e",
+          "publishedOn": "2024-11-04T20:17:58.000Z",
+          "wordCount": 2185,
+          "title": "Polymarket's US Election Prediction Market Surpasses $3.2 Billion in Volume a Day Before Election",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3532102c0950d8c9b73de2e37229519b0c22fc3e-1128x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3532102c0950d8c9b73de2e37229519b0c22fc3e-1128x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/opensea-introduces-xp-leaderboard-rewards-system-beta-102fe67a",
+          "author": "DeepNewz",
+          "description": "OpenSea, a leading NFT marketplace, has introduced a new beta feature that includes a leaderboard and rewards system",
+          "link": "https://thedefiant.io/news/nfts-and-web3/opensea-introduces-xp-leaderboard-rewards-system-beta-102fe67a",
+          "publishedOn": "2024-11-04T20:17:56.000Z",
+          "wordCount": 2099,
+          "title": "OpenSea Introduces XP, Leaderboard, and Rewards System in Beta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/metawin-casino-exploited-for-usd4-million",
+          "author": "Squiffs",
+          "description": "The Ethereum and Solana-based casino had its hot wallets compromised through a withdrawal system.",
+          "link": "https://thedefiant.io/news/defi/metawin-casino-exploited-for-usd4-million",
+          "publishedOn": "2024-11-04T18:46:25.000Z",
+          "wordCount": 2196,
+          "title": "Metawin Casino Exploited for $4 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/edd159bf882f76acf3ad6929e9fbbf7fdd742f81-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/edd159bf882f76acf3ad6929e9fbbf7fdd742f81-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-drop-for-sixth-day-ahead-of-u-s-elections",
+          "author": "Mehab Qureshi",
+          "description": "Notwithstanding the lackluster price action, digital asset investment products recorded over $2 billion of inflows in the past week.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-drop-for-sixth-day-ahead-of-u-s-elections",
+          "publishedOn": "2024-11-04T17:50:49.000Z",
+          "wordCount": 2482,
+          "title": "Crypto Markets Drop for Sixth Day Ahead of U.S. Elections",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/33de80659dc794b961ed03d5f9dbbb57d6afae4c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/33de80659dc794b961ed03d5f9dbbb57d6afae4c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees",
+          "author": "Mehab Qureshi",
+          "description": "Web3 projects claim that both Binance and Coinbase have requested sizable listing fees.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-and-binance-face-backlash-over-alleged-listing-fees",
+          "publishedOn": "2024-11-04T16:21:00.000Z",
+          "wordCount": 2683,
+          "title": "Coinbase and Binance Face Backlash Over Alleged Listing Fees",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee08bfaa5978138cf3357405a98e2ab99a3c8d22-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee08bfaa5978138cf3357405a98e2ab99a3c8d22-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
+          "author": "Samuel Haig",
+          "description": "Solana emits $7.62 worth of SOL for every $1 generated in fee revenue.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
+          "publishedOn": "2024-11-04T11:35:00.000Z",
+          "wordCount": 2539,
+          "title": "Ethereum Spends $1.28 Per $1 of Fee Revenue, But Solana Pays Six Times As Much",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4789ba9977dfd55bdc3092b0b9dc9f55e39be2ff-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4789ba9977dfd55bdc3092b0b9dc9f55e39be2ff-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia",
+          "author": "Squiffs",
+          "description": "Asia is now the leading location for blockchain developers.",
+          "link": "https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia",
+          "publishedOn": "2024-11-01T21:33:10.000Z",
+          "wordCount": 2450,
+          "title": "Developers Are Leaving the United States and Europe for Asia",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f7536c9a4fbf57045287cd4a2bb8a768c22dcbf-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f7536c9a4fbf57045287cd4a2bb8a768c22dcbf-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/imx-token-plummets-after-immutable-receives-wells-notice",
+          "author": "Squiffs",
+          "description": "The blockchain gaming project is the latest company to receive a notice from the SEC in 2024.",
+          "link": "https://thedefiant.io/news/regulation/imx-token-plummets-after-immutable-receives-wells-notice",
+          "publishedOn": "2024-11-01T20:44:36.000Z",
+          "wordCount": 2284,
+          "title": "IMX Token Plummets After Immutable Receives Wells Notice",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d375a5956aa2999a3cc2ad764337b4733db2726-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d375a5956aa2999a3cc2ad764337b4733db2726-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations",
+          "author": "Mehab Qureshi",
+          "description": "Bitcoin dipped to $69,000 on Friday.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations",
+          "publishedOn": "2024-11-01T18:16:49.000Z",
+          "wordCount": 2256,
+          "title": "Crypto Market Volatility Triggers $190M in Liquidations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d1eca2b962e137205d8cd16b7a86d4ac21be730-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d1eca2b962e137205d8cd16b7a86d4ac21be730-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/florida-cfo-wants-to-increase-the-state-s-crypto-holdings-from-usd800m-if-trump-wins",
+          "author": "Mehab Qureshi",
+          "description": "A growing number of U.S. states are adding Bitcoin ETF shares to their pension funds.",
+          "link": "https://thedefiant.io/news/regulation/florida-cfo-wants-to-increase-the-state-s-crypto-holdings-from-usd800m-if-trump-wins",
+          "publishedOn": "2024-11-01T14:11:00.000Z",
+          "wordCount": 2576,
+          "title": "Florida May Increase Crypto Holdings From $800M If Trump Wins",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e3092966d948c29c3f476078f640983978c1be60-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3092966d948c29c3f476078f640983978c1be60-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms",
+          "author": "Samuel Haig",
+          "description": "An uptick in non-election betting suggests Polymarket may still enjoy significant adoption after the election.",
+          "link": "https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms",
+          "publishedOn": "2024-11-01T11:50:00.000Z",
+          "wordCount": 2372,
+          "title": "Monthly Polymarket Volume Soars To $2.28 Billion As Election Looms",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f640f10d3977bef7459fbfd8ac26b264ec2fdca9-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f640f10d3977bef7459fbfd8ac26b264ec2fdca9-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/trumps-wlfi-sale-target-slashed-by-90-amid-weak-demand",
+          "author": "Mehab Qureshi",
+          "description": "Galaxy Digital noted that World Liberty Financial is currently “more of an idea than a protocol.”",
+          "link": "https://thedefiant.io/news/tokens/trumps-wlfi-sale-target-slashed-by-90-amid-weak-demand",
+          "publishedOn": "2024-11-01T10:44:00.000Z",
+          "wordCount": 2506,
+          "title": "Trumps’ WLFI Sale Target Slashed By 90% Amid Weak Demand",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/881a4fb6d1973f2990ef731bec18adad18c19538-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/881a4fb6d1973f2990ef731bec18adad18c19538-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/trump-marks-bitcoin-s-16th-anniversary-vows-to-end-crypto-war-free-ross-cec0f455",
+          "author": "DeepNewz",
+          "description": "Former President Donald Trump extended greetings to Bitcoin enthusiasts on the 16th anniversary of Satoshi Nakamoto's white paper, stating, \"I would like to wish our great Bitcoiners a Happy 16th Anniversary of Satoshi’s White Paper\"",
+          "link": "https://thedefiant.io/news/people/trump-marks-bitcoin-s-16th-anniversary-vows-to-end-crypto-war-free-ross-cec0f455",
+          "publishedOn": "2024-10-31T21:40:00.000Z",
+          "wordCount": 2254,
+          "title": "Trump Marks Bitcoin's 16th Anniversary, Vows to End Crypto War and Free Ross",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43b54a9fc5a28d25e153020a4aafdcf91b36c6f5-1125x678.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43b54a9fc5a28d25e153020a4aafdcf91b36c6f5-1125x678.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/solana-dex-volume-surpasses-ethereum-168-processing-14-million-transactions-3c4dac07",
+          "author": "DeepNewz",
+          "description": "Solana has recorded a significant surge in decentralized exchange (DEX) volume, surpassing Ethereum's mainnet by 168%",
+          "link": "https://thedefiant.io/news/defi/solana-dex-volume-surpasses-ethereum-168-processing-14-million-transactions-3c4dac07",
+          "publishedOn": "2024-10-31T21:39:54.000Z",
+          "wordCount": 2117,
+          "title": "Solana DEX Volume Surpasses Ethereum by 168%, Processing 14 Million Transactions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9e90b562c7a05190b4febb3bcc0549bef5af7b95-1118x814.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9e90b562c7a05190b4febb3bcc0549bef5af7b95-1118x814.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/vaneck-invests-gunzilla-games-off-the-grid-web3-triple-game-redacted-group-fund-359a22b2",
+          "author": "DeepNewz",
+          "description": "VanEck has announced a significant investment in Gunzilla Games, the developer of the upcoming Web3 game 'Off The Grid', which is set to be available on PC, Xbox, and PS5",
+          "link": "https://thedefiant.io/news/nfts-and-web3/vaneck-invests-gunzilla-games-off-the-grid-web3-triple-game-redacted-group-fund-359a22b2",
+          "publishedOn": "2024-10-31T21:39:46.000Z",
+          "wordCount": 2264,
+          "title": "VanEck Invests in Gunzilla Games' Off The Grid, a Web3 Triple-A Game; Redacted Group Launches Crypto Fund",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f496751fcbcf853a09790fa0f7fe0db9110a9055-1080x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f496751fcbcf853a09790fa0f7fe0db9110a9055-1080x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tether-reports-7-7-billion-profit-2024-102-5-billion-u-s-treasury-holdings-120-c9e405f1",
+          "author": "DeepNewz",
+          "description": "Tether has reported a strong financial performance for the third quarter of 2024",
+          "link": "https://thedefiant.io/news/defi/tether-reports-7-7-billion-profit-2024-102-5-billion-u-s-treasury-holdings-120-c9e405f1",
+          "publishedOn": "2024-10-31T21:39:41.000Z",
+          "wordCount": 2206,
+          "title": "Tether Reports $7.7 Billion Profit in 2024, $102.5 Billion in U.S. Treasury Holdings, $120 Billion USD₮ Circulation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2bb127dbf9fb24d4ba6827f865114cd29cf64f68-1200x1027.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2bb127dbf9fb24d4ba6827f865114cd29cf64f68-1200x1027.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ethereum-eth-struggles-bear-market-lower-highs-amid-comparisons-to-gold-bitcoin-1318c3b7",
+          "author": "DeepNewz",
+          "description": "The cryptocurrency market continues to experience a downturn, with Ethereum (ETH) showing significant weakness compared to other altcoins",
+          "link": "https://thedefiant.io/news/markets/ethereum-eth-struggles-bear-market-lower-highs-amid-comparisons-to-gold-bitcoin-1318c3b7",
+          "publishedOn": "2024-10-31T21:39:37.000Z",
+          "wordCount": 2186,
+          "title": "Ethereum (ETH) Struggles in Bear Market with Lower Highs Amid Comparisons to Gold and Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6956b6f2c0a684fe9820edc21f655ac60f136894-1200x667.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6956b6f2c0a684fe9820edc21f655ac60f136894-1200x667.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-btc-drops-below-70000-mark-on-october-31-2024-826c429d",
+          "author": "DeepNewz",
+          "description": "Bitcoin ($BTC) has experienced a significant drop, falling below the $70,000 mark on October 31, 2024",
+          "link": "https://thedefiant.io/news/markets/bitcoin-btc-drops-below-70000-mark-on-october-31-2024-826c429d",
+          "publishedOn": "2024-10-31T21:39:33.000Z",
+          "wordCount": 2121,
+          "title": "Bitcoin ($BTC) Drops Below $70,000 Mark on October 31, 2024",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dedc3b7cd755c5f29a5a18371d95ef815597f8b4-1179x1146.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dedc3b7cd755c5f29a5a18371d95ef815597f8b4-1179x1146.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dips-despite-etfs-attracting-nearly-usd900-million",
+          "author": "Mehab Qureshi",
+          "description": "Institutional interest in spot Bitcoin ETFs has continued to surge.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dips-despite-etfs-attracting-nearly-usd900-million",
+          "publishedOn": "2024-10-31T18:01:00.000Z",
+          "wordCount": 2299,
+          "title": "Bitcoin Dips Despite ETFs Attracting Nearly $900 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/486ca04c135869eed1871b7169cfe1104f078be5-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/486ca04c135869eed1871b7169cfe1104f078be5-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall",
+          "author": "yyctrader",
+          "description": "The FRIDGE token reached a $9 million market capitalization on Oct. 29 but has since plunged 80%.",
+          "link": "https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall",
+          "publishedOn": "2024-10-31T17:10:42.000Z",
+          "wordCount": 2491,
+          "title": "Student Launches Solana Memecoin from Samsung Fridge in Mall",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dad4b324e37bd3423ab8146f692656744b4490e7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dad4b324e37bd3423ab8146f692656744b4490e7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release",
+          "author": "Mehab Qureshi",
+          "description": "Zhao was sentenced after he pleaded guilty to violating the Bank Secrecy Act (BSA).",
+          "link": "https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release",
+          "publishedOn": "2024-10-31T16:58:09.000Z",
+          "wordCount": 2625,
+          "title": "Binance Co-Founder CZ Returns to Spotlight After Prison Release",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c0627437c8c34816925d6da025efd05cc3ec3e5-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c0627437c8c34816925d6da025efd05cc3ec3e5-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/zircuit-airdrops-zrc-to-190-000-eigen-holders",
+          "author": "Samuel Haig",
+          "description": "Zircuit has airdropped its native token in equal amounts to 190,000 EIGEN holders.",
+          "link": "https://thedefiant.io/news/tokens/zircuit-airdrops-zrc-to-190-000-eigen-holders",
+          "publishedOn": "2024-10-31T16:00:00.000Z",
+          "wordCount": 2457,
+          "title": "Zircuit Airdrops ZRC To 190,000 EIGEN Holders",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/74f33b2bb27f7197edbebaa70eae119fa742e889-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/74f33b2bb27f7197edbebaa70eae119fa742e889-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/aragon-announces-new-foundation-to-help-steer-the-dao-management-project",
+          "author": "Squiffs",
+          "description": "The foundation council will feature established builders from the Ethereum community, including Polygon Co-founder Sandeep and Sacha from Lido.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/aragon-announces-new-foundation-to-help-steer-the-dao-management-project",
+          "publishedOn": "2024-10-31T14:46:47.000Z",
+          "wordCount": 2428,
+          "title": "Aragon Announces New Foundation to Help Steer the DAO Management Project",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef221b7d06cdfd8d1fa866c7c5d6d6be39037196-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef221b7d06cdfd8d1fa866c7c5d6d6be39037196-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/base-ships-fault-proof-in-bid-for-stage-1-decentralization",
+          "author": "Samuel Haig",
+          "description": "Anyone can now propose or challenge Base state roots for mainnet validation.",
+          "link": "https://thedefiant.io/news/blockchains/base-ships-fault-proof-in-bid-for-stage-1-decentralization",
+          "publishedOn": "2024-10-31T11:17:00.000Z",
+          "wordCount": 2709,
+          "title": "Base Ships Fault Proofs In Bid For Stage 1 Decentralization",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec47aaa78311cc616e9ac2b37890dbe188e0bdd8-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ec47aaa78311cc616e9ac2b37890dbe188e0bdd8-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/memecoin-speculators-push-zachxbt-s-free-nfts-to-usd12-million-market-cap",
+          "author": "yyctrader",
+          "description": "The commemorative ‘Investigations’ NFT is interchangeable with an ERC20 token tradeable on Uniswap, using Zora’s onchain secondary market feature.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/memecoin-speculators-push-zachxbt-s-free-nfts-to-usd12-million-market-cap",
+          "publishedOn": "2024-10-31T09:24:33.000Z",
+          "wordCount": 2373,
+          "title": "Memecoin Speculators Push ZachXBT’s Free NFTs to $12 Million Market Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/268e93bc7ed8dff1654ee2320737aca2d2e39cca-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/268e93bc7ed8dff1654ee2320737aca2d2e39cca-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings",
+          "author": "Mehab Qureshi",
+          "description": "Coinbase’s Q3 revenue rose 81% year-over-year to $1.13 billion but missed the $1.26 billion forecast by analysts.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings",
+          "publishedOn": "2024-10-31T08:56:00.000Z",
+          "wordCount": 2573,
+          "title": "Coinbase Announces $1 Billion Share Buyback and Q3 Earnings",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/314bd349d4bba4c99540353ef2176f97ea46ee7d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/314bd349d4bba4c99540353ef2176f97ea46ee7d-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management",
+          "author": "Squiffs",
+          "description": "The asset management group will be launching the Delta Wellington Ultra Short Treasury On-Chain Fund with Ondo.",
+          "link": "https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management",
+          "publishedOn": "2024-10-31T00:48:18.000Z",
+          "wordCount": 2351,
+          "title": "Ondo Finance Partners with Trillion Dollar Wellington Management",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8085fa3c73be428cc55f58bc5eb301d1e0ea9bb-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8085fa3c73be428cc55f58bc5eb301d1e0ea9bb-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/solayer-launches-rwa-backed-stablecoin-susd",
+          "author": "Squiffs",
+          "description": "The U.S Treasury Bill-backed stablecoin is the first RWA synthetic stablecoin.",
+          "link": "https://thedefiant.io/news/defi/solayer-launches-rwa-backed-stablecoin-susd",
+          "publishedOn": "2024-10-30T19:36:55.000Z",
+          "wordCount": 2201,
+          "title": "Solayer Launches RWA-Backed Stablecoin, sUSD",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/03b13cd04d2ec49fc2150156c112d74c4d4f20b8-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03b13cd04d2ec49fc2150156c112d74c4d4f20b8-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1",
+          "author": "DeepNewz",
+          "description": "Microsoft shareholders have begun voting on whether the company should invest in Bitcoin for its $3 trillion corporate treasury",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1",
+          "publishedOn": "2024-10-30T19:00:04.000Z",
+          "wordCount": 2172,
+          "title": "Microsoft Shareholders Begin Voting on $3 Trillion Bitcoin Investment Despite Opposition",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478",
+          "author": "DeepNewz",
+          "description": "Analysts from Chaos Labs and Inca Digital have uncovered evidence of rampant wash trading on Polymarket, a leading electoral betting site",
+          "link": "https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478",
+          "publishedOn": "2024-10-30T18:59:02.000Z",
+          "wordCount": 2124,
+          "title": "Analysts Find One-Third of Polymarket's Presidential Market Volume Tied to Wash Trading",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitwise-cio-matt-hougan-predicts-bitcoin-surpass-100000-foresees-new-all-time-4ec62d47",
+          "author": "DeepNewz",
+          "description": "Matt Hougan, Chief Investment Officer at Bitwise Asset Management, expressed optimism regarding Bitcoin's future, predicting the cryptocurrency will surpass $100,000",
+          "link": "https://thedefiant.io/news/markets/bitwise-cio-matt-hougan-predicts-bitcoin-surpass-100000-foresees-new-all-time-4ec62d47",
+          "publishedOn": "2024-10-30T18:58:54.000Z",
+          "wordCount": 2157,
+          "title": "Bitwise CIO Matt Hougan Predicts Bitcoin Will Surpass $100,000, Foresees New All-Time Highs in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/charity-auction-bridging-worlds-raises-funds-unhcr-initiatives-50-works-acquired-e134eaa8",
+          "author": "DeepNewz",
+          "description": "A charity auction titled 'Bridging Worlds' has successfully raised funds in support of UNHCR's innovation initiatives",
+          "link": "https://thedefiant.io/news/nfts-and-web3/charity-auction-bridging-worlds-raises-funds-unhcr-initiatives-50-works-acquired-e134eaa8",
+          "publishedOn": "2024-10-30T18:58:39.000Z",
+          "wordCount": 2139,
+          "title": "Charity Auction 'Bridging Worlds' Raises Funds for UNHCR Initiatives, 50% of Works Acquired by Non-Crypto Collectors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/reddit-sells-majority-btc-eth-treasury-holdings-before-october-rally-sec-filing-db356bd8",
+          "author": "DeepNewz",
+          "description": "Reddit has disclosed in an SEC filing that it sold the majority of its cryptocurrency portfolio, primarily consisting of Bitcoin (BTC) and Ethereum (ETH), before the significant price rally in October",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/reddit-sells-majority-btc-eth-treasury-holdings-before-october-rally-sec-filing-db356bd8",
+          "publishedOn": "2024-10-30T18:58:21.000Z",
+          "wordCount": 2225,
+          "title": "Reddit Sells Majority of BTC and ETH Treasury Holdings Before October Rally, SEC Filing Reveals",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9354f966b6eb895398f74a4296c6faca9bc408e-1200x800.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9354f966b6eb895398f74a4296c6faca9bc408e-1200x800.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dips-after-testing-all-time-high",
+          "author": "Mehab Qureshi",
+          "description": "The global cryptocurrency market cap is down 1.6% to $2.52 trillion in the past 24 hours.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dips-after-testing-all-time-high",
+          "publishedOn": "2024-10-30T17:50:35.000Z",
+          "wordCount": 2336,
+          "title": "Bitcoin Dips after Testing All-Time High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c1e1fb1870fa763e05c6d385c2347df0485aa005-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1e1fb1870fa763e05c6d385c2347df0485aa005-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dydx-slashes-workforce-by-35-despite-bullish-crypto-market",
+          "author": "Mehab Qureshi",
+          "description": "DYdX is currently gearing up to launch its Unlimited upgrade.",
+          "link": "https://thedefiant.io/news/defi/dydx-slashes-workforce-by-35-despite-bullish-crypto-market",
+          "publishedOn": "2024-10-30T16:02:00.000Z",
+          "wordCount": 2581,
+          "title": "DYdX Slashes Workforce By 35% Despite Bullish Crypto Market",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/09fb233b5fd715e42f4e9ab0e55b618aa657d02f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/09fb233b5fd715e42f4e9ab0e55b618aa657d02f-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade",
+          "author": "Samuel Haig",
+          "description": "The long-awaited upgrade also paves the way for the launch of Stacks’ sBTC token.",
+          "link": "https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade",
+          "publishedOn": "2024-10-30T12:38:00.000Z",
+          "wordCount": 2434,
+          "title": "Stacks Unlocks Fast Blocks and ‘Bitcoin Finality’ With Nakamoto Upgrade",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0e9ba4d63084072589536fa75793d38f739bf35a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0e9ba4d63084072589536fa75793d38f739bf35a-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct",
+          "author": "Mehab Qureshi",
+          "description": "The news comes as Coinbase is looking to reclaim USD market share from Crypto.com.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct",
+          "publishedOn": "2024-10-30T10:40:00.000Z",
+          "wordCount": 2388,
+          "title": "Coinbase Integrates Support For Visa Direct",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/64f23b6e1e78fc52b705a3f463048d17733a12b7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64f23b6e1e78fc52b705a3f463048d17733a12b7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/synthetix-proposes-acquiring-kwenta-from-tokenholders",
+          "author": "Samuel Haig",
+          "description": "Synthetix is looking to regain control over its most popular front-end, with Kwenta driving $60 billion in volume over four years.",
+          "link": "https://thedefiant.io/news/defi/synthetix-proposes-acquiring-kwenta-from-tokenholders",
+          "publishedOn": "2024-10-30T07:57:00.000Z",
+          "wordCount": 2559,
+          "title": "Synthetix Proposes Acquiring Kwenta From Tokenholders",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/adf5cab1ac9e92e2ef8937a8fa72a75a452cf757-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/adf5cab1ac9e92e2ef8937a8fa72a75a452cf757-1555x875.png"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
