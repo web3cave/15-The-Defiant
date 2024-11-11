@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
+          "author": "Samuel Haig and Mehab Qureshi",
+          "description": "The complaint alleges that FTX customers’ assets were used to fund a share repurchase deal from Binance.",
+          "link": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
+          "publishedOn": "2024-11-11T16:19:00.000Z",
+          "wordCount": 2622,
+          "title": "FTX Sues Binance Over $1.76B Share Repurchase Deal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/62643b92753f63b2d39d83682f18392eaa1840ba-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/62643b92753f63b2d39d83682f18392eaa1840ba-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ens-is-developing-a-zk-layer-2",
           "author": "Samuel Haig",
           "description": "ENS Labs aims to launch the zkEVM Layer 2 by the end of next year.",
@@ -1454,21 +1469,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9354f966b6eb895398f74a4296c6faca9bc408e-1200x800.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-dips-after-testing-all-time-high",
-          "author": "Mehab Qureshi",
-          "description": "The global cryptocurrency market cap is down 1.6% to $2.52 trillion in the past 24 hours.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-dips-after-testing-all-time-high",
-          "publishedOn": "2024-10-30T17:50:35.000Z",
-          "wordCount": 2326,
-          "title": "Bitcoin Dips after Testing All-Time High",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c1e1fb1870fa763e05c6d385c2347df0485aa005-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1e1fb1870fa763e05c6d385c2347df0485aa005-1555x875.png"
         }
       ]
     }
