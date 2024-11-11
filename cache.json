@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ens-is-developing-a-zk-layer-2",
+          "author": "Samuel Haig",
+          "description": "ENS Labs aims to launch the zkEVM Layer 2 by the end of next year.",
+          "link": "https://thedefiant.io/news/blockchains/ens-is-developing-a-zk-layer-2",
+          "publishedOn": "2024-11-11T14:42:00.000Z",
+          "wordCount": 2438,
+          "title": "ENS Is Developing a ZK Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a677b5b747967b7023e62f59e5b9143a7cca8fba-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a677b5b747967b7023e62f59e5b9143a7cca8fba-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/education/premium-tutorials/using-cielo-to-track-top-onchain-traders",
           "author": "The Defiant Team",
           "description": "Today, I’ll show you how to set up wallet alerts using Cielo, which will help you to follow profitable traders and hopefully, find the next big trade early.",
@@ -56,7 +71,7 @@
           "description": "After an alleged three months of attempted migration, Degenchain says Conduit “refused to take ownership for damages” to the Degen community.",
           "link": "https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles",
           "publishedOn": "2024-11-09T17:06:52.000Z",
-          "wordCount": 2353,
+          "wordCount": 2357,
           "title": "Degenchain Blames Conduit for Migration Struggles",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/11feb43f3cae45578a69b3fae4843ae3c0645bf6-1555x875.png",
@@ -71,7 +86,7 @@
           "description": "Many election traders on Polymarket promptly removed their funds from Polygon as soon as the election markets closed.",
           "link": "https://thedefiant.io/news/blockchains/polygon-tvl-drops-20-as-polymarket-fever-cools",
           "publishedOn": "2024-11-08T23:55:57.000Z",
-          "wordCount": 2199,
+          "wordCount": 2203,
           "title": "Polygon TVL Drops 20% as Polymarket Fever Cools",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c9768bbd2130fe7cb2511c508ed0d8eb5c8d04f-1555x875.png",
@@ -101,7 +116,7 @@
           "description": "Ethereum Foundation researchers taking paid positions at third-party projects has been an issue of community contention in recent months.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-publishes-conflict-of-interest-policy",
           "publishedOn": "2024-11-08T14:44:00.000Z",
-          "wordCount": 2589,
+          "wordCount": 2593,
           "title": "Ethereum Foundation Reveals Conflict Of Interest Policy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f424349db35768be16ca438fc8b76ce12bae43-1555x875.png",
@@ -321,7 +336,7 @@
           "description": "The Ethereum Foundation has released its 2024 financial report, revealing it holds $970M",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-reveals-970-2m-assets-october-31-2024-81-3-crypto-1441b4b9",
           "publishedOn": "2024-11-08T12:41:16.000Z",
-          "wordCount": 2128,
+          "wordCount": 2132,
           "title": "Ethereum Foundation Reveals $970.2M in Assets as of October 31, 2024, with 81.3% in Crypto",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e787eadcc5b5e4fc2ec5f630c6f21ac76d3bdd62-1024x768.jpg",
@@ -381,7 +396,7 @@
           "description": "The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.",
           "link": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
           "publishedOn": "2024-11-07T19:08:17.000Z",
-          "wordCount": 2225,
+          "wordCount": 2229,
           "title": "Eclipse Launches Public Mainnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png",
@@ -411,7 +426,7 @@
           "description": "The Ethereum community is rallying behind Protocol Guild, a collective funding mechanism supporting 181 Ethereum core protocol developers.",
           "link": "https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development",
           "publishedOn": "2024-11-07T13:42:00.000Z",
-          "wordCount": 2670,
+          "wordCount": 2674,
           "title": "Protocol Guild Has Distributed $20M To Support Ethereum Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca705a452dbcd411c4a0d0deffd607d677f673fc-1555x875.png",
@@ -456,7 +471,7 @@
           "description": "Historically, Bitcoin Core development discussions took place by email and on the BitcoinTalk.org forum.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
           "publishedOn": "2024-11-07T08:34:00.000Z",
-          "wordCount": 2541,
+          "wordCount": 2545,
           "title": "Bitcoin-dev Archives Purged From Linux, Re-Homed On Google Groups",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png",
@@ -666,7 +681,7 @@
           "description": "Bitcoin mining difficulty has reached an all-time high, surpassing 100 trillion for the first time, as reported by Bitcoin Magazine and CoinDesk",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-hits-record-high-surpasses-100-trillion-amid-73700-95cb0685",
           "publishedOn": "2024-11-05T20:24:05.000Z",
-          "wordCount": 2155,
+          "wordCount": 2159,
           "title": "Bitcoin Mining Difficulty Hits Record High, Surpasses 100 Trillion Amid $73,700 Peak",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88e306c509d37321228813a74107bc585dd4d5a7-750x709.jpg",
@@ -846,7 +861,7 @@
           "description": "Europe's largest telecommunications company, Deutsche Telekom, has launched a pilot project to mine Bitcoin using surplus renewable energy",
           "link": "https://thedefiant.io/news/blockchains/deutsche-telekom-germany-s-oldest-bank-launch-bitcoin-mining-pilot-using-surplus-d9bd9bd8",
           "publishedOn": "2024-11-04T20:20:25.000Z",
-          "wordCount": 2154,
+          "wordCount": 2158,
           "title": "Deutsche Telekom and Germany's Oldest Bank Launch Bitcoin Mining Pilot Using Surplus Renewable Energy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bff42e51e58c423b210d3502ddbfa1b590dded4f-1200x598.jpg",
@@ -1041,7 +1056,7 @@
           "description": "Solana emits $7.62 worth of SOL for every $1 generated in fee revenue.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-spends-usd1-28-per-usd1-of-fee-revenue-but-solana-pays-six-times-as-much",
           "publishedOn": "2024-11-04T11:35:00.000Z",
-          "wordCount": 2539,
+          "wordCount": 2543,
           "title": "Ethereum Spends $1.28 Per $1 of Fee Revenue, But Solana Pays Six Times As Much",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4789ba9977dfd55bdc3092b0b9dc9f55e39be2ff-1555x875.png",
@@ -1056,7 +1071,7 @@
           "description": "Asia is now the leading location for blockchain developers.",
           "link": "https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia",
           "publishedOn": "2024-11-01T21:33:10.000Z",
-          "wordCount": 2450,
+          "wordCount": 2454,
           "title": "Developers Are Leaving the United States and Europe for Asia",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f7536c9a4fbf57045287cd4a2bb8a768c22dcbf-1555x875.png",
@@ -1311,7 +1326,7 @@
           "description": "Anyone can now propose or challenge Base state roots for mainnet validation.",
           "link": "https://thedefiant.io/news/blockchains/base-ships-fault-proof-in-bid-for-stage-1-decentralization",
           "publishedOn": "2024-10-31T11:17:00.000Z",
-          "wordCount": 2709,
+          "wordCount": 2713,
           "title": "Base Ships Fault Proofs In Bid For Stage 1 Decentralization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec47aaa78311cc616e9ac2b37890dbe188e0bdd8-1555x875.png",
@@ -1454,21 +1469,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1e1fb1870fa763e05c6d385c2347df0485aa005-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/dydx-slashes-workforce-by-35-despite-bullish-crypto-market",
-          "author": "Mehab Qureshi",
-          "description": "DYdX is currently gearing up to launch its Unlimited upgrade.",
-          "link": "https://thedefiant.io/news/defi/dydx-slashes-workforce-by-35-despite-bullish-crypto-market",
-          "publishedOn": "2024-10-30T16:02:00.000Z",
-          "wordCount": 2577,
-          "title": "DYdX Slashes Workforce By 35% Despite Bullish Crypto Market",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/09fb233b5fd715e42f4e9ab0e55b618aa657d02f-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/09fb233b5fd715e42f4e9ab0e55b618aa657d02f-1555x875.png"
         }
       ]
     }
