@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-11T13:16:16.436Z</id>
+    <id>urn:2024-11-11T14:08:59.832Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-11T13:16:16.436Z</updated>
+    <updated>2024-11-11T14:08:59.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using Cielo to Track Top Onchain Traders]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/using-cielo-to-track-top-onchain-traders</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/using-cielo-to-track-top-onchain-traders"/>
+        <updated>2024-11-11T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, I’ll show you how to set up wallet alerts using Cielo, which will help you to follow profitable traders and hopefully, find the next big trade early.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avara Launches Non-Custodial Ethereum Wallet]]></title>
         <id>https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[DYdX is currently gearing up to launch its Unlimited upgrade.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacks Unlocks Fast Blocks and ‘Bitcoin Finality’ With Nakamoto Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/stacks-unlocks-fast-blocks-and-bitcoin-finality-with-nakamoto-upgrade"/>
-        <updated>2024-10-30T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited upgrade also paves the way for the launch of Stacks’ sBTC token.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
