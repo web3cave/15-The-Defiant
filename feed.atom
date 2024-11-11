@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-11T12:15:13.749Z</id>
+    <id>urn:2024-11-11T13:16:16.436Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-11T12:15:13.749Z</updated>
+    <updated>2024-11-11T13:16:16.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avara Launches Non-Custodial Ethereum Wallet]]></title>
+        <id>https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet</id>
+        <link href="https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet"/>
+        <updated>2024-11-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Avara's wallet, Family, supports several features catering to advanced DeFi users.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A16z Predicts Bright Future for Crypto Under Trump]]></title>
         <id>https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release</id>
         <link href="https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release"/>
         <updated>2024-10-31T16:58:09.000Z</updated>
-        <summary type="html"><![CDATA[In his first appearance after serving time in jail, former Binance chief executive officer (CEO) Changpeng Zhao, widely known as "CZ," said he still owns shares in the cryptocurrency exchange but cannot make decisions.]]></summary>
+        <summary type="html"><![CDATA[Zhao was sentenced after he pleaded guilty to violating the Bank Secrecy Act (BSA).]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The long-awaited upgrade also paves the way for the launch of Stacks’ sBTC token.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Integrates Support For Visa Direct]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct"/>
-        <updated>2024-10-30T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The news comes as Coinbase is looking to reclaim USD market share from Crypto.com.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
