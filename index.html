@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-12 datetime="2024-11-12T10:43:00.000Z">2024-11-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-12 datetime="2024-11-12T10:43:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/blockchains/justin-drake-proposes-beam-chain-overhaul-for-ethereum"
+                        open
+                      >
+                        <summary class="article-expander__title">Justin Drake Proposes Beam Chain Overhaul For Ethereum</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/blockchains/justin-drake-proposes-beam-chain-overhaul-for-ethereum">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/f1027981809bb5a783aaa929c404961f6c3f9082-1792x1024.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The proposed Beam Chain overhaul would upgrade Ethereum&#x27;s staking and block production mechanism, and modernize its cryptography.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-11 datetime="2024-11-11T22:24:25.000Z">2024-11-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-11 datetime="2024-11-11T22:24:25.000Z"></time>
           </button>
@@ -2301,25 +2349,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/nfts-and-web3/charity-auction-bridging-worlds-raises-funds-unhcr-initiatives-50-works-acquired-e134eaa8"
-                        open
-                      >
-                        <summary class="article-expander__title">Charity Auction &#x27;Bridging Worlds&#x27; Raises Funds for UNHCR Initiatives, 50% of Works Acquired by Non-Crypto Collectors</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/nfts-and-web3/charity-auction-bridging-worlds-raises-funds-unhcr-initiatives-50-works-acquired-e134eaa8">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>A charity auction titled &#x27;Bridging Worlds&#x27; has successfully raised funds in support of UNHCR&#x27;s innovation initiatives</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2327,8 +2356,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/11795039679">
-        <time id="build-timestamp" datetime="2024-11-12T10:08:38.147Z">2024-11-12T10:08:38.147Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/11795997611">
+        <time id="build-timestamp" datetime="2024-11-12T11:06:52.875Z">2024-11-12T11:06:52.875Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
