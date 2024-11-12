@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/pendle-announces-leveraged-yield-tokenization-platform",
+          "author": "Samuel Haig",
+          "description": "The new protocol, Boros, will first facilitate funding rate tokenization.",
+          "link": "https://thedefiant.io/news/defi/pendle-announces-leveraged-yield-tokenization-platform",
+          "publishedOn": "2024-11-12T15:16:00.000Z",
+          "wordCount": 2426,
+          "title": "Pendle Announces Leveraged Yield Tokenization Platform",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4dad241c6928fee5997d7c272ca8c7aeb341eb1d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4dad241c6928fee5997d7c272ca8c7aeb341eb1d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec",
           "author": "Mehab Qureshi",
           "description": "Trump’s team is reportedly looking to fill key roles at the CFTC, FDIC, and OCC as well.",
@@ -1469,16 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478",
-          "author": "DeepNewz",
-          "description": "Analysts from Chaos Labs and Inca Digital have uncovered evidence of rampant wash trading on Polymarket, a leading electoral betting site",
-          "link": "https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478",
-          "publishedOn": "2024-10-30T18:59:02.000Z",
-          "wordCount": null,
-          "title": "Analysts Find One-Third of Polymarket's Presidential Market Volume Tied to Wash Trading",
-          "imageUrl": null
         }
       ]
     }
