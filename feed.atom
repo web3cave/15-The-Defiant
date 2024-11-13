@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-13T07:08:01.240Z</id>
+    <id>urn:2024-11-13T08:11:09.369Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-13T07:08:01.240Z</updated>
+    <updated>2024-11-13T08:11:09.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-reaches-new-all-time-high-90000-today-c903b7f4"/>
         <updated>2024-11-13T01:10:06.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin has reached a new all-time high of $90,000 for the first time today, marking a significant milestone in its history]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal Integrates LayerZero for PYUSD Transfers Between Ethereum and Solana Using LayerZero]]></title>
+        <id>https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360</id>
+        <link href="https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360"/>
+        <updated>2024-11-13T01:09:47.000Z</updated>
+        <summary type="html"><![CDATA[PayPal has announced the integration of its stablecoin, PayPal USD (PYUSD), with LayerZero, enabling seamless transfers between the Ethereum and Solana blockchains]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18"/>
         <updated>2024-11-04T20:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Magic Eden has announced the launch of full mempool protection, effectively ending the practice of sniping for Ordinals]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -993,16 +1002,6 @@
         <summary type="html"><![CDATA[A growing number of U.S. states are adding Bitcoin ETF shares to their pension funds.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monthly Polymarket Volume Soars To $2.28 Billion As Election Looms]]></title>
-        <id>https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms</id>
-        <link href="https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms"/>
-        <updated>2024-11-01T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[An uptick in non-election betting suggests Polymarket may still enjoy significant adoption after the election.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
