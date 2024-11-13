@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-13T14:07:55.124Z</id>
+    <id>urn:2024-11-13T15:08:13.999Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-13T14:07:55.124Z</updated>
+    <updated>2024-11-13T15:08:13.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lens Launches V3 Testnet For Developers]]></title>
+        <id>https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers</id>
+        <link href="https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers"/>
+        <updated>2024-11-13T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The new iteration will introduce a slew of turn-key social features for developers alongside smart contract-based data storage.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal USD Integrates LayerZero To Unlock Cross-Chain Transfers]]></title>
         <id>https://thedefiant.io/news/tokens/paypal-usd-integrates-layerzero-to-unlock-cross-chain-transfers</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Dogecoin is our Chart of the Week]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers Are Leaving the United States and Europe for Asia]]></title>
-        <id>https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia</id>
-        <link href="https://thedefiant.io/news/blockchains/developers-are-leaving-the-united-states-and-europe-for-asia"/>
-        <updated>2024-11-01T21:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Asia is now the leading location for blockchain developers.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
