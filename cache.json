@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/unichain-halted-after-early-developer-access-gets-leaked",
+          "author": "Squiffs",
+          "description": "The team claims early access was leaked, while others accuse the team of making a mistake.",
+          "link": "https://thedefiant.io/news/blockchains/unichain-halted-after-early-developer-access-gets-leaked",
+          "publishedOn": "2024-11-13T11:40:49.000Z",
+          "wordCount": 2230,
+          "title": "Unichain Halted After Early Developer Access Gets Leaked",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/623756df86e736a768fc25dd5002744ff4158c00-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/623756df86e736a768fc25dd5002744ff4158c00-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/consenys-linea-targets-token-launch-by-q2-2025",
           "author": "Mehab Qureshi",
           "description": "LINEA will primarily provide governance utility, in addition to supporting payments and DeFi use cases.",
@@ -281,7 +296,7 @@
           "description": "The proposed Beam Chain overhaul would upgrade Ethereum's staking and block production mechanism, and modernize its cryptography.",
           "link": "https://thedefiant.io/news/blockchains/justin-drake-proposes-beam-chain-overhaul-for-ethereum",
           "publishedOn": "2024-11-12T10:43:00.000Z",
-          "wordCount": 2813,
+          "wordCount": 2805,
           "title": "Justin Drake Proposes Beam Chain Overhaul For Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dba0af1ee92269ada5aabd282373a198afcdfc44-1555x875.png",
@@ -356,7 +371,7 @@
           "description": "ENS Labs aims to launch the zkEVM Layer 2 by the end of next year.",
           "link": "https://thedefiant.io/news/blockchains/ens-is-developing-a-zk-layer-2",
           "publishedOn": "2024-11-11T14:42:00.000Z",
-          "wordCount": 2428,
+          "wordCount": 2421,
           "title": "ENS Is Developing a ZK Layer 2",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a677b5b747967b7023e62f59e5b9143a7cca8fba-1555x875.png",
@@ -416,7 +431,7 @@
           "description": "After an alleged three months of attempted migration, Degenchain says Conduit “refused to take ownership for damages” to the Degen community.",
           "link": "https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles",
           "publishedOn": "2024-11-09T17:06:52.000Z",
-          "wordCount": 2347,
+          "wordCount": 2340,
           "title": "Degenchain Blames Conduit for Migration Struggles",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/11feb43f3cae45578a69b3fae4843ae3c0645bf6-1555x875.png",
@@ -431,7 +446,7 @@
           "description": "Many election traders on Polymarket promptly removed their funds from Polygon as soon as the election markets closed.",
           "link": "https://thedefiant.io/news/blockchains/polygon-tvl-drops-20-as-polymarket-fever-cools",
           "publishedOn": "2024-11-08T23:55:57.000Z",
-          "wordCount": 2193,
+          "wordCount": 2186,
           "title": "Polygon TVL Drops 20% as Polymarket Fever Cools",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c9768bbd2130fe7cb2511c508ed0d8eb5c8d04f-1555x875.png",
@@ -681,7 +696,7 @@
           "description": "The Ethereum Foundation has released its 2024 financial report, revealing it holds $970M",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-reveals-970-2m-assets-october-31-2024-81-3-crypto-1441b4b9",
           "publishedOn": "2024-11-08T12:41:16.000Z",
-          "wordCount": 2122,
+          "wordCount": 2115,
           "title": "Ethereum Foundation Reveals $970.2M in Assets as of October 31, 2024, with 81.3% in Crypto",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e787eadcc5b5e4fc2ec5f630c6f21ac76d3bdd62-1024x768.jpg",
@@ -741,7 +756,7 @@
           "description": "The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.",
           "link": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
           "publishedOn": "2024-11-07T19:08:17.000Z",
-          "wordCount": 2219,
+          "wordCount": 2212,
           "title": "Eclipse Launches Public Mainnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png",
@@ -771,7 +786,7 @@
           "description": "The Ethereum community is rallying behind Protocol Guild, a collective funding mechanism supporting 181 Ethereum core protocol developers.",
           "link": "https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development",
           "publishedOn": "2024-11-07T13:42:00.000Z",
-          "wordCount": 2664,
+          "wordCount": 2657,
           "title": "Protocol Guild Has Distributed $20M To Support Ethereum Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca705a452dbcd411c4a0d0deffd607d677f673fc-1555x875.png",
@@ -816,7 +831,7 @@
           "description": "Historically, Bitcoin Core development discussions took place by email and on the BitcoinTalk.org forum.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
           "publishedOn": "2024-11-07T08:34:00.000Z",
-          "wordCount": 2535,
+          "wordCount": 2528,
           "title": "Bitcoin-dev Archives Purged From Linux, Re-Homed On Google Groups",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png",
@@ -1026,7 +1041,7 @@
           "description": "Bitcoin mining difficulty has reached an all-time high, surpassing 100 trillion for the first time, as reported by Bitcoin Magazine and CoinDesk",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-hits-record-high-surpasses-100-trillion-amid-73700-95cb0685",
           "publishedOn": "2024-11-05T20:24:05.000Z",
-          "wordCount": 2149,
+          "wordCount": 2142,
           "title": "Bitcoin Mining Difficulty Hits Record High, Surpasses 100 Trillion Amid $73,700 Peak",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88e306c509d37321228813a74107bc585dd4d5a7-750x709.jpg",
@@ -1206,7 +1221,7 @@
           "description": "Europe's largest telecommunications company, Deutsche Telekom, has launched a pilot project to mine Bitcoin using surplus renewable energy",
           "link": "https://thedefiant.io/news/blockchains/deutsche-telekom-germany-s-oldest-bank-launch-bitcoin-mining-pilot-using-surplus-d9bd9bd8",
           "publishedOn": "2024-11-04T20:20:25.000Z",
-          "wordCount": 2148,
+          "wordCount": 2141,
           "title": "Deutsche Telekom and Germany's Oldest Bank Launch Bitcoin Mining Pilot Using Surplus Renewable Energy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bff42e51e58c423b210d3502ddbfa1b590dded4f-1200x598.jpg",
@@ -1469,21 +1484,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d375a5956aa2999a3cc2ad764337b4733db2726-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations",
-          "author": "Mehab Qureshi",
-          "description": "Bitcoin dipped to $69,000 on Friday.",
-          "link": "https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations",
-          "publishedOn": "2024-11-01T18:16:49.000Z",
-          "wordCount": 2238,
-          "title": "Crypto Market Volatility Triggers $190M in Liquidations",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d1eca2b962e137205d8cd16b7a86d4ac21be730-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d1eca2b962e137205d8cd16b7a86d4ac21be730-1555x875.png"
         }
       ]
     }
