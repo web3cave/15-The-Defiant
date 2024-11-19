@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march",
+          "author": "Squiffs",
+          "description": "Activity on the chain dropped significantly after its token launch, but has picked up in the last week.",
+          "link": "https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march",
+          "publishedOn": "2024-11-19T21:46:09.000Z",
+          "wordCount": 2189,
+          "title": "StarkNet Activity Hits Highest Level Since March",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5410f94976382de3c13d417ba5afc6f3655efbf7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5410f94976382de3c13d417ba5afc6f3655efbf7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ai-tokens-rebound-amid-bitcoin-rally",
+          "author": "Joel Lim",
+          "description": "Near Protocol (NEAR), Internet Computer (ICP), and Render (RENDER) are leading the rally.",
+          "link": "https://thedefiant.io/news/markets/ai-tokens-rebound-amid-bitcoin-rally",
+          "publishedOn": "2024-11-19T21:00:05.000Z",
+          "wordCount": 2334,
+          "title": "AI Tokens Rebound Amid Bitcoin Rally",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf941a0bddde58f47485938476651fa58b9c5cc5-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf941a0bddde58f47485938476651fa58b9c5cc5-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/markets-rally-as-bitcoin-etf-options-go-live",
           "author": "Mehab Qureshi",
           "description": "Spot Bitcoin ETFs logged $255 million in net inflows on Nov. 18.",
@@ -296,7 +326,7 @@
           "description": "Memecoins and AI tokens on Base are surging, with the weekly transaction count hitting a new high.",
           "link": "https://thedefiant.io/news/blockchains/base-tokens-rebound-as-chain-activity-hits-all-time-high",
           "publishedOn": "2024-11-16T10:54:37.000Z",
-          "wordCount": 2183,
+          "wordCount": 2164,
           "title": "Base Tokens Rebound as Chain Activity Hits All-time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/afeae46bbfe8be7533da0974e092b14f97d18774-1555x875.png",
@@ -826,7 +856,7 @@
           "description": "The team claims early access was leaked, while others accuse the team of making a mistake.",
           "link": "https://thedefiant.io/news/blockchains/unichain-halted-after-early-developer-access-gets-leaked",
           "publishedOn": "2024-11-13T11:40:49.000Z",
-          "wordCount": 2249,
+          "wordCount": 2230,
           "title": "Unichain Halted After Early Developer Access Gets Leaked",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/623756df86e736a768fc25dd5002744ff4158c00-1555x875.png",
@@ -1096,7 +1126,7 @@
           "description": "The proposed Beam Chain overhaul would upgrade Ethereum's staking and block production mechanism, and modernize its cryptography.",
           "link": "https://thedefiant.io/news/blockchains/justin-drake-proposes-beam-chain-overhaul-for-ethereum",
           "publishedOn": "2024-11-12T10:43:00.000Z",
-          "wordCount": 2824,
+          "wordCount": 2805,
           "title": "Justin Drake Proposes Beam Chain Overhaul For Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dba0af1ee92269ada5aabd282373a198afcdfc44-1555x875.png",
@@ -1171,7 +1201,7 @@
           "description": "ENS Labs aims to launch the zkEVM Layer 2 by the end of next year.",
           "link": "https://thedefiant.io/news/blockchains/ens-is-developing-a-zk-layer-2",
           "publishedOn": "2024-11-11T14:42:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2421,
           "title": "ENS Is Developing a ZK Layer 2",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a677b5b747967b7023e62f59e5b9143a7cca8fba-1555x875.png",
@@ -1213,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump",
           "author": "Mehab Qureshi",
-          "description": "The major crypto VC anticipates a shift from “regulation by enforcement” to a more constructive legislative approach.",
+          "description": "Andreessen Horowitz expects a shift from “regulation by enforcement” to a more constructive legislation regarding crypto under Trump.",
           "link": "https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump",
           "publishedOn": "2024-11-11T11:39:00.000Z",
           "wordCount": 2646,
@@ -1231,7 +1261,7 @@
           "description": "After an alleged three months of attempted migration, Degenchain says Conduit “refused to take ownership for damages” to the Degen community.",
           "link": "https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles",
           "publishedOn": "2024-11-09T17:06:52.000Z",
-          "wordCount": 2359,
+          "wordCount": 2340,
           "title": "Degenchain Blames Conduit for Migration Struggles",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/11feb43f3cae45578a69b3fae4843ae3c0645bf6-1555x875.png",
@@ -1246,7 +1276,7 @@
           "description": "Many election traders on Polymarket promptly removed their funds from Polygon as soon as the election markets closed.",
           "link": "https://thedefiant.io/news/blockchains/polygon-tvl-drops-20-as-polymarket-fever-cools",
           "publishedOn": "2024-11-08T23:55:57.000Z",
-          "wordCount": 2205,
+          "wordCount": 2186,
           "title": "Polygon TVL Drops 20% as Polymarket Fever Cools",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c9768bbd2130fe7cb2511c508ed0d8eb5c8d04f-1555x875.png",
@@ -1276,7 +1306,7 @@
           "description": "Ethereum Foundation researchers taking paid positions at third-party projects has been an issue of community contention in recent months.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-publishes-conflict-of-interest-policy",
           "publishedOn": "2024-11-08T14:44:00.000Z",
-          "wordCount": 2585,
+          "wordCount": 2583,
           "title": "Ethereum Foundation Reveals Conflict Of Interest Policy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f424349db35768be16ca438fc8b76ce12bae43-1555x875.png",
@@ -1459,36 +1489,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd7d029aca1f0d86ae20d90074744224b1e3b6f9-1024x768.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-surges-30-three-days-to-200-eyes-260-amid-bullish-momentum-d50db8de",
-          "author": "DeepNewz",
-          "description": "Solana (SOL) has experienced a significant surge in value, reaching $200 for the first time since July",
-          "link": "https://thedefiant.io/news/markets/solana-surges-30-three-days-to-200-eyes-260-amid-bullish-momentum-d50db8de",
-          "publishedOn": "2024-11-08T12:41:25.000Z",
-          "wordCount": 2195,
-          "title": "Solana Surges 30% in Three Days to $200, Eyes $260 Amid Bullish Momentum",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9eddb1f04c0797d720fa3cc3d9d90d0cb3c9f67-1061x589.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e9eddb1f04c0797d720fa3cc3d9d90d0cb3c9f67-1061x589.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ai-da-robot-s-ai-god-portrait-alan-turing-fetches-record-1-32-million-sotheby-s-58856f1a",
-          "author": "DeepNewz",
-          "description": "A portrait of English mathematician Alan Turing, created by the humanoid robot artist Ai-Da, sold for a record $1.32M",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ai-da-robot-s-ai-god-portrait-alan-turing-fetches-record-1-32-million-sotheby-s-58856f1a",
-          "publishedOn": "2024-11-08T12:41:21.000Z",
-          "wordCount": 2149,
-          "title": "Ai-Da Robot's 'AI God' Portrait of Alan Turing Fetches Record $1.32 Million at Sotheby's",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aed5bf7548b38b82ed2272233da35c3c2c591cb-634x865.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7aed5bf7548b38b82ed2272233da35c3c2c591cb-634x865.jpg"
         }
       ]
     }
