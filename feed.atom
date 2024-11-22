@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-22T04:11:01.409Z</id>
+    <id>urn:2024-11-22T05:08:48.386Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-22T04:11:01.409Z</updated>
+    <updated>2024-11-22T05:08:48.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Community Celebrates Court Rejecting SEC Dealer Rule]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule"/>
+        <updated>2024-11-22T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The despised Dealer Rule sought to expand the definition of a financial dealer to encompass DeFi liquidity providers.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Reportedly in Talks Over Solana Spot ETF]]></title>
         <id>https://thedefiant.io/news/regulation/sec-reportedly-in-talks-over-solana-spot-etf</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The major crypto VC anticipates a shift from “regulation by enforcement” to a more constructive legislative approach.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Degenchain Blames Conduit for Migration Struggles]]></title>
-        <id>https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles</id>
-        <link href="https://thedefiant.io/news/blockchains/degenchain-blames-conduit-for-migration-struggles"/>
-        <updated>2024-11-09T17:06:52.000Z</updated>
-        <summary type="html"><![CDATA[After an alleged three months of attempted migration, Degenchain says Conduit “refused to take ownership for damages” to the Degen community.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
