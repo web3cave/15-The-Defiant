@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/daos-fun-launches-v3-upgrade",
+          "author": "Squiffs",
+          "description": "The DAO fundraising platform has added staking to earn fees on its top products.",
+          "link": "https://thedefiant.io/news/defi/daos-fun-launches-v3-upgrade",
+          "publishedOn": "2024-11-22T22:06:14.000Z",
+          "wordCount": 2350,
+          "title": "DAOs.Fun Launches V3 Upgrade",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/804118af0daf370cb176153b679a9a1f17b079be-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/804118af0daf370cb176153b679a9a1f17b079be-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/ai-agent-tokens-rebound-to-fresh-highs",
           "author": "Squiffs",
           "description": "Many AI tokens sold off as traders chased TikTok memecoins, but the winners have bounced back to new highs.",
@@ -101,8 +116,8 @@
           "description": "Solana fees are currently outpacing Ethereum L2s by orders of magnitude.",
           "link": "https://thedefiant.io/news/blockchains/could-solana-s-surging-solana-fees-create-a-congestion-crisis",
           "publishedOn": "2024-11-22T11:18:00.000Z",
-          "wordCount": 2434,
-          "title": "Could Solana’s Surging Solana Fees Create A Congestion Crisis?",
+          "wordCount": 2427,
+          "title": "Could Solana’s Surging Fees Create A Congestion Crisis?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5857792267860c6b15ce27eb6b6c8de536dc7c8b-1555x875.png",
             "length": "1000000",
@@ -251,7 +266,7 @@
           "description": "The Sui blockchain has experienced a significant outage, failing to produce any blocks for over an hour, with the downtime first reported at 9:15 AM UTC",
           "link": "https://thedefiant.io/news/blockchains/sui-blockchain-down-over-hour-no-blocks-since-9-15-utc-50eaff41",
           "publishedOn": "2024-11-21T11:26:10.000Z",
-          "wordCount": 2165,
+          "wordCount": 2154,
           "title": "Sui Blockchain Down for Over an Hour, No Blocks Since 9:15 AM UTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd48d8c217d31f5f992900bcbf47e0a912e7ff62-1080x1080.jpg",
@@ -266,7 +281,7 @@
           "description": "The Layer 1 blockchain’s key metrics are growing at a parabolic pace, with DEX volumes more than double those of Ethereum.",
           "link": "https://thedefiant.io/news/blockchains/solana-ecosystem-continues-to-gain-market-share-from-ethereum",
           "publishedOn": "2024-11-21T11:21:45.000Z",
-          "wordCount": 2253,
+          "wordCount": 2240,
           "title": "Solana Ecosystem Continues to Gain Market Share from Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/92f47b21226da6ede4b9019a6a9058ef2c0c1dcb-1555x875.png",
@@ -281,7 +296,7 @@
           "description": "Litecoin became the subject of controversy after its new mascot was launched as a meme coin.",
           "link": "https://thedefiant.io/news/blockchains/litecoin-distances-itself-from-lester-memecoin",
           "publishedOn": "2024-11-21T10:18:52.000Z",
-          "wordCount": 2373,
+          "wordCount": 2360,
           "title": "Litecoin Distances Itself from Lester Memecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5efe73732c49e2e48b84c6df2b75dff6994624b5-1555x875.png",
@@ -356,7 +371,7 @@
           "description": "Activity on the chain dropped significantly after its token launch, but has picked up in the last week.",
           "link": "https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march",
           "publishedOn": "2024-11-19T21:46:09.000Z",
-          "wordCount": 2205,
+          "wordCount": 2192,
           "title": "StarkNet Activity Hits Highest Level Since March",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5410f94976382de3c13d417ba5afc6f3655efbf7-1555x875.png",
@@ -671,7 +686,7 @@
           "description": "Memecoins and AI tokens on Base are surging, with the weekly transaction count hitting a new high.",
           "link": "https://thedefiant.io/news/blockchains/base-tokens-rebound-as-chain-activity-hits-all-time-high",
           "publishedOn": "2024-11-16T10:54:37.000Z",
-          "wordCount": 2180,
+          "wordCount": 2167,
           "title": "Base Tokens Rebound as Chain Activity Hits All-time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/afeae46bbfe8be7533da0974e092b14f97d18774-1555x875.png",
@@ -1479,21 +1494,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dba0af1ee92269ada5aabd282373a198afcdfc44-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/markets-solid-range-breakout",
-          "author": "yyctrader",
-          "description": "Raydium is the Chart of the Week.",
-          "link": "https://thedefiant.io/education/premium-tutorials/markets-solid-range-breakout",
-          "publishedOn": "2024-11-12T01:02:00.000Z",
-          "wordCount": 2235,
-          "title": "Markets - Solid Range Breakout",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png"
         }
       ]
     }
