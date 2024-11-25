@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-25T11:07:14.755Z</id>
+    <id>urn:2024-11-25T12:16:21.295Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-25T11:07:14.755Z</updated>
+    <updated>2024-11-25T12:16:21.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base’s Daily Throughput Exceeds 100 Transactions Per Second]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second</id>
+        <link href="https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second"/>
+        <updated>2024-11-25T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Base is now the top Layer 2 network by DeFi TVL, decentralized exchange volume, and throughput.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Market Cap of Ethena's USDe Stablecoin Surged 60% In Six Weeks]]></title>
         <id>https://thedefiant.io/news/defi/market-cap-of-ethena-s-usde-stablecoin-surged-60-in-six-weeks</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tokens/consenys-linea-targets-token-launch-by-q2-2025</id>
         <link href="https://thedefiant.io/news/tokens/consenys-linea-targets-token-launch-by-q2-2025"/>
         <updated>2024-11-13T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Linea plans to launch a native token by Q2 2025 as part of its decentralization roadmap.]]></summary>
+        <summary type="html"><![CDATA[LINEA will primarily provide governance utility, in addition to supporting payments and DeFi use cases.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The new protocol, Boros, will first facilitate funding rate tokenization.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Considers Pro-Crypto Officials To Head SEC]]></title>
-        <id>https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec</id>
-        <link href="https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec"/>
-        <updated>2024-11-12T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s team is reportedly looking to fill key roles at the CFTC, FDIC, and OCC as well.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
