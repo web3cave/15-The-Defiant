@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark",
+          "author": "Joel Lim",
+          "description": "Trump Media and Technology Group recently filed a trademark application for a crypto payment solution called TruthFi.",
+          "link": "https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark",
+          "publishedOn": "2024-11-25T18:41:44.000Z",
+          "wordCount": 2362,
+          "title": "Trump’s Media Company Files Crypto Payments Trademark",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06c18abe768986462dc95b193815ca1069e0c7e4-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06c18abe768986462dc95b193815ca1069e0c7e4-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-trades-flat-amid-usd500-million-of-crypto-liquidations",
+          "author": "Mehab Qureshi",
+          "description": "Most major altcoins posted gains, with Ethereum and Ripple up 4% and 8%, respectively.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-trades-flat-amid-usd500-million-of-crypto-liquidations",
+          "publishedOn": "2024-11-25T18:07:21.000Z",
+          "wordCount": 2319,
+          "title": "Bitcoin Trades Flat Amid $500 Million of Crypto Liquidations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3213495808a99debb4bb1b79946b64cfccdf06d2-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3213495808a99debb4bb1b79946b64cfccdf06d2-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/tornado-cash-developer-alexey-pertsev-s-detention-prolonged",
           "author": "Mehab Qureshi",
           "description": "Alexey Pertsev is waiting to appeal a five-year prison sentence.",
@@ -1243,7 +1273,7 @@
         {
           "id": "https://thedefiant.io/news/tokens/paypal-usd-integrates-layerzero-to-unlock-cross-chain-transfers",
           "author": "Samuel Haig",
-          "description": "PayPal USD has integrated LayerZero's Omnichain Fungible Token to enable cross-chain transfers between Solana and Ethereum.",
+          "description": "PYUSD holders can now transfer the token between Ethereum and Solana.",
           "link": "https://thedefiant.io/news/tokens/paypal-usd-integrates-layerzero-to-unlock-cross-chain-transfers",
           "publishedOn": "2024-11-13T13:23:00.000Z",
           "wordCount": 2377,
@@ -1464,36 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fcd65044d51306bef2a76357db86ac66d0a13c01-968x918.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
-          "author": "DeepNewz",
-          "description": "On November 12, 2024, over $1 billion in leveraged cryptocurrency positions were liquidated as Bitcoin reached a record high of $89,000",
-          "link": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
-          "publishedOn": "2024-11-12T17:44:16.000Z",
-          "wordCount": 2157,
-          "title": "$1 Billion in Leveraged Crypto Positions Liquidated as Bitcoin Hits $89,000; $709 Million Liquidated at $81,000",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/trump-s-victory-propels-bitcoin-to-90k-record-highs-crypto-market-cap-hits-3-0b9e112f",
-          "author": "DeepNewz",
-          "description": "Following Donald Trump's recent U.S. presidential election victory, Bitcoin has surged to new record highs, reaching $90,000.",
-          "link": "https://thedefiant.io/news/markets/trump-s-victory-propels-bitcoin-to-90k-record-highs-crypto-market-cap-hits-3-0b9e112f",
-          "publishedOn": "2024-11-12T17:44:10.000Z",
-          "wordCount": 2185,
-          "title": "Trump's Victory Propels Bitcoin to $90k Record Highs, Crypto Market Cap Hits $3 Trillion",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bdabb10395f8fba9d4ffe98f56bc8e4091306f1-1200x706.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5bdabb10395f8fba9d4ffe98f56bc8e4091306f1-1200x706.jpg"
         }
       ]
     }
