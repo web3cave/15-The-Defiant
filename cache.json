@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/people/cardano-founder-charles-hoskinson-says-btc-will-reach-usd500k-in-two-years",
+          "author": "Joel Lim",
+          "description": "Says growing government interest in the asset will drive this growth.",
+          "link": "https://thedefiant.io/news/people/cardano-founder-charles-hoskinson-says-btc-will-reach-usd500k-in-two-years",
+          "publishedOn": "2024-11-27T19:44:42.000Z",
+          "wordCount": 2423,
+          "title": "Cardano Founder Charles Hoskinson Says BTC Will Reach $500k in Two Years",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f29d1d536ea510878bfa0d4ca9b07f92f752a09-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f29d1d536ea510878bfa0d4ca9b07f92f752a09-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/binance-launches-yield-bearing-bfusd-for-futures-trading",
+          "author": "Jona Jaupi",
+          "description": "The company promises the asset’s APY will “never fall below zero.”",
+          "link": "https://thedefiant.io/news/cefi/binance-launches-yield-bearing-bfusd-for-futures-trading",
+          "publishedOn": "2024-11-27T19:27:21.000Z",
+          "wordCount": 2351,
+          "title": "Binance Launches Yield-Bearing BFUSD for Futures Trading",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0808bd7ba4e05a2954a693508e05c21df598c44e-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0808bd7ba4e05a2954a693508e05c21df598c44e-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-rebound-after-two-day-decline",
           "author": "Mehab Qureshi",
           "description": "The Crypto Fear & Greed Index has dipped to 73.",
@@ -341,7 +371,7 @@
           "description": "Donald Trump, the President-elect of the United States, reportedly holds over $5.4 million in cryptocurrency.",
           "link": "https://thedefiant.io/news/people/donald-trump-holds-over-5-4m-crypto-largest-u-s-president-ethereum-top-asset-ad8936c4",
           "publishedOn": "2024-11-26T08:44:08.000Z",
-          "wordCount": 2130,
+          "wordCount": 2132,
           "title": "Donald Trump Holds Over $5.4M in Crypto, Largest by a U.S. President, with Ethereum as Top Asset",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0872b8b1b81d4f668d201863216943767f320d44-1125x787.jpg",
@@ -356,7 +386,7 @@
           "description": "Zhao Changpeng, the founder of Binance, has expressed concerns about the current state of meme coins, stating that they are becoming \"a little weird now",
           "link": "https://thedefiant.io/news/people/binance-founder-zhao-changpeng-calls-focus-on-real-applications-amid-concerns-d6563ab5",
           "publishedOn": "2024-11-26T08:41:28.000Z",
-          "wordCount": 2218,
+          "wordCount": 2220,
           "title": "Binance Founder Zhao Changpeng Calls for Focus on Real Applications Amid Concerns Over Two BNBChain Memecoins' Sharp Price Drop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e34e317c235fa0b9bdd4404e51ab446da7bfa52d-1179x801.jpg",
@@ -1076,7 +1106,7 @@
           "description": "The world’s largest crypto exchange is set to launch a high-yield stablecoin.",
           "link": "https://thedefiant.io/news/cefi/binance-announces-new-stablecoin-offering-19-55-yield",
           "publishedOn": "2024-11-18T20:14:22.000Z",
-          "wordCount": 2137,
+          "wordCount": 2136,
           "title": "Binance Announces New Stablecoin Offering 19.55% Yield",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b6b1dcf86b9cc76cf40f70b714089470ce068ef2-1555x875.png",
@@ -1326,7 +1356,7 @@
           "description": "On November 13, 2024, the event titled \"Every AI Agent Deserves a Wallet\" was held, featuring discussions on the integration of AI agents with blockchain technology",
           "link": "https://thedefiant.io/news/cefi/coinbase-stripe-launch-ai-agent-integrations-every-ai-agent-deserves-wallet-on-7a29f62f",
           "publishedOn": "2024-11-15T09:25:00.000Z",
-          "wordCount": 2264,
+          "wordCount": 2263,
           "title": "Coinbase and Stripe Launch AI Agent Integrations at 'Every AI Agent Deserves a Wallet' Event on November 13",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/384308c2d100a3a35fdfc5d5ae22d73a39fefd55-1200x796.jpg",
@@ -1464,36 +1494,6 @@
           "wordCount": 2145,
           "title": "MicroStrategy's Bitcoin Holdings Reach $24 Billion with 27,200 BTC; Saylor Plans $42 Billion Raise Before 2-3 Years",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-consolidates-around-usd90-000-amid-record-etf-inflows",
-          "author": "Mehab Qureshi",
-          "description": "Analysts attributed Bitcoin's rally to substantial inflows from spot ETFs.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-consolidates-around-usd90-000-amid-record-etf-inflows",
-          "publishedOn": "2024-11-15T00:18:19.000Z",
-          "wordCount": 2314,
-          "title": "Bitcoin Consolidates Around $90,000 Amid Record ETF Inflows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/db8be922a479b23c368c25b3e7f0d84151dff7bb-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/db8be922a479b23c368c25b3e7f0d84151dff7bb-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/fbi-raids-polymarket-ceo-s-home-over-alleged-u-s-betting-violations",
-          "author": "Mehab Qureshi",
-          "description": "The booming prediction market platform began geo-blocking U.S. users in 2022, but U.S. residents reportedly turned to VPNs to access the website.",
-          "link": "https://thedefiant.io/news/regulation/fbi-raids-polymarket-ceo-s-home-over-alleged-u-s-betting-violations",
-          "publishedOn": "2024-11-14T13:28:00.000Z",
-          "wordCount": 2497,
-          "title": "FBI Raids Polymarket CEO’s Home Over Alleged U.S. Betting Violations",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3149d639b199a76990f705260482317632896289-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3149d639b199a76990f705260482317632896289-1555x875.png"
         }
       ]
     }
