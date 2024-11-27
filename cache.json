@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/pump-science-warns-against-fraudulent-tokens-after-private-key-compromise",
+          "author": "Samuel Haig",
+          "description": "The project mistakenly published the private key for its developer wallet in its codebase.",
+          "link": "https://thedefiant.io/news/hacks/pump-science-warns-against-fraudulent-tokens-after-private-key-compromise",
+          "publishedOn": "2024-11-27T14:14:00.000Z",
+          "wordCount": 2381,
+          "title": "Pump Science Warns Against Fraudulent Tokens After Private Key Compromise",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3fafbf1059caf24eab4c7ede0152ad7a593326dd-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3fafbf1059caf24eab4c7ede0152ad7a593326dd-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/btc-backed-usda-soars-to-usd230m-tvl-in-two-weeks",
           "author": "Samuel Haig",
           "description": "USDa’s growth has contributed to BitLayer’s TVL doubling over the past month.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/pennsylvania-house-moves-to-create-strategic-bitcoin-reserve",
           "author": "Samuel Haig",
-          "description": "House representatives want to earmark up to 10% of the state's $7 billion strategic reserve assets for buying Bitcoin.",
+          "description": "Pennsylvania House representatives want to allocate up to 10% of the state's $7 billion strategic reserve assets to buying Bitcoin.",
           "link": "https://thedefiant.io/news/regulation/pennsylvania-house-moves-to-create-strategic-bitcoin-reserve",
           "publishedOn": "2024-11-15T14:07:00.000Z",
           "wordCount": 2594,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/18-u-s-states-sue-gary-gensler-s-sec-over-crypto-crackdown",
           "author": "Mehab Qureshi",
-          "description": "The SEC is facing legal backlash from 18 U.S. states and the DeFi Education Fund over for its aggressive campaign against web3 firms.",
+          "description": "The plaintiffs argue that the SEC’s actions have stifled innovation.",
           "link": "https://thedefiant.io/news/regulation/18-u-s-states-sue-gary-gensler-s-sec-over-crypto-crackdown",
           "publishedOn": "2024-11-15T12:14:00.000Z",
           "wordCount": 2691,
@@ -1479,21 +1494,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0659b11d797493664e9bb3a547693836dae87f49-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/zksync-token-assembly-passes-325m-zk-liquidity-program",
-          "author": "Samuel Haig",
-          "description": "The program aims to promote DeFi liquidity and minimize slippage for traders interacting with ZKsync’s Elastic Chain ecosystem.",
-          "link": "https://thedefiant.io/news/defi/zksync-token-assembly-passes-325m-zk-liquidity-program",
-          "publishedOn": "2024-11-14T07:23:00.000Z",
-          "wordCount": 2599,
-          "title": "ZKsync Token Assembly Passes 325M ZK Liquidity Program",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/025d70595ac89c002c7efe6983e21af1ef2caa5b-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/025d70595ac89c002c7efe6983e21af1ef2caa5b-1555x875.png"
         }
       ]
     }
