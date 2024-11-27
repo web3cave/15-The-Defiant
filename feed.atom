@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-27T13:20:19.341Z</id>
+    <id>urn:2024-11-27T14:08:03.194Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-27T13:20:19.341Z</updated>
+    <updated>2024-11-27T14:08:03.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC-Backed USDa Soars To $230M Market Cap In Two Weeks]]></title>
+        <id>https://thedefiant.io/news/defi/btc-backed-usda-soars-to-usd230m-tvl-in-two-weeks</id>
+        <link href="https://thedefiant.io/news/defi/btc-backed-usda-soars-to-usd230m-tvl-in-two-weeks"/>
+        <updated>2024-11-27T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[USDa’s growth has contributed to BitLayer’s TVL doubling over the past month.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple Introduces Tokenized Money Market Fund on XRP Ledger in RWA Push]]></title>
         <id>https://thedefiant.io/news/blockchains/ripple-introduces-tokenized-money-market-fund-on-xrp-ledger-in-rwa-push</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/18-u-s-states-sue-gary-gensler-s-sec-over-crypto-crackdown</id>
         <link href="https://thedefiant.io/news/regulation/18-u-s-states-sue-gary-gensler-s-sec-over-crypto-crackdown"/>
         <updated>2024-11-15T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The plaintiffs argue that the SEC’s actions have stifled innovation.]]></summary>
+        <summary type="html"><![CDATA[The SEC is facing legal backlash from 18 U.S. states and the DeFi Education Fund over for its aggressive campaign against web3 firms.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/solana-dex-volume-smashes-previous-record-by-double</id>
         <link href="https://thedefiant.io/news/markets/solana-dex-volume-smashes-previous-record-by-double"/>
         <updated>2024-11-15T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Activity on Solana-based DEXes is exploding, with weekly volume surging past $30 billion.]]></summary>
+        <summary type="html"><![CDATA[Solana DEXes are pushing more than $6 billion in daily volume.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The program aims to promote DeFi liquidity and minimize slippage for traders interacting with ZKsync’s Elastic Chain ecosystem.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blackrock Launches BUIDL on Five New Blockchains]]></title>
-        <id>https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains</id>
-        <link href="https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains"/>
-        <updated>2024-11-14T07:08:50.000Z</updated>
-        <summary type="html"><![CDATA[The largest tokenized Treasury fund is now offering shares on Aptos, Arbitrum Avalanche, Optimism, and Polygon.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
