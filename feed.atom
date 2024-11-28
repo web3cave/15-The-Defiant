@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-28T15:08:43.506Z</id>
+    <id>urn:2024-11-28T16:09:56.012Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-28T15:08:43.506Z</updated>
+    <updated>2024-11-28T16:09:56.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Memecoin Mania Drives Record Monthly DEX Volume]]></title>
+        <id>https://thedefiant.io/news/markets/memecoin-mania-drives-record-monthly-dex-volume</id>
+        <link href="https://thedefiant.io/news/markets/memecoin-mania-drives-record-monthly-dex-volume"/>
+        <updated>2024-11-28T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[DEX volumes on Solana and Ethereum Layer 2s are at all-time highs.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Receives Filing For Bitwise 10 Crypto Index ETF]]></title>
         <id>https://thedefiant.io/news/cefi/sec-receives-filing-for-bitwise-10-crypto-index-etf</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/ethena-foundation-approves-fee-switch</id>
         <link href="https://thedefiant.io/news/defi/ethena-foundation-approves-fee-switch"/>
         <updated>2024-11-18T17:50:56.000Z</updated>
-        <summary type="html"><![CDATA[The governance risk committee aims to enable revenue sharing with token holders by Nov 30]]></summary>
+        <summary type="html"><![CDATA[Ethena, the DeFi protocol behind the USDe stablecoin, is set to turn on its fee switch by the end of the month after governance voted to approve the proposal.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/spark-liquidity-layer-to-unlock-multi-chain-functionality-for-sky-s-usds-stablecoin</id>
         <link href="https://thedefiant.io/news/defi/spark-liquidity-layer-to-unlock-multi-chain-functionality-for-sky-s-usds-stablecoin"/>
         <updated>2024-11-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spark is launching a liquidity layer to unlock cross-chain functionality for Sky's USDS stablecoin.]]></summary>
+        <summary type="html"><![CDATA[The liquidity layer will allow users to deposit or withdraw USDS via multiple networks.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Eighteen U.S. states, including Kentucky, Nebraska, and Texas, have filed a federal lawsuit against the Securities and Exchange Commission (SEC) and its Chair, Gary Gensler]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Activity Picks Up on Token Speculation]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/opensea-activity-picks-up-on-token-speculation</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/opensea-activity-picks-up-on-token-speculation"/>
-        <updated>2024-11-15T06:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Volume and market share of the NFT marketplace are beginning to bounce back after reports that OpenSea will share details on its token launch next month.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
