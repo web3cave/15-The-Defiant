@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-02T20:08:10.069Z</id>
+    <id>urn:2024-12-02T21:07:50.319Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-02T20:08:10.069Z</updated>
+    <updated>2024-12-02T21:07:50.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nike’s RTFKT NFT Project to Shut Down Operations]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/nike-s-rtfkt-nft-project-to-shut-down-operations</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/nike-s-rtfkt-nft-project-to-shut-down-operations"/>
+        <updated>2024-12-02T20:49:57.000Z</updated>
+        <summary type="html"><![CDATA[The RTFKT team collected nearly $100 million in royalties since its launch in 2021, and investors are now calling it a rug pull.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Dominates Crypto Derivatives Market After Airdrop]]></title>
         <id>https://thedefiant.io/news/markets/hyperliquid-dominates-crypto-derivatives-market-after-airdrop</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/could-solana-s-surging-solana-fees-create-a-congestion-crisis</id>
         <link href="https://thedefiant.io/news/blockchains/could-solana-s-surging-solana-fees-create-a-congestion-crisis"/>
         <updated>2024-11-22T11:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Solana fees are currently outpacing Ethereum L2s by orders of magnitude.]]></summary>
+        <summary type="html"><![CDATA[Solana's blocks are 80% full following a surge in activity and transaction fees.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule</id>
         <link href="https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule"/>
         <updated>2024-11-22T05:03:00.000Z</updated>
-        <summary type="html"><![CDATA[A Texas court struck down the SEC's despised Dealer Rule in the latest blow to the Gary Gensler-led SEC's campaign against crypto.]]></summary>
+        <summary type="html"><![CDATA[The despised Dealer Rule sought to expand the definition of a financial dealer to encompass DeFi liquidity providers.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Michael Saylor-owned company sold approximately 13.6 million of its shares to fund the purchase.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkNet Activity Hits Highest Level Since March]]></title>
-        <id>https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march</id>
-        <link href="https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march"/>
-        <updated>2024-11-19T21:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Activity on the chain dropped significantly after its token launch, but has picked up in the last week.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

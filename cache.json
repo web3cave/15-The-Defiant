@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/nike-s-rtfkt-nft-project-to-shut-down-operations",
+          "author": "Squiffs",
+          "description": "The RTFKT team collected nearly $100 million in royalties since its launch in 2021, and investors are now calling it a rug pull.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/nike-s-rtfkt-nft-project-to-shut-down-operations",
+          "publishedOn": "2024-12-02T20:49:57.000Z",
+          "wordCount": 2505,
+          "title": "Nike’s RTFKT NFT Project to Shut Down Operations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e75eda9e8f2a70f216fac5c3c594e312517ead3d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e75eda9e8f2a70f216fac5c3c594e312517ead3d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/hyperliquid-dominates-crypto-derivatives-market-after-airdrop",
           "author": "Jona Jaupi",
           "description": "The platform surpasses competitors including dYdX, SynFutures and ApeX Protocol, capturing about half of total daily trading volume.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/could-solana-s-surging-solana-fees-create-a-congestion-crisis",
           "author": "Samuel Haig",
-          "description": "Solana fees are currently outpacing Ethereum L2s by orders of magnitude.",
+          "description": "Solana's blocks are 80% full following a surge in activity and transaction fees.",
           "link": "https://thedefiant.io/news/blockchains/could-solana-s-surging-solana-fees-create-a-congestion-crisis",
           "publishedOn": "2024-11-22T11:18:00.000Z",
           "wordCount": 2429,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule",
           "author": "Samuel Haig",
-          "description": "A Texas court struck down the SEC's despised Dealer Rule in the latest blow to the Gary Gensler-led SEC's campaign against crypto.",
+          "description": "The despised Dealer Rule sought to expand the definition of a financial dealer to encompass DeFi liquidity providers.",
           "link": "https://thedefiant.io/news/regulation/crypto-community-celebrates-court-rejecting-sec-dealer-rule",
           "publishedOn": "2024-11-22T05:03:00.000Z",
           "wordCount": 2618,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b9b7c73900332ed1846fee1b41c4342a560c3fa-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march",
-          "author": "Squiffs",
-          "description": "Activity on the chain dropped significantly after its token launch, but has picked up in the last week.",
-          "link": "https://thedefiant.io/news/blockchains/starknet-activity-hits-highest-level-since-march",
-          "publishedOn": "2024-11-19T21:46:09.000Z",
-          "wordCount": 2207,
-          "title": "StarkNet Activity Hits Highest Level Since March",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5410f94976382de3c13d417ba5afc6f3655efbf7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5410f94976382de3c13d417ba5afc6f3655efbf7-1555x875.png"
         }
       ]
     }
