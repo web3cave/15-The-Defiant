@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-02T17:07:52.688Z</id>
+    <id>urn:2024-12-02T18:11:50.815Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-02T17:07:52.688Z</updated>
+    <updated>2024-12-02T18:11:50.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple Soars on Regulatory Optimism while Crypto Market Slips]]></title>
+        <id>https://thedefiant.io/news/markets/ripple-soars-on-regulatory-optimism-while-crypto-market-slips</id>
+        <link href="https://thedefiant.io/news/markets/ripple-soars-on-regulatory-optimism-while-crypto-market-slips"/>
+        <updated>2024-12-02T17:24:48.000Z</updated>
+        <summary type="html"><![CDATA[XRP is staging an explosive rally while Bitcoin struggles.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Celebrates Beacon Chain’s Fourth Birthday Ahead of Overhaul]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/bitwise-joins-race-for-spot-solana-etf-approval</id>
         <link href="https://thedefiant.io/news/markets/bitwise-joins-race-for-spot-solana-etf-approval"/>
         <updated>2024-11-21T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise is the latest firm to enter the race to bring a spot Solana ETF to market.]]></summary>
+        <summary type="html"><![CDATA[VanEck and 21Shares are also vying to bring Solana ETFs to market.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The world’s most valuable cryptocurrency continues its winning streak.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polter Finance’s Entire $12M TVL Wiped Out in Exploit]]></title>
-        <id>https://thedefiant.io/news/hacks/polter-finance-s-entire-usd12m-tvl-wiped-out-in-exploit</id>
-        <link href="https://thedefiant.io/news/hacks/polter-finance-s-entire-usd12m-tvl-wiped-out-in-exploit"/>
-        <updated>2024-11-19T18:12:46.000Z</updated>
-        <summary type="html"><![CDATA[The attacker used flash loans to manipulate token prices and drain the protocol.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>
