@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-02T14:08:44.699Z</id>
+    <id>urn:2024-12-02T15:09:12.297Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-02T14:08:44.699Z</updated>
+    <updated>2024-12-02T15:09:12.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Celebrates Beacon Chain’s Fourth Birthday Ahead of Overhaul]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul"/>
+        <updated>2024-12-02T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers believe the Beacon Chain needs to be overhauled to address centralization risks facing the network.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘We Have The Most Pro-Crypto Congress Ever’: Coinbase Policy Chief]]></title>
         <id>https://thedefiant.io/news/regulation/we-have-the-most-pro-crypto-congress-ever-coinbase-policy-chief</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bitwise-joins-race-for-spot-solana-etf-approval</id>
         <link href="https://thedefiant.io/news/markets/bitwise-joins-race-for-spot-solana-etf-approval"/>
         <updated>2024-11-21T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[VanEck and 21Shares are also vying to bring Solana ETFs to market.]]></summary>
+        <summary type="html"><![CDATA[Bitwise is the latest firm to enter the race to bring a spot Solana ETF to market.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The attacker used flash loans to manipulate token prices and drain the protocol.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil Taps Chainlink For Cross-Border CBDC Trade Finance Pilot]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/brazil-taps-chainlink-for-cross-border-cbdc-trade-finance-pilot</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/brazil-taps-chainlink-for-cross-border-cbdc-trade-finance-pilot"/>
-        <updated>2024-11-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The initiative comprises the second pilot phase involving the DLT platform of Brazil’s central bank.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
