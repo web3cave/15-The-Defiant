@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T10:10:12.931Z</id>
+    <id>urn:2024-12-03T11:07:43.542Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-03T10:10:12.931Z</updated>
+    <updated>2024-12-03T11:07:43.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple DeFi Ecosystem Surges]]></title>
+        <id>https://thedefiant.io/news/defi/ripple-defi-ecosystem-surges</id>
+        <link href="https://thedefiant.io/news/defi/ripple-defi-ecosystem-surges"/>
+        <updated>2024-12-03T10:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Memecoins and DeFi on XRP command attention amidst XRP’s parabolic rise.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saylor Urges Microsoft to Buy Bitcoin]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/saylor-urges-microsoft-to-buy-bitcoin</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/kraken-s-doge-and-sol-perps-volumes-soar-as-btc-nears-usd100k</id>
         <link href="https://thedefiant.io/news/markets/kraken-s-doge-and-sol-perps-volumes-soar-as-btc-nears-usd100k"/>
         <updated>2024-11-22T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Kraken’s perpetual trading volume is projected to hit $27 billion this month.]]></summary>
+        <summary type="html"><![CDATA[Perpetuals volume for DOGE and SOL has surged to new all-time highs.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BUIDL holders can now access DeFi yields through Elixir’s deUSD stablecoin.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase to Delist Wrapped Bitcoin In December]]></title>
-        <id>https://thedefiant.io/news/tokens/coinbase-to-delist-wrapped-bitcoin-in-december</id>
-        <link href="https://thedefiant.io/news/tokens/coinbase-to-delist-wrapped-bitcoin-in-december"/>
-        <updated>2024-11-20T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase said Wrapped Bitcoin no longer meets its listing standards.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
