@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T22:08:06.077Z</id>
+    <id>urn:2024-12-03T23:08:06.854Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-03T22:08:06.077Z</updated>
+    <updated>2024-12-03T23:08:06.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Files for Solana ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-for-solana-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-for-solana-etf"/>
+        <updated>2024-12-03T22:41:53.000Z</updated>
+        <summary type="html"><![CDATA[The asset manager filed with the NYSE to convert its Solana Trust into a publicly traded ETF.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTM Soars to Highest Level Since April 2022]]></title>
         <id>https://thedefiant.io/news/blockchains/ftm-soars-to-highest-level-since-april-2022</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/pump-fun-halts-live-streams-as-users-go-to-dangerous-extremes-to-lauch-coins</id>
         <link href="https://thedefiant.io/news/defi/pump-fun-halts-live-streams-as-users-go-to-dangerous-extremes-to-lauch-coins"/>
         <updated>2024-11-25T20:24:39.000Z</updated>
-        <summary type="html"><![CDATA[The platform faces mounting pressure to clean up its act or risk regulatory intervention.]]></summary>
+        <summary type="html"><![CDATA[Pump.fun, a no-code platform for issuing tokens on the Solana blockchain, is halting its popular livestream feature after users started using extreme tactics to increase demand for their coins.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[SOL surged 11% to $258, within 1% of its 2021 all-time high.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Inches Closer to $100,000]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-inches-closer-to-usd100-000</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-inches-closer-to-usd100-000"/>
-        <updated>2024-11-21T20:26:00.000Z</updated>
-        <summary type="html"><![CDATA[BTC soared to a fresh all-time high of $99,000 on Thursday.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
