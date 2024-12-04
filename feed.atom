@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-04T12:16:02.732Z</id>
+    <id>urn:2024-12-04T13:20:16.350Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-04T12:16:02.732Z</updated>
+    <updated>2024-12-04T13:20:16.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tron Surges to New All-Time High]]></title>
+        <id>https://thedefiant.io/news/blockchains/tron-surges-to-new-all-time-high</id>
+        <link href="https://thedefiant.io/news/blockchains/tron-surges-to-new-all-time-high"/>
+        <updated>2024-12-04T12:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Tron has surpassed its $14.76 billion valuation record set in January 2018.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gifto Mints and Dumps $8.6 Million Worth of Tokens After Binance Delisting]]></title>
+        <id>https://thedefiant.io/news/defi/gifto-mints-and-dumps-usd8-6-million-worth-of-tokens-after-binance-delisting</id>
+        <link href="https://thedefiant.io/news/defi/gifto-mints-and-dumps-usd8-6-million-worth-of-tokens-after-binance-delisting"/>
+        <updated>2024-12-04T12:17:18.000Z</updated>
+        <summary type="html"><![CDATA[The GFT token is down 75% in the last seven days.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fireblocks Reveals 150% Annual Increase In Institutional DeFi Transactions]]></title>
         <id>https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/starknet-becomes-first-rollup-to-deploy-native-staking</id>
         <link href="https://thedefiant.io/news/defi/starknet-becomes-first-rollup-to-deploy-native-staking"/>
         <updated>2024-11-26T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Staking rewards will adjust dynamically based on staking participation.]]></summary>
+        <summary type="html"><![CDATA[Starknet claims to have become the first Ethereum rollup to introduce native staking.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Most major altcoins posted gains, with Ethereum and Ripple up 4% and 8%, respectively.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash Developer Alexey Pertsev’s Detention Prolonged]]></title>
-        <id>https://thedefiant.io/news/regulation/tornado-cash-developer-alexey-pertsev-s-detention-prolonged</id>
-        <link href="https://thedefiant.io/news/regulation/tornado-cash-developer-alexey-pertsev-s-detention-prolonged"/>
-        <updated>2024-11-25T12:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Alexey Pertsev is waiting to appeal a five-year prison sentence.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base’s Daily Throughput Exceeds 100 Transactions Per Second]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second</id>
-        <link href="https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second"/>
-        <updated>2024-11-25T11:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Base is now the top Layer 2 network by DeFi TVL, decentralized exchange volume, and throughput.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
