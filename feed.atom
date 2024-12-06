@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-06T12:16:06.539Z</id>
+    <id>urn:2024-12-06T13:19:50.682Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-06T12:16:06.539Z</updated>
+    <updated>2024-12-06T13:19:50.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Names David Sacks As Crypto and AI Czar]]></title>
+        <id>https://thedefiant.io/news/regulation/trump-names-david-sacks-as-crypto-and-ai-czar</id>
+        <link href="https://thedefiant.io/news/regulation/trump-names-david-sacks-as-crypto-and-ai-czar"/>
+        <updated>2024-12-06T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Trump said Sacks will work to provide legal clarity to the U.S. crypto industry.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin and Ethereum ETFs Attract Massive Inflows, Fueling Investor Confidence]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-and-ethereum-etfs-attract-massive-inflows-fueling-investor-confidence</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move signals digital assets will increasingly be regulated as commodities under Trump.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Appeals Court Reverses Tornado Cash Sanctions]]></title>
-        <id>https://thedefiant.io/news/regulation/u-s-appeals-court-reverses-tornado-cash-sanctions</id>
-        <link href="https://thedefiant.io/news/regulation/u-s-appeals-court-reverses-tornado-cash-sanctions"/>
-        <updated>2024-11-27T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The court found that Tornado’s Cash’s smart contracts do not comprise property and thus cannot be sanctioned.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
