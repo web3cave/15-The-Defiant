@@ -6,6 +6,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/coinbase-s-memecoin-frenzy-continues",
+          "author": "Squiffs",
+          "description": "The top U.S. crypto exchange’s two latest memecoin listings, TURBO and GIGA, surprised market participants.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-s-memecoin-frenzy-continues",
+          "publishedOn": "2024-12-06T20:49:50.000Z",
+          "wordCount": 2195,
+          "title": "Coinbase’s Memecoin Frenzy Continues",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/30fb41480a075afb959568cc4aed2f60f7f925b7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/30fb41480a075afb959568cc4aed2f60f7f925b7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguin-nfts-soar-on-token-plans",
+          "author": "Jona Jaupi",
+          "description": "The popular NFT collection is set to expand its ecosystem with a Solana-based token, driving a 383% sales spike and a 17% floor price increase within 24 hours.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguin-nfts-soar-on-token-plans",
+          "publishedOn": "2024-12-06T20:39:10.000Z",
+          "wordCount": 2362,
+          "title": "Pudgy Penguin NFTs Soar on Token Plans",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a244c0047b3f8121799017bad246aeef1094eddd-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a244c0047b3f8121799017bad246aeef1094eddd-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/czech-republic-eliminates-capital-gains-tax-on-bitcoin-held-over-three-years-b2253424",
+          "author": "DeepNewz",
+          "description": "The Czech Republic has officially eliminated the capital gains tax on Bitcoin held for more than three years, following a unanimous decision by its parliament",
+          "link": "https://thedefiant.io/news/regulation/czech-republic-eliminates-capital-gains-tax-on-bitcoin-held-over-three-years-b2253424",
+          "publishedOn": "2024-12-06T20:30:48.000Z",
+          "wordCount": 2164,
+          "title": "Czech Republic Eliminates Capital Gains Tax on Bitcoin Held Over Three Years, Prohibits Bank Discrimination",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b6dde75628edc57720ae08dfa58d93c65b53649c-1200x731.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b6dde75628edc57720ae08dfa58d93c65b53649c-1200x731.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/binance-lists-acx-orca-zero-fee-trading-signals-futures-delisting-e2742a2b",
+          "author": "DeepNewz",
+          "description": "Binance, one of the world's leading cryptocurrency exchanges, has announced the listing of two new tokens, $ACX from Across Protocol and $ORCA from Orca Protocol, effective December 6, 2024",
+          "link": "https://thedefiant.io/news/cefi/binance-lists-acx-orca-zero-fee-trading-signals-futures-delisting-e2742a2b",
+          "publishedOn": "2024-12-06T20:00:00.000Z",
+          "wordCount": 2255,
+          "title": "Binance Lists $ACX and $ORCA with Zero-Fee Trading, Signals Futures Delisting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/041bb5a0c14c0fe1c108734249078337a78f68b5-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/041bb5a0c14c0fe1c108734249078337a78f68b5-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/solana-developers-propose-block-limit-increase-to-boost-performance",
+          "author": "Joel Lim",
+          "description": "A wave of excitement washes over the network’s developer community at the prospect.",
+          "link": "https://thedefiant.io/news/blockchains/solana-developers-propose-block-limit-increase-to-boost-performance",
+          "publishedOn": "2024-12-06T19:57:39.000Z",
+          "wordCount": 2175,
+          "title": "Solana Developers Propose Block Limit Increase to Boost Performance",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4c7298752ebc488ef8479e5f28801c8a4293054e-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4c7298752ebc488ef8479e5f28801c8a4293054e-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-surges-past-100k-signals-year-end-stock-market-rally-crypto-sector-92af3c81",
           "author": "DeepNewz",
           "description": "Bitcoin has surged past the $100,000 milestone, marking a significant development in the cryptocurrency market",
@@ -1158,7 +1233,7 @@
         {
           "id": "https://thedefiant.io/news/defi/curve-launches-lite-protocol-targeting-ethereum-s-layer-2-ecosystem",
           "author": "Samuel Haig",
-          "description": "Rollups leverage popular Layer 2 tech stacks can permissionlessly deploy Curve-Lite.",
+          "description": "Curve launches a \"Lite\" version of its DEX infrastructure, allowing Layer 2 rollups to quickly deploy the protocol.",
           "link": "https://thedefiant.io/news/defi/curve-launches-lite-protocol-targeting-ethereum-s-layer-2-ecosystem",
           "publishedOn": "2024-11-29T12:23:00.000Z",
           "wordCount": 2440,
@@ -1409,81 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c4b672eb9699645bf2ad32841e2fa5cdc5db5b4e-1200x1034.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/memecoin-mania-drives-record-monthly-dex-volume",
-          "author": "Samuel Haig",
-          "description": "DEX volumes on Solana and Ethereum Layer 2s are at all-time highs.",
-          "link": "https://thedefiant.io/news/markets/memecoin-mania-drives-record-monthly-dex-volume",
-          "publishedOn": "2024-11-28T15:17:00.000Z",
-          "wordCount": 2406,
-          "title": "Memecoin Mania Drives Record Monthly DEX Volume",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69786231904775578959f0f7f0c00119941e468a-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69786231904775578959f0f7f0c00119941e468a-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/sec-receives-filing-for-bitwise-10-crypto-index-etf",
-          "author": "Mehab Qureshi",
-          "description": "Crypto asset managers are racing to bring new ETPs to market.",
-          "link": "https://thedefiant.io/news/cefi/sec-receives-filing-for-bitwise-10-crypto-index-etf",
-          "publishedOn": "2024-11-28T12:53:00.000Z",
-          "wordCount": 2559,
-          "title": "SEC Receives Filing For Bitwise 10 Crypto Index ETF",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b4d327c2240172c1f8fca4cfcefba2a20de1b3a-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b4d327c2240172c1f8fca4cfcefba2a20de1b3a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/rare-cryptopunk-used-as-collateral-for-usd2-75-million-loan",
-          "author": "Squiffs",
-          "description": "The loan, facilitated by GondiXYZ, is the largest ever on-chain loan against a single NFT.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/rare-cryptopunk-used-as-collateral-for-usd2-75-million-loan",
-          "publishedOn": "2024-11-28T12:17:56.000Z",
-          "wordCount": 2203,
-          "title": "Rare CryptoPunk Used as Collateral for $2.75 Million Loan",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2702f1ccadde08b133a50855314a357fb4f138e8-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2702f1ccadde08b133a50855314a357fb4f138e8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/clanker-gives-rise-to-ai-memecoin-boom-on-base",
-          "author": "Samuel Haig",
-          "description": "The Clanker AI agent creates tokens in response to text-based instructions from Farcaster users.",
-          "link": "https://thedefiant.io/news/tokens/clanker-gives-rise-to-ai-memecoin-boom-on-base",
-          "publishedOn": "2024-11-28T08:36:00.000Z",
-          "wordCount": 2514,
-          "title": "Clanker Gives Rise To AI Memecoin Boom On Base",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6eb851514211abcf354bf32b4a02c0441cb12ae5-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6eb851514211abcf354bf32b4a02c0441cb12ae5-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/schuman-financial-rolls-out-europ-mica-compliant-stablecoin",
-          "author": "Joel Lim",
-          "description": "The new stablecoin’s reserves are stored in government-supervised European banks, such as Société Générale.",
-          "link": "https://thedefiant.io/news/defi/schuman-financial-rolls-out-europ-mica-compliant-stablecoin",
-          "publishedOn": "2024-11-28T01:00:39.000Z",
-          "wordCount": 2316,
-          "title": "Schuman Financial Rolls Out EURØP MiCa-Compliant Stablecoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/87600a8fbc95b51c18d62b3f62d7ac8b447b75ef-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/87600a8fbc95b51c18d62b3f62d7ac8b447b75ef-1555x875.png"
         }
       ]
     }
