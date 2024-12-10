@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-10T13:21:01.016Z</id>
+    <id>urn:2024-12-10T14:08:43.900Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-10T13:21:01.016Z</updated>
+    <updated>2024-12-10T14:08:43.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flashbots Migrates To Decentralized Block Production Software, BuilderNet]]></title>
+        <id>https://thedefiant.io/news/infrastructure/flashbots-migrates-to-decentralized-block-production-software-buildernet</id>
+        <link href="https://thedefiant.io/news/infrastructure/flashbots-migrates-to-decentralized-block-production-software-buildernet"/>
+        <updated>2024-12-10T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Two block proposers account for 88% of Ethereum blocks.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governments From Across The Globe Move To Embrace Crypto]]></title>
         <id>https://thedefiant.io/news/regulation/governments-from-across-the-globe-move-to-embrace-crypto</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[XRP is staging an explosive rally while Bitcoin struggles.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Celebrates Beacon Chain’s Fourth Birthday Ahead of Overhaul]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul"/>
-        <updated>2024-12-02T14:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers believe the Beacon Chain needs to be overhauled to address centralization risks facing the network.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
