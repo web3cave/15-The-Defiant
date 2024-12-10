@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-10T10:10:18.125Z</id>
+    <id>urn:2024-12-10T11:07:42.992Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-10T10:10:18.125Z</updated>
+    <updated>2024-12-10T11:07:42.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Founder Suggests Freezing Satoshi’s BTC Holdings To Protect Against Quantum Attack]]></title>
+        <id>https://thedefiant.io/news/hacks/avalanche-founder-suggests-freezing-satoshi-s-btc-holdings-to-protect-against-quantum-attack</id>
+        <link href="https://thedefiant.io/news/hacks/avalanche-founder-suggests-freezing-satoshi-s-btc-holdings-to-protect-against-quantum-attack"/>
+        <updated>2024-12-10T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The CEO of Ava Labs warns that Saotshi’s Bitcoins were mined using an outdated format that exposed his public keys to the network.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism Introduces New Superchain Token Standard]]></title>
+        <id>https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard</id>
+        <link href="https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard"/>
+        <updated>2024-12-10T10:54:25.000Z</updated>
+        <summary type="html"><![CDATA[SuperchainERC20 enables secure cross-chain asset transfers within the Superchain through native burning and minting.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Network Unveils Token and Airdrop]]></title>
+        <id>https://thedefiant.io/news/blockchains/move-network-unveils-token-and-airdrop</id>
+        <link href="https://thedefiant.io/news/blockchains/move-network-unveils-token-and-airdrop"/>
+        <updated>2024-12-10T10:42:58.000Z</updated>
+        <summary type="html"><![CDATA[The token launch comes after the composability platform rolled out its Mainnet beta.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Conviction at All-Time High As Corporate Investments Rise]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitcoin-conviction-at-all-time-high-as-corporate-investments-rise</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitcoin-conviction-at-all-time-high-as-corporate-investments-rise"/>
+        <updated>2024-12-10T10:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin’s appeal as a reserve asset has never been higher.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonwell Launches Debit Card for Crypto Spending at 44 Million Merchants in Collaboration with Cypher_HQ]]></title>
         <id>https://thedefiant.io/news/defi/moonwell-launches-debit-card-crypto-spending-44-million-merchants-collaboration-1fbd6a22</id>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down</id>
         <link href="https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down"/>
         <updated>2024-12-03T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[MicroStrategy has inspired numerous firms to rapidly accumulate Bitcoin, including Mara, Metaplanet, and Boyaa Interactive.]]></summary>
+        <summary type="html"><![CDATA[Major corporations are emulating MicroStrategy’s reserve asset strategy by ramping up Bitcoin accumulation.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[In other regional news, South Korea delayed introducing crypto taxes for the third time, while Indonesian crypto trading soars.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Lido is Making ETH Staking Easier and More Decentralized | Dmitry Gusakov, Community Staking]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/how-lido-is-making-eth-staking-easier-and-more-decentralized-or-dmitry-gusakov-community-staking</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-lido-is-making-eth-staking-easier-and-more-decentralized-or-dmitry-gusakov-community-staking"/>
-        <updated>2024-12-02T07:28:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Dimitri Gusakov, Community Staking Lead at Lido, discusses the protocol’s efforts to enhance decentralization and accessibility in Ethereum staking.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justin Sun Denies $30M Investment in Trump-Backed World Liberty Financial Was Politically Motivated]]></title>
-        <id>https://thedefiant.io/news/people/justin-sun-denies-30m-investment-trump-backed-world-liberty-financial-was-40e30c26</id>
-        <link href="https://thedefiant.io/news/people/justin-sun-denies-30m-investment-trump-backed-world-liberty-financial-was-40e30c26"/>
-        <updated>2024-11-29T21:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun, a prominent cryptocurrency entrepreneur, has denied allegations that his $30 million investment in the Trump-backed World Liberty Financial was an attempt to influence President-elect Donald Trump]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Nears $100,000 After 40% November Surge; Hits $100,205 on CME Futures]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-nears-100000-after-40-november-surge-hits-100205-on-cme-futures-5700edb5</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-nears-100000-after-40-november-surge-hits-100205-on-cme-futures-5700edb5"/>
-        <updated>2024-11-29T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is nearing the $100,000 milestone, with market participants closely watching its approach to this significant level]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase and Bitstamp List $PEPE for U.S. Trading, Boosting Memecoin Market]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-bitstamp-list-pepe-u-s-trading-boosting-memecoin-market-8f070bfb</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-bitstamp-list-pepe-u-s-trading-boosting-memecoin-market-8f070bfb"/>
-        <updated>2024-11-29T20:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase has expanded its trading options by listing the memecoin $PEPE for New York residents, marking a significant move in the cryptocurrency trading landscape]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
