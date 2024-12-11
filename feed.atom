@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T00:43:22.700Z</id>
+    <id>urn:2024-12-11T02:21:15.159Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-11T00:43:22.700Z</updated>
+    <updated>2024-12-11T02:21:15.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitmain Launches U.S. Facility Amid Escalating U.S.-China Trade Tensions]]></title>
+        <id>https://thedefiant.io/news/infrastructure/bitmain-launches-u-s-facility-amid-escalating-u-s-china-trade-tensions</id>
+        <link href="https://thedefiant.io/news/infrastructure/bitmain-launches-u-s-facility-amid-escalating-u-s-china-trade-tensions"/>
+        <updated>2024-12-11T00:18:08.000Z</updated>
+        <summary type="html"><![CDATA[The move aims to strengthen Bitmain’s presence in North America, which now accounts for nearly half of the global Bitcoin hash rate.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raydium Protocol Surpasses Uniswap with $124.6 Billion in November DEX Volume, 30% Increase Over $90.5 Billion]]></title>
         <id>https://thedefiant.io/news/defi/raydium-protocol-surpasses-uniswap-124-6-billion-november-dex-volume-30-increase-d432406c</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions</id>
         <link href="https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions"/>
         <updated>2024-12-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fireblocks’ institutional users executed more than $60 billion worth of DeFi transactions this year.]]></summary>
+        <summary type="html"><![CDATA[Fireblocks’ institutional users executed more than $60 billion worth of DeFi transactions in 2024 so far.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/defi-tvl-soars-to-record-high-above-usd200b</id>
         <link href="https://thedefiant.io/news/markets/defi-tvl-soars-to-record-high-above-usd200b"/>
         <updated>2024-12-04T11:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The combined TVL of DeFi protocols is at a new high of $201.3 billion after surging 82% in three months.]]></summary>
+        <summary type="html"><![CDATA[The milestone follows growth of 82% since September, driven by the Ethereum, Solana, Tron, Base, and Bitcoin networks.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[With XRP soaring more than 400% in the past month to become the third-largest digital asset by market capitalization, activity in Ripple’s nascent DeFi ecosystem is heating up.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Becomes Corporate Gold as MicroStrategy and MARA Double Down]]></title>
-        <id>https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down</id>
-        <link href="https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down"/>
-        <updated>2024-12-03T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Major corporations are emulating MicroStrategy’s reserve asset strategy by ramping up Bitcoin accumulation.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
 </feed>
