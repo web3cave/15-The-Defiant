@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/binance-offers-btc-staking-through-babylon",
+          "author": "Squiffs",
+          "description": "Babylon features self-custodial capped staking pools for BTC.",
+          "link": "https://thedefiant.io/news/cefi/binance-offers-btc-staking-through-babylon",
+          "publishedOn": "2024-12-11T02:50:44.000Z",
+          "wordCount": 3300,
+          "title": "Binance Offers BTC Staking Through Babylon",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d1acc13d12d06a1cbd112e6b9117c5f74567823-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d1acc13d12d06a1cbd112e6b9117c5f74567823-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/bitmain-launches-u-s-facility-amid-escalating-u-s-china-trade-tensions",
           "author": "Jona Jaupi",
           "description": "The move aims to strengthen Bitmain’s presence in North America, which now accounts for nearly half of the global Bitcoin hash rate.",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions",
           "author": "Samuel Haig",
-          "description": "Fireblocks’ institutional users executed more than $60 billion worth of DeFi transactions in 2024 so far.",
+          "description": "Fireblocks’ institutional users executed more than $60 billion worth of DeFi transactions this year.",
           "link": "https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions",
           "publishedOn": "2024-12-04T12:00:00.000Z",
           "wordCount": 3422,
@@ -1464,21 +1479,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/190559ca68d897dd15735019702d72398e8ee34f-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/how-to-trade-memecoins-on-the-xrp-ledger",
-          "author": "The Defiant Team",
-          "description": "With XRP soaring more than 400% in the past month to become the third-largest digital asset by market capitalization, activity in Ripple’s nascent DeFi ecosystem is heating up.",
-          "link": "https://thedefiant.io/education/premium-tutorials/how-to-trade-memecoins-on-the-xrp-ledger",
-          "publishedOn": "2024-12-03T16:52:14.000Z",
-          "wordCount": 3261,
-          "title": "How to Trade Memecoins on the XRP Ledger",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/82443d5ca55557a7c8104f9a37ce8fbc706139db-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/82443d5ca55557a7c8104f9a37ce8fbc706139db-1555x875.png"
         }
       ]
     }
