@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/justin-sun-linked-bit-global-sues-coinbase-for-usd1b-over-wbtc-delisting",
+          "author": "Samuel Haig",
+          "description": "BiT Global accuses Coinbase of engaging in anti-competitive behavior by launching a Wrapped Bitcoin competitor before announcing it would delist WBTC.",
+          "link": "https://thedefiant.io/news/cefi/justin-sun-linked-bit-global-sues-coinbase-for-usd1b-over-wbtc-delisting",
+          "publishedOn": "2024-12-16T10:29:00.000Z",
+          "wordCount": 3704,
+          "title": "Justin Sun-Linked BiT Global Sues Coinbase For $1B Over WBTC Delisting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d54fc626563ce153489340af33eb29d30157133-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8d54fc626563ce153489340af33eb29d30157133-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/btc-tags-new-high-after-trump-stoked-u-s-bitcoin-reserve-hopes",
           "author": "Samuel Haig",
           "description": "President-elect Donald Trump said he expects to create a national strategic Bitcoin reserve during his second term in office.",
@@ -96,7 +111,7 @@
           "description": "MetaLeX Labs has launched its Cybernetic Law Token Exchanger (CyTE), a peer-to-peer ERC20 token exchange platform designed for on-chain legal agreements",
           "link": "https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0",
           "publishedOn": "2024-12-13T22:00:46.000Z",
-          "wordCount": 3110,
+          "wordCount": 3150,
           "title": "MetaLeX Labs Launches ERC20 Cybernetic Law Token Exchanger with Ricardian Tripler for Noncustodial Escrow Deals",
           "imageUrl": null
         },
@@ -106,7 +121,7 @@
           "description": "In December 2024, the number of daily active users in the cryptocurrency sector reached a record high",
           "link": "https://thedefiant.io/news/defi/daily-active-crypto-users-hit-18-7-million-december-up-143-7-7-million-according-6be984a6",
           "publishedOn": "2024-12-13T22:00:34.000Z",
-          "wordCount": 3135,
+          "wordCount": 3175,
           "title": "Daily Active Crypto Users Hit 18.7 Million in December, Up 143% from 7.7 Million, According to Token Terminal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a5b1ca8314c8891473ab551bc2e94763bca180f7-1149x1200.jpg",
@@ -131,7 +146,7 @@
           "description": "The leading DEX on Ethereum is experiencing a strong Q4 despite its slow summer.",
           "link": "https://thedefiant.io/news/defi/uniswap-bounces-back-from-slow-summer",
           "publishedOn": "2024-12-13T21:05:50.000Z",
-          "wordCount": 3358,
+          "wordCount": 3398,
           "title": "Uniswap Bounces Back From Slow Summer",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a75016e285f55862598ca0fa74b804c58bbe9e42-1555x875.png",
@@ -146,7 +161,7 @@
           "description": "Sui Network has announced a partnership with Ant Digital Technologies and Zan Team to tokenize Environmental, Social, and Governance (ESG)-backed real-world assets (RWA) on its blockchain",
           "link": "https://thedefiant.io/news/defi/sui-network-partners-ant-digital-technologies-zan-team-to-tokenize-esg-backed-7828da31",
           "publishedOn": "2024-12-13T21:00:06.000Z",
-          "wordCount": 3158,
+          "wordCount": 3190,
           "title": "Sui Network Partners with Ant Digital Technologies and Zan Team to Tokenize ESG-Backed Real-World Assets, Tapping $13B Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd48d8c217d31f5f992900bcbf47e0a912e7ff62-1080x1080.jpg",
@@ -206,7 +221,7 @@
           "description": "A user of Ledger hardware wallets reported losing 10 Bitcoin (BTC) and $1.5 million in NFTs due to a phishing attack that occurred in 2022.",
           "link": "https://thedefiant.io/news/defi/ledger-user-loses-1m-btc-1-5m-nfts-to-2022-phishing-attack-0ffcd360",
           "publishedOn": "2024-12-13T19:30:44.000Z",
-          "wordCount": 3183,
+          "wordCount": 3217,
           "title": "Ledger User Loses $1M in BTC and $1.5M in NFTs to 2022 Phishing Attack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b647e730af9ff1942ae98e03b281553e56e6431c-942x616.jpg",
@@ -281,7 +296,7 @@
           "description": "Strong performances from Raydium, Orca, and Meteora amid memecoin mania are driving the volume surge.",
           "link": "https://thedefiant.io/news/defi/cumulative-solana-dex-volume-approaches-usd1-trillion",
           "publishedOn": "2024-12-13T12:04:15.000Z",
-          "wordCount": 3165,
+          "wordCount": 3202,
           "title": "Cumulative Solana DEX Volume Approaches $1 Trillion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7adcd059117dd34acb1f4f959be95d62575a5d36-1555x875.png",
@@ -296,7 +311,7 @@
           "description": "World Liberty Financial plans to launch an instance of Aave v3 supporting USDT, USDC, ETH, and WBTC.",
           "link": "https://thedefiant.io/news/defi/world-liberty-financial-s-governance-approves-aave-deployment",
           "publishedOn": "2024-12-13T08:17:00.000Z",
-          "wordCount": 3332,
+          "wordCount": 3354,
           "title": "World Liberty Financial’s Governance Approves Aave Deployment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1736ac68bd4c992ef19599d8771b5639dd67ca7-1555x875.png",
@@ -431,7 +446,7 @@
           "description": "Head Chef Jared Grey outlined five potential product launches for the new year.",
           "link": "https://thedefiant.io/news/defi/sushi-rallies-on-2025-roadmap-release",
           "publishedOn": "2024-12-12T21:19:02.000Z",
-          "wordCount": 3159,
+          "wordCount": 3181,
           "title": "SUSHI Rallies on 2025 Roadmap Release",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ef66abe02dda2a9f1915ce32b0f58b157366a18-1555x875.png",
@@ -446,7 +461,7 @@
           "description": "Superform has successfully raised $3 million in funding led by VanEck Ventures to launch its new product, SuperVaults, which are designed as intelligent on-chain yield products",
           "link": "https://thedefiant.io/news/defi/superform-raises-3m-to-launch-superusdc-yield-product-offering-22-apy-2beb7db1",
           "publishedOn": "2024-12-12T21:00:43.000Z",
-          "wordCount": 3135,
+          "wordCount": 3170,
           "title": "Superform Raises $3M to Launch SuperUSDC Yield Product, Offering 22% APY",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cf0ad69343cf76c42483fc3243d274dae827287-1200x900.jpg",
@@ -521,7 +536,7 @@
           "description": "Coinbase is set to restrict European users from trading certain stablecoins that do not comply with the EU's Markets in Crypto-Assets (MiCA) regulations, effective December 13, 2024",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-restrict-european-users-trading-usdt-gusd-gyen-dai-pax-pyusd-13-2024-7ebf9029",
           "publishedOn": "2024-12-12T19:00:03.000Z",
-          "wordCount": 3215,
+          "wordCount": 3246,
           "title": "Coinbase to Restrict European Users from Trading USDT, GUSD, GYEN, DAI, PAX, and PYUSD Starting December 13, 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b72b77734176c9884ede13eeb0afc396b721254e-673x673.jpg",
@@ -641,7 +656,7 @@
           "description": "The recovered funds mark another step forward in the defunct exchange’s effort to repay creditors.",
           "link": "https://thedefiant.io/news/cefi/ftx-debtors-retrieve-usd14-5m-of-political-donations",
           "publishedOn": "2024-12-12T09:26:33.000Z",
-          "wordCount": 3288,
+          "wordCount": 3319,
           "title": "FTX Debtors Retrieve $14.5M of Political Donations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b392091ba8d49ee42b6b38b74aa40d61c91955b-1555x875.png",
@@ -686,7 +701,7 @@
           "description": "President-elect Donald Trump's cryptocurrency project, World Liberty, has recently increased its Ethereum (ETH) holdings by purchasing an additional $5 million worth of ETH, bringing its total ETH holdings to $50 million",
           "link": "https://thedefiant.io/news/defi/trump-s-world-liberty-boosts-ethereum-holdings-to-50-million-3aafff87",
           "publishedOn": "2024-12-12T00:00:30.000Z",
-          "wordCount": 3177,
+          "wordCount": 3212,
           "title": "Trump's World Liberty Boosts Ethereum Holdings to $50 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8068bbf19168afab855c4a3f1c0fbc213c346929-1200x752.jpg",
@@ -731,7 +746,7 @@
           "description": "Ethereum continues to solidify its position as a leader in the tokenization space, with recent developments highlighting its significant role in the on-chain economy",
           "link": "https://thedefiant.io/news/defi/ethereum-dominates-tokenization-20-billion-usdt-issued-leading-capital-gravity-94dc26ec",
           "publishedOn": "2024-12-11T22:30:49.000Z",
-          "wordCount": 3180,
+          "wordCount": 3215,
           "title": "Ethereum Dominates Tokenization with $20 Billion USDT Issued, Leading in Capital Gravity and On-Chain Economy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3814d41f81091a19aa2d9175034630686cec4220-1200x850.jpg",
@@ -786,7 +801,7 @@
           "description": "The recent acquisitions are part of Synthetix’s plans to become a category leader among derivative exchanges.",
           "link": "https://thedefiant.io/news/defi/synthetix-to-offer-leveraged-tokens-in-2025-after-tlx-and-kwenta-acquisitions",
           "publishedOn": "2024-12-11T21:09:20.000Z",
-          "wordCount": 3356,
+          "wordCount": 3378,
           "title": "Synthetix to Offer Leveraged Tokens in 2025 after TLX and Kwenta Acquisitions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8166ea63f64750b8d100770c8000d5f9b57f85f8-1555x875.png",
@@ -816,7 +831,7 @@
           "description": "The US dollar-pegged token will be available on both the Ethereum and Ripple blockchains.",
           "link": "https://thedefiant.io/news/defi/ripple-s-rlusd-stablecoin-gets-approved-by-ny-regulators",
           "publishedOn": "2024-12-11T18:30:19.000Z",
-          "wordCount": 3268,
+          "wordCount": 3303,
           "title": "Ripple’s RLUSD Stablecoin Gets Approved by NY Regulators",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e5b44fe589cc53406d3d339be9e2230cdb200d08-1555x875.png",
@@ -846,7 +861,7 @@
           "description": "The AI meta is likely to be one of the hottest crypto narratives in 2025.",
           "link": "https://thedefiant.io/news/defi/venture-capital-firms-pile-into-cryptoai",
           "publishedOn": "2024-12-11T12:35:47.000Z",
-          "wordCount": 3256,
+          "wordCount": 3291,
           "title": "Venture Capital Firms Pile Into CryptoAI",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6ce704351865764e82374d9ad39f8ebcc6768de-1555x875.png",
@@ -861,7 +876,7 @@
           "description": "Binance will leverage USDC for its corporate treasury operations as part of the deal.",
           "link": "https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations",
           "publishedOn": "2024-12-11T12:14:00.000Z",
-          "wordCount": 3509,
+          "wordCount": 3531,
           "title": "Circle Inks Partnership With Binance and Expands MENA Operations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ebeb3694eb375f91dd0a99e6561b349ea1d146e-1555x875.png",
@@ -876,7 +891,7 @@
           "description": "Babylon features self-custodial capped staking pools for BTC.",
           "link": "https://thedefiant.io/news/cefi/binance-offers-btc-staking-through-babylon",
           "publishedOn": "2024-12-11T02:50:44.000Z",
-          "wordCount": 3274,
+          "wordCount": 3296,
           "title": "Binance Offers BTC Staking Through Babylon",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d1acc13d12d06a1cbd112e6b9117c5f74567823-1555x875.png",
@@ -906,7 +921,7 @@
           "description": "In November 2024, Raydium Protocol emerged as the leading decentralized exchange (DEX) by trading volume across all chains.",
           "link": "https://thedefiant.io/news/defi/raydium-protocol-surpasses-uniswap-124-6-billion-november-dex-volume-30-increase-d432406c",
           "publishedOn": "2024-12-11T00:15:27.000Z",
-          "wordCount": 3124,
+          "wordCount": 3149,
           "title": "Raydium Protocol Surpasses Uniswap with $124.6 Billion in November DEX Volume, 30% Increase Over $90.5 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b2054cde80804d92b20e376e957667c71ca5c90-1024x1024.jpg",
@@ -951,7 +966,7 @@
           "description": "Coinbase has announced that it will add support for Magic Eden's $ME token on the Solana network (SPL token)",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-list-magic-eden-s-token-on-solana-spot-trading-pending-liquidity-d45615a9",
           "publishedOn": "2024-12-10T22:56:05.000Z",
-          "wordCount": 3104,
+          "wordCount": 3135,
           "title": "Coinbase to List Magic Eden's $ME Token on Solana, Spot Trading Pending Liquidity",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bb8a09b1846b3f5bdf93e2e493f1bfac2a388818-1200x703.jpg",
@@ -996,7 +1011,7 @@
           "description": "Up to 90 million STRK tokens have been allocated to protocols and users contributing to Starknet’s DeFi ecosystem.",
           "link": "https://thedefiant.io/news/defi/starknet-extends-usd50-million-defi-spring-campaign",
           "publishedOn": "2024-12-10T20:05:00.000Z",
-          "wordCount": 3282,
+          "wordCount": 3317,
           "title": "Starknet Extends $50 Million ‘DeFi Spring’ Campaign",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/392de52cb5288801ec1aafd2e4ad377b9e8a94e7-1555x875.png",
@@ -1146,7 +1161,7 @@
           "description": "Moonwell has launched the Moonwell Card, a debit card that allows users to spend their onchain crypto assets globally",
           "link": "https://thedefiant.io/news/defi/moonwell-launches-debit-card-crypto-spending-44-million-merchants-collaboration-1fbd6a22",
           "publishedOn": "2024-12-09T22:30:44.000Z",
-          "wordCount": 3150,
+          "wordCount": 3185,
           "title": "Moonwell Launches Debit Card for Crypto Spending at 44 Million Merchants in Collaboration with Cypher_HQ",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f3ec734458e1d7a0965adcfc87893d656e38011-1200x675.jpg",
@@ -1176,7 +1191,7 @@
           "description": "Circle has announced the upcoming launch of its Cross-Chain Transfer Protocol (CCTP) V2, set to debut in early 2025",
           "link": "https://thedefiant.io/news/defi/circle-to-launch-cctp-v2-faster-usdc-transfers-low-latency-settlements-on-base-4dd79d59",
           "publishedOn": "2024-12-09T22:00:48.000Z",
-          "wordCount": 3137,
+          "wordCount": 3172,
           "title": "Circle to Launch CCTP V2 for Faster USDC Transfers with Low-Latency Settlements on Ethereum, Base, and Avalanche in Early 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dae559d9c20cb0f5ea163bd5890fe4cdb94481a8-1024x768.jpg",
@@ -1191,7 +1206,7 @@
           "description": "A $250 million increase of the sUSDe supply cap on Aave was filled almost instantly on Dec. 8.",
           "link": "https://thedefiant.io/news/defi/ethena-s-usde-flips-dai-to-become-third-largest-stablecoin",
           "publishedOn": "2024-12-09T21:58:37.000Z",
-          "wordCount": 3317,
+          "wordCount": 3352,
           "title": "Ethena's USDe Flips DAI to Become Third-largest Stablecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/47b14357e5f9d87a97a1492ce33642f9adea9bf4-1555x875.png",
@@ -1266,7 +1281,7 @@
           "description": "The stablecoin market has reached a record high, with the total market capitalization surpassing $200 billion, marking a 13% increase over the past month",
           "link": "https://thedefiant.io/news/defi/stablecoin-market-cap-surpasses-200-billion-up-13-amid-aave-compound-rates-10-20-7d5ef67c",
           "publishedOn": "2024-12-09T20:00:00.000Z",
-          "wordCount": 3140,
+          "wordCount": 3175,
           "title": "Stablecoin Market Cap Surpasses $200 Billion, Up 13%, Amid Aave and Compound Rates of 10-20%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1e15b0707f5c96118b80e7c3db69bdfe5f369d17-1200x842.jpg",
@@ -1441,7 +1456,7 @@
           "description": "Fireblocks, a key player in the digital asset infrastructure space, has announced a collaboration with Uniswap Labs to integrate DeFi innovations into traditional finance (TradFi) at the SPARK 2024 event",
           "link": "https://thedefiant.io/news/defi/fireblocks-uniswap-labs-partner-to-bring-defi-to-tradfi-spark-2024-f26acf0c",
           "publishedOn": "2024-12-06T21:30:17.000Z",
-          "wordCount": 3144,
+          "wordCount": 3179,
           "title": "Fireblocks and Uniswap Labs Partner to Bring DeFi to TradFi at SPARK 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/774d64f8bf6d4995da9dda9e286338e8ad5ccdbd-1000x667.jpg",
@@ -1464,21 +1479,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6e5123a1f3869b5ba975f3e4f539ebeff4b335e8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/u-s-bitcoin-etfs-now-hold-over-1-1m-btc-surpassing-satoshi-nakamoto-67ef51c4",
-          "author": "DeepNewz",
-          "description": "U.S. spot Bitcoin exchange-traded funds (ETFs) have surpassed Satoshi Nakamoto",
-          "link": "https://thedefiant.io/news/blockchains/u-s-bitcoin-etfs-now-hold-over-1-1m-btc-surpassing-satoshi-nakamoto-67ef51c4",
-          "publishedOn": "2024-12-06T21:00:43.000Z",
-          "wordCount": 3038,
-          "title": "U.S. Bitcoin ETFs Now Hold Over 1.1M BTC, Surpassing Satoshi Nakamoto",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/29e66ae64ee064b4926ae399fdcd1eb95949e1e2-1200x716.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/29e66ae64ee064b4926ae399fdcd1eb95949e1e2-1200x716.jpg"
         }
       ]
     }
