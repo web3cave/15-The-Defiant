@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-17T19:07:04.575Z</id>
+    <id>urn:2024-12-17T20:09:27.839Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-17T19:07:04.575Z</updated>
+    <updated>2024-12-17T20:09:27.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethena Launches New Stablecoin Backed by BlackRock’s Treasury Fund]]></title>
+        <id>https://thedefiant.io/news/defi/ethena-launches-new-stablecoin-backed-by-blackrock-s-treasury-fund</id>
+        <link href="https://thedefiant.io/news/defi/ethena-launches-new-stablecoin-backed-by-blackrock-s-treasury-fund"/>
+        <updated>2024-12-17T19:55:44.000Z</updated>
+        <summary type="html"><![CDATA[USDtb aims to mitigate risks during market downturns and provide an alternative to Ethena’s flagship USDe synthetic dollar.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Users Report Widespread Claim Issues with $PENGU Tokens on Solana Using Ledger Wallets]]></title>
         <id>https://thedefiant.io/news/tokens/users-report-widespread-claim-issues-pengu-tokens-on-solana-using-ledger-wallets-96d11f5e</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations</id>
         <link href="https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations"/>
         <updated>2024-12-11T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Binance and Circle are teaming up to promote the adoption of USDC.]]></summary>
+        <summary type="html"><![CDATA[Binance will leverage USDC for its corporate treasury operations as part of the deal.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The CEO of Ava Labs warns that Saotshi’s Bitcoins were mined using an outdated format that exposed his public keys to the network.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Introduces New Superchain Token Standard]]></title>
-        <id>https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard</id>
-        <link href="https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard"/>
-        <updated>2024-12-10T10:54:25.000Z</updated>
-        <summary type="html"><![CDATA[SuperchainERC20 enables secure cross-chain asset transfers within the Superchain through native burning and minting.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>

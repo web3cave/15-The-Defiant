@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/ethena-launches-new-stablecoin-backed-by-blackrock-s-treasury-fund",
+          "author": "Jona Jaupi",
+          "description": "USDtb aims to mitigate risks during market downturns and provide an alternative to Ethena’s flagship USDe synthetic dollar.",
+          "link": "https://thedefiant.io/news/defi/ethena-launches-new-stablecoin-backed-by-blackrock-s-treasury-fund",
+          "publishedOn": "2024-12-17T19:55:44.000Z",
+          "wordCount": 3512,
+          "title": "Ethena Launches New Stablecoin Backed by BlackRock’s Treasury Fund",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b17c857b656a2050eee9336f87ffc7bb476756c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7b17c857b656a2050eee9336f87ffc7bb476756c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/users-report-widespread-claim-issues-pengu-tokens-on-solana-using-ledger-wallets-96d11f5e",
           "author": "DeepNewz",
           "description": "Users are experiencing widespread issues with claiming their $PENGU tokens on the Solana blockchain, particularly when using Ledger wallets",
@@ -1223,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations",
           "author": "Samuel Haig",
-          "description": "Binance and Circle are teaming up to promote the adoption of USDC.",
+          "description": "Binance will leverage USDC for its corporate treasury operations as part of the deal.",
           "link": "https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations",
           "publishedOn": "2024-12-11T12:14:00.000Z",
           "wordCount": 3531,
@@ -1459,21 +1474,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1df05280a45d7fe7d140d2f76b0b269fc5f162aa-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard",
-          "author": "Joel Lim",
-          "description": "SuperchainERC20 enables secure cross-chain asset transfers within the Superchain through native burning and minting.",
-          "link": "https://thedefiant.io/news/blockchains/optimism-introduces-new-superchain-token-standard",
-          "publishedOn": "2024-12-10T10:54:25.000Z",
-          "wordCount": 3282,
-          "title": "Optimism Introduces New Superchain Token Standard",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8880525e84baed630cf8257114e95534d725b0ca-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8880525e84baed630cf8257114e95534d725b0ca-1555x875.png"
         }
       ]
     }
