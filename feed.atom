@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-27T11:06:53.124Z</id>
+    <id>urn:2024-12-27T12:14:18.658Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-27T11:06:53.124Z</updated>
+    <updated>2024-12-27T12:14:18.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETFs Face Outflows for Fourth Consecutive Day]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-etfs-face-outflows-for-fourth-consecutive-day</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-etfs-face-outflows-for-fourth-consecutive-day"/>
+        <updated>2024-12-27T11:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin spot ETFs recorded over $1.5 billion in outflows over four days amid the ongoing market correction.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berachain and StakeStone's Pre-Deposit Campaign Draws $175M from 35,000 Users in 24 Hours]]></title>
         <id>https://thedefiant.io/news/blockchains/berachain-stakestone-s-pre-deposit-campaign-draws-175m-35000-users-24-hours-f15082f0</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/near-protocol-s-aurora-launches-turbochain-the-first-ai-memecoin-blockchain</id>
         <link href="https://thedefiant.io/news/blockchains/near-protocol-s-aurora-launches-turbochain-the-first-ai-memecoin-blockchain"/>
         <updated>2024-12-17T22:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Near Protocol, a top 30 blockchain by market capitalization, recently announced the launch of a blockchain focusing on artificial intelligence (AI) and memecoins.]]></summary>
+        <summary type="html"><![CDATA[The platform is the dedicated virtual chain of TURBO, an AI memecoin.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move comes in response to Polygon potentially deploying the stablecoins in its PoS bridge in yield strategies.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fartcoin Climbed to a Record Market Cap of $850M as Memecoins Ride the Popularity Wave]]></title>
-        <id>https://thedefiant.io/news/markets/fartcoin-climbed-to-a-record-market-cap-of-usd850m-as-memecoins-ride-the-popularity-wave</id>
-        <link href="https://thedefiant.io/news/markets/fartcoin-climbed-to-a-record-market-cap-of-usd850m-as-memecoins-ride-the-popularity-wave"/>
-        <updated>2024-12-16T23:47:23.000Z</updated>
-        <summary type="html"><![CDATA[The humor-driven cryptocurrency inched closer to the $1 billion milestone.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
