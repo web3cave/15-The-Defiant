@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/tokenization-in-2025-navigating-the-new-frontier-of-real-world-assets",
+          "author": "Eli Cohen, General Counsel at Centrifuge",
+          "description": "You know when BlackRock, JP Morgan, Franklin Templeton, and Janus Henderson all make investments in the same space, that there must be tremendous opportunity.",
+          "link": "https://thedefiant.io/news/research-and-opinion/tokenization-in-2025-navigating-the-new-frontier-of-real-world-assets",
+          "publishedOn": "2025-01-07T14:52:15.000Z",
+          "wordCount": 4310,
+          "title": "Tokenization in 2025: Navigating the New Frontier of Real-World Assets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5acc94e2bc3554794ff7c01a87053b851761ba50-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5acc94e2bc3554794ff7c01a87053b851761ba50-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-community-pushes-back-on-proposal-to-peg-ethena-s-usde-price-to-tether-s-usdt",
+          "author": "Joel Lim",
+          "description": "The proposal seeks to protect Aave users from exposure to secondary market fluctuations by matching both prices.",
+          "link": "https://thedefiant.io/news/defi/aave-community-pushes-back-on-proposal-to-peg-ethena-s-usde-price-to-tether-s-usdt",
+          "publishedOn": "2025-01-07T14:42:45.000Z",
+          "wordCount": 3563,
+          "title": "Aave Community Pushes Back On Proposal To Peg Ethena’s USDe Price To Tether’s USDT",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8ccb14adab863014b4c32e493d3ccba23676c8f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8ccb14adab863014b4c32e493d3ccba23676c8f-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/education/premium-tutorials/markets-bitcoin-breaks-out-above-usd100-000-again",
           "author": "yyctrader",
           "description": "Our chart of the week is PENGU.",
@@ -1218,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-and-vivek-s-strive-plan-bitcoin-treasury-etfs",
           "author": "Leo Jakobson",
-          "description": "Trump government waste-cutter Vivek Ramaswamy’s Strive is MicroStrategy focused, while Bitwise Asset Management looks for the ‘Bitcoin Standard’ of 1,000 BTC.",
+          "description": "Bitwise Asset Management and Vivek Ramaswamy’s Strive Asset Management are each seeking to create exchange-traded funds (ETF) focused on companies with Bitcoin in their treasuries.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-and-vivek-s-strive-plan-bitcoin-treasury-etfs",
           "publishedOn": "2024-12-27T21:26:57.000Z",
           "wordCount": 3506,
@@ -1469,36 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6dbeed472e55d50a48404a0e422a8911127f7279-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/animoca-brands-confirms-hack-yat-sius-account-promoting-fake-moca-token-on-no-2e4f79ef",
-          "author": "DeepNewz",
-          "description": "Animoca Brands has confirmed that the Twitter account of co-founder and executive chairman Yat Siu has been compromised",
-          "link": "https://thedefiant.io/news/people/animoca-brands-confirms-hack-yat-sius-account-promoting-fake-moca-token-on-no-2e4f79ef",
-          "publishedOn": "2024-12-26T22:00:44.000Z",
-          "wordCount": 3200,
-          "title": "Animoca Brands Confirms Hack of Yat Siu’s Account Promoting Fake $MOCA Token on Solana; No Official Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19f9a320d5621b63f13faec8a4f505c4a50e3ad5-1120x1019.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19f9a320d5621b63f13faec8a4f505c4a50e3ad5-1120x1019.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-chainlink-collaborate-to-optimize-mev-recapture-potentially-worth-millions-c22962be",
-          "author": "DeepNewz",
-          "description": "Aave and Chainlink are collaborating to enhance the decentralized finance ecosystem through the integration of Chainlink's Smart Value Recapture (SVR) oracles into Aave's v3 platform",
-          "link": "https://thedefiant.io/news/defi/aave-chainlink-collaborate-to-optimize-mev-recapture-potentially-worth-millions-c22962be",
-          "publishedOn": "2024-12-26T21:00:06.000Z",
-          "wordCount": 3197,
-          "title": "Aave and Chainlink Collaborate to Optimize MEV Recapture, Potentially Worth Millions and 40%+ of Leaked MEV",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e246992de23b1e7c7d5a69b63bab2329e217c749-1200x630.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e246992de23b1e7c7d5a69b63bab2329e217c749-1200x630.jpg"
         }
       ]
     }
