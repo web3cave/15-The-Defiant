@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/hong-kong-launches-incubator-to-supervise-banks-blockchain-experiments",
+          "author": "Joel Lim",
+          "description": "The initiative will mainly focus on tokenized deposits with the Hong Kong Central Bank.",
+          "link": "https://thedefiant.io/news/regulation/hong-kong-launches-incubator-to-supervise-banks-blockchain-experiments",
+          "publishedOn": "2025-01-10T20:43:09.000Z",
+          "wordCount": 3323,
+          "title": "Hong Kong Launches Incubator to Supervise Banks’ Blockchain Experiments",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1e8cb45d1119f304706bf10db00904f2060eabfe-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1e8cb45d1119f304706bf10db00904f2060eabfe-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/uk-judge-dismisses-usd750-million-bitcoin-landfill-case-blocking-recovery-effort",
+          "author": "Jona Jaupi",
+          "description": "James Howells' attempt to excavate a landfill for a hard drive containing 8,000 Bitcoin is halted.",
+          "link": "https://thedefiant.io/news/regulation/uk-judge-dismisses-usd750-million-bitcoin-landfill-case-blocking-recovery-effort",
+          "publishedOn": "2025-01-10T20:04:05.000Z",
+          "wordCount": 3514,
+          "title": "UK Judge Dismisses $750 Million Bitcoin Landfill Case, Blocking Recovery Effort",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b067e5be83ba2833c387892dce8e116a6ee6499-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b067e5be83ba2833c387892dce8e116a6ee6499-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/usual-money-under-fire-for-altering-asset-floor-price",
           "author": "Squiffs",
           "description": "Users have been minting USD0++ for $1, but the team manually restructured the asset's floor price to $0.87.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/on-bitcoin-s-16th-birthday-difficulty-and-hashrate-reach-all-time-highs",
           "author": "Leo Jakobson",
-          "description": "Bitcoin’s mining difficulty reached a new all-time high on the 16th anniversary of the first cryptocurrency’s genesis block.",
+          "description": "With bitcoin’s price having more than doubled last year, the effort thrown at mining bitcoins is also growing rapidly, with the hashrate cracking one zetahash on Jan. 2.",
           "link": "https://thedefiant.io/news/blockchains/on-bitcoin-s-16th-birthday-difficulty-and-hashrate-reach-all-time-highs",
           "publishedOn": "2025-01-03T21:17:00.000Z",
           "wordCount": 3464,
@@ -1474,31 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fea893f14bda2cc9439290ed8dfed2c4b29a7958-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/t3-financial-crime-unit-freezes-100-million-usdt-including-3-million-linked-to-e7c68fac",
-          "author": "DeepNewz",
-          "description": "The T3 Financial Crime Fighting Unit, established in September 2024 by Tron, Tether, and TRM Labs, has successfully frozen $100 million in USDT linked to illicit activities on the Tron blockchain",
-          "link": "https://thedefiant.io/news/blockchains/t3-financial-crime-unit-freezes-100-million-usdt-including-3-million-linked-to-e7c68fac",
-          "publishedOn": "2025-01-02T20:00:54.000Z",
-          "wordCount": 3220,
-          "title": "T3 Financial Crime Unit Freezes $100 Million in USDT, Including $3 Million Linked to North Korea, Across Five Continents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins",
-          "author": "Squiffs",
-          "description": "The market has shifted from agent-specific tokens, towards AI agent frameworks.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins",
-          "publishedOn": "2025-01-02T19:23:07.000Z",
-          "wordCount": 3569,
-          "title": "AI Token Infrastructure Outperforms Agents and Memecoins",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7336266f9c8cef86d0d56e06181205eb8916731f-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7336266f9c8cef86d0d56e06181205eb8916731f-1555x875.png"
         }
       ]
     }
