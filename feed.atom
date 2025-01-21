@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-21T11:06:52.108Z</id>
+    <id>urn:2025-01-21T12:14:54.522Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-21T11:06:52.108Z</updated>
+    <updated>2025-01-21T12:14:54.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Developer Sues DoJ to Have Software Declared Legal]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-developer-sues-doj-to-have-software-declared-legal</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-developer-sues-doj-to-have-software-declared-legal"/>
+        <updated>2025-01-21T11:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Crypto crowdfunding developer Michael Lewellen fears the government will treat him as an unlicensed money transmitter like the developers of Tornado Cash.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget Research Claims 20% of Gen Z and Alpha are Open to Crypto-based Pensions]]></title>
         <id>https://thedefiant.io/news/cefi/bitget-research-claims-20-of-gen-z-and-alpha-are-open-to-crypto-based-pensions</id>
@@ -193,6 +203,26 @@
         <summary type="html"><![CDATA[Tether launched USDT0 on Kraken’s Layer 2, Ink.]]></summary>
         <author>
             <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets - Bitcoin Hits $109,000 Ahead of Trump's Inauguration]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-hits-usd109-000-ahead-of-trump-s-inauguration</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/markets-bitcoin-hits-usd109-000-ahead-of-trump-s-inauguration"/>
+        <updated>2025-01-17T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Our chart of the week is XRP.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trenches Transition Away From Memes]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/trenches-transition-away-from-memes</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/trenches-transition-away-from-memes"/>
+        <updated>2025-01-17T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Trends to Watch (Hyperliquid ecosystem, AI agent froth)]]></summary>
+        <author>
+            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/defi/euler-finance-tvl-rises-38x-in-3-months</id>
         <link href="https://thedefiant.io/news/defi/euler-finance-tvl-rises-38x-in-3-months"/>
         <updated>2025-01-13T17:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Euler, a decentralized finance (DeFi) lending protocol, is on its way to recovery after a $200 million hack in 2023 wiped out its financials.]]></summary>
+        <summary type="html"><![CDATA[The lending platform’s active loan count is back above the $100 million mark after recovering from its 2023 hack.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The outgoing chairman of the SEC had a much more hostile view of crypto than his counterpart at the CFTC.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centaurus Energy Shifts Focus From Oil and Gas to Crypto and Commodities Investments]]></title>
-        <id>https://thedefiant.io/news/cefi/centaurus-energy-shifts-focus-from-oil-and-gas-to-crypto-and-commodities-investments</id>
-        <link href="https://thedefiant.io/news/cefi/centaurus-energy-shifts-focus-from-oil-and-gas-to-crypto-and-commodities-investments"/>
-        <updated>2025-01-10T03:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Following the sale of its oil and gas operations, the company aims to invest in physical and digital assets, including Ethereum and Solana.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock’s BUIDL Enabled as Collateral for Enhanced Yield Strategies]]></title>
-        <id>https://thedefiant.io/news/defi/blackrock-s-buidl-enabled-as-collateral-for-enhanced-yield-strategies</id>
-        <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-enabled-as-collateral-for-enhanced-yield-strategies"/>
-        <updated>2025-01-10T02:42:52.000Z</updated>
-        <summary type="html"><![CDATA[The tokenized treasury product was used as collateral in a basis trade via QCP, yielding an 18% APY.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raydium Protocol Launches Beta Perpetual Futures Trading with 40x Leverage, Gas-Free Trading, and 90+ Markets for 8.4 Million Users]]></title>
-        <id>https://thedefiant.io/news/defi/raydium-protocol-launches-beta-perpetual-futures-trading-40x-leverage-gas-free-8-0450e19a</id>
-        <link href="https://thedefiant.io/news/defi/raydium-protocol-launches-beta-perpetual-futures-trading-40x-leverage-gas-free-8-0450e19a"/>
-        <updated>2025-01-10T01:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Raydium Protocol, a Solana-based decentralized finance platform, has launched its beta version of perpetual futures trading]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
