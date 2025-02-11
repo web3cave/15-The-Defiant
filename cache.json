@@ -6,6 +6,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch",
+          "author": "Joel Lim",
+          "description": "The Ethereum liquid staking protocol’s RPL token has surged by over 50% in the last three days.",
+          "link": "https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch",
+          "publishedOn": "2025-02-11T21:50:44.000Z",
+          "wordCount": 3293,
+          "title": "Rocket Pool Extends Price Rally Amid Saturn Devnet Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/18d0b19fe7392d99cf449538a7122831f0df8d78-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/18d0b19fe7392d99cf449538a7122831f0df8d78-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/spark-liquidity-layer-integrates-fluid-susds-liquidity-on-base-ethereum-10-1f75494b",
+          "author": "DeepNewz",
+          "description": "The Spark Liquidity Layer has been integrated with Fluid to enable the deployment of sUSDS liquidity on the Base network, with plans to extend this integration to Ethereum later this month",
+          "link": "https://thedefiant.io/news/defi/spark-liquidity-layer-integrates-fluid-susds-liquidity-on-base-ethereum-10-1f75494b",
+          "publishedOn": "2025-02-11T21:00:27.000Z",
+          "wordCount": 3227,
+          "title": "Spark Liquidity Layer Integrates with Fluid for sUSDS Liquidity on Base and Ethereum, Achieving $10 Billion Volume",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ondo-finance-partners-trump-backed-wlfi-to-advance-tokenized-real-world-assets-a269ae15",
           "author": "DeepNewz",
           "description": "Ondo Finance has announced a strategic collaboration with World Liberty Financial Inc",
@@ -86,7 +111,7 @@
           "description": "Designed with cheap transactions and block times of a second or less, Unichain is built on the Optimism Superchain for interoperability.",
           "link": "https://thedefiant.io/news/defi/uniswap-labs-launches-defi-focused-ethereum-layer-2-unichain",
           "publishedOn": "2025-02-11T16:12:53.000Z",
-          "wordCount": 3245,
+          "wordCount": 3477,
           "title": "Uniswap Labs Launches DeFi-Focused Ethereum Layer 2 Unichain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fb6ca8ff6df246a9be63ce2f82f1593006bcf3d-1555x875.png",
@@ -581,7 +606,7 @@
           "description": "The NEAR Protocol has launched a $20 million AI Agent Fund aimed at scaling decentralized AI applications, marking a strategic move to enhance on-chain automation",
           "link": "https://thedefiant.io/news/blockchains/near-protocol-launches-20m-ai-agent-fund-ai-token-market-cap-drops-to-6-6b-snai-63ef1e94",
           "publishedOn": "2025-02-07T22:00:20.000Z",
-          "wordCount": 3257,
+          "wordCount": 3249,
           "title": "NEAR Protocol Launches $20M AI Agent Fund as AI Token Market Cap Drops to $6.6B, SNAI Gains 127%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31d4f26eedf917d0afea886f5464c63dfe8a7599-1200x512.jpg",
@@ -611,7 +636,7 @@
           "description": "Backed by a16z and Polychain Capital, the intellectual property management protocol plans a staking fair launch beginning in March.",
           "link": "https://thedefiant.io/news/blockchains/story-protocol-reveals-tokenomics-ahead-of-mainnet-launch",
           "publishedOn": "2025-02-07T21:49:39.000Z",
-          "wordCount": 3292,
+          "wordCount": 3284,
           "title": "Story Protocol Reveals Tokenomics Ahead of Mainnet Launch",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e87b5289c1444195286e5cbbb7c2c7edae444e9e-1555x875.png",
@@ -996,7 +1021,7 @@
           "description": "The Vitalik-backed blockchain will allocate a minimum of 5% of its token supply to 10,000 soulbound NFTs.",
           "link": "https://thedefiant.io/news/blockchains/megaeth-announces-ico-via-soulbound-nft-mint",
           "publishedOn": "2025-02-05T22:42:38.000Z",
-          "wordCount": 3328,
+          "wordCount": 3320,
           "title": "MegaETH Announces ICO via Soulbound NFT Mint",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png",
@@ -1213,7 +1238,7 @@
         {
           "id": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
           "author": "Leo Jakobson",
-          "description": "The Crypto Fear and Greed Index fell to 44 before jumping back all the way to 72 today.",
+          "description": "The Crypto Fear and Greed Index whipsawed back to greed after a day deep in fear territory.",
           "link": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
           "publishedOn": "2025-02-04T21:04:17.000Z",
           "wordCount": 3310,
@@ -1459,36 +1484,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba508152401cb67d52637802b2ac210d2c41bb11-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/chainlink-wants-to-become-crypto-s-benchmark-index-provider-starting-with-defi-yield",
-          "author": "Jona Jaupi",
-          "description": "Crypto's largest oracle network is starting with a DeFi yield index.",
-          "link": "https://thedefiant.io/news/defi/chainlink-wants-to-become-crypto-s-benchmark-index-provider-starting-with-defi-yield",
-          "publishedOn": "2025-02-03T21:30:01.000Z",
-          "wordCount": 3592,
-          "title": "Chainlink Wants to Become Crypto’s Benchmark Index Provider",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b3c6991cb9a2f6f3b11a5eb26273bc75ae727757-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b3c6991cb9a2f6f3b11a5eb26273bc75ae727757-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uniswap-sets-out-to-change-the-dex-game-again-with-v4-s-hooks",
-          "author": "Jona Jaupi",
-          "description": "The latest upgrade empowers developers with customizable features and significant gas optimizations.",
-          "link": "https://thedefiant.io/news/defi/uniswap-sets-out-to-change-the-dex-game-again-with-v4-s-hooks",
-          "publishedOn": "2025-02-03T21:19:25.000Z",
-          "wordCount": 3589,
-          "title": "Uniswap Seeks to Change DEX Game Again With v4’s “Hooks”",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65f22d00d602fb6953009a029207a8102ba73d7c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65f22d00d602fb6953009a029207a8102ba73d7c-1555x875.png"
         }
       ]
     }
