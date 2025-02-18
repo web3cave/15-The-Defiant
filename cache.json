@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/cardex-exploit-on-abstract-chain-drains-users-assets",
+          "author": "Joel Lim",
+          "description": "The Abstract team has clarified that the exploit was caused by the app's negligence regarding session key management.",
+          "link": "https://thedefiant.io/news/hacks/cardex-exploit-on-abstract-chain-drains-users-assets",
+          "publishedOn": "2025-02-18T21:45:04.000Z",
+          "wordCount": 3355,
+          "title": "Cardex Exploit on Abstract Chain Drains Users’ Assets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f8e7bc3157ee1a89c49e510037cf4dfe8183373b-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f8e7bc3157ee1a89c49e510037cf4dfe8183373b-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-sinks-under-usd94-000-as-etps-record-first-outflows-in-19-weeks",
           "author": "Jona Jaupi",
           "description": "Bitcoin, Ethereum, and altcoins tumble as macroeconomic concerns weigh on investor sentiment.",
@@ -251,7 +266,7 @@
           "description": "Over $9.9 billion was lost to crypto scams in 2024.",
           "link": "https://thedefiant.io/news/hacks/pig-butchering-crypto-scams-rose-by-nearly-33-in-2024-chainalysis",
           "publishedOn": "2025-02-17T12:04:35.000Z",
-          "wordCount": 3259,
+          "wordCount": 3269,
           "title": "Pig Butchering Crypto Scams Rose By Nearly 33% in 2024: Chainalysis",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/94aa4f40596ffe6812f3952aa090f9fcb1211109-1555x875.png",
@@ -311,7 +326,7 @@
           "description": "Multiple reports indicate that the Twitter account @SaudiLawConf has been hacked and is being used to promote fraudulent meme coins",
           "link": "https://thedefiant.io/news/hacks/hacked-saudilawconf-account-promotes-three-fraudulent-meme-coins-impersonates-4d48330b",
           "publishedOn": "2025-02-17T11:39:14.000Z",
-          "wordCount": 3166,
+          "wordCount": 3174,
           "title": "Hacked @SaudiLawConf Account Promotes Three Fraudulent Meme Coins, Impersonates Crown Prince Mohammad bin Salman",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d9d7c29bb591b7638a59c3cdfedbbca6e77a989-1090x256.jpg",
@@ -1036,7 +1051,7 @@
           "description": "WazirX’s founder said they would list the new crypto if users were interested.",
           "link": "https://thedefiant.io/news/hacks/wazirx-to-issue-new-cryptocurrency-to-compensate-users-after-usd230-million-breach",
           "publishedOn": "2025-02-12T02:15:09.000Z",
-          "wordCount": 3356,
+          "wordCount": 3366,
           "title": "WazirX To Issue New Cryptocurrency To Compensate Users After $230 Million Breach",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d1b89056a8f739563587e2c3182cf4b0e1ff0571-1555x875.png",
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/953e510450e387fe199e2f13c3edfa6e7fb480cf-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/coinshares-files-xrp-litecoin-etfs-nasdaq-sec-reviews-19b-4-forms-d8236962",
-          "author": "DeepNewz",
-          "description": "CoinShares has filed applications with Nasdaq for the listing and trading of exchange-traded funds (ETFs) focused on XRP and Litecoin",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/coinshares-files-xrp-litecoin-etfs-nasdaq-sec-reviews-19b-4-forms-d8236962",
-          "publishedOn": "2025-02-10T17:45:27.000Z",
-          "wordCount": 3183,
-          "title": "CoinShares Files for XRP and Litecoin ETFs with Nasdaq, SEC Reviews 19b-4 Forms",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0014b8782a46085c5275ed207a1fff56d686b98d-1024x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0014b8782a46085c5275ed207a1fff56d686b98d-1024x1024.jpg"
         }
       ]
     }

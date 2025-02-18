@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T21:07:33.009Z</id>
+    <id>urn:2025-02-18T22:07:38.067Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-18T21:07:33.009Z</updated>
+    <updated>2025-02-18T22:07:38.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cardex Exploit on Abstract Chain Drains Users’ Assets]]></title>
+        <id>https://thedefiant.io/news/hacks/cardex-exploit-on-abstract-chain-drains-users-assets</id>
+        <link href="https://thedefiant.io/news/hacks/cardex-exploit-on-abstract-chain-drains-users-assets"/>
+        <updated>2025-02-18T21:45:04.000Z</updated>
+        <summary type="html"><![CDATA[The Abstract team has clarified that the exploit was caused by the app's negligence regarding session key management.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Sinks Under $94,000 as ETPs Record First Outflows in 19 Weeks]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-sinks-under-usd94-000-as-etps-record-first-outflows-in-19-weeks</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin, Ethereum, and Solana post slight gains, but overall market capitalization dips.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinShares Files for XRP and Litecoin ETFs with Nasdaq, SEC Reviews 19b-4 Forms]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/coinshares-files-xrp-litecoin-etfs-nasdaq-sec-reviews-19b-4-forms-d8236962</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/coinshares-files-xrp-litecoin-etfs-nasdaq-sec-reviews-19b-4-forms-d8236962"/>
-        <updated>2025-02-10T17:45:27.000Z</updated>
-        <summary type="html"><![CDATA[CoinShares has filed applications with Nasdaq for the listing and trading of exchange-traded funds (ETFs) focused on XRP and Litecoin]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
