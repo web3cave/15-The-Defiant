@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/safe-wallet-pauses-operations-amid-bybit-security-breach",
+          "author": "Joel Lim",
+          "description": "Bybit suffered a security breach on its ETH cold wallet, with the hacker stealing over $1.4 billion.",
+          "link": "https://thedefiant.io/news/defi/safe-wallet-pauses-operations-amid-bybit-security-breach",
+          "publishedOn": "2025-02-21T20:33:21.000Z",
+          "wordCount": 3288,
+          "title": "Safe Wallet Pauses Operations Amid Bybit Security Breach",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/33e86ff78af4681c6214b3c7b4d55731c7c6b8a6-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/33e86ff78af4681c6214b3c7b4d55731c7c6b8a6-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/circle-mints-250-million-usdc-on-solana-totaling-8-billion-minted-2025-9856499f",
+          "author": "DeepNewz",
+          "description": "Circle has minted an additional $250 million in USDC on the Solana blockchain, raising the total USDC minted on Solana in 2025 to $8 billion",
+          "link": "https://thedefiant.io/news/defi/circle-mints-250-million-usdc-on-solana-totaling-8-billion-minted-2025-9856499f",
+          "publishedOn": "2025-02-21T19:46:44.000Z",
+          "wordCount": 3148,
+          "title": "Circle Mints $250 Million USDC on Solana, Totaling $8 Billion Minted in 2025",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a8fe45065b9f9afb32d68683c0b798f62b6432d-866x650.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2a8fe45065b9f9afb32d68683c0b798f62b6432d-866x650.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/coinbase-sec-reach-agreement-to-dismiss-lawsuit-no-fines-pending-approval-bb5ec7aa",
           "author": "DeepNewz",
           "description": "Coinbase announced that it has reached an agreement in principle with the U.S. Securities and Exchange Commission (SEC) staff to dismiss the SEC's enforcement case against the company",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/solana-is-ready-for-real-world-assets-its-head-of-institutions-said",
           "author": "Joel Lim",
-          "description": "Solana, the sixth-largest blockchain by market cap, wants to become a hub for real world assets and institutions, Nick Ducoff, the Solana Foundation’s head of institutional growth said in an interview with the New York Stock Exchange (NYSE).",
+          "description": "Franklin Tempelton’s Benji money fund just launched on Solana.",
           "link": "https://thedefiant.io/news/blockchains/solana-is-ready-for-real-world-assets-its-head-of-institutions-said",
           "publishedOn": "2025-02-13T20:54:00.000Z",
           "wordCount": 3338,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7801e7ee4b4bb836ae9754b865601d43f59364a8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-s-pectra-network-upgrade-what-to-expect",
-          "author": "Joel Lim",
-          "description": "Pectra is the third hard fork of the Ethereum network since the merge in 2022 and will implement key features, such as account abstraction and improved staking.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-s-pectra-network-upgrade-what-to-expect",
-          "publishedOn": "2025-02-12T21:07:00.000Z",
-          "wordCount": 3808,
-          "title": "Ethereum’s Pectra Network Upgrade: What To Expect",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9462c6b859b9a934726c875e493b6cdd462a175a-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9462c6b859b9a934726c875e493b6cdd462a175a-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/sec-expected-to-acknowledge-grayscale-s-xrp-etf-filing-february-13-2025-f2dababb",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/sec-expected-to-acknowledge-grayscale-s-xrp-etf-filing-february-13-2025-f2dababb",
-          "publishedOn": "2025-02-12T20:05:18.000Z",
-          "wordCount": 3053,
-          "title": "SEC Expected to Acknowledge Grayscale's $XRP ETF Filing by February 13, 2025",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce58ce210a9d9f3e41db3a09b410dd37712de2ba-1016x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce58ce210a9d9f3e41db3a09b410dd37712de2ba-1016x1200.jpg"
         }
       ]
     }
