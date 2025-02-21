@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T23:08:18.972Z</id>
+    <id>urn:2025-02-21T00:40:27.790Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-20T23:08:18.972Z</updated>
+    <updated>2025-02-21T00:40:27.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Launches Open Intents Framework]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework"/>
+        <updated>2025-02-20T23:27:07.000Z</updated>
+        <summary type="html"><![CDATA[The framework enhances interoperability within the Ethereum ecosystem, making cross-chain experiences faster and seamless.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO Brian Armstrong is Still Bullish on Memecoins]]></title>
+        <id>https://thedefiant.io/news/people/coinbase-ceo-brian-armstrong-is-still-bullish-on-memecoins</id>
+        <link href="https://thedefiant.io/news/people/coinbase-ceo-brian-armstrong-is-still-bullish-on-memecoins"/>
+        <updated>2025-02-20T23:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Calls memecoins ‘a canary in a coal mine’ to tokenizing everything from artwork to user identity.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaito Airdrop Draws Mixed Reactions]]></title>
         <id>https://thedefiant.io/news/defi/kaito-airdrop-draws-mixed-reactions</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/ton-integrates-layerzero-cross-chain-transfers-across-100-blockchains-tether-on-90aa4c64"/>
         <updated>2025-02-11T22:00:49.000Z</updated>
         <summary type="html"><![CDATA[The Open Network (TON) has integrated with LayerZero, an interoperability protocol, to facilitate cross-chain asset transfers across more than 100 blockchains, including Ethereum, Solana, and Tron]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Extends Price Rally Amid Saturn Devnet Launch]]></title>
-        <id>https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch</id>
-        <link href="https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch"/>
-        <updated>2025-02-11T21:50:44.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum liquid staking protocol’s RPL token has surged by over 50% in the last three days.]]></summary>
-        <author>
-            <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark Liquidity Layer Integrates with Fluid for sUSDS Liquidity on Base and Ethereum, Achieving $10 Billion Volume]]></title>
-        <id>https://thedefiant.io/news/defi/spark-liquidity-layer-integrates-fluid-susds-liquidity-on-base-ethereum-10-1f75494b</id>
-        <link href="https://thedefiant.io/news/defi/spark-liquidity-layer-integrates-fluid-susds-liquidity-on-base-ethereum-10-1f75494b"/>
-        <updated>2025-02-11T21:00:27.000Z</updated>
-        <summary type="html"><![CDATA[The Spark Liquidity Layer has been integrated with Fluid to enable the deployment of sUSDS liquidity on the Base network, with plans to extend this integration to Ethereum later this month]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
