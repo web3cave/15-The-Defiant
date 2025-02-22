@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-launches-cyber-unit-to-combat-blockchain-fraud",
+          "author": "Squiffs",
+          "description": "The Cyber and Emerging Technologies Unit will target cyber-related misconduct, including fraud, hacks, and cybersecurity.",
+          "link": "https://thedefiant.io/news/regulation/sec-launches-cyber-unit-to-combat-blockchain-fraud",
+          "publishedOn": "2025-02-22T14:48:52.000Z",
+          "wordCount": 2799,
+          "title": "SEC Launches Cyber Unit to Combat Blockchain Fraud",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e7722575cb1bed53a3e05cfc2f111fe13c0e70c8-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e7722575cb1bed53a3e05cfc2f111fe13c0e70c8-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/monad-launches-testnet-and-sends-test-tokens-to-9-million-wallets",
           "author": "Squiffs",
           "description": "The performant Layer 1 released its public testnet and armed active Ethereum wallets with ammunition for dApp experimentation.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
           "author": "Jona Jaupi",
-          "description": "Investor sentiment weakens as macroeconomic concerns weigh on Bitcoin ETFs and price action.",
+          "description": "U.S. spot Bitcoin exchange-traded funds (ETFs) have recorded three consecutive days of outflows, totaling nearly $500 million, as macroeconomic uncertainty dampens investor sentiment.",
           "link": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
           "publishedOn": "2025-02-14T03:12:31.000Z",
           "wordCount": 2988,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-blocks-are-going-out-half-full-as-layer-2s-take-off",
           "author": "Leo Jakobson",
-          "description": "Bitcoin’s mempools are seeing fewer transactions in the past few months, with a few days so low that blocks went out unfilled.",
+          "description": "Transaction fees also plunged, with some bringing in just one satoshi.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-blocks-are-going-out-half-full-as-layer-2s-take-off",
           "publishedOn": "2025-02-14T02:59:27.000Z",
           "wordCount": 3392,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a443b6467041ba4a0d40d025b652418cfb028e7-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless",
-          "author": "Leo Jakobson",
-          "description": "The team behind Axie Infinity is relinquishing control to increase ecosystem growth.",
-          "link": "https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless",
-          "publishedOn": "2025-02-13T11:30:34.000Z",
-          "wordCount": 2830,
-          "title": "Sky Mavis Makes Ronin Gaming Blockchain Permissionless",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d411dfc22cb52e23921ca737e628e0fc4495b00-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d411dfc22cb52e23921ca737e628e0fc4495b00-1555x875.png"
         }
       ]
     }
