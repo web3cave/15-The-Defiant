@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T21:07:47.470Z</id>
+    <id>urn:2025-02-25T22:07:53.483Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-25T21:07:47.470Z</updated>
+    <updated>2025-02-25T22:07:53.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Story Protocol’s IP Token Leads Altcoin Market]]></title>
+        <id>https://thedefiant.io/news/blockchains/story-protocol-s-ip-token-leads-altcoin-market</id>
+        <link href="https://thedefiant.io/news/blockchains/story-protocol-s-ip-token-leads-altcoin-market"/>
+        <updated>2025-02-25T21:43:59.000Z</updated>
+        <summary type="html"><![CDATA[The newly released IP token has tripled over the last week.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Pectra Upgrade Crashes Holesky Testnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-s-pectra-upgrade-crashes-holesky-testnet</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-s-pectra-upgrade-crashes-holesky-testnet"/>
+        <updated>2025-02-25T21:28:30.000Z</updated>
+        <summary type="html"><![CDATA[A critical bug affected key Ethereum clients, preventing transactions from finalizing.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Ends Uniswap Investigation]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-ends-uniswap-investigation</id>
+        <link href="https://thedefiant.io/news/regulation/sec-ends-uniswap-investigation"/>
+        <updated>2025-02-25T21:05:33.000Z</updated>
+        <summary type="html"><![CDATA[The agency had claimed Uniswap Labs was operating an unregistered securities exchange, among other allegations.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paxos's USDG Stablecoin Launches on Solana, Fueled by 120% Growth in Stablecoin Supply]]></title>
         <id>https://thedefiant.io/news/defi/paxos-s-usdg-stablecoin-launches-on-solana-fueled-120-growth-stablecoin-supply-fae9919e</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/hyperliquid-debuts-unit-on-chain-btc-trading-hype-token-surges-above-28-9fb7cbde"/>
         <updated>2025-02-14T19:33:38.000Z</updated>
         <summary type="html"><![CDATA[Hyperliquid, a decentralized exchange (DEX), has launched 'Unit', a decentralized asset tokenization layer that enables users to trade and hold spot Bitcoin (BTC) directly on-chain through a self-custodial BTC/USD spot market]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquity Protocol Suffers $30 Million of Outflows After Disclosing V2 Bug]]></title>
-        <id>https://thedefiant.io/news/defi/liquity-protocol-suffers-usd30-million-of-outflows-after-disclosing-v2-bug</id>
-        <link href="https://thedefiant.io/news/defi/liquity-protocol-suffers-usd30-million-of-outflows-after-disclosing-v2-bug"/>
-        <updated>2025-02-14T19:06:40.000Z</updated>
-        <summary type="html"><![CDATA[The platform has advised users to exit their Earn positions on Liquity V2.]]></summary>
-        <author>
-            <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAITO Token Trades at $1.5B to $1.7B FDV in Pre-Market, YAPs Valued Up to $454 at TGE]]></title>
-        <id>https://thedefiant.io/news/defi/kaito-token-trades-1-5b-to-1-7b-fdv-pre-market-yaps-valued-up-to-454-tge-0ce805ef</id>
-        <link href="https://thedefiant.io/news/defi/kaito-token-trades-1-5b-to-1-7b-fdv-pre-market-yaps-valued-up-to-454-tge-0ce805ef"/>
-        <updated>2025-02-14T19:00:59.000Z</updated>
-        <summary type="html"><![CDATA[The cryptocurrency token $KAITO is currently trading in the pre-market at a fully diluted valuation (FDV) of approximately $1.5 billion to $1.7 billion]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mubadala Invests $436M in iShares Bitcoin ETF in Q1 2025]]></title>
-        <id>https://thedefiant.io/news/markets/mubadala-invests-436m-ishares-bitcoin-etf-q1-2025-1425d907</id>
-        <link href="https://thedefiant.io/news/markets/mubadala-invests-436m-ishares-bitcoin-etf-q1-2025-1425d907"/>
-        <updated>2025-02-14T18:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Abu Dhabi's sovereign wealth fund, Mubadala, has disclosed a $436 million investment in Bitcoin ETFs during the first quarter of 2025]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
