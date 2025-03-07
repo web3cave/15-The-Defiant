@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-07T11:07:31.508Z</id>
+    <id>urn:2025-03-07T12:15:18.485Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-07T11:07:31.508Z</updated>
+    <updated>2025-03-07T12:15:18.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New York Bill Seeks to Crack Down on Crypto Fraud]]></title>
+        <id>https://thedefiant.io/news/regulation/new-york-bill-seeks-to-crack-down-on-crypto-fraud</id>
+        <link href="https://thedefiant.io/news/regulation/new-york-bill-seeks-to-crack-down-on-crypto-fraud"/>
+        <updated>2025-03-07T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[The proposed bill A06515 aims to criminalize rug pulls, private key fraud, and fraudulent failure to disclose information.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Government Will Not Acquire Additional Stockpile Assets, No Market Purchases, Will Hold Bitcoin]]></title>
         <id>https://thedefiant.io/news/markets/u-s-government-acquire-additional-stockpile-assets-no-market-purchases-hold-3c2e9f80</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The newly released IP token has tripled over the last week.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Pectra Upgrade Crashes Holesky Testnet]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-s-pectra-upgrade-crashes-holesky-testnet</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-s-pectra-upgrade-crashes-holesky-testnet"/>
-        <updated>2025-02-25T21:28:30.000Z</updated>
-        <summary type="html"><![CDATA[A critical bug affected key Ethereum clients, preventing transactions from finalizing.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>
