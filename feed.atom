@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-20T12:16:23.666Z</id>
+    <id>urn:2025-03-20T13:17:48.473Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-20T12:16:23.666Z</updated>
+    <updated>2025-03-20T13:17:48.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Lazarus Group Launders $1.4B in Largest Crypto Theft, $16M via Wasabi Mixer]]></title>
+        <id>https://thedefiant.io/news/hacks/north-korea-s-lazarus-group-launders-1-4b-largest-crypto-theft-16m-via-wasabi-9bda963d</id>
+        <link href="https://thedefiant.io/news/hacks/north-korea-s-lazarus-group-launders-1-4b-largest-crypto-theft-16m-via-wasabi-9bda963d"/>
+        <updated>2025-03-20T13:00:43.000Z</updated>
+        <summary type="html"><![CDATA[The cryptocurrency exchange Bybit has disclosed that hackers, attributed to North Korea's Lazarus Group, have stolen $1]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Rallies on Tiered Staking System]]></title>
         <id>https://thedefiant.io/news/defi/hyperliquid-rallies-on-tiered-staking-system</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The European Union has expressed concerns that President Trump's support for cryptocurrencies could undermine Europe's monetary sovereignty and financial stability]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attacker Stymies Ethereum’s Pectra Upgrade on Sepolia Testnet]]></title>
-        <id>https://thedefiant.io/news/blockchains/attacker-stymies-ethereum-s-pectra-upgrade-on-sepolia-testnet</id>
-        <link href="https://thedefiant.io/news/blockchains/attacker-stymies-ethereum-s-pectra-upgrade-on-sepolia-testnet"/>
-        <updated>2025-03-10T20:28:42.000Z</updated>
-        <summary type="html"><![CDATA[An attacker triggered empty blocks, causing Ethereum developers to scramble for a solution.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>
