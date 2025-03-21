@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T22:08:11.065Z</id>
+    <id>urn:2025-03-21T23:08:11.576Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-21T22:08:11.065Z</updated>
+    <updated>2025-03-21T23:08:11.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Doesn’t Rule out That PoW Mining Constitutes a Securities Sale, Commissioner Crenshaw Says]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-doesn-t-rule-out-that-pow-mining-constitutes-a-securities-sale-commissioner-crenshaw-says</id>
+        <link href="https://thedefiant.io/news/regulation/sec-doesn-t-rule-out-that-pow-mining-constitutes-a-securities-sale-commissioner-crenshaw-says"/>
+        <updated>2025-03-21T22:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Caroline Crenshaw said that the SEC’s statement on proof-of-work has footnotes that say individual scrutiny of any specific project is necessary to rule it out as a securities sale.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Developers Delay Pectra Upgrade Mainnet Launch]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-developers-delay-pectra-upgrade-mainnet-launch</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/education/blockchains/what-is-staking-crypto-everything-you-need-to-know-in-2025</id>
         <link href="https://thedefiant.io/education/blockchains/what-is-staking-crypto-everything-you-need-to-know-in-2025"/>
         <updated>2025-03-18T01:33:11.000Z</updated>
-        <summary type="html"><![CDATA[In some blockchains, like Bitcoin and Litecoin and DOGE, only those with access to specialized hardware can get rewarded for participating in the decentralized network. There’s also Proof-of-Stake blockchains, like Ethereum and Solana, which require participants to put cryptocurrencies at stake, instead of owning expensive hardware.]]></summary>
+        <summary type="html"><![CDATA[Staking aims to lower the barriers of entry for those who want to participate in blockchain networks, as it requires mostly putting up cash, and in a lesser degree, minimal hardware requirements, compared to the highly specialized equipment required for Proof-of-Work.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Data shows that major ETF outflows have often marked local bottoms.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Activity on Hamster Kombat’s Layer 2 Network Plummets 99%]]></title>
-        <id>https://thedefiant.io/news/blockchains/activity-on-hamster-kombat-s-layer-2-network-plummets-99</id>
-        <link href="https://thedefiant.io/news/blockchains/activity-on-hamster-kombat-s-layer-2-network-plummets-99"/>
-        <updated>2025-03-14T19:19:35.000Z</updated>
-        <summary type="html"><![CDATA[From 150 million transactions on its Feb. 25 launch date, the Hamster Network has dropped to just 38,400 on March 14.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
