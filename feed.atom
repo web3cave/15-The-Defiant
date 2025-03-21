@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T21:07:36.020Z</id>
+    <id>urn:2025-03-21T22:08:11.065Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-21T21:07:36.020Z</updated>
+    <updated>2025-03-21T22:08:11.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers Delay Pectra Upgrade Mainnet Launch]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-developers-delay-pectra-upgrade-mainnet-launch</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-developers-delay-pectra-upgrade-mainnet-launch"/>
+        <updated>2025-03-21T21:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum developers will choose a new date for the mainnet launch after tests are complete on the Hoodi network.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fidelity Registers $4.9 Trillion AUM Solana Fund in Delaware on March 20, Eyes Possible ETF]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-registers-4-9-trillion-aum-solana-fund-delaware-on-march-20-eyes-etf-f745a9f4</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-dao-rejects-plan-to-list-token-linked-to-rwa-initiative</id>
         <link href="https://thedefiant.io/news/defi/aave-dao-rejects-plan-to-list-token-linked-to-rwa-initiative"/>
         <updated>2025-03-17T20:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Token holders of Aave, the second-largest decentralized finance (DeFi) protocol by total value locked (TVL), rejected a proposal to list a token linked to its real-world assets (RWA) initiative Horizon.]]></summary>
+        <summary type="html"><![CDATA[Aave founder Stani Kulechov said community consensus will be respected.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[From 150 million transactions on its Feb. 25 launch date, the Hamster Network has dropped to just 38,400 on March 14.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Overhauls Margin Mechanism After $4 Million Loss]]></title>
-        <id>https://thedefiant.io/news/defi/hyperliquid-overhauls-margin-mechanism-after-usd4-million-loss</id>
-        <link href="https://thedefiant.io/news/defi/hyperliquid-overhauls-margin-mechanism-after-usd4-million-loss"/>
-        <updated>2025-03-14T17:51:33.000Z</updated>
-        <summary type="html"><![CDATA[HYPE is down 40% in the last month, with another $90 million in the unstaking queue.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
