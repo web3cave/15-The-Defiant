@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/exclusive-top-vault-protocol-veda-is-expanding-to-solana",
+          "author": "Leo Jakobson",
+          "description": "With the goal of making DeFi accessible to the masses, Ethereum-first Veda is preparing to move onto Solana.",
+          "link": "https://thedefiant.io/news/defi/exclusive-top-vault-protocol-veda-is-expanding-to-solana",
+          "publishedOn": "2025-04-02T15:02:02.000Z",
+          "wordCount": 2275,
+          "title": "Exclusive: Top Vault Protocol Veda is Expanding to Solana",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/951dff965ed17ca8f990f1d36f51ef0dc2f4e6a1-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/951dff965ed17ca8f990f1d36f51ef0dc2f4e6a1-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/bringing-intellectual-property-onchain-with-story-protocol-or-jason-zhao",
           "author": "Camila Russo",
           "description": "Explore the future of intellectual property on the blockchain in this insightful interview with Jason Zhao. Discover how Story Protocol is revolutionizing the way creators protect, share, and license their work. By bringing IP and copyright onchain, the protocol streamlines the process, ensures compliance with state and national laws, and secures rights in an innovative, transparent manner. Perfect for Web3 creators and blockchain developers ready to push boundaries and unlock new possibilities.",
@@ -596,7 +611,7 @@
           "description": "PumpSwap, a decentralized exchange (DEX) launched by Pumpfun, has quickly established itself as a dominant player in the Solana ecosystem",
           "link": "https://thedefiant.io/news/defi/pumpswap-dex-surges-to-10-billion-volume-10-days-capturing-67-4-solana-market-2-56ac95f9",
           "publishedOn": "2025-03-31T19:35:07.000Z",
-          "wordCount": 1671,
+          "wordCount": 1678,
           "title": "PumpSwap DEX Surges to $10 Billion in Volume in 10 Days, Capturing 67.4% of Solana Market with $2.43B Trading Volume",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7868c4993377b203373b20cbda4ef2910aa15340-1200x937.jpg",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/news/defi/polymarket-s-usd7m-ukraine-mineral-deal-debacle-traced-to-oracle-whale",
           "author": "Leo Jakobson",
-          "description": "The premature resolution of a market on a Trump/Ukraine minerals deal leaves bettors high and dry, and shows a flaw in Polymarket’s oracle system.",
+          "description": "Polymarket will not reimburse bettors after a prediction market was resolved early with an inaccurate result.",
           "link": "https://thedefiant.io/news/defi/polymarket-s-usd7m-ukraine-mineral-deal-debacle-traced-to-oracle-whale",
           "publishedOn": "2025-03-27T14:22:52.000Z",
           "wordCount": 1768,
@@ -1479,21 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/04f5d4fbe0f8bfd2bcac3d876c8c094834b82961-1200x642.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-to-launch-stablecoin-joining-tokenized-treasuries-market-amid-trump-s-321b25ba",
-          "author": "DeepNewz",
-          "description": "Fidelity Investments, managing assets worth approximately $6 trillion, is preparing to launch its own cryptocurrency stablecoin",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-to-launch-stablecoin-joining-tokenized-treasuries-market-amid-trump-s-321b25ba",
-          "publishedOn": "2025-03-26T14:35:01.000Z",
-          "wordCount": 1592,
-          "title": "Fidelity to Launch Stablecoin, Joining Tokenized Treasuries Market Amid Trump's Support",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec0295881472bae95cba0d06f945e6a76aed7a78-720x662.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ec0295881472bae95cba0d06f945e6a76aed7a78-720x662.png"
         }
       ]
     }
