@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T13:19:45.362Z</id>
+    <id>urn:2025-04-03T14:09:02.927Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-03T13:19:45.362Z</updated>
+    <updated>2025-04-03T14:09:02.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Drops 4% to $82,000 After Trump's Tariffs Set for April 5]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-drops-4-to-82000-after-trump-s-tariffs-set-april-5-c3929842</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-drops-4-to-82000-after-trump-s-tariffs-set-april-5-c3929842"/>
+        <updated>2025-04-03T13:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and other major cryptocurrencies experienced a decline following President Donald Trump's announcement of new tariffs on imports from over 50 countries, including a 34% rate on Chinese imports and a 20% rate on European Union products]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Ethereum Blob Fees Plummet 73% to Lowest Levels Since Start of 2025]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-blob-fees-plummet-73-to-lowest-levels-since-start-of-2025</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Sam Bankman-Fried, the founder of the collapsed cryptocurrency exchange FTX, has been transferred from a New York federal jail to the Oklahoma City Federal Transit Center]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket’s $7M Ukraine Mineral Deal Debacle Traced to Oracle Whale]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-s-usd7m-ukraine-mineral-deal-debacle-traced-to-oracle-whale</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-s-usd7m-ukraine-mineral-deal-debacle-traced-to-oracle-whale"/>
-        <updated>2025-03-27T14:22:52.000Z</updated>
-        <summary type="html"><![CDATA[The premature resolution of a market on a Trump/Ukraine minerals deal leaves bettors high and dry, and shows a flaw in Polymarket’s oracle system.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
