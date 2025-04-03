@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T19:06:57.824Z</id>
+    <id>urn:2025-04-03T20:09:41.468Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-03T19:06:57.824Z</updated>
+    <updated>2025-04-03T20:09:41.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TRUMP Memecoin Plummets as Tariffs Roil Markets]]></title>
+        <id>https://thedefiant.io/news/markets/trump-memecoin-plummets-as-tariffs-roil-markets</id>
+        <link href="https://thedefiant.io/news/markets/trump-memecoin-plummets-as-tariffs-roil-markets"/>
+        <updated>2025-04-03T19:44:06.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. President’s ‘Liberation Day’ tariff announcements sent global markets tumbling, and TRUMP holders are capitulating ahead of the memecoin’s upcoming unlock.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetix’s Stablecoin sUSD Depegs to Below $0.92 Twice This Week]]></title>
+        <id>https://thedefiant.io/news/defi/synthetix-usd-stablecoin-susd-depegs-twice-this-week</id>
+        <link href="https://thedefiant.io/news/defi/synthetix-usd-stablecoin-susd-depegs-twice-this-week"/>
+        <updated>2025-04-03T19:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday’s incident marks the second time sUSD has slipped below its dollar peg this week alone.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RLUSD Market Capitalization Surges 21% After Ripple Payments Integration]]></title>
         <id>https://thedefiant.io/news/defi/rlusd-market-capitalization-surges-21-after-ripple-payments-integration</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/aave-strikes-back-chainlink-s-svr-helps-reclaim-lost-mev</id>
         <link href="https://thedefiant.io/news/defi/aave-strikes-back-chainlink-s-svr-helps-reclaim-lost-mev"/>
         <updated>2025-03-28T21:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink’s SVR allows dApps to reclaim the MEV lost due to oracle interaction.]]></summary>
+        <summary type="html"><![CDATA[Aave, the largest lending protocol by total value locked (TVL) per DeFiLlama data, has integrated Chainlink’s Smart Value Recapture (SVR) on Ethereum mainnet to recapture maximal extractable value (MEV) lost to oracle interaction, according to a Mar. 28 press release.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[After a four-year court battle, Ripple wins its fight with the Securities and Exchange Commission over whether XRP is a security. Ripple is appealing a $125 million penalty and part of the verdict.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government Moves $8M in 100 BTC Amid Rumors of Wall Street Giants Considering Gold Reserves for Bitcoin]]></title>
-        <id>https://thedefiant.io/news/markets/u-s-government-moves-8m-100-btc-amid-rumors-wall-street-giants-considering-gold-e88de5f3</id>
-        <link href="https://thedefiant.io/news/markets/u-s-government-moves-8m-100-btc-amid-rumors-wall-street-giants-considering-gold-e88de5f3"/>
-        <updated>2025-03-27T19:05:07.000Z</updated>
-        <summary type="html"><![CDATA[The U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio Ghibli Memecoins Grab Attention After OpenAI Releases Image Generation Feature]]></title>
-        <id>https://thedefiant.io/news/markets/studio-ghibli-memecoins-grab-attention-after-openai-releases-image-generation-feature</id>
-        <link href="https://thedefiant.io/news/markets/studio-ghibli-memecoins-grab-attention-after-openai-releases-image-generation-feature"/>
-        <updated>2025-03-27T18:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Over 20 Studio Ghibli-themed memecoins have been launched in the past two days, according to Dexscreener data.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>
