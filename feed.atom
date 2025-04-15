@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-15T16:08:52.187Z</id>
+    <id>urn:2025-04-15T17:07:57.334Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-15T16:08:52.187Z</updated>
+    <updated>2025-04-15T17:07:57.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZKsync Reports $5M ZK Token Theft, Price Drops 20% After 1.7M Tokens Bridged to ETH]]></title>
+        <id>https://thedefiant.io/news/hacks/zksync-reports-5m-zk-token-theft-price-drops-20-after-1-7m-tokens-bridged-to-eth-c0dabc70</id>
+        <link href="https://thedefiant.io/news/hacks/zksync-reports-5m-zk-token-theft-price-drops-20-after-1-7m-tokens-bridged-to-eth-c0dabc70"/>
+        <updated>2025-04-15T16:35:15.000Z</updated>
+        <summary type="html"><![CDATA[ZKsync, a blockchain platform, has reported that its security team identified a compromised admin account that led to the unauthorized access and control of approximately $5 million worth of ZK tokens]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Processes 355.9 Million Transactions in a Week, Generates More Fees than Ethereum and Leads DEX Volume for 4 Days]]></title>
         <id>https://thedefiant.io/news/blockchains/solana-processes-355-9-million-transactions-week-generates-more-fees-than-leads-bfe13860</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/xrp-etf-launches-as-ripple-acquires-prime-broker-hidden-road</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/xrp-etf-launches-as-ripple-acquires-prime-broker-hidden-road"/>
         <updated>2025-04-09T17:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Ripple had a big day on Tuesday as the first XRP ETF product launched in the United States, and the firm announced a major acquisition.]]></summary>
+        <summary type="html"><![CDATA[The first XRP ETF to launch in the United States — a 2x leveraged product — saw over $5 million in volume on its first day of trading, yesterday, April 8, per data from Bloomberg.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/bitgo-integrates-bitcoin-lightning-network-supporting-1500-institutional-clients-6cbb5fd6"/>
         <updated>2025-04-08T19:00:40.000Z</updated>
         <summary type="html"><![CDATA[BitGo has announced its integration with Voltage, enabling support for the Bitcoin Lightning Network for its institutional clients]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Launches ZK-Powered Confidential Balances for Institutional Compliance and Sub-Second Finality]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-institutional-compliance-sub-94b6316b</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-institutional-compliance-sub-94b6316b"/>
-        <updated>2025-04-08T18:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Solana has introduced Confidential Balances Token Extensions on its mainnet, marking the launch of the first zero-knowledge (ZK) powered encrypted token standard designed for institutional compliance]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

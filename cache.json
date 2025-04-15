@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-token-theft-price-drops-20-after-1-7m-tokens-bridged-to-eth-c0dabc70",
+          "author": "DeepNewz",
+          "description": "ZKsync, a blockchain platform, has reported that its security team identified a compromised admin account that led to the unauthorized access and control of approximately $5 million worth of ZK tokens",
+          "link": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-token-theft-price-drops-20-after-1-7m-tokens-bridged-to-eth-c0dabc70",
+          "publishedOn": "2025-04-15T16:35:15.000Z",
+          "wordCount": 824,
+          "title": "ZKsync Reports $5M ZK Token Theft, Price Drops 20% After 1.7M Tokens Bridged to ETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/solana-processes-355-9-million-transactions-week-generates-more-fees-than-leads-bfe13860",
           "author": "DeepNewz",
           "description": "Solana has achieved a remarkable milestone by processing 355",
@@ -1228,7 +1243,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/xrp-etf-launches-as-ripple-acquires-prime-broker-hidden-road",
           "author": "Leo Jakobson",
-          "description": "Ripple had a big day on Tuesday as the first XRP ETF product launched in the United States, and the firm announced a major acquisition.",
+          "description": "The first XRP ETF to launch in the United States — a 2x leveraged product — saw over $5 million in volume on its first day of trading, yesterday, April 8, per data from Bloomberg.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/xrp-etf-launches-as-ripple-acquires-prime-broker-hidden-road",
           "publishedOn": "2025-04-09T17:38:48.000Z",
           "wordCount": 1389,
@@ -1474,21 +1489,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/25d5a6c9a153fa359bb164c3ed120eeadc0a305a-1125x633.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-institutional-compliance-sub-94b6316b",
-          "author": "DeepNewz",
-          "description": "Solana has introduced Confidential Balances Token Extensions on its mainnet, marking the launch of the first zero-knowledge (ZK) powered encrypted token standard designed for institutional compliance",
-          "link": "https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-institutional-compliance-sub-94b6316b",
-          "publishedOn": "2025-04-08T18:30:40.000Z",
-          "wordCount": 774,
-          "title": "Solana Launches ZK-Powered Confidential Balances for Institutional Compliance and Sub-Second Finality",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67193bea0584f4b1cab8da87a81a2d35e6e799ef-1199x619.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67193bea0584f4b1cab8da87a81a2d35e6e799ef-1199x619.jpg"
         }
       ]
     }
