@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-04-16 datetime="2025-04-16T07:00:33.000Z">2025-04-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-04-16 datetime="2025-04-16T07:00:33.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/tradfi-and-fintech/vaneck-proposes-bitbonds-90-treasury-10-btc-to-refinance-14-trillion-u-s-debt-3-d3629711"
+                        open
+                      >
+                        <summary class="article-expander__title">VanEck Proposes BitBonds: 90% Treasury, 10% BTC to Refinance $14 Trillion U.S. Debt Over 3 Years</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/tradfi-and-fintech/vaneck-proposes-bitbonds-90-treasury-10-btc-to-refinance-14-trillion-u-s-debt-3-d3629711">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/c2e44a38e318676c205d46cba07a62a153d8a993-1140x656.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>VanEck has proposed a new financial instrument called &#x27;BitBonds&#x27; to help the U</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-04-15 datetime="2025-04-15T23:35:34.000Z">2025-04-15</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-04-15 datetime="2025-04-15T23:35:34.000Z"></time>
           </button>
@@ -408,7 +456,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/d91d82d986c604990c786f57f4cbb73df5267630-1200x675.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Brazilian fintech Meliuz has announced the conclusion of studies related to its Bitcoin strategy and plans to hold a general shareholders&#x27; meeting to vote on the inclusion of Bitcoin investments in its social objectives</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1738,7 +1786,7 @@
                               <img src="https://cdn.sanity.io/images/6oftkxoa/production/307f2922322b7b59e06a3a03b8d2eb737f98ab23-1199x800.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>BlackRock has reported record-high assets amid market volatility, with total net inflows of $84 billion in the first quarter of 2025</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2193,26 +2241,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/blockchains/berachain-suffers-usd300-million-in-net-outflows"
-                        open
-                      >
-                        <summary class="article-expander__title">Berachain Suffers $300 Million in Net Outflows</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/blockchains/berachain-suffers-usd300-million-in-net-outflows">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/6oftkxoa/production/99a78db956986dd81f777e115d8f6a01bcdc8e06-1555x875.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Capital is leaving the ecosystem, driving the $BERA token price down 40% and active users down 50%.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2220,8 +2248,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/14485971177">
-        <time id="build-timestamp" datetime="2025-04-16T06:13:28.729Z">2025-04-16T06:13:28.729Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/14486822110">
+        <time id="build-timestamp" datetime="2025-04-16T07:09:35.969Z">2025-04-16T07:09:35.969Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
