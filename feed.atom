@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T16:11:40.741Z</id>
+    <id>urn:2025-04-16T17:08:18.880Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-16T16:11:40.741Z</updated>
+    <updated>2025-04-16T17:08:18.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Dominance Reaches 64%, Highest Since February 2021]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-dominance-reaches-64-highest-since-february-2021-20c2a4de</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-dominance-reaches-64-highest-since-february-2021-20c2a4de"/>
+        <updated>2025-04-16T17:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's market cap dominance has surged to its highest level since February 2021, reaching 64%]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize Acquires MG Stover for $38B in Assets, Becomes Largest Digital Asset Fund Administrator with 715 Funds]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/securitize-acquires-mg-stover-38b-assets-becomes-largest-digital-asset-fund-715-1518eb04</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The protocol will debut with the KAST neobank’s digital dollar in a move to “become the next generation backend for fintech.”]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redstone Launches Bolt Oracle for MegaETH, Enhancing Price Data Delivery at 2.4ms and Targeting 100,000 TPS]]></title>
-        <id>https://thedefiant.io/news/defi/redstone-launches-bolt-oracle-megaeth-enhancing-price-data-delivery-2-4ms-100000-324de2f3</id>
-        <link href="https://thedefiant.io/news/defi/redstone-launches-bolt-oracle-megaeth-enhancing-price-data-delivery-2-4ms-100000-324de2f3"/>
-        <updated>2025-04-10T18:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Redstone has launched a new product called Bolt, a real-time oracle designed to deliver price data every 2]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
