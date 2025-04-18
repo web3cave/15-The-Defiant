@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/crypto-exchange-exch-to-shut-down-1-after-lazarus-group-links-35m-laundering-50-c285119f",
+          "author": "DeepNewz",
+          "description": "Cryptocurrency exchange eXch announced it will cease operations on May 1 following allegations linking it to North Korea's Lazarus Group",
+          "link": "https://thedefiant.io/news/hacks/crypto-exchange-exch-to-shut-down-1-after-lazarus-group-links-35m-laundering-50-c285119f",
+          "publishedOn": "2025-04-18T05:35:08.000Z",
+          "wordCount": 784,
+          "title": "Crypto Exchange eXch to Shut Down May 1 After Lazarus Group Links, $35M Laundering in Bybit Hack, 50 BTC Privacy Pledge",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc2b1299ce27290f32785861cd1a061f38669eb3-918x737.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc2b1299ce27290f32785861cd1a061f38669eb3-918x737.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/coinbase-adds-solana-wallets-upgrades-infrastructure-5x-faster-block-processing-5d8b6202",
           "author": "DeepNewz",
           "description": "Coinbase has introduced support for Solana wallets on its developer platform, enabling developers to create wallets with no key management, plug-and-play APIs, and wallet creation times of under 500 milliseconds",
@@ -1126,7 +1141,7 @@
           "description": "ZKsync, a blockchain platform, has reported that its security team identified a compromised admin account that led to the unauthorized access and control of approximately $5 million worth of ZK tokens",
           "link": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-token-theft-price-drops-20-after-1-7m-tokens-bridged-to-eth-c0dabc70",
           "publishedOn": "2025-04-15T16:35:15.000Z",
-          "wordCount": 817,
+          "wordCount": 838,
           "title": "ZKsync Reports $5M ZK Token Theft, Price Drops 20% After 1.7M Tokens Bridged to ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg",
@@ -1156,7 +1171,7 @@
           "description": "The zkSync team reassured users that their funds remain unaffected.",
           "link": "https://thedefiant.io/news/hacks/zksync-suffers-usd5m-loss-after-admin-wallet-exploit",
           "publishedOn": "2025-04-15T15:34:27.000Z",
-          "wordCount": 775,
+          "wordCount": 770,
           "title": "zkSync Suffers $5M Loss After Admin Wallet Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6887d738f9c60cec795b915806f19bc66e66bb00-1555x875.png",
@@ -1196,7 +1211,7 @@
           "description": "ZKsync, a blockchain platform, has reported that its security team identified a compromised admin account which led to the unauthorized control of approximately $5 million worth of ZK tokens due to a private key compromise",
           "link": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-tokens-stolen-via-private-key-compromise-zk-drops-15-0acea66c",
           "publishedOn": "2025-04-15T15:00:40.000Z",
-          "wordCount": 795,
+          "wordCount": 816,
           "title": "ZKsync Reports $5M ZK Tokens Stolen via Private Key Compromise, $ZK Drops 15%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg",
@@ -1256,7 +1271,7 @@
           "description": "KiloEx, a decentralized exchange for trading perpetual futures backed by YZi Labs, has been hit by a significant exploit, resulting in losses of approximately $7 million",
           "link": "https://thedefiant.io/news/hacks/kiloex-backed-yzi-labs-loses-7m-exploit-due-to-price-oracle-vulnerability-17713f75",
           "publishedOn": "2025-04-15T11:30:40.000Z",
-          "wordCount": 821,
+          "wordCount": 842,
           "title": "KiloEx, Backed by YZi Labs, Loses $7M in Exploit Due to Price Oracle Vulnerability",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/171ffe617ad3fcd0d6f5ed119b1fe33b758c4370-1200x675.jpg",
@@ -1469,21 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/14155e80bd3f159a9b0916f468705ea9dac52949-1200x630.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/mantra-plummets-93-loses-usd5-billion-of-market-cap-in-20-minutes",
-          "author": "Squiffs",
-          "description": "The RWA project dropped by 93% on Sunday afternoon in what the team claims were “reckless forced liquidations.”",
-          "link": "https://thedefiant.io/news/blockchains/mantra-plummets-93-loses-usd5-billion-of-market-cap-in-20-minutes",
-          "publishedOn": "2025-04-14T15:19:12.000Z",
-          "wordCount": 1068,
-          "title": "Mantra Plummets 93%, Loses $5 Billion of Market Cap in 20 Minutes",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc64e8fd5fb8225cd96b865736c12964d0d00bae-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc64e8fd5fb8225cd96b865736c12964d0d00bae-1555x875.png"
         }
       ]
     }
