@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum",
+          "author": "Joel Lim",
+          "description": "Ethereum’s co-founder argues that switching virtual machine languages is “perhaps the only way” to scale Ethereum’s execution layer.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum",
+          "publishedOn": "2025-04-21T18:54:53.000Z",
+          "wordCount": 1084,
+          "title": "Vitalik Proposes Replacing EVM With RISC-V to Scale Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc6c50bd0ce8b9564bd8f24b45b36fe0f37b8e9f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc6c50bd0ce8b9564bd8f24b45b36fe0f37b8e9f-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-buys-1000-btc-worth-84-million-coinbase-spot-etf-3664064e",
           "author": "DeepNewz",
           "description": "BlackRock Inc",
@@ -111,7 +126,7 @@
           "description": "Upexi, Inc",
           "link": "https://thedefiant.io/news/blockchains/upexi-raises-100-million-solana-accumulation-shares-surge-400-74bfeff6",
           "publishedOn": "2025-04-21T15:35:08.000Z",
-          "wordCount": 654,
+          "wordCount": 647,
           "title": "Upexi Raises $100 Million for Solana Accumulation, Shares Surge 400%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e68b877cda61084cec7c8b5bcc9fc3d26dd3c206-1200x627.jpg",
@@ -391,7 +406,7 @@
           "description": "The stablecoin market has surpassed a total capitalization of $233 billion",
           "link": "https://thedefiant.io/news/blockchains/solana-stablecoin-market-cap-hits-record-12-73-billion-sui-supply-reaches-800m-16f88e4a",
           "publishedOn": "2025-04-18T20:35:08.000Z",
-          "wordCount": 692,
+          "wordCount": 685,
           "title": "Solana Stablecoin Market Cap Hits Record $12.73 Billion as Sui Supply Reaches $800M with $60M Inflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/550da25ffaa75aa65123fab83bc85e055791cdf0-1199x664.jpg",
@@ -951,7 +966,7 @@
           "description": "In 2024, stablecoin transaction volumes surpassed those of Visa for the first time in history",
           "link": "https://thedefiant.io/news/blockchains/stablecoin-transactions-surpass-visa-payment-volume-first-time-2024-7565cf53",
           "publishedOn": "2025-04-17T12:05:08.000Z",
-          "wordCount": 656,
+          "wordCount": 649,
           "title": "Stablecoin Transactions Surpass Visa Payment Volume for First Time in 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4aa747c5189e032eb97b0e08ed23b715e971acd9-1200x915.jpg",
@@ -1469,21 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9dd3d1e649f15462445c4c7d65013a24a4fd1ac3-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/semler-scientific-files-to-raise-500-million-to-acquire-additional-bitcoin-7d46f5de",
-          "author": "DeepNewz",
-          "description": "Semler Scientific has announced plans to raise $500 million to acquire additional Bitcoin",
-          "link": "https://thedefiant.io/news/markets/semler-scientific-files-to-raise-500-million-to-acquire-additional-bitcoin-7d46f5de",
-          "publishedOn": "2025-04-15T23:30:33.000Z",
-          "wordCount": 663,
-          "title": "Semler Scientific Files to Raise $500 Million to Acquire Additional Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f38ca9cae5ae580c9a117435edca31c96556441b-1200x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f38ca9cae5ae580c9a117435edca31c96556441b-1200x1024.jpg"
         }
       ]
     }

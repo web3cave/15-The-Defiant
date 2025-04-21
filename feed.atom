@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T18:12:10.394Z</id>
+    <id>urn:2025-04-21T19:07:01.061Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-21T18:12:10.394Z</updated>
+    <updated>2025-04-21T19:07:01.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Proposes Replacing EVM With RISC-V to Scale Ethereum]]></title>
+        <id>https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum</id>
+        <link href="https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum"/>
+        <updated>2025-04-21T18:54:53.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s co-founder argues that switching virtual machine languages is “perhaps the only way” to scale Ethereum’s execution layer.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock Buys 1,000 BTC Worth $84 Million from Coinbase for Its Spot ETF]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-buys-1000-btc-worth-84-million-coinbase-spot-etf-3664064e</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/cleanspark-secures-200m-bitcoin-credit-facility-coinbase-prime-holds-12k-btc-1b-0953f6c8"/>
         <updated>2025-04-15T23:30:33.000Z</updated>
         <summary type="html"><![CDATA[CleanSpark, Inc]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semler Scientific Files to Raise $500 Million to Acquire Additional Bitcoin]]></title>
-        <id>https://thedefiant.io/news/markets/semler-scientific-files-to-raise-500-million-to-acquire-additional-bitcoin-7d46f5de</id>
-        <link href="https://thedefiant.io/news/markets/semler-scientific-files-to-raise-500-million-to-acquire-additional-bitcoin-7d46f5de"/>
-        <updated>2025-04-15T23:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Semler Scientific has announced plans to raise $500 million to acquire additional Bitcoin]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
