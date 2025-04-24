@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T12:19:05.073Z</id>
+    <id>urn:2025-04-24T13:21:43.120Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-24T12:19:05.073Z</updated>
+    <updated>2025-04-24T13:21:43.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AT&amp; T Partners with DePIN WiFi Provider Helium Network]]></title>
+        <id>https://thedefiant.io/news/infrastructure/att-helium-depin-partnership</id>
+        <link href="https://thedefiant.io/news/infrastructure/att-helium-depin-partnership"/>
+        <updated>2025-04-24T13:03:41.000Z</updated>
+        <summary type="html"><![CDATA[The decentralized physical infrastructure network is providing more than 90,000 "mini-cell towers" for AT&T customers.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Bitcoin ETFs Record $913 Million Inflow Over 4 Days, Bitcoin Price Surges Past $94,000]]></title>
         <id>https://thedefiant.io/news/markets/u-s-bitcoin-etfs-record-913-million-inflow-over-4-days-bitcoin-price-surges-past-8da1ee39</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Binance, a leading cryptocurrency exchange, has mandated that all users in India, both new and existing, must undergo KYC (Know Your Customer) re-verification to comply with updated anti-money laundering (AML) regulations]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetix’s sUSD Slides Further Away from Peg After Protocol Update]]></title>
-        <id>https://thedefiant.io/news/defi/synthetix-s-susd-slides-further-away-from-peg-after-protocol-update</id>
-        <link href="https://thedefiant.io/news/defi/synthetix-s-susd-slides-further-away-from-peg-after-protocol-update"/>
-        <updated>2025-04-18T21:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Bouncing back to $0.83, sUSD is far from out of the woods as it hit as low as $0.66 in a depegging caused by a stabilization mechanism in transition.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
