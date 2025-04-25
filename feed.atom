@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T05:09:41.082Z</id>
+    <id>urn:2025-04-25T06:13:18.031Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-25T05:09:41.082Z</updated>
+    <updated>2025-04-25T06:13:18.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea’s Lazarus Group Uses Blocknovas LLC and Softglide LLC in US to Target Crypto Developers with Malware, Violating Treasury Sanctions]]></title>
+        <id>https://thedefiant.io/news/hacks/north-koreas-lazarus-group-uses-blocknovas-llc-softglide-llc-us-to-target-crypto-126aaf34</id>
+        <link href="https://thedefiant.io/news/hacks/north-koreas-lazarus-group-uses-blocknovas-llc-softglide-llc-us-to-target-crypto-126aaf34"/>
+        <updated>2025-04-25T05:05:10.000Z</updated>
+        <summary type="html"><![CDATA[North Korea's Lazarus Group has established two shell companies, Blocknovas LLC in New Mexico and Softglide LLC in New York, using fake identities to operate within the United States]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Michael Saylor Predicts BlackRock's $IBIT Will Buy $600 Billion in Bitcoin, Become World's Largest ETF in 10 Years]]></title>
         <id>https://thedefiant.io/news/markets/michael-saylor-predicts-blackrock-s-ibit-buy-600-billion-bitcoin-world-s-largest-6a2d29f8</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Circle, the issuer of USDC, the second-largest stablecoin, is set to launch a global payments and cross-border remittance network on April 22, 2025]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Proposes Replacing EVM With RISC-V to Scale Ethereum]]></title>
-        <id>https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum</id>
-        <link href="https://thedefiant.io/news/blockchains/vitalik-proposes-replacing-evm-with-risc-v-to-scale-ethereum"/>
-        <updated>2025-04-21T18:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s co-founder argues that switching virtual machine languages is “perhaps the only way” to scale Ethereum’s execution layer.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
 </feed>
