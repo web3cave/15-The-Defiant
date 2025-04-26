@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/firms-are-adding-solana-to-corporate-treasuries-but-bitcoin-still-leads-the-way",
+          "author": "Leo Jakobson",
+          "description": "Corporations of all kinds are investing in BTC as well as SOL as the trend of holding crypto on balance sheets begins to accelerate.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/firms-are-adding-solana-to-corporate-treasuries-but-bitcoin-still-leads-the-way",
+          "publishedOn": "2025-04-26T18:11:06.000Z",
+          "wordCount": 1636,
+          "title": "Firms Are Adding Solana to Corporate Treasuries, But Bitcoin Still Leads the Way",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ff7b9b404e1940d407abe129f721ea17d588f25-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9ff7b9b404e1940d407abe129f721ea17d588f25-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/sec-s-uyeda-proposes-state-trusts-qualified-custodians-bitcoin-crypto-investment-a5e86685",
           "author": "DeepNewz",
           "description": "SEC Commissioner Mark Uyeda has proposed that state-chartered trust companies should be permitted to act as qualified custodians for Bitcoin and other cryptocurrencies",
@@ -41,7 +56,7 @@
           "description": "A new statue honoring Satoshi Nakamoto, the creator of Bitcoin, has been unveiled in Tokyo, Japan",
           "link": "https://thedefiant.io/news/blockchains/third-statue-bitcoin-creator-satoshi-nakamoto-unveiled-tokyo-following-el-16058113",
           "publishedOn": "2025-04-26T12:05:10.000Z",
-          "wordCount": 672,
+          "wordCount": 671,
           "title": "Third Statue of Bitcoin Creator Satoshi Nakamoto Unveiled in Tokyo Following Installations in Switzerland and El Salvador",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/97a4f82a0d3721f650cda674f9645dd2171aa892-1200x887.jpg",
@@ -49,21 +64,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/97a4f82a0d3721f650cda674f9645dd2171aa892-1200x887.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/SOL-BTC-corporate-treasury-accumulation",
-          "author": "Leo Jakobson",
-          "description": "Corporations of all kinds are investing in BTC as well as SOL as the trend of holding crypto on balance sheets begins to accelerate.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/SOL-BTC-corporate-treasury-accumulation",
-          "publishedOn": "2025-04-26T11:37:24.000Z",
-          "wordCount": 545,
-          "title": "Firms Are Adding Solana to Corporate Treasuries, But Bitcoin Still Leads the Way",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ff7b9b404e1940d407abe129f721ea17d588f25-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9ff7b9b404e1940d407abe129f721ea17d588f25-1555x875.png"
         },
         {
           "id": "https://thedefiant.io/news/markets/brazils-b3-launches-xrph11-worlds-first-spot-xrp-etf-managed-hashdex-genial-bf29dda1",
@@ -131,7 +131,7 @@
           "description": "Ronin Network has completed the migration of its legacy Ronin Bridge to Chainlink's Cross-Chain Interoperability Protocol (CCIP), transferring over $450 million in total value locked (TVL) across 12 assets",
           "link": "https://thedefiant.io/news/blockchains/ronin-network-migrates-450m-legacy-bridge-across-12-assets-to-chainlink-ccip-new-cdb3c832",
           "publishedOn": "2025-04-25T20:05:10.000Z",
-          "wordCount": 812,
+          "wordCount": 811,
           "title": "Ronin Network Migrates $450M Legacy Bridge Across 12 Assets to Chainlink CCIP With New WBTC Contract",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/abcf989a1ff5046ca7323d6731c817c8c3b5de13-1200x675.jpg",
@@ -146,7 +146,7 @@
           "description": "We are in an era of strategic ambiguity — in which crypto is alternately praised, ignored, or criticized depending on the day and the agenda.",
           "link": "https://thedefiant.io/news/research-and-opinion/we-need-less-fud-and-more-freud-starkware-coo-oren-katz",
           "publishedOn": "2025-04-25T20:00:05.000Z",
-          "wordCount": 1574,
+          "wordCount": 1643,
           "title": "We Need Less FUD and More Freud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/efe89f10d9cbfae6b40a20018eb9e3b1711cdbf6-1555x875.png",
@@ -176,7 +176,7 @@
           "description": "New research compares blockchain’s hiring potential to AI.",
           "link": "https://thedefiant.io/news/research-and-opinion/blockchain-could-generate-1-5-million-jobs-by-2030-bitget",
           "publishedOn": "2025-04-25T19:39:48.000Z",
-          "wordCount": 762,
+          "wordCount": 761,
           "title": "Blockchain Could Generate 1.5 Million Jobs by 2030: Bitget",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b688a465360ed4001849c6fe130509a2b260ca66-1555x875.png",
@@ -221,7 +221,7 @@
           "description": "Sol Strategies, a company focused on Solana blockchain projects, has launched Orangefin, the first dedicated mobile app for native Solana staking",
           "link": "https://thedefiant.io/news/blockchains/sol-strategies-launches-orangefin-mobile-app-solana-staking-500m-raise-no-seed-555c048d",
           "publishedOn": "2025-04-25T17:35:10.000Z",
-          "wordCount": 735,
+          "wordCount": 734,
           "title": "Sol Strategies Launches Orangefin Mobile App for Solana Staking with $500M Raise, No Seed Phrase, Zero Commission",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f60bcd381622cfada71bb908a7770b9e0c3dda92-1200x677.jpg",
@@ -281,7 +281,7 @@
           "description": "Nous Research, a decentralized AI startup, has secured $50 million in a Series A funding round led by Paradigm, achieving a $1 billion token valuation",
           "link": "https://thedefiant.io/news/blockchains/nous-research-raises-50m-series-decentralized-ai-on-solana-blockchain-9712fd2f",
           "publishedOn": "2025-04-25T15:35:10.000Z",
-          "wordCount": 741,
+          "wordCount": 740,
           "title": "Nous Research Raises $50M in Series A for Decentralized AI on Solana Blockchain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a3d7019833db1285df2ad6ce1a94961f7c7c60b7-1200x800.jpg",
@@ -311,7 +311,7 @@
           "description": "Decentralized AI startup Nous Research has secured $50 million in a Series A funding round led by crypto venture capital firm Paradigm",
           "link": "https://thedefiant.io/news/blockchains/paradigm-leads-50-million-series-solana-based-decentralized-ai-startup-nous-1-0738f570",
           "publishedOn": "2025-04-25T13:35:10.000Z",
-          "wordCount": 752,
+          "wordCount": 751,
           "title": "Paradigm Leads $50 Million Series A in Solana-Based Decentralized AI Startup Nous Research Valued at $1 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/34db297946145515d2dcbf3c0f6501322ebf867e-1200x675.jpg",
@@ -326,7 +326,7 @@
           "description": "Ronin Network has completed the migration of its legacy Ronin Bridge and all supported assets, valued at over $450 million across 12 assets, to Chainlink's Cross-Chain Interoperability Protocol (CCIP)",
           "link": "https://thedefiant.io/news/blockchains/ronin-network-migrates-450m-legacy-bridge-to-chainlink-ccip-launches-wbtc-gg-ron-3985bc83",
           "publishedOn": "2025-04-25T13:35:10.000Z",
-          "wordCount": 769,
+          "wordCount": 768,
           "title": "Ronin Network Migrates $450M Legacy Bridge to Chainlink CCIP, Launches WBTC Contract, GG Capital Invests in $RON",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/abcf989a1ff5046ca7323d6731c817c8c3b5de13-1200x675.jpg",
@@ -341,7 +341,7 @@
           "description": "The modular blockchain platform’s INIT token is trading at a $900 million fully diluted valuation.",
           "link": "https://thedefiant.io/news/blockchains/initia-launches-mainnet-with-init-token-airdrop",
           "publishedOn": "2025-04-25T12:07:06.000Z",
-          "wordCount": 876,
+          "wordCount": 875,
           "title": "Initia Launches Mainnet with INIT Token Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/12ee34573033131e94816cf4851a10c537c8cb9f-1555x875.png",
@@ -356,7 +356,7 @@
           "description": "Sui ecosystem tokens are surging this week, fueled by SUI’s 70% rally over the last week.",
           "link": "https://thedefiant.io/news/blockchains/sui-ecosystem-outperforms-altcoin-market",
           "publishedOn": "2025-04-25T11:47:53.000Z",
-          "wordCount": 863,
+          "wordCount": 862,
           "title": "Sui Ecosystem Outperforms Altcoin Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8549fad4ab5775092f536f6f56feca495c87271c-1555x875.png",
@@ -381,7 +381,7 @@
           "description": "Slovenia's capital, Ljubljana, has been named the world's most crypto-friendly city by migration consultancy firm Multipolitan",
           "link": "https://thedefiant.io/news/blockchains/ljubljana-named-world-s-most-crypto-friendly-city-surpassing-hong-kong-zurich-449e8236",
           "publishedOn": "2025-04-25T11:05:10.000Z",
-          "wordCount": 674,
+          "wordCount": 673,
           "title": "Ljubljana Named World's Most Crypto-Friendly City, Surpassing Hong Kong, Zurich, Singapore, and Abu Dhabi",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e44ca9664d9a8c1975d1ea259be24d6ad167beb-756x907.jpg",
@@ -496,7 +496,7 @@
           "description": "The Layer 1 chain is the fastest-growing blockchain in the top 20 by TVL over the last month.",
           "link": "https://thedefiant.io/news/blockchains/hyperliquid-tvl-surges-as-hyperevm-activity-picks-up",
           "publishedOn": "2025-04-24T19:51:39.000Z",
-          "wordCount": 846,
+          "wordCount": 845,
           "title": "Hyperliquid TVL Surges as HyperEVM Activity Picks Up",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd59076cfb20e50a78972bc14c87b5bd741fff30-1555x875.png",
@@ -536,7 +536,7 @@
           "description": "The stablecoin market on the Solana blockchain has reached a new all-time high, with the total supply hitting $236 billion",
           "link": "https://thedefiant.io/news/blockchains/solana-s-stablecoin-market-hits-236-billion-ath-circle-mints-250m-usdc-08223fea",
           "publishedOn": "2025-04-24T19:05:11.000Z",
-          "wordCount": 732,
+          "wordCount": 731,
           "title": "Solana's Stablecoin Market Hits $236 Billion ATH, Circle Mints $250M USDC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2956975938868883cf1372d53b124be25c5fff21-1200x844.jpg",
@@ -581,7 +581,7 @@
           "description": "Arbitrum has announced that builders can now select any token as the gas fee payment method across all Arbitrum chains, expanding on a feature that has been available on AnyTrust chains for over a year",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-enables-token-gas-fees-on-all-chains-including-anytrust-eth-no-longer-daa62473",
           "publishedOn": "2025-04-24T19:05:11.000Z",
-          "wordCount": 821,
+          "wordCount": 820,
           "title": "Arbitrum Enables Any Token for Gas Fees on All Chains Including AnyTrust; ETH No Longer Required, MetaMask Supports Custom Tokens",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31aa54b7ee7e48d89740005fba81a27a3b2f7b3f-1080x1081.jpg",
@@ -611,7 +611,7 @@
           "description": "On the surface, Ethereum may appear to be lagging, but staking-enabled ETH ETFs might very well be the light at the end of the tunnel.",
           "link": "https://thedefiant.io/news/research-and-opinion/wall-streets-next-bet-staking-enabled-eth-etfs",
           "publishedOn": "2025-04-24T17:50:41.000Z",
-          "wordCount": 1901,
+          "wordCount": 1900,
           "title": "Wall Street’s Next Bet: Staking-Enabled ETH ETFs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6370eab3f1cd6fcb684ecc61c24622817c56cb3f-1555x875.png",
@@ -626,7 +626,7 @@
           "description": "Growing pressure to shift strategy seems to have taken hold in the Ethereum Foundation, as ETH’s underperformance forces a change in tone.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-leadership-seeks-to-reverse-rock-bottom-sentiment-with-new-roadmap",
           "publishedOn": "2025-04-24T17:46:23.000Z",
-          "wordCount": 2128,
+          "wordCount": 2127,
           "title": "Ethereum Leadership Seeks to Reverse Rock-bottom Sentiment with New Roadmap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c99787485ec4acc065e8edbedf75435d53fe906-1555x875.png",
@@ -851,7 +851,7 @@
           "description": "Panama City has officially signed an agreement with a local bank to enable municipal payments using Bitcoin",
           "link": "https://thedefiant.io/news/blockchains/panama-city-mayor-mizrachi-signs-deal-local-bank-to-process-municipal-payments-2340e72a",
           "publishedOn": "2025-04-24T09:35:10.000Z",
-          "wordCount": 671,
+          "wordCount": 670,
           "title": "Panama City Mayor Mizrachi Signs Deal With Local Bank to Process Municipal Payments in Bitcoin",
           "imageUrl": null
         },
@@ -906,7 +906,7 @@
           "description": "The Coinbase-backed platform distributed 1 billion ZORA tokens to early users.",
           "link": "https://thedefiant.io/news/blockchains/zora-s-token-airdrop-sparks-confusion",
           "publishedOn": "2025-04-23T21:03:06.000Z",
-          "wordCount": 1081,
+          "wordCount": 1080,
           "title": "Zora’s Token Airdrop Sparks Confusion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aaf28a37e7ee7162da81a516b6ae93c7e78a9e0b-1555x875.png",
@@ -921,7 +921,7 @@
           "description": "Cantor Fitzgerald LP is in advanced discussions with SoftBank Group Corp",
           "link": "https://thedefiant.io/news/blockchains/cantor-softbank-tether-plan-3-billion-spac-to-amass-42000-bitcoin-de8caebb",
           "publishedOn": "2025-04-23T20:35:10.000Z",
-          "wordCount": 777,
+          "wordCount": 776,
           "title": "Cantor, SoftBank and Tether Plan $3 Billion SPAC to Amass 42,000 Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a9ed08507fdb66dbb6acb94cec0929fadb7911d-896x788.jpg",
@@ -991,7 +991,7 @@
           "description": "With its Euclid upgrade, the ZK rollup has reached a degree of decentralization laid out by Ethereum co-founder Vitalik Buterin.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-scroll-claims-to-achieve-stage-1-decentralization",
           "publishedOn": "2025-04-23T19:59:28.000Z",
-          "wordCount": 994,
+          "wordCount": 993,
           "title": "Ethereum Layer 2 Scroll Claims to Achieve ‘Stage 1’ Decentralization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/76958483a30bade6cf974e8164e1c5b3c9cb90db-1555x875.png",
@@ -1111,7 +1111,7 @@
           "description": "Sol Strategies Inc",
           "link": "https://thedefiant.io/news/blockchains/sol-strategies-secures-500m-atw-partners-solana-expansion-interest-paid-sol-d63046e9",
           "publishedOn": "2025-04-23T16:05:10.000Z",
-          "wordCount": 685,
+          "wordCount": 684,
           "title": "Sol Strategies Secures $500M from ATW Partners for Solana Expansion, Interest Paid in SOL",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b56f8346d09f4f3500bfd62a9959eeddf2eefea4-960x1200.jpg",
@@ -1126,7 +1126,7 @@
           "description": "Cantor Fitzgerald LP is in advanced talks with SoftBank Group Corp",
           "link": "https://thedefiant.io/news/blockchains/cantor-softbank-tether-talks-3-billion-bitcoin-vehicle-twenty-one-capital-239a4016",
           "publishedOn": "2025-04-23T15:05:10.000Z",
-          "wordCount": 777,
+          "wordCount": 776,
           "title": "Cantor, SoftBank, Tether in Talks for $3 Billion Bitcoin Vehicle Twenty One Capital",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a9ed08507fdb66dbb6acb94cec0929fadb7911d-896x788.jpg",
@@ -1141,7 +1141,7 @@
           "description": "Sol Strategies has secured a $500 million convertible note facility from ATW Partners, marking the largest financing deal within the Solana ecosystem",
           "link": "https://thedefiant.io/news/blockchains/sol-strategies-secures-500-million-convertible-note-facility-atw-partners-solana-1169e37d",
           "publishedOn": "2025-04-23T15:05:10.000Z",
-          "wordCount": 765,
+          "wordCount": 764,
           "title": "Sol Strategies Secures $500 Million Convertible Note Facility from ATW Partners in Largest Solana Deal; Astra Fintech Launches $100 Million Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b56f8346d09f4f3500bfd62a9959eeddf2eefea4-960x1200.jpg",
@@ -1246,7 +1246,7 @@
           "description": "Satoshi Nakamoto's Bitcoin holdings have surpassed $100 billion, according to reports from Arkham and Bitcoin Magazine",
           "link": "https://thedefiant.io/news/blockchains/satoshi-nakamoto-s-bitcoin-holdings-hit-100-billion-marking-14th-anniversary-e3a49396",
           "publishedOn": "2025-04-23T12:05:08.000Z",
-          "wordCount": 651,
+          "wordCount": 650,
           "title": "Satoshi Nakamoto's Bitcoin Holdings Hit $100 Billion, Marking 14th Anniversary of Last Email",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/713512121340d916dfea492bfdf5f62094793c4a-1200x1198.jpg",
@@ -1466,7 +1466,7 @@
           "description": "The surge signals rising demand for stablecoins as the Solana DeFi ecosystem expands.",
           "link": "https://thedefiant.io/news/blockchains/solana-stablecoin-market-hits-record-usd12-8-billion",
           "publishedOn": "2025-04-22T18:40:50.000Z",
-          "wordCount": 940,
+          "wordCount": 939,
           "title": "Solana Stablecoin Market Hits Record $12.8 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/15f26a0df6f2468c511493d9fe65b431b8f0a4b7-1555x875.png",
