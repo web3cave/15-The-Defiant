@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/3-trillion-goldman-sachs-expands-into-bitcoin-crypto-trading-lending-4a80d6c4",
+          "author": "DeepNewz",
+          "description": "Goldman Sachs, a financial institution with a market value of $3 trillion, is expanding its digital asset activities",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/3-trillion-goldman-sachs-expands-into-bitcoin-crypto-trading-lending-4a80d6c4",
+          "publishedOn": "2025-05-02T13:05:11.000Z",
+          "wordCount": 675,
+          "title": "$3 Trillion Goldman Sachs Expands Into Bitcoin and Crypto With Trading, Lending, Tokenization",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e15183d639e598fc1c88076ccc6f508f5c84ca02-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e15183d639e598fc1c88076ccc6f508f5c84ca02-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/crypto-theft-in-april-certik-report",
+          "author": "Jona Jaupi",
+          "description": "The staggering figure marks a 1,097% increase from March.",
+          "link": "https://thedefiant.io/news/hacks/crypto-theft-in-april-certik-report",
+          "publishedOn": "2025-05-02T12:55:45.000Z",
+          "wordCount": 915,
+          "title": "A Single Phishing Attack Drives $364M in April Crypto Losses: CertiK",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/61f2fc275d645c03a47417489a8f0c4fa065ffba-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/61f2fc275d645c03a47417489a8f0c4fa065ffba-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-l2-aztec-network-launches-public-testnet",
           "author": "Jona Jaupi",
           "description": "After eight years of development, the a16z-backed Layer 2 protocol has launched its testnet.",
@@ -19,21 +49,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a70f045f358e9a3a84c9f094f7e01cea3379369e-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-dominance-hits-64-73-highest-since-january-2021-nearly-two-thirds-crypto-3953c697",
-          "author": "DeepNewz",
-          "description": "Bitcoin's market dominance has reached 64",
-          "link": "https://thedefiant.io/news/markets/bitcoin-dominance-hits-64-73-highest-since-january-2021-nearly-two-thirds-crypto-3953c697",
-          "publishedOn": "2025-05-02T12:05:11.000Z",
-          "wordCount": 650,
-          "title": "Bitcoin Dominance Hits 64.73%, Highest Since January 2021, Nearly Two-Thirds of Crypto Market",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/629975bd0a345effeb3075db019c98291d125395-1029x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/629975bd0a345effeb3075db019c98291d125395-1029x1200.jpg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/senate-majority-leader-thune-expedites-vote-on-genius-act-to-regulate-before-day-9aea8f98",
@@ -106,21 +121,6 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e0adfe9305472a7b5476477ce6b8040d4771065b-1200x800.jpg"
         },
         {
-          "id": "https://thedefiant.io/news/blockchains/aztec-network-s-8-year-zk-rollup-testnet-launches-boosting-ethereum-s-privacy-a1e7f5f1",
-          "author": "DeepNewz",
-          "description": "Aztec Network has launched its public testnet, which has been developed over eight years, introducing programmable privacy features to the Ethereum ecosystem",
-          "link": "https://thedefiant.io/news/blockchains/aztec-network-s-8-year-zk-rollup-testnet-launches-boosting-ethereum-s-privacy-a1e7f5f1",
-          "publishedOn": "2025-05-01T21:05:11.000Z",
-          "wordCount": 741,
-          "title": "Aztec Network's 8-Year zk Rollup Testnet Launches, Boosting Ethereum's Programmable Privacy",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/101a9591c8a7e59bef7e8ba428257edf6bd3ee06-1080x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/101a9591c8a7e59bef7e8ba428257edf6bd3ee06-1080x1080.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/people/michael-saylor-s-strategy-to-raise-84-billion-bitcoin-split-between-42b-equity-fecabfba",
           "author": "DeepNewz",
           "description": "Michael Saylor, through his company Strategy, is planning to raise $84 billion to purchase more Bitcoin",
@@ -156,7 +156,7 @@
           "description": "Bloomberg analysts put the likelihood of a DOGE ETF this year at 80%.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-crypto-etf-odds-of-approval",
           "publishedOn": "2025-05-01T20:16:50.000Z",
-          "wordCount": 902,
+          "wordCount": 898,
           "title": "Dogecoin ETF More Likely Than Avalanche, Cardano and Polkadot, Says Analyst",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e2a1e96b215f9697faec292511983d18e14e919-1555x875.png",
@@ -306,7 +306,7 @@
           "description": "Charles Schwab Corp",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-ceo-rick-wurster-to-launch-bitcoin-ethereum-spot-trading-12-651659a8",
           "publishedOn": "2025-05-01T14:05:11.000Z",
-          "wordCount": 637,
+          "wordCount": 640,
           "title": "Charles Schwab CEO Rick Wurster to Launch Bitcoin and Ethereum Spot Trading Within 12 Months",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fac0072b794a61695a63e35a0ce5a83c3f06c7a4-1200x675.jpg",
@@ -321,7 +321,7 @@
           "description": "Morgan Stanley is developing a plan to let clients of its E*Trade brokerage buy and sell cryptocurrencies, according to people familiar with the matter",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-plans-crypto-trading-5-2-million-e-trade-clients-soon-2026-43ec977e",
           "publishedOn": "2025-05-01T12:35:11.000Z",
-          "wordCount": 733,
+          "wordCount": 752,
           "title": "Morgan Stanley Plans Crypto Trading for 5.2 Million E*Trade Clients as Soon as 2026",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/27c55a5f9ec2e9aaca98f6d140bdf26c31c47e91-844x656.png",
@@ -681,7 +681,7 @@
           "description": "Matt Hougan, Chief Investment Officer at Bitwise, has indicated that the four major U",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-cio-predicts-merrill-lynch-morgan-stanley-wells-fargo-ubs-to-open-etfs-8cfd39fb",
           "publishedOn": "2025-04-30T12:05:11.000Z",
-          "wordCount": 692,
+          "wordCount": 716,
           "title": "Bitwise CIO Predicts Merrill Lynch, Morgan Stanley, Wells Fargo, UBS to Open Bitcoin ETFs Access, Driving Record Inflows in 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/628b75a40692a2e8c1a3b75715d554889b5f7132-1200x1200.jpg",
@@ -711,7 +711,7 @@
           "description": "BlackRock Inc",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-to-tokenize-150b-treasury-trust-fund-shares-on-ethereum-09145f1d",
           "publishedOn": "2025-04-30T09:35:11.000Z",
-          "wordCount": 607,
+          "wordCount": 631,
           "title": "BlackRock Files to Tokenize $150B Treasury Trust Fund Shares on Ethereum Blockchain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1830b1e372d7d13ea0ab46c4a7e49c6f567c68f8-1080x1080.png",
@@ -1201,7 +1201,7 @@
           "description": "The market for tokenized real-world assets, including U",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-tokenized-treasury-fund-grows-sevenfold-to-2-5b-six-entities-control-93c42fcc",
           "publishedOn": "2025-04-28T21:35:10.000Z",
-          "wordCount": 797,
+          "wordCount": 814,
           "title": "BlackRock's Tokenized Treasury Fund Grows Sevenfold to $2.5B; Six Entities Control 88% of $5.4B Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/72b563cdff8485f318e82859b23895ea3c543b1b-1024x501.jpg",
@@ -1216,7 +1216,7 @@
           "description": "Mastercard has announced the launch of a global stablecoin payment system.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-global-stablecoin-system-enabling-payments-150m-merchants-46ab76af",
           "publishedOn": "2025-04-28T21:30:09.000Z",
-          "wordCount": 770,
+          "wordCount": 773,
           "title": "Mastercard Launches Global Stablecoin System, Enabling Payments at 150M Merchants via OKX Card and USDC Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a09ba76e44d2d6497418a0da41668e2a180de53-1200x638.jpg",
@@ -1336,7 +1336,7 @@
           "description": "Despite charging fees six times higher than its competitors, the Grayscale Bitcoin Trust ETF still has almost $18 billion under management.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/gbtc-remains-a-cash-cow-for-grayscale",
           "publishedOn": "2025-04-28T19:23:20.000Z",
-          "wordCount": 978,
+          "wordCount": 974,
           "title": "GBTC Remains a Cash Cow for Grayscale",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f67573117f492730ce2adeab1f0a3740b6f336b-1555x875.png",
@@ -1421,7 +1421,7 @@
           "description": "OKX has launched OKX Pay, a new self-custody crypto payment application designed to bridge the gap between cryptocurrency and everyday payments",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633",
           "publishedOn": "2025-04-28T17:05:10.000Z",
-          "wordCount": 792,
+          "wordCount": 795,
           "title": "OKX Launches Self-Custody OKX Pay with Zero Fees, Partners with Mastercard",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53a9ab39e160456556a49792c26b15097a4ef9d6-553x1200.jpg",
@@ -1466,7 +1466,7 @@
           "description": "Itaú, Latin America's largest bank, has announced a significant investment in Bitcoin, funding a new company named Oranje with an initial purchase of $210 million in the cryptocurrency",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/latin-america-s-largest-bank-itau-funds-microstrategy-inspired-oranje-210m-f9508419",
           "publishedOn": "2025-04-28T15:05:10.000Z",
-          "wordCount": 718,
+          "wordCount": 742,
           "title": "Latin America's Largest Bank Itaú Funds MicroStrategy-Inspired Oranje With $210M for Bitcoin Reserve",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6373f472e84a369d149f93366904ea11c988e303-1200x800.jpg",
