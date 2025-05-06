@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/flare-defi-tvl-doubles-to-usd124m-as-kraken-enables-usdmnt0-transfers",
+          "author": "Jona Jaupi",
+          "description": "The new integration with Kraken aims to boost accessibility to the omnichain stablecoin for Flare users.",
+          "link": "https://thedefiant.io/news/blockchains/flare-defi-tvl-doubles-to-usd124m-as-kraken-enables-usdmnt0-transfers",
+          "publishedOn": "2025-05-06T11:07:10.000Z",
+          "wordCount": 779,
+          "title": "Flare DeFi TVL Doubles to $124M as Kraken Enables USD₮0 Transfers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/22ab025e913817d63b996f4174ba186f7fdf487d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/22ab025e913817d63b996f4174ba186f7fdf487d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ethena-launches-usde-integrations-on-hyperliquid",
           "author": "Squiffs",
           "description": "Ethena’s USDe synthetic dollar is live on Hyperliquid’s Hypercore,  HyperEVM, and Unit.",
@@ -111,27 +126,12 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6093ed67ad9f4a5b1b1b0d9d46ef8fbac21e6e14-1555x875.png"
         },
         {
-          "id": "https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae",
-          "author": "DeepNewz",
-          "description": "Arizona Governor Katie Hobbs vetoed 23 out of 57 bills during the current legislative session, including the Strategic Bitcoin Reserve Bill (SB1025), which would have allowed the state to hold Bitcoin as part of its official reserves",
-          "link": "https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae",
-          "publishedOn": "2025-05-05T19:35:00.000Z",
-          "wordCount": 748,
-          "title": "Arizona Governor Katie Hobbs Vetoes Strategic Bitcoin Reserve Bill SB1025; Senator Wendy Rogers Plans to Refile",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/168dc77d75b2fef7d8e75b35e71e089fd94698f7-1199x461.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/168dc77d75b2fef7d8e75b35e71e089fd94698f7-1199x461.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/blockchains/vitalik-buterin-wants-to-make-ethereum-as-beautifully-simple-as-bitcoin",
           "author": "Leo Jakobson",
           "description": "A proposed 5-year plan would replace the Ethereum Virtual Machine with a far simpler RISC-V architecture.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-wants-to-make-ethereum-as-beautifully-simple-as-bitcoin",
           "publishedOn": "2025-05-05T18:57:38.000Z",
-          "wordCount": 890,
+          "wordCount": 870,
           "title": "Vitalik Buterin Wants to Make Ethereum as “Beautifully Simple” as Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/867ff8f68da536a0db973b6ff7e6c10512e03605-1555x875.png",
@@ -146,7 +146,7 @@
           "description": "Wrapped Bitcoin (WBTC) has been launched natively on the Solana blockchain, enabling direct Bitcoin liquidity for trading and cross-chain transfers",
           "link": "https://thedefiant.io/news/blockchains/wrapped-bitcoin-now-live-on-solana-enables-direct-btc-liquidity-bridgeless-to-348e1c41",
           "publishedOn": "2025-05-05T18:35:00.000Z",
-          "wordCount": 649,
+          "wordCount": 629,
           "title": "Wrapped Bitcoin Now Live on Solana, Enables Direct BTC Liquidity and Bridgeless Transfer to Cardano",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d75d25e6b383c3afa7df715a80685c6a97176a0c-1070x1070.jpg",
@@ -176,7 +176,7 @@
           "description": "The Maldives has signed a $9 billion deal with Dubai-based MBS Global Investments to develop a blockchain and digital assets financial hub in Malé, the capital city",
           "link": "https://thedefiant.io/news/blockchains/maldives-signs-9-billion-deal-dubais-mbs-global-to-build-blockchain-hub-male-gdp-2e239dde",
           "publishedOn": "2025-05-05T16:35:00.000Z",
-          "wordCount": 739,
+          "wordCount": 719,
           "title": "Maldives Signs $9 Billion Deal With Dubai’s MBS Global to Build Blockchain Hub in Malé, Exceeding GDP",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b2105239db6da08bbf76469ba8bf15da52fc806-1125x763.jpg",
@@ -206,7 +206,7 @@
           "description": "MicroStrategy Inc",
           "link": "https://thedefiant.io/news/blockchains/microstrategy-plans-large-bitcoin-purchase-57-billion-capital-backed-benchmark-07cd63cb",
           "publishedOn": "2025-05-04T23:35:00.000Z",
-          "wordCount": 614,
+          "wordCount": 594,
           "title": "MicroStrategy Plans Large Bitcoin Purchase with $57 Billion Capital Backed by Benchmark, Bernstein Buy Ratings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a44993caad2d13aaf2b33de40b58b6769d3db96-1200x674.jpg",
@@ -221,7 +221,7 @@
           "description": "BlackRock's BUIDL fund has allocated approximately $2",
           "link": "https://thedefiant.io/news/blockchains/blackrock-s-buidl-fund-puts-2-7b-on-ethereum-stablecoins-hold-0-5-us-debt-solana-de4bf95a",
           "publishedOn": "2025-05-04T21:35:00.000Z",
-          "wordCount": 743,
+          "wordCount": 723,
           "title": "BlackRock's BUIDL Fund Puts $2.7B on Ethereum as Stablecoins Hold 0.5% of US Debt, Solana Hits $13.1B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8933bd60cbb0869bf05bd198c81bbd91c5b7d6e9-1199x800.jpg",
@@ -236,7 +236,7 @@
           "description": "The Maldives has announced plans to establish a blockchain and digital assets financial hub with an investment of approximately $9 billion",
           "link": "https://thedefiant.io/news/blockchains/mbs-global-to-invest-8-8-billion-maldives-blockchain-hub-exceeding-nation-s-gdp-87baed8b",
           "publishedOn": "2025-05-04T20:05:01.000Z",
-          "wordCount": 630,
+          "wordCount": 611,
           "title": "MBS Global to Invest $8.8 Billion in Maldives Blockchain Hub, Exceeding Nation's GDP",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b2105239db6da08bbf76469ba8bf15da52fc806-1125x763.jpg",
@@ -311,7 +311,7 @@
           "description": "BlackRock has recently purchased an additional $20 million worth of Ethereum, reinforcing its substantial investment in the cryptocurrency",
           "link": "https://thedefiant.io/news/blockchains/blackrock-buys-20-million-ethereum-holds-92-2-92-billion-buidl-fund-assets-other-4c625f62",
           "publishedOn": "2025-05-04T17:35:20.000Z",
-          "wordCount": 699,
+          "wordCount": 679,
           "title": "BlackRock Buys $20 Million Ethereum, Holds 92% of $2.92 Billion BUIDL Fund Assets, Other Chains Included",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8933bd60cbb0869bf05bd198c81bbd91c5b7d6e9-1199x800.jpg",
@@ -701,7 +701,7 @@
           "description": "After eight years of development, the a16z-backed Layer 2 protocol has launched its testnet.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-l2-aztec-network-launches-public-testnet",
           "publishedOn": "2025-05-02T12:16:42.000Z",
-          "wordCount": 1023,
+          "wordCount": 1003,
           "title": "Ethereum L2 Aztec Launches Public Testnet to Make Privacy ‘the Norm, not the Exception’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a70f045f358e9a3a84c9f094f7e01cea3379369e-1555x875.png",
@@ -771,7 +771,7 @@
           "description": "BlackRock has filed for a tokenized money market fund on the Ethereum blockchain, signaling a move toward integrating real assets with public blockchain technology",
           "link": "https://thedefiant.io/news/blockchains/blackrock-files-ethereum-tokenized-fund-multibank-mag-mavryk-tokenize-3b-dubai-56c85cd3",
           "publishedOn": "2025-05-01T22:35:11.000Z",
-          "wordCount": 777,
+          "wordCount": 757,
           "title": "BlackRock Files Ethereum Tokenized Fund as MultiBank, MAG, Mavryk Tokenize $3B Dubai Real Estate with Daily Yields",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e0adfe9305472a7b5476477ce6b8040d4771065b-1200x800.jpg",
@@ -846,7 +846,7 @@
           "description": "A new statue honoring Satoshi Nakamoto, the creator of Bitcoin, has been unveiled in the town of Fornelli, Italy",
           "link": "https://thedefiant.io/news/blockchains/new-statue-bitcoin-creator-satoshi-nakamoto-unveiled-fornelli-italy-municipality-faff1606",
           "publishedOn": "2025-05-01T19:05:11.000Z",
-          "wordCount": 689,
+          "wordCount": 669,
           "title": "New Statue of Bitcoin Creator Satoshi Nakamoto Unveiled in Fornelli, Italy, Municipality Funded with 24 Merchants Accepting Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8341284df19ffcf425fdf22a2d146291ba7e2155-788x1030.jpg",
@@ -936,7 +936,7 @@
           "description": "The Blockchain Group, recognized as Europe’s first Bitcoin treasury company, has announced a plan to acquire 260,000 Bitcoin over the next decade, targeting a total value of approximately $24 billion by 2033",
           "link": "https://thedefiant.io/news/blockchains/europes-first-bitcoin-treasury-group-plans-to-acquire-260000-bitcoin-worth-24-1-a54d5fd6",
           "publishedOn": "2025-05-01T15:05:11.000Z",
-          "wordCount": 716,
+          "wordCount": 696,
           "title": "Europe’s First Bitcoin Treasury Group Plans to Acquire 260,000 Bitcoin Worth $24 Billion, 1% of Supply by 2033",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/75f48e0b86d4c6de96fb5f64f6dca8ec09f9faf6-1200x956.jpg",
@@ -1071,7 +1071,7 @@
           "description": "Japan-based Metaplanet, a publicly traded company, is launching a U",
           "link": "https://thedefiant.io/news/blockchains/japan-s-metaplanet-launches-florida-based-us-subsidiary-250-million-stock-up-5-d9bcbf62",
           "publishedOn": "2025-05-01T02:35:11.000Z",
-          "wordCount": 632,
+          "wordCount": 612,
           "title": "Japan's Metaplanet Launches Florida-Based US Subsidiary With $250 Million, Stock Up 5% to Expand Bitcoin Treasury",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee3120c380516c701e981450765a85866c638bd5-1024x1004.jpg",
@@ -1086,7 +1086,7 @@
           "description": "A Los Angeles-based entertainment company has acquired exclusive rights to the story of James Howells, a British man who lost a hard drive containing approximately 8,000 Bitcoin, valued at around $750 million, in a landfill in the UK",
           "link": "https://thedefiant.io/news/blockchains/la-company-secures-rights-to-british-james-howells-750m-bitcoin-story-docksway-9a74b9f1",
           "publishedOn": "2025-04-30T21:35:11.000Z",
-          "wordCount": 783,
+          "wordCount": 763,
           "title": "LA Company Secures Rights to British James Howells’ $750M Bitcoin Story From Docksway Landfill With Global Campaign",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c2ee53a6057d09152caec90ec609234c4c0633a8-921x603.jpg",
@@ -1146,7 +1146,7 @@
           "description": "Roswell, New Mexico, has become the first city in the United States to establish a strategic Bitcoin reserve, following a $3,000 Bitcoin donation",
           "link": "https://thedefiant.io/news/blockchains/roswell-nm-launches-first-u-s-city-bitcoin-reserve-3000-donation-aims-1m-3f6f7681",
           "publishedOn": "2025-04-30T20:30:11.000Z",
-          "wordCount": 697,
+          "wordCount": 677,
           "title": "Roswell, NM Launches First U.S. City Bitcoin Reserve with $3,000 Donation, Aims for $1M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/507ee6700a66dc67bc7c2b61ea7004d6af06e578-796x934.jpg",
@@ -1356,7 +1356,7 @@
           "description": "The city of Roswell, New Mexico, has become the first city in the United States to establish a strategic Bitcoin reserve",
           "link": "https://thedefiant.io/news/blockchains/roswell-new-mexico-establishes-first-municipal-strategic-bitcoin-reserve-3000-9bec31de",
           "publishedOn": "2025-04-30T10:05:11.000Z",
-          "wordCount": 633,
+          "wordCount": 613,
           "title": "Roswell, New Mexico Establishes First Municipal Strategic Bitcoin Reserve Following $3,000 Bitcoin Donation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/507ee6700a66dc67bc7c2b61ea7004d6af06e578-796x934.jpg",
@@ -1456,7 +1456,7 @@
           "description": "INIT trades at a fully diluted valuation of $830 million.",
           "link": "https://thedefiant.io/news/blockchains/initia-token-recovers-from-post-airdrop-slump-with-30-rally",
           "publishedOn": "2025-04-29T21:38:14.000Z",
-          "wordCount": 866,
+          "wordCount": 846,
           "title": "Initia Token Recovers from Post-Airdrop Slump with 30% Rally",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe4deb561cd36119e1954336fea578dc03b23131-1555x875.png",
