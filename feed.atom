@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T10:10:35.845Z</id>
+    <id>urn:2025-05-07T11:08:07.927Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-07T10:10:35.845Z</updated>
+    <updated>2025-05-07T11:08:07.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Pectra Upgrade Just Went Live — What Does It Do?]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-pectra-upgrade-live</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-pectra-upgrade-live"/>
+        <updated>2025-05-07T10:20:16.000Z</updated>
+        <summary type="html"><![CDATA[From letting third parties pay transaction gas fees to improving validator UX, the biggest Ethereum upgrade since The Merge has just gone live after several delays.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTX Lists Trump-Backed USD1 Stablecoin With Zero Fees, Justin Sun Confirms, Snapshot Vote Live for WLFI Airdrop]]></title>
         <id>https://thedefiant.io/news/cefi/htx-lists-trump-backed-usd1-stablecoin-zero-fees-justin-sun-confirms-snapshot-f4b93de5</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/the-fed-anti-crypto-guidance</id>
         <link href="https://thedefiant.io/news/regulation/the-fed-anti-crypto-guidance"/>
         <updated>2025-05-01T16:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Crypto industry figures have called out the U.S. Federal Reserve for paying “lip service” to breaking up Operation Choke Point 2.0.]]></summary>
+        <summary type="html"><![CDATA[The Federal Reserve was blowing more than a little hot air when it announced last week that it was withdrawing anti-crypto staff guidance that made it more difficult for banks to interact with crypto. In an interview with CNBC today, May 1, Castle Island Ventures founding partner Nic Carter said that the Fed has yet to truly give the green light to banks to be able to work with crypto firms.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Coinbase has fully rolled out its Bitcoin-backed loan product to all U]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize and Gauntlet Bring Apollo Credit Fund On-Chain in DeFi Push]]></title>
-        <id>https://thedefiant.io/news/defi/securitize-and-gauntlet-bring-apollo-credit-fund-on-chain-in-defi-push</id>
-        <link href="https://thedefiant.io/news/defi/securitize-and-gauntlet-bring-apollo-credit-fund-on-chain-in-defi-push"/>
-        <updated>2025-04-30T20:23:34.000Z</updated>
-        <summary type="html"><![CDATA[The partnership introduces a leveraged-yield strategy for ACRED holders via Compound Blue on Polygon.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
