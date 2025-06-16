@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-16T22:09:23.758Z</id>
+    <id>urn:2025-06-16T23:09:01.850Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-16T22:09:23.758Z</updated>
+    <updated>2025-06-16T23:09:01.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Plasma’s $1B ICO Access Vault Sparks Familiar Backlash]]></title>
+        <id>https://thedefiant.io/news/tokens/plasma-stablecoin-blockchain-1-billion-deposit-vault</id>
+        <link href="https://thedefiant.io/news/tokens/plasma-stablecoin-blockchain-1-billion-deposit-vault"/>
+        <updated>2025-06-16T22:22:15.000Z</updated>
+        <summary type="html"><![CDATA[When whales and bots took too much of the stablecoin-focused chain's $500 million ICO deposit quota, it doubled down, raising the size of deposits to $1 billion.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Rebound Despite Ongoing Middle East Tensions]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-rebound-despite-ongoing-middle-east-tensions</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/top-10-fiat-backed-stablecoin-fdusd-expands-to-arbitrum</id>
         <link href="https://thedefiant.io/news/defi/top-10-fiat-backed-stablecoin-fdusd-expands-to-arbitrum"/>
         <updated>2025-06-06T14:05:17.000Z</updated>
-        <summary type="html"><![CDATA[The USD stablecoin is now deployed on five major chains, including Ethereum, BNB Chain, Solana and Sui]]></summary>
+        <summary type="html"><![CDATA[Dollar-pegged stablecoin FDUSD has launched on the Arbitrum mainnet, the stablecoin's issuer told The Defiant.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin holds near $105,000, while Ethereum climbs above $2,600.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto VC a16z’s GC Says Blockchain Foundations Have Outlived Their Usefulness]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/protocol-foundations-have-outlived-their-usefulness-a16z-says</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/protocol-foundations-have-outlived-their-usefulness-a16z-says"/>
-        <updated>2025-06-04T19:17:01.000Z</updated>
-        <summary type="html"><![CDATA[The leading VC’s head of policy and general counsel says protocol foundations now cause more problems than they solve.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
