@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/1inch-exploit-victims-asked-to-kyc-for-compensation-under-proposed-plan",
+          "author": "Denis Omelchenko",
+          "description": "Following the October 2024 attack on 1inch, a proposed compensation plan requires users to verify their identities, but only those who reported the theft to authorities will qualify.",
+          "link": "https://thedefiant.io/news/defi/1inch-exploit-victims-asked-to-kyc-for-compensation-under-proposed-plan",
+          "publishedOn": "2025-06-18T20:38:40.000Z",
+          "wordCount": 4909,
+          "title": "1inch Exploit Victims Asked to KYC for Compensation Under Proposed Plan",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1inch-kyc-1-3cf89d46-83f8-45a0-9bd1-b306676a81ee.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1inch-kyc-1-3cf89d46-83f8-45a0-9bd1-b306676a81ee.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/tokenized-treasuries-surge-to-usd5-6-billion-fueling-growth-in-rwas-coingecko",
+          "author": "Jona Jaupi",
+          "description": "The boom is being driven by rising investor demand for real-world returns.",
+          "link": "https://thedefiant.io/news/research-and-opinion/tokenized-treasuries-surge-to-usd5-6-billion-fueling-growth-in-rwas-coingecko",
+          "publishedOn": "2025-06-18T20:22:25.000Z",
+          "wordCount": 5206,
+          "title": "Tokenized Treasuries Surge to $5.6 Billion, Fueling Growth in RWAs: CoinGecko",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/rwa-boom-1-9eb10f69-6425-4fef-a930-089dadc3c0c4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/rwa-boom-1-9eb10f69-6425-4fef-a930-089dadc3c0c4.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain",
+          "author": "Leo Jakobson",
+          "description": "While House Democrats don’t have the same power to block stablecoin legislation that their Senate counterparts did, the process will likely be slow.",
+          "link": "https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain",
+          "publishedOn": "2025-06-18T20:03:35.000Z",
+          "wordCount": 5404,
+          "title": "GENIUS Act Gains Senate Approval, But Key Regulatory Questions Remain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/congress-1-ccc42ca5-ca84-4daf-8f73-4c5757442998.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/congress-1-ccc42ca5-ca84-4daf-8f73-4c5757442998.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/eigenlayer-reveals-eigencloud-and-usd70-million-investment-from-a16z",
           "author": "Squiffs",
           "description": "The Ethereum restaking protocol is expanding its development footprint with EigenCloud, designed to provide trust and verifiability to applications both on-chain and off-chain.",
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/be12fd02-2d8b-452e-9797-553497b5c317.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-swing-wildly-as-job-growth-slows-trump-musk-feud-adds-to-uncertainty",
-          "author": "Jona Jaupi",
-          "description": "BTC rebounds to $105,000, while ETH holds around $2,500.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-swing-wildly-as-job-growth-slows-trump-musk-feud-adds-to-uncertainty",
-          "publishedOn": "2025-06-06T18:47:50.000Z",
-          "wordCount": 5305,
-          "title": "Crypto Markets Swing Wildly as Job Growth Slows, Trump–Musk Feud Adds to Uncertainty",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/6d4fdefe-e18d-404f-a2a6-80b64bfb8d97.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/6d4fdefe-e18d-404f-a2a6-80b64bfb8d97.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/ex-cftc-chair-statement-house-hearing-on-clarity-act",
-          "author": "Leo Jakobson",
-          "description": "A crypto industry SRO like the SEC’s FINRA could police member organizations with real teeth.",
-          "link": "https://thedefiant.io/news/regulation/ex-cftc-chair-statement-house-hearing-on-clarity-act",
-          "publishedOn": "2025-06-06T18:44:03.000Z",
-          "wordCount": 5726,
-          "title": "Ex-CFTC Chair Behnam Calls Self-Regulatory Organization ‘Critical’ to Market Regulation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/ad64f924-8c58-443c-a7cd-d6b591ce5b2f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/ad64f924-8c58-443c-a7cd-d6b591ce5b2f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f",
-          "author": "DeepNewz",
-          "description": "Major technology companies including Apple, X, Airbnb, and Google are reportedly in early discussions with cryptocurrency firms about integrating stablecoins into their platforms, according to Fortune",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f",
-          "publishedOn": "2025-06-06T17:08:08.000Z",
-          "wordCount": 4612,
-          "title": "Apple, X, Airbnb, and Google in Early Talks for Stablecoin Integration: Report",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/66e53b56-dac6-4b89-8d93-fa6b9bded0ee.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/66e53b56-dac6-4b89-8d93-fa6b9bded0ee.png"
         }
       ]
     }
