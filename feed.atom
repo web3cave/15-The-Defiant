@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-24T12:18:32.526Z</id>
+    <id>urn:2025-06-24T13:26:53.022Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-24T12:18:32.526Z</updated>
+    <updated>2025-06-24T13:26:53.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dragonfly-Backed Codex Launches Blockchain for Stablecoins with Native USDC Support]]></title>
+        <id>https://thedefiant.io/news/blockchains/stablecoin-blockchain-codex-launches-mainnet-with-usdc-support</id>
+        <link href="https://thedefiant.io/news/blockchains/stablecoin-blockchain-codex-launches-mainnet-with-usdc-support"/>
+        <updated>2025-06-24T12:30:24.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin-focused blockchain has launched with backing from Circle, aiming to meet rising demand for USD-pegged tokens.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saylor Sees BlackRock Bitcoin ETF Topping Global Rankings This Year]]></title>
+        <id>https://thedefiant.io/news/markets/saylor-sees-blackrock-bitcoin-etf-topping-global-rankings-this-year-3aee7e70</id>
+        <link href="https://thedefiant.io/news/markets/saylor-sees-blackrock-bitcoin-etf-topping-global-rankings-this-year-3aee7e70"/>
+        <updated>2025-06-24T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Saylor, executive chairman of MicroStrategy and one of Bitcoin’s most vocal backers, said on 23 June that BlackRock’s spot Bitcoin exchange-traded fund, the iShares Bitcoin Trust (ticker IBIT), is “on track” to become the largest ETF in the world before the end of 2025]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Set to Expand to Aptos in First Non-EVM Integration]]></title>
         <id>https://thedefiant.io/news/defi/aave-set-to-expand-to-aptos-in-first-non-evm-integration</id>
@@ -33,6 +53,16 @@
         <summary type="html"><![CDATA[The decentralized exchange aims to be the primary on-chain trading HUB on MegaETH.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Asset Raises $135 Million to Expand Institutional Canton Blockchain Network]]></title>
+        <id>https://thedefiant.io/news/blockchains/digital-asset-raises-135-million-to-expand-institutional-canton-blockchain-10b52bac</id>
+        <link href="https://thedefiant.io/news/blockchains/digital-asset-raises-135-million-to-expand-institutional-canton-blockchain-10b52bac"/>
+        <updated>2025-06-24T10:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Digital Asset, the software firm behind the privacy-focused Canton Network, has raised $135 million in a strategic round co-led by DRW Venture Capital and Tradeweb Markets]]></summary>
+        <author>
+            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/top-defi-lending-protocol-morpho-launches-v2</id>
         <link href="https://thedefiant.io/news/defi/top-defi-lending-protocol-morpho-launches-v2"/>
         <updated>2025-06-13T14:20:13.000Z</updated>
-        <summary type="html"><![CDATA[DeFi lending platform Morpho offers fixed-rate and fixed-term loans while allowing lenders and borrowers to set their own terms.]]></summary>
+        <summary type="html"><![CDATA[Decentralized lending platform Morpho has unveiled a new version of its product that adds a number of features including fixed-rate and fixed-term loans, according to a company blog post published yesterday, June 12.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Spark’s TVL has more than doubled since April ahead of its upcoming SPK token airdrop.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$142 Billion Shopify Partners With Coinbase and Stripe to Enable Bitcoin and Stablecoin Payments for 5.5 Million Merchants]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/shopify-partners-with-coinbase-and-stripe-to-enable-bitcoin-and-stablecoin</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/shopify-partners-with-coinbase-and-stripe-to-enable-bitcoin-and-stablecoin"/>
-        <updated>2025-06-12T20:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Shopify has entered into a partnership with Coinbase to enable cryptocurrency payments across its platform]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Global Inc. to Launch Cryptocurrency Perpetual Futures Trading for U.S. Users]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-global-inc-to-launch-cryptocurrency-perpetual-futures-trading-u-s-users-3e8594ad</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-global-inc-to-launch-cryptocurrency-perpetual-futures-trading-u-s-users-3e8594ad"/>
-        <updated>2025-06-12T20:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Global Inc]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.P. Morgan’s Kinexys Tests Cross-Chain Atomic Settlement of RWA Transactions]]></title>
-        <id>https://thedefiant.io/news/defi/j-p-morgan-s-kinexys-tests-cross-chain-atomic-settlement-of-rwa-transactions</id>
-        <link href="https://thedefiant.io/news/defi/j-p-morgan-s-kinexys-tests-cross-chain-atomic-settlement-of-rwa-transactions"/>
-        <updated>2025-06-12T18:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Kinexys sent tokenized U.S. Treasuries to Ondo Chain’s testnet while simultaneously receiving payment, leveraging Chainlink’s technology.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
