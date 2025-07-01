@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T07:11:51.951Z</id>
+    <id>urn:2025-07-01T08:14:04.004Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-01T07:11:51.951Z</updated>
+    <updated>2025-07-01T08:14:04.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge and S&amp; P Dow Jones Indices Launch First Tokenized S&amp; P 500 Index Fund]]></title>
+        <id>https://thedefiant.io/news/defi/centrifuge-and-s-and-p-dow-jones-indices-launch-first-tokenized-s-and-p-500-index-fund</id>
+        <link href="https://thedefiant.io/news/defi/centrifuge-and-s-and-p-dow-jones-indices-launch-first-tokenized-s-and-p-500-index-fund"/>
+        <updated>2025-07-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The partnership, unveiled in Cannes, debuts new proof-of-index infrastructure.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PancakeSwap Launches v3 Liquidity Pools on Solana]]></title>
         <id>https://thedefiant.io/news/defi/pancakeswap-launches-v3-liquidity-pools-on-solana</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[President Donald Trump reaffirmed his support for the cryptocurrency industry, declaring that “digital assets are the future, and our nation is going to own it]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fighting MEV Spam Bots Is Vital to Scaling Blockchains: Flashbots]]></title>
-        <id>https://thedefiant.io/news/blockchains/fighting-mev-spam-bots-is-vital-to-scaling-blockchains-flashbots</id>
-        <link href="https://thedefiant.io/news/blockchains/fighting-mev-spam-bots-is-vital-to-scaling-blockchains-flashbots"/>
-        <updated>2025-06-19T18:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Maximal extractable value (MEV) is now the ‘dominant limit to scaling blockchains’ according to the research group.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
