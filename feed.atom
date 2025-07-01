@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T05:14:58.329Z</id>
+    <id>urn:2025-07-01T06:15:05.546Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-01T05:14:58.329Z</updated>
+    <updated>2025-07-01T06:15:05.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap Launches v3 Liquidity Pools on Solana]]></title>
+        <id>https://thedefiant.io/news/defi/pancakeswap-launches-v3-liquidity-pools-on-solana</id>
+        <link href="https://thedefiant.io/news/defi/pancakeswap-launches-v3-liquidity-pools-on-solana"/>
+        <updated>2025-07-01T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The move brings lower fees and higher earnings to traders and liquidity providers on one of crypto’s fastest chains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Applies for US Trust Bank License]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Maximal extractable value (MEV) is now the ‘dominant limit to scaling blockchains’ according to the research group.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Computer Woos Blockchain Devs with Solana Access as Onchain Activity Slides]]></title>
-        <id>https://thedefiant.io/news/blockchains/internet-computer-woos-blockchain-devs-with-solana-access-amid-dwindling-onchain-activity</id>
-        <link href="https://thedefiant.io/news/blockchains/internet-computer-woos-blockchain-devs-with-solana-access-amid-dwindling-onchain-activity"/>
-        <updated>2025-06-19T18:36:11.000Z</updated>
-        <summary type="html"><![CDATA[ICP-based smart contracts can now send and receive data from the Solana network without relying on bridges or third-party tools.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
