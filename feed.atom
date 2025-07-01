@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T02:55:05.552Z</id>
+    <id>urn:2025-07-01T03:54:50.386Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-01T02:55:05.552Z</updated>
+    <updated>2025-07-01T03:54:50.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Applies for US Trust Bank License]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license"/>
+        <updated>2025-07-01T03:04:13.000Z</updated>
+        <summary type="html"><![CDATA[If approved, Circle would be permitted to act as its own custodian and also hold digital assets on behalf of institutional partners.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi-focused Layer 2 Katana Launches Mainnet With $200 Million in Pre-Deposits]]></title>
         <id>https://thedefiant.io/news/blockchains/defi-focused-layer-2-katana-launches-mainnet-with-usd200-million-in-pre-deposits</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[ICP-based smart contracts can now send and receive data from the Solana network without relying on bridges or third-party tools.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3iQ Launches One of North America’s First XRP ETFs on Toronto Stock Exchange]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/3iq-launches-one-of-north-america-s-first-xrp-etfs-on-toronto-stock-exchange</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/3iq-launches-one-of-north-america-s-first-xrp-etfs-on-toronto-stock-exchange"/>
-        <updated>2025-06-19T18:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Backed by Ripple, the XRPQ fund has launched with 0% management fees.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
