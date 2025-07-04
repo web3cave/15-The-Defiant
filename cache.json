@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-struggles-to-break-usd110-000-as-dormant-whales-move-billions-in-btc",
+          "author": "Denis Omelchenko",
+          "description": "ETH slides 3.8% to $2,513, while Solana and XRP lose 3%",
+          "link": "https://thedefiant.io/news/markets/bitcoin-struggles-to-break-usd110-000-as-dormant-whales-move-billions-in-btc",
+          "publishedOn": "2025-07-04T16:21:36.000Z",
+          "wordCount": 4977,
+          "title": "Bitcoin Struggles to Break $110,000 as Dormant Whales Move Billions in BTC",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-whales-1-png-4f836506-9a1b-4447-88ad-f507877a894c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-whales-1-png-4f836506-9a1b-4447-88ad-f507877a894c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-tokenized-stocks-face-criticism-from-openai-and-blockchain-researchers",
           "author": "Denis Omelchenko",
           "description": "Robinhood’s tokenized stock rollout is raising eyebrows, as OpenAI distances itself and some suggest the stock tokens may actually operate in a “walled garden.”",
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/inference-labs-raises-over-6-million-usd-for-decentralized-ai-security",
           "author": "Denis Omelchenko",
-          "description": "Inference Labs has secured $6.3 million in total funding to develop a cryptographic system that verifies the outputs of AI agents and off-chain computation, per a press release exclusively shared with The Defiant.",
+          "description": "Inference Labs is developing a protocol to confirm AI agent decisions without revealing the model.",
           "link": "https://thedefiant.io/news/infrastructure/inference-labs-raises-over-6-million-usd-for-decentralized-ai-security",
           "publishedOn": "2025-06-26T14:45:28.000Z",
           "wordCount": 5277,
@@ -1484,21 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/04e9fe5e-a413-410f-ace1-a8a4278bb87c.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/nasdaq-listed-aurora-mobile-authorises-20-treasury-shift-into-crypto-327a9ff2",
-          "author": "DeepNewz",
-          "description": "Aurora Mobile Ltd. said its board has approved a treasury strategy that allows the company and its consolidated entities to invest up to 20% of their cash and cash equivalents in digital assets.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/nasdaq-listed-aurora-mobile-authorises-20-treasury-shift-into-crypto-327a9ff2",
-          "publishedOn": "2025-06-25T09:05:03.000Z",
-          "wordCount": 4594,
-          "title": "Nasdaq-Listed Aurora Mobile Authorises 20% Treasury Shift Into Crypto",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/b4718229-832e-46d9-85cd-58df02bfc0ea.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/b4718229-832e-46d9-85cd-58df02bfc0ea.png"
         }
       ]
     }
