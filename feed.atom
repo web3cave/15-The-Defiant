@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-10T16:11:56.878Z</id>
+    <id>urn:2025-07-10T17:11:58.636Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-10T16:11:56.878Z</updated>
+    <updated>2025-07-10T17:11:58.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs’ USDf Stablecoin Briefly Depegs amid Doubts over Collateral and Yield]]></title>
+        <id>https://thedefiant.io/news/tokens/dwf-labs-usdf-stablecoin-briefly-depegs-amid-doubts-over-collateral-and-yield</id>
+        <link href="https://thedefiant.io/news/tokens/dwf-labs-usdf-stablecoin-briefly-depegs-amid-doubts-over-collateral-and-yield"/>
+        <updated>2025-07-10T16:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Less than 60 days after launch, DWF Labs’ stablecoin stumbled below $1 as users pulled liquidity and doubts mounted over its reserves.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUL Hits New All-Time High Led by Protocol Growth]]></title>
         <id>https://thedefiant.io/news/defi/euler-token-new-all-time-high-led-by-protocol-growth</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Germany’s Savings Banks Finance Group, commonly known as Sparkassen, plans to open cryptocurrency trading to its retail clientele in 2026, according to multiple reports citing the lender]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple Debuts EVM Sidechain to Bring Ethereum Apps to XRP Ecosystem]]></title>
-        <id>https://thedefiant.io/news/blockchains/ripple-debuts-evm-sidechain-to-bring-ethereum-apps-to-xrp-ecosystem</id>
-        <link href="https://thedefiant.io/news/blockchains/ripple-debuts-evm-sidechain-to-bring-ethereum-apps-to-xrp-ecosystem"/>
-        <updated>2025-06-30T18:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Ripple claims the sidechain can handle up to 1,000 transactions per second.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
