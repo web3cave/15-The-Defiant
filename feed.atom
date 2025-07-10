@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-10T20:10:54.271Z</id>
+    <id>urn:2025-07-10T21:09:26.268Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-10T20:10:54.271Z</updated>
+    <updated>2025-07-10T21:09:26.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Outperforms DeFi Sector with 52% TVL Surge in Q2]]></title>
+        <id>https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2</id>
+        <link href="https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2"/>
+        <updated>2025-07-10T20:16:35.000Z</updated>
+        <summary type="html"><![CDATA[The protocol now holds 48% of all DeFi lending TVL and nearly a quarter of DeFi TVL overall.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avalanche Surpasses All-Time High Activity, Driven by Gaming and DEXs]]></title>
         <id>https://thedefiant.io/news/blockchains/avalanche-all-time-high-activity-driven-by-gaming-and-dexs</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/lummis-crypto-tax-changes-not-included-in-obbb</id>
         <link href="https://thedefiant.io/news/regulation/lummis-crypto-tax-changes-not-included-in-obbb"/>
         <updated>2025-07-02T14:03:55.000Z</updated>
-        <summary type="html"><![CDATA[A pair of tax changes that pro-crypto Senator Cynthia Lummis had hoped to get inserted into the Senate’s version of the One Big Beautiful Bill Act (OBBB) mega-legislation didn’t make it in, but she plans to keep pushing them. The OBBB was narrowly passed by the Senate yesterday, July 1, and now is headed back to the House for review and a final vote, likely before the July 4 recess.]]></summary>
+        <summary type="html"><![CDATA[The Senate passed the bill yesterday, but last-minute provisions from Sen. Lummis to reduce crypto tax burdens failed to make it into the mega-tax bill.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move brings lower fees and higher earnings to traders and liquidity providers on one of crypto’s fastest chains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Applies for US Trust Bank License]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license"/>
-        <updated>2025-07-01T03:04:13.000Z</updated>
-        <summary type="html"><![CDATA[If approved, Circle would be permitted to act as its own custodian and also hold digital assets on behalf of institutional partners.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
