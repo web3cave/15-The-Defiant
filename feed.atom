@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-10T18:13:50.266Z</id>
+    <id>urn:2025-07-10T19:07:43.744Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-10T18:13:50.266Z</updated>
+    <updated>2025-07-10T19:07:43.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Treasury Companies Now Hold 725K BTC, but Most Still Have Little Market Impact: Report]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/bitcoin-treasury-companies-keyrock-report</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/bitcoin-treasury-companies-keyrock-report"/>
+        <updated>2025-07-10T18:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Corporate BTC treasuries now control nearly 4% of the BTC supply, per a new report from Keyrock.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Hits New All-Time High Above $113K]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd113k</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/plume-taps-trump-linked-wlfi-stablecoin-usd1-to-power-rwa-ecosystem</id>
         <link href="https://thedefiant.io/news/defi/plume-taps-trump-linked-wlfi-stablecoin-usd1-to-power-rwa-ecosystem"/>
         <updated>2025-07-02T13:36:11.000Z</updated>
-        <summary type="html"><![CDATA[The partnership with World Liberty Financial aims to accelerate USD1’s multichain expansion.]]></summary>
+        <summary type="html"><![CDATA[Plume Network has partnered with World Liberty Financial (WLFI) to make USD1 the official reserve asset for its native stablecoin, pUSD. Plume is a blockchain designed to bring real-world assets (RWAs) on-chain – it currently boasts a total value locked (TVL) of $231 million.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The new blockchain aims to address some of DeFi’s most persistent problems: low liquidity, unreliable yields, and capital constantly flowing out of the system.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Financial Advisor Ric Edelman Recommends 40% Crypto Allocation for Aggressive Investors]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/top-financial-advisor-ric-edelman-recommends-40-crypto-allocation-for-aggressive-investors</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/top-financial-advisor-ric-edelman-recommends-40-crypto-allocation-for-aggressive-investors"/>
-        <updated>2025-06-30T20:34:44.000Z</updated>
-        <summary type="html"><![CDATA[“Owning crypto is no longer a speculative position; failing to do so is,” said the founder of Edelman Financial Engines, which has $300 billion in AUM.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
