@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-14T12:19:20.305Z</id>
+    <id>urn:2025-07-14T13:29:00.565Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-14T12:19:20.305Z</updated>
+    <updated>2025-07-14T13:29:00.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kamino Becomes First Major DeFi Lender to Accept Tokenized Stocks as Collateral]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-becomes-first-major-defi-lender-to-accept-tokenized-stocks-as-collateral</id>
+        <link href="https://thedefiant.io/news/defi/kamino-becomes-first-major-defi-lender-to-accept-tokenized-stocks-as-collateral"/>
+        <updated>2025-07-14T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-based protocol now allows users to borrow stablecoins against xStocks.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Layer 1 Gains Traction as TVL Grows to $2 Billion]]></title>
         <id>https://thedefiant.io/news/blockchains/hyperliquid-layer-1-gains-traction-as-tvl-grows-to-usd2-billion</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ethereum led all ecosystems in security losses in the first half of 2025, with DeFi platforms losing around $470 million, according to the blockchain security firm.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple Seeks US Banking License as Crypto Firms Move Toward Mainstream Finance]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ripple-seeks-us-banking-license-crypto-firms-move-toward-mainstream-finance-a3b0cc60</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ripple-seeks-us-banking-license-crypto-firms-move-toward-mainstream-finance-a3b0cc60"/>
-        <updated>2025-07-02T17:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Ripple Labs has applied for a U.S. national banking license, according to the Wall Street Journal.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
