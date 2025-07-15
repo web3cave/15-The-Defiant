@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-15T16:12:47.883Z</id>
+    <id>urn:2025-07-15T17:09:34.526Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-15T16:12:47.883Z</updated>
+    <updated>2025-07-15T17:09:34.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slide as Traders Weigh Inflation Data, Trump Trade Moves]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-traders-weigh-inflation-data-trump-trade-moves</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-traders-weigh-inflation-data-trump-trade-moves"/>
+        <updated>2025-07-15T16:24:03.000Z</updated>
+        <summary type="html"><![CDATA[BTC dips after week-long rally, as inflation and trade tensions weigh on investor sentiment.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Platform Arcadia Hit by $3.5 Million Exploit on Base]]></title>
         <id>https://thedefiant.io/news/hacks/defi-platform-arcadia-hit-3-5-million-exploit-on-base-b9c14dec</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/ripple-applies-for-us-banking-license-heating-up-domestic-stablecoin-race</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/ripple-applies-for-us-banking-license-heating-up-domestic-stablecoin-race"/>
         <updated>2025-07-04T20:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Days after USDC stablecoin issuer Circle revealed that it had applied for a national trust bank charter, Ripple Labs has followed suit with a similar move.]]></summary>
+        <summary type="html"><![CDATA[A growing number of crypto firms have applied for banking licenses or are thinking of doing so as TradFi and crypto continue to mingle.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The CoreWriter contract will enable HyperEVM DeFi applications to directly interact with Hyperliquid’s perpetuals exchange, Hypercore.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Caught in Crossfire Over Zelenskyy Suit Bet]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-caught-in-crossfire-over-zelenskyy-suit-bet</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-caught-in-crossfire-over-zelenskyy-suit-bet"/>
-        <updated>2025-07-03T20:03:24.000Z</updated>
-        <summary type="html"><![CDATA[A simple bet on whether the Ukrainian President would wear a suit has turned into a messy showdown on the leading prediction market.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
