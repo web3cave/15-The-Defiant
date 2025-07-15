@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-15T11:09:11.907Z</id>
+    <id>urn:2025-07-15T12:19:41.054Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-15T11:09:11.907Z</updated>
+    <updated>2025-07-15T12:19:41.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Mempool Emptiness Sparks Network Security Concerns]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-mempool-emptiness-sparks-network-security-concerns</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-mempool-emptiness-sparks-network-security-concerns"/>
+        <updated>2025-07-15T11:07:53.000Z</updated>
+        <summary type="html"><![CDATA[With transaction demand drying up and fee income plunging, experts warn Bitcoin faces a sustainability crisis despite its price hitting all-time highs.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi TVL Surges Past $126B, Up Over 45% Since April]]></title>
         <id>https://thedefiant.io/news/defi/defi-tvl-surges-past-usd126b-up-over-45-since-april</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn"/>
         <updated>2025-07-04T17:22:26.000Z</updated>
-        <summary type="html"><![CDATA[The Open Platform just joined the billion-dollar club with its latest raise.]]></summary>
+        <summary type="html"><![CDATA[The Open Platform, a startup building crypto tools for Telegram, said in a press release shared with The Defiant that it has raised $28.5 million in new funding at a $1 billion valuation. The company, also known as TOP, claims to be the first unicorn in the ecosystem built on The Open Network (TON), which Telegram tapped as its exclusive blockchain partner in January.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The token is up 90% this week as the Solana memecoin trenches slowly crawl back to life.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Time Capsule to Preserve Memories, Memes and More]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-time-capsule-to-preserve-memories-memes-and-more</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-time-capsule-to-preserve-memories-memes-and-more"/>
-        <updated>2025-07-03T17:30:41.000Z</updated>
-        <summary type="html"><![CDATA[A time capsule filled with community submissions will be locked on July 30 to commemorate the 10th anniversary of Ethereum’s genesis block.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
