@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-17T19:10:04.770Z</id>
+    <id>urn:2025-07-17T20:11:07.304Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-17T19:10:04.770Z</updated>
+    <updated>2025-07-17T20:11:07.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Mixed amid Trump’s Tariff Threats and Crypto Week Drama]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-mixed-amid-trump-tariff-threats-and-crypto-week-drama</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-mixed-amid-trump-tariff-threats-and-crypto-week-drama"/>
+        <updated>2025-07-17T19:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum ETFs see record inflows as House pushes crypto bills, but investor confidence continues to waver.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nasdaq Files to Add Staking to BlackRock’s ETH ETF]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details</id>
         <link href="https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details"/>
         <updated>2025-07-09T14:58:14.000Z</updated>
-        <summary type="html"><![CDATA[After over a month of anticipation, memecoin launchpad pumpfun announced the official details of its upcoming ICO for PUMP.]]></summary>
+        <summary type="html"><![CDATA[Memecoin launchpad PumpFun confirmed its upcoming initial coin offering (ICO) today, unveiling tokenomics and sale details, including a KYC-requirement and incentive breakdown for ecosystem participants.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue</id>
         <link href="https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue"/>
         <updated>2025-07-09T14:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Peapods Finance, a DeFi protocol focused on leveraged yield strategies, was seemingly exploited in a smart contract attack on Tuesday, July 8, that led to the unauthorized withdrawal of roughly $200,000 worth of ETH. The exploit was flagged in initial assessments by on-chain security firms CertiK and PeckShield.]]></summary>
+        <summary type="html"><![CDATA[Peapods Finance’s leveraged yield protocol suffered a $200,000 exploit attack after bad actors apparently manipulated its oracle.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The challenger launchpad is leading by 24-hour volume and revenue.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$40 Million of HYPE to be Unstaked Ahead of Kinetiq Launch on July 15]]></title>
-        <id>https://thedefiant.io/news/defi/usd40-million-of-hype-to-be-unstaked-ahead-of-kinetiq-launch-on-july-15</id>
-        <link href="https://thedefiant.io/news/defi/usd40-million-of-hype-to-be-unstaked-ahead-of-kinetiq-launch-on-july-15"/>
-        <updated>2025-07-08T13:52:26.000Z</updated>
-        <summary type="html"><![CDATA[The liquid staking protocol is one of the most hyped dApps coming to the Hyperliquid ecosystem.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
