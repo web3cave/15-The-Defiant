@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking",
+          "author": "Squiffs",
+          "description": "If approved by the SEC, the rule change would allow institutions to earn yield on BlackRock's ETHA.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking",
+          "publishedOn": "2025-07-17T17:55:11.000Z",
+          "wordCount": 5333,
+          "title": "Nasdaq Files to Add Staking to BlackRock’s ETH ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-3-png-601fee75-dd5b-422f-bd05-e7f4f4497a3e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-3-png-601fee75-dd5b-422f-bd05-e7f4f4497a3e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows",
+          "author": "Denis Omelchenko",
+          "description": "Ethereum ETFs saw their highest daily inflows yet, led by BlackRock’s fund.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows",
+          "publishedOn": "2025-07-17T17:19:50.000Z",
+          "wordCount": 5264,
+          "title": "ETH ETFs See Record Inflows, Over 100x Daily Ethereum Network Issuance",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-2-png-45399720-a58e-4f4f-9639-ceb10f929770.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-2-png-45399720-a58e-4f4f-9639-ceb10f929770.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/defi-development-corp-announces-global-franchise-strategy",
           "author": "Jona Jaupi",
           "description": "DeFi Development Corp. teams with Kraken, Pantera, and others to create local SOL funds under new “Treasury Accelerator” program.",
@@ -491,7 +521,7 @@
           "description": "Standard Chartered has begun offering deliverable spot trading in Bitcoin and Ether to institutional clients through its UK subsidiary, becoming the first global systemically important bank to provide regulated, on-balance-sheet access to the two largest cryptocurrencies",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-opens-bitcoin-ether-spot-trading-institutions-30e84f48",
           "publishedOn": "2025-07-15T09:00:35.000Z",
-          "wordCount": 4765,
+          "wordCount": 4768,
           "title": "Standard Chartered Opens Bitcoin and Ether Spot Trading for Institutions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/9b880807-fec9-4c52-b73e-7523f0e14180.jpeg",
@@ -1218,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue",
           "author": "Denis Omelchenko",
-          "description": "Peapods Finance’s leveraged yield protocol suffered a $200,000 exploit attack after bad actors apparently manipulated its oracle.",
+          "description": "Peapods Finance, a DeFi protocol focused on leveraged yield strategies, was seemingly exploited in a smart contract attack on Tuesday, July 8, that led to the unauthorized withdrawal of roughly $200,000 worth of ETH. The exploit was flagged in initial assessments by on-chain security firms CertiK and PeckShield.",
           "link": "https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue",
           "publishedOn": "2025-07-09T14:34:25.000Z",
           "wordCount": 5606,
@@ -1281,7 +1311,7 @@
           "description": "Ripple on Wednesday named Bank of New York Mellon as the primary custodian for the U.S. dollar reserves backing Ripple USD (RLUSD)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-picks-bny-mellon-to-custody-reserves-rlusd-stablecoin-2e9689c7",
           "publishedOn": "2025-07-09T13:05:23.000Z",
-          "wordCount": 4830,
+          "wordCount": 4833,
           "title": "Ripple Picks BNY Mellon to Custody Reserves for RLUSD Stablecoin",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/179e7e27-c2f8-459b-85dc-e1161d22148e.png",
@@ -1469,36 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/kinetiq-launch-png-fbcd74d6-bd93-46c7-bfaa-f756a3e397b7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/pakistan-sets-up-independent-regulator-to-police-crypto-market-63550b94",
-          "author": "DeepNewz",
-          "description": "Pakistan’s federal cabinet has approved the creation of the Pakistan Virtual Assets Regulatory Authority, an independent body that will license, monitor and supervise virtual-asset service providers while aligning the country’s rules with Financial Action Task Force standards",
-          "link": "https://thedefiant.io/news/regulation/pakistan-sets-up-independent-regulator-to-police-crypto-market-63550b94",
-          "publishedOn": "2025-07-08T11:35:23.000Z",
-          "wordCount": 4804,
-          "title": "Pakistan Sets Up Independent Regulator to Police Crypto Market",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/d9bb10a9-1448-45d0-b921-fa8e3bc6eb9a.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/d9bb10a9-1448-45d0-b921-fa8e3bc6eb9a.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/dubai-regulator-approves-first-tokenized-money-market-fund-5049c65e",
-          "author": "DeepNewz",
-          "description": "The Dubai Financial Services Authority has granted regulatory approval for the QCD Money Market Fund, the first tokenised money-market vehicle authorised in the Dubai International Financial Centre",
-          "link": "https://thedefiant.io/news/regulation/dubai-regulator-approves-first-tokenized-money-market-fund-5049c65e",
-          "publishedOn": "2025-07-08T07:00:23.000Z",
-          "wordCount": 4718,
-          "title": "Dubai Regulator Approves First Tokenized Money Market Fund",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f4c98421-0a42-46b9-9e49-dcf2f8fe8a3c.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f4c98421-0a42-46b9-9e49-dcf2f8fe8a3c.jpeg"
         }
       ]
     }

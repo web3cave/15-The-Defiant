@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-17T17:10:39.421Z</id>
+    <id>urn:2025-07-17T18:14:21.912Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-17T17:10:39.421Z</updated>
+    <updated>2025-07-17T18:14:21.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq Files to Add Staking to BlackRock’s ETH ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking"/>
+        <updated>2025-07-17T17:55:11.000Z</updated>
+        <summary type="html"><![CDATA[If approved by the SEC, the rule change would allow institutions to earn yield on BlackRock's ETHA.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH ETFs See Record Inflows, Over 100x Daily Ethereum Network Issuance]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows"/>
+        <updated>2025-07-17T17:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum ETFs saw their highest daily inflows yet, led by BlackRock’s fund.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top SOL Treasury Firm DFDV Announces Global Franchise Strategy]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/defi-development-corp-announces-global-franchise-strategy</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue</id>
         <link href="https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue"/>
         <updated>2025-07-09T14:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Peapods Finance’s leveraged yield protocol suffered a $200,000 exploit attack after bad actors apparently manipulated its oracle.]]></summary>
+        <summary type="html"><![CDATA[Peapods Finance, a DeFi protocol focused on leveraged yield strategies, was seemingly exploited in a smart contract attack on Tuesday, July 8, that led to the unauthorized withdrawal of roughly $200,000 worth of ETH. The exploit was flagged in initial assessments by on-chain security firms CertiK and PeckShield.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The liquid staking protocol is one of the most hyped dApps coming to the Hyperliquid ecosystem.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakistan Sets Up Independent Regulator to Police Crypto Market]]></title>
-        <id>https://thedefiant.io/news/regulation/pakistan-sets-up-independent-regulator-to-police-crypto-market-63550b94</id>
-        <link href="https://thedefiant.io/news/regulation/pakistan-sets-up-independent-regulator-to-police-crypto-market-63550b94"/>
-        <updated>2025-07-08T11:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Pakistan’s federal cabinet has approved the creation of the Pakistan Virtual Assets Regulatory Authority, an independent body that will license, monitor and supervise virtual-asset service providers while aligning the country’s rules with Financial Action Task Force standards]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dubai Regulator Approves First Tokenized Money Market Fund]]></title>
-        <id>https://thedefiant.io/news/regulation/dubai-regulator-approves-first-tokenized-money-market-fund-5049c65e</id>
-        <link href="https://thedefiant.io/news/regulation/dubai-regulator-approves-first-tokenized-money-market-fund-5049c65e"/>
-        <updated>2025-07-08T07:00:23.000Z</updated>
-        <summary type="html"><![CDATA[The Dubai Financial Services Authority has granted regulatory approval for the QCD Money Market Fund, the first tokenised money-market vehicle authorised in the Dubai International Financial Centre]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
