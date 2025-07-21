@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-21T08:16:18.185Z</id>
+    <id>urn:2025-07-21T09:18:17.135Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-21T08:16:18.185Z</updated>
+    <updated>2025-07-21T09:18:17.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Liquid Collective TVL Surges Above $1.3 Billion After Solana Expansion]]></title>
+        <id>https://thedefiant.io/news/defi/liquid-collective-tvl-surges-above-usd1-3-billion-after-solana-expansion</id>
+        <link href="https://thedefiant.io/news/defi/liquid-collective-tvl-surges-above-usd1-3-billion-after-solana-expansion"/>
+        <updated>2025-07-21T08:24:03.000Z</updated>
+        <summary type="html"><![CDATA[The institution-focused liquid staking protocol’s total value locked (TVL) has increased by more than 500% since April.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Altcoin Treasury Mania Pumps Stock Prices, But Underlying Tokens Remain Muted: Animoca]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/altcoin-treasury-mania-pumps-stock-prices-but-underlying-tokens-remain-muted-animoca</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2</id>
         <link href="https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2"/>
         <updated>2025-07-10T20:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Top lending protocol Aave has outpaced broader decentralized finance (DeFi) growth over the past three months, gaining market share as capital continues to flow into major protocols.]]></summary>
+        <summary type="html"><![CDATA[The protocol now holds 48% of all DeFi lending TVL and nearly a quarter of DeFi TVL overall.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[After over a month of anticipation, memecoin launchpad pumpfun announced the official details of its upcoming ICO for PUMP.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peapods Finance Token Slips 5% after Unauthorized $200K Withdrawal]]></title>
-        <id>https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue</id>
-        <link href="https://thedefiant.io/news/defi/peapods-finance-token-slips-5-percent-on-reported-oracle-issue"/>
-        <updated>2025-07-09T14:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Peapods Finance’s leveraged yield protocol suffered a $200,000 exploit attack after bad actors apparently manipulated its oracle.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
