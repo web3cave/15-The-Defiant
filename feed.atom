@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-21T17:12:13.397Z</id>
+    <id>urn:2025-07-21T18:14:40.024Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-21T17:12:13.397Z</updated>
+    <updated>2025-07-21T18:14:40.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Strikes $112 Million Deal to Return to the United States]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states"/>
+        <updated>2025-07-21T17:12:52.000Z</updated>
+        <summary type="html"><![CDATA[The prediction market acquired CFTC-compliant exchange, QCX, which will allow it to reenter the U.S. market.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRIFT Surges 30% after Protocol Sees Record Perp Volumes over $1B]]></title>
         <id>https://thedefiant.io/news/defi/drift-solana-dex-sees-usd1-billion-daily-perp-volumes</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/people/ousted-movement-labs-co-founder-sues-startup-in-delaware-court</id>
         <link href="https://thedefiant.io/news/people/ousted-movement-labs-co-founder-sues-startup-in-delaware-court"/>
         <updated>2025-07-11T18:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Rushi Manche, who was terminated following a token deal controversy, seeks a declaratory judgment against Movement Labs.]]></summary>
+        <summary type="html"><![CDATA[Rushikesh Manche, a co-founder of crypto infrastructure startup Movement Labs, filed a lawsuit against the company on July 9 in Delaware’s Court of Chancery, two months after his termination.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BTC gains almost 4% on the day amid $218M in ETF inflows]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DWF Labs’ USDf Stablecoin Briefly Depegs amid Doubts over Collateral and Yield]]></title>
-        <id>https://thedefiant.io/news/tokens/dwf-labs-usdf-stablecoin-briefly-depegs-amid-doubts-over-collateral-and-yield</id>
-        <link href="https://thedefiant.io/news/tokens/dwf-labs-usdf-stablecoin-briefly-depegs-amid-doubts-over-collateral-and-yield"/>
-        <updated>2025-07-10T16:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Less than 60 days after launch, DWF Labs’ stablecoin stumbled below $1 as users pulled liquidity and doubts mounted over its reserves.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
