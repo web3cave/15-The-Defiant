@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-24T13:31:04.262Z</id>
+    <id>urn:2025-07-24T14:12:32.490Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-24T13:31:04.262Z</updated>
+    <updated>2025-07-24T14:12:32.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge Migrates to Ethereum with Cross-Chain EVM-Native Protocol]]></title>
+        <id>https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol</id>
+        <link href="https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol"/>
+        <updated>2025-07-24T14:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Teaming up with interoperability protocol Wormhole, Centrifuge is launching V3 across six EVM chains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could Coinbase Perpetuals Spell Doom for Hyperliquid?]]></title>
         <id>https://thedefiant.io/news/defi/could-coinbase-perpetuals-spell-doom-for-hyperliquid</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/hyperliquid-pump-spot-volumes-flip-top-centralized-exchanges</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-pump-spot-volumes-flip-top-centralized-exchanges"/>
         <updated>2025-07-15T19:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized exchange Hyperliquid has inserted itself amongst the centralized exchanges, commanding the second-largest spot volumes for PUMP trading across all exchanges.]]></summary>
+        <summary type="html"><![CDATA[The protocol processed the second most spot volume for PUMP trading, surpassing centralized exchange giants like Bybit and MEXC.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/kinto-token-tanks-90-as-backdoor-disclosure-lets-attacker-mint-110-000-tokens-and-drain"/>
         <updated>2025-07-15T06:34:21.000Z</updated>
         <summary type="html"><![CDATA[A forgotten flaw in a trusted smart contract standard let a hacker crash Kinto’s token by 90% and steal millions shortly after the vulnerability was unintentionally made public.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traders Predict Incoming ‘Supply Crunch’ as Ether Rallies to $3,000]]></title>
-        <id>https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000</id>
-        <link href="https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000"/>
-        <updated>2025-07-15T06:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum is gaining momentum as institutional investors ramp up exposure through ETFs, while approximately 30% of the total ETH supply is now staked.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
