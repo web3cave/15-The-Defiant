@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-30T10:12:24.825Z</id>
+    <id>urn:2025-07-30T11:09:16.641Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-30T10:12:24.825Z</updated>
+    <updated>2025-07-30T11:09:16.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MPC Alone Can’t Stop Multi-Million Dollar Exchange Hacks, Experts Warn]]></title>
+        <id>https://thedefiant.io/news/infrastructure/mpc-alone-can-t-stop-multi-million-dollar-exchange-hacks-experts-warn</id>
+        <link href="https://thedefiant.io/news/infrastructure/mpc-alone-can-t-stop-multi-million-dollar-exchange-hacks-experts-warn"/>
+        <updated>2025-07-30T10:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Despite utilizing multi-party computation (MPC), exchanges remain exposed to breaches if internal systems and wallet infrastructure are assumed to be secure by default, according to Blockaid.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Marks 10 Years, Securing 23 Million Blocks and $460 Billion Market Cap]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-marks-10-years-securing-23-million-blocks-460-billion-market-cap-11922f98</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-marks-10-years-securing-23-million-blocks-460-billion-market-cap-11922f98"/>
+        <updated>2025-07-30T10:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum, the pioneering programmable blockchain network, celebrated its 10th anniversary on July 30, 2025]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin’s Rise Slows as Altcoins Rally and New U.S. Crypto Rules Take Shape: Sygnum]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/bitcoin-s-rise-slows-as-altcoins-rally-and-new-u-s-crypto-rules-take-shape-sygnum</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge</id>
         <link href="https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge"/>
         <updated>2025-07-22T15:43:20.000Z</updated>
-        <summary type="html"><![CDATA[Solana became the fifth-largest cryptocurrency again, after it was overtaken by BNB in February.]]></summary>
+        <summary type="html"><![CDATA[Solana (SOL) regained its place as the fifth-largest cryptocurrency by market capitalization on Tuesday, surpassing BNB, as its price briefly rose above $200 for the first time since February.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[MicroStrategy Inc. disclosed that it acquired 6,220 Bitcoin between 14 and 20 July for roughly $739.8 million]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDT Rates Spike on Aave After HTX-Linked Addresses Withdraw Liquidity]]></title>
-        <id>https://thedefiant.io/news/defi/usdt-rates-spike-on-aave-after-htx-linked-addresses-withdraw-liquidity</id>
-        <link href="https://thedefiant.io/news/defi/usdt-rates-spike-on-aave-after-htx-linked-addresses-withdraw-liquidity"/>
-        <updated>2025-07-21T12:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Interest rates on Aave’s USDT pool jumped above 10% after wallets linked to crypto exchange HTX pulled hundreds of millions in liquidity, exposing fragility in the DeFi lending market.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ether Machine Secures $1.5 Billion in Commitments to Go Public via SPAC Merger]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger"/>
-        <updated>2025-07-21T12:27:50.000Z</updated>
-        <summary type="html"><![CDATA[A new Ethereum-focused public vehicle is planning a Nasdaq debut with more than $1.5 billion in backing and a strategy built around ETH yield.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>

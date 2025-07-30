@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/mpc-alone-can-t-stop-multi-million-dollar-exchange-hacks-experts-warn",
+          "author": "Denis Omelchenko",
+          "description": "Despite utilizing multi-party computation (MPC), exchanges remain exposed to breaches if internal systems and wallet infrastructure are assumed to be secure by default, according to Blockaid.",
+          "link": "https://thedefiant.io/news/infrastructure/mpc-alone-can-t-stop-multi-million-dollar-exchange-hacks-experts-warn",
+          "publishedOn": "2025-07-30T10:09:55.000Z",
+          "wordCount": 5259,
+          "title": "MPC Alone Can’t Stop Multi-Million Dollar Exchange Hacks, Experts Warn",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/blockaid-report-1-png-ee43bd7a-0a7d-4a1f-ba3b-f3a19dea619e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/blockaid-report-1-png-ee43bd7a-0a7d-4a1f-ba3b-f3a19dea619e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-marks-10-years-securing-23-million-blocks-460-billion-market-cap-11922f98",
+          "author": "DeepNewz",
+          "description": "Ethereum, the pioneering programmable blockchain network, celebrated its 10th anniversary on July 30, 2025",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-marks-10-years-securing-23-million-blocks-460-billion-market-cap-11922f98",
+          "publishedOn": "2025-07-30T10:05:28.000Z",
+          "wordCount": 4725,
+          "title": "Ethereum Marks 10 Years, Securing 23 Million Blocks and $460 Billion Market Cap",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/0dedc136-8928-47e1-8246-092297847625.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/0dedc136-8928-47e1-8246-092297847625.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/bitcoin-s-rise-slows-as-altcoins-rally-and-new-u-s-crypto-rules-take-shape-sygnum",
           "author": "Jona Jaupi",
           "description": "Sygnum’s latest report shows Bitcoin’s strong momentum from ETF inflows and low supply is facing pressure as altcoins gain ground.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge",
           "author": "Denis Omelchenko",
-          "description": "Solana became the fifth-largest cryptocurrency again, after it was overtaken by BNB in February.",
+          "description": "Solana (SOL) regained its place as the fifth-largest cryptocurrency by market capitalization on Tuesday, surpassing BNB, as its price briefly rose above $200 for the first time since February.",
           "link": "https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge",
           "publishedOn": "2025-07-22T15:43:20.000Z",
           "wordCount": 5160,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/30831932-d57d-4c85-b8c8-2de463bcee3e.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/usdt-rates-spike-on-aave-after-htx-linked-addresses-withdraw-liquidity",
-          "author": "Denis Omelchenko",
-          "description": "Interest rates on Aave’s USDT pool jumped above 10% after wallets linked to crypto exchange HTX pulled hundreds of millions in liquidity, exposing fragility in the DeFi lending market.",
-          "link": "https://thedefiant.io/news/defi/usdt-rates-spike-on-aave-after-htx-linked-addresses-withdraw-liquidity",
-          "publishedOn": "2025-07-21T12:40:50.000Z",
-          "wordCount": 5385,
-          "title": "USDT Rates Spike on Aave After HTX-Linked Addresses Withdraw Liquidity",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usdt-rate-spike-1-png-e754a9a1-db78-4d52-9e05-f7ee043b9f64.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usdt-rate-spike-1-png-e754a9a1-db78-4d52-9e05-f7ee043b9f64.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger",
-          "author": "Denis Omelchenko",
-          "description": "A new Ethereum-focused public vehicle is planning a Nasdaq debut with more than $1.5 billion in backing and a strategy built around ETH yield.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger",
-          "publishedOn": "2025-07-21T12:27:50.000Z",
-          "wordCount": 5395,
-          "title": "The Ether Machine Secures $1.5 Billion in Commitments to Go Public via SPAC Merger",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/ether-machine-1-png-099ac995-2c9c-4d69-b3c0-7e760509d19b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/ether-machine-1-png-099ac995-2c9c-4d69-b3c0-7e760509d19b.png"
         }
       ]
     }
