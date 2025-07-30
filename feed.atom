@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-30T16:12:59.831Z</id>
+    <id>urn:2025-07-30T17:12:17.482Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-30T16:12:59.831Z</updated>
+    <updated>2025-07-30T17:12:17.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan, Coinbase Partnership ‘Removes the Need for the Middleman’]]></title>
+        <id>https://thedefiant.io/news/cefi/jpmorgan-coinbase-partnership-removes-the-need-for-the-middleman</id>
+        <link href="https://thedefiant.io/news/cefi/jpmorgan-coinbase-partnership-removes-the-need-for-the-middleman"/>
+        <updated>2025-07-30T16:54:48.000Z</updated>
+        <summary type="html"><![CDATA[The multi-front partnership includes a direct bank-to-exchange link, credit card purchases, and crypto rewards conversions.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Seeks $500 Million at $15 Billion Value, Eyes Possible IPO]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-seeks-500-million-15-billion-value-eyes-possible-ipo-f26254ae</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The prediction market acquired CFTC-compliant exchange, QCX, which will allow it to reenter the U.S. market.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIFT Surges 30% after Protocol Sees Record Perp Volumes over $1B]]></title>
-        <id>https://thedefiant.io/news/defi/drift-solana-dex-sees-usd1-billion-daily-perp-volumes</id>
-        <link href="https://thedefiant.io/news/defi/drift-solana-dex-sees-usd1-billion-daily-perp-volumes"/>
-        <updated>2025-07-21T16:34:53.000Z</updated>
-        <summary type="html"><![CDATA[As Solana perpetual futures volumes spiked over 230%, Drift briefly became the second-largest perp DEX by daily volume.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
