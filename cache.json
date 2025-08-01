@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms",
+          "author": "Denis Omelchenko",
+          "description": "Almost half of Jupiter’s trading volume is routed through proprietary AMMs, highlighting growing centralization on Solana’s top DEX aggregator.",
+          "link": "https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms",
+          "publishedOn": "2025-08-01T13:40:56.000Z",
+          "wordCount": 5275,
+          "title": "Over 40% of Jupiter’s Trading Volume Now Flows Through Private AMMs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/jupamms-1-png-c1d47024-d1e2-45fe-b1ad-778664111bd5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/jupamms-1-png-c1d47024-d1e2-45fe-b1ad-778664111bd5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche",
           "author": "Denis Omelchenko",
           "description": "Visa is expanding its settlement network to cover more stablecoins and networks, though usage by merchants still appears to be limited.",
@@ -66,12 +81,27 @@
           "imageUrl": "https://cdn.thedefiant.io/datcos-1-png-a60841f0-0247-400e-b348-0c00abced769.png"
         },
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-tops-record-115750-monthly-close-b049fcb8",
+          "author": "DeepNewz",
+          "description": "Bitcoin finished July at $115,750, marking its highest monthly close on record and underscoring renewed strength in the world’s largest cryptocurrency",
+          "link": "https://thedefiant.io/news/markets/bitcoin-tops-record-115750-monthly-close-b049fcb8",
+          "publishedOn": "2025-08-01T03:30:28.000Z",
+          "wordCount": 4584,
+          "title": "Bitcoin Tops Record With $115,750 Monthly Close",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d62364f7-86db-4307-9654-3f8b9499836e.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d62364f7-86db-4307-9654-3f8b9499836e.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-unveils-everything-exchange-bringing-tokenized-stocks-to-us-users-74af6846",
           "author": "DeepNewz",
           "description": "Coinbase said it will begin offering tokenized stocks, derivatives, prediction markets and early-stage token sales to U",
           "link": "https://thedefiant.io/news/cefi/coinbase-unveils-everything-exchange-bringing-tokenized-stocks-to-us-users-74af6846",
           "publishedOn": "2025-07-31T21:30:28.000Z",
-          "wordCount": 4789,
+          "wordCount": 4794,
           "title": "Coinbase Unveils ‘Everything Exchange’ Bringing Tokenized Stocks to US Users",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/fd447993-5c5d-4e35-ab85-34469caf5701.jpeg",
@@ -124,6 +154,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-object-v1-1-png-b4f6a8d6-9898-434f-b23e-93b6b6178a15.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/circle-extends-native-usdc-to-sei-hyperliquid-cross-chain-push-935cfa9a",
+          "author": "DeepNewz",
+          "description": "Circle Internet Financial has expanded the reach of USD Coin, its dollar-backed stablecoin, by deploying native USDC and the upgraded Cross-Chain Transfer Protocol (CCTP) v2 on the Sei Network",
+          "link": "https://thedefiant.io/news/blockchains/circle-extends-native-usdc-to-sei-hyperliquid-cross-chain-push-935cfa9a",
+          "publishedOn": "2025-07-31T14:30:28.000Z",
+          "wordCount": 4986,
+          "title": "Circle Extends Native USDC to Sei and Hyperliquid in Cross-Chain Push",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/264fe4fb-381d-416f-ae88-074c337ffb18.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/264fe4fb-381d-416f-ae88-074c337ffb18.jpeg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/samourai-wallet-founders-plead-guilty-agree-to-237-million-forfeiture-2c4ac370",
@@ -236,7 +281,7 @@
           "description": "The DEX experienced unexpected downtime yesterday, which resulted in some users being locked into existing positions and suffering losses.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-to-refund-users-affected-by-platform-outage",
           "publishedOn": "2025-07-30T18:31:33.000Z",
-          "wordCount": 5193,
+          "wordCount": 5199,
           "title": "Hyperliquid to Refund Users Affected by Platform Outage",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-object-v1-png-b5a787b3-3a38-4517-af86-4121986c44bd.png",
@@ -266,7 +311,7 @@
           "description": "The multi-front partnership includes a direct bank-to-exchange link, credit card purchases, and crypto rewards conversions.",
           "link": "https://thedefiant.io/news/cefi/jpmorgan-coinbase-partnership-removes-the-need-for-the-middleman",
           "publishedOn": "2025-07-30T16:54:48.000Z",
-          "wordCount": 5782,
+          "wordCount": 5776,
           "title": "JPMorgan, Coinbase Partnership ‘Removes the Need for the Middleman’",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-31-png-419e4076-1253-4828-86fd-a7c403f8b214.png",
@@ -281,7 +326,7 @@
           "description": "Crypto exchange Kraken is in talks to raise about $500 million in fresh capital at a valuation close to $15 billion, The Information reported, citing people familiar with the matter",
           "link": "https://thedefiant.io/news/cefi/kraken-seeks-500-million-15-billion-value-eyes-possible-ipo-f26254ae",
           "publishedOn": "2025-07-30T13:08:36.000Z",
-          "wordCount": 4800,
+          "wordCount": 4775,
           "title": "Kraken Seeks $500 Million at $15 Billion Value, Eyes Possible IPO",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/d1272825-831f-4d48-8c82-d2037bfe5428.jpeg",
@@ -686,7 +731,7 @@
           "description": "The CEX says RWUSD aims to “benchmark yields in RWAs” like U.S. T-Bills, but the product isn’t available to U.S. traders.",
           "link": "https://thedefiant.io/news/cefi/binance-launches-yield-bearing-product-pegged-to-users-stablecoin-deposits",
           "publishedOn": "2025-07-28T19:02:55.000Z",
-          "wordCount": 5431,
+          "wordCount": 5425,
           "title": "Binance Launches Yield-Bearing Product Pegged to Users’ Stablecoin Deposits",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-27-png-545c4e18-34f9-4fda-988f-a554b3486a15.png",
@@ -791,7 +836,7 @@
           "description": "Momentum has surpassed $150 million in TVL, and now plans to bring over EVM and Solana projects to Sui using the Wormhole bridge.",
           "link": "https://thedefiant.io/news/defi/sui-dex-momentum-teases-expansion-plans-after-hitting-usd100-million-in-daily-volume",
           "publishedOn": "2025-07-28T14:00:27.000Z",
-          "wordCount": 5621,
+          "wordCount": 5627,
           "title": "Sui DEX Momentum Teases Expansion Plans After Hitting $100 Million in Daily Volume",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/momentum-1-png-204f83bf-2c3a-4eab-a276-be7ea72185d6.png",
@@ -851,7 +896,7 @@
           "description": "With ZORA rallying nearly 900% in the past month, top crypto personalities are debating whether creator-linked tokens truly hold lasting value or are just ‘shitcoins.’",
           "link": "https://thedefiant.io/news/defi/zora-token-surges-as-base-and-solana-execs-lock-horns-over-speculative-creator-coins",
           "publishedOn": "2025-07-28T11:38:43.000Z",
-          "wordCount": 5394,
+          "wordCount": 5400,
           "title": "Zora Token Surges as Base and Solana Execs Lock Horns Over Speculative Creator Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/zora-1-png-5676977a-4089-4d56-bc35-9d758f8c92e1.png",
@@ -866,7 +911,7 @@
           "description": "New altcoin listings on Korean exchanges have led to significant price rallies in tokens such as SYRUP, HYPER, and MOODENG.",
           "link": "https://thedefiant.io/news/cefi/korean-degens-continue-to-send-altcoins-soaring",
           "publishedOn": "2025-07-28T07:30:38.000Z",
-          "wordCount": 4931,
+          "wordCount": 4925,
           "title": "Korean Degens Continue to Send Altcoins Soaring",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/korea-pump-1-png-5983ee00-bb61-493e-bfef-60d282b7b210.png",
@@ -971,7 +1016,7 @@
           "description": "Brazilian securitization firm VERT is using the XRP Ledger to tokenize private credit, beginning with a $130 million agribusiness receivables certificate.",
           "link": "https://thedefiant.io/news/defi/vert-debuts-brazil-s-first-on-chain-platform-for-private-credit-on-xrp-ledger",
           "publishedOn": "2025-07-25T12:23:32.000Z",
-          "wordCount": 5177,
+          "wordCount": 5183,
           "title": "VERT Debuts Brazil’s First On-Chain Platform for Private Credit on XRP Ledger",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/brazil-xrp-1-png-25db8478-3d96-4fe7-b73b-1a91828f1e23.png",
@@ -1001,7 +1046,7 @@
           "description": "Some unverified SolCard users lost access to their virtual debit cards, but a company representative says a no-KYC option will be reinstated.",
           "link": "https://thedefiant.io/news/defi/kyc-comes-for-crypto-cards-as-solcard-shuts-door-on-anonymous-visa-use",
           "publishedOn": "2025-07-25T11:13:51.000Z",
-          "wordCount": 6512,
+          "wordCount": 6518,
           "title": "KYC Comes for Crypto Cards as SolCard Shuts Door on Anonymous Visa Use",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/solcard-1-png-eba15ed8-8b63-4464-ad49-0ae658742905.png",
@@ -1016,7 +1061,7 @@
           "description": "The token launchpad wars are coming to a head, with PumpFun and Launchcoin on Believe plunging as LetsBonk implements a new buyback mechanism.",
           "link": "https://thedefiant.io/news/defi/pump-plummets-while-bonk-rallies-on-new-buyback-mechanism",
           "publishedOn": "2025-07-25T09:59:14.000Z",
-          "wordCount": 5105,
+          "wordCount": 5111,
           "title": "PUMP Plummets While BONK Rallies on New Buyback Mechanism",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/launchpads-1-png-05a51180-e5d9-45db-b84a-ea6274870676.png",
@@ -1121,7 +1166,7 @@
           "description": "Circle said on Thursday it will list its yield-bearing stablecoin, USYC, on Binance, allowing institutional clients of the world’s largest crypto exchange to post the token as collateral for trades",
           "link": "https://thedefiant.io/news/cefi/binance-integrates-circles-usyc-stablecoin-to-streamline-institutional-3497fdda",
           "publishedOn": "2025-07-24T16:35:28.000Z",
-          "wordCount": 4883,
+          "wordCount": 4858,
           "title": "Binance Integrates Circle’s USYC Stablecoin to Streamline Institutional Collateral",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/c888494a-c9a7-4516-99d7-3bdcb3cfaae4.jpeg",
@@ -1166,7 +1211,7 @@
           "description": "Ethereum’s validator exit queue is now jammed to record levels as DeFi whales unwind stETH strategies.",
           "link": "https://thedefiant.io/news/defi/ethereum-validator-exit-queue-hits-record-high-led-by-justin-sun-linked-addresses",
           "publishedOn": "2025-07-24T15:56:31.000Z",
-          "wordCount": 5513,
+          "wordCount": 5519,
           "title": "ETH Unstaking Queue Hits Record High, Led by Justin Sun-Linked Addresses",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-20-png-f4683c4b-ff0d-4fcf-a886-fc60bcc20715.png",
@@ -1196,7 +1241,7 @@
           "description": "The largest centralized exchange in the United States is poised to challenge the decentralized perpetual futures leader, Hyperliquid.",
           "link": "https://thedefiant.io/news/defi/could-coinbase-perpetuals-spell-doom-for-hyperliquid",
           "publishedOn": "2025-07-24T10:11:26.000Z",
-          "wordCount": 6524,
+          "wordCount": 6530,
           "title": "Could Coinbase Perpetuals Spell Doom for Hyperliquid?",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/coin-vs-hype-1-png-46ee4756-28c9-447e-ac16-f851c2b4fd8e.png",
@@ -1241,7 +1286,7 @@
           "description": "A U.S. bankruptcy court has approved FTX’s plan to begin its next distribution of funds to creditors on 30 September 2025.",
           "link": "https://thedefiant.io/news/cefi/ftx-wins-court-nod-1-9-billion-creditor-payout-on-sept-30-a729a22a",
           "publishedOn": "2025-07-24T08:05:28.000Z",
-          "wordCount": 4743,
+          "wordCount": 4718,
           "title": "FTX Wins Court Nod for $1.9 Billion Creditor Payout on Sept. 30",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/1f57adea-dc9c-4c2d-83fa-73063b3df526.jpeg",
@@ -1271,7 +1316,7 @@
           "description": "The DeFi capital allocator’s TVL is up 250% since April, and the protocol’s SPK token is now following suit.",
           "link": "https://thedefiant.io/news/defi/spark-rallies-more-than-400-as-tvl-explodes-to-usd8-billion",
           "publishedOn": "2025-07-24T07:31:45.000Z",
-          "wordCount": 4936,
+          "wordCount": 4942,
           "title": "Spark Rallies More than 400% as TVL Explodes to $8 Billion",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/spark-1-png-7ddd806e-89a6-48c3-9783-6a3a4f9efd3e.png",
@@ -1286,7 +1331,7 @@
           "description": "The core team behind Jito Network plans to distribute 100% of protocol fee revenue to the DAO treasury, relinquishing its share under a new proposal.",
           "link": "https://thedefiant.io/news/defi/solana-staking-protocol-jito-plans-to-allocate-100-of-protocol-fees-to-dao",
           "publishedOn": "2025-07-24T07:12:45.000Z",
-          "wordCount": 5284,
+          "wordCount": 5290,
           "title": "Solana Staking Protocol Jito Plans to Allocate 100% of Protocol Fees to DAO",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/jto-1-png-3b3a8497-9fe6-4d2a-b190-1ffca6129960.png",
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btc-tops-visa-1-png-9a7aa627-4f57-464b-adce-3dccf21991d8.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/solana-tokenized-stocks-top-300-million-22-days-e1c50803",
-          "author": "DeepNewz",
-          "description": "Tokenized equities issued on the Solana blockchain have generated more than $300 million in trading volume just 22 days after the service went live, according to data compiled by analytics firm SolanaFloor",
-          "link": "https://thedefiant.io/news/blockchains/solana-tokenized-stocks-top-300-million-22-days-e1c50803",
-          "publishedOn": "2025-07-23T01:00:28.000Z",
-          "wordCount": 4689,
-          "title": "Solana Tokenized Stocks Top $300 Million in 22 Days",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/94963d87-13df-41de-9285-fdb71ae79730.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/94963d87-13df-41de-9285-fdb71ae79730.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blocks-square-opens-bitcoin-payments-to-4-million-merchants-e84a56ea",
-          "author": "DeepNewz",
-          "description": "Block Inc",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blocks-square-opens-bitcoin-payments-to-4-million-merchants-e84a56ea",
-          "publishedOn": "2025-07-22T22:30:28.000Z",
-          "wordCount": 4593,
-          "title": "Block’s Square Opens Bitcoin Payments to 4 Million Merchants",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/8ac41dc3-633e-4079-9573-b3dc86739a6d.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/8ac41dc3-633e-4079-9573-b3dc86739a6d.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/21shares-files-sec-spot-ondo-crypto-etf-2d6462d8",
-          "author": "DeepNewz",
-          "description": "Crypto asset manager 21Shares has submitted a Form S-1 registration statement to the U",
-          "link": "https://thedefiant.io/news/regulation/21shares-files-sec-spot-ondo-crypto-etf-2d6462d8",
-          "publishedOn": "2025-07-22T22:30:28.000Z",
-          "wordCount": 4586,
-          "title": "21Shares Files With SEC for Spot Ondo Crypto ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/aa705a2e-5741-429a-a390-584f0e8d2c8c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/aa705a2e-5741-429a-a390-584f0e8d2c8c.png"
         }
       ]
     }

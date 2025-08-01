@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-01T13:30:51.224Z</id>
+    <id>urn:2025-08-01T14:13:07.016Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-01T13:30:51.224Z</updated>
+    <updated>2025-08-01T14:13:07.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Over 40% of Jupiter’s Trading Volume Now Flows Through Private AMMs]]></title>
+        <id>https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms</id>
+        <link href="https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms"/>
+        <updated>2025-08-01T13:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Almost half of Jupiter’s trading volume is routed through proprietary AMMs, highlighting growing centralization on Solana’s top DEX aggregator.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visa Adds Support for PYUSD and USDG, Expands Settlement to Stellar and Avalanche]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche</id>
@@ -46,6 +56,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitcoin Tops Record With $115,750 Monthly Close]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-tops-record-115750-monthly-close-b049fcb8</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-tops-record-115750-monthly-close-b049fcb8"/>
+        <updated>2025-08-01T03:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin finished July at $115,750, marking its highest monthly close on record and underscoring renewed strength in the world’s largest cryptocurrency]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coinbase Unveils ‘Everything Exchange’ Bringing Tokenized Stocks to US Users]]></title>
         <id>https://thedefiant.io/news/cefi/coinbase-unveils-everything-exchange-bringing-tokenized-stocks-to-us-users-74af6846</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-unveils-everything-exchange-bringing-tokenized-stocks-to-us-users-74af6846"/>
@@ -83,6 +103,16 @@
         <summary type="html"><![CDATA[Large-cap crypto assets are holding steady today, with BTC trading near $118,000.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Extends Native USDC to Sei and Hyperliquid in Cross-Chain Push]]></title>
+        <id>https://thedefiant.io/news/blockchains/circle-extends-native-usdc-to-sei-hyperliquid-cross-chain-push-935cfa9a</id>
+        <link href="https://thedefiant.io/news/blockchains/circle-extends-native-usdc-to-sei-hyperliquid-cross-chain-push-935cfa9a"/>
+        <updated>2025-07-31T14:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Circle Internet Financial has expanded the reach of USD Coin, its dollar-backed stablecoin, by deploying native USDC and the upgraded Cross-Chain Transfer Protocol (CCTP) v2 on the Sei Network]]></summary>
+        <author>
+            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[A report from the Swiss crypto bank highlights Bitcoin’s evolving market role and growing institutional demand.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Tokenized Stocks Top $300 Million in 22 Days]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-tokenized-stocks-top-300-million-22-days-e1c50803</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-tokenized-stocks-top-300-million-22-days-e1c50803"/>
-        <updated>2025-07-23T01:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized equities issued on the Solana blockchain have generated more than $300 million in trading volume just 22 days after the service went live, according to data compiled by analytics firm SolanaFloor]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block’s Square Opens Bitcoin Payments to 4 Million Merchants]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blocks-square-opens-bitcoin-payments-to-4-million-merchants-e84a56ea</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blocks-square-opens-bitcoin-payments-to-4-million-merchants-e84a56ea"/>
-        <updated>2025-07-22T22:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Block Inc]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21Shares Files With SEC for Spot Ondo Crypto ETF]]></title>
-        <id>https://thedefiant.io/news/regulation/21shares-files-sec-spot-ondo-crypto-etf-2d6462d8</id>
-        <link href="https://thedefiant.io/news/regulation/21shares-files-sec-spot-ondo-crypto-etf-2d6462d8"/>
-        <updated>2025-07-22T22:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Crypto asset manager 21Shares has submitted a Form S-1 registration statement to the U]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
