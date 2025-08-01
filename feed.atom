@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-01T18:14:40.591Z</id>
+    <id>urn:2025-08-01T19:10:58.865Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-01T18:14:40.591Z</updated>
+    <updated>2025-08-01T19:10:58.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Pull Back amid Macro Worries]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-pull-back-after-strong-july-gains</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-pull-back-after-strong-july-gains"/>
+        <updated>2025-08-01T18:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Large-cap crypto assets struggled to hold gains after a strong July, weighed down by weak U.S. jobs data and tariff uncertainties.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixel Vault Removes CEO Following Self-Dealing and Rug Pull Accusations]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/nft-project-pixel-vault-removes-ceo-gfunk-after-rug-pull-accusations</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol</id>
         <link href="https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol"/>
         <updated>2025-07-24T14:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Teaming up with interoperability protocol Wormhole, Centrifuge is launching V3 across six EVM chains.]]></summary>
+        <summary type="html"><![CDATA[Centrifuge, a real-world asset (RWA) tokenization platform, revealed on Thursday, July 24, the completion of its migration to the Ethereum ecosystem with the launch of Centrifuge V3.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[With nearly 90% of votes cast against the proposal, Aavegotchi’s community appears poised to reject a $3.2 million buyout that would dissolve the DAO and transfer the IP.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Flows are Directly Impacting Treasury Yields: Messari]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/stablecoin-flows-are-directly-impacting-treasury-yields-messari</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/stablecoin-flows-are-directly-impacting-treasury-yields-messari"/>
-        <updated>2025-07-23T07:50:50.000Z</updated>
-        <summary type="html"><![CDATA[Large stablecoin inflows can even result in “quantitative easing” of long-term Treasury bill yields, according to the crypto research firm.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
