@@ -6,6 +6,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-s-saylor-sidesteps-on-chain-proof-of-bitcoin-reserves-says-audits-are-enough",
+          "author": "Denis Omelchenko",
+          "description": "Strategy’s Michael Saylor pushed back against calls from analysts to reveal wallet addresses, warning that publicizing Bitcoin moves could roil the market.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-s-saylor-sidesteps-on-chain-proof-of-bitcoin-reserves-says-audits-are-enough",
+          "publishedOn": "2025-08-04T07:55:22.000Z",
+          "wordCount": 5367,
+          "title": "Strategy’s Saylor Sidesteps On-Chain Proof of Bitcoin Reserves, Says Audits Are Enough",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/strategypor-1-png-98e9aba9-fe77-45c1-a951-f92c62c1fc3e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/strategypor-1-png-98e9aba9-fe77-45c1-a951-f92c62c1fc3e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
+          "author": "Squiffs",
+          "description": "The synthetic dollar’s supply is up 75% over the past month, driven by increased demand for yield and overall excitement surrounding Ethena.",
+          "link": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
+          "publishedOn": "2025-08-04T07:29:08.000Z",
+          "wordCount": 5044,
+          "title": "Ethena’s USDe Stablecoin Surges to All-Time High Market Capitalization of $9.3 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/satoshi-nakamoto-statue-stolen-luganos-parco-ciani-74f8c468",
+          "author": "DeepNewz",
+          "description": "Authorities in Lugano, Switzerland, are investigating the theft of a bronze statue depicting Bitcoin’s pseudonymous creator, Satoshi Nakamoto",
+          "link": "https://thedefiant.io/news/blockchains/satoshi-nakamoto-statue-stolen-luganos-parco-ciani-74f8c468",
+          "publishedOn": "2025-08-04T06:51:32.000Z",
+          "wordCount": 4643,
+          "title": "Satoshi Nakamoto Statue Stolen From Lugano’s Parco Ciani",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/e2feaeb7-4b47-4a79-b3be-d3f83251e005.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/e2feaeb7-4b47-4a79-b3be-d3f83251e005.jpeg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/metaplanet-adds-463-bitcoin-54-million-treasury-boost-d848fce3",
+          "author": "DeepNewz",
+          "description": "Japan-based Metaplanet expanded its cryptocurrency reserves on 4 Aug",
+          "link": "https://thedefiant.io/news/markets/metaplanet-adds-463-bitcoin-54-million-treasury-boost-d848fce3",
+          "publishedOn": "2025-08-04T05:30:29.000Z",
+          "wordCount": 4575,
+          "title": "Metaplanet Adds 463 Bitcoin in $54 Million Treasury Boost",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/850d3205-74a9-468e-8d1f-ea2902554daf.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/850d3205-74a9-468e-8d1f-ea2902554daf.jpeg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-gaming-boosts-ether-holdings-108-million-purchase-2c81c796",
+          "author": "DeepNewz",
+          "description": "SharpLink Gaming has expanded its cryptocurrency holdings, adding 15,822 Ether valued at about $54 million to its corporate treasury on 2–3 August.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-gaming-boosts-ether-holdings-108-million-purchase-2c81c796",
+          "publishedOn": "2025-08-04T04:37:23.000Z",
+          "wordCount": 4738,
+          "title": "SharpLink Gaming Boosts Ether Holdings With $108 Million Purchase",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/46162dbb-d054-43d8-8542-e05de0b6f5ac.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/46162dbb-d054-43d8-8542-e05de0b6f5ac.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/tornado-cash-trial-now-in-jury-s-hands-as-legal-battle-over-crypto-privacy-tool-nears-end",
           "author": "Jona Jaupi",
           "description": "After two weeks of heated testimony and debate, the case against Roman Storm now rests with a jury.",
@@ -56,7 +131,7 @@
           "description": "Almost half of Jupiter’s trading volume is routed through proprietary AMMs, highlighting growing centralization on Solana’s top DEX aggregator.",
           "link": "https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms",
           "publishedOn": "2025-08-01T13:40:56.000Z",
-          "wordCount": 5275,
+          "wordCount": 5287,
           "title": "Over 40% of Jupiter’s Trading Volume Now Flows Through Private AMMs",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/jupamms-1-png-c1d47024-d1e2-45fe-b1ad-778664111bd5.png",
@@ -326,7 +401,7 @@
           "description": "The DEX experienced unexpected downtime yesterday, which resulted in some users being locked into existing positions and suffering losses.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-to-refund-users-affected-by-platform-outage",
           "publishedOn": "2025-07-30T18:31:33.000Z",
-          "wordCount": 5199,
+          "wordCount": 5211,
           "title": "Hyperliquid to Refund Users Affected by Platform Outage",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-object-v1-png-b5a787b3-3a38-4517-af86-4121986c44bd.png",
@@ -401,7 +476,7 @@
           "description": "JPMorgan Chase & Co",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-partners-coinbase-to-let-chase-customers-fund-crypto-accounts-4d04def1",
           "publishedOn": "2025-07-30T13:00:28.000Z",
-          "wordCount": 4746,
+          "wordCount": 4750,
           "title": "JPMorgan Partners With Coinbase to Let Chase Customers Fund Crypto Accounts",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/5fef237c-7dc0-4d09-8dd1-fc9750ed4de3.jpeg",
@@ -881,7 +956,7 @@
           "description": "Momentum has surpassed $150 million in TVL, and now plans to bring over EVM and Solana projects to Sui using the Wormhole bridge.",
           "link": "https://thedefiant.io/news/defi/sui-dex-momentum-teases-expansion-plans-after-hitting-usd100-million-in-daily-volume",
           "publishedOn": "2025-07-28T14:00:27.000Z",
-          "wordCount": 5627,
+          "wordCount": 5639,
           "title": "Sui DEX Momentum Teases Expansion Plans After Hitting $100 Million in Daily Volume",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/momentum-1-png-204f83bf-2c3a-4eab-a276-be7ea72185d6.png",
@@ -941,7 +1016,7 @@
           "description": "With ZORA rallying nearly 900% in the past month, top crypto personalities are debating whether creator-linked tokens truly hold lasting value or are just ‘shitcoins.’",
           "link": "https://thedefiant.io/news/defi/zora-token-surges-as-base-and-solana-execs-lock-horns-over-speculative-creator-coins",
           "publishedOn": "2025-07-28T11:38:43.000Z",
-          "wordCount": 5400,
+          "wordCount": 5412,
           "title": "Zora Token Surges as Base and Solana Execs Lock Horns Over Speculative Creator Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/zora-1-png-5676977a-4089-4d56-bc35-9d758f8c92e1.png",
@@ -1061,7 +1136,7 @@
           "description": "Brazilian securitization firm VERT is using the XRP Ledger to tokenize private credit, beginning with a $130 million agribusiness receivables certificate.",
           "link": "https://thedefiant.io/news/defi/vert-debuts-brazil-s-first-on-chain-platform-for-private-credit-on-xrp-ledger",
           "publishedOn": "2025-07-25T12:23:32.000Z",
-          "wordCount": 5183,
+          "wordCount": 5195,
           "title": "VERT Debuts Brazil’s First On-Chain Platform for Private Credit on XRP Ledger",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/brazil-xrp-1-png-25db8478-3d96-4fe7-b73b-1a91828f1e23.png",
@@ -1091,7 +1166,7 @@
           "description": "Some unverified SolCard users lost access to their virtual debit cards, but a company representative says a no-KYC option will be reinstated.",
           "link": "https://thedefiant.io/news/defi/kyc-comes-for-crypto-cards-as-solcard-shuts-door-on-anonymous-visa-use",
           "publishedOn": "2025-07-25T11:13:51.000Z",
-          "wordCount": 6518,
+          "wordCount": 6530,
           "title": "KYC Comes for Crypto Cards as SolCard Shuts Door on Anonymous Visa Use",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/solcard-1-png-eba15ed8-8b63-4464-ad49-0ae658742905.png",
@@ -1106,7 +1181,7 @@
           "description": "The token launchpad wars are coming to a head, with PumpFun and Launchcoin on Believe plunging as LetsBonk implements a new buyback mechanism.",
           "link": "https://thedefiant.io/news/defi/pump-plummets-while-bonk-rallies-on-new-buyback-mechanism",
           "publishedOn": "2025-07-25T09:59:14.000Z",
-          "wordCount": 5111,
+          "wordCount": 5123,
           "title": "PUMP Plummets While BONK Rallies on New Buyback Mechanism",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/launchpads-1-png-05a51180-e5d9-45db-b84a-ea6274870676.png",
@@ -1178,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/gamesquare-buys-cryptopunk-5577-for-nft-treasury",
           "author": "Squiffs",
-          "description": "The firm bought the coveted Punk from Robert Leshner in exchange for preferred stock, while also expanding its ETH treasury.",
+          "description": "GameSquare, a publicly traded gaming-focused company that is adopting an Ethereum treasury strategy, announced a major acquisition today of CryptoPunk #5577 for $5.15 million in preferred stock.",
           "link": "https://thedefiant.io/news/nfts-and-web3/gamesquare-buys-cryptopunk-5577-for-nft-treasury",
           "publishedOn": "2025-07-24T19:01:22.000Z",
           "wordCount": 5242,
@@ -1253,10 +1328,10 @@
         {
           "id": "https://thedefiant.io/news/defi/ethereum-validator-exit-queue-hits-record-high-led-by-justin-sun-linked-addresses",
           "author": "Denis Omelchenko",
-          "description": "Ethereum stakers trying to exit the network are now stuck in the longest waiting line the network has ever experienced, with delays stretching far beyond the usual timeframe.",
+          "description": "Ethereum’s validator exit queue is now jammed to record levels as DeFi whales unwind stETH strategies.",
           "link": "https://thedefiant.io/news/defi/ethereum-validator-exit-queue-hits-record-high-led-by-justin-sun-linked-addresses",
           "publishedOn": "2025-07-24T15:56:31.000Z",
-          "wordCount": 5519,
+          "wordCount": 5531,
           "title": "ETH Unstaking Queue Hits Record High, Led by Justin Sun-Linked Addresses",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-20-png-f4683c4b-ff0d-4fcf-a886-fc60bcc20715.png",
@@ -1286,7 +1361,7 @@
           "description": "The largest centralized exchange in the United States is poised to challenge the decentralized perpetual futures leader, Hyperliquid.",
           "link": "https://thedefiant.io/news/defi/could-coinbase-perpetuals-spell-doom-for-hyperliquid",
           "publishedOn": "2025-07-24T10:11:26.000Z",
-          "wordCount": 6530,
+          "wordCount": 6542,
           "title": "Could Coinbase Perpetuals Spell Doom for Hyperliquid?",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/coin-vs-hype-1-png-46ee4756-28c9-447e-ac16-f851c2b4fd8e.png",
@@ -1361,7 +1436,7 @@
           "description": "The DeFi capital allocator’s TVL is up 250% since April, and the protocol’s SPK token is now following suit.",
           "link": "https://thedefiant.io/news/defi/spark-rallies-more-than-400-as-tvl-explodes-to-usd8-billion",
           "publishedOn": "2025-07-24T07:31:45.000Z",
-          "wordCount": 4942,
+          "wordCount": 4954,
           "title": "Spark Rallies More than 400% as TVL Explodes to $8 Billion",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/spark-1-png-7ddd806e-89a6-48c3-9783-6a3a4f9efd3e.png",
@@ -1376,7 +1451,7 @@
           "description": "The core team behind Jito Network plans to distribute 100% of protocol fee revenue to the DAO treasury, relinquishing its share under a new proposal.",
           "link": "https://thedefiant.io/news/defi/solana-staking-protocol-jito-plans-to-allocate-100-of-protocol-fees-to-dao",
           "publishedOn": "2025-07-24T07:12:45.000Z",
-          "wordCount": 5290,
+          "wordCount": 5302,
           "title": "Solana Staking Protocol Jito Plans to Allocate 100% of Protocol Fees to DAO",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/jto-1-png-3b3a8497-9fe6-4d2a-b190-1ffca6129960.png",
@@ -1429,81 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/object-v2---2025-07-23t152836-591-png-97df3393-3c73-4f99-b0ae-0a519a217469.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-weighs-crypto-backed-loans-shift-dimons-skepticism-6aca9a5d",
-          "author": "DeepNewz",
-          "description": "JPMorgan Chase is studying a plan to let wealthy clients borrow against their cryptocurrency holdings, including Bitcoin and Ethereum, as soon as next year, the Financial Times reported, citing people familiar with the discussions",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-weighs-crypto-backed-loans-shift-dimons-skepticism-6aca9a5d",
-          "publishedOn": "2025-07-23T19:05:28.000Z",
-          "wordCount": 5035,
-          "title": "JPMorgan Weighs Crypto-Backed Loans in Shift From Dimon’s Skepticism",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/6048dd42-b47b-42b0-b325-6a12e780dd91.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/6048dd42-b47b-42b0-b325-6a12e780dd91.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/flr-price-hits-6-month-high-amid-sparkdex-token-launch-buzz",
-          "author": "Denis Omelchenko",
-          "description": "SparkDEX’s upcoming SPRK token launch and the recent XRP rally may be driving a breakout for Flare, with FLR price and TVL both showing strong gains",
-          "link": "https://thedefiant.io/news/markets/flr-price-hits-6-month-high-amid-sparkdex-token-launch-buzz",
-          "publishedOn": "2025-07-23T17:51:39.000Z",
-          "wordCount": 5723,
-          "title": "FLR Price Hits 6-Month High amid SparkDEX Token Launch Buzz",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-18-png-c7c9f25b-d02f-4e03-91f5-fb63fc4cc360.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-18-png-c7c9f25b-d02f-4e03-91f5-fb63fc4cc360.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-to-launch-tokenized-money-market-fund",
-          "author": "Jona Jaupi",
-          "description": "The initiative uses “mirror tokens” of MMF shares on Goldman’s private blockchain platform",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-to-launch-tokenized-money-market-fund",
-          "publishedOn": "2025-07-23T15:57:51.000Z",
-          "wordCount": 5677,
-          "title": "Goldman Sachs, BNY to Launch Tokenized Money Market Fund",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-17-png-1d0fdee3-ce63-4574-bf26-423732433287.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-17-png-1d0fdee3-ce63-4574-bf26-423732433287.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-mellon-launch-tokenized-money-market-funds-48f2ec4c",
-          "author": "DeepNewz",
-          "description": "Goldman Sachs Group Inc. and Bank of New York Mellon Corp. are preparing to let institutional clients buy and hold money-market fund shares that are recorded on a private blockchain",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-mellon-launch-tokenized-money-market-funds-48f2ec4c",
-          "publishedOn": "2025-07-23T12:35:28.000Z",
-          "wordCount": 4772,
-          "title": "Goldman Sachs, BNY Mellon Launch Tokenized Money-Market Funds",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/08b6b473-dfa7-4b4d-9f06-4769917cf67d.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/08b6b473-dfa7-4b4d-9f06-4769917cf67d.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/education/blockchains/what-is-maximal-extractable-value-mev",
-          "author": "Denis Omelchenko",
-          "description": "Ethereum validators are earning millions by reordering trades, but most users remain unaware of the impact of MEV on their transactions.",
-          "link": "https://thedefiant.io/education/blockchains/what-is-maximal-extractable-value-mev",
-          "publishedOn": "2025-07-23T11:59:06.000Z",
-          "wordCount": 6069,
-          "title": "What is Maximal Extractable Value (MEV)?",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mev-1-png-e8f667d3-3379-44d3-a252-d2911a439385.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mev-1-png-e8f667d3-3379-44d3-a252-d2911a439385.png"
         }
       ]
     }
