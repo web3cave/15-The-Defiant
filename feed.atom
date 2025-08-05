@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-05T07:17:22.353Z</id>
+    <id>urn:2025-08-05T08:15:06.892Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-05T07:17:22.353Z</updated>
+    <updated>2025-08-05T08:15:06.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase’s Base Network Halts Block Production for Nearly 30 Minutes]]></title>
+        <id>https://thedefiant.io/news/blockchains/coinbase-s-base-network-halts-block-production-for-nearly-30-minutes</id>
+        <link href="https://thedefiant.io/news/blockchains/coinbase-s-base-network-halts-block-production-for-nearly-30-minutes"/>
+        <updated>2025-08-05T07:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Layer 2 network Base briefly paused block production early Monday after nearly two years of steady operation.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Perpetuals Volume Hits All-Time High of $399 Billion in July]]></title>
+        <id>https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july</id>
+        <link href="https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july"/>
+        <updated>2025-08-05T07:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Hyperliquid leads the pack with 79% of total decentralized perpetuals trading volume.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Hack Losses Surge to $142 Million in July: PeckShield]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/crypto-hack-losses-surge-to-usd142-million-in-july-peckshield</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-4-year-cycle-theory-dead-as-whale-strategy-shifts-analysts</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-4-year-cycle-theory-dead-as-whale-strategy-shifts-analysts"/>
         <updated>2025-07-25T16:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Analysts from Bitwise and CryptoQuant separately argue that growing institutional investment is reshaping the market.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin’s (BTC) widely referenced four-year cycle — the idea that its price predictably rises after each halving, before crashing and recovering — might be losing relevance, according to separate analyses from CryptoQuant and Bitwise executives.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[BlackRock’s iShares Ethereum ETF, trading under the ticker ETHA, has accumulated more than $10 billion in assets under management roughly one year after its debut, according to fund-flow data compiled on 24 July]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Unstaking Queue Hits Record High, Led by Justin Sun-Linked Addresses]]></title>
-        <id>https://thedefiant.io/news/defi/ethereum-validator-exit-queue-hits-record-high-led-by-justin-sun-linked-addresses</id>
-        <link href="https://thedefiant.io/news/defi/ethereum-validator-exit-queue-hits-record-high-led-by-justin-sun-linked-addresses"/>
-        <updated>2025-07-24T15:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s validator exit queue is now jammed to record levels as DeFi whales unwind stETH strategies.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centrifuge Migrates to Ethereum with Cross-Chain EVM-Native Protocol]]></title>
-        <id>https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol</id>
-        <link href="https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol"/>
-        <updated>2025-07-24T14:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Teaming up with interoperability protocol Wormhole, Centrifuge is launching V3 across six EVM chains.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
