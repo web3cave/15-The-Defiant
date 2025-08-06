@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/circle-s-native-usdc-launch-on-hyperliquid-threatens-arbitrum-messari",
+          "author": "Denis Omelchenko",
+          "description": "Circle’s plan to mint native USDC on Hyperliquid threatens Arbitrum’s dominance, with a Messari analyst warning of a possible liquidity exodus.",
+          "link": "https://thedefiant.io/news/defi/circle-s-native-usdc-launch-on-hyperliquid-threatens-arbitrum-messari",
+          "publishedOn": "2025-08-06T08:36:47.000Z",
+          "wordCount": 5285,
+          "title": "Circle’s Native USDC Launch on Hyperliquid Threatens Arbitrum: Messari",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usdchype-1-png-9cdbfbbd-f6f6-44cb-9eff-211984c2a869.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usdchype-1-png-9cdbfbbd-f6f6-44cb-9eff-211984c2a869.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/mantle-s-mnt-hits-5-month-high-as-launch-of-ur-app-nears",
           "author": "Jona Jaupi",
           "description": "The MNT token has rallied 60% over the past month as Layer 2 activity climbs.",
@@ -26,7 +41,7 @@
           "description": "The Solana-based token launchpad has struggled to meet the market’s expectations since its token generation event.",
           "link": "https://thedefiant.io/news/defi/pumpfun-revenue-plunges-96-to-lowest-level-since-march-2024",
           "publishedOn": "2025-08-06T07:03:44.000Z",
-          "wordCount": 5012,
+          "wordCount": 4982,
           "title": "PumpFun Revenue Plunges 96% to Lowest Level Since March 2024",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pumprev-1-png-094b7836-6233-4d78-b5e1-972dc33d9456.png",
@@ -206,7 +221,7 @@
           "description": "Hyperliquid leads the pack with 79% of total decentralized perpetuals trading volume.",
           "link": "https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july",
           "publishedOn": "2025-08-05T07:33:51.000Z",
-          "wordCount": 4915,
+          "wordCount": 4885,
           "title": "Decentralized Perpetuals Volume Hits All-Time High of $399 Billion in July",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/dexperps-1-png-1bb589cc-b6cc-4f0a-b8de-465e4ab2363d.png",
@@ -386,7 +401,7 @@
           "description": "Ethereum-based DeFi protocols might want to think twice before rolling out on every Layer 2, as data shows most fees still accrue on the mainnet.",
           "link": "https://thedefiant.io/news/defi/ethereum-still-accounts-for-90-of-fees-as-layer-2s-struggle-to-deliver-revenue",
           "publishedOn": "2025-08-04T10:18:36.000Z",
-          "wordCount": 5593,
+          "wordCount": 5563,
           "title": "Ethereum Still Accounts for 90% of Fees as Layer 2s Struggle to Deliver Revenue",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/etheco-1-png-d83228ee-c079-4607-a5c8-5393cc557fba.png",
@@ -416,7 +431,7 @@
           "description": "The synthetic dollar’s supply is up 75% over the past month, driven by increased demand for yield and overall excitement surrounding Ethena.",
           "link": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
           "publishedOn": "2025-08-04T07:29:08.000Z",
-          "wordCount": 5070,
+          "wordCount": 5040,
           "title": "Ethena’s USDe Stablecoin Surges to All-Time High Market Capitalization of $9.3 Billion",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png",
@@ -521,7 +536,7 @@
           "description": "Almost half of Jupiter’s trading volume is routed through proprietary AMMs, highlighting growing centralization on Solana’s top DEX aggregator.",
           "link": "https://thedefiant.io/news/defi/over-40-of-jupiter-s-trading-volume-now-flows-through-private-amms",
           "publishedOn": "2025-08-01T13:40:56.000Z",
-          "wordCount": 5313,
+          "wordCount": 5283,
           "title": "Over 40% of Jupiter’s Trading Volume Now Flows Through Private AMMs",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/jupamms-1-png-c1d47024-d1e2-45fe-b1ad-778664111bd5.png",
@@ -791,7 +806,7 @@
           "description": "The DEX experienced unexpected downtime yesterday, which resulted in some users being locked into existing positions and suffering losses.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-to-refund-users-affected-by-platform-outage",
           "publishedOn": "2025-07-30T18:31:33.000Z",
-          "wordCount": 5237,
+          "wordCount": 5207,
           "title": "Hyperliquid to Refund Users Affected by Platform Outage",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-object-v1-png-b5a787b3-3a38-4517-af86-4121986c44bd.png",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/binance-launches-yield-bearing-product-pegged-to-users-stablecoin-deposits",
           "author": "Jona Jaupi",
-          "description": "The CEX says RWUSD aims to “benchmark yields in RWAs” like U.S. T-Bills, but the product isn’t available to U.S. traders.",
+          "description": "Binance, the largest cryptocurrency exchange by daily trading volumes, unveiled a new product that lets users earn yield on their stablecoin deposits, “supported by” U.S. Treasuries, according to an official announcement today, July 28.",
           "link": "https://thedefiant.io/news/cefi/binance-launches-yield-bearing-product-pegged-to-users-stablecoin-deposits",
           "publishedOn": "2025-07-28T19:02:55.000Z",
           "wordCount": 5463,
@@ -1346,7 +1361,7 @@
           "description": "Momentum has surpassed $150 million in TVL, and now plans to bring over EVM and Solana projects to Sui using the Wormhole bridge.",
           "link": "https://thedefiant.io/news/defi/sui-dex-momentum-teases-expansion-plans-after-hitting-usd100-million-in-daily-volume",
           "publishedOn": "2025-07-28T14:00:27.000Z",
-          "wordCount": 5665,
+          "wordCount": 5635,
           "title": "Sui DEX Momentum Teases Expansion Plans After Hitting $100 Million in Daily Volume",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/momentum-1-png-204f83bf-2c3a-4eab-a276-be7ea72185d6.png",
@@ -1406,7 +1421,7 @@
           "description": "With ZORA rallying nearly 900% in the past month, top crypto personalities are debating whether creator-linked tokens truly hold lasting value or are just ‘shitcoins.’",
           "link": "https://thedefiant.io/news/defi/zora-token-surges-as-base-and-solana-execs-lock-horns-over-speculative-creator-coins",
           "publishedOn": "2025-07-28T11:38:43.000Z",
-          "wordCount": 5438,
+          "wordCount": 5408,
           "title": "Zora Token Surges as Base and Solana Execs Lock Horns Over Speculative Creator Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/zora-1-png-5676977a-4089-4d56-bc35-9d758f8c92e1.png",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/0b0ccfd7-0996-496f-9143-282ca6d8a0de.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/windtree-therapeutics-plans-520-million-raise-99-bnb-secures-500m-line-cc968f4f",
-          "author": "DeepNewz",
-          "description": "Nasdaq-listed Windtree Therapeutics has announced plans to raise up to $520 million in new funding, with approximately 99% of the proceeds intended to purchase BNB for its corporate treasury",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/windtree-therapeutics-plans-520-million-raise-99-bnb-secures-500m-line-cc968f4f",
-          "publishedOn": "2025-07-25T15:19:45.000Z",
-          "wordCount": 4813,
-          "title": "Windtree Therapeutics Plans $520 Million Raise, 99% for BNB, Secures $500M Equity Line, Uses Kraken Custody",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/cc9993ff-1cae-49bb-859d-a6d28b3565e7.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/cc9993ff-1cae-49bb-859d-a6d28b3565e7.jpeg"
         }
       ]
     }
