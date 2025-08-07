@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-07T12:20:45.038Z</id>
+    <id>urn:2025-08-07T13:33:26.116Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-07T12:20:45.038Z</updated>
+    <updated>2025-08-07T13:33:26.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Keyring Brings Zero-Knowledge ID Layer to DeFi Vaults on Avalanche]]></title>
+        <id>https://thedefiant.io/news/defi/keyring-brings-zero-knowledge-id-layer-to-defi-vaults-on-avalanche</id>
+        <link href="https://thedefiant.io/news/defi/keyring-brings-zero-knowledge-id-layer-to-defi-vaults-on-avalanche"/>
+        <updated>2025-08-07T13:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Keyring’s new system enables users to prove their identities and safely use DeFi without revealing personal information publicly.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PancakeSwap Adds On-Chain Apple, Amazon, Tesla Futures Amid $2B Tokenized Stock Surge]]></title>
         <id>https://thedefiant.io/news/defi/pancakeswap-adds-on-chain-apple-amazon-tesla-futures-amid-2b-tokenized-stock-698281bb</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[MicroStrategy Inc. has sharply increased the size of its planned capital raise to about $2.8 billion, up from the $500 million outlined earlier this week.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mill City Ventures to Buy $450M of SUI Tokens in Blockchain Pivot]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/mill-city-ventures-to-buy-usd450m-of-sui-tokens-in-blockchain-pivot</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/mill-city-ventures-to-buy-usd450m-of-sui-tokens-in-blockchain-pivot"/>
-        <updated>2025-07-29T09:06:48.000Z</updated>
-        <summary type="html"><![CDATA[The public finance company is teaming up with top crypto players to hold SUI as its main reserve asset.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
