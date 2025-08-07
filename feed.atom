@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-07T08:15:01.802Z</id>
+    <id>urn:2025-08-07T09:16:34.318Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-07T08:15:01.802Z</updated>
+    <updated>2025-08-07T09:16:34.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Pushes for ZK-enabled AML Overhaul Just Months After Data Breach]]></title>
+        <id>https://thedefiant.io/news/regulation/coinbase-pushes-for-zk-enabled-aml-overhaul-just-months-after-data-breach</id>
+        <link href="https://thedefiant.io/news/regulation/coinbase-pushes-for-zk-enabled-aml-overhaul-just-months-after-data-breach"/>
+        <updated>2025-08-07T08:44:31.000Z</updated>
+        <summary type="html"><![CDATA[After a data leak affecting tens of thousands of users, Coinbase is now touting cryptographic tools as a fix for outdated financial crime laws.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Climb as SEC Statement on Staking Boosts Sentiment]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-climb-as-sec-statement-on-staking-boosts-sentiment</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-weaken-as-ethereum-etf-inflows-slow</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-weaken-as-ethereum-etf-inflows-slow"/>
         <updated>2025-07-29T16:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Despite slowing ETF momentum, ETH derivatives data from Glassnode show capital is rotating from Bitcoin into Ethereum.]]></summary>
+        <summary type="html"><![CDATA[The crypto market edged lower on Tuesday, with Bitcoin (BTC) hovering in a tight band between $118,700 and $119,000, easing about half a percent as it failed to break past the $120,000 mark. BTC is currently near $117,625, registering a 1% loss on the weekly timeframe.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Marathon Digital Holdings Inc]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Hold Steady as Bitcoin Recovers from $9B Whale Sale]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-hold-steady-as-bitcoin-recovers-from-usd9b-whale-sale</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-hold-steady-as-bitcoin-recovers-from-usd9b-whale-sale"/>
-        <updated>2025-07-28T16:04:40.000Z</updated>
-        <summary type="html"><![CDATA[ETH rallied above $3,900 today, even as Bitcoin struggled to regain momentum after a large-scale sell-off.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
