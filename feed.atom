@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-07T17:13:04.995Z</id>
+    <id>urn:2025-08-07T18:15:18.014Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-07T17:13:04.995Z</updated>
+    <updated>2025-08-07T18:15:18.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple Expands Its Stablecoin Payments Infra with $200M Rail Acquisition]]></title>
+        <id>https://thedefiant.io/news/infrastructure/ripple-acquires-stablecoin-platform-rail-for-usd200m</id>
+        <link href="https://thedefiant.io/news/infrastructure/ripple-acquires-stablecoin-platform-rail-for-usd200m"/>
+        <updated>2025-08-07T17:37:59.000Z</updated>
+        <summary type="html"><![CDATA[The company will use stablecoin platform Rail’s infrastructure and company history to bolster its standing in the stablecoin race.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Climb as Trump Expected to Sign 401(k) Executive Order Today]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-climb-as-trump-expected-to-sign-401-k-executive-order-today</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/jpmorgan-coinbase-partnership-removes-the-need-for-the-middleman</id>
         <link href="https://thedefiant.io/news/cefi/jpmorgan-coinbase-partnership-removes-the-need-for-the-middleman"/>
         <updated>2025-07-30T16:54:48.000Z</updated>
-        <summary type="html"><![CDATA[The multi-front partnership includes a direct bank-to-exchange link, credit card purchases, and crypto rewards conversions.]]></summary>
+        <summary type="html"><![CDATA[The largest bank in the United States has teamed up with the country’s top centralized crypto exchange (CEX) in a multi-part strategic partnership. JPMorgan Chase, with $4.3 trillion in assets, and Coinbase announced on Wednesday a new partnership to offer more than 80 million Chase customers a new, more streamlined way to access crypto via Coinbase.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Standard Chartered Bank said corporate entities that store Ether on their balance sheets could eventually control one-tenth of the cryptocurrency’s total supply, a ten-fold jump from today’s levels]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InterNetX Taps D3 to Turn Web2 Domains Into Tradable Tokens]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/internetx-taps-d3-to-turn-web2-domains-into-tradable-tokens</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/internetx-taps-d3-to-turn-web2-domains-into-tradable-tokens"/>
-        <updated>2025-07-29T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[A European domain registrar is moving millions of domains onto the blockchain, making them tradable RWAs on platforms like OpenSea and Magic Eden.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
