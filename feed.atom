@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T20:10:34.532Z</id>
+    <id>urn:2025-08-13T21:08:33.681Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-13T20:10:34.532Z</updated>
+    <updated>2025-08-13T21:08:33.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle’s Arc Layer 1 Re-ignites the Open Versus Permissioned Chain Debate]]></title>
+        <id>https://thedefiant.io/news/blockchains/circle-s-arc-layer-1-re-ignites-the-open-versus-permissioned-chain-debate</id>
+        <link href="https://thedefiant.io/news/blockchains/circle-s-arc-layer-1-re-ignites-the-open-versus-permissioned-chain-debate"/>
+        <updated>2025-08-13T20:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Experts are clashing over whether Arc would be more successful leveraging the benefits of open blockchains or as a permissioned chain built for compliance and speedy execution.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNI Rallies in Anticipation of Fee Switch]]></title>
         <id>https://thedefiant.io/news/defi/uni-rallies-in-anticipation-of-fee-switch</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Uniswap token holders may be about to catch their white whale, with speculation the “fee switch” will be turned on after the DAO’s restructure is approved.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Launches Yield-Bearing Stablecoin Collateral on Perps DEX Drift]]></title>
+        <id>https://thedefiant.io/news/defi/maple-finance-launches-yield-bearing-syrupusdc-collateral-for-perps-on-drift</id>
+        <link href="https://thedefiant.io/news/defi/maple-finance-launches-yield-bearing-syrupusdc-collateral-for-perps-on-drift"/>
+        <updated>2025-08-13T17:37:17.000Z</updated>
+        <summary type="html"><![CDATA[The new integration lets traders earn 7-8% yield with SYRUPUSDC on the second-largest Solana perpetual futures DEX.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Ethereum Layer 2 network Base briefly paused block production early Monday after nearly two years of steady operation.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Perpetuals Volume Hits All-Time High of $399 Billion in July]]></title>
-        <id>https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july</id>
-        <link href="https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july"/>
-        <updated>2025-08-05T07:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Hyperliquid leads the pack with 79% of total decentralized perpetuals trading volume.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hack Losses Surge to $142 Million in July: PeckShield]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/crypto-hack-losses-surge-to-usd142-million-in-july-peckshield</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/crypto-hack-losses-surge-to-usd142-million-in-july-peckshield"/>
-        <updated>2025-08-05T07:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Seventeen incidents drove a 27% month-over-month increase in losses.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
