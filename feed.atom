@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-14T15:10:10.413Z</id>
+    <id>urn:2025-08-14T16:12:28.995Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-14T15:10:10.413Z</updated>
+    <updated>2025-08-14T16:12:28.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Fragile amid $1B Liquidations Triggered by PPI Surprise]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-fragile-amid-usd1b-liquidations-triggered-by-ppi-surprise</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-fragile-amid-usd1b-liquidations-triggered-by-ppi-surprise"/>
+        <updated>2025-08-14T15:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin slips below $120,000 from new ATH above $124,000 as crypto markets see $1 billion in liquidations.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Treasury Halts Sale of Bitcoin Reserve Valued Up to $20 Billion]]></title>
         <id>https://thedefiant.io/news/regulation/us-treasury-halts-sale-bitcoin-reserve-valued-up-to-20-billion-6d73d6f7</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/sec-divison-says-liquid-staking-tokens-not-securities</id>
         <link href="https://thedefiant.io/news/regulation/sec-divison-says-liquid-staking-tokens-not-securities"/>
         <updated>2025-08-06T18:11:12.000Z</updated>
-        <summary type="html"><![CDATA[The SEC’s Division of Corporation Finance has clarified its views that liquid staking tokens are not securities.]]></summary>
+        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission (SEC) Division of Corporation Finance published a statement on Tuesday that certain liquid staking activities are not considered securities, paving the way for wider institutional adoption of staking and a clearer regulatory landscape for crypto.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin slipped below $113,000 as Ethereum ETFs face record daily net outflows amid mixed market sentiment.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Says Liquid Staking Tokens Are Not Securities]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-clarifies-liquid-staking-tokens-securities-76ab000c</id>
-        <link href="https://thedefiant.io/news/regulation/sec-clarifies-liquid-staking-tokens-securities-76ab000c"/>
-        <updated>2025-08-05T17:30:36.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission’s Division of Corporation Finance issued written guidance stating that liquid staking activities and the tokens representing those positions are not securities transactions under federal law.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
