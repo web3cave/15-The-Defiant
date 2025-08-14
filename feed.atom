@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-14T17:09:05.794Z</id>
+    <id>urn:2025-08-14T18:14:05.900Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-14T17:09:05.794Z</updated>
+    <updated>2025-08-14T18:14:05.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Stakers Rush to Exit on Price Pump]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump"/>
+        <updated>2025-08-14T17:59:05.000Z</updated>
+        <summary type="html"><![CDATA[The ETH validator queue’s exit line jumped over the last 48 hours.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge Surpasses $1 Billion in TVL as Broader RWA Heats Up]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/centrifuge-surpasses-usd1-billion-in-tvl-as-broader-rwa-heats-up</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/centrifuge-surpasses-usd1-billion-in-tvl-as-broader-rwa-heats-up"/>
+        <updated>2025-08-14T17:27:18.000Z</updated>
+        <summary type="html"><![CDATA[The RWA tokenization platform has seen nearly 94% growth in two weeks, fueled by on-chain adoption of JAAA and Ethereum migration.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero Faces Network Reorg as Community Split over Qubic’s Role]]></title>
+        <id>https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role</id>
+        <link href="https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role"/>
+        <updated>2025-08-14T17:22:30.000Z</updated>
+        <summary type="html"><![CDATA[QUBIC is down 7% as the project's self-proclaimed "experiment" sparks backlash in the Monero community after it led to a short-lived network reorganization.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Fragile amid $1B Liquidations Triggered by PPI Surprise]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-fragile-amid-usd1b-liquidations-triggered-by-ppi-surprise</id>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/regulation/sec-divison-says-liquid-staking-tokens-not-securities</id>
         <link href="https://thedefiant.io/news/regulation/sec-divison-says-liquid-staking-tokens-not-securities"/>
         <updated>2025-08-06T18:11:12.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission (SEC) Division of Corporation Finance published a statement on Tuesday that certain liquid staking activities are not considered securities, paving the way for wider institutional adoption of staking and a clearer regulatory landscape for crypto.]]></summary>
+        <summary type="html"><![CDATA[The SEC’s Division of Corporation Finance has clarified its views that liquid staking tokens are not securities.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Galaxy Digital returned to profitability in the second quarter]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Digital to Tokenize GLXY Stock via Superstate]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-to-tokenize-glxy-stock-via-superstate</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-to-tokenize-glxy-stock-via-superstate"/>
-        <updated>2025-08-05T19:13:17.000Z</updated>
-        <summary type="html"><![CDATA[The news broke via an SEC filing earlier today, published alongside Galaxy’s Q2 earnings report.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Californian Neobank Slash Bets on Own Stablecoin to Streamline Global Dollar Access]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/californian-neobank-slash-bets-on-own-stablecoin-to-streamline-global-dollar-access</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/californian-neobank-slash-bets-on-own-stablecoin-to-streamline-global-dollar-access"/>
-        <updated>2025-08-05T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Slash is launching a dollar account powered by a non-transferable stablecoin that offers global businesses faster payments, built-in off-ramps, and yield on balances.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Slide as Ethereum ETFs See Record Outflows]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-ethereum-etfs-see-record-outflows</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-ethereum-etfs-see-record-outflows"/>
-        <updated>2025-08-05T17:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin slipped below $113,000 as Ethereum ETFs face record daily net outflows amid mixed market sentiment.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
