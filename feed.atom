@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-15T23:09:22.321Z</id>
+    <id>urn:2025-08-16T00:46:12.113Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-15T23:09:22.321Z</updated>
+    <updated>2025-08-16T00:46:12.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Hits All-Time High TVL Even as Trading Volume Crashes]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-hits-all-time-high-usd31-billion-tvl-despite-83-reduction-in-trading-volume</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-hits-all-time-high-usd31-billion-tvl-despite-83-reduction-in-trading-volume"/>
+        <updated>2025-08-15T23:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Memecoin trading dried up but DeFi is picking up the slack.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liquid Staking TVL Hits Record $86B amid ETH Rally and Growing Institutional Adoption]]></title>
         <id>https://thedefiant.io/news/defi/liquid-staking-tvl-hits-record-usd86b-amid-eth-rally-and-growing-institutional-adoption</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility</id>
         <link href="https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility"/>
         <updated>2025-08-07T15:58:38.000Z</updated>
-        <summary type="html"><![CDATA[The wallet-draining scam has renewed debate around stablecoin issuers' responsibility, decentralization, and custody options for crypto users.]]></summary>
+        <summary type="html"><![CDATA[A crypto user lost over $3 million in USDT on Tuesday after unknowingly giving malicious actors access to their wallet. The incident reignited the ongoing debate over the risks of self-custody, as well as over the ability of stablecoin issuers like Tether to freeze tokens — with some calling for intervention and others warning it could undermine crypto’s core principles.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The SEC’s Division of Corporation Finance has clarified its views that liquid staking tokens are not securities.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash’s Roman Storm Guilty of Unlicensed Money Transfer as Jury Splits]]></title>
-        <id>https://thedefiant.io/news/regulation/tornado-cashs-roman-storm-guilty-unlicensed-money-transfer-jury-splits-002735c5</id>
-        <link href="https://thedefiant.io/news/regulation/tornado-cashs-roman-storm-guilty-unlicensed-money-transfer-jury-splits-002735c5"/>
-        <updated>2025-08-06T17:30:36.000Z</updated>
-        <summary type="html"><![CDATA[A Manhattan federal jury on 6 Aug]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
