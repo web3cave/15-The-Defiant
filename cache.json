@@ -6,6 +6,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/the-future-of-finance-is-tokenized-ondo-s-vision-for-rwas",
+          "author": "Camila Russo",
+          "description": "Ondo Finance is at the forefront of the real-world asset (RWA) revolution, bringing traditional financial products like U.S. treasuries, stocks, and ETFs onto blockchain rails. In this episode of the Defiant Podcast, Ian De Bode, Chief Strategy Officer at Ondo Finance, dives into democratizing access to financial markets for a global audience. By tokenizing assets, Ondo enables 24/7 mobility, seamless DeFi integration, and enhanced investor protections, all while addressing the inefficiencies of traditional finance.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/the-future-of-finance-is-tokenized-ondo-s-vision-for-rwas",
+          "publishedOn": "2025-09-02T19:54:43.000Z",
+          "wordCount": 5379,
+          "title": "The Future of Finance is Tokenized: Ondo’s Vision for RWAs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/sonic-passes-usd150-million-proposal-to-issue-tokens-for-dat-and-etf",
+          "author": "Squiffs",
+          "description": "The Layer 1 blockchain is the latest to abandon its pursuit of decentralization and cozy up to U.S traditional finance.",
+          "link": "https://thedefiant.io/news/blockchains/sonic-passes-usd150-million-proposal-to-issue-tokens-for-dat-and-etf",
+          "publishedOn": "2025-09-02T19:19:21.000Z",
+          "wordCount": 5064,
+          "title": "Sonic Passes $150 Million Proposal to Issue Tokens for DAT and ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sonic-1-png-525f21f5-aa4d-4700-98e1-c45231f49f08.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sonic-1-png-525f21f5-aa4d-4700-98e1-c45231f49f08.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/framework-ventures-backed-stablecoin-usdai-hits-usd110m-in-tvl",
           "author": "Denis Omelchenko",
           "description": "The stablecoin lending protocol's TVL has nearly doubled since YZi Labs’ strategic investment last week.",
@@ -1464,36 +1489,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/deadd7a9-0805-4df0-bfd2-c1bb1248570f.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/offchain-labs-partners-succinct-to-bring-zk-proofs-to-arbitrum-f26e35ef",
-          "author": "DeepNewz",
-          "description": "Offchain Labs, the developer of the Arbitrum blockchain rollup, unveiled a partnership with Succinct Labs aimed at embedding modular zero-knowledge proving technology into the Arbitrum ecosystem",
-          "link": "https://thedefiant.io/news/blockchains/offchain-labs-partners-succinct-to-bring-zk-proofs-to-arbitrum-f26e35ef",
-          "publishedOn": "2025-08-26T14:30:48.000Z",
-          "wordCount": 4769,
-          "title": "Offchain Labs Partners With Succinct to Bring ZK Proofs to Arbitrum",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/5bf0c5a7-e2e3-474c-a120-592485b9b194.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/5bf0c5a7-e2e3-474c-a120-592485b9b194.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/canary-funds-seeks-sec-approval-trump-coin-etf-60ee485c",
-          "author": "DeepNewz",
-          "description": "Canary Funds has submitted an S-1 registration statement to the U",
-          "link": "https://thedefiant.io/news/regulation/canary-funds-seeks-sec-approval-trump-coin-etf-60ee485c",
-          "publishedOn": "2025-08-26T14:30:48.000Z",
-          "wordCount": 4611,
-          "title": "Canary Funds Seeks SEC Approval for Trump Coin ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f24ff1f2-0bf0-4751-b0de-69b8931d8014.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f24ff1f2-0bf0-4751-b0de-69b8931d8014.png"
         }
       ]
     }
