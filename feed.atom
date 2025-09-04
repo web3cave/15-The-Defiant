@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-04T17:07:46.459Z</id>
+    <id>urn:2025-09-04T18:12:44.656Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-04T17:07:46.459Z</updated>
+    <updated>2025-09-04T18:12:44.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slip as Trump Appeals Tariff Takedown]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slip-as-trump-appeals-tariff-takedown</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slip-as-trump-appeals-tariff-takedown"/>
+        <updated>2025-09-04T17:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum drop as $256M in liquidations hit markets, while spot Bitcoin ETFs record inflows.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stripe and Paradigm Unveil Permissionless Layer 1 Blockchain, Tempo]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/stripe-and-paradigm-unveil-permissionless-layer-1-blockchain-tempo</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The centralized exchange, once under fire for mishandling millions in crypto, is joining forces with Trump Media to roll out CRO-based rewards on Truth Social.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blast TVL Plunges Another 30% as Users Abandon the Network]]></title>
-        <id>https://thedefiant.io/news/blockchains/blast-tvl-plunges-another-30-as-users-abandon-the-network</id>
-        <link href="https://thedefiant.io/news/blockchains/blast-tvl-plunges-another-30-as-users-abandon-the-network"/>
-        <updated>2025-08-26T22:00:44.000Z</updated>
-        <summary type="html"><![CDATA[The total value locked in DeFi on the Ethereum Layer 2 blockchain is down 30% this month and 97% from its all-time high.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
