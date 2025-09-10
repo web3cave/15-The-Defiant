@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T15:09:14.459Z</id>
+    <id>urn:2025-09-10T16:10:47.840Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-10T15:09:14.459Z</updated>
+    <updated>2025-09-10T16:10:47.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,6 +73,16 @@
         <summary type="html"><![CDATA[Just two months after the exploit, Kinto’s K token dropped sharply on the news, wiping out the remaining value it had recovered.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana’s Rise as a Treasury Powerhouse: DeFi Development Corp’s Bold Strategy]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy"/>
+        <updated>2025-09-09T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, we sit down with Joseph Onorati, CEO of DeFi Development Corp, the second-largest Solana treasury company. Joseph shares the journey of transforming DeFi Development Corp into a Solana-focused treasury powerhouse, their innovative yield strategies, and why Solana's volatility and native yield make it a compelling treasury asset. We also dive into the broader case for crypto treasury companies, the risks and rewards of staking strategies, and the future of Solana in the blockchain ecosystem.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[With $5 million in new funding, Multipli plans to scale institutional-grade strategies that unlock yield on BTC and XRP.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Market Cap Surpasses $280 Billion, Solana’s Stablecoin Hits $12 Billion 15-Week High]]></title>
-        <id>https://thedefiant.io/news/markets/stablecoin-market-cap-surpasses-280-billion-solanas-stablecoin-hits-12-billion-fe9fc3d8</id>
-        <link href="https://thedefiant.io/news/markets/stablecoin-market-cap-surpasses-280-billion-solanas-stablecoin-hits-12-billion-fe9fc3d8"/>
-        <updated>2025-08-28T11:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The total market capitalization of stablecoins has reached a new all-time high of $280 billion, according to data from DefiLlama]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
