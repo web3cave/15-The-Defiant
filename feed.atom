@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-15T15:10:02.364Z</id>
+    <id>urn:2025-09-15T16:10:52.322Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-15T15:10:02.364Z</updated>
+    <updated>2025-09-15T16:10:52.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Symbiotic Partners with Chainlink and Lombard for Cross-Chain LBTC Transfers]]></title>
+        <id>https://thedefiant.io/news/defi/symbiotic-partners-with-chainlink-and-lombard-for-cross-chain-lbtc-transfers</id>
+        <link href="https://thedefiant.io/news/defi/symbiotic-partners-with-chainlink-and-lombard-for-cross-chain-lbtc-transfers"/>
+        <updated>2025-09-15T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Lombard's native BARD token is set to launch later this week.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Taps Chainlink to Settle Price Bets]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-taps-chainlink-to-settle-price-bets</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[PYTH and LINK are soaring after the U.S. published its GDP figures on leading blockchains.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Unveils Layer 1 Chain for Banks with Python-based Smart Contracts]]></title>
-        <id>https://thedefiant.io/news/blockchains/google-unveils-layer-1-chain-for-banks-with-python-based-smart-contracts</id>
-        <link href="https://thedefiant.io/news/blockchains/google-unveils-layer-1-chain-for-banks-with-python-based-smart-contracts"/>
-        <updated>2025-08-28T19:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Google is testing a new Layer 1 called GCUL, pitching it as a flexible, Python-compatible blockchain for financial institutions.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
