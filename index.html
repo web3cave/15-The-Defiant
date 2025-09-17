@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-17 datetime="2025-09-17T12:30:24.000Z">2025-09-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-17 datetime="2025-09-17T12:30:24.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/cefi/us-retail-traders-prefer-bitcoin-chainalysis"
+                        open
+                      >
+                        <summary class="article-expander__title">US Retail Investors Buy Nearly Twice as Much BTC as ETH: Chainalysis</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/cefi/us-retail-traders-prefer-bitcoin-chainalysis">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.thedefiant.io/person-v2---2025-09-17t131943-866-png-fdda7b8f-bb2d-4881-9741-9ba8cf2568ed.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>U.S. crypto traders on CEXs overwhelmingly prefer BTC, while institutional funds pour into tokenized Treasuries and crypto ETFs.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-16 datetime="2025-09-16T16:45:45.000Z">2025-09-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-16 datetime="2025-09-16T16:45:45.000Z"></time>
           </button>
@@ -2034,7 +2082,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/person-v2-92-png-c5d8b805-4dde-47fe-9886-8345696e0364.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>The World Liberty Financial token nosedived after being listed for spot trading yesterday, with early holders reporting problems accessing their funds.</span>
+                              <span>The native token of the DeFi project directly connected to the Trump family, World Liberty Financial (WLFI), has nosedived nearly 20% in its first 24 hours of trading. The token’s listing was accompanied by reports that some presale holders had trouble unlocking allocations.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;17
                                   min&hairsp;)</span>
                             </span>
@@ -2054,7 +2102,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/person-v2-91-png-04566f1f-0cf5-46ce-a815-22535514081b.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Bitcoin lending market Avalon Labs is now live on Rootstock, the fourth largest Bitcoin sidechain by total value locked (TVL), according to a press release viewed by The Defiant.</span>
+                              <span>Rootstock looks to continue its growth with the addition of Avalon’s lending infrastructure.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;17
                                   min&hairsp;)</span>
                             </span>
@@ -2416,26 +2464,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-unified-margin-outage-e8dc4d9c"
-                        open
-                      >
-                        <summary class="article-expander__title">Binance Restores Futures Trading After Brief Unified Margin Outage</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-unified-margin-outage-e8dc4d9c">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.thedefiant.io/084ee96e-735c-466a-9490-e60db5c84dc5.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Cryptocurrency exchange Binance briefly halted all futures trading on 29 August after detecting a technical issue on its Unified Margin platform, which consolidates collateral across derivatives positions</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2443,8 +2471,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/17797279251">
-        <time id="build-timestamp" datetime="2025-09-17T12:17:14.251Z">2025-09-17T12:17:14.251Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/17798970375">
+        <time id="build-timestamp" datetime="2025-09-17T13:19:19.320Z">2025-09-17T13:19:19.320Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
