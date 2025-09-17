@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-slump-after-fed-cuts-rates-by-0-25",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin traded as low as $115,000, with major altcoins posting minor losses.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-slump-after-fed-cuts-rates-by-0-25",
+          "publishedOn": "2025-09-17T18:48:49.000Z",
+          "wordCount": 5030,
+          "title": "Crypto Markets Slump After Fed Cuts Rates by 0.25%",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fed-1-1-png-3115d749-17dd-4463-8582-f75e0fff0846.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fed-1-1-png-3115d749-17dd-4463-8582-f75e0fff0846.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/ethereum-foundation-creates-ai-team",
           "author": "Denis Omelchenko",
           "description": "The Ethereum Foundation is looking to make DeFi’s top blockchain the settlement and coordination layer for autonomous AI agents.",
@@ -1233,7 +1248,7 @@
         {
           "id": "https://thedefiant.io/news/defi/framework-ventures-backed-stablecoin-usdai-hits-usd110m-in-tvl",
           "author": "Denis Omelchenko",
-          "description": "The stablecoin lending protocol's TVL has nearly doubled since YZi Labs’ strategic investment last week.",
+          "description": "Synthetic stablecoin lending protocol USDai (USDAI) has nearly doubled in total value locked (TVL) since last week, jumping from around $60 million on Aug. 26 to cross the $110 million mark this weekend, per data from DefiLlama.",
           "link": "https://thedefiant.io/news/defi/framework-ventures-backed-stablecoin-usdai-hits-usd110m-in-tvl",
           "publishedOn": "2025-09-02T18:43:35.000Z",
           "wordCount": 4942,
@@ -1484,21 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/ce390ed6-0751-4e58-8502-7489dab87dc2.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitwise-sees-bitcoin-reaching-1-3-million-2035-base-case-44a9db4c",
-          "author": "DeepNewz",
-          "description": "Bitwise Asset Management has issued a new long-term outlook that puts Bitcoin’s base-case price at roughly $1",
-          "link": "https://thedefiant.io/news/markets/bitwise-sees-bitcoin-reaching-1-3-million-2035-base-case-44a9db4c",
-          "publishedOn": "2025-08-29T16:00:39.000Z",
-          "wordCount": 4619,
-          "title": "Bitwise Sees Bitcoin Reaching $1.3 Million by 2035 in Base Case",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/2ef0acd8-17ec-4032-9d9e-ccb874529759.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/2ef0acd8-17ec-4032-9d9e-ccb874529759.jpeg"
         }
       ]
     }
