@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-19T17:07:30.563Z</id>
+    <id>urn:2025-09-19T18:12:29.980Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-19T17:07:30.563Z</updated>
+    <updated>2025-09-19T18:12:29.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Could Soon Offer Hyperliquid Perps Trading with USDC Deposits]]></title>
+        <id>https://thedefiant.io/news/defi/metamask-could-soon-offer-hyperliquid-perps-trading-with-usdc-deposits</id>
+        <link href="https://thedefiant.io/news/defi/metamask-could-soon-offer-hyperliquid-perps-trading-with-usdc-deposits"/>
+        <updated>2025-09-19T17:06:19.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask is testing an in-wallet feature for Hyperliquid perpetuals, allowing stablecoin deposits and real-time fee tracking.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWT Soars Nearly 40% as Trust Wallet Reveals Plans to Add 100X Perps, Prediction Markets]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/trust-wallet-reveals-100x-perps-prediction-markets-twt-soars</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/cefi/bitget-transfers-bgb-token-to-red-flag-riddled-layer-2-morph</id>
         <link href="https://thedefiant.io/news/cefi/bitget-transfers-bgb-token-to-red-flag-riddled-layer-2-morph"/>
         <updated>2025-09-03T18:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Top-10 global cryptocurrency exchange Bitget is winding down long-term development of its platform token, Bitget Token (BGB), and transferring all of the tokens it controls to Morph, a Layer 2 network designed to power the "next generation of onchain consumer finance," per the project’s description on its official website.]]></summary>
+        <summary type="html"><![CDATA[Bitget Token will become the native token of Morph, despite an audit showing that the L2 has numerous critical security vulnerabilities and other red flags.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The World Liberty Financial token nosedived after being listed for spot trading yesterday, with early holders reporting problems accessing their funds.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalon Labs Launches on Bitcoin Layer 2 Rootstock]]></title>
-        <id>https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock</id>
-        <link href="https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock"/>
-        <updated>2025-09-02T11:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Rootstock looks to continue its growth with the addition of Avalon’s lending infrastructure.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
