@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/circle-beats-usdh-to-the-punch-with-usdc-launch-on-hyperevm",
+          "author": "Squiffs",
+          "description": "The issuer of the second-largest stablecoin began accumulating HYPE shortly after the USDH vote.",
+          "link": "https://thedefiant.io/news/defi/circle-beats-usdh-to-the-punch-with-usdc-launch-on-hyperevm",
+          "publishedOn": "2025-09-20T14:54:49.000Z",
+          "wordCount": 4992,
+          "title": "Circle Beats USDH to the Punch with USDC Launch on HyperEVM",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usdchype-1-png-5196d41e-4164-41f5-b5c0-70b043842d44.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usdchype-1-png-5196d41e-4164-41f5-b5c0-70b043842d44.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/vast-majority-of-airdrops-lose-value-in-three-months-dappradar",
+          "author": "Denis Omelchenko",
+          "description": "Despite billions in tokens airdropped since 2017, data shows that activity drops back to pre-airdrop levels within weeks, as long-term value rarely sticks.",
+          "link": "https://thedefiant.io/news/research-and-opinion/vast-majority-of-airdrops-lose-value-in-three-months-dappradar",
+          "publishedOn": "2025-09-20T14:41:50.000Z",
+          "wordCount": 5156,
+          "title": "Vast Majority of Airdrops Lose Value in Three Months: DappRadar",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/airdrops-1-png-8782b770-0cac-4310-b8cf-464d2762927f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/airdrops-1-png-8782b770-0cac-4310-b8cf-464d2762927f.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/stellar-s-flagship-meridian-conference-highlights-focus-on-rwas-stablecoins-and-emerging-markets",
           "author": "Gino Matos",
           "description": "The Meridian conference by Stellar was held in Rio de Janeiro Sept. 17-18.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik",
           "author": "Jona Jaupi",
-          "description": "Phishing attacks drove most losses, continuing a steady rise in monthly crypto incidents.",
+          "description": "Crypto hacks continued their upward trend in August, with approximately $173.2 million in total lost across exploits, up over 13% from July, according to security analytics firm CertiK.",
           "link": "https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik",
           "publishedOn": "2025-09-04T18:41:29.000Z",
           "wordCount": 5348,
@@ -1474,31 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/brc20-1-png-3ddbc89e-d067-4135-8a24-e1844583979b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-new-mobile-game-tops-apple-store-charts",
-          "author": "Squiffs",
-          "description": "The NFT company continues to gain popularity with a mainstream audience.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-new-mobile-game-tops-apple-store-charts",
-          "publishedOn": "2025-09-02T20:19:50.000Z",
-          "wordCount": 4780,
-          "title": "Pudgy Penguins' New Mobile Game Tops App Store Charts",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pudgygame-1-png-3a0370c4-7239-430f-baa8-5f5a18f05f6c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pudgygame-1-png-3a0370c4-7239-430f-baa8-5f5a18f05f6c.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/the-future-of-finance-is-tokenized-ondo-s-vision-for-rwas",
-          "author": "Camila Russo",
-          "description": "Ondo Finance is at the forefront of the real-world asset (RWA) revolution, bringing traditional financial products like U.S. treasuries, stocks, and ETFs onto blockchain rails. In this episode of the Defiant Podcast, Ian De Bode, Chief Strategy Officer at Ondo Finance, dives into democratizing access to financial markets for a global audience. By tokenizing assets, Ondo enables 24/7 mobility, seamless DeFi integration, and enhanced investor protections, all while addressing the inefficiencies of traditional finance.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/the-future-of-finance-is-tokenized-ondo-s-vision-for-rwas",
-          "publishedOn": "2025-09-02T19:54:43.000Z",
-          "wordCount": 5333,
-          "title": "The Future of Finance is Tokenized: Ondo’s Vision for RWAs",
-          "imageUrl": null
         }
       ]
     }
