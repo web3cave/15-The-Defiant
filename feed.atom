@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-22T13:21:29.315Z</id>
+    <id>urn:2025-09-22T14:10:00.718Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-22T13:21:29.315Z</updated>
+    <updated>2025-09-22T14:10:00.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Blockchain Plasma Launches Neobank, Plasma One]]></title>
+        <id>https://thedefiant.io/news/infrastructure/plasma-launches-plasma-one-stablecoin-neobank</id>
+        <link href="https://thedefiant.io/news/infrastructure/plasma-launches-plasma-one-stablecoin-neobank"/>
+        <updated>2025-09-22T13:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Tether-linked blockchain Plasma is launching a neobank alongside physical and virtual cards for stablecoin high-yield savings, transfers, and spending.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Beats USDH to the Punch with USDC Launch on HyperEVM]]></title>
         <id>https://thedefiant.io/news/defi/circle-beats-usdh-to-the-punch-with-usdc-launch-on-hyperevm</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik</id>
         <link href="https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik"/>
         <updated>2025-09-04T18:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Crypto hacks continued their upward trend in August, with approximately $173.2 million in total lost across exploits, up over 13% from July, according to security analytics firm CertiK.]]></summary>
+        <summary type="html"><![CDATA[Phishing attacks drove most losses, continuing a steady rise in monthly crypto incidents.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The DeFi Renaissance Incentive Program (DRIP) aims to accelerate innovation and liquidity on Arbitrum.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Gets Ethereum-Style Smart Contracts with BRC-2.0 Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-gets-ethereum-style-smart-contracts-with-brc-2-0-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-gets-ethereum-style-smart-contracts-with-brc-2-0-upgrade"/>
-        <updated>2025-09-02T20:29:43.000Z</updated>
-        <summary type="html"><![CDATA[A new upgrade introduces programmability to Bitcoin-based tokens, opening the gates for DeFi and NFTs.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
