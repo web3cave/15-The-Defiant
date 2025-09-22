@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-22T14:10:00.718Z</id>
+    <id>urn:2025-09-22T15:10:01.671Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-22T14:10:00.718Z</updated>
+    <updated>2025-09-22T15:10:01.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polkadot's Largest DeFi Protocol Hydration Launches Decentralized Stablecoin]]></title>
+        <id>https://thedefiant.io/news/defi/polkadot-defi-protocol-hydration-launches-decentralized-stablecoin</id>
+        <link href="https://thedefiant.io/news/defi/polkadot-defi-protocol-hydration-launches-decentralized-stablecoin"/>
+        <updated>2025-09-22T14:58:47.000Z</updated>
+        <summary type="html"><![CDATA[HOLLAR is a USD-pegged, over-collateralized stablecoin backed by DOT, ETH, and BTC.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stablecoin Blockchain Plasma Launches Neobank, Plasma One]]></title>
         <id>https://thedefiant.io/news/infrastructure/plasma-launches-plasma-one-stablecoin-neobank</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The non-custodial wallet provider is stepping into the real-world asset space with tokenized securities.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Launches ‘Season One’ of $40 Million DeFi Incentive Program]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-launches-season-one-of-usd40-million-defi-incentive-program</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-launches-season-one-of-usd40-million-defi-incentive-program"/>
-        <updated>2025-09-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi Renaissance Incentive Program (DRIP) aims to accelerate innovation and liquidity on Arbitrum.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
