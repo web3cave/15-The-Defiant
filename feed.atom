@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-22T20:09:35.882Z</id>
+    <id>urn:2025-09-22T21:07:47.532Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-22T20:09:35.882Z</updated>
+    <updated>2025-09-22T21:07:47.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Treasury Activity Surges as DATCOs Expand Holdings]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings"/>
+        <updated>2025-09-22T20:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Strive adds thousands of Bitcoin, while BitMine Immersion surpasses 2% of the ETH supply.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeta Token Rallies on Mainnet Launch]]></title>
         <id>https://thedefiant.io/news/blockchains/keeta-token-rallies-on-mainnet-launch</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains</id>
         <link href="https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains"/>
         <updated>2025-09-05T16:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Public, crypto-native chains won't replace TradFi, SWIFT’s chief innovation officer argues, while the crypto world debates who really controls neutrality in finance.]]></summary>
+        <summary type="html"><![CDATA[Traditional financial institutions are unlikely to fully outsource settlement to external blockchains or distributed ledgers, according to SWIFT chief innovation officer Tom Zschach.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/infrastructure/fireblocks-launches-stablecoin-payments-network-with-built-in-compliance</id>
         <link href="https://thedefiant.io/news/infrastructure/fireblocks-launches-stablecoin-payments-network-with-built-in-compliance"/>
         <updated>2025-09-05T13:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Fireblocks, a New York-based blockchain infrastructure firm, has launched a new platform designed to help institutions scale stablecoin payment flows globally.]]></summary>
+        <summary type="html"><![CDATA[Fireblocks introduces its Fireblocks Network for Payments, comparing it to SWIFT.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins rise following the SEC and CFTC sharing a statement on spot crypto trading.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novogratz’s Galaxy Debuts Its Tokenized GLXY Shares on Solana]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/novogratz-galaxy-debuts-its-tokenized-shares-on-solana</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/novogratz-galaxy-debuts-its-tokenized-shares-on-solana"/>
-        <updated>2025-09-03T14:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy is partnering with Superstate to tokenize its SEC-registered equity directly, in an apparent first.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
