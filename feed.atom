@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-23T14:09:25.782Z</id>
+    <id>urn:2025-09-23T15:09:25.507Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-23T14:09:25.782Z</updated>
+    <updated>2025-09-23T15:09:25.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UNI Holders Slam Lack of Rev Share as Uniswap Sees Record Volumes]]></title>
+        <id>https://thedefiant.io/news/defi/uni-holders-lack-of-uniswap-revenue-share</id>
+        <link href="https://thedefiant.io/news/defi/uni-holders-lack-of-uniswap-revenue-share"/>
+        <updated>2025-09-23T14:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap is nearing $1 trillion in annual trading volume, but UNI token holders are still watching from the sidelines.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t Let the SEC Privacy Roundtable Miss the Point]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/don-t-let-the-sec-privacy-roundtable-miss-the-point</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Trading of the stock was halted twice in the opening hour, and the share price is down almost 50% from its early morning high.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Transfers All of Its BGB Tokens to Controversial Layer 2 Morph]]></title>
-        <id>https://thedefiant.io/news/cefi/bitget-transfers-bgb-token-to-red-flag-riddled-layer-2-morph</id>
-        <link href="https://thedefiant.io/news/cefi/bitget-transfers-bgb-token-to-red-flag-riddled-layer-2-morph"/>
-        <updated>2025-09-03T18:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Bitget Token will become the native token of Morph, despite an audit showing that the L2 has numerous critical security vulnerabilities and other red flags.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
