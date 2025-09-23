@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/don-t-let-the-sec-privacy-roundtable-miss-the-point",
+          "author": "Eli Ben-Sasson",
+          "description": "The SEC should use their roundtable to discuss moving policy into alignment with what is already technologically possible, creating clear guidance for privacy preservation, and recognizing proofs as valid forms of regulatory compliance.",
+          "link": "https://thedefiant.io/news/research-and-opinion/don-t-let-the-sec-privacy-roundtable-miss-the-point",
+          "publishedOn": "2025-09-23T12:56:38.000Z",
+          "wordCount": 6259,
+          "title": "Don’t Let the SEC Privacy Roundtable Miss the Point",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-1-png-ab31d7a4-4f7a-4af8-a3c3-6225b5e37b37.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-1-png-ab31d7a4-4f7a-4af8-a3c3-6225b5e37b37.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
+          "author": "Squiffs",
+          "description": "BitMEX co-founder Arthur Hayes has soured on the Hyperliquid token, selling his holdings soon after calling for a 126x rally.",
+          "link": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
+          "publishedOn": "2025-09-23T12:32:59.000Z",
+          "wordCount": 5203,
+          "title": "HYPE Drops Below $50 as Unlock Fears Intensify",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings",
           "author": "Jona Jaupi",
           "description": "Strive adds thousands of Bitcoin, while BitMine Immersion surpasses 2% of the ETH supply.",
@@ -71,7 +101,7 @@
           "description": "Tether-linked blockchain Plasma is launching a neobank alongside physical and virtual cards for stablecoin high-yield savings, transfers, and spending.",
           "link": "https://thedefiant.io/news/infrastructure/plasma-launches-plasma-one-stablecoin-neobank",
           "publishedOn": "2025-09-22T13:30:59.000Z",
-          "wordCount": 5012,
+          "wordCount": 5224,
           "title": "Stablecoin Blockchain Plasma Launches Neobank, Plasma One",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2---2025-09-22t140359-932-png-1de02ac8-6c45-493c-bdcc-2a19a9d045d3.png",
@@ -206,7 +236,7 @@
           "description": "MetaMask is testing an in-wallet feature for Hyperliquid perpetuals, allowing stablecoin deposits and real-time fee tracking.",
           "link": "https://thedefiant.io/news/defi/metamask-could-soon-offer-hyperliquid-perps-trading-with-usdc-deposits",
           "publishedOn": "2025-09-19T17:06:19.000Z",
-          "wordCount": 4804,
+          "wordCount": 4884,
           "title": "MetaMask Could Soon Offer Hyperliquid Perps Trading with USDC Deposits",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/maskhype-1-png-b34aeb56-fad7-46db-a271-679bb366bff9.png",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains",
           "author": "Denis Omelchenko",
-          "description": "Traditional financial institutions are unlikely to fully outsource settlement to external blockchains or distributed ledgers, according to SWIFT chief innovation officer Tom Zschach.",
+          "description": "Public, crypto-native chains won't replace TradFi, SWIFT’s chief innovation officer argues, while the crypto world debates who really controls neutrality in finance.",
           "link": "https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains",
           "publishedOn": "2025-09-05T16:57:24.000Z",
           "wordCount": 5683,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-97-png-cc82fac1-7c45-436a-89e3-f9e1cce08770.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/layer-2-starknet-recovers-after-four-hour-outage",
-          "author": "Denis Omelchenko",
-          "description": "A recent \"Grinta\" upgrade may be linked to the latest outages on Starknet, an Ethereum Layer 2 network that went offline for more than four hours.",
-          "link": "https://thedefiant.io/news/blockchains/layer-2-starknet-recovers-after-four-hour-outage",
-          "publishedOn": "2025-09-03T17:42:48.000Z",
-          "wordCount": 5003,
-          "title": "Layer 2 Starknet Recovers After Four-Hour Outage",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/stark-1-png-7bdd78fc-25cc-4d2c-ac4e-797da5a349a7.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/stark-1-png-7bdd78fc-25cc-4d2c-ac4e-797da5a349a7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and major altcoins rise following the SEC and CFTC sharing a statement on spot crypto trading.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism",
-          "publishedOn": "2025-09-03T17:18:47.000Z",
-          "wordCount": 5492,
-          "title": "Crypto Markets Gain on Regulatory Clarity and Fed Optimism",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mktsup-1-png-81c271fc-76ef-4cfa-beed-e26bd21978ec.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mktsup-1-png-81c271fc-76ef-4cfa-beed-e26bd21978ec.png"
         }
       ]
     }

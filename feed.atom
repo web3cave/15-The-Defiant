@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-23T12:17:21.647Z</id>
+    <id>urn:2025-09-23T13:20:13.200Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-23T12:17:21.647Z</updated>
+    <updated>2025-09-23T13:20:13.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Let the SEC Privacy Roundtable Miss the Point]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/don-t-let-the-sec-privacy-roundtable-miss-the-point</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/don-t-let-the-sec-privacy-roundtable-miss-the-point"/>
+        <updated>2025-09-23T12:56:38.000Z</updated>
+        <summary type="html"><![CDATA[The SEC should use their roundtable to discuss moving policy into alignment with what is already technologically possible, creating clear guidance for privacy preservation, and recognizing proofs as valid forms of regulatory compliance.]]></summary>
+        <author>
+            <name>Eli Ben-Sasson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYPE Drops Below $50 as Unlock Fears Intensify]]></title>
+        <id>https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify</id>
+        <link href="https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify"/>
+        <updated>2025-09-23T12:32:59.000Z</updated>
+        <summary type="html"><![CDATA[BitMEX co-founder Arthur Hayes has soured on the Hyperliquid token, selling his holdings soon after calling for a 126x rally.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Treasury Activity Surges as DATCOs Expand Holdings]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains</id>
         <link href="https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains"/>
         <updated>2025-09-05T16:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Traditional financial institutions are unlikely to fully outsource settlement to external blockchains or distributed ledgers, according to SWIFT chief innovation officer Tom Zschach.]]></summary>
+        <summary type="html"><![CDATA[Public, crypto-native chains won't replace TradFi, SWIFT’s chief innovation officer argues, while the crypto world debates who really controls neutrality in finance.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Bitget Token will become the native token of Morph, despite an audit showing that the L2 has numerous critical security vulnerabilities and other red flags.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2 Starknet Recovers After Four-Hour Outage]]></title>
-        <id>https://thedefiant.io/news/blockchains/layer-2-starknet-recovers-after-four-hour-outage</id>
-        <link href="https://thedefiant.io/news/blockchains/layer-2-starknet-recovers-after-four-hour-outage"/>
-        <updated>2025-09-03T17:42:48.000Z</updated>
-        <summary type="html"><![CDATA[A recent "Grinta" upgrade may be linked to the latest outages on Starknet, an Ethereum Layer 2 network that went offline for more than four hours.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Gain on Regulatory Clarity and Fed Optimism]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism"/>
-        <updated>2025-09-03T17:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins rise following the SEC and CFTC sharing a statement on spot crypto trading.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
