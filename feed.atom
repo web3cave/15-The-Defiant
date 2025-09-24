@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-24T17:08:06.239Z</id>
+    <id>urn:2025-09-24T18:13:35.578Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-24T17:08:06.239Z</updated>
+    <updated>2025-09-24T18:13:35.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZRO Jumps 22% After LayerZero Announces Token Buyback]]></title>
+        <id>https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback</id>
+        <link href="https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback"/>
+        <updated>2025-09-24T17:40:25.000Z</updated>
+        <summary type="html"><![CDATA[The LayerZero Foundation has repurchased 50 million ZRO, equal to 5% of the token’s total supply.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aster Token Hits All-Time High Amid Layer 1 Plans]]></title>
         <id>https://thedefiant.io/news/defi/aster-token-hits-all-time-high-amid-layer-1-plans</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/infrastructure/solana-based-agridex-marks-usd9m-in-stablecoin-trades-across-african-markets</id>
         <link href="https://thedefiant.io/news/infrastructure/solana-based-agridex-marks-usd9m-in-stablecoin-trades-across-african-markets"/>
         <updated>2025-09-08T19:25:01.000Z</updated>
-        <summary type="html"><![CDATA[AgriDex, a Solana-based agricultural marketplace, says it has processed more than $9 million in stablecoin-powered trades so far as it seeks to bring blockchain payments to the $2.7 trillion global agricultural market.]]></summary>
+        <summary type="html"><![CDATA[The agricultural marketplace told The Defiant it's preparing to expand into Latin America and Central Asia starting next year.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The LINEA token is trading at a $2.7 billion pre-market valuation on Hyperliquid.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hacks Surge in August, $173M Lost in Exploits: CertiK]]></title>
-        <id>https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik</id>
-        <link href="https://thedefiant.io/news/hacks/crypto-hacks-surge-in-august-usd173m-lost-in-exploits-certik"/>
-        <updated>2025-09-04T18:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Phishing attacks drove most losses, continuing a steady rise in monthly crypto incidents.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
