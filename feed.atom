@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-25T17:07:42.191Z</id>
+    <id>urn:2025-09-25T18:14:12.891Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-25T17:07:42.191Z</updated>
+    <updated>2025-09-25T18:14:12.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Drops as Upbeat US Economic Data Dashes Rate Cut Hopes]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes"/>
+        <updated>2025-09-25T17:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin plunged under $111,000, while Ethereum dipped under $4,000.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joe Lubin’s SharpLink to Tokenize SBET Shares on Ethereum via Superstate]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges</id>
         <link href="https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges"/>
         <updated>2025-09-09T17:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Solana validators approved an update that aims to settle transactions in just 150 milliseconds.]]></summary>
+        <summary type="html"><![CDATA[Solana validators last week approved a consensus upgrade that cuts transaction finality dramatically. But some experts are concerned that faster finality brings tradeoffs, including in security.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[New PayFi integrations and stablecoin activity are driving increased activity on TRON.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Could Launch USDH Stablecoin in Next Network Upgrade]]></title>
-        <id>https://thedefiant.io/news/defi/hyperliquid-could-launch-usdh-stablecoin-in-next-network-upgrade</id>
-        <link href="https://thedefiant.io/news/defi/hyperliquid-could-launch-usdh-stablecoin-in-next-network-upgrade"/>
-        <updated>2025-09-05T17:53:10.000Z</updated>
-        <summary type="html"><![CDATA[The DEX revealed plans to lower trading fees and let validators vote on which team can launch its first native stablecoin.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes",
+          "author": "Denis Omelchenko",
+          "description": "Bitcoin plunged under $111,000, while Ethereum dipped under $4,000.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes",
+          "publishedOn": "2025-09-25T17:33:16.000Z",
+          "wordCount": 5227,
+          "title": "Crypto Market Drops as Upbeat US Economic Data Dashes Rate Cut Hopes",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/crash-1-png-65301add-6585-47dd-9a5c-8876c6938719.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/crash-1-png-65301add-6585-47dd-9a5c-8876c6938719.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum",
           "author": "Denis Omelchenko",
           "description": "Nasdaq-listed SharpLink Gaming has become what appears to be the first public U.S. company to tokenize its shares on the Ethereum blockchain.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges",
           "author": "Denis Omelchenko",
-          "description": "Solana validators approved an update that aims to settle transactions in just 150 milliseconds.",
+          "description": "Solana validators last week approved a consensus upgrade that cuts transaction finality dramatically. But some experts are concerned that faster finality brings tradeoffs, including in security.",
           "link": "https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges",
           "publishedOn": "2025-09-09T17:43:32.000Z",
           "wordCount": 5963,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/tron-1-1-png-42adcdbd-362e-4ebc-8a33-04cdd7043dc7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hyperliquid-could-launch-usdh-stablecoin-in-next-network-upgrade",
-          "author": "Jona Jaupi",
-          "description": "The DEX revealed plans to lower trading fees and let validators vote on which team can launch its first native stablecoin.",
-          "link": "https://thedefiant.io/news/defi/hyperliquid-could-launch-usdh-stablecoin-in-next-network-upgrade",
-          "publishedOn": "2025-09-05T17:53:10.000Z",
-          "wordCount": 5223,
-          "title": "Hyperliquid Could Launch USDH Stablecoin in Next Network Upgrade",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usdh-1-1-png-4030c087-e133-4d95-ae29-95e4f28ecc8c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usdh-1-1-png-4030c087-e133-4d95-ae29-95e4f28ecc8c.png"
         }
       ]
     }
