@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-25T19:07:24.644Z</id>
+    <id>urn:2025-09-25T20:09:33.829Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-25T19:07:24.644Z</updated>
+    <updated>2025-09-25T20:09:33.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain Active Users Reach All-Time High]]></title>
+        <id>https://thedefiant.io/news/blockchains/bnb-chain-active-users-reach-all-time-high</id>
+        <link href="https://thedefiant.io/news/blockchains/bnb-chain-active-users-reach-all-time-high"/>
+        <updated>2025-09-25T20:05:23.000Z</updated>
+        <summary type="html"><![CDATA[CZ’s rumored return to Binance has sparked a renewed BSC season, with onchain activity on BNB Chain surging.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Market Drops as Upbeat US Economic Data Dashes Rate Cut Hopes]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges</id>
         <link href="https://thedefiant.io/news/blockchains/solana-alpenglow-upgrade-secures-approval-but-faces-challenges"/>
         <updated>2025-09-09T17:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Solana validators last week approved a consensus upgrade that cuts transaction finality dramatically. But some experts are concerned that faster finality brings tradeoffs, including in security.]]></summary>
+        <summary type="html"><![CDATA[Solana validators approved an update that aims to settle transactions in just 150 milliseconds.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin stabilizes near $111,000 while investors weigh economic data and regulatory signals.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRON Surpasses Ethereum in 30-Day Fees]]></title>
-        <id>https://thedefiant.io/news/blockchains/tron-surpasses-ethereum-in-30-day-fees</id>
-        <link href="https://thedefiant.io/news/blockchains/tron-surpasses-ethereum-in-30-day-fees"/>
-        <updated>2025-09-05T19:38:50.000Z</updated>
-        <summary type="html"><![CDATA[New PayFi integrations and stablecoin activity are driving increased activity on TRON.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
