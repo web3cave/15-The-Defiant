@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-25T13:21:53.549Z</id>
+    <id>urn:2025-09-25T14:09:34.854Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-25T13:21:53.549Z</updated>
+    <updated>2025-09-25T14:09:34.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Joe Lubin’s SharpLink to Tokenize SBET Shares on Ethereum via Superstate]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum"/>
+        <updated>2025-09-25T13:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq-listed SharpLink Gaming has become what appears to be the first public U.S. company to tokenize its shares on the Ethereum blockchain.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plasma Mainnet Beta Goes Live With XPL Token FDV Reaching $10B at Launch]]></title>
         <id>https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-l2-kinto-shuts-down-months-after-exploit-as-fundraising-options-disappeared</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-l2-kinto-shuts-down-months-after-exploit-as-fundraising-options-disappeared"/>
         <updated>2025-09-09T16:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Layer 2 (L2) network Kinto, which focused on compliance, is shutting down two months after an exploit drained millions from the protocol, and wiped out 90% of its token’s value.]]></summary>
+        <summary type="html"><![CDATA[Just two months after the exploit, Kinto’s K token dropped sharply on the news, wiping out the remaining value it had recovered.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The DEX revealed plans to lower trading fees and let validators vote on which team can launch its first native stablecoin.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWIFT Exec Says Banks Will Absorb ‘the Best of Public Chains’]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains"/>
-        <updated>2025-09-05T16:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Public, crypto-native chains won't replace TradFi, SWIFT’s chief innovation officer argues, while the crypto world debates who really controls neutrality in finance.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
