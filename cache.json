@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap",
+          "author": "Denis Omelchenko",
+          "description": "SG-FORGE is bringing its euro and dollar stablecoins to decentralized finance platforms Morpho and Uniswap.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap",
+          "publishedOn": "2025-09-30T12:47:17.000Z",
+          "wordCount": 5002,
+          "title": "SocGen’s Crypto Arm Deploys Euro, Dollar-Pegged Stablecoins in DeFi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-object-v2---green-9-png-ddf58903-b7ae-475a-a67e-597e2d1dbaf6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-object-v2---green-9-png-ddf58903-b7ae-475a-a67e-597e2d1dbaf6.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/starknet-announced-btcfi-bitcoin-staking-initiative",
           "author": "Denis Omelchenko",
           "description": "The Ethereum L2 is rolling out BTC staking and yield products as part of its push to become the execution layer for Bitcoin.",
@@ -881,7 +896,7 @@
           "description": "Bitcoin traded as low as $115,000, with major altcoins posting minor losses.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-slump-after-fed-cuts-rates-by-0-25",
           "publishedOn": "2025-09-17T18:48:49.000Z",
-          "wordCount": 5042,
+          "wordCount": 5051,
           "title": "Crypto Markets Slump After Fed Cuts Rates by 0.25%",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/fed-1-1-png-3115d749-17dd-4463-8582-f75e0fff0846.png",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth",
           "author": "Denis Omelchenko",
-          "description": "Kiln is exiting all of its Ethereum (ETH) validators after a security breach involving its API triggered an exploit of SwissBorg’s staked Solana (SOL) holdings, resulting in the loss of more than $40 million.",
+          "description": "Following the staked SOL exploit on SwissBorg involving Kiln’s API, the staking provider said it’s exiting all of its ETH validators “out of an abundance of caution”",
           "link": "https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth",
           "publishedOn": "2025-09-11T17:47:51.000Z",
           "wordCount": 5668,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-09-09t183258-123-png-e4325434-2889-4d0d-8458-cdfc193a1a8f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/canadian-solana-treasury-firm-sol-strategies-debuts-on-nasdaq",
-          "author": "Jona Jaupi",
-          "description": "The Toronto-based blockchain investment firm is trading under the ticker STKE.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/canadian-solana-treasury-firm-sol-strategies-debuts-on-nasdaq",
-          "publishedOn": "2025-09-09T17:01:34.000Z",
-          "wordCount": 5292,
-          "title": "Canadian Solana Treasury Firm SOL Strategies Debuts on Nasdaq",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/solstrat-1-png-7489dd24-65fc-4d92-8d26-4efee6f15efd.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/solstrat-1-png-7489dd24-65fc-4d92-8d26-4efee6f15efd.png"
         }
       ]
     }

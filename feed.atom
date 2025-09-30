@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-30T12:18:31.696Z</id>
+    <id>urn:2025-09-30T13:21:56.440Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-30T12:18:31.696Z</updated>
+    <updated>2025-09-30T13:21:56.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SocGen’s Crypto Arm Deploys Euro, Dollar-Pegged Stablecoins in DeFi]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap"/>
+        <updated>2025-09-30T12:47:17.000Z</updated>
+        <summary type="html"><![CDATA[SG-FORGE is bringing its euro and dollar stablecoins to decentralized finance platforms Morpho and Uniswap.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet Unveils 100M STRK Initiative to Bring Bitcoin DeFi to Its Network]]></title>
         <id>https://thedefiant.io/news/defi/starknet-announced-btcfi-bitcoin-staking-initiative</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth</id>
         <link href="https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth"/>
         <updated>2025-09-11T17:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Kiln is exiting all of its Ethereum (ETH) validators after a security breach involving its API triggered an exploit of SwissBorg’s staked Solana (SOL) holdings, resulting in the loss of more than $40 million.]]></summary>
+        <summary type="html"><![CDATA[Following the staked SOL exploit on SwissBorg involving Kiln’s API, the staking provider said it’s exiting all of its ETH validators “out of an abundance of caution”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Solana validators approved an update that aims to settle transactions in just 150 milliseconds.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian Solana Treasury Firm SOL Strategies Debuts on Nasdaq]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/canadian-solana-treasury-firm-sol-strategies-debuts-on-nasdaq</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/canadian-solana-treasury-firm-sol-strategies-debuts-on-nasdaq"/>
-        <updated>2025-09-09T17:01:34.000Z</updated>
-        <summary type="html"><![CDATA[The Toronto-based blockchain investment firm is trading under the ticker STKE.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
