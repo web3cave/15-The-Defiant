@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-30T08:14:11.145Z</id>
+    <id>urn:2025-09-30T09:10:29.947Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-30T08:14:11.145Z</updated>
+    <updated>2025-09-30T09:10:29.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solstice Finance Launches USX Stablecoin and YieldVault]]></title>
+        <id>https://thedefiant.io/news/defi/solstice-finance-launches-usx-stablecoin-and-yieldvault</id>
+        <link href="https://thedefiant.io/news/defi/solstice-finance-launches-usx-stablecoin-and-yieldvault"/>
+        <updated>2025-09-30T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Solana-based stablecoin offers permissionless access to delta-neutral yield strategies.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andre Cronje’s Flying Tulip Raises $200 Million Ahead of ICO]]></title>
         <id>https://thedefiant.io/news/defi/andre-cronje-s-flying-tulip-raises-usd200-million-ahead-of-ico</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/consensys-lubin-teases-further-rewards-for-linea-holders-as-token-tanks-50</id>
         <link href="https://thedefiant.io/news/blockchains/consensys-lubin-teases-further-rewards-for-linea-holders-as-token-tanks-50"/>
         <updated>2025-09-11T16:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Amid a messy airdrop, LINEA has lost half its value since launching yesterday.]]></summary>
+        <summary type="html"><![CDATA[Amid a messy airdrop, LINEA has lost nearly half its value since launching yesterday.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-flat-on-cpi-data-sept-11</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-flat-on-cpi-data-sept-11"/>
         <updated>2025-09-11T16:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are mostly flat today, Sept. 11, holding onto recent gains, with total market capitalization still above $4 trillion after fresh inflation data was released in the latest United States. The Consumer Price Index (CPI) report for August strengthened expectations that the Federal Reserve will cut interest rates at its next policy meeting, set for next week.]]></summary>
+        <summary type="html"><![CDATA[Markets are broadly flat after the August CPI report, with SOL and DOGE breaking the trend.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Just two months after the exploit, Kinto’s K token dropped sharply on the news, wiping out the remaining value it had recovered.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana’s Rise as a Treasury Powerhouse: DeFi Development Corp’s Bold Strategy]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy"/>
-        <updated>2025-09-09T15:08:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, we sit down with Joseph Onorati, CEO of DeFi Development Corp, the second-largest Solana treasury company. Joseph shares the journey of transforming DeFi Development Corp into a Solana-focused treasury powerhouse, their innovative yield strategies, and why Solana's volatility and native yield make it a compelling treasury asset. We also dive into the broader case for crypto treasury companies, the risks and rewards of staking strategies, and the future of Solana in the blockchain ecosystem.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
