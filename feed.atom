@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-30T19:07:05.926Z</id>
+    <id>urn:2025-09-30T20:09:44.202Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-30T19:07:05.926Z</updated>
+    <updated>2025-09-30T20:09:44.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anchorage Digital Integrates Jupiter Into Porto Wallet]]></title>
+        <id>https://thedefiant.io/news/defi/anchorage-digital-integrates-jupiter-into-porto-wallet</id>
+        <link href="https://thedefiant.io/news/defi/anchorage-digital-integrates-jupiter-into-porto-wallet"/>
+        <updated>2025-09-30T19:06:43.000Z</updated>
+        <summary type="html"><![CDATA[The integration allows direct Jupiter swaps within Anchorage’s institutional wallet.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Market Slips as U.S. Government Shutdown Looms]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-slips-as-u-s-government-shutdown-looms</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Korea’s leading centralized exchange is bringing its users onchain.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidelity’s Tokenized Fund Launch Marks ‘Tipping Point’ for Institutional On-Chain Adoption]]></title>
-        <id>https://thedefiant.io/news/defi/fidelity-s-tokenized-fund-launch-marks-tipping-point-for-institutional-on-chain-adoption</id>
-        <link href="https://thedefiant.io/news/defi/fidelity-s-tokenized-fund-launch-marks-tipping-point-for-institutional-on-chain-adoption"/>
-        <updated>2025-09-09T19:04:47.000Z</updated>
-        <summary type="html"><![CDATA[With its Digital Interest Token (FDIT), Fidelity moves to challenge BlackRock’s BUIDL fund.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
