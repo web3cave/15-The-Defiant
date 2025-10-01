@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-01T16:11:36.494Z</id>
+    <id>urn:2025-10-01T17:07:55.003Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-01T16:11:36.494Z</updated>
+    <updated>2025-10-01T17:07:55.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Rebounds Despite U.S. Government Shutdown]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-rebounds-despite-u-s-government-shutdown</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-rebounds-despite-u-s-government-shutdown"/>
+        <updated>2025-10-01T16:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins climb as gold hits another all-time high on U.S. political uncertainty.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Rallies as Key XRPL Architect Schwartz Steps Back from Ripple CTO Role]]></title>
+        <id>https://thedefiant.io/news/people/david-schwartz-steps-down-from-ripple-cto</id>
+        <link href="https://thedefiant.io/news/people/david-schwartz-steps-down-from-ripple-cto"/>
+        <updated>2025-10-01T16:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Ripple’s long-time CTO David Schwartz is stepping down from his current role, joining the company’s board of directors.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abu Dhabi Investment Giant ICH Backs L2 Chain for Dirham-Backed Stablecoin]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/abu-dhabi-investment-giant-ich-backs-l2-chain-for-dirham-backed-stablecoin</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/easy-gains-vanish-a-dats-now-face-increased-competition-coinbase-says</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/easy-gains-vanish-a-dats-now-face-increased-competition-coinbase-says"/>
         <updated>2025-09-12T17:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Easy gains are gone for crypto treasury companies, and only those with strategic discipline may survive the new competitive phase, Coinbase warns.]]></summary>
+        <summary type="html"><![CDATA[The era of easy gains for digital asset treasury companies (DATs) is ending, Coinbase Institutional’s David Duong, global head of research, wrote in the firm’s Monthly Outlook report, published on Sept. 10.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-climb-higher-sept-12</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-climb-higher-sept-12"/>
         <updated>2025-09-12T14:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are closing the week higher on Friday, Sept. 12, with traders leaning into bets that The Federal Reserve will cut rates next week. The total market cap of all cryptocurrencies added about 1% to top $4.1 trillion in the past 24 hours, lifted by steady crypto exchange-traded fund (ETF) inflows and gains across large-cap cryptocurrencies.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets are closing the week on a high note as traders bet on an imminent Fed rate cut.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Hyperliquid’s stablecoin launch has evolved into one of the hottest competitions DeFi has seen in years, with institutions and DeFi protocols clamoring to win validators over.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Scores Another Big Deal as Ronin Joins Its L2 Stack]]></title>
-        <id>https://thedefiant.io/news/infrastructure/ronin-taps-optimism-op-stack-for-ethereum-layer-2</id>
-        <link href="https://thedefiant.io/news/infrastructure/ronin-taps-optimism-op-stack-for-ethereum-layer-2"/>
-        <updated>2025-09-10T17:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Ronin is tapping Optimism’s tools to build its own chain, joining crypto heavyweights who also relied on the OP Stack to launch their L2 networks.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Software Supply-Chain Hack Targeting Crypto Ends with Pennies Stolen]]></title>
-        <id>https://thedefiant.io/news/hacks/npm-supply-chain-attack-on-crypto</id>
-        <link href="https://thedefiant.io/news/hacks/npm-supply-chain-attack-on-crypto"/>
-        <updated>2025-09-10T17:11:13.000Z</updated>
-        <summary type="html"><![CDATA[One web developer’s compromised npm account triggered a large-scale supply chain attack, but the hacker only got a few cents in crypto, analysts say.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
