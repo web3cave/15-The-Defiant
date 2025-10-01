@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-01T02:26:32.529Z</id>
+    <id>urn:2025-10-01T03:36:36.595Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-01T02:26:32.529Z</updated>
+    <updated>2025-10-01T03:36:36.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Split Over Proposed Upgrade That Could Censor Transactions]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-op-return-debate-core-v30-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-op-return-debate-core-v30-upgrade"/>
+        <updated>2025-10-01T03:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Leaked messages tied to Bitcoin developer Luke Dashjr hint at a network change that could let a small committee censor some transactions.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animoca Forecasts Crypto Giants Will Evolve Into ‘Universal Exchanges’ with DeFi]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/animoca-forecasts-crypto-giants-will-evolve-into-universal-exchanges-with-defi</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BTC pushed above $114,000, while ETH is trading near $4,400.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasdaq’s Tokenized Equities Filing Highlights Settlement and Infrastructure Challenges]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/nasdaq-s-tokenized-equities-filing-highlights-settlement-and-infrastructure-challenges</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/nasdaq-s-tokenized-equities-filing-highlights-settlement-and-infrastructure-challenges"/>
-        <updated>2025-09-10T04:24:07.000Z</updated>
-        <summary type="html"><![CDATA[The stock exchange’s plan to support trading of tokenized shares presents new technical hurdles for the SEC and DTCC.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
