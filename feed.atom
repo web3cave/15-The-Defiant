@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-03T17:07:21.386Z</id>
+    <id>urn:2025-10-03T18:12:50.837Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-03T17:07:21.386Z</updated>
+    <updated>2025-10-03T18:12:50.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Perpetual DEX Trading Volume Tops $1 Trillion in September]]></title>
+        <id>https://thedefiant.io/news/defi/perpetual-dex-trading-volume-tops-usd1-trillion-in-september</id>
+        <link href="https://thedefiant.io/news/defi/perpetual-dex-trading-volume-tops-usd1-trillion-in-september"/>
+        <updated>2025-10-03T17:23:17.000Z</updated>
+        <summary type="html"><![CDATA[September marked the first time perpetual DEX trading volumes exceeded $1 trillion in a single month, with the first three days of October already surpassing March’s total volume.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avalanche Treasury Co. Plans $675 Million Merger With Mountain Lake Acquisition]]></title>
         <id>https://thedefiant.io/news/blockchains/avalanche-treasury-co-plans-usd675-million-merger-with-mountain-lake-acquisition</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/defi-yield-provider-tesseract-mica-license</id>
         <link href="https://thedefiant.io/news/defi/defi-yield-provider-tesseract-mica-license"/>
         <updated>2025-09-16T15:02:18.000Z</updated>
-        <summary type="html"><![CDATA[The Helsinki-based firm received its license from Finland in what it says is a first for the EU.]]></summary>
+        <summary type="html"><![CDATA[Crypto asset management firm Tesseract — which has over $500 million in assets under management — has secured a Markets in Crypto-Assets regulation (MiCA) license from Finland's Financial Supervisory Authority, offering EU investors regulated yield-generating services via DeFi protocols.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Traders are piling into Pendle markets that leverage Hyperliquid’s leading liquid staking protocol, betting on a future airdrop.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MegaETH Names Lombard as Primary Bitcoin Partner Ahead of Mainnet Launch]]></title>
-        <id>https://thedefiant.io/news/blockchains/megaeth-names-lombard-as-primary-bitcoin-partner-ahead-of-mainnet-launch</id>
-        <link href="https://thedefiant.io/news/blockchains/megaeth-names-lombard-as-primary-bitcoin-partner-ahead-of-mainnet-launch"/>
-        <updated>2025-09-11T17:52:45.000Z</updated>
-        <summary type="html"><![CDATA[The move comes just three days after MegaETH unveiled its new MegaUSD stablecoin.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
