@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-10T21:07:15.265Z</id>
+    <id>urn:2025-10-10T22:08:14.075Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-10T21:07:15.265Z</updated>
+    <updated>2025-10-10T22:08:14.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Plummet as BTC Briefly Drops Below $106K]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k"/>
+        <updated>2025-10-10T21:42:17.000Z</updated>
+        <summary type="html"><![CDATA[The drop comes after President Trump announced new tariffs on China.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Co-Founder’s Stablecoin USST Depegs Hours After Launch]]></title>
         <id>https://thedefiant.io/news/defi/stbl-usst-stablecoin-depegs-after-launch</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/uni-holders-lack-of-uniswap-revenue-share</id>
         <link href="https://thedefiant.io/news/defi/uni-holders-lack-of-uniswap-revenue-share"/>
         <updated>2025-09-23T14:14:29.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap is nearing $1 trillion in annual trading volume, but UNI token holders are still watching from the sidelines.]]></summary>
+        <summary type="html"><![CDATA[Uniswap, the second-largest decentralized crypto exchange (DEX) by trading volume, is nearing $1 trillion in yearly volumes, but holders of the platform’s token say that the success is not being shared with them. UNI holders took to X this week to call out that Uniswap’s soaring metrics have not provided them with payouts, revenue share, or some other structural benefits.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin hovers near $115,000 as altcoins retreat; Grayscale launches first multi-token U.S. ETF amid geopolitical and macroeconomic uncertainty.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 80% of Crypto Community Predicts New BTC All-Time High This Year: CoinGecko]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey"/>
-        <updated>2025-09-19T18:19:53.000Z</updated>
-        <summary type="html"><![CDATA[Most survey respondents expect a new ATH by year end, but estimate lower prices for Bitcoin than Wall Street’s forecasts.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
