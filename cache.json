@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
+          "author": "Denis Omelchenko",
+          "description": "A guide to 51% attacks on blockchain networks.",
+          "link": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
+          "publishedOn": "2025-10-15T18:25:53.000Z",
+          "wordCount": 6727,
+          "title": "What Is a 51% Attack, and How Does It Work?",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/51-attack-png-aa13a5e5-b0bc-4279-af14-1fbc8e3a345e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/51-attack-png-aa13a5e5-b0bc-4279-af14-1fbc8e3a345e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin, Ethereum, and major altcoins fall as macroeconomic uncertainty continues to weigh on sentiment.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions",
+          "publishedOn": "2025-10-15T18:10:28.000Z",
+          "wordCount": 5398,
+          "title": "Crypto Market Slides for Second Day as Bitcoin Dips Amid Geopolitical Tensions",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/downbad-1-png-64fc7de8-a882-4b40-bded-0a81841b52c5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/downbad-1-png-64fc7de8-a882-4b40-bded-0a81841b52c5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/megaeth-opens-registration-for-potential-ico-on-cobie-s-sonar-platform",
           "author": "Jona Jaupi",
           "description": "The Ethereum Layer 2 blockchain is preparing a community-focused token sale as ICOs regain popularity.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch",
           "author": "Denis Omelchenko",
-          "description": "Plasma, a Layer 1 blockchain designed for stablecoins, just launched its mainnet beta and native token XPL as planned, with liquidity deployed across DeFi partners such as Aave, Ethena, Fluid and Euler.",
+          "description": "Bitfinex-backed stablecoin blockchain Plasma just launched its much-anticipated mainnet beta and native token, XPL",
           "link": "https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch",
           "publishedOn": "2025-09-25T13:01:24.000Z",
           "wordCount": 5601,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/privacy-1-1-png-ab31d7a4-4f7a-4af8-a3c3-6225b5e37b37.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
-          "author": "Squiffs",
-          "description": "BitMEX co-founder Arthur Hayes has soured on the Hyperliquid token, selling his holdings soon after calling for a 126x rally.",
-          "link": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
-          "publishedOn": "2025-09-23T12:32:59.000Z",
-          "wordCount": 5218,
-          "title": "HYPE Drops Below $50 as Unlock Fears Intensify",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings",
-          "author": "Jona Jaupi",
-          "description": "Strive adds thousands of Bitcoin, while BitMine Immersion surpasses 2% of the ETH supply.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings",
-          "publishedOn": "2025-09-22T20:37:16.000Z",
-          "wordCount": 5491,
-          "title": "Crypto Treasury Activity Surges as DATCOs Expand Holdings",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/dats-1-png-7776d313-f148-42f6-8ab6-2464a175956e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/dats-1-png-7776d313-f148-42f6-8ab6-2464a175956e.png"
         }
       ]
     }

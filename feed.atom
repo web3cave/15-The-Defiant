@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-15T18:14:18.338Z</id>
+    <id>urn:2025-10-15T19:07:23.524Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-15T18:14:18.338Z</updated>
+    <updated>2025-10-15T19:07:23.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a 51% Attack, and How Does It Work?]]></title>
+        <id>https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto</id>
+        <link href="https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto"/>
+        <updated>2025-10-15T18:25:53.000Z</updated>
+        <summary type="html"><![CDATA[A guide to 51% attacks on blockchain networks.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Slides for Second Day as Bitcoin Dips Amid Geopolitical Tensions]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions"/>
+        <updated>2025-10-15T18:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins fall as macroeconomic uncertainty continues to weigh on sentiment.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MegaETH Opens Registration for Potential ICO on Cobie’s Sonar Platform]]></title>
         <id>https://thedefiant.io/news/blockchains/megaeth-opens-registration-for-potential-ico-on-cobie-s-sonar-platform</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch</id>
         <link href="https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch"/>
         <updated>2025-09-25T13:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Plasma, a Layer 1 blockchain designed for stablecoins, just launched its mainnet beta and native token XPL as planned, with liquidity deployed across DeFi partners such as Aave, Ethena, Fluid and Euler.]]></summary>
+        <summary type="html"><![CDATA[Bitfinex-backed stablecoin blockchain Plasma just launched its much-anticipated mainnet beta and native token, XPL]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The SEC should use their roundtable to discuss moving policy into alignment with what is already technologically possible, creating clear guidance for privacy preservation, and recognizing proofs as valid forms of regulatory compliance.]]></summary>
         <author>
             <name>Eli Ben-Sasson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPE Drops Below $50 as Unlock Fears Intensify]]></title>
-        <id>https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify</id>
-        <link href="https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify"/>
-        <updated>2025-09-23T12:32:59.000Z</updated>
-        <summary type="html"><![CDATA[BitMEX co-founder Arthur Hayes has soured on the Hyperliquid token, selling his holdings soon after calling for a 126x rally.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Treasury Activity Surges as DATCOs Expand Holdings]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings"/>
-        <updated>2025-09-22T20:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Strive adds thousands of Bitcoin, while BitMine Immersion surpasses 2% of the ETH supply.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
