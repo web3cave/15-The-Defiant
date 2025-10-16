@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-16T18:13:49.001Z</id>
+    <id>urn:2025-10-16T19:05:04.699Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-16T18:13:49.001Z</updated>
+    <updated>2025-10-16T19:05:04.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Says It Plans to List BNB amid Binance Listing Fee Saga]]></title>
+        <id>https://thedefiant.io/news/cefi/binance-listing-saga</id>
+        <link href="https://thedefiant.io/news/cefi/binance-listing-saga"/>
+        <updated>2025-10-16T18:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Binance is facing a social media firestorm after one founder’s post ignited a debate about listing fees on CEXs.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Slip For Third Day Amid Geopolitical Tensions and Fed Uncertainty]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-slip-for-third-day-amid-geopolitical-tensions-and-fed-uncertainty</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-market-extends-losses-sept-26</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-extends-losses-sept-26"/>
         <updated>2025-09-26T14:30:22.000Z</updated>
-        <summary type="html"><![CDATA[The crypto market is ending the week on a softer note, with many of the top-20 assets by market cap posting double-digit losses on the week as prices drift lower into Friday.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin is dropping further under $110,000, with analysts warning there’s a risk of deeper cooling.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Ethena’s stablecoins continue to attract liquidity while the ENA token lags behind.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Activity Hits All-Time High on Airdrop Speculation]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-activity-hits-all-time-high-on-airdrop-speculation</id>
-        <link href="https://thedefiant.io/news/blockchains/base-activity-hits-all-time-high-on-airdrop-speculation"/>
-        <updated>2025-09-23T18:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Weekly transactions on the Ethereum Layer 2 network have surpassed 90 million for the first time.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
