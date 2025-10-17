@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-17T17:07:40.749Z</id>
+    <id>urn:2025-10-17T18:10:48.241Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-17T17:07:40.749Z</updated>
+    <updated>2025-10-17T18:10:48.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance Urges SEC to Delay Nasdaq Tokenization Plan Over Transparency Concerns]]></title>
+        <id>https://thedefiant.io/news/regulation/ondo-finance-urges-sec-to-delay-nasdaq-tokenization-plan-over-transparency-concerns</id>
+        <link href="https://thedefiant.io/news/regulation/ondo-finance-urges-sec-to-delay-nasdaq-tokenization-plan-over-transparency-concerns"/>
+        <updated>2025-10-17T17:20:05.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi firm warns that key details about tokenized settlement remain undisclosed, raising questions about market fairness.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch Coin Falls Over 30% as Developers Abandon Current Token Model]]></title>
         <id>https://thedefiant.io/news/tokens/launchcoin-price-drops-as-developers-switch-to-believe-token</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-top-signals-coinglass</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-top-signals-coinglass"/>
         <updated>2025-09-29T14:34:08.000Z</updated>
-        <summary type="html"><![CDATA[As analysts and traders continue to debate whether or not this cycle’s top is in, a cluster of long-term market signals tracked by blockchain analytics platform Coinglass is steadily pushing toward levels that in past cycles have marked overheated conditions.]]></summary>
+        <summary type="html"><![CDATA[Six Bitcoin cycle top indicators are over 80% on their way to a sell signal.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Validators push to halve fees and speed up block times as trading dominates activity on BSC.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZRO Jumps 22% After LayerZero Announces Token Buyback]]></title>
-        <id>https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback</id>
-        <link href="https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback"/>
-        <updated>2025-09-24T17:40:25.000Z</updated>
-        <summary type="html"><![CDATA[The LayerZero Foundation has repurchased 50 million ZRO, equal to 5% of the token’s total supply.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
