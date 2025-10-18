@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-18T14:07:10.316Z</id>
+    <id>urn:2025-10-18T15:07:24.025Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-18T14:07:10.316Z</updated>
+    <updated>2025-10-18T15:07:24.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[The DeFi firm warns that key details about tokenized settlement remain undisclosed, raising questions about market fairness.]]></summary>
         <author>
             <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Institutional Adoption Ethereum’s ‘Worst Enemy’?]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/is-tradfi-institutional-adoption-bad-for-ethereum</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/is-tradfi-institutional-adoption-bad-for-ethereum"/>
+        <updated>2025-10-17T15:42:12.000Z</updated>
+        <summary type="html"><![CDATA[As Ethereum rockets into the TradFi limelight, with rising inflows into ETFs and DATs, experts consider the question: is that a good thing for DeFi’s largest chain?]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitfinex-backed stablecoin blockchain Plasma just launched its much-anticipated mainnet beta and native token, XPL]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Chain Asset Management Doubles in 2025, Reaching $35B: Keyrock, Maple]]></title>
-        <id>https://thedefiant.io/news/defi/onchain-asset-management-2025-report-keyrock-maple</id>
-        <link href="https://thedefiant.io/news/defi/onchain-asset-management-2025-report-keyrock-maple"/>
-        <updated>2025-09-25T12:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Automated yield vaults have led the growth, as large investors dominate capital flows.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
