@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-19T13:15:19.503Z</id>
+    <id>urn:2025-10-19T14:07:08.851Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-19T13:15:19.503Z</updated>
+    <updated>2025-10-19T14:07:08.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The History of Crypto Prediction Markets: How Polymarket and Kalshi Emerged as Winners in a Crowded Space]]></title>
+        <id>https://thedefiant.io/education/defi/the-history-of-crypto-prediction-markets</id>
+        <link href="https://thedefiant.io/education/defi/the-history-of-crypto-prediction-markets"/>
+        <updated>2025-10-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket and Kalshi are now considered the top crypto prediction markets, but the space was once led by other players taking very different approaches.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Slides Below $107,000 as Crypto Market Hits Four-Day Losing Streak]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-slides-below-usd107-000-as-crypto-market-hits-four-day-losing-streak</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/starknet-announced-btcfi-bitcoin-staking-initiative</id>
         <link href="https://thedefiant.io/news/defi/starknet-announced-btcfi-bitcoin-staking-initiative"/>
         <updated>2025-09-30T11:03:37.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum L2 is rolling out BTC staking and yield products as part of its push to become the execution layer for Bitcoin.]]></summary>
+        <summary type="html"><![CDATA[Layer 2 (L2) network Starknet announced several new initiatives aimed at expanding Bitcoin’s use in decentralized finance, including BTC staking, an institutional-grade BTC yield product, and a 100 million STRK incentive program.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum"/>
         <updated>2025-09-25T13:51:40.000Z</updated>
         <summary type="html"><![CDATA[Nasdaq-listed SharpLink Gaming has become what appears to be the first public U.S. company to tokenize its shares on the Ethereum blockchain.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasma Mainnet Beta Goes Live With XPL Token FDV Reaching $10B at Launch]]></title>
-        <id>https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch</id>
-        <link href="https://thedefiant.io/news/blockchains/plasma-mainnet-beta-xpl-token-launch"/>
-        <updated>2025-09-25T13:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Bitfinex-backed stablecoin blockchain Plasma just launched its much-anticipated mainnet beta and native token, XPL]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
