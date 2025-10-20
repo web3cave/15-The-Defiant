@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-20 datetime="2025-10-20T13:00:05.000Z">2025-10-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-20 datetime="2025-10-20T13:00:05.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/defi/turtle-raises-usd5-5m-to-boost-programmable-liquidity"
+                        open
+                      >
+                        <summary class="article-expander__title">DeFi Earning Aggregator Turtle Raises $5.5 Million</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/defi/turtle-raises-usd5-5m-to-boost-programmable-liquidity">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.thedefiant.io/1cfb24bee8c16f1b0283d2d3fe82b73bb87319da8efeba5891d76a6c0435-260ff45d-ea5f-425f-bc4b-8521543125cb.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The fresh raise brings Turtle’s total funding to $11.7 million, with participation from major VCs and angel investors.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-19 datetime="2025-10-19T14:00:00.000Z">2025-10-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-19 datetime="2025-10-19T14:00:00.000Z"></time>
           </button>
@@ -2203,7 +2251,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/person-object-v2---green-9-png-ddf58903-b7ae-475a-a67e-597e2d1dbaf6.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>SG-FORGE is bringing its euro and dollar stablecoins to decentralized finance platforms Morpho and Uniswap.</span>
+                              <span>French banking giant Société Générale’s crypto arm, SG-FORGE, is expanding its stablecoin offering into decentralized finance, aiming to provide what it calls a “complementary approach” for clients.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;17
                                   min&hairsp;)</span>
                             </span>
@@ -2223,7 +2271,7 @@
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/person-object-v2---green-8-png-b1a98728-b24d-4ae8-960b-1e7b11b08890.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Layer 2 (L2) network Starknet announced several new initiatives aimed at expanding Bitcoin’s use in decentralized finance, including BTC staking, an institutional-grade BTC yield product, and a 100 million STRK incentive program.</span>
+                              <span>The Ethereum L2 is rolling out BTC staking and yield products as part of its push to become the execution layer for Bitcoin.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;18
                                   min&hairsp;)</span>
                             </span>
@@ -2615,26 +2663,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum"
-                        open
-                      >
-                        <summary class="article-expander__title">Joe Lubin’s SharpLink to Tokenize SBET Shares on Ethereum via Superstate</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/tradfi-and-fintech/sharplink-sbet-first-us-tokenized-stock-on-ethereum">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.thedefiant.io/person-object-v2---green-4-png-571f059f-258b-4582-8073-c2f7c2e01fa8.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Nasdaq-listed SharpLink Gaming has become what appears to be the first public U.S. company to tokenize its shares on the Ethereum blockchain.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2642,8 +2670,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/18651727730">
-        <time id="build-timestamp" datetime="2025-10-20T12:18:30.340Z">2025-10-20T12:18:30.340Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/18653390840">
+        <time id="build-timestamp" datetime="2025-10-20T13:22:11.742Z">2025-10-20T13:22:11.742Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
