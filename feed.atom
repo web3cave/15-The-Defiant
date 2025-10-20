@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-20T16:11:16.304Z</id>
+    <id>urn:2025-10-20T17:08:19.660Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-20T16:11:16.304Z</updated>
+    <updated>2025-10-20T17:08:19.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Recover Slightly as Fed Signals Rate Cut, End of QT]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt"/>
+        <updated>2025-10-20T16:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is back above $110,000, though analysts say they’re now taking a more cautious approach after the $20 billion market wipeout.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Earning Aggregator Turtle Raises $5.5 Million]]></title>
         <id>https://thedefiant.io/news/defi/turtle-raises-usd5-5m-to-boost-programmable-liquidity</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap"/>
         <updated>2025-09-30T12:47:17.000Z</updated>
-        <summary type="html"><![CDATA[French banking giant Société Générale’s crypto arm, SG-FORGE, is expanding its stablecoin offering into decentralized finance, aiming to provide what it calls a “complementary approach” for clients.]]></summary>
+        <summary type="html"><![CDATA[SG-FORGE is bringing its euro and dollar stablecoins to decentralized finance platforms Morpho and Uniswap.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[CZ’s rumored return to Binance has sparked a renewed BSC season, with onchain activity on BNB Chain surging.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Drops as Upbeat US Economic Data Dashes Rate Cut Hopes]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-drops-as-upbeat-us-economic-data-dashes-rate-cut-hopes"/>
-        <updated>2025-09-25T17:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin plunged under $111,000, while Ethereum dipped under $4,000.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
