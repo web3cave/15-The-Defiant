@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-21T12:18:35.786Z</id>
+    <id>urn:2025-10-21T13:26:18.925Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-21T12:18:35.786Z</updated>
+    <updated>2025-10-21T13:26:18.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple and Aave Team Up to Bring Institutional Assets to DeFi Lending Markets]]></title>
+        <id>https://thedefiant.io/news/defi/maple-and-aave-team-up-to-bring-institutional-assets-to-defi-lending-markets</id>
+        <link href="https://thedefiant.io/news/defi/maple-and-aave-team-up-to-bring-institutional-assets-to-defi-lending-markets"/>
+        <updated>2025-10-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maple’s institutional-grade assets will be integrated into Aave’s $40 billion lending protocol.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meteora Trades at $1 Billion Pre-Market Valuation Ahead of TGE]]></title>
         <id>https://thedefiant.io/news/defi/meteora-trades-at-usd1-billion-pre-market-valuation-ahead-of-tge</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-op-return-debate-core-v30-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-op-return-debate-core-v30-upgrade"/>
         <updated>2025-10-01T03:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s community once again finds itself split over its core decentralization ideals, after leaked messages tied to Luke Dashjr, a Bitcoin developer, hinted at a possible network upgrade to censor illicit content from the blockchain.]]></summary>
+        <summary type="html"><![CDATA[Leaked messages tied to Bitcoin developer Luke Dashjr hint at a network change that could let a small committee censor some transactions.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Rising use in Hong Kong, the UAE, and other markets underscores stablecoins’ growing global footprint.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Extends Losses on Bitcoin ‘Exhaustion’ Signals]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-extends-losses-sept-26</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-extends-losses-sept-26"/>
-        <updated>2025-09-26T14:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is dropping further under $110,000, with analysts warning there’s a risk of deeper cooling.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
