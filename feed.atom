@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-22T00:46:12.681Z</id>
+    <id>urn:2025-10-22T02:24:05.193Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-22T00:46:12.681Z</updated>
+    <updated>2025-10-22T02:24:05.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Announces Gas Limit Cap for Upcoming Fusaka Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-announces-gas-limit-cap-for-upcoming-fusaka-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-announces-gas-limit-cap-for-upcoming-fusaka-upgrade"/>
+        <updated>2025-10-22T01:50:36.000Z</updated>
+        <summary type="html"><![CDATA[The EIP-7825 upgrade is expected to launch alongside Fusaka in December.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDA Plummets as Kadena Organization Shuts Down Operations]]></title>
         <id>https://thedefiant.io/news/blockchains/kda-plummets-as-kadena-organization-shuts-down-operations</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The stablechain’s flagship lending vault surpassed the total TVL of many blockchains in less than a day.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWIFT Reportedly to Pilot On-Chain Network on Linea]]></title>
-        <id>https://thedefiant.io/news/defi/swift-reportedly-to-pilot-on-chain-network-on-linea</id>
-        <link href="https://thedefiant.io/news/defi/swift-reportedly-to-pilot-on-chain-network-on-linea"/>
-        <updated>2025-09-26T20:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Over a dozen major banks are involved with the interbank network’s blockchain experiment, according to a report by The Big Whale.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
