@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T12:18:53.387Z</id>
+    <id>urn:2025-10-23T13:24:42.803Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-23T12:18:53.387Z</updated>
+    <updated>2025-10-23T13:24:42.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Taps RedStone to Bring Real-World Event Data On-Chain]]></title>
+        <id>https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain</id>
+        <link href="https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain"/>
+        <updated>2025-10-23T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi is finally going on-chain through a new partnership with RedStone, just as Polymarket gears up for its U.S. return.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MegaETH Pre-Market Valuation Taps $6 Billion]]></title>
         <id>https://thedefiant.io/news/blockchains/megaeth-pre-market-valuation-taps-usd6-billion</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin and Ethereum retreat alongside broader markets as liquidations spike.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SocGen’s Crypto Arm Deploys Euro, Dollar-Pegged Stablecoins in DeFi]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/societe-generale-forge-stablecoins-morpho-uniswap"/>
-        <updated>2025-09-30T12:47:17.000Z</updated>
-        <summary type="html"><![CDATA[SG-FORGE is bringing its euro and dollar stablecoins to decentralized finance platforms Morpho and Uniswap.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
