@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T17:08:32.250Z</id>
+    <id>urn:2025-10-23T18:13:56.824Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-23T17:08:32.250Z</updated>
+    <updated>2025-10-23T18:13:56.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Attempts to Reclaim $110,000 as US Stocks Rebound]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-attempts-to-reclaim-usd110-000-as-us-stocks-rebound</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-attempts-to-reclaim-usd110-000-as-us-stocks-rebound"/>
+        <updated>2025-10-23T17:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ether rose 1.5% on Thursday as the S&P 500 and Nasdaq approached their all-time highs.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNB Rallies After Trump Pardons Binance Founder CZ]]></title>
         <id>https://thedefiant.io/news/regulation/trump-pardons-binance-founder-changpeng-zhao</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[ADI Chain aims to bring the region’s financial system onto blockchain, starting with a dirham-backed stablecoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paxos Labs and Aleo Network Foundation to Launch US Stablecoin]]></title>
-        <id>https://thedefiant.io/news/defi/paxos-labs-and-aleo-network-foundation-to-launch-u-s-stablecoin</id>
-        <link href="https://thedefiant.io/news/defi/paxos-labs-and-aleo-network-foundation-to-launch-u-s-stablecoin"/>
-        <updated>2025-10-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[USAD will combine Aleo’s privacy-focused technology with Paxos Labs’ issuance infrastructure.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
