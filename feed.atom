@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-30T16:12:36.908Z</id>
+    <id>urn:2025-10-30T17:08:52.179Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-30T16:12:36.908Z</updated>
+    <updated>2025-10-30T17:08:52.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NEAR Cuts Inflation Rate by Half Despite Failed Community Vote]]></title>
+        <id>https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote</id>
+        <link href="https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote"/>
+        <updated>2025-10-30T16:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/farcaster-acquires-clanker-tokenbot</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/metadao-votes-against-vc-discount-for-meta-sale</id>
         <link href="https://thedefiant.io/news/defi/metadao-votes-against-vc-discount-for-meta-sale"/>
         <updated>2025-10-13T16:15:31.000Z</updated>
-        <summary type="html"><![CDATA[MetaDAO’s community today rejected a proposal to sell $6 million worth of its META token to two venture capital firms, DBA and Variant, at a roughly 30% discount. MetaDAO, a Solana-based governance platform for decentralized autonomous organizations (DAOs), saw the vote close today, Oct. 13, with over 878,800 USDC in volume, marking a clear pushback against a deal that would have diluted existing holders by around 7-8%.]]></summary>
+        <summary type="html"><![CDATA[The platform’s founders warned earlier that without new funding, MetaDAO would have only 24 months of runway.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The creator-focused platform rallied sharply after a surprise listing on one of the top retail trading brokerage apps.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave V4 Looks to Turn Fragmented Liquidity into DeFi’s OS, Developers Say]]></title>
-        <id>https://thedefiant.io/news/defi/aave-v4-defi-operating-system</id>
-        <link href="https://thedefiant.io/news/defi/aave-v4-defi-operating-system"/>
-        <updated>2025-10-09T14:13:17.000Z</updated>
-        <summary type="html"><![CDATA[The latest version of the top lending protocol creates a shared liquidity pool that customized markets can connect to.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
