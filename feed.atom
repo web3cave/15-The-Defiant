@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-31T14:09:34.159Z</id>
+    <id>urn:2025-10-31T15:09:00.470Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-31T14:09:34.159Z</updated>
+    <updated>2025-10-31T15:09:00.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock, Securitize Reduce BUIDL’s Market Cap on Ethereum by 60%]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche"/>
+        <updated>2025-10-31T15:00:27.000Z</updated>
+        <summary type="html"><![CDATA[While the fund's total value hasn't change, BUIDL is now more evenly distributed across Aptos, Polygon, and Avalanche, instead of the vast majority being on Ethereum.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FourMeme Surpasses Pumpfun With $43 Million in Monthly Revenue]]></title>
         <id>https://thedefiant.io/news/defi/fourmeme-surpasses-pumpfun-with-usd43-million-in-monthly-revenue</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tokens/umbra-trades-5x-above-ico-price-after-oversubscribed-raise</id>
         <link href="https://thedefiant.io/news/tokens/umbra-trades-5x-above-ico-price-after-oversubscribed-raise"/>
         <updated>2025-10-14T17:59:54.000Z</updated>
-        <summary type="html"><![CDATA[The ICO raised 200x its $750,000 minimum, and more than 50x its hard cap.]]></summary>
+        <summary type="html"><![CDATA[With the privacy token meta in full swing, the native asset of a new privacy protocol, Umbra, is trading almost five times higher than its initial coin offering (ICO) price, after launching on Friday.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[After a highly successful launch, the XPL token has fallen almost 50% from its opening week high.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Smart Chain Users Consume 5 Trillion Gas Units in a Single Day]]></title>
-        <id>https://thedefiant.io/news/blockchains/bnb-smart-chain-5-trillion-gas</id>
-        <link href="https://thedefiant.io/news/blockchains/bnb-smart-chain-5-trillion-gas"/>
-        <updated>2025-10-09T18:51:39.000Z</updated>
-        <summary type="html"><![CDATA[BNB Smart Chain activity surges as token swaps dominate network usage.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
