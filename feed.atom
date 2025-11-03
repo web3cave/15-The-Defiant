@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-03T20:10:51.688Z</id>
+    <id>urn:2025-11-03T21:08:54.408Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-03T20:10:51.688Z</updated>
+    <updated>2025-11-03T21:08:54.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Community Divided on DeFi Trust Implications After $128M Balancer Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit"/>
+        <updated>2025-11-03T21:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Experts are debating whether the latest hack shakes confidence in DeFi or is just part of the inherent risks as investors chase higher yields.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethena USDe Market Cap Drops 40% After ‘Black Friday’ October 10 Crash]]></title>
         <id>https://thedefiant.io/news/tokens/ethena-usde-market-cap-drops-40-percent-since-black-friday-10-10</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The new stablecoin from the STBL protocol fell below its $1 peg shortly after going live, highlighting challenges for liquidity.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railgun Token Soars as Vitalik Calls Privacy a ‘First-Class Priority’ for Ethereum]]></title>
-        <id>https://thedefiant.io/news/defi/railgun-token-soars-as-vitalik-calls-privacy-a-first-class-priority-for-ethereum</id>
-        <link href="https://thedefiant.io/news/defi/railgun-token-soars-as-vitalik-calls-privacy-a-first-class-priority-for-ethereum"/>
-        <updated>2025-10-10T19:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s new privacy initiative boosted Railgun’s RAIL token to an all-time high, following comments from Vitalik Buterin emphasizing privacy as a core focus.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
