@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
+          "author": "Squiffs",
+          "description": "Both leading prediction markets combined did more volume in October than Polymarket did in its first four years.",
+          "link": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
+          "publishedOn": "2025-11-03T21:19:21.000Z",
+          "wordCount": 5112,
+          "title": "Sports Betting Pushes Kalshi and Polymarket Volumes to All-Time Highs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit",
           "author": "Jona Jaupi",
           "description": "Experts are debating whether the latest hack shakes confidence in DeFi or is just part of the inherent risks as investors chase higher yields.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
           "author": "Denis Omelchenko",
-          "description": "A guide to 51% attacks on blockchain networks.",
+          "description": "A 51% attack on a blockchain network refers to a type of exploit when an individual or a group controls over half — at least 51% — of network consensus. Usually, this kind of attack refers to blockchains that use proof-of-work (PoW) consensus via mining, like Bitcoin (BTC) or Ethereum Classic (ETC), and a 51% attack would entail controlling the majority of mining power, and would let the attacker manipulate transactions.",
           "link": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
           "publishedOn": "2025-10-15T18:25:53.000Z",
           "wordCount": 6727,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/82ed0b61aecca2d84e027f14a6649d6032cac0371c7bc6166dd61bba2837-63bd273c-aad1-43d7-b4e7-73669b395fed.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/stbl-usst-stablecoin-depegs-after-launch",
-          "author": "Jona Jaupi",
-          "description": "The new stablecoin from the STBL protocol fell below its $1 peg shortly after going live, highlighting challenges for liquidity.",
-          "link": "https://thedefiant.io/news/defi/stbl-usst-stablecoin-depegs-after-launch",
-          "publishedOn": "2025-10-10T20:16:16.000Z",
-          "wordCount": 5870,
-          "title": "Tether Co-Founder’s Stablecoin USST Depegs Hours After Launch",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/ea45b6b4c480e5ec62ebad6d8a681b0afc8ee0f796938efcf1045f927799-ba9ada16-0eb7-421a-8f03-91132c6b49cb.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/ea45b6b4c480e5ec62ebad6d8a681b0afc8ee0f796938efcf1045f927799-ba9ada16-0eb7-421a-8f03-91132c6b49cb.png"
         }
       ]
     }
