@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
+          "author": "Jona Jaupi",
+          "description": "The largest DeFi lending protocol will continue to use revenue to repurchase AAVE tokens.",
+          "link": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
+          "publishedOn": "2025-11-04T01:54:11.000Z",
+          "wordCount": 5164,
+          "title": "Aave DAO Makes $50 Million Annual Token Buybacks Permanent",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
           "author": "Squiffs",
           "description": "Both leading prediction markets combined did more volume in October than Polymarket did in its first four years.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
           "author": "Denis Omelchenko",
-          "description": "A 51% attack on a blockchain network refers to a type of exploit when an individual or a group controls over half — at least 51% — of network consensus. Usually, this kind of attack refers to blockchains that use proof-of-work (PoW) consensus via mining, like Bitcoin (BTC) or Ethereum Classic (ETC), and a 51% attack would entail controlling the majority of mining power, and would let the attacker manipulate transactions.",
+          "description": "A guide to 51% attacks on blockchain networks.",
           "link": "https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto",
           "publishedOn": "2025-10-15T18:25:53.000Z",
           "wordCount": 6727,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/safe-1-1-png-b51cb122-cab6-475b-84dd-8a901597e9b8.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k",
-          "author": "Jona Jaupi",
-          "description": "The drop comes after President Trump announced new tariffs on China.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k",
-          "publishedOn": "2025-10-10T21:42:17.000Z",
-          "wordCount": 5217,
-          "title": "Crypto Markets Plummet as BTC Briefly Drops Below $106K",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/82ed0b61aecca2d84e027f14a6649d6032cac0371c7bc6166dd61bba2837-63bd273c-aad1-43d7-b4e7-73669b395fed.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/82ed0b61aecca2d84e027f14a6649d6032cac0371c7bc6166dd61bba2837-63bd273c-aad1-43d7-b4e7-73669b395fed.png"
         }
       ]
     }

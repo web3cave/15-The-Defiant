@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-04T00:45:17.668Z</id>
+    <id>urn:2025-11-04T02:24:09.826Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-04T00:45:17.668Z</updated>
+    <updated>2025-11-04T02:24:09.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave DAO Makes $50 Million Annual Token Buybacks Permanent]]></title>
+        <id>https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent</id>
+        <link href="https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent"/>
+        <updated>2025-11-04T01:54:11.000Z</updated>
+        <summary type="html"><![CDATA[The largest DeFi lending protocol will continue to use revenue to repurchase AAVE tokens.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sports Betting Pushes Kalshi and Polymarket Volumes to All-Time Highs]]></title>
         <id>https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto</id>
         <link href="https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto"/>
         <updated>2025-10-15T18:25:53.000Z</updated>
-        <summary type="html"><![CDATA[A 51% attack on a blockchain network refers to a type of exploit when an individual or a group controls over half — at least 51% — of network consensus. Usually, this kind of attack refers to blockchains that use proof-of-work (PoW) consensus via mining, like Bitcoin (BTC) or Ethereum Classic (ETC), and a 51% attack would entail controlling the majority of mining power, and would let the attacker manipulate transactions.]]></summary>
+        <summary type="html"><![CDATA[A guide to 51% attacks on blockchain networks.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/safe-labs-takes-the-reins-of-popular-multi-signature-wallet"/>
         <updated>2025-10-11T01:35:10.000Z</updated>
         <summary type="html"><![CDATA[The SAFE token is down 23% amid a widespread crypto selloff.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Plummet as BTC Briefly Drops Below $106K]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-plummet-as-btc-drops-below-usd106k"/>
-        <updated>2025-10-10T21:42:17.000Z</updated>
-        <summary type="html"><![CDATA[The drop comes after President Trump announced new tariffs on China.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
