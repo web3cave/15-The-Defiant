@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss",
+          "author": "Squiffs",
+          "description": "Staked Stream USD (xUSD) is trading at less than 30 cents on the dollar amid concerns about the protocol's solvency.",
+          "link": "https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss",
+          "publishedOn": "2025-11-04T19:42:54.000Z",
+          "wordCount": 5403,
+          "title": "Contagion Fears Loom as Stream Finance Discloses $93 Million Loss",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stream-1-png-33a65ac6-50c9-41fc-95b2-82798ff27ed5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stream-1-png-33a65ac6-50c9-41fc-95b2-82798ff27ed5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/one-year-since-apechain-launch",
           "author": "Denis Omelchenko",
           "description": "Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/binance-listing-saga",
           "author": "Denis Omelchenko",
-          "description": "Binance is facing a social media firestorm after one founder’s post ignited a debate about listing fees on CEXs.",
+          "description": "Less than 24 hours after a Base builder publicly slammed Binance’s alleged listing policy on X, sparking a heated debate in the crypto community, Coinbase unexpectedly announced plans to list BNB, after years of calls for the exchange to list the now fourth-largest token by market cap.",
           "link": "https://thedefiant.io/news/cefi/binance-listing-saga",
           "publishedOn": "2025-10-16T18:48:08.000Z",
           "wordCount": 6783,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/384728f4699f9e25b68701d922bb6e2f9203812f7da1ba6f0fcc8c025fd7-419cead6-77c0-4351-a768-d350d8f794e6.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/blockchains/how-avalanche-is-tackling-the-blockchain-trilemma",
-          "author": "Camila Russo",
-          "description": "Avalanche says it can finally square the circle: sub‑second finality, a large decentralized validator set, and thousands of sovereign L1s connected through native messaging for shared liquidity.",
-          "link": "https://thedefiant.io/podcasts-and-videos/blockchains/how-avalanche-is-tackling-the-blockchain-trilemma",
-          "publishedOn": "2025-10-14T10:52:00.000Z",
-          "wordCount": 4862,
-          "title": "How Avalanche is Tackling the Blockchain Trilemma",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/maxresdefault-13-jpg-8edbb384-af56-455c-8f2d-2591cb71ab02.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/maxresdefault-13-jpg-8edbb384-af56-455c-8f2d-2591cb71ab02.jpg"
         }
       ]
     }

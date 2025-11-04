@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-04T19:07:47.335Z</id>
+    <id>urn:2025-11-04T20:10:50.969Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-04T19:07:47.335Z</updated>
+    <updated>2025-11-04T20:10:50.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Contagion Fears Loom as Stream Finance Discloses $93 Million Loss]]></title>
+        <id>https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss</id>
+        <link href="https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss"/>
+        <updated>2025-11-04T19:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Staked Stream USD (xUSD) is trading at less than 30 cents on the dollar amid concerns about the protocol's solvency.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Year On: Inside ApeChain’s Brief Rise and Slow Fall]]></title>
         <id>https://thedefiant.io/news/blockchains/one-year-since-apechain-launch</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/binance-listing-saga</id>
         <link href="https://thedefiant.io/news/cefi/binance-listing-saga"/>
         <updated>2025-10-16T18:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Binance is facing a social media firestorm after one founder’s post ignited a debate about listing fees on CEXs.]]></summary>
+        <summary type="html"><![CDATA[Less than 24 hours after a Base builder publicly slammed Binance’s alleged listing policy on X, sparking a heated debate in the crypto community, Coinbase unexpectedly announced plans to list BNB, after years of calls for the exchange to list the now fourth-largest token by market cap.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Implementation hinges on foreign partners willing to issue tokenized versions of shares of Russian firms, despite sanctions from the EU and U.S.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Avalanche is Tackling the Blockchain Trilemma]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/blockchains/how-avalanche-is-tackling-the-blockchain-trilemma</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/blockchains/how-avalanche-is-tackling-the-blockchain-trilemma"/>
-        <updated>2025-10-14T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Avalanche says it can finally square the circle: sub‑second finality, a large decentralized validator set, and thousands of sovereign L1s connected through native messaging for shared liquidity.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
