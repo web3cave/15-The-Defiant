@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-04T18:13:56.331Z</id>
+    <id>urn:2025-11-04T19:07:47.335Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-04T18:13:56.331Z</updated>
+    <updated>2025-11-04T19:07:47.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Year On: Inside ApeChain’s Brief Rise and Slow Fall]]></title>
+        <id>https://thedefiant.io/news/blockchains/one-year-since-apechain-launch</id>
+        <link href="https://thedefiant.io/news/blockchains/one-year-since-apechain-launch"/>
+        <updated>2025-11-04T18:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Breaches 10/10 Low as It Approaches $100,000]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-breaches-10-10-low-as-it-approaches-usd100-000</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Avalanche says it can finally square the circle: sub‑second finality, a large decentralized validator set, and thousands of sovereign L1s connected through native messaging for shared liquidity.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaDAO Community Votes Against VC Discount in $6M OTC Deal]]></title>
-        <id>https://thedefiant.io/news/defi/metadao-votes-against-vc-discount-for-meta-sale</id>
-        <link href="https://thedefiant.io/news/defi/metadao-votes-against-vc-discount-for-meta-sale"/>
-        <updated>2025-10-13T16:15:31.000Z</updated>
-        <summary type="html"><![CDATA[The platform’s founders warned earlier that without new funding, MetaDAO would have only 24 months of runway.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
