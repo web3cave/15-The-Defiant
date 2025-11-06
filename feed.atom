@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-06T21:08:43.267Z</id>
+    <id>urn:2025-11-06T22:09:03.024Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-06T21:08:43.267Z</updated>
+    <updated>2025-11-06T22:09:03.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Ecosystem TVL Grows to $35 Billion]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion"/>
+        <updated>2025-11-06T21:42:36.000Z</updated>
+        <summary type="html"><![CDATA[TokenTerminal research shows SOL trades at 2.95x ecosystem TVL, down from 14x a year ago.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Resumes Withdrawals from USDC, USDS Markets]]></title>
+        <id>https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal</id>
+        <link href="https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal"/>
+        <updated>2025-11-06T21:41:43.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi lending protocol had paused withdrawals for three stablecoin markets after risk manager Gauntlet flagged a liquidity squeeze in Elixir’s deUSD token.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Art Basel Unveils ‘Zero 10’ Digital Art Platform]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/art-basel-unveils-zero-10-digital-art-platform</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/art-basel-unveils-zero-10-digital-art-platform"/>
+        <updated>2025-11-06T21:35:41.000Z</updated>
+        <summary type="html"><![CDATA[The platform is supported by Opensea and will debut in Miami before heading overseas next year.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave’s Horizon RWA Market Nears $540 Million, Adds VanEck Treasury Fund]]></title>
         <id>https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt"/>
         <updated>2025-10-20T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is back above $110,000, though analysts say they’re now taking a more cautious approach after the $20 billion market wipeout.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets climbed slightly higher to start the week, with total market cap up 2%, and almost all of the top-10 assets in the green on Monday, Oct. 20. The moderate recovery comes after Fed Chair Jerome Powell hinted that the Fed might soon stop reducing its balance sheet, signaling a possible end to its quantitative tightening program.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Jovay Network has flown under the radar until it mentioned Ethereum in a social media post today.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paxos Mints and Burns $300 Trillion PYUSD on Ethereum]]></title>
-        <id>https://thedefiant.io/news/defi/paxos-mints-and-burns-usd300-trillion-pyusd-on-ethereum</id>
-        <link href="https://thedefiant.io/news/defi/paxos-mints-and-burns-usd300-trillion-pyusd-on-ethereum"/>
-        <updated>2025-10-15T19:50:15.000Z</updated>
-        <summary type="html"><![CDATA[The accidental move briefly made PayPal’s PYUSD the largest stablecoin in the world before Paxos burned the newly minted supply.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a 51% Attack, and How Does It Work?]]></title>
-        <id>https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto</id>
-        <link href="https://thedefiant.io/education/hacks/what-is-a-51-attack-in-crypto"/>
-        <updated>2025-10-15T18:25:53.000Z</updated>
-        <summary type="html"><![CDATA[A guide to 51% attacks on blockchain networks.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Slides for Second Day as Bitcoin Dips Amid Geopolitical Tensions]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-slides-for-second-day-as-bitcoin-dips-amid-geopolitical-tensions"/>
-        <updated>2025-10-15T18:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins fall as macroeconomic uncertainty continues to weigh on sentiment.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
