@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-11T19:07:24.891Z</id>
+    <id>urn:2025-11-11T20:10:27.962Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-11T19:07:24.891Z</updated>
+    <updated>2025-11-11T20:10:27.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Sees First Sustained Validator Exit Since Proof-of-Stake Shift]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade"/>
+        <updated>2025-11-11T19:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Holds $104,000 as Government Shutdown Deal Heads to House Vote]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt"/>
         <updated>2025-10-20T16:24:58.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin is back above $110,000, though analysts say they’re now taking a more cautious approach after the $20 billion market wipeout.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Earning Aggregator Turtle Raises $5.5 Million]]></title>
-        <id>https://thedefiant.io/news/defi/turtle-raises-usd5-5m-to-boost-programmable-liquidity</id>
-        <link href="https://thedefiant.io/news/defi/turtle-raises-usd5-5m-to-boost-programmable-liquidity"/>
-        <updated>2025-10-20T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[The fresh raise brings Turtle’s total funding to $11.7 million, with participation from major VCs and angel investors.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
