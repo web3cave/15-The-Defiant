@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-12T15:11:08.449Z</id>
+    <id>urn:2025-11-12T16:13:18.976Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-12T15:11:08.449Z</updated>
+    <updated>2025-11-12T16:13:18.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SoFi Relaunches Crypto Trading Following Regulatory Greenlight]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-relaunches-crypto-services-citing-updated-occ-guidance</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-relaunches-crypto-services-citing-updated-occ-guidance"/>
+        <updated>2025-11-12T15:01:01.000Z</updated>
+        <summary type="html"><![CDATA[The neobank says the launch of SoFi Crypto is thanks to updated regulatory guidance from this spring, and is just the start of its broader crypto strategy.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighter Rises to Top Perp DEX by Volume, Reveals $68M Raise]]></title>
         <id>https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/robinhood-adds-hype-for-spot-trading</id>
         <link href="https://thedefiant.io/news/cefi/robinhood-adds-hype-for-spot-trading"/>
         <updated>2025-10-23T13:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood listed Hyperliquid's native token shortly after Hyperliquid Strategies filed to raise $1 billion for its HYPE treasury.]]></summary>
+        <summary type="html"><![CDATA[Hyperliquid jumped over 10% on Thursday, Oct. 23, shortly after news broke that U.S. brokerage giant Robinhood is adding support for HYPE trading on its platform. In an X post on Oct. 23, Robinhood said users can now trade HYPE on Robinhood Crypto.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain</id>
         <link href="https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain"/>
         <updated>2025-10-23T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Kalshi, the first U.S.-regulated prediction market, is teaming up with oracle data provider RedStone to make it possible to place bets on-chain across 110+ networks, including Ethereum, Solana, Base, and TON.]]></summary>
+        <summary type="html"><![CDATA[Kalshi is finally going on-chain through a new partnership with RedStone, just as Polymarket gears up for its U.S. return.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The proprietary automated market maker has quietly surpassed leading Solana DEXs like Raydium, Meteora, and PumpSwap.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitMine Accumulates $800 Million of ETH Amid Market Weakness]]></title>
-        <id>https://thedefiant.io/news/markets/bitmine-accumulates-usd800-million-of-eth-amid-market-weakness</id>
-        <link href="https://thedefiant.io/news/markets/bitmine-accumulates-usd800-million-of-eth-amid-market-weakness"/>
-        <updated>2025-10-20T20:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Major crypto treasury companies step up crypto holdings, as Greenlane announces a BERA treasury.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
