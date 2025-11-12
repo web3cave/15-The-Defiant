@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-12T14:10:28.003Z</id>
+    <id>urn:2025-11-12T15:11:08.449Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-12T14:10:28.003Z</updated>
+    <updated>2025-11-12T15:11:08.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighter Rises to Top Perp DEX by Volume, Reveals $68M Raise]]></title>
+        <id>https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise</id>
+        <link href="https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise"/>
+        <updated>2025-11-12T13:47:18.000Z</updated>
+        <summary type="html"><![CDATA[The funding round, led by Founders Fund and Ribbit Capital, values the company at about $1.5 billion.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Sees First Sustained Validator Exit Since Proof-of-Stake Shift]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain</id>
         <link href="https://thedefiant.io/news/defi/kalshi-partners-with-oracle-redstone-to-bring-event-data-on-chain"/>
         <updated>2025-10-23T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Kalshi is finally going on-chain through a new partnership with RedStone, just as Polymarket gears up for its U.S. return.]]></summary>
+        <summary type="html"><![CDATA[Kalshi, the first U.S.-regulated prediction market, is teaming up with oracle data provider RedStone to make it possible to place bets on-chain across 110+ networks, including Ethereum, Solana, Base, and TON.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Major crypto treasury companies step up crypto holdings, as Greenlane announces a BERA treasury.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Recover Slightly as Fed Signals Rate Cut, End of QT]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-recover-slightly-as-fed-signals-rate-cuts-end-of-qt"/>
-        <updated>2025-10-20T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is back above $110,000, though analysts say they’re now taking a more cautious approach after the $20 billion market wipeout.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
