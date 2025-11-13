@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-13T15:11:29.198Z</id>
+    <id>urn:2025-11-13T16:12:47.777Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-13T15:11:29.198Z</updated>
+    <updated>2025-11-13T16:12:47.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZEC Jumps as Winklevoss‑Backed Cypherpunk Reveals $100M Zcash Treasury]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat"/>
+        <updated>2025-11-13T15:57:05.000Z</updated>
+        <summary type="html"><![CDATA[The new Winklevoss-backed ZEC DAT aims to hold at least 5% of the total Zcash supply.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aztec Network Launches First Token Sale Using Uniswap’s Continuous Clearing Auction]]></title>
         <id>https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/peter-schiff-wants-to-put-gold-on-blockchain</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/peter-schiff-wants-to-put-gold-on-blockchain"/>
         <updated>2025-10-24T13:30:12.000Z</updated>
-        <summary type="html"><![CDATA[The long-time gold maxi says he will "probably launch” a token representing physical gold as part of a platform to make gold easy to transfer and spend.]]></summary>
+        <summary type="html"><![CDATA[Peter Schiff, well known in the crypto industry as a Bitcoin critic and gold advocate, announced that he’s exploring a new way to make bullion digital — via blockchain. Schiff revealed his plans for a tokenized gold platform during an interview on CounterParty TV posted yesterday, Oct. 23.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[MoreMarkets’ 2025 Crypto Yield Retail Consumer Report shows retail investors favor centralized exchanges and prioritize safety over high returns.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Foundation Announces Gas Limit Cap for Upcoming Fusaka Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-announces-gas-limit-cap-for-upcoming-fusaka-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-announces-gas-limit-cap-for-upcoming-fusaka-upgrade"/>
-        <updated>2025-10-22T01:50:36.000Z</updated>
-        <summary type="html"><![CDATA[The EIP-7825 upgrade is expected to launch alongside Fusaka in December.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
