@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault",
+          "author": "Squiffs",
+          "description": "The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.",
+          "link": "https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault",
+          "publishedOn": "2025-11-13T01:38:23.000Z",
+          "wordCount": 4868,
+          "title": "Large POPCAT Trades Result in $5 Million Loss for Hyperliquid Vault",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hypepopcat-1-png-02a157a6-da54-4234-9d1a-bd97d1ff8a80.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hypepopcat-1-png-02a157a6-da54-4234-9d1a-bd97d1ff8a80.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking",
           "author": "Denis Omelchenko",
           "description": "Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/18ba14485273fb189df361d2b79684311d60a68c6c58ae041b576033b1d1-ddeea270-d53b-412e-835e-1372fc27a58d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/coinbase-acquires-echo-for-usd375-million-to-expand-onchain-fundraising",
-          "author": "Jona Jaupi",
-          "description": "The deal adds Echo’s community-based capital raising tools to Coinbase’s growing on-chain infrastructure stack.",
-          "link": "https://thedefiant.io/news/cefi/coinbase-acquires-echo-for-usd375-million-to-expand-onchain-fundraising",
-          "publishedOn": "2025-10-21T16:48:09.000Z",
-          "wordCount": 5240,
-          "title": "Coinbase Acquires Echo for $375 Million to Expand On-Chain Fundraising",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/echo-1-png-9378b70c-fca0-4ac1-880d-717469d8ae5b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/echo-1-png-9378b70c-fca0-4ac1-880d-717469d8ae5b.png"
         }
       ]
     }

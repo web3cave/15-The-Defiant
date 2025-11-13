@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-13T00:47:27.365Z</id>
+    <id>urn:2025-11-13T02:27:46.197Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-13T00:47:27.365Z</updated>
+    <updated>2025-11-13T02:27:46.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Large POPCAT Trades Result in $5 Million Loss for Hyperliquid Vault]]></title>
+        <id>https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault</id>
+        <link href="https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault"/>
+        <updated>2025-11-13T01:38:23.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flare TVL Nears Record High as Firelight Teases XRP Liquid Staking]]></title>
         <id>https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin surged toward $114,000 as broader markets rallied after a Federal Reserve governor proposed a new type of "payment account” with the central bank.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Acquires Echo for $375 Million to Expand On-Chain Fundraising]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-acquires-echo-for-usd375-million-to-expand-onchain-fundraising</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-acquires-echo-for-usd375-million-to-expand-onchain-fundraising"/>
-        <updated>2025-10-21T16:48:09.000Z</updated>
-        <summary type="html"><![CDATA[The deal adds Echo’s community-based capital raising tools to Coinbase’s growing on-chain infrastructure stack.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
