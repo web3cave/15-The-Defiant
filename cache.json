@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
+          "author": "Squiffs",
+          "description": "TradeXYZ, Felix, and Ventuals all released new HIP-3 markets on Hyperliquid today, including tokenized NVDA, TSLA, and SPACEX.",
+          "link": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
+          "publishedOn": "2025-11-14T01:38:29.000Z",
+          "wordCount": 5301,
+          "title": "Tokenized Equity Market on Hyperliquid Heats Up",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hip3-1-png-5a62315a-88bb-4f1b-a5f5-c35641bc1823.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hip3-1-png-5a62315a-88bb-4f1b-a5f5-c35641bc1823.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump",
           "author": "Jona Jaupi",
           "description": "The persistent market weakness comes amid the U.S. government reopening and lingering inflation concerns.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/genus-act-still-not-in-effect-despite-stablecoins-claiming-compliance",
           "author": "Denis Omelchenko",
-          "description": "When the GENIUS Act was signed into law on July 18, 2025, the crypto industry hailed it as a significant piece of legislation globally, proposing federal regulations for stablecoins in the United States. But three months later, given that the bill has yet to go into effect, no stablecoin is actively regulated by the act, even as some major players try to position themselves to comply with the coming rules.",
+          "description": "Three months after the landmark U.S. stablecoin legislation was signed into law, the bill is still in a public comment period.",
           "link": "https://thedefiant.io/news/research-and-opinion/genus-act-still-not-in-effect-despite-stablecoins-claiming-compliance",
           "publishedOn": "2025-10-24T17:19:24.000Z",
           "wordCount": 6403,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btcrekt-1-png-eaec1d8c-de5c-445d-bf8d-17c870d112ca.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/fet-drops-over-10-as-fetchai-pushes-legal-action-against-ocean-protocol",
-          "author": "Denis Omelchenko",
-          "description": "On-chain analysts found that Ocean Protocol split FET token transfers across dozens of wallets before moving them to Binance and an OTC provider.",
-          "link": "https://thedefiant.io/news/blockchains/fet-drops-over-10-as-fetchai-pushes-legal-action-against-ocean-protocol",
-          "publishedOn": "2025-10-22T17:37:59.000Z",
-          "wordCount": 6000,
-          "title": "FET Drops Over 10% as Fetchai Pushes Legal Action Against Ocean Protocol",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f195349e237152201b16fad0e9d23bb54f91e54fecc2a3a7daddfac5ac1b-8d30cee4-4475-4c84-bc07-1bb5c26033e6.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f195349e237152201b16fad0e9d23bb54f91e54fecc2a3a7daddfac5ac1b-8d30cee4-4475-4c84-bc07-1bb5c26033e6.png"
         }
       ]
     }
