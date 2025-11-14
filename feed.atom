@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-14T22:08:41.447Z</id>
+    <id>urn:2025-11-14T23:08:49.452Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-14T22:08:41.447Z</updated>
+    <updated>2025-11-14T23:08:49.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[​​Is DYOR Dead? Building a Safer Web3 with Alex Katz]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz"/>
+        <updated>2025-11-14T22:26:00.000Z</updated>
+        <summary type="html"><![CDATA[In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of "Do Your Own Research" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?]]></summary>
+        <author>
+            <name>Virginia Valenzuela</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet Token Outperforms as TVL Climbs]]></title>
         <id>https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs</id>
@@ -123,6 +133,16 @@
         <summary type="html"><![CDATA[The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche DeFi: the Journey to Bring Institutions Onchain]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain"/>
+        <updated>2025-11-12T22:23:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -273,6 +293,16 @@
         <summary type="html"><![CDATA[The gains also came after Trump proposed a $2,000 payout to Americans.]]></summary>
         <author>
             <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the PYUSD's takeover of PayPal with May Zabaneh, VP Crypto]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto"/>
+        <updated>2025-11-07T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[In this conversation, May Zabaneh breaks down PayPal’s move into stablecoins with PYUSD and why it matters for financial inclusion. We explore how PYUSD could lower costs for cross-border payments, deliver faster settlement, and plug directly into PayPal’s existing ecosystem. The discussion covers why PayPal built a proprietary stablecoin, early adoption and real-world use cases, and plans for international expansion. We also examine the role merchants play in crypto acceptance, how DeFi and traditional finance are converging, and why interoperability will be essential in the next phase of digital payments.]]></summary>
+        <author>
+            <name>Chris Storaker</name>
         </author>
     </entry>
     <entry>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The move could allow CZ to return to Binance as CEO after previous legal restrictions.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Labs Acquires Stable Finance to Expand DeFi Access]]></title>
-        <id>https://thedefiant.io/news/defi/aave-labs-acquires-stable-finance-to-expand-defi-access</id>
-        <link href="https://thedefiant.io/news/defi/aave-labs-acquires-stable-finance-to-expand-defi-access"/>
-        <updated>2025-10-23T15:52:23.000Z</updated>
-        <summary type="html"><![CDATA[The San Francisco-based fintech team joins Aave Labs as the company looks to simplify stablecoin savings and improve the user experience.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Token Buybacks Surge Fivefold as Projects Return More Revenue to Holders]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/crypto-token-buybacks-surge-fivefold-as-projects-return-more-revenue-to-holders</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/crypto-token-buybacks-surge-fivefold-as-projects-return-more-revenue-to-holders"/>
-        <updated>2025-10-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new report by Keyrock finds protocols increasingly prioritize payouts over reinvestment.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPE Jumps 10% as Robinhood Announces Spot Listing]]></title>
-        <id>https://thedefiant.io/news/cefi/robinhood-adds-hype-for-spot-trading</id>
-        <link href="https://thedefiant.io/news/cefi/robinhood-adds-hype-for-spot-trading"/>
-        <updated>2025-10-23T13:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood listed Hyperliquid's native token shortly after Hyperliquid Strategies filed to raise $1 billion for its HYPE treasury.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
