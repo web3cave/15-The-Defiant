@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22",
+          "author": "Squiffs",
+          "description": "The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.",
+          "link": "https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22",
+          "publishedOn": "2025-11-17T21:47:44.000Z",
+          "wordCount": 4671,
+          "title": "PayPal Stablecoin Supply Jumps 22%",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pyyusd-1-png-eadb8396-ef5d-490c-9d97-3062b1ee51d8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pyyusd-1-png-eadb8396-ef5d-490c-9d97-3062b1ee51d8.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol",
           "author": "Squiffs",
           "description": "The protocol’s front end is expected to be released to the public in Q1 2026.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork",
           "author": "Denis Omelchenko",
-          "description": "The early prediction market's fork will force inactive REP holders to migrate their tokens or lose access, testing the protocol’s dispute system.",
+          "description": "Augur, one of the earliest decentralized prediction market protocols, is set to undergo what it is calling “crypto’s first algorithmic fork,” following a community effort to test the network’s built-in dispute system.",
           "link": "https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork",
           "publishedOn": "2025-10-28T18:33:08.000Z",
           "wordCount": 6104,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btcbounce-1-4-png-8c9120c2-58ae-4e0e-a792-15d8977e0182.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/solana-dex-meteora-launches-native-met-token",
-          "author": "Jona Jaupi",
-          "description": "Nearly half of the total MET token supply was released earlier today.",
-          "link": "https://thedefiant.io/news/defi/solana-dex-meteora-launches-native-met-token",
-          "publishedOn": "2025-10-23T19:41:35.000Z",
-          "wordCount": 5003,
-          "title": "Solana DEX Meteora Launches Native MET Token",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btcbounce-1-3-png-03524d5f-de42-4f8f-9134-cd1211cfbe2a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btcbounce-1-3-png-03524d5f-de42-4f8f-9134-cd1211cfbe2a.png"
         }
       ]
     }

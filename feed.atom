@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-17T21:08:54.163Z</id>
+    <id>urn:2025-11-17T22:08:54.720Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-17T21:08:54.163Z</updated>
+    <updated>2025-11-17T22:08:54.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal Stablecoin Supply Jumps 22%]]></title>
+        <id>https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22</id>
+        <link href="https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22"/>
+        <updated>2025-11-17T21:47:44.000Z</updated>
+        <summary type="html"><![CDATA[The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1inch Launches Developer Access to Aqua Liquidity Protocol]]></title>
         <id>https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork</id>
         <link href="https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork"/>
         <updated>2025-10-28T18:33:08.000Z</updated>
-        <summary type="html"><![CDATA[The early prediction market's fork will force inactive REP holders to migrate their tokens or lose access, testing the protocol’s dispute system.]]></summary>
+        <summary type="html"><![CDATA[Augur, one of the earliest decentralized prediction market protocols, is set to undergo what it is calling “crypto’s first algorithmic fork,” following a community effort to test the network’s built-in dispute system.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/can-decentralized-networks-make-the-internet-more-resilient"/>
         <updated>2025-10-23T21:24:37.000Z</updated>
         <summary type="html"><![CDATA[After the recent major AWS outage, experts weigh the risks of centralized clouds and the role of decentralized alternatives.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana DEX Meteora Launches Native MET Token]]></title>
-        <id>https://thedefiant.io/news/defi/solana-dex-meteora-launches-native-met-token</id>
-        <link href="https://thedefiant.io/news/defi/solana-dex-meteora-launches-native-met-token"/>
-        <updated>2025-10-23T19:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Nearly half of the total MET token supply was released earlier today.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
