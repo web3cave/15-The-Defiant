@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-17T13:24:53.517Z</id>
+    <id>urn:2025-11-17T14:09:38.454Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-17T13:24:53.517Z</updated>
+    <updated>2025-11-17T14:09:38.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Infura Expands Decentralized Infra Network to EigenLayer Following AWS Outage]]></title>
+        <id>https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer</id>
+        <link href="https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer"/>
+        <updated>2025-11-17T13:59:53.000Z</updated>
+        <summary type="html"><![CDATA[The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​​Is DYOR Dead? Building a Safer Web3 with Alex Katz]]></title>
         <id>https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin and Ether rose 1.5% on Thursday as the S&P 500 and Nasdaq approached their all-time highs.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Rallies After Trump Pardons Binance Founder CZ]]></title>
-        <id>https://thedefiant.io/news/regulation/trump-pardons-binance-founder-changpeng-zhao</id>
-        <link href="https://thedefiant.io/news/regulation/trump-pardons-binance-founder-changpeng-zhao"/>
-        <updated>2025-10-23T16:04:34.000Z</updated>
-        <summary type="html"><![CDATA[The move could allow CZ to return to Binance as CEO after previous legal restrictions.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
