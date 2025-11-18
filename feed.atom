@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T22:09:14.604Z</id>
+    <id>urn:2025-11-18T23:08:45.609Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-18T22:09:14.604Z</updated>
+    <updated>2025-11-18T23:08:45.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Debuts xReserve to Expand USDC Access Across Chains]]></title>
+        <id>https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains</id>
+        <link href="https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains"/>
+        <updated>2025-11-18T22:28:53.000Z</updated>
+        <summary type="html"><![CDATA[The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paxos Labs and LayerZero Launch USDG0 to Expand Global Dollar Across DeFi]]></title>
         <id>https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Crypto markets rose on Monday as investors responded to a potential trade truce.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVL on Kraken’s L2 Ink Surges 3,800% in Less Than Two Weeks]]></title>
-        <id>https://thedefiant.io/news/blockchains/tvl-on-kraken-s-l2-ink-surges-3-800-in-less-than-two-weeks</id>
-        <link href="https://thedefiant.io/news/blockchains/tvl-on-kraken-s-l2-ink-surges-3-800-in-less-than-two-weeks"/>
-        <updated>2025-10-27T16:47:19.000Z</updated>
-        <summary type="html"><![CDATA[The surge is led by a single protocol, Tydro, launched by Ink itself.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
