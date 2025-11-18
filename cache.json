@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves",
+          "author": "Jona Jaupi",
+          "description": "The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.",
+          "link": "https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves",
+          "publishedOn": "2025-11-18T01:32:16.000Z",
+          "wordCount": 5988,
+          "title": "BNY’s New Fund Pushes for Safer Stablecoin Reserves",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pyyusd-1-1-png-5a6fe9b4-8f58-47b9-a81a-e4225d422da4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pyyusd-1-1-png-5a6fe9b4-8f58-47b9-a81a-e4225d422da4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22",
           "author": "Squiffs",
           "description": "The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork",
           "author": "Denis Omelchenko",
-          "description": "Augur, one of the earliest decentralized prediction market protocols, is set to undergo what it is calling “crypto’s first algorithmic fork,” following a community effort to test the network’s built-in dispute system.",
+          "description": "The early prediction market's fork will force inactive REP holders to migrate their tokens or lose access, testing the protocol’s dispute system.",
           "link": "https://thedefiant.io/news/blockchains/rep-jumps-50-in-a-week-as-dev-gets-community-support-for-augur-fork",
           "publishedOn": "2025-10-28T18:33:08.000Z",
           "wordCount": 6104,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/66a01fa7b5836c4eb739464986ad7e33bd20202b761aa684aebf0c77544d-27aa890d-d65c-4113-be39-7a108375a782.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/can-decentralized-networks-make-the-internet-more-resilient",
-          "author": "Jona Jaupi",
-          "description": "After the recent major AWS outage, experts weigh the risks of centralized clouds and the role of decentralized alternatives.",
-          "link": "https://thedefiant.io/news/infrastructure/can-decentralized-networks-make-the-internet-more-resilient",
-          "publishedOn": "2025-10-23T21:24:37.000Z",
-          "wordCount": 6335,
-          "title": "Can Decentralized Networks Make the Internet More Resilient?",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btcbounce-1-4-png-8c9120c2-58ae-4e0e-a792-15d8977e0182.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btcbounce-1-4-png-8c9120c2-58ae-4e0e-a792-15d8977e0182.png"
         }
       ]
     }
