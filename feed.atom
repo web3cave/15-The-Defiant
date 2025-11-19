@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-19T21:07:34.848Z</id>
+    <id>urn:2025-11-19T22:09:16.001Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-19T21:07:34.848Z</updated>
+    <updated>2025-11-19T22:09:16.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Registers Staked Ethereum Trust]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust"/>
+        <updated>2025-11-19T22:00:49.000Z</updated>
+        <summary type="html"><![CDATA[The world’s largest asset manager is making preparations for a staked ETH ETF.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid to Roll Out ‘Growth Mode’ to Supercharge New Markets]]></title>
         <id>https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote</id>
         <link href="https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote"/>
         <updated>2025-10-30T16:56:30.000Z</updated>
-        <summary type="html"><![CDATA[NEAR Protocol has upgraded its network with a new update that reduces its annual token inflation rate from 5% to roughly 2.5%, even though the community vote intended to move the change forward failed to reach the required threshold.]]></summary>
+        <summary type="html"><![CDATA[Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Institutional Bitcoin treasuries are coming but they won’t touch DeFi unless the liquidity, custody, and risk models meet their standards. Threshold (TBTC) is building that bridge. In this interview, we break down how TBTC is competing with WBTC, why full decentralization alone isn’t enough, and why Threshold is now designing hybrid custody solutions to connect DeFi with the emerging wave of Bitcoin treasury companies (DATs). We also discuss adoption signals on Aave, real BTC collateral usage, governance structure, and the roadmap toward sustainably scaling Bitcoin finance beyond token incentives.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Sector Rebounds as Agent Payment Systems Gain Traction]]></title>
-        <id>https://thedefiant.io/news/defi/ai-sector-rebounds-as-agent-payment-systems-gain-traction</id>
-        <link href="https://thedefiant.io/news/defi/ai-sector-rebounds-as-agent-payment-systems-gain-traction"/>
-        <updated>2025-10-27T23:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Protocols leveraging the x402 standard are soaring, while the Virtuals ecosystem mounts a comeback.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
