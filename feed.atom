@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T20:11:11.520Z</id>
+    <id>urn:2025-11-20T21:09:07.245Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-20T20:11:11.520Z</updated>
+    <updated>2025-11-20T21:09:07.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Seeks $12 Billion Valuation After Record-Breaking Month]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month"/>
+        <updated>2025-11-20T20:42:43.000Z</updated>
+        <summary type="html"><![CDATA[October was Polymarket’s busiest month ever, with November on track to surpass those activity records.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Lending Hit New Record in Q3: Galaxy]]></title>
+        <id>https://thedefiant.io/news/defi/defi-cefi-loans-hit-new-record-in-q3-galaxy-digital-report</id>
+        <link href="https://thedefiant.io/news/defi/defi-cefi-loans-hit-new-record-in-q3-galaxy-digital-report"/>
+        <updated>2025-11-20T20:23:31.000Z</updated>
+        <summary type="html"><![CDATA[A new report from Galaxy Digital shows record borrowing reflects a mix of airdrops, new lending products, and crypto price gains.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin For America Act Would Allow Tax Payments in BTC]]></title>
         <id>https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund</id>
         <link href="https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund"/>
         <updated>2025-10-31T17:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Maple Finance says it wants to use protocol revenue for “long-term sustainability” instead of staking rewards.]]></summary>
+        <summary type="html"><![CDATA[Maple Finance, a decentralized finance lending protocol operating on Solana and Ethereum, is set to sunset SYRUP staking rewards just under a year after the token’s launch. Staked SYRUP (stSYRUP) voted in favor of the move, first proposed in a Maple Improvement Proposal (MIP) on Oct. 24.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche"/>
         <updated>2025-10-31T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock, the world's largest asset manager with over $13.4 trillion in assets under management as of Q3, saw a large chunk of its tokenized U.S. treasury fund BUIDL move to several blockchains, reducing the market cap on Ethereum by about 60%.]]></summary>
+        <summary type="html"><![CDATA[While the fund's total value hasn't changed, BUIDL is now more evenly distributed across Aptos, Polygon, and Avalanche, instead of the vast majority being on Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The Hong Kong-based metaverse giant has made a long-term bet on the top Base DEX.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Sale Moves From ETHZilla, Sequans Spark DAT Unwind Fears]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/dat-unwind-fears-ethzilla-sells-eth-sequans-moves-btc-to-coinbase</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/dat-unwind-fears-ethzilla-sells-eth-sequans-moves-btc-to-coinbase"/>
-        <updated>2025-10-29T18:44:31.000Z</updated>
-        <summary type="html"><![CDATA[The first signs of a potential unwind in digital asset treasuries emerged this week as two firms appeared to sell part of their holdings.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Nasdaq Futures Enter Top 10 by Volume on Hyperliquid]]></title>
-        <id>https://thedefiant.io/news/defi/tokenized-nasdaq-futures-enter-top-10-by-volume-on-hyperliquid</id>
-        <link href="https://thedefiant.io/news/defi/tokenized-nasdaq-futures-enter-top-10-by-volume-on-hyperliquid"/>
-        <updated>2025-10-28T20:34:52.000Z</updated>
-        <summary type="html"><![CDATA[The HIP-3 offering from TradeXYZ has become the 10th-most-traded asset on Hyperliquid over the last 24 hours.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
