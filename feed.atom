@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T15:10:23.649Z</id>
+    <id>urn:2025-11-20T16:12:20.439Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-20T15:10:23.649Z</updated>
+    <updated>2025-11-20T16:12:20.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Holds Steady as Traders Digest Delayed US Jobs Report]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report"/>
+        <updated>2025-11-20T15:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is trading below $91,000, with most large-caps flat or down today, despite somewhat positive jobs data from the U.S.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize to Launch Institutional Assets on Plume’s Nest Protocol]]></title>
         <id>https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The early prediction market's fork will force inactive REP holders to migrate their tokens or lose access, testing the protocol’s dispute system.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Edges Lower While US Stocks Hit New Highs]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-edges-lower-while-us-stocks-hit-new-highs</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-edges-lower-while-us-stocks-hit-new-highs"/>
-        <updated>2025-10-28T18:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin trades flat and Ethereum slips as smaller-cap tokens record mixed gains.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
