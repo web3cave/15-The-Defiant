@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T14:09:24.202Z</id>
+    <id>urn:2025-11-20T15:10:23.649Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-20T14:09:24.202Z</updated>
+    <updated>2025-11-20T15:10:23.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Securitize to Launch Institutional Assets on Plume’s Nest Protocol]]></title>
+        <id>https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol</id>
+        <link href="https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol"/>
+        <updated>2025-11-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The deployment aims to connect tokenized funds with Plume’s RWA investors.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S&amp; P Ratings Gives Justin Sun-Linked TrueUSD Lowest Score]]></title>
+        <id>https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score</id>
+        <link href="https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score"/>
+        <updated>2025-11-20T14:42:49.000Z</updated>
+        <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock Registers Staked Ethereum Trust]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoin trades flat and Ethereum slips as smaller-cap tokens record mixed gains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRO Jumps After Trump’s Truth Social Announces Prediction Market Partnership with Crypto.Com]]></title>
-        <id>https://thedefiant.io/news/cefi/truth-social-cryptocom-announce-prediction-market</id>
-        <link href="https://thedefiant.io/news/cefi/truth-social-cryptocom-announce-prediction-market"/>
-        <updated>2025-10-28T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Truth Predict will let users trade on elections, sports, and other events.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Institutions Want Bitcoin Yield — Threshold Is Building the Bridge]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/institutions-want-bitcoin-yield-threshold-is-building-the-bridge</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/institutions-want-bitcoin-yield-threshold-is-building-the-bridge"/>
-        <updated>2025-10-28T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Institutional Bitcoin treasuries are coming but they won’t touch DeFi unless the liquidity, custody, and risk models meet their standards. Threshold (TBTC) is building that bridge. In this interview, we break down how TBTC is competing with WBTC, why full decentralization alone isn’t enough, and why Threshold is now designing hybrid custody solutions to connect DeFi with the emerging wave of Bitcoin treasury companies (DATs). We also discuss adoption signals on Aave, real BTC collateral usage, governance structure, and the roadmap toward sustainably scaling Bitcoin finance beyond token incentives.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
