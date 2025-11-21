@@ -1,4 +1,1512 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "The Defiant",
+      "feedUrl": "https://thedefiant.io/feed/",
+      "siteUrl": "https://thedefiant.io",
+      "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
+          "author": "Squiffs",
+          "description": "The Bitcoin DeFi token is up 25% from its launch price.",
+          "link": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
+          "publishedOn": "2025-11-21T22:21:12.000Z",
+          "wordCount": 4725,
+          "title": "Build on Bitcoin Token Rallies on Coinbase Listing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
+          "author": "Jona Jaupi",
+          "description": "The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
+          "publishedOn": "2025-11-21T21:51:00.000Z",
+          "wordCount": 5224,
+          "title": "Michael Saylor Defends Strategy as MSCI Index Risk Looms",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mega-1-3-png-8aa2b3a8-7e3c-4f5a-925f-8ba2dd2f9602.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mega-1-3-png-8aa2b3a8-7e3c-4f5a-925f-8ba2dd2f9602.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows",
+          "author": "Denis Omelchenko",
+          "description": "Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows",
+          "publishedOn": "2025-11-21T18:37:35.000Z",
+          "wordCount": 5089,
+          "title": "NFT Lending TVL Nears All-Time Lows",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mega-1-2-png-e85b9097-2732-4a34-9e98-b958b14c9da3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mega-1-2-png-e85b9097-2732-4a34-9e98-b958b14c9da3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kalshi-usd1b-funding-usd11b-valution-report",
+          "author": "Denis Omelchenko",
+          "description": "The prediction market's reported raise was at a valuation of $11 billion, just days after reports that Polymarket is looking to raise funds at $12 billion.",
+          "link": "https://thedefiant.io/news/cefi/kalshi-usd1b-funding-usd11b-valution-report",
+          "publishedOn": "2025-11-21T18:01:46.000Z",
+          "wordCount": 4958,
+          "title": "Kalshi Goes Head to Head With Polymarket Following $1B Funding: Report",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b262c43b0e27e6f1c9efe1613f050dc4303cb9c5baab02d08c992fbaa495-8d48e658-ef82-404d-9f53-4379923c24bf.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b262c43b0e27e6f1c9efe1613f050dc4303cb9c5baab02d08c992fbaa495-8d48e658-ef82-404d-9f53-4379923c24bf.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector",
+          "author": "Jona Jaupi",
+          "description": "The deal brings the Vector team and real-time token tools into Coinbase’s DEX system.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector",
+          "publishedOn": "2025-11-21T16:10:39.000Z",
+          "wordCount": 5350,
+          "title": "Coinbase to Acquire Solana DEX Vector to Expand On-Chain Trading",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/efe43e9c991b2248246f759626c7fa9be4f86d5d721937da8b9f42b6129d-be647c8b-40f4-40d8-a2fa-d49c4458abc2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/efe43e9c991b2248246f759626c7fa9be4f86d5d721937da8b9f42b6129d-be647c8b-40f4-40d8-a2fa-d49c4458abc2.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-plunge-usd2b-liquidations-nov-21-2025",
+          "author": "Denis Omelchenko",
+          "description": "Bitcoin dropped sharply to $81,000, wiping out long positions, as ETF outflows intensified.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-plunge-usd2b-liquidations-nov-21-2025",
+          "publishedOn": "2025-11-21T14:18:16.000Z",
+          "wordCount": 5620,
+          "title": "Crypto Markets Face Brutal Reset Overnight as Liquidations Surpass $2B",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1e6a3a02a927b5e388642b1c1709ba992148fd0f926ca472264d5f13236f-fd72dd40-3232-4f96-9566-93c897383027.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1e6a3a02a927b5e388642b1c1709ba992148fd0f926ca472264d5f13236f-fd72dd40-3232-4f96-9566-93c897383027.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/megaeth-announces-usd250-million-pre-deposit-campaign",
+          "author": "Squiffs",
+          "description": "The limited-access deposit bridge will open on November 25.",
+          "link": "https://thedefiant.io/news/blockchains/megaeth-announces-usd250-million-pre-deposit-campaign",
+          "publishedOn": "2025-11-20T22:00:16.000Z",
+          "wordCount": 4669,
+          "title": "MegaETH Announces $250 Million Pre-Deposit Campaign",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mega-1-1-png-a1874776-287e-4ea2-bd8f-981421dbae2f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mega-1-1-png-a1874776-287e-4ea2-bd8f-981421dbae2f.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities",
+          "author": "Jona Jaupi",
+          "description": "The rollout spans four blockchains and 200 tokenized stocks.",
+          "link": "https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities",
+          "publishedOn": "2025-11-20T21:24:55.000Z",
+          "wordCount": 5027,
+          "title": "Dinari Integrates LayerZero to Offer Cross-Chain Access to Tokenized U.S. Equities",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dinari-1-1-png-f12d8382-7f00-41b1-8339-8d2ba9e98f4c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dinari-1-1-png-f12d8382-7f00-41b1-8339-8d2ba9e98f4c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month",
+          "author": "Squiffs",
+          "description": "October was Polymarket’s busiest month ever, with November on track to surpass those activity records.",
+          "link": "https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month",
+          "publishedOn": "2025-11-20T20:42:43.000Z",
+          "wordCount": 4787,
+          "title": "Polymarket Seeks $12 Billion Valuation After Record-Breaking Month",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/poly12b-1-png-2cf007cf-f393-4d4a-8a25-296dcda08db3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/poly12b-1-png-2cf007cf-f393-4d4a-8a25-296dcda08db3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/defi-cefi-loans-hit-new-record-in-q3-galaxy-digital-report",
+          "author": "Denis Omelchenko",
+          "description": "A new report from Galaxy Digital shows record borrowing reflects a mix of airdrops, new lending products, and crypto price gains.",
+          "link": "https://thedefiant.io/news/defi/defi-cefi-loans-hit-new-record-in-q3-galaxy-digital-report",
+          "publishedOn": "2025-11-20T20:23:31.000Z",
+          "wordCount": 5439,
+          "title": "DeFi Lending Hit New Record in Q3: Galaxy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/230bf5efa40dc87df15c2c2acde8bcc4dec2c4c94104145b1a3a5e172ee4-5dadf45e-b01b-49d9-8db5-54029cd176ef.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/230bf5efa40dc87df15c2c2acde8bcc4dec2c4c94104145b1a3a5e172ee4-5dadf45e-b01b-49d9-8db5-54029cd176ef.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc",
+          "author": "Jona Jaupi",
+          "description": "The bill was introduced by Rep. Warren Davidson (R‑Ohio).",
+          "link": "https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc",
+          "publishedOn": "2025-11-20T19:15:56.000Z",
+          "wordCount": 5002,
+          "title": "Bitcoin For America Act Would Allow Tax Payments in BTC",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btcusa-1-png-e5a0c1ff-f422-41b4-8173-6d1b3861ae7a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btcusa-1-png-e5a0c1ff-f422-41b4-8173-6d1b3861ae7a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report",
+          "author": "Denis Omelchenko",
+          "description": "Bitcoin is trading below $91,000, with most large-caps flat or down today, despite somewhat positive jobs data from the U.S.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report",
+          "publishedOn": "2025-11-20T15:30:23.000Z",
+          "wordCount": 5481,
+          "title": "Crypto Market Holds Steady as Traders Digest Delayed US Jobs Report",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bf62aa45364e322fe2a589fb441685421a13f146e17a17a77fb715aeac02-b567b4e4-6c52-4dae-baa6-873cf5a58425.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bf62aa45364e322fe2a589fb441685421a13f146e17a17a77fb715aeac02-b567b4e4-6c52-4dae-baa6-873cf5a58425.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol",
+          "author": "Jona Jaupi",
+          "description": "The deployment aims to connect tokenized funds with Plume’s RWA investors.",
+          "link": "https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol",
+          "publishedOn": "2025-11-20T15:00:00.000Z",
+          "wordCount": 5075,
+          "title": "Securitize to Launch Institutional Assets on Plume’s Nest Protocol",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/plume-1-png-b857e190-4410-4f01-860d-cd6049b625ad.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/plume-1-png-b857e190-4410-4f01-860d-cd6049b625ad.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score",
+          "author": "Denis Omelchenko",
+          "description": "The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.",
+          "link": "https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score",
+          "publishedOn": "2025-11-20T14:42:49.000Z",
+          "wordCount": 5743,
+          "title": "S&amp; P Ratings Gives Justin Sun-Linked TrueUSD Lowest Score",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/9c8e425420bc2a0e5b0f223839290769d64a2e2164b824d7cd240d4e2b1a-6ad0360b-c5f7-4706-8478-d0f04c20ae09.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/9c8e425420bc2a0e5b0f223839290769d64a2e2164b824d7cd240d4e2b1a-6ad0360b-c5f7-4706-8478-d0f04c20ae09.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust",
+          "author": "Squiffs",
+          "description": "The world’s largest asset manager is making preparations for a staked ETH ETF.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust",
+          "publishedOn": "2025-11-19T22:00:49.000Z",
+          "wordCount": 4641,
+          "title": "BlackRock Registers Staked Ethereum Trust",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/xreserve-1-2-png-af7f4750-9f88-4968-b771-e9a6d3a46726.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/xreserve-1-2-png-af7f4750-9f88-4968-b771-e9a6d3a46726.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
+          "author": "Jona Jaupi",
+          "description": "The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.",
+          "link": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
+          "publishedOn": "2025-11-19T17:55:39.000Z",
+          "wordCount": 5078,
+          "title": "Hyperliquid to Roll Out ‘Growth Mode’ to Supercharge New Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/xreserve-1-1-png-a669e19c-7e48-423e-a24f-e821f084b7d0.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/xreserve-1-1-png-a669e19c-7e48-423e-a24f-e821f084b7d0.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
+          "author": "Denis Omelchenko",
+          "description": "The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.",
+          "link": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
+          "publishedOn": "2025-11-19T16:38:38.000Z",
+          "wordCount": 4929,
+          "title": "Kraken Reveals Confidential IPO Filing After Fresh $800M Raise",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/c4c1131864acbf29e11a60842cd2ea6d0b0c6da19ac33dcf64e114584b98-f440e711-1d19-4002-9974-572b44ae55cc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/c4c1131864acbf29e11a60842cd2ea6d0b0c6da19ac33dcf64e114584b98-f440e711-1d19-4002-9974-572b44ae55cc.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k",
+          "author": "Denis Omelchenko",
+          "description": "Crypto market capitalization is down to $3.18 trillion, while selling pressure is elevated among short-term holders.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k",
+          "publishedOn": "2025-11-19T15:56:36.000Z",
+          "wordCount": 5337,
+          "title": "Bitcoin Holds $90K Level as Crypto Market Slumps",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fb3ac8c6bef691d42b6daba1ca5cec65a8a6185cebcf580b710023977739-f423841d-f1a9-4c28-88be-9831aa76d839.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fb3ac8c6bef691d42b6daba1ca5cec65a8a6185cebcf580b710023977739-f423841d-f1a9-4c28-88be-9831aa76d839.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
+          "author": "Jona Jaupi",
+          "description": "The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.",
+          "link": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
+          "publishedOn": "2025-11-18T22:28:53.000Z",
+          "wordCount": 5020,
+          "title": "Circle Debuts xReserve to Expand USDC Access Across Chains",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/xreserve-1-png-ca71f59b-1240-4afc-beb0-919955816454.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/xreserve-1-png-ca71f59b-1240-4afc-beb0-919955816454.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi",
+          "author": "Jona Jaupi",
+          "description": "The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.",
+          "link": "https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi",
+          "publishedOn": "2025-11-18T20:24:26.000Z",
+          "wordCount": 5197,
+          "title": "Paxos Labs and LayerZero Launch USDG0 to Expand Global Dollar Across DeFi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usdg-1-1-png-1daad492-c14f-4830-abd0-e63dd09b86e5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usdg-1-1-png-1daad492-c14f-4830-abd0-e63dd09b86e5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial",
+          "author": "Squiffs",
+          "description": "Senators Elizabeth Warren and Jack Reed allege the Trump family’s DeFi protocol is tied to malicious actors from North Korea and Russia.",
+          "link": "https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial",
+          "publishedOn": "2025-11-18T19:58:29.000Z",
+          "wordCount": 4921,
+          "title": "US Senators Call for Probe into World Liberty Financial",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-7-png-1bf740a4-e154-40ef-b33d-44e98e5fea48.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-7-png-1bf740a4-e154-40ef-b33d-44e98e5fea48.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/0xbow-raises-usd3-5-million-to-expand-privacy-pools",
+          "author": "Jona Jaupi",
+          "description": "The funding comes after a recent Ethereum integration and $6 million in transactions.",
+          "link": "https://thedefiant.io/news/defi/0xbow-raises-usd3-5-million-to-expand-privacy-pools",
+          "publishedOn": "2025-11-18T18:00:44.000Z",
+          "wordCount": 5040,
+          "title": "0xbow Raises $3.5 Million to Expand Privacy Pools",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-6-png-4fb29bf9-8a00-46d5-ad10-2fed2c7c54d8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-6-png-4fb29bf9-8a00-46d5-ad10-2fed2c7c54d8.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/ledger-draws-heat-as-pre-2018-zcash-holders-face-dropped-support",
+          "author": "Denis Omelchenko",
+          "description": "Some long-time holders of ZEC find themselves unable to withdraw their assets, as the privacy token rallies to multi-year highs.",
+          "link": "https://thedefiant.io/news/infrastructure/ledger-draws-heat-as-pre-2018-zcash-holders-face-dropped-support",
+          "publishedOn": "2025-11-18T17:52:02.000Z",
+          "wordCount": 5710,
+          "title": "Ledger Draws Heat as Pre-2018 Zcash Holders Face Dropped Support",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/824aab0363d885d495c4c5227f56a7de63f3f317d49c599dd621f65e4897-0960e4f9-62e9-4e21-9ff1-7d2343b6827e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/824aab0363d885d495c4c5227f56a7de63f3f317d49c599dd621f65e4897-0960e4f9-62e9-4e21-9ff1-7d2343b6827e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-declines-november-18-2025",
+          "author": "Denis Omelchenko",
+          "description": "Crypto market capitalization continues to decline as sentiment remains at extreme fear levels.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-declines-november-18-2025",
+          "publishedOn": "2025-11-18T15:58:18.000Z",
+          "wordCount": 5572,
+          "title": "Crypto Markets Decline as Bitcoin Profitability Under Pressure, Analysts Say",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/a4d6e762a45c5f7fd06804d7ebd34612887041d94feeb3f052101658a7e7-03f774f6-7fdf-4e5a-b24b-d6e6a8ba53f7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/a4d6e762a45c5f7fd06804d7ebd34612887041d94feeb3f052101658a7e7-03f774f6-7fdf-4e5a-b24b-d6e6a8ba53f7.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/nearly-20-of-americans-would-prefer-crypto-over-gift-cards-this-holiday-season-paypal",
+          "author": "Jona Jaupi",
+          "description": "A new survey finds that younger adults are leading crypto adoption for gifting and shopping.",
+          "link": "https://thedefiant.io/news/research-and-opinion/nearly-20-of-americans-would-prefer-crypto-over-gift-cards-this-holiday-season-paypal",
+          "publishedOn": "2025-11-18T14:00:00.000Z",
+          "wordCount": 5129,
+          "title": "Nearly 20% of Americans Would Prefer Crypto Over Gift Cards This Holiday Season: PayPal",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/gift-1-png-dc67698d-9e92-4ffe-8b39-d9fa3abbb4ed.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/gift-1-png-dc67698d-9e92-4ffe-8b39-d9fa3abbb4ed.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer",
+          "author": "Jona Jaupi",
+          "description": "The Ethereum Interop Layer aims to let users and developers interact with all L2 networks as if they were a single chain.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer",
+          "publishedOn": "2025-11-18T13:00:00.000Z",
+          "wordCount": 5300,
+          "title": "Ethereum Unveils New Technical Details about Interop Layer",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eil-1-png-0ec534c5-bce0-4d1c-9286-5eafba1a4623.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eil-1-png-0ec534c5-bce0-4d1c-9286-5eafba1a4623.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves",
+          "author": "Jona Jaupi",
+          "description": "The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.",
+          "link": "https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves",
+          "publishedOn": "2025-11-18T01:32:16.000Z",
+          "wordCount": 6013,
+          "title": "BNY’s New Fund Pushes for Safer Stablecoin Reserves",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pyyusd-1-1-png-5a6fe9b4-8f58-47b9-a81a-e4225d422da4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pyyusd-1-1-png-5a6fe9b4-8f58-47b9-a81a-e4225d422da4.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22",
+          "author": "Squiffs",
+          "description": "The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.",
+          "link": "https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22",
+          "publishedOn": "2025-11-17T21:47:44.000Z",
+          "wordCount": 4696,
+          "title": "PayPal Stablecoin Supply Jumps 22%",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pyyusd-1-png-eadb8396-ef5d-490c-9d97-3062b1ee51d8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pyyusd-1-png-eadb8396-ef5d-490c-9d97-3062b1ee51d8.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol",
+          "author": "Squiffs",
+          "description": "The protocol’s front end is expected to be released to the public in Q1 2026.",
+          "link": "https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol",
+          "publishedOn": "2025-11-17T18:08:09.000Z",
+          "wordCount": 4875,
+          "title": "1inch Launches Developer Access to Aqua Liquidity Protocol",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1inch-1-2-png-334ea086-3018-4781-bfa1-19bfa0e6be67.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1inch-1-2-png-334ea086-3018-4781-bfa1-19bfa0e6be67.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
+          "author": "Denis Omelchenko",
+          "description": "Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
+          "publishedOn": "2025-11-17T15:19:44.000Z",
+          "wordCount": 5701,
+          "title": "Bitcoin Starts the Week Below $95K as Market Sentiment Turns to Extreme Fear",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/64ca03092bbbb2d51726c23fa75279b781d9419db0fab0e1f1e6b0460db4-c47a980a-45ca-4243-8544-eee604e6191b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/64ca03092bbbb2d51726c23fa75279b781d9419db0fab0e1f1e6b0460db4-c47a980a-45ca-4243-8544-eee604e6191b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
+          "author": "Denis Omelchenko",
+          "description": "The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.",
+          "link": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
+          "publishedOn": "2025-11-17T13:59:53.000Z",
+          "wordCount": 5236,
+          "title": "Infura Expands Decentralized Infra Network to EigenLayer Following AWS Outage",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/69638cd241040e7ba4431e17ff3bf65f39b2126ac3578ce14748622da5be-913347de-d4f5-4777-8869-6eeff0143a79.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/69638cd241040e7ba4431e17ff3bf65f39b2126ac3578ce14748622da5be-913347de-d4f5-4777-8869-6eeff0143a79.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz",
+          "author": "Virginia Valenzuela",
+          "description": "In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of \"Do Your Own Research\" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz",
+          "publishedOn": "2025-11-14T22:26:00.000Z",
+          "wordCount": 5281,
+          "title": "​​Is DYOR Dead? Building a Safer Web3 with Alex Katz",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/image-png-196ca6f0-0992-434c-b872-c11becdf3209.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/image-png-196ca6f0-0992-434c-b872-c11becdf3209.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs",
+          "author": "Squiffs",
+          "description": "Despite the crypto market’s weakness, STRK is up more than 20% today.",
+          "link": "https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs",
+          "publishedOn": "2025-11-14T21:42:03.000Z",
+          "wordCount": 5009,
+          "title": "Starknet Token Outperforms as TVL Climbs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/strk-1-png-e3c45e26-6ce8-4527-aa79-7453a4c9d01e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/strk-1-png-e3c45e26-6ce8-4527-aa79-7453a4c9d01e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows",
+          "author": "Jona Jaupi",
+          "description": "Over $1 billion in leveraged positions were also wiped out in the past 24 hours.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows",
+          "publishedOn": "2025-11-14T21:19:12.000Z",
+          "wordCount": 5336,
+          "title": "Bitcoin Drops to $94,000 Following Second-Largest Daily ETF Outflows",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/rekt-1-3-png-5a7b3be5-3936-4093-920b-b7b2f9db1d65.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/rekt-1-3-png-5a7b3be5-3936-4093-920b-b7b2f9db1d65.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan",
+          "author": "Jona Jaupi",
+          "description": "The company also announced a new AI smart contract feature to facilitate global B2B trade.",
+          "link": "https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan",
+          "publishedOn": "2025-11-14T19:48:17.000Z",
+          "wordCount": 5157,
+          "title": "Alibaba Reveals Plans for Tokenized Fiat Payments with JPMorgan",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b3cd65f276dcabaefec9eafb38bcad524d5229ec1b6fa261e5e0e3c2e0a3-1426b6b9-6d37-42c0-9cf5-86dfe71fdb45.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b3cd65f276dcabaefec9eafb38bcad524d5229ec1b6fa261e5e0e3c2e0a3-1426b6b9-6d37-42c0-9cf5-86dfe71fdb45.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain",
+          "author": "Jona Jaupi",
+          "description": "Traders can also now use the tokenized U.S. dollar fund as collateral on Binance.",
+          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain",
+          "publishedOn": "2025-11-14T18:06:54.000Z",
+          "wordCount": 4840,
+          "title": "BlackRock’s BUIDL Fund Expands to BNB Chain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/buidl-1-png-c08c789f-502a-4013-9632-6f12b4025178.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/buidl-1-png-c08c789f-502a-4013-9632-6f12b4025178.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
+          "author": "Squiffs",
+          "description": "TradeXYZ, Felix, and Ventuals all released new HIP-3 markets on Hyperliquid today, including tokenized NVDA, TSLA, and SPACEX.",
+          "link": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
+          "publishedOn": "2025-11-14T01:38:29.000Z",
+          "wordCount": 5287,
+          "title": "Tokenized Equity Market on Hyperliquid Heats Up",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hip3-1-png-5a62315a-88bb-4f1b-a5f5-c35641bc1823.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hip3-1-png-5a62315a-88bb-4f1b-a5f5-c35641bc1823.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump",
+          "author": "Jona Jaupi",
+          "description": "The persistent market weakness comes amid the U.S. government reopening and lingering inflation concerns.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump",
+          "publishedOn": "2025-11-13T20:58:01.000Z",
+          "wordCount": 5277,
+          "title": "Bitcoin Dips Below $98,000 Amid Global Market Slump",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc98-1-png-c6656047-f271-45fc-8574-79359c5b30a2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc98-1-png-c6656047-f271-45fc-8574-79359c5b30a2.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq",
+          "author": "Jona Jaupi",
+          "description": "Canary Capital’s XRPC ETF marks a major milestone for Ripple.",
+          "link": "https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq",
+          "publishedOn": "2025-11-13T18:06:58.000Z",
+          "wordCount": 5051,
+          "title": "XRP Surges as First US Spot ETF Debuts on Nasdaq",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aztec-1-1-png-d0621053-4c1e-40ad-90ce-1d5d097ae6e9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aztec-1-1-png-d0621053-4c1e-40ad-90ce-1d5d097ae6e9.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume",
+          "author": "Denis Omelchenko",
+          "description": "The tokenized stock platform supports Ethereum and other networks, but the majority of capital is concentrated on Solana.",
+          "link": "https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume",
+          "publishedOn": "2025-11-13T18:03:49.000Z",
+          "wordCount": 5011,
+          "title": "Kraken’s xStocks Hit $10B in Total Trading Volume",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dbb403bf64402d538fac7df4c76e932129ad1d0812a47e6bd315d820070e-1d907efb-dd2d-41cc-9265-1d1270d13d27.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dbb403bf64402d538fac7df4c76e932129ad1d0812a47e6bd315d820070e-1d907efb-dd2d-41cc-9265-1d1270d13d27.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat",
+          "author": "Denis Omelchenko",
+          "description": "The new Winklevoss-backed ZEC DAT aims to hold at least 5% of the total Zcash supply.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat",
+          "publishedOn": "2025-11-13T15:57:05.000Z",
+          "wordCount": 5394,
+          "title": "ZEC Jumps as Winklevoss‑Backed Cypherpunk Reveals $100M Zcash Treasury",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1fb5f9893a78ed62094867e88074f471012b0037c346e98c5a75b5b39513-1f8a581c-d507-4669-9c30-bcfaaca5459c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1fb5f9893a78ed62094867e88074f471012b0037c346e98c5a75b5b39513-1f8a581c-d507-4669-9c30-bcfaaca5459c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction",
+          "author": "Jona Jaupi",
+          "description": "The privacy-focused L2 is aiming to make token launches fairer.",
+          "link": "https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction",
+          "publishedOn": "2025-11-13T14:00:00.000Z",
+          "wordCount": 5972,
+          "title": "Aztec Network Launches First Token Sale Using Uniswap’s Continuous Clearing Auction",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aztec-1-png-e0f4cc62-f8e1-4f70-8156-57ae795df500.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aztec-1-png-e0f4cc62-f8e1-4f70-8156-57ae795df500.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
+          "author": "Denis Omelchenko",
+          "description": "The payments app will support multiple stablecoins and networks at launch.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
+          "publishedOn": "2025-11-13T11:16:06.000Z",
+          "wordCount": 4934,
+          "title": "Jack Dorsey’s Cash App Adds Support for Stablecoins in First Expansion Beyond Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/5f3d26531e3bd4400bcb867f11ee449765f4fbbca738eacf69a8b9a7fcae-1cf53c48-dd67-4a70-9608-02a5858ee6a0.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/5f3d26531e3bd4400bcb867f11ee449765f4fbbca738eacf69a8b9a7fcae-1cf53c48-dd67-4a70-9608-02a5858ee6a0.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault",
+          "author": "Squiffs",
+          "description": "The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.",
+          "link": "https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault",
+          "publishedOn": "2025-11-13T01:38:23.000Z",
+          "wordCount": 4863,
+          "title": "Large POPCAT Trades Result in $5 Million Loss for Hyperliquid Vault",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hypepopcat-1-png-02a157a6-da54-4234-9d1a-bd97d1ff8a80.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hypepopcat-1-png-02a157a6-da54-4234-9d1a-bd97d1ff8a80.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain",
+          "author": "Camila Russo",
+          "description": "In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain",
+          "publishedOn": "2025-11-12T22:23:00.000Z",
+          "wordCount": 4762,
+          "title": "Avalanche DeFi: the Journey to Bring Institutions Onchain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/image3-png-872e6d5d-91f1-449e-a8ec-d1e71a45074a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/image3-png-872e6d5d-91f1-449e-a8ec-d1e71a45074a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking",
+          "author": "Denis Omelchenko",
+          "description": "Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.",
+          "link": "https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking",
+          "publishedOn": "2025-11-12T21:18:21.000Z",
+          "wordCount": 4939,
+          "title": "Flare TVL Nears Record High as Firelight Teases XRP Liquid Staking",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/flare-1-png-6c0b39cb-e207-466e-893d-8d76f621883b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/flare-1-png-6c0b39cb-e207-466e-893d-8d76f621883b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion",
+          "author": "Squiffs",
+          "description": "The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.",
+          "link": "https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion",
+          "publishedOn": "2025-11-12T20:59:27.000Z",
+          "wordCount": 4904,
+          "title": "SKY Surges 14% as Savings TVL Passes $4 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/skysavings-1-png-642911d8-e6b5-4269-b608-efd5f7411236.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/skysavings-1-png-642911d8-e6b5-4269-b608-efd5f7411236.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero",
+          "author": "Denis Omelchenko",
+          "description": "The platform will expand to Ethereum mainnet and Circle’s Arc and is set to go live in Q2 2026.",
+          "link": "https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero",
+          "publishedOn": "2025-11-12T19:49:26.000Z",
+          "wordCount": 5329,
+          "title": "Dromos Labs Merges Aerodrome and Velodrome into New DEX Aero",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ea3d389dea09c1f7807855e41b7428852588d07f0a6c8a7a8759dfca8100-d3c095bf-3cef-4a76-b372-2f95ebb68f49.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ea3d389dea09c1f7807855e41b7428852588d07f0a6c8a7a8759dfca8100-d3c095bf-3cef-4a76-b372-2f95ebb68f49.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-drop-as-investors-eye-house-vote-and-inflation-data",
+          "author": "Jona Jaupi",
+          "description": "BTC and ETH are trading relatively flat while altcoins are mixed.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-drop-as-investors-eye-house-vote-and-inflation-data",
+          "publishedOn": "2025-11-12T17:55:08.000Z",
+          "wordCount": 5114,
+          "title": "Crypto Markets Drop as Investors Eye House Vote and Inflation Data",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/downbad-1-1-png-9161ffe1-5e2f-4b37-b805-c6865830e937.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/downbad-1-1-png-9161ffe1-5e2f-4b37-b805-c6865830e937.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/sofi-relaunches-crypto-services-citing-updated-occ-guidance",
+          "author": "Denis Omelchenko",
+          "description": "The neobank says the launch of SoFi Crypto is thanks to updated regulatory guidance from this spring, and is just the start of its broader crypto strategy.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/sofi-relaunches-crypto-services-citing-updated-occ-guidance",
+          "publishedOn": "2025-11-12T15:01:01.000Z",
+          "wordCount": 5271,
+          "title": "SoFi Relaunches Crypto Trading Following Regulatory Greenlight",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/a8b7465933cc31bc85d9cb0ba2a5a4b12ce23ab1147182b2cc03662cd126-ba9402f6-f654-499b-ad07-5caadb334f8a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/a8b7465933cc31bc85d9cb0ba2a5a4b12ce23ab1147182b2cc03662cd126-ba9402f6-f654-499b-ad07-5caadb334f8a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
+          "author": "Denis Omelchenko",
+          "description": "The funding round, led by Founders Fund and Ribbit Capital, values the company at about $1.5 billion.",
+          "link": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
+          "publishedOn": "2025-11-12T13:47:18.000Z",
+          "wordCount": 5647,
+          "title": "Lighter Rises to Top Perp DEX by Volume, Reveals $68M Raise",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/4f90fd9f33b4f54049566aee22400f04b90150213881de6118dd2279a2ba-61f2e58f-f8f1-44ee-8f23-6c065293b202.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/4f90fd9f33b4f54049566aee22400f04b90150213881de6118dd2279a2ba-61f2e58f-f8f1-44ee-8f23-6c065293b202.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
+          "author": "Denis Omelchenko",
+          "description": "Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
+          "publishedOn": "2025-11-11T19:24:26.000Z",
+          "wordCount": 6203,
+          "title": "Ethereum Sees First Sustained Validator Exit Since Proof-of-Stake Shift",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/08422e41d14bf6ba2a0f06fa04b178ec2e15c0d09f1d10ac151a6ef8a424-01bfab87-dd47-4c42-9f78-2b9a9b53a3aa.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/08422e41d14bf6ba2a0f06fa04b178ec2e15c0d09f1d10ac151a6ef8a424-01bfab87-dd47-4c42-9f78-2b9a9b53a3aa.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision",
+          "author": "Denis Omelchenko",
+          "description": "Crypto market capitalization fell 2% today to $3.62 trillion, with most major assets showing mild losses.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision",
+          "publishedOn": "2025-11-11T14:38:31.000Z",
+          "wordCount": 5722,
+          "title": "Bitcoin Holds $104,000 as Government Shutdown Deal Heads to House Vote",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/19462edbe92f8511282dcc2aa13055af44356ef21a461867e3505e17e5ad-8bbd3586-c66f-4fdf-93d2-96cb71d005a3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/19462edbe92f8511282dcc2aa13055af44356ef21a461867e3505e17e5ad-8bbd3586-c66f-4fdf-93d2-96cb71d005a3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi",
+          "author": "Denis Omelchenko",
+          "description": "Threshold Network’s tBTC bridge upgrade opens the door for over $400 billion in institutional Bitcoin to flow into DeFi.",
+          "link": "https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi",
+          "publishedOn": "2025-11-11T09:00:00.000Z",
+          "wordCount": 5196,
+          "title": "Threshold Network Upgrades tBTC Bridge to Link Institutional Bitcoin with DeFi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/threshold-1-png-04e7f8d5-6c9f-42a2-b9b4-3c5b93578a63.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/threshold-1-png-04e7f8d5-6c9f-42a2-b9b4-3c5b93578a63.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum",
+          "author": "Jona Jaupi",
+          "description": "Despite the cautious outlook, most investors still plan to maintain or increase crypto holdings.",
+          "link": "https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum",
+          "publishedOn": "2025-11-11T07:01:00.000Z",
+          "wordCount": 5072,
+          "title": "Institutional Sentiment is Turning Bearish on Crypto: Sygnum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/instibear-1-png-66945c31-cd8f-442c-9202-423aa25e435f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/instibear-1-png-66945c31-cd8f-442c-9202-423aa25e435f.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/monad-faces-community-backlash-after-unveiling-tokenomics",
+          "author": "Squiffs",
+          "description": "The sale structure and tokenomics are raising some eyebrows, as onlookers slam Monad for claiming to be “community-focused.”",
+          "link": "https://thedefiant.io/news/blockchains/monad-faces-community-backlash-after-unveiling-tokenomics",
+          "publishedOn": "2025-11-10T23:25:17.000Z",
+          "wordCount": 5185,
+          "title": "Monad Faces Community Backlash After Unveiling Tokenomics",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/monad-1-png-cd7f63c2-ce2e-49cb-8a9e-7c7de5ae7c7e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/monad-1-png-cd7f63c2-ce2e-49cb-8a9e-7c7de5ae7c7e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation",
+          "author": "Squiffs",
+          "description": "Uniswap’s elusive fee switch may finally be getting flipped on as the Uniswap Foundation reveals a ‘UNIfication’ plan.",
+          "link": "https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation",
+          "publishedOn": "2025-11-10T21:02:59.000Z",
+          "wordCount": 4876,
+          "title": "UNI Soars as Uniswap Labs and Foundation Propose Fee Switch Activation",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/uni-1-png-18fe562e-d6d7-438a-a089-9c676829477e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/uni-1-png-18fe562e-d6d7-438a-a089-9c676829477e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/trump-tokens-outperform-after-us-president-teases-tariff-dividends",
+          "author": "Squiffs",
+          "description": "WLFI and TRUMP are leading the altcoin market today, surging 24% and 20% respectively.",
+          "link": "https://thedefiant.io/news/people/trump-tokens-outperform-after-us-president-teases-tariff-dividends",
+          "publishedOn": "2025-11-10T20:36:38.000Z",
+          "wordCount": 5011,
+          "title": "Trump Tokens Outperform After US President Teases ‘Tariff Dividends’",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/2ec6d2daa9bcae29bd8713676a86347cea7599a1cabb88292c07b5b772f1-9f71f0dd-adde-4f96-8866-b08ef1851142.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/2ec6d2daa9bcae29bd8713676a86347cea7599a1cabb88292c07b5b772f1-9f71f0dd-adde-4f96-8866-b08ef1851142.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
+          "author": "Jona Jaupi",
+          "description": "Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.",
+          "link": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
+          "publishedOn": "2025-11-10T20:04:57.000Z",
+          "wordCount": 4931,
+          "title": "XPL Rallies After Plasma Reveals Collaboration with Daylight Energy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/xpldaylight-1-png-e44ea62a-50e2-4987-afd3-4c6950dc2227.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/xpldaylight-1-png-e44ea62a-50e2-4987-afd3-4c6950dc2227.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets",
+          "author": "Jona Jaupi",
+          "description": "The gains also came after Trump proposed a $2,000 payout to Americans.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets",
+          "publishedOn": "2025-11-10T18:17:21.000Z",
+          "wordCount": 5162,
+          "title": "Bitcoin Hovers Around $105,000 as Government Shutdown Progress Lifts Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/8fe68d5fc4a508a2b54b06b8bd05f1a1d351067ec8471e8e63fbf75f3245-90d108d9-c462-4b15-8beb-3ebdcc054e10.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/8fe68d5fc4a508a2b54b06b8bd05f1a1d351067ec8471e8e63fbf75f3245-90d108d9-c462-4b15-8beb-3ebdcc054e10.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto",
+          "author": "Chris Storaker",
+          "description": "In this conversation, May Zabaneh breaks down PayPal’s move into stablecoins with PYUSD and why it matters for financial inclusion. We explore how PYUSD could lower costs for cross-border payments, deliver faster settlement, and plug directly into PayPal’s existing ecosystem. The discussion covers why PayPal built a proprietary stablecoin, early adoption and real-world use cases, and plans for international expansion. We also examine the role merchants play in crypto acceptance, how DeFi and traditional finance are converging, and why interoperability will be essential in the next phase of digital payments.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto",
+          "publishedOn": "2025-11-07T22:16:00.000Z",
+          "wordCount": 5244,
+          "title": "Inside the PYUSD's takeover of PayPal with May Zabaneh, VP Crypto",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/maxresdefault-png-6cf9561a-4cc7-401c-9da2-9db9865db17d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/maxresdefault-png-6cf9561a-4cc7-401c-9da2-9db9865db17d.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ethena-season-4-rewards-go-live",
+          "author": "Squiffs",
+          "description": "Users were left waiting for over a month after the synthetic dollar protocol’s Season 4 concluded in September.",
+          "link": "https://thedefiant.io/news/defi/ethena-season-4-rewards-go-live",
+          "publishedOn": "2025-11-07T20:59:24.000Z",
+          "wordCount": 4755,
+          "title": "Ethena Season 4 Rewards Go Live",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/10c50e32ad3a43b75872f219ac83dec0b6fc2a321d6b2c99bb42f92336da-9391d1c8-43e0-488e-8318-d4cc57894b0a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/10c50e32ad3a43b75872f219ac83dec0b6fc2a321d6b2c99bb42f92336da-9391d1c8-43e0-488e-8318-d4cc57894b0a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/layerzero-token-surges-after-usd10-million-buyback",
+          "author": "Jona Jaupi",
+          "description": "The omnichain protocol’s ZRO buyback highlights a broader trend of crypto projects returning revenue to tokenholders.",
+          "link": "https://thedefiant.io/news/defi/layerzero-token-surges-after-usd10-million-buyback",
+          "publishedOn": "2025-11-07T20:45:06.000Z",
+          "wordCount": 4990,
+          "title": "LayerZero Token Surges After $10 Million Buyback",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fd7b4d75f096f54826ada1d625a9804cbbcdbb135711017c8264ddb67b58-f48f2b44-33cc-496a-8cba-dc0d76548a21.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fd7b4d75f096f54826ada1d625a9804cbbcdbb135711017c8264ddb67b58-f48f2b44-33cc-496a-8cba-dc0d76548a21.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026",
+          "author": "Denis Omelchenko",
+          "description": "The firm is selling IMU tokens for about $0.013 and will offer 3.7% of the total supply.",
+          "link": "https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026",
+          "publishedOn": "2025-11-07T19:00:41.000Z",
+          "wordCount": 5358,
+          "title": "Web3 Bug Bounty Firm Immunefi Plans ICO, Targets TGE in February 2026",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/c195f8bfcef472778c6f21b63dd303c6d86121af8d6a6b36a1d718d96bd2-4b618314-889e-40f3-ad51-537ba019bf28.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/c195f8bfcef472778c6f21b63dd303c6d86121af8d6a6b36a1d718d96bd2-4b618314-889e-40f3-ad51-537ba019bf28.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/privacy-coins-extend-rally-as-zcash-soars-above-usd700",
+          "author": "Jona Jaupi",
+          "description": "ZEC is up 35% on the day, and has gained a whopping 1,700% over the past three months.",
+          "link": "https://thedefiant.io/news/markets/privacy-coins-extend-rally-as-zcash-soars-above-usd700",
+          "publishedOn": "2025-11-07T18:42:19.000Z",
+          "wordCount": 5349,
+          "title": "Privacy Coins Extend Rally as Zcash Soars Above $700",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ad9216d28c0f689f08e1e99f79361a3bf5c3c4187ef9bc0b2cb837697799-a8ecdac8-22bc-40dc-9075-29c3a0618be7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ad9216d28c0f689f08e1e99f79361a3bf5c3c4187ef9bc0b2cb837697799-a8ecdac8-22bc-40dc-9075-29c3a0618be7.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd101-000-as-stocks-selloff-deepens",
+          "author": "Denis Omelchenko",
+          "description": "Crypto markets are set to close the week in the red, with total crypto capitalization at $3.49 trillion.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd101-000-as-stocks-selloff-deepens",
+          "publishedOn": "2025-11-07T17:26:32.000Z",
+          "wordCount": 5072,
+          "title": "Bitcoin Hovers Around $101,000 as Stocks Selloff Deepens",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1f8b1fb685366fb6870bb9144bb727acb288c863ddfe8c8135bfd108a7bc-5ca44d4c-49e6-4841-8124-650ab1dbcc40.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1f8b1fb685366fb6870bb9144bb727acb288c863ddfe8c8135bfd108a7bc-5ca44d4c-49e6-4841-8124-650ab1dbcc40.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi",
+          "author": "Denis Omelchenko",
+          "description": "The search giant says users can soon ask questions about future market events and “harness the wisdom of the crowds.”",
+          "link": "https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi",
+          "publishedOn": "2025-11-07T17:01:50.000Z",
+          "wordCount": 4830,
+          "title": "Google Finance to Add Support for Prediction Markets Polymarket, Kalshi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/4f5595676f9ae21f5b62fbe6e850ee0662be2a377abfdf4562cd2ba6fe3a-9b44327e-1cc1-4c95-8247-3fed6941ec5a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/4f5595676f9ae21f5b62fbe6e850ee0662be2a377abfdf4562cd2ba6fe3a-9b44327e-1cc1-4c95-8247-3fed6941ec5a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
+          "author": "Squiffs",
+          "description": "Users faced technical difficulties due to the Hourglass website crashing.",
+          "link": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
+          "publishedOn": "2025-11-07T02:17:29.000Z",
+          "wordCount": 4834,
+          "title": "Stable Pauses Deposits After Another Pre-Deposit Vault Mishap",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-fc57b937-6ef8-41a5-81c7-08bd8863c93c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-fc57b937-6ef8-41a5-81c7-08bd8863c93c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion",
+          "author": "Jona Jaupi",
+          "description": "TokenTerminal research shows SOL trades at 2.95x ecosystem TVL, down from 14x a year ago.",
+          "link": "https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion",
+          "publishedOn": "2025-11-06T21:42:36.000Z",
+          "wordCount": 5017,
+          "title": "Solana Ecosystem TVL Grows to $35 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/2dff52fe66ffb4d92c64d6c49d2ab444100a489efd83c9ed247ed913dfa9-3ca6c095-3b70-4cfb-b8b3-15f00c5624c8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/2dff52fe66ffb4d92c64d6c49d2ab444100a489efd83c9ed247ed913dfa9-3ca6c095-3b70-4cfb-b8b3-15f00c5624c8.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
+          "author": "Denis Omelchenko",
+          "description": "The DeFi lending protocol had paused withdrawals for three stablecoin markets after risk manager Gauntlet flagged a liquidity squeeze in Elixir’s deUSD token.",
+          "link": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
+          "publishedOn": "2025-11-06T21:41:43.000Z",
+          "wordCount": 5810,
+          "title": "Compound Resumes Withdrawals from USDC, USDS Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/37c6470e972a62fcb039d3e33e39cbb3b783cc606e898f71ed484342a528-8a8114dc-ced3-4756-ac64-a7a46622c42a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/37c6470e972a62fcb039d3e33e39cbb3b783cc606e898f71ed484342a528-8a8114dc-ced3-4756-ac64-a7a46622c42a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/art-basel-unveils-zero-10-digital-art-platform",
+          "author": "Squiffs",
+          "description": "The platform is supported by Opensea and will debut in Miami before heading overseas next year.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/art-basel-unveils-zero-10-digital-art-platform",
+          "publishedOn": "2025-11-06T21:35:41.000Z",
+          "wordCount": 5027,
+          "title": "Art Basel Unveils ‘Zero 10’ Digital Art Platform",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/11afbbf05deac7659278ea288b738fcf6e4aaee23ee3af23f3a4ee655d90-7d02b2b2-07ac-41a0-9ffe-60d6371057e9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/11afbbf05deac7659278ea288b738fcf6e4aaee23ee3af23f3a4ee655d90-7d02b2b2-07ac-41a0-9ffe-60d6371057e9.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund",
+          "author": "Jona Jaupi",
+          "description": "The move comes as institutional interest in tokenized assets continues to grow.",
+          "link": "https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund",
+          "publishedOn": "2025-11-06T19:43:33.000Z",
+          "wordCount": 5033,
+          "title": "Aave’s Horizon RWA Market Nears $540 Million, Adds VanEck Treasury Fund",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/17aea2c88cb6ee730c3d7b13decab55c2870b15dfd0f2856cb3ae59e7986-426f34d0-8ae2-471e-af80-52a8e9aea2c1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/17aea2c88cb6ee730c3d7b13decab55c2870b15dfd0f2856cb3ae59e7986-426f34d0-8ae2-471e-af80-52a8e9aea2c1.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split",
+          "author": "Squiffs",
+          "description": "Some investors are left questioning their allocations, or lack thereof, to the highly oversubscribed MEGA ICO.",
+          "link": "https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split",
+          "publishedOn": "2025-11-06T18:29:22.000Z",
+          "wordCount": 5091,
+          "title": "MegaETH ICO Allocations Leave Community Split",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/megaico-1-1-png-eda4efe0-f062-4e8d-a95d-a1bf360a5f1e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/megaico-1-1-png-eda4efe0-f062-4e8d-a95d-a1bf360a5f1e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble",
+          "author": "Denis Omelchenko",
+          "description": "Stream Finance blew up just weeks after some DeFi insiders spotted its sketchy, trust-me-bro strategies.",
+          "link": "https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble",
+          "publishedOn": "2025-11-06T16:51:37.000Z",
+          "wordCount": 7356,
+          "title": "How Stream Finance’s Collapse Exposed DeFi’s Looping Yield Bubble",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/f97e5fee1631c8c650cea7b0cd6080091d09360183e25cc7781bd75624dc-0c0dbfc4-23bb-4d1c-868f-ddf2cf8c14e5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/f97e5fee1631c8c650cea7b0cd6080091d09360183e25cc7781bd75624dc-0c0dbfc4-23bb-4d1c-868f-ddf2cf8c14e5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
+          "author": "Denis Omelchenko",
+          "description": "Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
+          "publishedOn": "2025-11-06T15:26:05.000Z",
+          "wordCount": 5286,
+          "title": "BTC Holds Out Above $102,000 as Markets Trade Flat",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/07f4386c7f0f5f6a9ead18dcac0dc46bff132814f276d03a7394bc0e712b-d399a02a-6b91-4501-9b74-51b5cd1d3d63.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/07f4386c7f0f5f6a9ead18dcac0dc46bff132814f276d03a7394bc0e712b-d399a02a-6b91-4501-9b74-51b5cd1d3d63.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split",
+          "author": "Squiffs",
+          "description": "If passed, HIP-5 would establish a second Hyperliquid assistance fund to bootstrap and support ecosystem tokens beyond HYPE.",
+          "link": "https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split",
+          "publishedOn": "2025-11-05T23:51:57.000Z",
+          "wordCount": 4928,
+          "title": "Controversial Hyperliquid HIP-5 Proposal Leaves Community Split",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-5-png-36c684af-8754-4771-b82b-9348b43e8410.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-5-png-36c684af-8754-4771-b82b-9348b43e8410.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
+          "author": "Jona Jaupi",
+          "description": "The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.",
+          "link": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
+          "publishedOn": "2025-11-05T18:56:52.000Z",
+          "wordCount": 5079,
+          "title": "Seven Ethereum Protocol Teams Form Alliance to Engage on Crypto Policy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-4-png-21cad65c-5091-4614-8fc5-8f5726523d0c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-4-png-21cad65c-5091-4614-8fc5-8f5726523d0c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
+          "author": "Jona Jaupi",
+          "description": "The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.",
+          "link": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
+          "publishedOn": "2025-11-05T18:13:04.000Z",
+          "wordCount": 5311,
+          "title": "Ripple Partners with Mastercard, WebBank, and Gemini to Test Stablecoin Card Settlements",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dinero-1-png-1e8f5c09-abb0-4ce2-8dc3-1d2d9593a6fc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dinero-1-png-1e8f5c09-abb0-4ce2-8dc3-1d2d9593a6fc.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/dwf-labs-exploited-for-usd44m-in-2022-hack-report",
+          "author": "Jona Jaupi",
+          "description": "The alleged breach was reported this week by a blockchain investigator, but remains unconfirmed by DWF Labs.",
+          "link": "https://thedefiant.io/news/hacks/dwf-labs-exploited-for-usd44m-in-2022-hack-report",
+          "publishedOn": "2025-11-05T16:04:00.000Z",
+          "wordCount": 5378,
+          "title": "DWF Labs ‘Likely’ Exploited for $44M in 2022 Hack Linked to North Korea: Report",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-11-05t160150-887-png-80a184dc-084c-46e3-beb9-fafbbce65c88.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-11-05t160150-887-png-80a184dc-084c-46e3-beb9-fafbbce65c88.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/btc-faces-key-usd99k-level-market-decline-continues",
+          "author": "Denis Omelchenko",
+          "description": "Total market cap is slightly in the red today while large-caps are mostly flat or down.",
+          "link": "https://thedefiant.io/news/markets/btc-faces-key-usd99k-level-market-decline-continues",
+          "publishedOn": "2025-11-05T15:24:44.000Z",
+          "wordCount": 5546,
+          "title": "BTC Tests Key Support at $99K as Long-Term Holder Selling Continues",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-11-05t152426-922-png-9fbfc5cf-e531-4ac6-9869-6cce862f3997.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-11-05t152426-922-png-9fbfc5cf-e531-4ac6-9869-6cce862f3997.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/privacy-coin-rally-continues-as-dash-surges-150",
+          "author": "Squiffs",
+          "description": "The DASH token is following in Zcash’s footsteps and is up 200% over the last month.",
+          "link": "https://thedefiant.io/news/markets/privacy-coin-rally-continues-as-dash-surges-150",
+          "publishedOn": "2025-11-04T23:26:23.000Z",
+          "wordCount": 4750,
+          "title": "Privacy Coin Rally Continues as DASH Surges 150%",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-3-png-ee9f9a53-3a00-457f-b29c-58917b2779cb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-3-png-ee9f9a53-3a00-457f-b29c-58917b2779cb.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss",
+          "author": "Squiffs",
+          "description": "Staked Stream USD (xUSD) is trading at less than 30 cents on the dollar amid concerns about the protocol's solvency.",
+          "link": "https://thedefiant.io/news/defi/contagion-fears-loom-as-stream-finance-discloses-usd93-million-loss",
+          "publishedOn": "2025-11-04T19:42:54.000Z",
+          "wordCount": 5311,
+          "title": "Contagion Fears Loom as Stream Finance Discloses $93 Million Loss",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stream-1-png-33a65ac6-50c9-41fc-95b2-82798ff27ed5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stream-1-png-33a65ac6-50c9-41fc-95b2-82798ff27ed5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/one-year-since-apechain-launch",
+          "author": "Denis Omelchenko",
+          "description": "Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.",
+          "link": "https://thedefiant.io/news/blockchains/one-year-since-apechain-launch",
+          "publishedOn": "2025-11-04T18:23:13.000Z",
+          "wordCount": 7179,
+          "title": "One Year On: Inside ApeChain’s Brief Rise and Slow Fall",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/e7ac3258588d1384013287001aee53a58252c5ad4547c28a6d6373132650-4162f096-8c00-456a-9ac0-1cb057ea34ac.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/e7ac3258588d1384013287001aee53a58252c5ad4547c28a6d6373132650-4162f096-8c00-456a-9ac0-1cb057ea34ac.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-breaches-10-10-low-as-it-approaches-usd100-000",
+          "author": "Jona Jaupi",
+          "description": "Major digital assets extended weekly losses as traders weighed the impact of potential limits on Trump’s trade powers.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-breaches-10-10-low-as-it-approaches-usd100-000",
+          "publishedOn": "2025-11-04T17:33:45.000Z",
+          "wordCount": 5410,
+          "title": "Bitcoin Breaches 10/10 Low as It Approaches $100,000",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aavebuybacks-1-2-png-88d3fa1d-37e1-415f-bd82-7e4abd4bea91.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-2-png-88d3fa1d-37e1-415f-bd82-7e4abd4bea91.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
+          "author": "Squiffs",
+          "description": "The move would see ZKsync implement a buyback and burn mechanism for ZK tokens",
+          "link": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
+          "publishedOn": "2025-11-04T16:02:53.000Z",
+          "wordCount": 5042,
+          "title": "ZKsync Proposes Utility and Revenue Focused Tokenomics Shift",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1f47511045b9d5f8556fb23ec129d6e6646c8f4303ea4b9e4438d00342a3-c33cc399-a236-47ef-83d3-e60946405481.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1f47511045b9d5f8556fb23ec129d6e6646c8f4303ea4b9e4438d00342a3-c33cc399-a236-47ef-83d3-e60946405481.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
+          "author": "Jona Jaupi",
+          "description": "The largest DeFi lending protocol will continue to use revenue to repurchase AAVE tokens.",
+          "link": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
+          "publishedOn": "2025-11-04T01:54:11.000Z",
+          "wordCount": 5119,
+          "title": "Aave DAO Makes $50 Million Annual Token Buybacks Permanent",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
+          "author": "Squiffs",
+          "description": "Both leading prediction markets combined did more volume in October than Polymarket did in its first four years.",
+          "link": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
+          "publishedOn": "2025-11-03T21:19:21.000Z",
+          "wordCount": 5071,
+          "title": "Sports Betting Pushes Kalshi and Polymarket Volumes to All-Time Highs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit",
+          "author": "Jona Jaupi",
+          "description": "Experts are debating whether the latest hack shakes confidence in DeFi or is just part of the inherent risks as investors chase higher yields.",
+          "link": "https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit",
+          "publishedOn": "2025-11-03T21:04:33.000Z",
+          "wordCount": 5952,
+          "title": "Crypto Community Divided on DeFi Trust Implications After $128M Balancer Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/defitrust-1-png-5c7c3cb9-e19b-4514-ad4f-31d58f4d80a1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/defitrust-1-png-5c7c3cb9-e19b-4514-ad4f-31d58f4d80a1.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/ethena-usde-market-cap-drops-40-percent-since-black-friday-10-10",
+          "author": "Denis Omelchenko",
+          "description": "The synthetic stablecoin’s market capitalization has shed over $5 billion in just three and a half weeks.",
+          "link": "https://thedefiant.io/news/tokens/ethena-usde-market-cap-drops-40-percent-since-black-friday-10-10",
+          "publishedOn": "2025-11-03T15:47:40.000Z",
+          "wordCount": 5485,
+          "title": "Ethena USDe Market Cap Drops 40% After ‘Black Friday’ October 10 Crash",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/5fdb5ea7efd087dcca41627d985a0476f7afca52e9182918b00608fd6cf3-f174b469-81cf-443f-bc5b-3a8c96b9a8ca.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/5fdb5ea7efd087dcca41627d985a0476f7afca52e9182918b00608fd6cf3-f174b469-81cf-443f-bc5b-3a8c96b9a8ca.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-start-november-in-the-red",
+          "author": "Denis Omelchenko",
+          "description": "Total market cap is down 3%, while most large-cap cryptocurrencies are solidly in the red today.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-start-november-in-the-red",
+          "publishedOn": "2025-11-03T14:48:03.000Z",
+          "wordCount": 5951,
+          "title": "Crypto Markets Start November in the Red as Bitcoin Dips Below $108,000",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-907ec917-3c2b-4a67-ad84-b342d3bdad28.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-907ec917-3c2b-4a67-ad84-b342d3bdad28.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds",
+          "author": "Squiffs",
+          "description": "The financial crime unit created by Tether, Tron, and TRM Labs has frozen over $300 million since its September 2024 launch.",
+          "link": "https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds",
+          "publishedOn": "2025-11-01T13:56:58.000Z",
+          "wordCount": 4909,
+          "title": "T3 FCU Has Frozen Over $300 Million in Illicit Funds",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fourmeme-1-1-png-c85a55e0-63c2-4fef-89b1-27418e943775.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fourmeme-1-1-png-c85a55e0-63c2-4fef-89b1-27418e943775.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund",
+          "author": "Denis Omelchenko",
+          "description": "Maple Finance says it wants to use protocol revenue for “long-term sustainability” instead of staking rewards.",
+          "link": "https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund",
+          "publishedOn": "2025-10-31T17:13:36.000Z",
+          "wordCount": 5387,
+          "title": "Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b37bf47fa0e6da85f67e733cd4c04837454d583f8dc3a6d93076a65e4698-3bdc9e6a-28bf-439c-8a61-05aa5fe0e87e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b37bf47fa0e6da85f67e733cd4c04837454d583f8dc3a6d93076a65e4698-3bdc9e6a-28bf-439c-8a61-05aa5fe0e87e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red",
+          "author": "Denis Omelchenko",
+          "description": "BTC is back above $110,000, but it’s still not enough to close the \"Uptober\" in the green.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red",
+          "publishedOn": "2025-10-31T16:32:41.000Z",
+          "wordCount": 5429,
+          "title": "Bitcoin Scrambles to Close October in Green as 2018 Sell-Off Shadows Loom",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b6e447329917088406b4f2802df3cd5046761c117a6d7549324c226f8772-ff1bca75-2049-4157-8629-a9f628fc3bd5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b6e447329917088406b4f2802df3cd5046761c117a6d7549324c226f8772-ff1bca75-2049-4157-8629-a9f628fc3bd5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche",
+          "author": "Denis Omelchenko",
+          "description": "While the fund's total value hasn't changed, BUIDL is now more evenly distributed across Aptos, Polygon, and Avalanche, instead of the vast majority being on Ethereum.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche",
+          "publishedOn": "2025-10-31T15:00:27.000Z",
+          "wordCount": 5297,
+          "title": "BlackRock's BUIDL Fund Sees Share on Ethereum Drop 60%",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/94e868bc100f5f77234b7f2fdf41785a8338f14df3c99b1fe205203f3e90-e13ca818-ed9f-4d65-be64-0a541603c54b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/94e868bc100f5f77234b7f2fdf41785a8338f14df3c99b1fe205203f3e90-e13ca818-ed9f-4d65-be64-0a541603c54b.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/people/the-next-usd100b-defi-market-real-dns-domains",
+          "author": "Camila Russo",
+          "description": "Domains are one of the largest untapped asset classes on the internet — 360M+ names, most of them not even hosting a site. They’re traded like real estate, through slow, trust-based, broker-intermediated systems with fees as high as 30%.",
+          "link": "https://thedefiant.io/podcasts-and-videos/people/the-next-usd100b-defi-market-real-dns-domains",
+          "publishedOn": "2025-10-31T09:24:00.000Z",
+          "wordCount": 4873,
+          "title": "The Next $100B DeFi Market: Real DNS Domains",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/miniatura-yt-16-09-ho-png-56739994-0636-4ca2-b493-b003430baa5c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/miniatura-yt-16-09-ho-png-56739994-0636-4ca2-b493-b003430baa5c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/fourmeme-surpasses-pumpfun-with-usd43-million-in-monthly-revenue",
+          "author": "Squiffs",
+          "description": "The BSC memecoin launchpad experienced explosive growth this month.",
+          "link": "https://thedefiant.io/news/defi/fourmeme-surpasses-pumpfun-with-usd43-million-in-monthly-revenue",
+          "publishedOn": "2025-10-30T21:23:08.000Z",
+          "wordCount": 4691,
+          "title": "FourMeme Surpasses Pumpfun With $43 Million in Monthly Revenue",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fourmeme-1-png-e1dac51e-f3fd-4828-ad2e-5f8b6c30ebe5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fourmeme-1-png-e1dac51e-f3fd-4828-ad2e-5f8b6c30ebe5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/nfts-crater-as-farmers-abandon-opensea",
+          "author": "Squiffs",
+          "description": "Digital collectibles continue to struggle as OpenSea volume drops by half.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/nfts-crater-as-farmers-abandon-opensea",
+          "publishedOn": "2025-10-30T20:00:59.000Z",
+          "wordCount": 5163,
+          "title": "NFTs Crater as Farmers Abandon OpenSea",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/nftstorm-1-png-5834c10b-49ca-41c2-9233-2070905f024b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/nftstorm-1-png-5834c10b-49ca-41c2-9233-2070905f024b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd107-000-after-powell-casts-doubt-on-further-rate-cuts",
+          "author": "yyctrader",
+          "description": "Leveraged liquidations top $1.2 billion as ETH, SOL and major altcoins plummet.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd107-000-after-powell-casts-doubt-on-further-rate-cuts",
+          "publishedOn": "2025-10-30T18:38:03.000Z",
+          "wordCount": 4990,
+          "title": "Bitcoin Slips Under $107,000 After Powell Casts Doubt on Further Rate Cuts",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fees-1-1-png-2d98038c-f62f-4dcb-9ffd-85aadeba5b77.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fees-1-1-png-2d98038c-f62f-4dcb-9ffd-85aadeba5b77.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote",
+          "author": "Denis Omelchenko",
+          "description": "Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.",
+          "link": "https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote",
+          "publishedOn": "2025-10-30T16:56:30.000Z",
+          "wordCount": 5604,
+          "title": "NEAR Cuts Inflation Rate by Half Despite Failed Community Vote",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-10-30t164512-526-png-007a3155-df2b-469e-b364-fdcbdc509ce1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-10-30t164512-526-png-007a3155-df2b-469e-b364-fdcbdc509ce1.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/farcaster-acquires-clanker-tokenbot",
+          "author": "Denis Omelchenko",
+          "description": "Web3 social media protocol Farcaster is integrating the Base-based AI token launchpad.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/farcaster-acquires-clanker-tokenbot",
+          "publishedOn": "2025-10-30T14:47:08.000Z",
+          "wordCount": 5347,
+          "title": "CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/7dfde426232e0f8a9c1b0f72a025ff466932b958406b703cd07582150cc2-b6a08957-1e08-4603-a7f9-6e550c80ab9d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/7dfde426232e0f8a9c1b0f72a025ff466932b958406b703cd07582150cc2-b6a08957-1e08-4603-a7f9-6e550c80ab9d.png"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
