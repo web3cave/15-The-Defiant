@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-22T14:07:55.456Z</id>
+    <id>urn:2025-11-22T15:08:09.005Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-22T14:07:55.456Z</updated>
+    <updated>2025-11-22T15:08:09.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[United States, Korea, and Brazil Eye Crypto Tax Crackdown]]></title>
+        <id>https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown</id>
+        <link href="https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown"/>
+        <updated>2025-11-22T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build on Bitcoin Token Rallies on Coinbase Listing]]></title>
         <id>https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/one-year-since-apechain-launch</id>
         <link href="https://thedefiant.io/news/blockchains/one-year-since-apechain-launch"/>
         <updated>2025-11-04T18:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.]]></summary>
+        <summary type="html"><![CDATA[ApeChain, the Yuga Labs-backed Layer 3 network built for the ApeCoin ecosystem, celebrated its first anniversary last month. After a brief rise in on-chain value and activity, ApeChain has been mostly in decline since its launch, while its native token APE has also struggled to regain its NFT-era highs.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote"/>
         <updated>2025-10-30T16:56:30.000Z</updated>
         <summary type="html"><![CDATA[Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLANKER Jumps 350% After Farcaster Acquires the AI Token Launchpad]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/farcaster-acquires-clanker-tokenbot</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/farcaster-acquires-clanker-tokenbot"/>
-        <updated>2025-10-30T14:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Web3 social media protocol Farcaster is integrating the Base-based AI token launchpad.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
