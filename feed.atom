@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T16:10:19.762Z</id>
+    <id>urn:2025-11-24T17:09:14.623Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-24T16:10:19.762Z</updated>
+    <updated>2025-11-24T17:09:14.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Monad Launches Mainnet, MON Trades Near ICO Price]]></title>
+        <id>https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing</id>
+        <link href="https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing"/>
+        <updated>2025-11-24T16:39:57.000Z</updated>
+        <summary type="html"><![CDATA[MON briefly surged 14% higher than its ICO price after listing across major CEXs, before retracing.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[United States, Korea, and Brazil Eye Crypto Tax Crackdown]]></title>
         <id>https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/one-year-since-apechain-launch</id>
         <link href="https://thedefiant.io/news/blockchains/one-year-since-apechain-launch"/>
         <updated>2025-11-04T18:23:13.000Z</updated>
-        <summary type="html"><![CDATA[ApeChain, the Yuga Labs-backed Layer 3 network built for the ApeCoin ecosystem, celebrated its first anniversary last month. After a brief rise in on-chain value and activity, ApeChain has been mostly in decline since its launch, while its native token APE has also struggled to regain its NFT-era highs.]]></summary>
+        <summary type="html"><![CDATA[Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Leveraged liquidations top $1.2 billion as ETH, SOL and major altcoins plummet.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Cuts Inflation Rate by Half Despite Failed Community Vote]]></title>
-        <id>https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote</id>
-        <link href="https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote"/>
-        <updated>2025-10-30T16:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
