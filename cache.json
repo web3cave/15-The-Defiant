@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability",
+          "author": "Squiffs",
+          "description": "An article from the European Central Bank speculates on how stablecoins could destabilize the global economy.",
+          "link": "https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability",
+          "publishedOn": "2025-11-24T21:31:56.000Z",
+          "wordCount": null,
+          "title": "ECB Says Stablecoins Threaten Financial Stability",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ecb-1-png-5e54aa79-03a2-4f32-81b2-0913f44675fb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ecb-1-png-5e54aa79-03a2-4f32-81b2-0913f44675fb.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-clears-usd88-000-after-trump-xi-call",
           "author": "Jona Jaupi",
           "description": "Bitcoin and Ethereum gained on Monday as investors reacted to U.S.-China diplomatic developments.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
           "author": "Jona Jaupi",
-          "description": "The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
           "publishedOn": "2025-11-05T18:13:04.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/dwf-labs-exploited-for-usd44m-in-2022-hack-report",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The alleged breach was reported this week by a blockchain investigator, but remains unconfirmed by DWF Labs.",
           "link": "https://thedefiant.io/news/hacks/dwf-labs-exploited-for-usd44m-in-2022-hack-report",
           "publishedOn": "2025-11-05T16:04:00.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/94e868bc100f5f77234b7f2fdf41785a8338f14df3c99b1fe205203f3e90-e13ca818-ed9f-4d65-be64-0a541603c54b.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/people/the-next-usd100b-defi-market-real-dns-domains",
-          "author": "Camila Russo",
-          "description": "Domains are one of the largest untapped asset classes on the internet — 360M+ names, most of them not even hosting a site. They’re traded like real estate, through slow, trust-based, broker-intermediated systems with fees as high as 30%.",
-          "link": "https://thedefiant.io/podcasts-and-videos/people/the-next-usd100b-defi-market-real-dns-domains",
-          "publishedOn": "2025-10-31T09:24:00.000Z",
-          "wordCount": null,
-          "title": "The Next $100B DeFi Market: Real DNS Domains",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/miniatura-yt-16-09-ho-png-56739994-0636-4ca2-b493-b003430baa5c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/miniatura-yt-16-09-ho-png-56739994-0636-4ca2-b493-b003430baa5c.png"
         }
       ]
     }
