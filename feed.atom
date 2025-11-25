@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T18:14:59.925Z</id>
+    <id>urn:2025-11-25T19:08:17.954Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-25T18:14:59.925Z</updated>
+    <updated>2025-11-25T19:08:17.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First US Spot DOGE ETF Sees $1.4M in Day-One Volumes]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/dogecoin-day-on-spot-etf-launch</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/dogecoin-day-on-spot-etf-launch"/>
+        <updated>2025-11-25T18:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale’s spot Dogecoin ETF fell short of expectations on its launch day.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna Debuts Stablecoin as it Expands Into On-Chain Payments]]></title>
+        <id>https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments</id>
+        <link href="https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments"/>
+        <updated>2025-11-25T18:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Klarna taps Stripe and Paradigm’s Tempo network as stablecoin adoption accelerates.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum DATs Heavily Underwater as ETH Price Drops Below $3,000]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split</id>
         <link href="https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split"/>
         <updated>2025-11-06T18:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Some investors are left questioning their allocations, or lack thereof, to the highly oversubscribed MEGA ICO.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat"/>
         <updated>2025-11-06T15:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -982,26 +1002,6 @@
         <summary type="html"><![CDATA[The synthetic stablecoin’s market capitalization has shed over $5 billion in just three and a half weeks.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Start November in the Red as Bitcoin Dips Below $108,000]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-start-november-in-the-red</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-start-november-in-the-red"/>
-        <updated>2025-11-03T14:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Total market cap is down 3%, while most large-cap cryptocurrencies are solidly in the red today.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T3 FCU Has Frozen Over $300 Million in Illicit Funds]]></title>
-        <id>https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds</id>
-        <link href="https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds"/>
-        <updated>2025-11-01T13:56:58.000Z</updated>
-        <summary type="html"><![CDATA[The financial crime unit created by Tether, Tron, and TRM Labs has frozen over $300 million since its September 2024 launch.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
