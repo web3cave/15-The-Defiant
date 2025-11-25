@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T16:12:52.505Z</id>
+    <id>urn:2025-11-25T17:10:56.415Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-25T16:12:52.505Z</updated>
+    <updated>2025-11-25T17:10:56.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Receives CFTC Approval to Operate in the United States]]></title>
+        <id>https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states</id>
+        <link href="https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states"/>
+        <updated>2025-11-25T16:53:34.000Z</updated>
+        <summary type="html"><![CDATA[The long-awaited Polymarket US has been cleared to launch.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECB Says Stablecoins Threaten Financial Stability]]></title>
         <id>https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy</id>
         <link href="https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy"/>
         <updated>2025-11-05T18:56:52.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements</id>
         <link href="https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements"/>
         <updated>2025-11-05T18:13:04.000Z</updated>
+        <summary type="html"><![CDATA[The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red"/>
         <updated>2025-10-31T16:32:41.000Z</updated>
         <summary type="html"><![CDATA[BTC is back above $110,000, but it’s still not enough to close the "Uptober" in the green.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock's BUIDL Fund Sees Share on Ethereum Drop 60%]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche"/>
-        <updated>2025-10-31T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[While the fund's total value hasn't changed, BUIDL is now more evenly distributed across Aptos, Polygon, and Avalanche, instead of the vast majority being on Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>

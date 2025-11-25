@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states",
+          "author": "Squiffs",
+          "description": "The long-awaited Polymarket US has been cleared to launch.",
+          "link": "https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states",
+          "publishedOn": "2025-11-25T16:53:34.000Z",
+          "wordCount": null,
+          "title": "Polymarket Receives CFTC Approval to Operate in the United States",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/polyus-1-png-e35b4a2f-e10c-40a5-8246-f4ae425f0694.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/polyus-1-png-e35b4a2f-e10c-40a5-8246-f4ae425f0694.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability",
           "author": "Squiffs",
           "description": "An article from the European Central Bank speculates on how stablecoins could destabilize the global economy.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
           "author": "Jona Jaupi",
-          "description": "The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.",
+          "description": "",
           "link": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
           "publishedOn": "2025-11-05T18:56:52.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.",
           "link": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
           "publishedOn": "2025-11-05T18:13:04.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/b6e447329917088406b4f2802df3cd5046761c117a6d7549324c226f8772-ff1bca75-2049-4157-8629-a9f628fc3bd5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche",
-          "author": "Denis Omelchenko",
-          "description": "While the fund's total value hasn't changed, BUIDL is now more evenly distributed across Aptos, Polygon, and Avalanche, instead of the vast majority being on Ethereum.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-securitize-expand-buidl-market-cap-on-aptos-polygon-avalanche",
-          "publishedOn": "2025-10-31T15:00:27.000Z",
-          "wordCount": null,
-          "title": "BlackRock's BUIDL Fund Sees Share on Ethereum Drop 60%",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/94e868bc100f5f77234b7f2fdf41785a8338f14df3c99b1fe205203f3e90-e13ca818-ed9f-4d65-be64-0a541603c54b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/94e868bc100f5f77234b7f2fdf41785a8338f14df3c99b1fe205203f3e90-e13ca818-ed9f-4d65-be64-0a541603c54b.png"
         }
       ]
     }
