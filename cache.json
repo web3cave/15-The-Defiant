@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap",
+          "author": "Diego Vera",
+          "description": "Privacy is becoming the center of gravity for what’s coming with Ethereum and DeFi. Zero-knowledge proofs and SNARKs are at the center of the discussion and seen as the means to achieve the Lean Ethereum Roadmap. The ecosystem is moving towards a narrative in which security, censorship resistance, and user protection are key pillars at every layer.",
+          "link": "https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap",
+          "publishedOn": "2025-11-25T21:22:49.000Z",
+          "wordCount": null,
+          "title": "Privacy, ZK Everything and Big Announcements: DevConnect 2025 Recap",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hip3-1-2-png-a480b235-5406-41a7-aba3-0c1b07aa66dc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hip3-1-2-png-a480b235-5406-41a7-aba3-0c1b07aa66dc.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume",
+          "author": "Squiffs",
+          "description": "Tokenized equity trading on Hyperliquid is ramping up following the rollout of “growth mode,” which significantly reduced fees.",
+          "link": "https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume",
+          "publishedOn": "2025-11-25T21:07:16.000Z",
+          "wordCount": null,
+          "title": "TradeXYZ Crosses $500 Million in Daily Volume",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hip3-1-1-png-3b2178c3-0b61-4bde-93fe-40140265334f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hip3-1-1-png-3b2178c3-0b61-4bde-93fe-40140265334f.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-dip-as-us-wholesale-inflation-ticks-up",
           "author": "Jona Jaupi",
           "description": "Bitcoin and Ethereum are down 2%, while top altcoins post mixed performances.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
           "author": "Denis Omelchenko",
-          "description": "The DeFi lending protocol had paused withdrawals for three stablecoin markets after risk manager Gauntlet flagged a liquidity squeeze in Elixir’s deUSD token.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
           "publishedOn": "2025-11-06T21:41:43.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The move comes as institutional interest in tokenized assets continues to grow.",
           "link": "https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund",
           "publishedOn": "2025-11-06T19:43:33.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
-          "author": "Squiffs",
-          "description": "Both leading prediction markets combined did more volume in October than Polymarket did in its first four years.",
-          "link": "https://thedefiant.io/news/defi/sports-betting-pushes-kalshi-and-polymarket-volumes-to-all-time-highs",
-          "publishedOn": "2025-11-03T21:19:21.000Z",
-          "wordCount": null,
-          "title": "Sports Betting Pushes Kalshi and Polymarket Volumes to All-Time Highs",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/spbets-1-1-png-fd293491-0cff-41fe-b799-ef57c7213cbc.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit",
-          "author": "Jona Jaupi",
-          "description": "Experts are debating whether the latest hack shakes confidence in DeFi or is just part of the inherent risks as investors chase higher yields.",
-          "link": "https://thedefiant.io/news/hacks/crypto-community-divided-on-defi-trust-implications-after-usd128m-balancer-exploit",
-          "publishedOn": "2025-11-03T21:04:33.000Z",
-          "wordCount": null,
-          "title": "Crypto Community Divided on DeFi Trust Implications After $128M Balancer Exploit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/defitrust-1-png-5c7c3cb9-e19b-4514-ad4f-31d58f4d80a1.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/defitrust-1-png-5c7c3cb9-e19b-4514-ad4f-31d58f4d80a1.png"
         }
       ]
     }
