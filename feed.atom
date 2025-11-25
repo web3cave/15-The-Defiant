@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T17:10:56.415Z</id>
+    <id>urn:2025-11-25T18:14:59.925Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-25T17:10:56.416Z</updated>
+    <updated>2025-11-25T18:14:59.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum DATs Heavily Underwater as ETH Price Drops Below $3,000]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000"/>
+        <updated>2025-11-25T17:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKALE Launches on Base in New Initiative for Onchain Agents]]></title>
+        <id>https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents</id>
+        <link href="https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents"/>
+        <updated>2025-11-25T17:15:52.000Z</updated>
+        <summary type="html"><![CDATA[SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Receives CFTC Approval to Operate in the United States]]></title>
         <id>https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat"/>
         <updated>2025-11-06T15:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy</id>
         <link href="https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy"/>
         <updated>2025-11-05T18:56:52.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -982,26 +1002,6 @@
         <summary type="html"><![CDATA[The financial crime unit created by Tether, Tron, and TRM Labs has frozen over $300 million since its September 2024 launch.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury]]></title>
-        <id>https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund</id>
-        <link href="https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund"/>
-        <updated>2025-10-31T17:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Maple Finance says it wants to use protocol revenue for “long-term sustainability” instead of staking rewards.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Scrambles to Close October in Green as 2018 Sell-Off Shadows Loom]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red"/>
-        <updated>2025-10-31T16:32:41.000Z</updated>
-        <summary type="html"><![CDATA[BTC is back above $110,000, but it’s still not enough to close the "Uptober" in the green.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>

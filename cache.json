@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
+          "author": "Denis Omelchenko",
+          "description": "Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
+          "publishedOn": "2025-11-25T17:22:12.000Z",
+          "wordCount": null,
+          "title": "Ethereum DATs Heavily Underwater as ETH Price Drops Below $3,000",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-2-png-558b3fa6-5f47-44d9-8516-ae5c6e4f7776.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-2-png-558b3fa6-5f47-44d9-8516-ae5c6e4f7776.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
+          "author": "Jona Jaupi",
+          "description": "SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.",
+          "link": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
+          "publishedOn": "2025-11-25T17:15:52.000Z",
+          "wordCount": null,
+          "title": "SKALE Launches on Base in New Initiative for Onchain Agents",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/skale-1-png-00dc9ab5-2641-4cd2-88d0-fceed8f1f648.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/skale-1-png-00dc9ab5-2641-4cd2-88d0-fceed8f1f648.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states",
           "author": "Squiffs",
           "description": "The long-awaited Polymarket US has been cleared to launch.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
           "author": "Denis Omelchenko",
-          "description": "Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
           "publishedOn": "2025-11-06T15:26:05.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.",
           "link": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
           "publishedOn": "2025-11-05T18:56:52.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/fourmeme-1-1-png-c85a55e0-63c2-4fef-89b1-27418e943775.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund",
-          "author": "Denis Omelchenko",
-          "description": "Maple Finance says it wants to use protocol revenue for “long-term sustainability” instead of staking rewards.",
-          "link": "https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund",
-          "publishedOn": "2025-10-31T17:13:36.000Z",
-          "wordCount": null,
-          "title": "Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/b37bf47fa0e6da85f67e733cd4c04837454d583f8dc3a6d93076a65e4698-3bdc9e6a-28bf-439c-8a61-05aa5fe0e87e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/b37bf47fa0e6da85f67e733cd4c04837454d583f8dc3a6d93076a65e4698-3bdc9e6a-28bf-439c-8a61-05aa5fe0e87e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red",
-          "author": "Denis Omelchenko",
-          "description": "BTC is back above $110,000, but it’s still not enough to close the \"Uptober\" in the green.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-poised-to-end-october-2025-in-the-red",
-          "publishedOn": "2025-10-31T16:32:41.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Scrambles to Close October in Green as 2018 Sell-Off Shadows Loom",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/b6e447329917088406b4f2802df3cd5046761c117a6d7549324c226f8772-ff1bca75-2049-4157-8629-a9f628fc3bd5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/b6e447329917088406b4f2802df3cd5046761c117a6d7549324c226f8772-ff1bca75-2049-4157-8629-a9f628fc3bd5.png"
         }
       ]
     }
