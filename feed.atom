@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T16:11:57.880Z</id>
+    <id>urn:2025-11-26T17:09:16.396Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-26T16:11:57.880Z</updated>
+    <updated>2025-11-26T17:09:16.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceComputer Raises $10 Million to Run Secure Blockchain Compute from Space]]></title>
+        <id>https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round</id>
+        <link href="https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round"/>
+        <updated>2025-11-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The startup is planning a satellite-based network to secure blockchain and cryptographic computing beyond Earth.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grayscale Files to Convert Zcash Trust into Spot ZEC ETF]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi</id>
         <link href="https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi"/>
         <updated>2025-11-07T17:01:50.000Z</updated>
-        <summary type="html"><![CDATA[The search giant says users can soon ask questions about future market events and “harness the wisdom of the crowds.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap</id>
         <link href="https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap"/>
         <updated>2025-11-07T02:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Users faced technical difficulties due to the Hourglass website crashing.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Breaches 10/10 Low as It Approaches $100,000]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-breaches-10-10-low-as-it-approaches-usd100-000</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-breaches-10-10-low-as-it-approaches-usd100-000"/>
-        <updated>2025-11-04T17:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Major digital assets extended weekly losses as traders weighed the impact of potential limits on Trump’s trade powers.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
