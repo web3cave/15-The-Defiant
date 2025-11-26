@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T19:07:30.903Z</id>
+    <id>urn:2025-11-26T20:10:31.109Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-26T19:07:30.903Z</updated>
+    <updated>2025-11-26T20:10:31.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Extend Rally as U.S. Jobless Claims Hit Lowest Since April]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april"/>
+        <updated>2025-11-26T18:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins gained, while ETFs recorded inflows.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceComputer Raises $10 Million to Run Secure Blockchain Compute from Space]]></title>
         <id>https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd101-000-as-stocks-selloff-deepens</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd101-000-as-stocks-selloff-deepens"/>
         <updated>2025-11-07T17:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are set to close the week in the red, with total crypto capitalization at $3.49 trillion.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi</id>
         <link href="https://thedefiant.io/news/defi/google-finance-to-add-support-for-prediction-markets-polymarket-kalshi"/>
         <updated>2025-11-07T17:01:50.000Z</updated>
+        <summary type="html"><![CDATA[The search giant says users can soon ask questions about future market events and “harness the wisdom of the crowds.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Staked Stream USD (xUSD) is trading at less than 30 cents on the dollar amid concerns about the protocol's solvency.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Year On: Inside ApeChain’s Brief Rise and Slow Fall]]></title>
-        <id>https://thedefiant.io/news/blockchains/one-year-since-apechain-launch</id>
-        <link href="https://thedefiant.io/news/blockchains/one-year-since-apechain-launch"/>
-        <updated>2025-11-04T18:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
