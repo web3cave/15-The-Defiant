@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
+          "author": "Denis Omelchenko",
+          "description": "The move follows ZEC’s massive rally since late September.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
+          "publishedOn": "2025-11-26T15:49:49.000Z",
+          "wordCount": null,
+          "title": "Grayscale Files to Convert Zcash Trust into Spot ZEC ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d4a4e3e74211aaffdb4a08ceb1a6ea4a4edfdb3075e544170a3649d1da75-79da0c0a-7622-486a-be0f-faccb43007dd.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d4a4e3e74211aaffdb4a08ceb1a6ea4a4edfdb3075e544170a3649d1da75-79da0c0a-7622-486a-be0f-faccb43007dd.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms",
+          "author": "Denis Omelchenko",
+          "description": "Smokey The Bera publicly confirmed the refund agreement with Brevan Howard’s Nova Digital for its $25 million investment, but called reports on the terms “inaccurate.”",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms",
+          "publishedOn": "2025-11-26T15:21:43.000Z",
+          "wordCount": null,
+          "title": "Berachain CEO Pushes Back on Reported Terms of Investor’s Refund Deal",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/80ecd4e8ccea1fd4439b2cf4b6b60cec40bdc8addbeb20d0707c12530091-8d03b4fc-e53a-4d73-8740-ed807122988e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/80ecd4e8ccea1fd4439b2cf4b6b60cec40bdc8addbeb20d0707c12530091-8d03b4fc-e53a-4d73-8740-ed807122988e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap",
           "author": "Diego Vera",
           "description": "Privacy is becoming the center of gravity for what’s coming with Ethereum and DeFi. Zero-knowledge proofs and SNARKs are at the center of the discussion and seen as the means to achieve the Lean Ethereum Roadmap. The ecosystem is moving towards a narrative in which security, censorship resistance, and user protection are key pillars at every layer.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
           "author": "Squiffs",
-          "description": "Users faced technical difficulties due to the Hourglass website crashing.",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
           "publishedOn": "2025-11-07T02:17:29.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The DeFi lending protocol had paused withdrawals for three stablecoin markets after risk manager Gauntlet flagged a liquidity squeeze in Elixir’s deUSD token.",
           "link": "https://thedefiant.io/news/defi/compound-resumes-withdrawals-from-usdc-usds-markets-after-gauntlet-proposal",
           "publishedOn": "2025-11-06T21:41:43.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-2-png-88d3fa1d-37e1-415f-bd82-7e4abd4bea91.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
-          "author": "Squiffs",
-          "description": "The move would see ZKsync implement a buyback and burn mechanism for ZK tokens",
-          "link": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
-          "publishedOn": "2025-11-04T16:02:53.000Z",
-          "wordCount": null,
-          "title": "ZKsync Proposes Utility and Revenue Focused Tokenomics Shift",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/1f47511045b9d5f8556fb23ec129d6e6646c8f4303ea4b9e4438d00342a3-c33cc399-a236-47ef-83d3-e60946405481.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/1f47511045b9d5f8556fb23ec129d6e6646c8f4303ea4b9e4438d00342a3-c33cc399-a236-47ef-83d3-e60946405481.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
-          "author": "Jona Jaupi",
-          "description": "The largest DeFi lending protocol will continue to use revenue to repurchase AAVE tokens.",
-          "link": "https://thedefiant.io/news/defi/aave-dao-makes-usd50-million-annual-token-buybacks-permanent",
-          "publishedOn": "2025-11-04T01:54:11.000Z",
-          "wordCount": null,
-          "title": "Aave DAO Makes $50 Million Annual Token Buybacks Permanent",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png"
         }
       ]
     }
