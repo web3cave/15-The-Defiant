@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T22:09:11.921Z</id>
+    <id>urn:2025-11-26T23:08:45.444Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-26T22:09:11.921Z</updated>
+    <updated>2025-11-26T23:08:45.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan Account Closures Highlight Banks’ Crypto Hypocrisy]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-account-closures-highlight-banks-crypto-hypocrisy</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-account-closures-highlight-banks-crypto-hypocrisy"/>
+        <updated>2025-11-26T22:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Experts say JPMorgan’s move against Strike CEO Jack Mallers highlights a recurring pattern in banking.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Catches Flak for Reassigning MON Ticker]]></title>
         <id>https://thedefiant.io/news/defi/hyperliquid-catches-flak-for-reassigning-mon-ticker</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026</id>
         <link href="https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026"/>
         <updated>2025-11-07T19:00:41.000Z</updated>
-        <summary type="html"><![CDATA[The firm is selling IMU tokens for about $0.013 and will offer 3.7% of the total supply.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/privacy-coins-extend-rally-as-zcash-soars-above-usd700</id>
         <link href="https://thedefiant.io/news/markets/privacy-coins-extend-rally-as-zcash-soars-above-usd700"/>
         <updated>2025-11-07T18:42:19.000Z</updated>
+        <summary type="html"><![CDATA[ZEC is up 35% on the day, and has gained a whopping 1,700% over the past three months.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Total market cap is slightly in the red today while large-caps are mostly flat or down.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Coin Rally Continues as DASH Surges 150%]]></title>
-        <id>https://thedefiant.io/news/markets/privacy-coin-rally-continues-as-dash-surges-150</id>
-        <link href="https://thedefiant.io/news/markets/privacy-coin-rally-continues-as-dash-surges-150"/>
-        <updated>2025-11-04T23:26:23.000Z</updated>
-        <summary type="html"><![CDATA[The DASH token is following in Zcash’s footsteps and is up 200% over the last month.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
