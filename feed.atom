@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T14:09:40.361Z</id>
+    <id>urn:2025-11-28T15:09:38.023Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-28T14:09:40.361Z</updated>
+    <updated>2025-11-28T15:09:38.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MegaETH to Refund USDm Pre-Deposits After Multisig Chaos]]></title>
+        <id>https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign</id>
+        <link href="https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign"/>
+        <updated>2025-11-28T14:27:35.000Z</updated>
+        <summary type="html"><![CDATA[The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RedStone Predicts Tokenized Assets Could Hit $60 Billion in 202]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy</id>
         <link href="https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy"/>
         <updated>2025-11-10T20:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets"/>
         <updated>2025-11-10T18:17:21.000Z</updated>
+        <summary type="html"><![CDATA[The gains also came after Trump proposed a $2,000 payout to Americans.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controversial Hyperliquid HIP-5 Proposal Leaves Community Split]]></title>
-        <id>https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split</id>
-        <link href="https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split"/>
-        <updated>2025-11-05T23:51:57.000Z</updated>
-        <summary type="html"><![CDATA[If passed, HIP-5 would establish a second Hyperliquid assistance fund to bootstrap and support ecosystem tokens beyond HYPE.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
