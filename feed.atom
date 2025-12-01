@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-01T18:16:04.594Z</id>
+    <id>urn:2025-12-01T19:12:45.308Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-01T18:16:04.594Z</updated>
+    <updated>2025-12-01T19:12:45.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Craters to $84,000 as Asia Signals Risk-Off Sentiment]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment"/>
+        <updated>2025-12-01T18:17:44.000Z</updated>
+        <summary type="html"><![CDATA[ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yearn Finance Suffers $9 Million Exploit]]></title>
         <id>https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade"/>
         <updated>2025-11-11T19:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision"/>
         <updated>2025-11-11T14:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Crypto market capitalization fell 2% today to $3.62 trillion, with most major assets showing mild losses.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Users faced technical difficulties due to the Hourglass website crashing.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Ecosystem TVL Grows to $35 Billion]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion"/>
-        <updated>2025-11-06T21:42:36.000Z</updated>
-        <summary type="html"><![CDATA[TokenTerminal research shows SOL trades at 2.95x ecosystem TVL, down from 14x a year ago.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

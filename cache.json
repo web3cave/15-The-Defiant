@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
+          "author": "Denis Omelchenko",
+          "description": "ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
+          "publishedOn": "2025-12-01T18:17:44.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Craters to $84,000 as Asia Signals Risk-Off Sentiment",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mktcrash-1-png-001b23f2-fa38-4819-a45e-95b13eb1ee77.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mktcrash-1-png-001b23f2-fa38-4819-a45e-95b13eb1ee77.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit",
           "author": "Denis Omelchenko",
           "description": "The yETH exploit is the third hack of a Yearn Finance product since 2021.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
           "author": "Denis Omelchenko",
-          "description": "Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
           "publishedOn": "2025-11-11T19:24:26.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Crypto market capitalization fell 2% today to $3.62 trillion, with most major assets showing mild losses.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision",
           "publishedOn": "2025-11-11T14:38:31.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-fc57b937-6ef8-41a5-81c7-08bd8863c93c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion",
-          "author": "Jona Jaupi",
-          "description": "TokenTerminal research shows SOL trades at 2.95x ecosystem TVL, down from 14x a year ago.",
-          "link": "https://thedefiant.io/news/blockchains/solana-ecosystem-tvl-grows-to-usd35-billion",
-          "publishedOn": "2025-11-06T21:42:36.000Z",
-          "wordCount": null,
-          "title": "Solana Ecosystem TVL Grows to $35 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/2dff52fe66ffb4d92c64d6c49d2ab444100a489efd83c9ed247ed913dfa9-3ca6c095-3b70-4cfb-b8b3-15f00c5624c8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/2dff52fe66ffb4d92c64d6c49d2ab444100a489efd83c9ed247ed913dfa9-3ca6c095-3b70-4cfb-b8b3-15f00c5624c8.png"
         }
       ]
     }
