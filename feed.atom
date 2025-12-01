@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-01T20:09:33.542Z</id>
+    <id>urn:2025-12-01T21:08:03.540Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-01T20:09:33.542Z</updated>
+    <updated>2025-12-01T21:08:03.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SushiSwap’s Jared Grey Steps Down as Head Chef]]></title>
+        <id>https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef</id>
+        <link href="https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef"/>
+        <updated>2025-12-01T20:07:13.000Z</updated>
+        <summary type="html"><![CDATA[The SUSHI token is down 12% on the day.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Craters to $84,000 as Asia Signals Risk-Off Sentiment]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise</id>
         <link href="https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise"/>
         <updated>2025-11-12T13:47:18.000Z</updated>
-        <summary type="html"><![CDATA[The funding round, led by Founders Fund and Ribbit Capital, values the company at about $1.5 billion.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade"/>
         <updated>2025-11-11T19:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The search giant says users can soon ask questions about future market events and “harness the wisdom of the crowds.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Pauses Deposits After Another Pre-Deposit Vault Mishap]]></title>
-        <id>https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap</id>
-        <link href="https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap"/>
-        <updated>2025-11-07T02:17:29.000Z</updated>
-        <summary type="html"><![CDATA[Users faced technical difficulties due to the Hourglass website crashing.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
+          "author": "Jona Jaupi",
+          "description": "The SUSHI token is down 12% on the day.",
+          "link": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
+          "publishedOn": "2025-12-01T20:07:13.000Z",
+          "wordCount": null,
+          "title": "SushiSwap’s Jared Grey Steps Down as Head Chef",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sushi-1-png-cefd1854-5977-4828-839e-e692ba94627c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sushi-1-png-cefd1854-5977-4828-839e-e692ba94627c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
           "author": "Denis Omelchenko",
           "description": "ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
           "author": "Denis Omelchenko",
-          "description": "The funding round, led by Founders Fund and Ribbit Capital, values the company at about $1.5 billion.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
           "publishedOn": "2025-11-12T13:47:18.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Ethereum’s validator count has slipped back to April 2024 levels, with exit queue wait times hitting new record highs.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-sees-first-sustained-validator-count-decline-since-the-merge-pos-upgrade",
           "publishedOn": "2025-11-11T19:24:26.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/4f5595676f9ae21f5b62fbe6e850ee0662be2a377abfdf4562cd2ba6fe3a-9b44327e-1cc1-4c95-8247-3fed6941ec5a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
-          "author": "Squiffs",
-          "description": "Users faced technical difficulties due to the Hourglass website crashing.",
-          "link": "https://thedefiant.io/news/blockchains/stable-pauses-deposits-after-another-pre-deposit-vault-mishap",
-          "publishedOn": "2025-11-07T02:17:29.000Z",
-          "wordCount": null,
-          "title": "Stable Pauses Deposits After Another Pre-Deposit Vault Mishap",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-fc57b937-6ef8-41a5-81c7-08bd8863c93c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/d47b5a3c134c84798de632b3d4bd5327f7125b0d1523342b7572b01c4798-fc57b937-6ef8-41a5-81c7-08bd8863c93c.png"
         }
       ]
     }
