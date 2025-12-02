@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T02:29:11.067Z</id>
+    <id>urn:2025-12-02T03:45:02.452Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T02:29:11.067Z</updated>
+    <updated>2025-12-02T03:45:02.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Monad Briefly Dips Below ICO Price]]></title>
+        <id>https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price</id>
+        <link href="https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price"/>
+        <updated>2025-12-02T03:15:36.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s DeFi ecosystem is off to a slow start, with just $150 million in TVL.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europe’s Crypto Crusade Rages On]]></title>
         <id>https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion</id>
         <link href="https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion"/>
         <updated>2025-11-12T20:59:27.000Z</updated>
-        <summary type="html"><![CDATA[The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero</id>
         <link href="https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero"/>
         <updated>2025-11-12T19:49:26.000Z</updated>
+        <summary type="html"><![CDATA[The platform will expand to Ethereum mainnet and Circle’s Arc and is set to go live in Q2 2026.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The omnichain protocol’s ZRO buyback highlights a broader trend of crypto projects returning revenue to tokenholders.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Bug Bounty Firm Immunefi Plans ICO, Targets TGE in February 2026]]></title>
-        <id>https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026</id>
-        <link href="https://thedefiant.io/news/defi/web3-bug-bounty-firm-immunefi-plans-ico-targets-tge-in-february-2026"/>
-        <updated>2025-11-07T19:00:41.000Z</updated>
-        <summary type="html"><![CDATA[The firm is selling IMU tokens for about $0.013 and will offer 3.7% of the total supply.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
