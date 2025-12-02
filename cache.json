@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/kraken-acquires-backed-finance",
+          "author": "Squiffs",
+          "description": "The centralized exchange is set to step further into the real-world asset space.",
+          "link": "https://thedefiant.io/news/cefi/kraken-acquires-backed-finance",
+          "publishedOn": "2025-12-02T21:02:03.000Z",
+          "wordCount": null,
+          "title": "Kraken Acquires Backed Finance",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/kraken-1-1-png-a8a84c86-4734-428b-be83-050d9b242128.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/kraken-1-1-png-a8a84c86-4734-428b-be83-050d9b242128.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "author": "Jona Jaupi",
           "description": "The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction",
           "author": "Jona Jaupi",
-          "description": "The privacy-focused L2 is aiming to make token launches fairer.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction",
           "publishedOn": "2025-11-13T14:00:00.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The payments app will support multiple stablecoins and networks at launch.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
           "publishedOn": "2025-11-13T11:16:06.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/2ec6d2daa9bcae29bd8713676a86347cea7599a1cabb88292c07b5b772f1-9f71f0dd-adde-4f96-8866-b08ef1851142.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
-          "author": "Jona Jaupi",
-          "description": "Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.",
-          "link": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
-          "publishedOn": "2025-11-10T20:04:57.000Z",
-          "wordCount": null,
-          "title": "XPL Rallies After Plasma Reveals Collaboration with Daylight Energy",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/xpldaylight-1-png-e44ea62a-50e2-4987-afd3-4c6950dc2227.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/xpldaylight-1-png-e44ea62a-50e2-4987-afd3-4c6950dc2227.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T20:11:29.493Z</id>
+    <id>urn:2025-12-02T21:09:12.453Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T20:11:29.493Z</updated>
+    <updated>2025-12-02T21:09:12.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Acquires Backed Finance]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-acquires-backed-finance</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-acquires-backed-finance"/>
+        <updated>2025-12-02T21:02:03.000Z</updated>
+        <summary type="html"><![CDATA[The centralized exchange is set to step further into the real-world asset space.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink’s LINK Jumps 13% as Grayscale ETF Goes Live]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction</id>
         <link href="https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction"/>
         <updated>2025-11-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The privacy-focused L2 is aiming to make token launches fairer.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins"/>
         <updated>2025-11-13T11:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The payments app will support multiple stablecoins and networks at launch.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[WLFI and TRUMP are leading the altcoin market today, surging 24% and 20% respectively.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XPL Rallies After Plasma Reveals Collaboration with Daylight Energy]]></title>
-        <id>https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy</id>
-        <link href="https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy"/>
-        <updated>2025-11-10T20:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
