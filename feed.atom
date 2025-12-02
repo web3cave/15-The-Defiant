@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T17:13:49.264Z</id>
+    <id>urn:2025-12-02T18:15:57.516Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T17:13:49.264Z</updated>
+    <updated>2025-12-02T18:15:57.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chainlink’s LINK Jumps 13% as Grayscale ETF Goes Live]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live"/>
+        <updated>2025-12-02T18:05:52.000Z</updated>
+        <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple’s RLUSD Stablecoin Tops $1B on Ethereum]]></title>
+        <id>https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum</id>
+        <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
+        <updated>2025-12-02T17:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Edge Higher as Bitcoin Breaks Back Over $90,000]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins"/>
         <updated>2025-11-13T11:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The payments app will support multiple stablecoins and networks at launch.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain"/>
         <updated>2025-11-12T22:23:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -982,26 +1002,6 @@
         <summary type="html"><![CDATA[Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hovers Around $105,000 as Government Shutdown Progress Lifts Markets]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets"/>
-        <updated>2025-11-10T18:17:21.000Z</updated>
-        <summary type="html"><![CDATA[The gains also came after Trump proposed a $2,000 payout to Americans.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the PYUSD's takeover of PayPal with May Zabaneh, VP Crypto]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto"/>
-        <updated>2025-11-07T22:16:00.000Z</updated>
-        <summary type="html"><![CDATA[In this conversation, May Zabaneh breaks down PayPal’s move into stablecoins with PYUSD and why it matters for financial inclusion. We explore how PYUSD could lower costs for cross-border payments, deliver faster settlement, and plug directly into PayPal’s existing ecosystem. The discussion covers why PayPal built a proprietary stablecoin, early adoption and real-world use cases, and plans for international expansion. We also examine the role merchants play in crypto acceptance, how DeFi and traditional finance are converging, and why interoperability will be essential in the next phase of digital payments.]]></summary>
-        <author>
-            <name>Chris Storaker</name>
         </author>
     </entry>
 </feed>

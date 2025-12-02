@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
+          "author": "Jona Jaupi",
+          "description": "The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
+          "publishedOn": "2025-12-02T18:05:52.000Z",
+          "wordCount": null,
+          "title": "Chainlink’s LINK Jumps 13% as Grayscale ETF Goes Live",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/link-1-1-png-846d22f6-f297-43c1-8076-ccae6da521ae.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/link-1-1-png-846d22f6-f297-43c1-8076-ccae6da521ae.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum",
+          "author": "Denis Omelchenko",
+          "description": "Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.",
+          "link": "https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum",
+          "publishedOn": "2025-12-02T17:37:16.000Z",
+          "wordCount": null,
+          "title": "Ripple’s RLUSD Stablecoin Tops $1B on Ethereum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/08e2d06eebb24df69e4448ff338d221dc6739a0fc3dc22ab959143353a38-31bf62c1-5765-4d92-9a49-9226c18e6803.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/08e2d06eebb24df69e4448ff338d221dc6739a0fc3dc22ab959143353a38-31bf62c1-5765-4d92-9a49-9226c18e6803.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025",
           "author": "Denis Omelchenko",
           "description": "ETH, SOL, and BNB post gains, while analysts say the market “appears less worried” now.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
           "author": "Denis Omelchenko",
-          "description": "The payments app will support multiple stablecoins and networks at launch.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins",
           "publishedOn": "2025-11-13T11:16:06.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain",
           "author": "Camila Russo",
-          "description": "",
+          "description": "In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain",
           "publishedOn": "2025-11-12T22:23:00.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/xpldaylight-1-png-e44ea62a-50e2-4987-afd3-4c6950dc2227.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets",
-          "author": "Jona Jaupi",
-          "description": "The gains also came after Trump proposed a $2,000 payout to Americans.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd105-000-as-government-shutdown-progress-lifts-markets",
-          "publishedOn": "2025-11-10T18:17:21.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Hovers Around $105,000 as Government Shutdown Progress Lifts Markets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/8fe68d5fc4a508a2b54b06b8bd05f1a1d351067ec8471e8e63fbf75f3245-90d108d9-c462-4b15-8beb-3ebdcc054e10.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/8fe68d5fc4a508a2b54b06b8bd05f1a1d351067ec8471e8e63fbf75f3245-90d108d9-c462-4b15-8beb-3ebdcc054e10.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto",
-          "author": "Chris Storaker",
-          "description": "In this conversation, May Zabaneh breaks down PayPal’s move into stablecoins with PYUSD and why it matters for financial inclusion. We explore how PYUSD could lower costs for cross-border payments, deliver faster settlement, and plug directly into PayPal’s existing ecosystem. The discussion covers why PayPal built a proprietary stablecoin, early adoption and real-world use cases, and plans for international expansion. We also examine the role merchants play in crypto acceptance, how DeFi and traditional finance are converging, and why interoperability will be essential in the next phase of digital payments.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/inside-the-pyusd-s-takeover-of-paypal-with-may-zabaneh-vp-crypto",
-          "publishedOn": "2025-11-07T22:16:00.000Z",
-          "wordCount": null,
-          "title": "Inside the PYUSD's takeover of PayPal with May Zabaneh, VP Crypto",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/maxresdefault-png-6cf9561a-4cc7-401c-9da2-9db9865db17d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/maxresdefault-png-6cf9561a-4cc7-401c-9da2-9db9865db17d.png"
         }
       ]
     }
