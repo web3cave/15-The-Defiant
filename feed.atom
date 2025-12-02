@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T21:09:12.453Z</id>
+    <id>urn:2025-12-02T22:08:53.575Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T21:09:12.453Z</updated>
+    <updated>2025-12-02T22:08:53.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Terminal Finance Shuts Down After Ethena’s Converge Chain Fails to Launch]]></title>
+        <id>https://thedefiant.io/news/defi/terminal-finance-shuts-down-after-ethena-s-converge-chain-fails-to-launch</id>
+        <link href="https://thedefiant.io/news/defi/terminal-finance-shuts-down-after-ethena-s-converge-chain-fails-to-launch"/>
+        <updated>2025-12-02T21:51:50.000Z</updated>
+        <summary type="html"><![CDATA[The shutdown comes after months of delays on Converge’s mainnet, leaving Terminal Finance without the ecosystem it was built for.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Acquires Backed Finance]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-acquires-backed-finance</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat"/>
         <updated>2025-11-13T15:57:05.000Z</updated>
-        <summary type="html"><![CDATA[The new Winklevoss-backed ZEC DAT aims to hold at least 5% of the total Zcash supply.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction</id>
         <link href="https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction"/>
         <updated>2025-11-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The privacy-focused L2 is aiming to make token launches fairer.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation"/>
         <updated>2025-11-10T21:02:59.000Z</updated>
         <summary type="html"><![CDATA[Uniswap’s elusive fee switch may finally be getting flipped on as the Uniswap Foundation reveals a ‘UNIfication’ plan.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Tokens Outperform After US President Teases ‘Tariff Dividends’]]></title>
-        <id>https://thedefiant.io/news/people/trump-tokens-outperform-after-us-president-teases-tariff-dividends</id>
-        <link href="https://thedefiant.io/news/people/trump-tokens-outperform-after-us-president-teases-tariff-dividends"/>
-        <updated>2025-11-10T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[WLFI and TRUMP are leading the altcoin market today, surging 24% and 20% respectively.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
