@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T14:11:56.431Z</id>
+    <id>urn:2025-12-02T15:11:17.671Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T14:11:56.431Z</updated>
+    <updated>2025-12-02T15:11:17.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi, Polymarket Set New Volume Records in November]]></title>
+        <id>https://thedefiant.io/news/markets/kalshi-polymarket-record-spot-volumes-november</id>
+        <link href="https://thedefiant.io/news/markets/kalshi-polymarket-record-spot-volumes-november"/>
+        <updated>2025-12-02T14:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Prediction markets are heating up as Polymarket briefly climbed to the No. 1 spot in the App Store’s sports category.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monad Briefly Dips Below ICO Price]]></title>
         <id>https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking</id>
         <link href="https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking"/>
         <updated>2025-11-12T21:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion</id>
         <link href="https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion"/>
         <updated>2025-11-12T20:59:27.000Z</updated>
+        <summary type="html"><![CDATA[The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Users were left waiting for over a month after the synthetic dollar protocol’s Season 4 concluded in September.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Token Surges After $10 Million Buyback]]></title>
-        <id>https://thedefiant.io/news/defi/layerzero-token-surges-after-usd10-million-buyback</id>
-        <link href="https://thedefiant.io/news/defi/layerzero-token-surges-after-usd10-million-buyback"/>
-        <updated>2025-11-07T20:45:06.000Z</updated>
-        <summary type="html"><![CDATA[The omnichain protocol’s ZRO buyback highlights a broader trend of crypto projects returning revenue to tokenholders.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
