@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T15:11:17.671Z</id>
+    <id>urn:2025-12-02T16:13:31.675Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-02T15:11:17.671Z</updated>
+    <updated>2025-12-02T16:13:31.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Edge Higher as Bitcoin Breaks Back Over $90,000]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025"/>
+        <updated>2025-12-02T15:33:33.000Z</updated>
+        <summary type="html"><![CDATA[ETH, SOL, and BNB post gains, while analysts say the market “appears less worried” now.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi, Polymarket Set New Volume Records in November]]></title>
         <id>https://thedefiant.io/news/markets/kalshi-polymarket-record-spot-volumes-november</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain"/>
         <updated>2025-11-12T22:23:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking</id>
         <link href="https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking"/>
         <updated>2025-11-12T21:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[In this conversation, May Zabaneh breaks down PayPal’s move into stablecoins with PYUSD and why it matters for financial inclusion. We explore how PYUSD could lower costs for cross-border payments, deliver faster settlement, and plug directly into PayPal’s existing ecosystem. The discussion covers why PayPal built a proprietary stablecoin, early adoption and real-world use cases, and plans for international expansion. We also examine the role merchants play in crypto acceptance, how DeFi and traditional finance are converging, and why interoperability will be essential in the next phase of digital payments.]]></summary>
         <author>
             <name>Chris Storaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Season 4 Rewards Go Live]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-season-4-rewards-go-live</id>
-        <link href="https://thedefiant.io/news/defi/ethena-season-4-rewards-go-live"/>
-        <updated>2025-11-07T20:59:24.000Z</updated>
-        <summary type="html"><![CDATA[Users were left waiting for over a month after the synthetic dollar protocol’s Season 4 concluded in September.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
