@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T14:11:34.845Z</id>
+    <id>urn:2025-12-03T15:11:20.993Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T14:11:34.845Z</updated>
+    <updated>2025-12-03T15:11:20.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kamino Sparks Outcry After Blocking Loan Transfers to Jupiter Lend]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance</id>
+        <link href="https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance"/>
+        <updated>2025-12-03T14:59:59.000Z</updated>
+        <summary type="html"><![CDATA[The second-largest protocol in the Solana ecosystem has manually blacklisted an address tied to a competing lending platform.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HYPE Jumps 8% After $888 Million DAT Gets Approved]]></title>
         <id>https://thedefiant.io/news/markets/hype-jumps-8-after-usd888-million-dat-gets-approved</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq</id>
         <link href="https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq"/>
         <updated>2025-11-13T18:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Canary Capital’s XRPC ETF marks a major milestone for Ripple.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume</id>
         <link href="https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume"/>
         <updated>2025-11-13T18:03:49.000Z</updated>
+        <summary type="html"><![CDATA[The tokenized stock platform supports Ethereum and other networks, but the majority of capital is concentrated on Solana.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Despite the cautious outlook, most investors still plan to maintain or increase crypto holdings.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monad Faces Community Backlash After Unveiling Tokenomics]]></title>
-        <id>https://thedefiant.io/news/blockchains/monad-faces-community-backlash-after-unveiling-tokenomics</id>
-        <link href="https://thedefiant.io/news/blockchains/monad-faces-community-backlash-after-unveiling-tokenomics"/>
-        <updated>2025-11-10T23:25:17.000Z</updated>
-        <summary type="html"><![CDATA[The sale structure and tokenomics are raising some eyebrows, as onlookers slam Monad for claiming to be “community-focused.”]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
