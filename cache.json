@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable",
+          "author": "Jona Jaupi",
+          "description": "The upgrade introduces the PeerDAS system, helping Ethereum process more transactions while keeping fees low.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable",
+          "publishedOn": "2025-12-03T21:39:52.000Z",
+          "wordCount": null,
+          "title": "Ethereum Launches Fusaka Upgrade to Make Network More Scalable",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/kraken-1-4-png-2ab45abd-e438-4529-9a0a-cb33df1e986b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/kraken-1-4-png-2ab45abd-e438-4529-9a0a-cb33df1e986b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000",
           "author": "Denis Omelchenko",
           "description": "Nearly all top-20 tokens by market cap are in the green as the market continues its recovery.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
           "author": "Squiffs",
-          "description": "TradeXYZ, Felix, and Ventuals all released new HIP-3 markets on Hyperliquid today, including tokenized NVDA, TSLA, and SPACEX.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up",
           "publishedOn": "2025-11-14T01:38:29.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The persistent market weakness comes amid the U.S. government reopening and lingering inflation concerns.",
           "link": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump",
           "publishedOn": "2025-11-13T20:58:01.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/19462edbe92f8511282dcc2aa13055af44356ef21a461867e3505e17e5ad-8bbd3586-c66f-4fdf-93d2-96cb71d005a3.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi",
-          "author": "Denis Omelchenko",
-          "description": "Threshold Network’s tBTC bridge upgrade opens the door for over $400 billion in institutional Bitcoin to flow into DeFi.",
-          "link": "https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi",
-          "publishedOn": "2025-11-11T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Threshold Network Upgrades tBTC Bridge to Link Institutional Bitcoin with DeFi",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/threshold-1-png-04e7f8d5-6c9f-42a2-b9b4-3c5b93578a63.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/threshold-1-png-04e7f8d5-6c9f-42a2-b9b4-3c5b93578a63.png"
         }
       ]
     }

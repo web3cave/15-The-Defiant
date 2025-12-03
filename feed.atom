@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T21:09:08.945Z</id>
+    <id>urn:2025-12-03T22:10:29.672Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T21:09:08.945Z</updated>
+    <updated>2025-12-03T22:10:29.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Launches Fusaka Upgrade to Make Network More Scalable]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable"/>
+        <updated>2025-12-03T21:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade introduces the PeerDAS system, helping Ethereum process more transactions while keeping fees low.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Continue to Climb as Bitcoin Reclaims $93,000]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up</id>
         <link href="https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up"/>
         <updated>2025-11-14T01:38:29.000Z</updated>
-        <summary type="html"><![CDATA[TradeXYZ, Felix, and Ventuals all released new HIP-3 markets on Hyperliquid today, including tokenized NVDA, TSLA, and SPACEX.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump"/>
         <updated>2025-11-13T20:58:01.000Z</updated>
+        <summary type="html"><![CDATA[The persistent market weakness comes amid the U.S. government reopening and lingering inflation concerns.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-markets-down-awaiting-government-shutdown-decision"/>
         <updated>2025-11-11T14:38:31.000Z</updated>
         <summary type="html"><![CDATA[Crypto market capitalization fell 2% today to $3.62 trillion, with most major assets showing mild losses.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threshold Network Upgrades tBTC Bridge to Link Institutional Bitcoin with DeFi]]></title>
-        <id>https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi</id>
-        <link href="https://thedefiant.io/news/defi/threshold-network-upgrades-tbtc-bridge-to-link-institutional-bitcoin-with-defi"/>
-        <updated>2025-11-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Threshold Network’s tBTC bridge upgrade opens the door for over $400 billion in institutional Bitcoin to flow into DeFi.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
