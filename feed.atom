@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T15:11:20.993Z</id>
+    <id>urn:2025-12-03T16:14:23.847Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T15:11:20.993Z</updated>
+    <updated>2025-12-03T16:14:23.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Continue to Climb as Bitcoin Reclaims $93,000]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000"/>
+        <updated>2025-12-03T15:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Nearly all top-20 tokens by market cap are in the green as the market continues its recovery.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kamino Sparks Outcry After Blocking Loan Transfers to Jupiter Lend]]></title>
         <id>https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-dips-below-usd98-000-amid-global-market-slump"/>
         <updated>2025-11-13T20:58:01.000Z</updated>
-        <summary type="html"><![CDATA[The persistent market weakness comes amid the U.S. government reopening and lingering inflation concerns.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq</id>
         <link href="https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq"/>
         <updated>2025-11-13T18:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Canary Capital’s XRPC ETF marks a major milestone for Ripple.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Threshold Network’s tBTC bridge upgrade opens the door for over $400 billion in institutional Bitcoin to flow into DeFi.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Institutional Sentiment is Turning Bearish on Crypto: Sygnum]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum"/>
-        <updated>2025-11-11T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite the cautious outlook, most investors still plan to maintain or increase crypto holdings.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
