@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T22:07:42.157Z</id>
+    <id>urn:2025-12-04T23:09:30.219Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T22:07:42.157Z</updated>
+    <updated>2025-12-04T23:09:30.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Users Suspect Insider Trading After Google Trend Markets Crown Surprise Winner]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner"/>
+        <updated>2025-12-04T22:36:22.000Z</updated>
+        <summary type="html"><![CDATA[One account won more than $1 million on yesterday’s Google search trend markets.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighter to Introduce Spot Trading]]></title>
         <id>https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves</id>
         <link href="https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves"/>
         <updated>2025-11-18T01:32:16.000Z</updated>
-        <summary type="html"><![CDATA[The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22</id>
         <link href="https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22"/>
         <updated>2025-11-17T21:47:44.000Z</updated>
+        <summary type="html"><![CDATA[The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The payments app will support multiple stablecoins and networks at launch.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large POPCAT Trades Result in $5 Million Loss for Hyperliquid Vault]]></title>
-        <id>https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault</id>
-        <link href="https://thedefiant.io/news/defi/large-popcat-trades-result-in-usd5-million-loss-for-hyperliquid-vault"/>
-        <updated>2025-11-13T01:38:23.000Z</updated>
-        <summary type="html"><![CDATA[The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
