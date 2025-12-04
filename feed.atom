@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T19:10:30.746Z</id>
+    <id>urn:2025-12-04T20:10:57.457Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T19:10:30.746Z</updated>
+    <updated>2025-12-04T20:10:57.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Citadel’s Call For SEC to Regulate DeFi Protocols Divides Crypto Experts]]></title>
+        <id>https://thedefiant.io/news/regulation/citadel-s-call-for-sec-to-regulate-defi-protocols-divides-crypto-experts</id>
+        <link href="https://thedefiant.io/news/regulation/citadel-s-call-for-sec-to-regulate-defi-protocols-divides-crypto-experts"/>
+        <updated>2025-12-04T19:50:19.000Z</updated>
+        <summary type="html"><![CDATA[The trading firm warned that tokenized stocks need the same rules as regular exchanges.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock’s BUIDL Fund Now Eligible as Collateral on M0]]></title>
         <id>https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol</id>
         <link href="https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol"/>
         <updated>2025-11-17T18:08:09.000Z</updated>
-        <summary type="html"><![CDATA[The protocol’s front end is expected to be released to the public in Q1 2026.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear"/>
         <updated>2025-11-17T15:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flare TVL Nears Record High as Firelight Teases XRP Liquid Staking]]></title>
-        <id>https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking</id>
-        <link href="https://thedefiant.io/news/blockchains/flare-tvl-nears-record-high-as-firelight-teases-xrp-liquid-staking"/>
-        <updated>2025-11-12T21:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
