@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T21:09:10.357Z</id>
+    <id>urn:2025-12-04T22:07:42.157Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T21:09:10.357Z</updated>
+    <updated>2025-12-04T22:07:42.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighter to Introduce Spot Trading]]></title>
+        <id>https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading</id>
+        <link href="https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading"/>
+        <updated>2025-12-04T21:16:31.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange is expanding beyond derivatives and into spot asset trading, beginning with ETH.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citadel’s Call For SEC to Regulate DeFi Protocols Divides Crypto Experts]]></title>
         <id>https://thedefiant.io/news/regulation/citadel-s-call-for-sec-to-regulate-defi-protocols-divides-crypto-experts</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22</id>
         <link href="https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22"/>
         <updated>2025-11-17T21:47:44.000Z</updated>
-        <summary type="html"><![CDATA[The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol</id>
         <link href="https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol"/>
         <updated>2025-11-17T18:08:09.000Z</updated>
+        <summary type="html"><![CDATA[The protocol’s front end is expected to be released to the public in Q1 2026.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The Arbitrum bridge to Hyperliquid temporarily paused deposits and withdrawals after an attacker left the HLP Vault holding $25 million of POPCAT.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche DeFi: the Journey to Bring Institutions Onchain]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/avalanche-defi-the-journey-to-bring-institutions-onchain"/>
-        <updated>2025-11-12T22:23:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second episode of Ecosystems: Avalanche, we track the protocol’s trajectory, which included a peak valuation of $13 billion, followed by a period of consolidation and strategic redevelopment.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
