@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/galaxy-acquires-alluvial-finance-to-expand-liquid-staking",
+          "author": "Denis Omelchenko",
+          "description": "Despite the acquisition, Liquid Collective will remain under the oversight of a non-profit foundation.",
+          "link": "https://thedefiant.io/news/cefi/galaxy-acquires-alluvial-finance-to-expand-liquid-staking",
+          "publishedOn": "2025-12-04T12:00:47.000Z",
+          "wordCount": null,
+          "title": "Galaxy Looks to Expand Institutional Staking Infra with Alluvial Acquisition",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/a99935e6602f7aaa4c1b7364ddf6425c4337bbb0de0710e80d5e70f83eff-0c0b9599-7a48-429a-b21f-37047b73de1d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/a99935e6602f7aaa4c1b7364ddf6425c4337bbb0de0710e80d5e70f83eff-0c0b9599-7a48-429a-b21f-37047b73de1d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-rebound-accelerates-after-vanguard-allows-crypto-etf-trading",
           "author": "Jona Jaupi",
           "description": "Bitcoin surged 6% immediately after trading debuted on Tuesday.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows",
           "author": "Jona Jaupi",
-          "description": "Over $1 billion in leveraged positions were also wiped out in the past 24 hours.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows",
           "publishedOn": "2025-11-14T21:19:12.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The company also announced a new AI smart contract feature to facilitate global B2B trade.",
           "link": "https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan",
           "publishedOn": "2025-11-14T19:48:17.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/a8b7465933cc31bc85d9cb0ba2a5a4b12ce23ab1147182b2cc03662cd126-ba9402f6-f654-499b-ad07-5caadb334f8a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
-          "author": "Denis Omelchenko",
-          "description": "The funding round, led by Founders Fund and Ribbit Capital, values the company at about $1.5 billion.",
-          "link": "https://thedefiant.io/news/defi/lighter-becomes-top-perp-dex-by-volume-reveals-usd68-million-raise",
-          "publishedOn": "2025-11-12T13:47:18.000Z",
-          "wordCount": null,
-          "title": "Lighter Rises to Top Perp DEX by Volume, Reveals $68M Raise",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/4f90fd9f33b4f54049566aee22400f04b90150213881de6118dd2279a2ba-61f2e58f-f8f1-44ee-8f23-6c065293b202.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/4f90fd9f33b4f54049566aee22400f04b90150213881de6118dd2279a2ba-61f2e58f-f8f1-44ee-8f23-6c065293b202.png"
         }
       ]
     }
