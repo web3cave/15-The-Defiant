@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-05T17:10:14.052Z</id>
+    <id>urn:2025-12-05T18:13:09.375Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-05T17:10:14.052Z</updated>
+    <updated>2025-12-05T18:13:09.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SYRUP Jumps 16% After Maple Reveals 2M Token Buyback]]></title>
+        <id>https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback</id>
+        <link href="https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback"/>
+        <updated>2025-12-05T17:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Maple’s move comes as token buybacks across crypto have grown fivefold over the past year.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21Shares Launches First Leveraged Sui ETF on Nasdaq]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/research-and-opinion/nearly-20-of-americans-would-prefer-crypto-over-gift-cards-this-holiday-season-paypal</id>
         <link href="https://thedefiant.io/news/research-and-opinion/nearly-20-of-americans-would-prefer-crypto-over-gift-cards-this-holiday-season-paypal"/>
         <updated>2025-11-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new survey finds that younger adults are leading crypto adoption for gifting and shopping.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer"/>
         <updated>2025-11-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Interop Layer aims to let users and developers interact with all L2 networks as if they were a single chain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The new Winklevoss-backed ZEC DAT aims to hold at least 5% of the total Zcash supply.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec Network Launches First Token Sale Using Uniswap’s Continuous Clearing Auction]]></title>
-        <id>https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction</id>
-        <link href="https://thedefiant.io/news/defi/aztec-network-launches-first-token-sale-using-uniswap-s-continuous-clearing-auction"/>
-        <updated>2025-11-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The privacy-focused L2 is aiming to make token launches fairer.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
