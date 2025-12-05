@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-05T00:49:07.691Z</id>
+    <id>urn:2025-12-05T02:29:50.961Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-05T00:49:07.691Z</updated>
+    <updated>2025-12-05T02:29:50.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[21Shares Launches First Leveraged Sui ETF on Nasdaq]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq"/>
+        <updated>2025-12-05T01:18:20.000Z</updated>
+        <summary type="html"><![CDATA[The new fund, TXXS, gives traders 2x daily exposure to SUI.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Users Suspect Insider Trading After Google Trend Markets Crown Surprise Winner]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-unveils-new-technical-details-about-interop-layer"/>
         <updated>2025-11-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Interop Layer aims to let users and developers interact with all L2 networks as if they were a single chain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves</id>
         <link href="https://thedefiant.io/news/cefi/bny-s-new-fund-pushes-for-safer-stablecoin-reserves"/>
         <updated>2025-11-18T01:32:16.000Z</updated>
+        <summary type="html"><![CDATA[The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The privacy-focused L2 is aiming to make token launches fairer.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Dorsey’s Cash App Adds Support for Stablecoins in First Expansion Beyond Bitcoin]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-cash-app-adds-stablecoins"/>
-        <updated>2025-11-13T11:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The payments app will support multiple stablecoins and networks at launch.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
