@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers",
+          "author": "Denis Omelchenko",
+          "description": "The update unifies USDC across HyperCore and HyperEVM, setting up a transition away from the Arbitrum-based bridge.",
+          "link": "https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers",
+          "publishedOn": "2025-12-08T20:40:14.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid Launches Direct USDC Transfers",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hypeusdc-1-png-36421d84-09cc-420e-9076-c7132f2e7aef.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hypeusdc-1-png-36421d84-09cc-420e-9076-c7132f2e7aef.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe",
           "author": "Denis Omelchenko",
           "description": "The tokenization platform says the SEC has formally closed a confidential Biden-era investigation without any charges.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
           "author": "Jona Jaupi",
-          "description": "The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.",
+          "description": "",
           "link": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
           "publishedOn": "2025-11-18T22:28:53.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.",
           "link": "https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi",
           "publishedOn": "2025-11-18T20:24:26.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/b3cd65f276dcabaefec9eafb38bcad524d5229ec1b6fa261e5e0e3c2e0a3-1426b6b9-6d37-42c0-9cf5-86dfe71fdb45.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain",
-          "author": "Jona Jaupi",
-          "description": "Traders can also now use the tokenized U.S. dollar fund as collateral on Binance.",
-          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain",
-          "publishedOn": "2025-11-14T18:06:54.000Z",
-          "wordCount": null,
-          "title": "BlackRock’s BUIDL Fund Expands to BNB Chain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/buidl-1-png-c08c789f-502a-4013-9632-6f12b4025178.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/buidl-1-png-c08c789f-502a-4013-9632-6f12b4025178.png"
         }
       ]
     }
