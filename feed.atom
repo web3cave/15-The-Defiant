@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-08T19:07:54.937Z</id>
+    <id>urn:2025-12-08T20:11:27.179Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-08T19:07:54.937Z</updated>
+    <updated>2025-12-08T20:11:27.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ONDO Jumps as SEC Ends Biden-Era Probe]]></title>
+        <id>https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe</id>
+        <link href="https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe"/>
+        <updated>2025-12-08T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[The tokenization platform says the SEC has formally closed a confidential Biden-era investigation without any charges.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Hovers Around $90,000 as Saylor Reveals $960 Million Buy]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-saylor-reveals-usd960-million-buy</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi</id>
         <link href="https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi"/>
         <updated>2025-11-18T20:24:26.000Z</updated>
-        <summary type="html"><![CDATA[The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial</id>
         <link href="https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial"/>
         <updated>2025-11-18T19:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Senators Elizabeth Warren and Jack Reed allege the Trump family’s DeFi protocol is tied to malicious actors from North Korea and Russia.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Traders can also now use the tokenized U.S. dollar fund as collateral on Binance.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Equity Market on Hyperliquid Heats Up]]></title>
-        <id>https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up</id>
-        <link href="https://thedefiant.io/news/defi/tokenized-equity-market-on-hyperliquid-heats-up"/>
-        <updated>2025-11-14T01:38:29.000Z</updated>
-        <summary type="html"><![CDATA[TradeXYZ, Felix, and Ventuals all released new HIP-3 markets on Hyperliquid today, including tokenized NVDA, TSLA, and SPACEX.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
