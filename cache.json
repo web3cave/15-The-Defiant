@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard",
+          "author": "Denis Omelchenko",
+          "description": "The new feature lets users fund DeFi protocols directly with bank cards.",
+          "link": "https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard",
+          "publishedOn": "2025-12-09T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Swapper Finance Launches Card Deposits to DeFi via Mastercard",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/f5d13363f4386c1fac5487a58436f595a6107f4b411227dc6c5ec05f3e70-1cf14bf8-bb2b-4c2a-bcf2-6fb5279056b4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/f5d13363f4386c1fac5487a58436f595a6107f4b411227dc6c5ec05f3e70-1cf14bf8-bb2b-4c2a-bcf2-6fb5279056b4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch",
           "author": "Denis Omelchenko",
           "description": "Early supporters report they’re stuck unable to withdraw funds while STABLE loses value.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
           "author": "Jona Jaupi",
-          "description": "The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
           "publishedOn": "2025-11-19T17:55:39.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.",
           "link": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
           "publishedOn": "2025-11-19T16:38:38.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/image-png-196ca6f0-0992-434c-b872-c11becdf3209.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs",
-          "author": "Squiffs",
-          "description": "Despite the crypto market’s weakness, STRK is up more than 20% today.",
-          "link": "https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs",
-          "publishedOn": "2025-11-14T21:42:03.000Z",
-          "wordCount": null,
-          "title": "Starknet Token Outperforms as TVL Climbs",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strk-1-png-e3c45e26-6ce8-4527-aa79-7453a4c9d01e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strk-1-png-e3c45e26-6ce8-4527-aa79-7453a4c9d01e.png"
         }
       ]
     }

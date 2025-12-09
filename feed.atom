@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-09T16:13:15.485Z</id>
+    <id>urn:2025-12-09T17:11:26.745Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-09T16:13:15.485Z</updated>
+    <updated>2025-12-09T17:11:26.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Swapper Finance Launches Card Deposits to DeFi via Mastercard]]></title>
+        <id>https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard</id>
+        <link href="https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard"/>
+        <updated>2025-12-09T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new feature lets users fund DeFi protocols directly with bank cards.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitfinex-Backed Stable Sees Hectic Mainnet Launch as Token Price Drops]]></title>
         <id>https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets</id>
         <link href="https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets"/>
         <updated>2025-11-19T17:55:39.000Z</updated>
-        <summary type="html"><![CDATA[The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise</id>
         <link href="https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise"/>
         <updated>2025-11-19T16:38:38.000Z</updated>
+        <summary type="html"><![CDATA[The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of "Do Your Own Research" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?]]></summary>
         <author>
             <name>Virginia Valenzuela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet Token Outperforms as TVL Climbs]]></title>
-        <id>https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs</id>
-        <link href="https://thedefiant.io/news/blockchains/starknet-token-outperforms-as-tvl-climbs"/>
-        <updated>2025-11-14T21:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Despite the crypto market’s weakness, STRK is up more than 20% today.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
