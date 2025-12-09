@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-09T15:11:43.692Z</id>
+    <id>urn:2025-12-09T16:13:15.485Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-09T15:11:43.692Z</updated>
+    <updated>2025-12-09T16:13:15.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitfinex-Backed Stable Sees Hectic Mainnet Launch as Token Price Drops]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch</id>
+        <link href="https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch"/>
+        <updated>2025-12-09T15:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Early supporters report they’re stuck unable to withdraw funds while STABLE loses value.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farcaster Abandons Social Network Strategy to Focus on Wallet]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/farcaster-abandons-social-network-strategy-to-focus-on-wallet</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise</id>
         <link href="https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise"/>
         <updated>2025-11-19T16:38:38.000Z</updated>
-        <summary type="html"><![CDATA[The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k"/>
         <updated>2025-11-19T15:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Crypto market capitalization is down to $3.18 trillion, while selling pressure is elevated among short-term holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Despite the crypto market’s weakness, STRK is up more than 20% today.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Drops to $94,000 Following Second-Largest Daily ETF Outflows]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows"/>
-        <updated>2025-11-14T21:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Over $1 billion in leveraged positions were also wiped out in the past 24 hours.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
