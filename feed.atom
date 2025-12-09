@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-09T22:10:19.973Z</id>
+    <id>urn:2025-12-09T23:09:17.399Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-09T22:10:19.973Z</updated>
+    <updated>2025-12-09T23:09:17.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Payments-Focused Tempo Blockchain Launches Public Testnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/payments-focused-tempo-blockchain-launches-public-testnet</id>
+        <link href="https://thedefiant.io/news/blockchains/payments-focused-tempo-blockchain-launches-public-testnet"/>
+        <updated>2025-12-09T22:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Developed by Stripe and Paradigm, Tempo aims to offer fast, low-cost stablecoin payments.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arkham’s 'Misleading' Zcash Tracking Claims Spark Outrage]]></title>
         <id>https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol</id>
         <link href="https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol"/>
         <updated>2025-11-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The deployment aims to connect tokenized funds with Plume’s RWA investors.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score</id>
         <link href="https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score"/>
         <updated>2025-11-20T14:42:49.000Z</updated>
+        <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The protocol’s front end is expected to be released to the public in Q1 2026.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Starts the Week Below $95K as Market Sentiment Turns to Extreme Fear]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear"/>
-        <updated>2025-11-17T15:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
