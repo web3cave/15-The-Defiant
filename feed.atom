@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-10T15:12:56.417Z</id>
+    <id>urn:2025-12-10T16:14:35.748Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-10T15:12:56.417Z</updated>
+    <updated>2025-12-10T16:14:35.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superstate Debuts Direct On-Chain Stock Issuance Platform for Public US Firms]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain"/>
+        <updated>2025-12-10T15:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The program lets firms issue new shares directly on Ethereum and Solana.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animoca Teams Up with Solv to Boost Corporate Bitcoin Adoption in Japan]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/animoca-solv-protocol-bitcoin-treasury-management-japan</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc</id>
         <link href="https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc"/>
         <updated>2025-11-20T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[The bill was introduced by Rep. Warren Davidson (R‑Ohio).]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report"/>
         <updated>2025-11-20T15:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is trading below $91,000, with most large-caps flat or down today, despite somewhat positive jobs data from the U.S.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Stablecoin Supply Jumps 22%]]></title>
-        <id>https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22</id>
-        <link href="https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22"/>
-        <updated>2025-11-17T21:47:44.000Z</updated>
-        <summary type="html"><![CDATA[The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
