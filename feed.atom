@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T20:12:28.612Z</id>
+    <id>urn:2025-12-11T21:11:31.246Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T20:12:28.612Z</updated>
+    <updated>2025-12-11T21:11:31.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JellyJelly Rockets 120% on App Store Release]]></title>
+        <id>https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release</id>
+        <link href="https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release"/>
+        <updated>2025-12-11T20:16:42.000Z</updated>
+        <summary type="html"><![CDATA[The video chat app built by Venmo co-founder Iqram Magdon-Ismail launched its token earlier this year.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Drop Amid Rising US Jobless Claims]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury"/>
         <updated>2025-11-24T17:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Enlivex will use a private placement to accumulate the native token of decentralized prediction market protocol Rain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing</id>
         <link href="https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing"/>
         <updated>2025-11-24T16:39:57.000Z</updated>
+        <summary type="html"><![CDATA[MON briefly surged 14% higher than its ICO price after listing across major CEXs, before retracing.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Registers Staked Ethereum Trust]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust"/>
-        <updated>2025-11-19T22:00:49.000Z</updated>
-        <summary type="html"><![CDATA[The world’s largest asset manager is making preparations for a staked ETH ETF.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
