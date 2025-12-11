@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T15:11:55.463Z</id>
+    <id>urn:2025-12-11T16:14:43.566Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T15:11:55.463Z</updated>
+    <updated>2025-12-11T16:14:43.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stream Files Lawsuit Against Operator ‘0xlaw’ Over $93 Million Loss]]></title>
+        <id>https://thedefiant.io/news/defi/stream-finance-files-lawsuit-against-0xlaw-mcmeans</id>
+        <link href="https://thedefiant.io/news/defi/stream-finance-files-lawsuit-against-0xlaw-mcmeans"/>
+        <updated>2025-12-11T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[The team behind the original Stream Finance project is alleging that Caleb McMeans, known in DeFi as “0xlaw,” mismanaged funds.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets - Bitcoin Rallies on Fed Rate Cut]]></title>
         <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-rallies-on-fed-rate-cut</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/kalshi-usd1b-funding-usd11b-valution-report</id>
         <link href="https://thedefiant.io/news/cefi/kalshi-usd1b-funding-usd11b-valution-report"/>
         <updated>2025-11-21T18:01:46.000Z</updated>
-        <summary type="html"><![CDATA[The prediction market's reported raise was at a valuation of $11 billion, just days after reports that Polymarket is looking to raise funds at $12 billion.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector"/>
         <updated>2025-11-21T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[The deal brings the Vector team and real-time token tools into Coinbase’s DEX system.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Senators Call for Probe into World Liberty Financial]]></title>
-        <id>https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial</id>
-        <link href="https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial"/>
-        <updated>2025-11-18T19:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Senators Elizabeth Warren and Jack Reed allege the Trump family’s DeFi protocol is tied to malicious actors from North Korea and Russia.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
