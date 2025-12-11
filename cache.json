@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
+          "author": "Denis Omelchenko",
+          "description": "Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.",
+          "link": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
+          "publishedOn": "2025-12-11T17:39:19.000Z",
+          "wordCount": null,
+          "title": "Coinbase Says It’s ‘Expanding to Solana’ with Native DEX Trading",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/3d9fbe342151f364abf71ccff057dead1beb53e7d13b18eebbaad7d1e6f1-f4603093-7be2-44fb-98ca-7b0b2f272a70.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/3d9fbe342151f364abf71ccff057dead1beb53e7d13b18eebbaad7d1e6f1-f4603093-7be2-44fb-98ca-7b0b2f272a70.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/solana-ticketing-platform-kyd-labs-launches-tix",
           "author": "Squiffs",
           "description": "The DeFi-focused ticket provider looks to scale out infrastructure for an artist and fan-focused financial structure.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
           "author": "Jona Jaupi",
-          "description": "The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
           "publishedOn": "2025-11-21T21:51:00.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.",
           "link": "https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows",
           "publishedOn": "2025-11-21T18:37:35.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/fb3ac8c6bef691d42b6daba1ca5cec65a8a6185cebcf580b710023977739-f423841d-f1a9-4c28-88be-9831aa76d839.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
-          "author": "Jona Jaupi",
-          "description": "The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.",
-          "link": "https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains",
-          "publishedOn": "2025-11-18T22:28:53.000Z",
-          "wordCount": null,
-          "title": "Circle Debuts xReserve to Expand USDC Access Across Chains",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/xreserve-1-png-ca71f59b-1240-4afc-beb0-919955816454.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/xreserve-1-png-ca71f59b-1240-4afc-beb0-919955816454.png"
         }
       ]
     }

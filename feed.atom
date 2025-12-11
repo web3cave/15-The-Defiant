@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T17:16:59.337Z</id>
+    <id>urn:2025-12-11T18:13:48.466Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T17:16:59.337Z</updated>
+    <updated>2025-12-11T18:13:48.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Says It’s ‘Expanding to Solana’ with Native DEX Trading]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading"/>
+        <updated>2025-12-11T17:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Ticketing Platform KYD Labs Launches TIX for Live Events Financing]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/solana-ticketing-platform-kyd-labs-launches-tix</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms"/>
         <updated>2025-11-21T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows"/>
         <updated>2025-11-21T18:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Crypto market capitalization is down to $3.18 trillion, while selling pressure is elevated among short-term holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Debuts xReserve to Expand USDC Access Across Chains]]></title>
-        <id>https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains</id>
-        <link href="https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains"/>
-        <updated>2025-11-18T22:28:53.000Z</updated>
-        <summary type="html"><![CDATA[The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
