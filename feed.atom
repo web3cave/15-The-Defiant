@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T19:11:25.073Z</id>
+    <id>urn:2025-12-11T20:12:28.612Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T19:11:25.073Z</updated>
+    <updated>2025-12-11T20:12:28.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Drop Amid Rising US Jobless Claims]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims"/>
+        <updated>2025-12-11T19:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and other major digital assets dip as U.S. labor data and Oracle earnings disappoint.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy Digital Issues Commercial Paper on Solana via JPMorgan]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing</id>
         <link href="https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing"/>
         <updated>2025-11-24T16:39:57.000Z</updated>
-        <summary type="html"><![CDATA[MON briefly surged 14% higher than its ICO price after listing across major CEXs, before retracing.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown</id>
         <link href="https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown"/>
         <updated>2025-11-22T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The world’s largest asset manager is making preparations for a staked ETH ETF.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid to Roll Out ‘Growth Mode’ to Supercharge New Markets]]></title>
-        <id>https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets</id>
-        <link href="https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets"/>
-        <updated>2025-11-19T17:55:39.000Z</updated>
-        <summary type="html"><![CDATA[The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
