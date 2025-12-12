@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-12T18:15:36.326Z</id>
+    <id>urn:2025-12-12T19:09:10.403Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-12T18:15:36.326Z</updated>
+    <updated>2025-12-12T19:09:10.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DTCC Gets SEC Clearance to Pilot Tokenized U.S. Securities]]></title>
+        <id>https://thedefiant.io/news/regulation/dtcc-gets-sec-clearance-to-pilot-tokenized-u-s-securities</id>
+        <link href="https://thedefiant.io/news/regulation/dtcc-gets-sec-clearance-to-pilot-tokenized-u-s-securities"/>
+        <updated>2025-12-12T18:20:03.000Z</updated>
+        <summary type="html"><![CDATA[The three-year pilot program will test tokenized stock, ETFs, and Treasury securities on L1s and L2s.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terra Founder Do Kwon Sentenced to 15 Years in Prison]]></title>
         <id>https://thedefiant.io/news/people/terra-founder-do-kwon-sentenced-to-15-years-in-prison</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states</id>
         <link href="https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states"/>
         <updated>2025-11-25T16:53:34.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited Polymarket US has been cleared to launch.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability</id>
         <link href="https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability"/>
         <updated>2025-11-24T21:31:56.000Z</updated>
+        <summary type="html"><![CDATA[An article from the European Central Bank speculates on how stablecoins could destabilize the global economy.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[A new report from Galaxy Digital shows record borrowing reflects a mix of airdrops, new lending products, and crypto price gains.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin For America Act Would Allow Tax Payments in BTC]]></title>
-        <id>https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc</id>
-        <link href="https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc"/>
-        <updated>2025-11-20T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[The bill was introduced by Rep. Warren Davidson (R‑Ohio).]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
