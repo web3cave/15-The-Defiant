@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/people/terra-founder-do-kwon-sentenced-to-15-years-in-prison",
+          "author": "Squiffs",
+          "description": "The Terra founder is set to serve half his sentence in the United States and the latter half in South Korea for the $40 billion LUNA fraud.",
+          "link": "https://thedefiant.io/news/people/terra-founder-do-kwon-sentenced-to-15-years-in-prison",
+          "publishedOn": "2025-12-12T04:10:34.000Z",
+          "wordCount": null,
+          "title": "Terra Founder Do Kwon Sentenced to 15 Years in Prison",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dokwon-1-png-baa7014b-56f1-4f22-af75-5aa61d855813.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dokwon-1-png-baa7014b-56f1-4f22-af75-5aa61d855813.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/solana-lending-markets-surge-as-network-positions-for-trillion-dollar-defi-future-redstone",
+          "author": "Jona Jaupi",
+          "description": "A new report highlights rising TVL and intense competition among new protocols.",
+          "link": "https://thedefiant.io/news/research-and-opinion/solana-lending-markets-surge-as-network-positions-for-trillion-dollar-defi-future-redstone",
+          "publishedOn": "2025-12-12T03:56:05.000Z",
+          "wordCount": null,
+          "title": "Solana Lending Markets Surge as Network Positions for Trillion-Dollar DeFi Future: Redstone",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6f4f1d95272fbd129c19a4ed005a829088d4bde4b5f77ec98b711f620ff7-b74bab32-af8a-49e6-bf9e-5dca062e97c4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6f4f1d95272fbd129c19a4ed005a829088d4bde4b5f77ec98b711f620ff7-b74bab32-af8a-49e6-bf9e-5dca062e97c4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours",
           "author": "Squiffs",
           "description": "The Hyperliquid front-end developed by Ethena and Based is now the second-largest HIP-3 market.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability",
           "author": "Squiffs",
-          "description": "An article from the European Central Bank speculates on how stablecoins could destabilize the global economy.",
+          "description": "",
           "link": "https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability",
           "publishedOn": "2025-11-24T21:31:56.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/maple-s-dispute-with-core-highlights-legal-limits-for-defi-products",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "Experts say the situation shows that even 'trustless' blockchain projects must follow traditional contracts and legal rules.",
           "link": "https://thedefiant.io/news/defi/maple-s-dispute-with-core-highlights-legal-limits-for-defi-products",
           "publishedOn": "2025-11-24T18:07:22.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btcusa-1-png-e5a0c1ff-f422-41b4-8173-6d1b3861ae7a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report",
-          "author": "Denis Omelchenko",
-          "description": "Bitcoin is trading below $91,000, with most large-caps flat or down today, despite somewhat positive jobs data from the U.S.",
-          "link": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-traders-digest-delayed-us-jobs-report",
-          "publishedOn": "2025-11-20T15:30:23.000Z",
-          "wordCount": null,
-          "title": "Crypto Market Holds Steady as Traders Digest Delayed US Jobs Report",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bf62aa45364e322fe2a589fb441685421a13f146e17a17a77fb715aeac02-b567b4e4-6c52-4dae-baa6-873cf5a58425.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bf62aa45364e322fe2a589fb441685421a13f146e17a17a77fb715aeac02-b567b4e4-6c52-4dae-baa6-873cf5a58425.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol",
-          "author": "Jona Jaupi",
-          "description": "The deployment aims to connect tokenized funds with Plume’s RWA investors.",
-          "link": "https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol",
-          "publishedOn": "2025-11-20T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Securitize to Launch Institutional Assets on Plume’s Nest Protocol",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/plume-1-png-b857e190-4410-4f01-860d-cd6049b625ad.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/plume-1-png-b857e190-4410-4f01-860d-cd6049b625ad.png"
         }
       ]
     }
