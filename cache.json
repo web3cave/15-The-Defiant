@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits",
+          "author": "Squiffs",
+          "description": "Retail traders can now fund their IBKR accounts with stablecoin transfers.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits",
+          "publishedOn": "2025-12-12T20:25:17.000Z",
+          "wordCount": null,
+          "title": "Interactive Brokers Enables Stablecoin Deposits",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d82d959d8e076cc59429b42f46a90f63f4567dd6eac823be20c73fb61100-f684613e-8397-4a87-9fdf-cd93f45761fb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d82d959d8e076cc59429b42f46a90f63f4567dd6eac823be20c73fb61100-f684613e-8397-4a87-9fdf-cd93f45761fb.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off",
           "author": "Jona Jaupi",
           "description": "Bitcoin hovered around $90,000 while Ethereum declined by 3.5% on the day.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
           "author": "Denis Omelchenko",
-          "description": "Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
           "publishedOn": "2025-11-25T17:22:12.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.",
           "link": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
           "publishedOn": "2025-11-25T17:15:52.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/dinari-1-1-png-f12d8382-7f00-41b1-8339-8d2ba9e98f4c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month",
-          "author": "Squiffs",
-          "description": "October was Polymarket’s busiest month ever, with November on track to surpass those activity records.",
-          "link": "https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month",
-          "publishedOn": "2025-11-20T20:42:43.000Z",
-          "wordCount": null,
-          "title": "Polymarket Seeks $12 Billion Valuation After Record-Breaking Month",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/poly12b-1-png-2cf007cf-f393-4d4a-8a25-296dcda08db3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/poly12b-1-png-2cf007cf-f393-4d4a-8a25-296dcda08db3.png"
         }
       ]
     }

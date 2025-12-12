@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-12T20:10:48.095Z</id>
+    <id>urn:2025-12-12T21:08:38.612Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-12T20:10:48.095Z</updated>
+    <updated>2025-12-12T21:08:38.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Interactive Brokers Enables Stablecoin Deposits]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits"/>
+        <updated>2025-12-12T20:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Retail traders can now fund their IBKR accounts with stablecoin transfers.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Post Minor Losses Amid Tech Sell-Off]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000"/>
         <updated>2025-11-25T17:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents</id>
         <link href="https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents"/>
         <updated>2025-11-25T17:15:52.000Z</updated>
+        <summary type="html"><![CDATA[SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The rollout spans four blockchains and 200 tokenized stocks.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Seeks $12 Billion Valuation After Record-Breaking Month]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-seeks-usd12-billion-valuation-after-record-breaking-month"/>
-        <updated>2025-11-20T20:42:43.000Z</updated>
-        <summary type="html"><![CDATA[October was Polymarket’s busiest month ever, with November on track to surpass those activity records.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
