@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-12T02:46:04.134Z</id>
+    <id>urn:2025-12-12T03:51:33.528Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-12T02:46:04.134Z</updated>
+    <updated>2025-12-12T03:51:33.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HyENA Volume Crosses $50 Million in First 48 Hours]]></title>
+        <id>https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours</id>
+        <link href="https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours"/>
+        <updated>2025-12-12T03:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The Hyperliquid front-end developed by Ethena and Based is now the second-largest HIP-3 market.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JellyJelly Rockets 120% on App Store Release]]></title>
         <id>https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/maple-s-dispute-with-core-highlights-legal-limits-for-defi-products</id>
         <link href="https://thedefiant.io/news/defi/maple-s-dispute-with-core-highlights-legal-limits-for-defi-products"/>
         <updated>2025-11-24T18:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Experts say the situation shows that even 'trustless' blockchain projects must follow traditional contracts and legal rules.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury"/>
         <updated>2025-11-24T17:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Enlivex will use a private placement to accumulate the native token of decentralized prediction market protocol Rain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The deployment aims to connect tokenized funds with Plume’s RWA investors.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&amp; P Ratings Gives Justin Sun-Linked TrueUSD Lowest Score]]></title>
-        <id>https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score</id>
-        <link href="https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score"/>
-        <updated>2025-11-20T14:42:49.000Z</updated>
-        <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
