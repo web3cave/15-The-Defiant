@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T21:09:36.886Z</id>
+    <id>urn:2025-12-15T22:10:13.116Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-15T21:09:36.886Z</updated>
+    <updated>2025-12-15T22:10:13.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TradeXYZ Faces Backlash After Whale Triggers Weekend Liquidations]]></title>
+        <id>https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations</id>
+        <link href="https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations"/>
+        <updated>2025-12-15T21:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Critics are taking the 3.5% sell-off as an opportunity to denounce 24/7 equity perpetuals trading.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[J.P. Morgan Launches Tokenized Money Market Fund on Ethereum]]></title>
         <id>https://thedefiant.io/news/defi/j-p-morgan-launches-tokenized-money-market-fund-on-ethereum</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume</id>
         <link href="https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume"/>
         <updated>2025-11-25T21:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized equity trading on Hyperliquid is ramping up following the rollout of “growth mode,” which significantly reduced fees.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-us-wholesale-inflation-ticks-up</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-dip-as-us-wholesale-inflation-ticks-up"/>
         <updated>2025-11-25T20:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum are down 2%, while top altcoins post mixed performances.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The prediction market's reported raise was at a valuation of $11 billion, just days after reports that Polymarket is looking to raise funds at $12 billion.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase to Acquire Solana DEX Vector to Expand On-Chain Trading]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-to-acquire-solana-memecoin-platform-vector"/>
-        <updated>2025-11-21T16:10:39.000Z</updated>
-        <summary type="html"><![CDATA[The deal brings the Vector team and real-time token tools into Coinbase’s DEX system.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
