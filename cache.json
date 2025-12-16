@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sec-crypto-task-force-privacy-roundtable-commissioner-peirce",
+          "author": "Jona Jaupi",
+          "description": "The recent SEC Crypto Task Force roundtable discussed the rising demand for privacy tools and the need for compliant solutions as crypto adoption grows.",
+          "link": "https://thedefiant.io/news/defi/sec-crypto-task-force-privacy-roundtable-commissioner-peirce",
+          "publishedOn": "2025-12-16T18:01:55.000Z",
+          "wordCount": null,
+          "title": "SEC Commissioner Peirce, Crypto Experts Say Privacy Is Key to Crypto Adoption",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/d64ca93ff860603e4fd5b84dd32ba5204541742e78940c2d3b8944d696f0-6095507b-e53b-4b48-a9ff-3edd8d2b08d1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/d64ca93ff860603e4fd5b84dd32ba5204541742e78940c2d3b8944d696f0-6095507b-e53b-4b48-a9ff-3edd8d2b08d1.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability",
+          "author": "Denis Omelchenko",
+          "description": "The move to return frozen funds following the Balancer hack has split the Gnosis community over governance and the limits of “code is law.”",
+          "link": "https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability",
+          "publishedOn": "2025-12-16T17:25:11.000Z",
+          "wordCount": null,
+          "title": "Gnosis Hard Fork to Recover Balancer Funds Sparks Debate on Immutability",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6827bf4e89608af4bae997ef15f8965628ccbd915d6f0e7a4cb7b9a4f1db-4464f57c-bf02-4b59-8374-3268558fd67e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6827bf4e89608af4bae997ef15f8965628ccbd915d6f0e7a4cb7b9a4f1db-4464f57c-bf02-4b59-8374-3268558fd67e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/visa-launches-stablecoin-usdc-settlement-united-states",
           "author": "Squiffs",
           "description": "One of the largest payments network in the world is launching USDC settlement after a two-year pilot program.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april",
           "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and major altcoins gained, while ETFs recorded inflows.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april",
           "publishedOn": "2025-11-26T18:17:50.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The move follows ZEC’s massive rally since late September.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
           "publishedOn": "2025-11-26T15:49:49.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/e8fe2328b70224b84e79077b266b1d56ef8fa091066d0af7aeca8cf1470c-cdc53ac5-36a7-4e55-99d4-7e09bb05738e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown",
-          "author": "Squiffs",
-          "description": "Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.",
-          "link": "https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown",
-          "publishedOn": "2025-11-22T14:41:04.000Z",
-          "wordCount": null,
-          "title": "United States, Korea, and Brazil Eye Crypto Tax Crackdown",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/tax-1-png-5e1d561f-1c5e-4730-9616-17d7d0e15a2f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/tax-1-png-5e1d561f-1c5e-4730-9616-17d7d0e15a2f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
-          "author": "Squiffs",
-          "description": "The Bitcoin DeFi token is up 25% from its launch price.",
-          "link": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
-          "publishedOn": "2025-11-21T22:21:12.000Z",
-          "wordCount": null,
-          "title": "Build on Bitcoin Token Rallies on Coinbase Listing",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png"
         }
       ]
     }
