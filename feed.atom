@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T16:14:03.722Z</id>
+    <id>urn:2025-12-16T17:15:02.043Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-16T16:14:03.722Z</updated>
+    <updated>2025-12-16T17:15:02.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visa Unveils Stablecoin Settlement in the United States]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-launches-stablecoin-usdc-settlement-united-states</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-launches-stablecoin-usdc-settlement-united-states"/>
+        <updated>2025-12-16T16:43:33.000Z</updated>
+        <summary type="html"><![CDATA[One of the largest payments network in the world is launching USDC settlement after a two-year pilot program.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Struggles to Stay Above $87,000 as Ethereum Leads Top-10 Losses]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-16</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf"/>
         <updated>2025-11-26T15:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The move follows ZEC’s massive rally since late September.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms"/>
         <updated>2025-11-26T15:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Smokey The Bera publicly confirmed the refund agreement with Brevan Howard’s Nova Digital for its $25 million investment, but called reports on the terms “inaccurate.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The Bitcoin DeFi token is up 25% from its launch price.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Saylor Defends Strategy as MSCI Index Risk Looms]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms"/>
-        <updated>2025-11-21T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
