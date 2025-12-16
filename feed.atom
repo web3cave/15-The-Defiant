@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T15:12:48.302Z</id>
+    <id>urn:2025-12-16T16:14:03.722Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-16T15:12:48.302Z</updated>
+    <updated>2025-12-16T16:14:03.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Struggles to Stay Above $87,000 as Ethereum Leads Top-10 Losses]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-dec-16</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-dec-16"/>
+        <updated>2025-12-16T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Markets extended losses on Tuesday, with most large-cap crypto assets in the red.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prediction Market Monthly Volumes Grew 130x Since 2024: Keyrock, Dune]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/berachain-brevan-howard-nova-digital-refund-terms"/>
         <updated>2025-11-26T15:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Smokey The Bera publicly confirmed the refund agreement with Brevan Howard’s Nova Digital for its $25 million investment, but called reports on the terms “inaccurate.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap</id>
         <link href="https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap"/>
         <updated>2025-11-25T21:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Privacy is becoming the center of gravity for what’s coming with Ethereum and DeFi. Zero-knowledge proofs and SNARKs are at the center of the discussion and seen as the means to achieve the Lean Ethereum Roadmap. The ecosystem is moving towards a narrative in which security, censorship resistance, and user protection are key pillars at every layer.]]></summary>
         <author>
             <name>Diego Vera</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Lending TVL Nears All-Time Lows]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows"/>
-        <updated>2025-11-21T18:37:35.000Z</updated>
-        <summary type="html"><![CDATA[Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
