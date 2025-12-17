@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T20:11:42.538Z</id>
+    <id>urn:2025-12-17T21:09:37.246Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-17T20:11:42.538Z</updated>
+    <updated>2025-12-17T21:09:37.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DTCC Taps Canton Network to Test Tokenized Treasuries]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot"/>
+        <updated>2025-12-17T20:29:16.000Z</updated>
+        <summary type="html"><![CDATA[The global financial infra giant says it chose the Layer 1 to protect sensitive trading data.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legacy Yearn Vault Exploited in Second Attack on the Protocol This Month]]></title>
         <id>https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202</id>
         <link href="https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202"/>
         <updated>2025-11-27T19:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving"/>
         <updated>2025-11-27T18:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization stands at $3.2 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Receives CFTC Approval to Operate in the United States]]></title>
-        <id>https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states</id>
-        <link href="https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states"/>
-        <updated>2025-11-25T16:53:34.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited Polymarket US has been cleared to launch.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
