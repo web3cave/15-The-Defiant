@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T23:09:02.083Z</id>
+    <id>urn:2025-12-17T00:45:32.823Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-16T23:09:02.083Z</updated>
+    <updated>2025-12-17T00:45:32.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave DAO Controversy Rekindles Debate on Tokenholder Rights]]></title>
+        <id>https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights</id>
+        <link href="https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights"/>
+        <updated>2025-12-16T22:59:10.000Z</updated>
+        <summary type="html"><![CDATA[What began as technical questions on governance forums has escalated into a public dispute over control, incentives, and tokenholder rights.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Commissioner Peirce, Crypto Experts Say Privacy Is Key to Crypto Adoption]]></title>
         <id>https://thedefiant.io/news/defi/sec-crypto-task-force-privacy-roundtable-commissioner-peirce</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/hyperliquid-catches-flak-for-reassigning-mon-ticker</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-catches-flak-for-reassigning-mon-ticker"/>
         <updated>2025-11-26T21:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Pixelmon purchased the MON ticker on Hyperliquid for nearly $500,000 earlier this year; however, MON on Hyperliquid now points to Monad.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april"/>
         <updated>2025-11-26T18:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins gained, while ETFs recorded inflows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Enlivex will use a private placement to accumulate the native token of decentralized prediction market protocol Rain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monad Launches Mainnet, MON Trades Near ICO Price]]></title>
-        <id>https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing</id>
-        <link href="https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing"/>
-        <updated>2025-11-24T16:39:57.000Z</updated>
-        <summary type="html"><![CDATA[MON briefly surged 14% higher than its ICO price after listing across major CEXs, before retracing.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
