@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T19:11:37.407Z</id>
+    <id>urn:2025-12-17T20:11:42.538Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-17T19:11:37.407Z</updated>
+    <updated>2025-12-17T20:11:42.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Legacy Yearn Vault Exploited in Second Attack on the Protocol This Month]]></title>
+        <id>https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked</id>
+        <link href="https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked"/>
+        <updated>2025-12-17T19:51:59.000Z</updated>
+        <summary type="html"><![CDATA[An iEarn vault from an earlier version of the veteran DeFi protocol was exploited for roughly $300,000, just weeks after Yearn lost $9 million.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia’s Biggest Bank Sberbank Pilots ‘DeFi Tools’ for TradFi Convergence]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/sberbank-pilots-defi-tools</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving"/>
         <updated>2025-11-27T18:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization stands at $3.2 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/only-the-biggest-dats-will-survive-bitwise-execs-warn</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/only-the-biggest-dats-will-survive-bitwise-execs-warn"/>
         <updated>2025-11-27T17:18:14.000Z</updated>
+        <summary type="html"><![CDATA[According to the firm’s CIO, most digital asset treasuries will either trade at a discount or disappear, with only the biggest able to trade at a premium.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/regulation/polymarket-receives-cftc-approval-to-operate-in-the-united-states"/>
         <updated>2025-11-25T16:53:34.000Z</updated>
         <summary type="html"><![CDATA[The long-awaited Polymarket US has been cleared to launch.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECB Says Stablecoins Threaten Financial Stability]]></title>
-        <id>https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability</id>
-        <link href="https://thedefiant.io/news/regulation/ecb-says-stablecoins-threaten-financial-stability"/>
-        <updated>2025-11-24T21:31:56.000Z</updated>
-        <summary type="html"><![CDATA[An article from the European Central Bank speculates on how stablecoins could destabilize the global economy.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
