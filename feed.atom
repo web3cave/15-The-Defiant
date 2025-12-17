@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T21:09:37.246Z</id>
+    <id>urn:2025-12-17T22:10:08.672Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-17T21:09:37.246Z</updated>
+    <updated>2025-12-17T22:10:08.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Proposes Burning 13% of Circulating Supply]]></title>
+        <id>https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply</id>
+        <link href="https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply"/>
+        <updated>2025-12-17T22:01:31.000Z</updated>
+        <summary type="html"><![CDATA[The Hyper Foundation is looking to lock tokens in the Hyperliquid Assistance Fund, permanently removing nearly $1 billion in HYPE from the circulating and total supply.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DTCC Taps Canton Network to Test Tokenized Treasuries]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign</id>
         <link href="https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign"/>
         <updated>2025-11-28T14:27:35.000Z</updated>
-        <summary type="html"><![CDATA[The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202</id>
         <link href="https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202"/>
         <updated>2025-11-27T19:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKALE Launches on Base in New Initiative for Onchain Agents]]></title>
-        <id>https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents</id>
-        <link href="https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents"/>
-        <updated>2025-11-25T17:15:52.000Z</updated>
-        <summary type="html"><![CDATA[SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

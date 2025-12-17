@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply",
+          "author": "Squiffs",
+          "description": "The Hyper Foundation is looking to lock tokens in the Hyperliquid Assistance Fund, permanently removing nearly $1 billion in HYPE from the circulating and total supply.",
+          "link": "https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply",
+          "publishedOn": "2025-12-17T22:01:31.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid Proposes Burning 13% of Circulating Supply",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/69b11de62284578d3d85f8cda7b53a1b6f3a53908471d4d7ffe23b802c56-10424f31-bf6d-4a2c-b2b3-66dbfd2655e6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/69b11de62284578d3d85f8cda7b53a1b6f3a53908471d4d7ffe23b802c56-10424f31-bf6d-4a2c-b2b3-66dbfd2655e6.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot",
           "author": "Jona Jaupi",
           "description": "The global financial infra giant says it chose the Layer 1 to protect sensitive trading data.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign",
           "author": "Denis Omelchenko",
-          "description": "The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign",
           "publishedOn": "2025-11-28T14:27:35.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.",
           "link": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
           "publishedOn": "2025-11-27T19:05:34.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-2-png-558b3fa6-5f47-44d9-8516-ae5c6e4f7776.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
-          "author": "Jona Jaupi",
-          "description": "SKALE taps Base’s liquidity and users, making cross-chain AI agent deployment easier.",
-          "link": "https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents",
-          "publishedOn": "2025-11-25T17:15:52.000Z",
-          "wordCount": null,
-          "title": "SKALE Launches on Base in New Initiative for Onchain Agents",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/skale-1-png-00dc9ab5-2641-4cd2-88d0-fceed8f1f648.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/skale-1-png-00dc9ab5-2641-4cd2-88d0-fceed8f1f648.png"
         }
       ]
     }
