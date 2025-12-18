@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T12:19:47.525Z</id>
+    <id>urn:2025-12-18T13:29:07.810Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T12:19:47.525Z</updated>
+    <updated>2025-12-18T13:29:07.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Fragmentation Could Cost Tokenized Asset Market Billions: RWAio]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report"/>
+        <updated>2025-12-18T13:03:26.000Z</updated>
+        <summary type="html"><![CDATA[The new research highlights tokenized RWA sector inefficiencies and calls for cross-chain interoperability.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Proposes Burning 13% of Circulating Supply]]></title>
         <id>https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy"/>
         <updated>2025-11-28T18:39:49.000Z</updated>
-        <summary type="html"><![CDATA[The golden era of pre-seed crypto investing may be over, as most venture capital is now pouring into later-stage companies.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign</id>
         <link href="https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign"/>
         <updated>2025-11-28T14:27:35.000Z</updated>
+        <summary type="html"><![CDATA[The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Klarna taps Stripe and Paradigm’s Tempo network as stablecoin adoption accelerates.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum DATs Heavily Underwater as ETH Price Drops Below $3,000]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000"/>
-        <updated>2025-11-25T17:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
