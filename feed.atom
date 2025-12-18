@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T18:15:59.451Z</id>
+    <id>urn:2025-12-18T19:10:51.236Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T18:15:59.451Z</updated>
+    <updated>2025-12-18T19:10:51.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intuit Partners with Circle to Integrate Stablecoin Infra, USDC Across Its Platform]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/intuit-partners-with-circle-usdc</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/intuit-partners-with-circle-usdc"/>
+        <updated>2025-12-18T18:46:11.000Z</updated>
+        <summary type="html"><![CDATA[The move aims to speed up payments, refunds, and remittances across the finance management giant's products.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Online Bank SoFi Launches Native Stablecoin]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit</id>
         <link href="https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit"/>
         <updated>2025-12-01T17:14:36.000Z</updated>
-        <summary type="html"><![CDATA[The yETH exploit is the third hack of a Yearn Finance product since 2021.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally"/>
         <updated>2025-11-28T21:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization dips 0.5% to $3.19 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Smokey The Bera publicly confirmed the refund agreement with Brevan Howard’s Nova Digital for its $25 million investment, but called reports on the terms “inaccurate.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy, ZK Everything and Big Announcements: DevConnect 2025 Recap]]></title>
-        <id>https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap</id>
-        <link href="https://thedefiant.io/news/blockchains/privacy-zk-everything-and-big-announcements-devconnect-2025-recap"/>
-        <updated>2025-11-25T21:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Privacy is becoming the center of gravity for what’s coming with Ethereum and DeFi. Zero-knowledge proofs and SNARKs are at the center of the discussion and seen as the means to achieve the Lean Ethereum Roadmap. The ecosystem is moving towards a narrative in which security, censorship resistance, and user protection are key pillars at every layer.]]></summary>
-        <author>
-            <name>Diego Vera</name>
         </author>
     </entry>
 </feed>
