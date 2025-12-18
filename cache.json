@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet",
+          "author": "Squiffs",
+          "description": "The DeFi protocol is releasing an onchain-offchain hybrid CLOB perp exchange on DeFi’s largest Layer 1.",
+          "link": "https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet",
+          "publishedOn": "2025-12-18T22:16:12.000Z",
+          "wordCount": null,
+          "title": "Synthetix Unveils Perpetual DEX on Ethereum Mainnet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/synthetix-on-ethereum-png-429b11c5-c1b6-42fc-b542-5704de1f23bb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/synthetix-on-ethereum-png-429b11c5-c1b6-42fc-b542-5704de1f23bb.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking",
           "author": "Denis Omelchenko",
           "description": "DeFi’s largest liquid staking provider has proposed expanding into stablecoin yield with new products aimed at institutions.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
           "author": "Jona Jaupi",
-          "description": "The SUSHI token is down 12% on the day.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
           "publishedOn": "2025-12-01T20:07:13.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
           "publishedOn": "2025-12-01T18:17:44.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/660528b842d1d3e601ef30ded5013fd73a235a964132b58fb537bb0261ba-2277d7dd-8e78-4bb5-bc45-861c617d036d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
-          "author": "Denis Omelchenko",
-          "description": "The move follows ZEC’s massive rally since late September.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf",
-          "publishedOn": "2025-11-26T15:49:49.000Z",
-          "wordCount": null,
-          "title": "Grayscale Files to Convert Zcash Trust into Spot ZEC ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/d4a4e3e74211aaffdb4a08ceb1a6ea4a4edfdb3075e544170a3649d1da75-79da0c0a-7622-486a-be0f-faccb43007dd.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/d4a4e3e74211aaffdb4a08ceb1a6ea4a4edfdb3075e544170a3649d1da75-79da0c0a-7622-486a-be0f-faccb43007dd.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T22:09:56.387Z</id>
+    <id>urn:2025-12-18T23:10:18.111Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T22:09:56.387Z</updated>
+    <updated>2025-12-18T23:10:18.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Synthetix Unveils Perpetual DEX on Ethereum Mainnet]]></title>
+        <id>https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet</id>
+        <link href="https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet"/>
+        <updated>2025-12-18T22:16:12.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi protocol is releasing an onchain-offchain hybrid CLOB perp exchange on DeFi’s largest Layer 1.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Outlines $60M Plan to Expand Beyond Liquid Staking]]></title>
         <id>https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef</id>
         <link href="https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef"/>
         <updated>2025-12-01T20:07:13.000Z</updated>
-        <summary type="html"><![CDATA[The SUSHI token is down 12% on the day.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment"/>
         <updated>2025-12-01T18:17:44.000Z</updated>
+        <summary type="html"><![CDATA[ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The startup is planning a satellite-based network to secure blockchain and cryptographic computing beyond Earth.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Files to Convert Zcash Trust into Spot ZEC ETF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-to-convert-zcash-trust-into-spot-zec-etf"/>
-        <updated>2025-11-26T15:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The move follows ZEC’s massive rally since late September.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
