@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T17:14:22.518Z</id>
+    <id>urn:2025-12-18T18:15:59.451Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T17:14:22.518Z</updated>
+    <updated>2025-12-18T18:15:59.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Online Bank SoFi Launches Native Stablecoin]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd"/>
+        <updated>2025-12-18T18:07:46.000Z</updated>
+        <summary type="html"><![CDATA[The online banking giant is continuing to dive back into crypto and what it calls the “blockchain super cycle.”]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Retraces Back Below $89,000 as Traders Unsure of Next Move]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally"/>
         <updated>2025-11-28T21:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization dips 0.5% to $3.19 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy</id>
         <link href="https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy"/>
         <updated>2025-11-28T20:01:53.000Z</updated>
+        <summary type="html"><![CDATA[After spending much of its resources supporting Ethereum Layer 2 networks like Base and Ink, Optimism’s CEO says the network is now rethinking its approach.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Privacy is becoming the center of gravity for what’s coming with Ethereum and DeFi. Zero-knowledge proofs and SNARKs are at the center of the discussion and seen as the means to achieve the Lean Ethereum Roadmap. The ecosystem is moving towards a narrative in which security, censorship resistance, and user protection are key pillars at every layer.]]></summary>
         <author>
             <name>Diego Vera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradeXYZ Crosses $500 Million in Daily Volume]]></title>
-        <id>https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume</id>
-        <link href="https://thedefiant.io/news/defi/tradexyz-crosses-usd500-million-in-daily-volume"/>
-        <updated>2025-11-25T21:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized equity trading on Hyperliquid is ramping up following the rollout of “growth mode,” which significantly reduced fees.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
