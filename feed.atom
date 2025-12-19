@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T15:10:54.238Z</id>
+    <id>urn:2025-12-19T16:12:04.285Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-19T15:10:54.238Z</updated>
+    <updated>2025-12-19T16:12:04.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Stabilizes Near $88K as Selling Pressure Persists]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update"/>
+        <updated>2025-12-19T15:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Large-caps slump as ETF outflows and macro fears weigh on market sentiment.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetix Unveils Perpetual DEX on Ethereum Mainnet]]></title>
         <id>https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve"/>
         <updated>2025-12-01T21:26:16.000Z</updated>
-        <summary type="html"><![CDATA[The largest publicly traded Bitcoin holder says the reserve will cover dividends amid debate over its approach.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef</id>
         <link href="https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef"/>
         <updated>2025-12-01T20:07:13.000Z</updated>
+        <summary type="html"><![CDATA[The SUSHI token is down 12% on the day.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april"/>
         <updated>2025-11-26T18:17:50.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin, Ethereum, and major altcoins gained, while ETFs recorded inflows.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceComputer Raises $10 Million to Run Secure Blockchain Compute from Space]]></title>
-        <id>https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round</id>
-        <link href="https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round"/>
-        <updated>2025-11-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The startup is planning a satellite-based network to secure blockchain and cryptographic computing beyond Earth.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>

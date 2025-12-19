@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update",
+          "author": "Denis Omelchenko",
+          "description": "Large-caps slump as ETF outflows and macro fears weigh on market sentiment.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update",
+          "publishedOn": "2025-12-19T15:36:30.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Stabilizes Near $88K as Selling Pressure Persists",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/17bf3630e8690fd2beb19e35c5419ebbf3ada8e89b3e3bb4309ac6597979-af6d15a5-50b1-4180-9865-31c023b59926.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/17bf3630e8690fd2beb19e35c5419ebbf3ada8e89b3e3bb4309ac6597979-af6d15a5-50b1-4180-9865-31c023b59926.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet",
           "author": "Squiffs",
           "description": "The DeFi protocol is releasing an onchain-offchain hybrid CLOB perp exchange on DeFi’s largest Layer 1.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
           "author": "Jona Jaupi",
-          "description": "The largest publicly traded Bitcoin holder says the reserve will cover dividends amid debate over its approach.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
           "publishedOn": "2025-12-01T21:26:16.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The SUSHI token is down 12% on the day.",
           "link": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
           "publishedOn": "2025-12-01T20:07:13.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/debanking-1-png-ff130389-752a-4e0f-9856-9d23700b9112.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round",
-          "author": "Jona Jaupi",
-          "description": "The startup is planning a satellite-based network to secure blockchain and cryptographic computing beyond Earth.",
-          "link": "https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round",
-          "publishedOn": "2025-11-26T17:00:00.000Z",
-          "wordCount": null,
-          "title": "SpaceComputer Raises $10 Million to Run Secure Blockchain Compute from Space",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/660528b842d1d3e601ef30ded5013fd73a235a964132b58fb537bb0261ba-2277d7dd-8e78-4bb5-bc45-861c617d036d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/660528b842d1d3e601ef30ded5013fd73a235a964132b58fb537bb0261ba-2277d7dd-8e78-4bb5-bc45-861c617d036d.png"
         }
       ]
     }
