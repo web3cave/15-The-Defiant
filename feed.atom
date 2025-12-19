@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T17:10:11.152Z</id>
+    <id>urn:2025-12-19T18:14:43.960Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-19T17:10:11.152Z</updated>
+    <updated>2025-12-19T18:14:43.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Sues Three States Over Prediction Market Restrictions]]></title>
+        <id>https://thedefiant.io/news/regulation/coinbase-prediction-market-state-vs-federal-regulations</id>
+        <link href="https://thedefiant.io/news/regulation/coinbase-prediction-market-state-vs-federal-regulations"/>
+        <updated>2025-12-19T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The lawsuits were filed just before the Senate confirmed Trump’s pick to lead what would be prediction markets' federal regulator, the CFTC.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DPRK Hackers Avoid DeFi Lending Even as On-Chain Laundering Scales: Chainalysis]]></title>
         <id>https://thedefiant.io/news/hacks/north-korean-hackers-avoid-defi-lending-chainalysis-research</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on</id>
         <link href="https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on"/>
         <updated>2025-12-02T00:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Europol shuts down another crypto mixer, while Coinbase reports a new all-time high in law enforcement information requests.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble</id>
         <link href="https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble"/>
         <updated>2025-12-02T00:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Amid falling DeFi activity and a dip in Bitcoin’s price, tokenized commodities offer on-chain investors a safer alternative.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Experts say JPMorgan’s move against Strike CEO Jack Mallers highlights a recurring pattern in banking.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Catches Flak for Reassigning MON Ticker]]></title>
-        <id>https://thedefiant.io/news/defi/hyperliquid-catches-flak-for-reassigning-mon-ticker</id>
-        <link href="https://thedefiant.io/news/defi/hyperliquid-catches-flak-for-reassigning-mon-ticker"/>
-        <updated>2025-11-26T21:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Pixelmon purchased the MON ticker on Hyperliquid for nearly $500,000 earlier this year; however, MON on Hyperliquid now points to Monad.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
