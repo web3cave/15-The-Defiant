@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T20:11:13.742Z</id>
+    <id>urn:2025-12-19T21:09:05.435Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-19T20:11:13.742Z</updated>
+    <updated>2025-12-19T21:09:05.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LEO Surges as Bitfinex’s Fee Cut Highlights Exchange Competition]]></title>
+        <id>https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut</id>
+        <link href="https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut"/>
+        <updated>2025-12-19T20:15:46.000Z</updated>
+        <summary type="html"><![CDATA[The CEX removed maker and taker fees across spot, derivatives, and tokenized securities as competition intensifies among crypto exchanges.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Sues Three States Over Prediction Market Restrictions]]></title>
         <id>https://thedefiant.io/news/regulation/coinbase-prediction-market-state-vs-federal-regulations</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price</id>
         <link href="https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price"/>
         <updated>2025-12-02T03:15:36.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain’s DeFi ecosystem is off to a slow start, with just $150 million in TVL.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on</id>
         <link href="https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on"/>
         <updated>2025-12-02T00:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Europol shuts down another crypto mixer, while Coinbase reports a new all-time high in law enforcement information requests.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[S&P Global Ratings gave the world’s largest and most used stablecoin its lowest rating, citing an increase in "high risk" reserve assets.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Account Closures Highlight Banks’ Crypto Hypocrisy]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-account-closures-highlight-banks-crypto-hypocrisy</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-account-closures-highlight-banks-crypto-hypocrisy"/>
-        <updated>2025-11-26T22:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Experts say JPMorgan’s move against Strike CEO Jack Mallers highlights a recurring pattern in banking.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
