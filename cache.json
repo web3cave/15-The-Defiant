@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/north-korean-hackers-avoid-defi-lending-chainalysis-research",
+          "author": "Denis Omelchenko",
+          "description": "North Korean hackers are increasingly moving stolen crypto through bridges or mixers.",
+          "link": "https://thedefiant.io/news/hacks/north-korean-hackers-avoid-defi-lending-chainalysis-research",
+          "publishedOn": "2025-12-19T16:58:38.000Z",
+          "wordCount": null,
+          "title": "DPRK Hackers Avoid DeFi Lending Even as On-Chain Laundering Scales: Chainalysis",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/9f7ed6a042dffa2642241b1b4a7b443ad65d5d4beb4bff2ce7458e3aa207-c005b7e1-e19b-48c1-93da-8c55c74a26c4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/9f7ed6a042dffa2642241b1b4a7b443ad65d5d4beb4bff2ce7458e3aa207-c005b7e1-e19b-48c1-93da-8c55c74a26c4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update",
           "author": "Denis Omelchenko",
           "description": "Large-caps slump as ETF outflows and macro fears weigh on market sentiment.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble",
           "author": "Jona Jaupi",
-          "description": "Amid falling DeFi activity and a dip in Bitcoin’s price, tokenized commodities offer on-chain investors a safer alternative.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble",
           "publishedOn": "2025-12-02T00:18:33.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The largest publicly traded Bitcoin holder says the reserve will cover dividends amid debate over its approach.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
           "publishedOn": "2025-12-01T21:26:16.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/debanking-1-1-png-7baceff9-c4fa-4ccd-8382-a1f7083a6210.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and major altcoins gained, while ETFs recorded inflows.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-extend-rally-as-u-s-jobless-claims-hit-lowest-since-april",
-          "publishedOn": "2025-11-26T18:17:50.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Extend Rally as U.S. Jobless Claims Hit Lowest Since April",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/debanking-1-png-ff130389-752a-4e0f-9856-9d23700b9112.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/debanking-1-png-ff130389-752a-4e0f-9856-9d23700b9112.png"
         }
       ]
     }
