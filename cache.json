@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
+          "author": "Jona Jaupi",
+          "description": "The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.",
+          "link": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
+          "publishedOn": "2025-12-22T15:11:44.000Z",
+          "wordCount": null,
+          "title": "Magma Devs Launches RPC Smart Router on Google Cloud",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus",
           "author": "Denis Omelchenko",
           "description": "Brian Armstrong responds to community feedback about the Base App, which now blends finance and social features.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "author": "Jona Jaupi",
-          "description": "The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "publishedOn": "2025-12-02T18:05:52.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.",
           "link": "https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum",
           "publishedOn": "2025-12-02T17:37:16.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/db0d81d3506c789b78b53e5ac841492bf9941ca002a0a2fe60bb9ae265f3-ffdda658-e87c-4064-97b8-00929788b426.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
-          "author": "Jona Jaupi",
-          "description": "Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.",
-          "link": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
-          "publishedOn": "2025-11-27T19:05:34.000Z",
-          "wordCount": null,
-          "title": "RedStone Predicts Tokenized Assets Could Hit $60 Billion in 202",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/debanking-1-4-png-37e64ebe-7025-4bbc-9f39-745d2f570ca3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/debanking-1-4-png-37e64ebe-7025-4bbc-9f39-745d2f570ca3.png"
         }
       ]
     }

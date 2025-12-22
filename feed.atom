@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-22T15:10:39.452Z</id>
+    <id>urn:2025-12-22T16:12:23.724Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-22T15:10:39.452Z</updated>
+    <updated>2025-12-22T16:12:23.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Magma Devs Launches RPC Smart Router on Google Cloud]]></title>
+        <id>https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud</id>
+        <link href="https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud"/>
+        <updated>2025-12-22T15:11:44.000Z</updated>
+        <summary type="html"><![CDATA[The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO Debates Base App’s Strategic Focus]]></title>
         <id>https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live"/>
         <updated>2025-12-02T18:05:52.000Z</updated>
-        <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum</id>
         <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
         <updated>2025-12-02T17:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedStone Predicts Tokenized Assets Could Hit $60 Billion in 202]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202"/>
-        <updated>2025-11-27T19:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
