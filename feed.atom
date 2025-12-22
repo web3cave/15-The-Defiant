@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-22T14:11:08.864Z</id>
+    <id>urn:2025-12-22T15:10:39.452Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-22T14:11:08.864Z</updated>
+    <updated>2025-12-22T15:10:39.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO Debates Base App’s Strategic Focus]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus"/>
+        <updated>2025-12-22T14:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Brian Armstrong responds to community feedback about the Base App, which now blends finance and social features.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve DAO Rejects $6.2 Million Swiss Stake Funding Proposal]]></title>
         <id>https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum</id>
         <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
         <updated>2025-12-02T17:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025"/>
         <updated>2025-12-02T15:33:33.000Z</updated>
+        <summary type="html"><![CDATA[ETH, SOL, and BNB post gains, while analysts say the market “appears less worried” now.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hovers Above $91,000 With US Markets Closed for Thanksgiving]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving"/>
-        <updated>2025-11-27T18:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization stands at $3.2 trillion.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
