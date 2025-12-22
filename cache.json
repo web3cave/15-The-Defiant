@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin and Ethereum rise over 2% while SKY and NEAR lead the altcoin market.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays",
+          "publishedOn": "2025-12-22T17:15:04.000Z",
+          "wordCount": null,
+          "title": "Crypto Markets Rally Ahead of Holidays",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/951fd820868b3b9c031be3edc8c51aad981365bdd2dc40ebd5e4660b88a1-a58e9a53-0677-450b-9191-10edf800340c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/951fd820868b3b9c031be3edc8c51aad981365bdd2dc40ebd5e4660b88a1-a58e9a53-0677-450b-9191-10edf800340c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
           "author": "Jona Jaupi",
           "description": "The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/kraken-acquires-backed-finance",
           "author": "Squiffs",
-          "description": "The centralized exchange is set to step further into the real-world asset space.",
+          "description": "",
           "link": "https://thedefiant.io/news/cefi/kraken-acquires-backed-finance",
           "publishedOn": "2025-12-02T21:02:03.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "publishedOn": "2025-12-02T18:05:52.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/6d76ae3ad03425bceb49b836c1a37fa2ae9c37c88e0fb23223f2964d2dbb-3507ebc7-ff60-4411-bf35-115ba4997420.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign",
-          "author": "Denis Omelchenko",
-          "description": "The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.",
-          "link": "https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign",
-          "publishedOn": "2025-11-28T14:27:35.000Z",
-          "wordCount": null,
-          "title": "MegaETH to Refund USDm Pre-Deposits After Multisig Chaos",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/db0d81d3506c789b78b53e5ac841492bf9941ca002a0a2fe60bb9ae265f3-ffdda658-e87c-4064-97b8-00929788b426.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/db0d81d3506c789b78b53e5ac841492bf9941ca002a0a2fe60bb9ae265f3-ffdda658-e87c-4064-97b8-00929788b426.png"
         }
       ]
     }

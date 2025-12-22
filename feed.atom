@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-22T17:10:01.448Z</id>
+    <id>urn:2025-12-22T18:15:05.183Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-22T17:10:01.448Z</updated>
+    <updated>2025-12-22T18:15:05.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rally Ahead of Holidays]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays"/>
+        <updated>2025-12-22T17:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum rise over 2% while SKY and NEAR lead the altcoin market.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magma Devs Launches RPC Smart Router on Google Cloud]]></title>
         <id>https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/kraken-acquires-backed-finance</id>
         <link href="https://thedefiant.io/news/cefi/kraken-acquires-backed-finance"/>
         <updated>2025-12-02T21:02:03.000Z</updated>
-        <summary type="html"><![CDATA[The centralized exchange is set to step further into the real-world asset space.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live"/>
         <updated>2025-12-02T18:05:52.000Z</updated>
+        <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy"/>
         <updated>2025-11-28T18:39:49.000Z</updated>
         <summary type="html"><![CDATA[The golden era of pre-seed crypto investing may be over, as most venture capital is now pouring into later-stage companies.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MegaETH to Refund USDm Pre-Deposits After Multisig Chaos]]></title>
-        <id>https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign</id>
-        <link href="https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign"/>
-        <updated>2025-11-28T14:27:35.000Z</updated>
-        <summary type="html"><![CDATA[The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
