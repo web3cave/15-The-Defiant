@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T20:10:50.361Z</id>
+    <id>urn:2025-12-26T21:08:30.036Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T20:10:50.361Z</updated>
+    <updated>2025-12-26T21:08:30.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi’s Weekly Volume Hits $2.3B, Nearly Double Polymarket’s]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record"/>
+        <updated>2025-12-26T21:06:23.000Z</updated>
+        <summary type="html"><![CDATA[The prediction market’s volumes accelerated over the past seven days to overtake its main rival.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lighter Publishes Operations Code Ahead of TGE]]></title>
+        <id>https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge</id>
+        <link href="https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge"/>
+        <updated>2025-12-26T20:20:12.000Z</updated>
+        <summary type="html"><![CDATA[The leading perp DEX by trading volume is gearing up for its highly anticipated token airdrop.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Passes 'UNIfication' Fee Switch Proposal]]></title>
         <id>https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal</id>
         <link href="https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal"/>
         <updated>2025-12-26T19:50:41.000Z</updated>
-        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap’s mechanism to share fee revenue with UNI holders set to go live.]]></summary>
+        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap switching on protocol fees, which will be used to burn UNI.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback</id>
         <link href="https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback"/>
         <updated>2025-12-05T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Maple’s move comes as token buybacks across crypto have grown fivefold over the past year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner</id>
         <link href="https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner"/>
         <updated>2025-12-04T22:36:22.000Z</updated>
+        <summary type="html"><![CDATA[One account won more than $1 million on yesterday’s Google search trend markets.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -980,26 +1000,6 @@
         <link href="https://thedefiant.io/news/defi/terminal-finance-shuts-down-after-ethena-s-converge-chain-fails-to-launch"/>
         <updated>2025-12-02T21:51:50.000Z</updated>
         <summary type="html"><![CDATA[The shutdown comes after months of delays on Converge’s mainnet, leaving Terminal Finance without the ecosystem it was built for.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Acquires Backed Finance]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-acquires-backed-finance</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-acquires-backed-finance"/>
-        <updated>2025-12-02T21:02:03.000Z</updated>
-        <summary type="html"><![CDATA[The centralized exchange is set to step further into the real-world asset space.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink’s LINK Jumps 13% as Grayscale ETF Goes Live]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live"/>
-        <updated>2025-12-02T18:05:52.000Z</updated>
-        <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
