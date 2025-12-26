@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T19:07:32.727Z</id>
+    <id>urn:2025-12-26T20:10:50.361Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T19:07:32.727Z</updated>
+    <updated>2025-12-26T20:10:50.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Passes 'UNIfication' Fee Switch Proposal]]></title>
+        <id>https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal</id>
+        <link href="https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal"/>
+        <updated>2025-12-26T19:50:41.000Z</updated>
+        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap’s mechanism to share fee revenue with UNI holders set to go live.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trust Wallet Confirms $7M Stolen in Browser Extension Hack]]></title>
         <id>https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner</id>
         <link href="https://thedefiant.io/news/defi/polymarket-users-suspect-insider-trading-after-google-trend-markets-crown-surprise-winner"/>
         <updated>2025-12-04T22:36:22.000Z</updated>
-        <summary type="html"><![CDATA[One account won more than $1 million on yesterday’s Google search trend markets.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading</id>
         <link href="https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading"/>
         <updated>2025-12-04T21:16:31.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange is expanding beyond derivatives and into spot asset trading, beginning with ETH.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple’s RLUSD Stablecoin Tops $1B on Ethereum]]></title>
-        <id>https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum</id>
-        <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
-        <updated>2025-12-02T17:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
