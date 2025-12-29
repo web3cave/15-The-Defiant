@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-29T17:09:30.195Z</id>
+    <id>urn:2025-12-29T18:15:41.196Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-29T17:09:30.195Z</updated>
+    <updated>2025-12-29T18:15:41.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slip, BTC Hovers Near $87K as Holiday Trading Stays Quiet]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-update-december-29-2025</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-update-december-29-2025"/>
+        <updated>2025-12-29T17:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum edged lower, while liquidations and ETF outflows continued to weigh on sentiment.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi’s Weekly Volume Hits $2.3B, Nearly Double Polymarket’s]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-pull-back-as-u-s-core-inflation-misses-expectations</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-pull-back-as-u-s-core-inflation-misses-expectations"/>
         <updated>2025-12-05T20:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum slid along with most altcoins.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback</id>
         <link href="https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback"/>
         <updated>2025-12-05T17:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Maple’s move comes as token buybacks across crypto have grown fivefold over the past year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Sonnet BioTherapeutics will merge with Rorschach LLC to launch the first major HYPE treasury company.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminal Finance Shuts Down After Ethena’s Converge Chain Fails to Launch]]></title>
-        <id>https://thedefiant.io/news/defi/terminal-finance-shuts-down-after-ethena-s-converge-chain-fails-to-launch</id>
-        <link href="https://thedefiant.io/news/defi/terminal-finance-shuts-down-after-ethena-s-converge-chain-fails-to-launch"/>
-        <updated>2025-12-02T21:51:50.000Z</updated>
-        <summary type="html"><![CDATA[The shutdown comes after months of delays on Converge’s mainnet, leaving Terminal Finance without the ecosystem it was built for.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
