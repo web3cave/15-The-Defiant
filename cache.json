@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/zachxbt-reports-evm-hack-affecting-hundreds-of-wallets",
+          "author": "Squiffs",
+          "description": "The on-chain sleuth said that a total of roughly $100,000 had been drained across hundreds of wallets in a yet-to-be resolved exploit.",
+          "link": "https://thedefiant.io/news/hacks/zachxbt-reports-evm-hack-affecting-hundreds-of-wallets",
+          "publishedOn": "2026-01-02T21:45:16.000Z",
+          "wordCount": null,
+          "title": "ZachXBT Reports EVM Hack Affecting Hundreds of Wallets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/cb037547095f0f75314a374cade95c1cdde39aad08f297b6eb9f9193a344-df536656-b233-440e-a767-23cb65f5d283.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/cb037547095f0f75314a374cade95c1cdde39aad08f297b6eb9f9193a344-df536656-b233-440e-a767-23cb65f5d283.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-move-higher-after-holidays-memecoins-outperform",
           "author": "Jona Jaupi",
           "description": "Bitcoin, Ethereum, and major memecoins recorded gains, while privacy-focused coins slipped.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain",
           "author": "Denis Omelchenko",
-          "description": "The program lets firms issue new shares directly on Ethereum and Solana.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain",
           "publishedOn": "2025-12-10T15:18:56.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/animoca-solv-protocol-bitcoin-treasury-management-japan",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Both companies will guide on treasury and regulatory practices.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/animoca-solv-protocol-bitcoin-treasury-management-japan",
           "publishedOn": "2025-12-10T14:34:29.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/citadel-1-2-png-98dd5c37-1715-4372-aa80-8473216571da.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading",
-          "author": "Squiffs",
-          "description": "The perpetuals exchange is expanding beyond derivatives and into spot asset trading, beginning with ETH.",
-          "link": "https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading",
-          "publishedOn": "2025-12-04T21:16:31.000Z",
-          "wordCount": null,
-          "title": "Lighter to Introduce Spot Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/citadel-1-1-png-61e6e94e-a675-4450-869b-3a5dea048372.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/citadel-1-1-png-61e6e94e-a675-4450-869b-3a5dea048372.png"
         }
       ]
     }
