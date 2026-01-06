@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
+          "author": "Jona Jaupi",
+          "description": "Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
+          "publishedOn": "2026-01-06T18:59:19.000Z",
+          "wordCount": null,
+          "title": "How Digital Asset Treasuries Went Mainstream in 2025",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/8467600e07beba0d1553179b32f7d8276c53cc01b8c6f96986e66e31f983-f32c2ce4-53d6-4ee4-aa14-b17f0d481160.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/8467600e07beba0d1553179b32f7d8276c53cc01b8c6f96986e66e31f983-f32c2ce4-53d6-4ee4-aa14-b17f0d481160.png"
+        },
+        {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
           "author": "Camila Russo",
           "description": "In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.\n\nWe dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.\nFinally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates",
           "author": "Denis Omelchenko",
-          "description": "Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates",
           "publishedOn": "2025-12-11T18:10:07.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.",
           "link": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
           "publishedOn": "2025-12-11T17:39:19.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/cc3632cf2e54653d02106a01c22e4e82fc1d14e41ce075749a743e764317-0c3f6bf6-8e22-47ea-b194-5ad34c2a8d94.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/farcaster-abandons-social-network-strategy-to-focus-on-wallet",
-          "author": "Denis Omelchenko",
-          "description": "The blockchain-based social protocol is returning to the fundamental crypto elements it initially sought to leave behind.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/farcaster-abandons-social-network-strategy-to-focus-on-wallet",
-          "publishedOn": "2025-12-08T20:55:02.000Z",
-          "wordCount": null,
-          "title": "Farcaster Abandons Social Network Strategy to Focus on Wallet",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f2b81adb688b05ab8f7e7c193ac8a6b7a297827daeae3c4abced3fb73f4c-664006a5-cf5d-4307-8abe-1ed799132236.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f2b81adb688b05ab8f7e7c193ac8a6b7a297827daeae3c4abced3fb73f4c-664006a5-cf5d-4307-8abe-1ed799132236.png"
         }
       ]
     }
