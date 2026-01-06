@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-06T17:14:15.452Z</id>
+    <id>urn:2026-01-06T18:15:34.403Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-06T17:14:15.452Z</updated>
+    <updated>2026-01-06T18:15:34.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s “HTTP Moment” with Marissa Posner &amp;  Yoav Weiss]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss"/>
+        <updated>2026-01-06T17:50:53.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.
+
+We dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.
+Finally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infinex Changes ICO Terms Following Low Demand]]></title>
+        <id>https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand</id>
+        <link href="https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand"/>
+        <updated>2026-01-06T17:48:37.000Z</updated>
+        <summary type="html"><![CDATA[The team has removed contribution caps and changed the allocation distribution process.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley Unveils Spot Bitcoin and Solana ETFs]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs"/>
+        <updated>2026-01-06T17:47:19.000Z</updated>
+        <summary type="html"><![CDATA[One analyst called the filings a “shocker” as the first major U.S. bank enters the spot crypto ETF arena.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Render Soars 30% as AI-Focused Tokens Rally]]></title>
         <id>https://thedefiant.io/news/markets/render-soars-30-as-ai-focused-tokens-rally</id>
@@ -810,7 +843,6 @@
         <id>https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading</id>
         <link href="https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading"/>
         <updated>2025-12-11T17:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +872,7 @@
         <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-rallies-on-fed-rate-cut</id>
         <link href="https://thedefiant.io/education/premium-tutorials/markets-bitcoin-rallies-on-fed-rate-cut"/>
         <updated>2025-12-11T00:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Our chart of the week is LUNC.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -972,36 +1005,6 @@
         <summary type="html"><![CDATA[The blockchain-based social protocol is returning to the fundamental crypto elements it initially sought to leave behind.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Launches Direct USDC Transfers]]></title>
-        <id>https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers</id>
-        <link href="https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers"/>
-        <updated>2025-12-08T20:40:14.000Z</updated>
-        <summary type="html"><![CDATA[The update unifies USDC across HyperCore and HyperEVM, setting up a transition away from the Arbitrum-based bridge.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONDO Jumps as SEC Ends Biden-Era Probe]]></title>
-        <id>https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe</id>
-        <link href="https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe"/>
-        <updated>2025-12-08T19:36:59.000Z</updated>
-        <summary type="html"><![CDATA[The tokenization platform says the SEC has formally closed a confidential Biden-era investigation without any charges.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hovers Around $90,000 as Saylor Reveals $960 Million Buy]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-saylor-reveals-usd960-million-buy</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-saylor-reveals-usd960-million-buy"/>
-        <updated>2025-12-08T18:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization slips 0.7% to $3.16 trillion.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
+          "author": "Camila Russo",
+          "description": "In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.\n\nWe dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.\nFinally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
+          "publishedOn": "2026-01-06T17:50:53.000Z",
+          "wordCount": null,
+          "title": "Ethereum’s “HTTP Moment” with Marissa Posner &amp;  Yoav Weiss",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ct1efwvgc-y_640x480-jpg-688f12b2-913e-4553-b473-59c2a5b5948f.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ct1efwvgc-y_640x480-jpg-688f12b2-913e-4553-b473-59c2a5b5948f.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand",
+          "author": "Squiffs",
+          "description": "The team has removed contribution caps and changed the allocation distribution process.",
+          "link": "https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand",
+          "publishedOn": "2026-01-06T17:48:37.000Z",
+          "wordCount": null,
+          "title": "Infinex Changes ICO Terms Following Low Demand",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/infinex-1-png-a3c531c7-a246-4b73-914d-32486371f1d8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/infinex-1-png-a3c531c7-a246-4b73-914d-32486371f1d8.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs",
+          "author": "Squiffs",
+          "description": "One analyst called the filings a “shocker” as the first major U.S. bank enters the spot crypto ETF arena.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs",
+          "publishedOn": "2026-01-06T17:47:19.000Z",
+          "wordCount": null,
+          "title": "Morgan Stanley Unveils Spot Bitcoin and Solana ETFs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/22f2aa35277970764e4a9ec282b3341b8ee8cf2fd28628ce2d7d9da9e85f-2204a821-bbf5-4a2e-9835-26e055bcfab5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/22f2aa35277970764e4a9ec282b3341b8ee8cf2fd28628ce2d7d9da9e85f-2204a821-bbf5-4a2e-9835-26e055bcfab5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/render-soars-30-as-ai-focused-tokens-rally",
           "author": "Jona Jaupi",
           "description": "RENDER surges as demand for A.I. infrastructure grows.",
@@ -1208,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
           "author": "Denis Omelchenko",
-          "description": "Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
           "publishedOn": "2025-12-11T17:39:19.000Z",
           "wordCount": null,
@@ -1253,7 +1298,7 @@
         {
           "id": "https://thedefiant.io/education/premium-tutorials/markets-bitcoin-rallies-on-fed-rate-cut",
           "author": "yyctrader",
-          "description": "",
+          "description": "Our chart of the week is LUNC.",
           "link": "https://thedefiant.io/education/premium-tutorials/markets-bitcoin-rallies-on-fed-rate-cut",
           "publishedOn": "2025-12-11T00:01:41.000Z",
           "wordCount": null,
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/f2b81adb688b05ab8f7e7c193ac8a6b7a297827daeae3c4abced3fb73f4c-664006a5-cf5d-4307-8abe-1ed799132236.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers",
-          "author": "Denis Omelchenko",
-          "description": "The update unifies USDC across HyperCore and HyperEVM, setting up a transition away from the Arbitrum-based bridge.",
-          "link": "https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers",
-          "publishedOn": "2025-12-08T20:40:14.000Z",
-          "wordCount": 4708,
-          "title": "Hyperliquid Launches Direct USDC Transfers",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/hypeusdc-1-png-36421d84-09cc-420e-9076-c7132f2e7aef.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/hypeusdc-1-png-36421d84-09cc-420e-9076-c7132f2e7aef.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe",
-          "author": "Denis Omelchenko",
-          "description": "The tokenization platform says the SEC has formally closed a confidential Biden-era investigation without any charges.",
-          "link": "https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe",
-          "publishedOn": "2025-12-08T19:36:59.000Z",
-          "wordCount": null,
-          "title": "ONDO Jumps as SEC Ends Biden-Era Probe",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bb63b10fa8106e679de0c80bb022bf31977c0de642931a73a38cefacfee0-cb07389e-089d-4e76-ac62-10f7629e8408.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bb63b10fa8106e679de0c80bb022bf31977c0de642931a73a38cefacfee0-cb07389e-089d-4e76-ac62-10f7629e8408.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-saylor-reveals-usd960-million-buy",
-          "author": "yyctrader",
-          "description": "Altcoins trade mixed as the total crypto market capitalization slips 0.7% to $3.16 trillion.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-saylor-reveals-usd960-million-buy",
-          "publishedOn": "2025-12-08T18:11:04.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Hovers Around $90,000 as Saylor Reveals $960 Million Buy",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/kwon-1-1-png-b023928c-6370-4cd5-994b-b1ca1ee5d203.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/kwon-1-1-png-b023928c-6370-4cd5-994b-b1ca1ee5d203.png"
         }
       ]
     }
