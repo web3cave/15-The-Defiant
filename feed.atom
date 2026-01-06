@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-06T19:07:41.094Z</id>
+    <id>urn:2026-01-06T20:11:39.039Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-06T19:07:41.094Z</updated>
+    <updated>2026-01-06T20:11:39.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Trade Mixed as Bitcoin Pulls Back]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-trade-mixed-as-bitcoin-pulls-back</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-trade-mixed-as-bitcoin-pulls-back"/>
+        <updated>2026-01-06T20:03:50.000Z</updated>
+        <summary type="html"><![CDATA[BTC hovers around $92,000 as ETH extends weekly gains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krakenâ€™s Ink Layer 2 Surpasses $500 Million in TVL]]></title>
+        <id>https://thedefiant.io/news/blockchains/kraken-s-ink-layer-2-surpasses-usd500-million-in-tvl</id>
+        <link href="https://thedefiant.io/news/blockchains/kraken-s-ink-layer-2-surpasses-usd500-million-in-tvl"/>
+        <updated>2026-01-06T19:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Liquidity has surged since October, but daily active users have fallen by more than half from their peak.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Digital Asset Treasuries Went Mainstream in 2025]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims"/>
         <updated>2025-12-11T19:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and other major digital assets dip as U.S. labor data and Oracle earnings disappoint.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates</id>
         <link href="https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates"/>
         <updated>2025-12-11T18:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapper Finance Launches Card Deposits to DeFi via Mastercard]]></title>
-        <id>https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard</id>
-        <link href="https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard"/>
-        <updated>2025-12-09T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new feature lets users fund DeFi protocols directly with bank cards.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitfinex-Backed Stable Sees Hectic Mainnet Launch as Token Price Drops]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch</id>
-        <link href="https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch"/>
-        <updated>2025-12-09T15:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Early supporters report theyâ€™re stuck unable to withdraw funds while STABLE loses value.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
