@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/wyoming-launches-first-u-s-state-issued-stablecoin",
+          "author": "Jona Jaupi",
+          "description": "The FRNT dollar-backed token is managed by Franklin Templeton and marks a rare move by a state government into digital money.",
+          "link": "https://thedefiant.io/news/defi/wyoming-launches-first-u-s-state-issued-stablecoin",
+          "publishedOn": "2026-01-07T17:10:24.000Z",
+          "wordCount": null,
+          "title": "Wyoming Launches First U.S. State-Issued Stablecoin",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/frnt-1-png-ba01465e-b346-4694-9634-a1a3ad68bc34.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/frnt-1-png-ba01465e-b346-4694-9634-a1a3ad68bc34.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/j-p-morgan-s-deposit-token-to-be-issued-natively-on-canton-network",
           "author": "Jona Jaupi",
           "description": "Digital Asset and Kinexys plan a phased rollout of the JPMD token on the privacy-focused Layer 1 blockchain.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/solana-lending-markets-surge-as-network-positions-for-trillion-dollar-defi-future-redstone",
           "author": "Jona Jaupi",
-          "description": "A new report highlights rising TVL and intense competition among new protocols.",
+          "description": "",
           "link": "https://thedefiant.io/news/research-and-opinion/solana-lending-markets-surge-as-network-positions-for-trillion-dollar-defi-future-redstone",
           "publishedOn": "2025-12-12T03:56:05.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours",
           "author": "Squiffs",
-          "description": "",
+          "description": "The Hyperliquid front-end developed by Based is now the second-largest HIP-3 market.",
           "link": "https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours",
           "publishedOn": "2025-12-12T03:39:10.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/1a6823abde41ed14db0e3b912fe055c42d49244969a7e12416878092eece-77a62c53-2fce-475c-ad82-0a7681da3d7a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/payments-focused-tempo-blockchain-launches-public-testnet",
-          "author": "Jona Jaupi",
-          "description": "Developed by Stripe and Paradigm, Tempo aims to offer fast, low-cost stablecoin payments.",
-          "link": "https://thedefiant.io/news/blockchains/payments-focused-tempo-blockchain-launches-public-testnet",
-          "publishedOn": "2025-12-09T22:08:29.000Z",
-          "wordCount": null,
-          "title": "Payments-Focused Tempo Blockchain Launches Public Testnet",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/tempo-1-png-59e8235a-9546-49e5-99ca-3b26613a6b68.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/tempo-1-png-59e8235a-9546-49e5-99ca-3b26613a6b68.png"
         }
       ]
     }
