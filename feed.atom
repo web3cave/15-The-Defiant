@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-07T12:21:30.490Z</id>
+    <id>urn:2026-01-07T13:31:41.462Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-07T12:21:30.490Z</updated>
+    <updated>2026-01-07T13:31:41.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[J.P. Morgan’s Deposit Token to Be Issued Natively on Canton Network]]></title>
+        <id>https://thedefiant.io/news/defi/j-p-morgan-s-deposit-token-to-be-issued-natively-on-canton-network</id>
+        <link href="https://thedefiant.io/news/defi/j-p-morgan-s-deposit-token-to-be-issued-natively-on-canton-network"/>
+        <updated>2026-01-07T13:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Digital Asset and Kinexys plan a phased rollout of the JPMD token on the privacy-focused Layer 1 blockchain.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investors Eye Venezuela’s Bitcoin Stash Following Maduro’s Capture]]></title>
         <id>https://thedefiant.io/news/markets/investors-eye-venezuela-s-bitcoin-stash-following-maduro-s-capture</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours</id>
         <link href="https://thedefiant.io/news/defi/hyena-volume-crosses-usd50-million-in-first-48-hours"/>
         <updated>2025-12-12T03:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The Hyperliquid front-end developed by Based is now the second-largest HIP-3 market.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release</id>
         <link href="https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release"/>
         <updated>2025-12-11T20:16:42.000Z</updated>
+        <summary type="html"><![CDATA[The video chat app built by Venmo co-founder Iqram Magdon-Ismail launched its token earlier this year.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Developed by Stripe and Paradigm, Tempo aims to offer fast, low-cost stablecoin payments.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkham’s 'Misleading' Zcash Tracking Claims Spark Outrage]]></title>
-        <id>https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking</id>
-        <link href="https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking"/>
-        <updated>2025-12-09T18:18:56.000Z</updated>
-        <summary type="html"><![CDATA[ZEC is rallying after critics say Arkham used misleading language about its ability to track transactions on the network.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
