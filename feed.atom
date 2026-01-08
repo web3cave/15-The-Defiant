@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T17:17:44.635Z</id>
+    <id>urn:2026-01-08T18:14:25.429Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-08T17:17:44.635Z</updated>
+    <updated>2026-01-08T18:14:25.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zcash Plunges 20% After Entire Core Team Exits Amid Dispute]]></title>
+        <id>https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute</id>
+        <link href="https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute"/>
+        <updated>2026-01-08T17:44:48.000Z</updated>
+        <summary type="html"><![CDATA[The former CEO pointed to governance changes at Bootstrap, the Zcash-linked nonprofit.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Derivatives Market Reset After Oct. 10 Crash: BitMEX]]></title>
         <id>https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet</id>
         <link href="https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet"/>
         <updated>2025-12-15T17:14:59.000Z</updated>
-        <summary type="html"><![CDATA[SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits"/>
         <updated>2025-12-12T20:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Retail traders can now fund their IBKR accounts with stablecoin transfers.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Bitcoin and Ethereum recorded mild gains while XRP dropped slightly.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sei Partners With Smartphone Maker Xiaomi]]></title>
-        <id>https://thedefiant.io/news/blockchains/sei-partners-with-smartphone-maker-xiaomi</id>
-        <link href="https://thedefiant.io/news/blockchains/sei-partners-with-smartphone-maker-xiaomi"/>
-        <updated>2025-12-10T20:42:53.000Z</updated>
-        <summary type="html"><![CDATA[The collaboration calls for Xiaomi to build crypto wallets and a crypto discovery app into all new phones launched outside the US and China.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
