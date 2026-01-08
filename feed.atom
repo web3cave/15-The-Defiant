@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T11:11:22.913Z</id>
+    <id>urn:2026-01-08T12:21:51.815Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-08T11:11:22.913Z</updated>
+    <updated>2026-01-08T12:21:51.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Derivatives Market Reset After Oct. 10 Crash: BitMEX]]></title>
+        <id>https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex</id>
+        <link href="https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex"/>
+        <updated>2026-01-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oct. 10â€“11 crash exposed weaknesses in exchange risk systems.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Begins Rolling Out Fees in US App and Crypto Markets]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits"/>
         <updated>2025-12-12T20:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Retail traders can now fund their IBKR accounts with stablecoin transfers.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off"/>
         <updated>2025-12-12T19:21:08.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin hovered around $90,000 while Ethereum declined by 3.5% on the day.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[The collaboration calls for Xiaomi to build crypto wallets and a crypto discovery app into all new phones launched outside the US and China.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantomâ€™s Stablecoin CASH Supply Tops $100M Two Months Post-Launch]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/phantom-stablecoin-cash-supply-tops-usd100m</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/phantom-stablecoin-cash-supply-tops-usd100m"/>
-        <updated>2025-12-10T20:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Wallet-native stablecoins are seeing growing adoption, fueled by liquidity programs that offer incentives.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
