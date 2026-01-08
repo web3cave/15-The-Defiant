@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T18:14:25.429Z</id>
+    <id>urn:2026-01-08T19:10:56.491Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-08T18:14:25.429Z</updated>
+    <updated>2026-01-08T19:10:56.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Extends Selloff as Investors Turn Cautious]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-extends-selloff-as-investors-turn-cautious</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-extends-selloff-as-investors-turn-cautious"/>
+        <updated>2026-01-08T18:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ether edge lower as more macroeconomic data points to a cooling job market.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zcash Plunges 20% After Entire Core Team Exits Amid Dispute]]></title>
         <id>https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/bitcoin-dips-below-usd87-000-as-analysts-debate-bear-market</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-dips-below-usd87-000-as-analysts-debate-bear-market"/>
         <updated>2025-12-15T17:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has dropped 3% over the past few hours, dragging major altcoins lower.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet</id>
         <link href="https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet"/>
         <updated>2025-12-15T17:14:59.000Z</updated>
+        <summary type="html"><![CDATA[SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Trends to Watch (XCOPY Bubbles mint, Consistency)]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed Rate Cut Sparks Mixed Moves in Crypto Markets]]></title>
-        <id>https://thedefiant.io/news/markets/fed-rate-cut-sparks-mixed-moves-in-crypto-markets</id>
-        <link href="https://thedefiant.io/news/markets/fed-rate-cut-sparks-mixed-moves-in-crypto-markets"/>
-        <updated>2025-12-10T21:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum recorded mild gains while XRP dropped slightly.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
