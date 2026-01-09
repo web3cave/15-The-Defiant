@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T18:16:26.273Z</id>
+    <id>urn:2026-01-09T19:11:54.508Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-09T18:16:26.273Z</updated>
+    <updated>2026-01-09T19:11:54.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Truebit Hack Wipes Out TRU in First Major Exploit of 2026]]></title>
+        <id>https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026</id>
+        <link href="https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026"/>
+        <updated>2026-01-09T18:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Security experts warned that most hacked projects never fully recover after major attacks.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Stablecoins Are Rewiring Global Payments | Borderless CPO Alex Garn]]></title>
         <id>https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-16</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-dec-16"/>
         <updated>2025-12-16T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Markets extended losses on Tuesday, with most large-cap crypto assets in the red.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune</id>
         <link href="https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune"/>
         <updated>2025-12-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new joint report shows rapid growth, high accuracy, and strong adoption for the sector.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Ticketing Platform KYD Labs Launches TIX for Live Events Financing]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/solana-ticketing-platform-kyd-labs-launches-tix</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/solana-ticketing-platform-kyd-labs-launches-tix"/>
-        <updated>2025-12-11T16:57:35.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi-focused ticket provider looks to scale out infrastructure for an artist and fan-focused financial structure.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
