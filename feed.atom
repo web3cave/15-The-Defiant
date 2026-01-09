@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T15:11:39.804Z</id>
+    <id>urn:2026-01-09T16:13:23.934Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-09T15:11:39.804Z</updated>
+    <updated>2026-01-09T16:13:23.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Stablecoins Are Rewiring Global Payments | Borderless CPO Alex Garn]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn"/>
+        <updated>2026-01-09T15:50:56.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Chris Storaker sits down with Alex Garn, Chief Product Officer at Borderless, to unpack how stablecoins are quietly transforming cross-border payments — and what it actually takes to move money at scale across jurisdictions.]]></summary>
+        <author>
+            <name>Chris Storaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Foundation Proposes Using 50% of Revenue for Buybacks]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-foundation-proposes-using-50-of-revenue-for-buybacks</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune</id>
         <link href="https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune"/>
         <updated>2025-12-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new joint report shows rapid growth, high accuracy, and strong adoption for the sector.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations</id>
         <link href="https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations"/>
         <updated>2025-12-15T21:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Critics are taking the 3.5% sell-off as an opportunity to denounce 24/7 equity perpetuals trading.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The DeFi-focused ticket provider looks to scale out infrastructure for an artist and fan-focused financial structure.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stream Files Lawsuit Against Operator ‘0xlaw’ Over $93 Million Loss]]></title>
-        <id>https://thedefiant.io/news/defi/stream-finance-files-lawsuit-against-0xlaw-mcmeans</id>
-        <link href="https://thedefiant.io/news/defi/stream-finance-files-lawsuit-against-0xlaw-mcmeans"/>
-        <updated>2025-12-11T16:02:26.000Z</updated>
-        <summary type="html"><![CDATA[The team behind the original Stream Finance project is alleging that Caleb McMeans, known in DeFi as “0xlaw,” mismanaged funds.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
