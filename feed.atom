@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T19:11:54.508Z</id>
+    <id>urn:2026-01-09T20:12:11.285Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-09T19:11:54.508Z</updated>
+    <updated>2026-01-09T20:12:11.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Edge Lower After US Jobs Miss Expectations]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations"/>
+        <updated>2026-01-09T19:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin slipped under $91,000, while Ethereum and Solana dropped 1.5%.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon Leads Altcoin Surge With 15% Rally]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally"/>
+        <updated>2026-01-09T19:31:39.000Z</updated>
+        <summary type="html"><![CDATA[POL. formerly MATIC, is soaring after the Polygon CEO shared the chain’s vision for its Open Money Stack.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Truebit Hack Wipes Out TRU in First Major Exploit of 2026]]></title>
         <id>https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability</id>
         <link href="https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability"/>
         <updated>2025-12-16T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[The move to return frozen funds following the Balancer hack has split the Gnosis community over governance and the limits of “code is law.”]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-16</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-dec-16"/>
         <updated>2025-12-16T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Markets extended losses on Tuesday, with most large-cap crypto assets in the red.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[J.P. Morgan arranged the tokenized debt, which was purchased by Coinbase and Franklin Templeton.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum DAO Votes on $1.5 Million Program to Reward Active Delegates]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates"/>
-        <updated>2025-12-11T18:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Says It’s ‘Expanding to Solana’ with Native DEX Trading]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading"/>
-        <updated>2025-12-11T17:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>

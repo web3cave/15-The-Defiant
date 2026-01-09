@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin slipped under $91,000, while Ethereum and Solana dropped 1.5%.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations",
+          "publishedOn": "2026-01-09T19:59:49.000Z",
+          "wordCount": null,
+          "title": "Crypto Markets Edge Lower After US Jobs Miss Expectations",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b210a10e1d2680ee9d84178d5d2b18937c9b8886307b7a76d8c7ad4574e3-39901d5c-0bbd-4fb9-91f9-188468f79534.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b210a10e1d2680ee9d84178d5d2b18937c9b8886307b7a76d8c7ad4574e3-39901d5c-0bbd-4fb9-91f9-188468f79534.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally",
+          "author": "Squiffs",
+          "description": "POL. formerly MATIC, is soaring after the Polygon CEO shared the chain’s vision for its Open Money Stack.",
+          "link": "https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally",
+          "publishedOn": "2026-01-09T19:31:39.000Z",
+          "wordCount": null,
+          "title": "Polygon Leads Altcoin Surge With 15% Rally",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/2363d5c70e81b02f2be0147e337041b30004e5a725e9ca53cf3aa09820f8-bf873138-468e-483d-8628-860dbc11debe.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/2363d5c70e81b02f2be0147e337041b30004e5a725e9ca53cf3aa09820f8-bf873138-468e-483d-8628-860dbc11debe.png"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026",
           "author": "Jona Jaupi",
           "description": "Security experts warned that most hacked projects never fully recover after major attacks.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability",
           "author": "Denis Omelchenko",
-          "description": "The move to return frozen funds following the Balancer hack has split the Gnosis community over governance and the limits of “code is law.”",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability",
           "publishedOn": "2025-12-16T17:25:11.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-dec-16",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Markets extended losses on Tuesday, with most large-cap crypto assets in the red.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-dec-16",
           "publishedOn": "2025-12-16T15:27:00.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/jpm-1-2-png-1517d04e-0bd6-4a0d-8c9c-d61b8aeb05e7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates",
-          "author": "Denis Omelchenko",
-          "description": "Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.",
-          "link": "https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates",
-          "publishedOn": "2025-12-11T18:10:07.000Z",
-          "wordCount": null,
-          "title": "Arbitrum DAO Votes on $1.5 Million Program to Reward Active Delegates",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/arb-1-png-0ba00b8a-ea82-4abb-a2c2-823f3d6c2f23.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/arb-1-png-0ba00b8a-ea82-4abb-a2c2-823f3d6c2f23.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
-          "author": "Denis Omelchenko",
-          "description": "Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.",
-          "link": "https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading",
-          "publishedOn": "2025-12-11T17:39:19.000Z",
-          "wordCount": null,
-          "title": "Coinbase Says It’s ‘Expanding to Solana’ with Native DEX Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/3d9fbe342151f364abf71ccff057dead1beb53e7d13b18eebbaad7d1e6f1-f4603093-7be2-44fb-98ca-7b0b2f272a70.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/3d9fbe342151f364abf71ccff057dead1beb53e7d13b18eebbaad7d1e6f1-f4603093-7be2-44fb-98ca-7b0b2f272a70.png"
         }
       ]
     }
