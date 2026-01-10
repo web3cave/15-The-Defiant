@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-10T00:51:06.947Z</id>
+    <id>urn:2026-01-10T02:45:29.347Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-10T00:51:06.947Z</updated>
+    <updated>2026-01-10T02:45:29.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A16z Crypto Shares Three Crypto Predictions for 2026]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026"/>
+        <updated>2026-01-10T00:48:42.000Z</updated>
+        <summary type="html"><![CDATA[The venture capital giant highlights prediction markets, zk-SNARKS, and â€˜staked mediaâ€™ as themes to watch.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoin Market Cratered More Than 60% in 2025: Report]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/memecoin-market-cratered-more-than-60-in-2025-report</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights</id>
         <link href="https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights"/>
         <updated>2025-12-16T22:59:10.000Z</updated>
-        <summary type="html"><![CDATA[What began as technical questions on governance forums has escalated into a public dispute over control, incentives, and tokenholder rights.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/sec-crypto-task-force-privacy-roundtable-commissioner-peirce</id>
         <link href="https://thedefiant.io/news/defi/sec-crypto-task-force-privacy-roundtable-commissioner-peirce"/>
         <updated>2025-12-16T18:01:55.000Z</updated>
+        <summary type="html"><![CDATA[The recent SEC Crypto Task Force roundtable discussed the rising demand for privacy tools and the need for compliant solutions as crypto adoption grows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[The video chat app built by Venmo co-founder Iqram Magdon-Ismail launched its token earlier this year.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Drop Amid Rising US Jobless Claims]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims"/>
-        <updated>2025-12-11T19:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and other major digital assets dip as U.S. labor data and Oracle earnings disappoint.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
