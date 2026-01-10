@@ -59,6 +59,52 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-10 datetime="2026-01-10T00:32:50.000Z">2026-01-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-10 datetime="2026-01-10T00:32:50.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Defiant</button>
+                  <a class="source-heading__link" href="https://thedefiant.io">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thedefiant.io/news/research-and-opinion/memecoin-market-cratered-more-than-60-in-2025-report"
+                        open
+                      >
+                        <summary class="article-expander__title">Memecoin Market Cratered More Than 60% in 2025: Report</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/research-and-opinion/memecoin-market-cratered-more-than-60-in-2025-report">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.thedefiant.io/04b018f4bb55635b320030329daf46f57b0cb8b6ae47a069ad2d804b60cc-ff8b467f-2406-4ab7-973b-70faba1d3b05.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Dogecoin and Shiba Inu still account for the bulk of memecoin market capitalization.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-09 datetime="2026-01-09T19:59:49.000Z">2026-01-09</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-09 datetime="2026-01-09T19:59:49.000Z"></time>
           </button>
@@ -2044,7 +2090,7 @@ Finally, we zoom out: how should wallets warn users, what does ‚Äúwalkaway test‚
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/d64ca93ff860603e4fd5b84dd32ba5204541742e78940c2d3b8944d696f0-6095507b-e53b-4b48-a9ff-3edd8d2b08d1.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>The recent SEC Crypto Task Force roundtable discussed the rising demand for privacy tools and the need for compliant solutions as crypto adoption grows.</span>
+                              <span>No content preview</span>
                             </span>
                           </div>
                         </a>
@@ -2062,7 +2108,7 @@ Finally, we zoom out: how should wallets warn users, what does ‚Äúwalkaway test‚
                           <div class="article-summary-box-inner media-object">
                               <img src="https://cdn.thedefiant.io/6827bf4e89608af4bae997ef15f8965628ccbd915d6f0e7a4cb7b9a4f1db-4464f57c-bf02-4b59-8374-3268558fd67e.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>No content preview</span>
+                              <span>The move to return frozen funds following the Balancer hack has split the Gnosis community over governance and the limits of ‚Äúcode is law.‚Äù</span>
                             </span>
                           </div>
                         </a>
@@ -2422,24 +2468,6 @@ Finally, we zoom out: how should wallets warn users, what does ‚Äúwalkaway test‚
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan"
-                        open
-                      >
-                        <summary class="article-expander__title">Galaxy Digital Issues Commercial Paper on Solana via JPMorgan</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.thedefiant.io/jpm-1-2-png-1517d04e-0bd6-4a0d-8c9c-d61b8aeb05e7.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>J.P. Morgan arranged the tokenized debt, which was purchased by Coinbase and Franklin Templeton.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2447,8 +2475,8 @@ Finally, we zoom out: how should wallets warn users, what does ‚Äúwalkaway test‚
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/20868248233">
-        <time id="build-timestamp" datetime="2026-01-09T23:10:05.006Z">2026-01-09T23:10:05.006Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/15-The-Defiant/actions/runs/20869976301">
+        <time id="build-timestamp" datetime="2026-01-10T00:51:06.926Z">2026-01-10T00:51:06.926Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
