@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum",
+          "author": "Denis Omelchenko",
+          "description": "Ethereum’s co-founder said the network should remain usable and secure even if core developers step back from active updates.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum",
+          "publishedOn": "2026-01-12T15:09:19.000Z",
+          "wordCount": null,
+          "title": "Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b8a187f8e86ccb324cb8c73dccc3807ee329c0968c3f2515c4031b6f78e5-804ba98f-11df-4cdc-87cd-9c55ba2794e5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b8a187f8e86ccb324cb8c73dccc3807ee329c0968c3f2515c4031b6f78e5-804ba98f-11df-4cdc-87cd-9c55ba2794e5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026",
           "author": "Squiffs",
           "description": "The venture capital giant highlights prediction markets, zk-SNARKS, and ‘staked media’ as themes to watch.",
@@ -671,7 +686,7 @@
           "description": "The multi-year saga has finally reached a resolution, with the Uniswap DAO voting to funnel a portion of protocol fees to buyback and burn UNI.",
           "link": "https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal",
           "publishedOn": "2025-12-26T19:50:41.000Z",
-          "wordCount": 5048,
+          "wordCount": 5054,
           "title": "Uniswap Passes 'UNIfication' Fee Switch Proposal",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/52a6afc52397d2cf503709281795c27f9a58dbf744560b2aa01838a7732b-c2cad5d7-d650-4d37-a4de-2d22bcf05a88.png",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/uniform-labs-launches-multiliquid-tokenized-rwa-liquidity",
           "author": "Jona Jaupi",
-          "description": "The protocol was founded by former team members of Standard Chartered and UniCredit.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/uniform-labs-launches-multiliquid-tokenized-rwa-liquidity",
           "publishedOn": "2025-12-17T14:30:18.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights",
           "author": "Squiffs",
-          "description": "",
+          "description": "What began as technical questions on governance forums has escalated into a public dispute over control, incentives, and tokenholder rights.",
           "link": "https://thedefiant.io/news/defi/aave-dao-controversy-rekindles-debate-on-tokenholder-rights",
           "publishedOn": "2025-12-16T22:59:10.000Z",
           "wordCount": null,
