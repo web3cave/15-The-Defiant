@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-12T20:12:22.635Z</id>
+    <id>urn:2026-01-12T21:10:31.079Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-12T20:12:22.635Z</updated>
+    <updated>2026-01-12T21:10:31.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighter Token Struggles as Farmers Transition to Alternative Exchanges]]></title>
+        <id>https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges</id>
+        <link href="https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges"/>
+        <updated>2026-01-12T20:33:05.000Z</updated>
+        <summary type="html"><![CDATA[The recently launched perpetual DEX token is down nearly 30% over the past week.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dubai Bans Privacy Tokens on Regulated Exchanges]]></title>
         <id>https://thedefiant.io/news/regulation/dubai-bans-privacy-tokens-on-regulated-exchanges</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked</id>
         <link href="https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked"/>
         <updated>2025-12-17T19:51:59.000Z</updated>
-        <summary type="html"><![CDATA[An iEarn vault from an earlier version of the veteran DeFi protocol was exploited for roughly $300,000, just weeks after Yearn lost $9 million.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/tradfi-and-fintech/sberbank-pilots-defi-tools</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/sberbank-pilots-defi-tools"/>
         <updated>2025-12-17T17:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Russiaâ€™s largest lender says it is piloting DeFi instruments as legal crypto markets in the country remain in early development.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
