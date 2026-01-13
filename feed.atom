@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-13T22:10:53.124Z</id>
+    <id>urn:2026-01-13T23:10:25.562Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-13T22:10:53.124Z</updated>
+    <updated>2026-01-13T23:10:25.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Climbs Back Over $95K as Traders Digest New Inflation Data]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data"/>
+        <updated>2026-01-13T23:05:04.000Z</updated>
+        <summary type="html"><![CDATA[The latest CPI report shows U.S. inflation held steady in December, helping stabilize sentiment as investors remain cautious amid fragile crypto market consolidation.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paxos’ Asset Base Grew 450% in 2025]]></title>
+        <id>https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025</id>
+        <link href="https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025"/>
+        <updated>2026-01-13T22:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Fueled by PYUSD and PAXG, Paxos’ total assets are up more than fivefold over the last 365 days.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yield Suffers $3.7M Loss Due to ‘Unintended’ Stablecoin Swap]]></title>
         <id>https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking</id>
         <link href="https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking"/>
         <updated>2025-12-18T19:22:54.000Z</updated>
-        <summary type="html"><![CDATA[DeFi’s largest liquid staking provider has proposed expanding into stablecoin yield with new products aimed at institutions.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd"/>
         <updated>2025-12-18T18:07:46.000Z</updated>
+        <summary type="html"><![CDATA[The online banking giant is continuing to dive back into crypto and what it calls the “blockchain super cycle.”]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[One of the largest payments network in the world is launching USDC settlement after a two-year pilot program.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Struggles to Stay Above $87,000 as Ethereum Leads Top-10 Losses]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-dec-16</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-dec-16"/>
-        <updated>2025-12-16T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Markets extended losses on Tuesday, with most large-cap crypto assets in the red.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Market Monthly Volumes Grew 130x Since 2024: Keyrock, Dune]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/prediction-market-2025-growth-report-keyrock-dune"/>
-        <updated>2025-12-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new joint report shows rapid growth, high accuracy, and strong adoption for the sector.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
