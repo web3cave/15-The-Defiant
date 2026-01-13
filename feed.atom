@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-13T15:13:39.325Z</id>
+    <id>urn:2026-01-13T16:17:03.184Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-13T15:13:39.325Z</updated>
+    <updated>2026-01-13T16:17:03.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TD Bank Sees ‘Terrific Opportunities’ in Tokenized Deposits]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/big-banks-explore-tokenized-deposits</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/big-banks-explore-tokenized-deposits"/>
+        <updated>2026-01-13T16:10:26.000Z</updated>
+        <summary type="html"><![CDATA[With JPMorgan known as a pioneer, more big banks are leaning into tokenized deposits as a way to get blockchain’s benefits, without giving up control.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euler’s Founding CEO Steps Down as Protocol Refocuses on Institutions]]></title>
         <id>https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize"/>
         <updated>2025-12-18T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Tokenize brings traditional assets on-chain and is part of the firm’s broader push beyond crypto trading, including into stock trading and prediction markets.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report</id>
         <link href="https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report"/>
         <updated>2025-12-18T13:03:26.000Z</updated>
+        <summary type="html"><![CDATA[The new research highlights tokenized RWA sector inefficiencies and calls for cross-chain interoperability.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <link href="https://thedefiant.io/news/markets/bitcoin-dips-below-usd87-000-as-analysts-debate-bear-market"/>
         <updated>2025-12-15T17:26:55.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin has dropped 3% over the past few hours, dragging major altcoins lower.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SushiSwap Approves SUSHI Emissions Boost in Vote Controlled by Single Wallet]]></title>
-        <id>https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet</id>
-        <link href="https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet"/>
-        <updated>2025-12-15T17:14:59.000Z</updated>
-        <summary type="html"><![CDATA[SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>

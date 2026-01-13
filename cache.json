@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/big-banks-explore-tokenized-deposits",
+          "author": "Denis Omelchenko",
+          "description": "With JPMorgan known as a pioneer, more big banks are leaning into tokenized deposits as a way to get blockchain’s benefits, without giving up control.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/big-banks-explore-tokenized-deposits",
+          "publishedOn": "2026-01-13T16:10:26.000Z",
+          "wordCount": null,
+          "title": "TD Bank Sees ‘Terrific Opportunities’ in Tokenized Deposits",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/54f6c820a4c2d6e85e620b940e3847422d197c6b424eddf9a0bfca82bc89-d0a9eb51-78fc-4594-b61c-70bdaa99f08e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/54f6c820a4c2d6e85e620b940e3847422d197c6b424eddf9a0bfca82bc89-d0a9eb51-78fc-4594-b61c-70bdaa99f08e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down",
           "author": "Denis Omelchenko",
           "description": "The DeFi lending protocol staged a major comeback in 2025, rising to new TVL highs last year after it was hacked in 2023.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize",
           "author": "Denis Omelchenko",
-          "description": "Coinbase Tokenize brings traditional assets on-chain and is part of the firm’s broader push beyond crypto trading, including into stock trading and prediction markets.",
+          "description": "",
           "link": "https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize",
           "publishedOn": "2025-12-18T15:32:30.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The new research highlights tokenized RWA sector inefficiencies and calls for cross-chain interoperability.",
           "link": "https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report",
           "publishedOn": "2025-12-18T13:03:26.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/rekt-1-4-png-130a2e4b-abde-4065-90cf-34d8c4edb63a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet",
-          "author": "Denis Omelchenko",
-          "description": "SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.",
-          "link": "https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet",
-          "publishedOn": "2025-12-15T17:14:59.000Z",
-          "wordCount": null,
-          "title": "SushiSwap Approves SUSHI Emissions Boost in Vote Controlled by Single Wallet",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/sushi-1-1-png-d6e0536c-5c95-445e-840f-af1c9eee972d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/sushi-1-1-png-d6e0536c-5c95-445e-840f-af1c9eee972d.png"
         }
       ]
     }
