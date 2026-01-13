@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-13T20:12:15.544Z</id>
+    <id>urn:2026-01-13T21:10:43.556Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-13T20:12:15.544Z</updated>
+    <updated>2026-01-13T21:10:43.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon to Become US-Regulated Payments Platform]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform"/>
+        <updated>2026-01-13T20:50:28.000Z</updated>
+        <summary type="html"><![CDATA[The company acquired Coinme and Sequence, adopting their licenses and enabling operations in 48 states.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eric Adams-Backed NYC Token Rocked by Rug Pull Allegations]]></title>
         <id>https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k"/>
         <updated>2025-12-18T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Top-10 cryptocurrencies are flat or slightly up today, but remain in the red on the weekly timeframe.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino</id>
         <link href="https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino"/>
         <updated>2025-12-18T16:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Tokenized Forward Industries shares can now be used as collateral on Kamino.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Critics are taking the 3.5% sell-off as an opportunity to denounce 24/7 equity perpetuals trading.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.P. Morgan Launches Tokenized Money Market Fund on Ethereum]]></title>
-        <id>https://thedefiant.io/news/defi/j-p-morgan-launches-tokenized-money-market-fund-on-ethereum</id>
-        <link href="https://thedefiant.io/news/defi/j-p-morgan-launches-tokenized-money-market-fund-on-ethereum"/>
-        <updated>2025-12-15T17:38:50.000Z</updated>
-        <summary type="html"><![CDATA[The MONY fund gives qualified investors on-chain access to U.S. Treasury-backed yields.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
