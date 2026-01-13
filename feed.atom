@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-13T21:10:43.556Z</id>
+    <id>urn:2026-01-13T22:10:53.124Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-13T21:10:43.556Z</updated>
+    <updated>2026-01-13T22:10:53.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yield Suffers $3.7M Loss Due to ‘Unintended’ Stablecoin Swap]]></title>
+        <id>https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap</id>
+        <link href="https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap"/>
+        <updated>2026-01-13T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Security firms said the Ethereum-based trade likely bypassed slippage protections.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon to Become US-Regulated Payments Platform]]></title>
         <id>https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-bank-launches-native-stablecoin-sofiusd"/>
         <updated>2025-12-18T18:07:46.000Z</updated>
-        <summary type="html"><![CDATA[The online banking giant is continuing to dive back into crypto and what it calls the “blockchain super cycle.”]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k"/>
         <updated>2025-12-18T17:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Top-10 cryptocurrencies are flat or slightly up today, but remain in the red on the weekly timeframe.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[A new joint report shows rapid growth, high accuracy, and strong adoption for the sector.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradeXYZ Faces Backlash After Whale Triggers Weekend Liquidations]]></title>
-        <id>https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations</id>
-        <link href="https://thedefiant.io/news/defi/tradexyz-faces-backlash-after-whale-triggers-weekend-liquidations"/>
-        <updated>2025-12-15T21:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Critics are taking the 3.5% sell-off as an opportunity to denounce 24/7 equity perpetuals trading.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
