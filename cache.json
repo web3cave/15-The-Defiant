@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
+          "author": "Jona Jaupi",
+          "description": "A wallet linked to the NYC token deployer removed about $2.5 million in USDC liquidity, according to on-chain analysts.",
+          "link": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
+          "publishedOn": "2026-01-13T17:48:43.000Z",
+          "wordCount": null,
+          "title": "Eric Adams-Backed NYC Token Rocked by Rug Pull Allegations",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/a85ed1ddeaed1283ee401d03abe86d247a1342659f784b68336d61c3568a-24da823b-8513-4fb8-a7b8-1f3c583397a9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/a85ed1ddeaed1283ee401d03abe86d247a1342659f784b68336d61c3568a-24da823b-8513-4fb8-a7b8-1f3c583397a9.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/big-banks-explore-tokenized-deposits",
           "author": "Denis Omelchenko",
           "description": "With JPMorgan known as a pioneer, more big banks are leaning into tokenized deposits as a way to get blockchain’s benefits, without giving up control.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino",
           "author": "Jona Jaupi",
-          "description": "Tokenized Forward Industries shares can now be used as collateral on Kamino.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino",
           "publishedOn": "2025-12-18T16:10:42.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Coinbase Tokenize brings traditional assets on-chain and is part of the firm’s broader push beyond crypto trading, including into stock trading and prediction markets.",
           "link": "https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize",
           "publishedOn": "2025-12-18T15:32:30.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/eb192ce6344857eb9ffc973011f2005425559d7aa35f04e5a559534274c9-2ae9d1f1-f72c-4896-b385-217e5a5321dc.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd87-000-as-analysts-debate-bear-market",
-          "author": "Denis Omelchenko",
-          "description": "Bitcoin has dropped 3% over the past few hours, dragging major altcoins lower.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-dips-below-usd87-000-as-analysts-debate-bear-market",
-          "publishedOn": "2025-12-15T17:26:55.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Dips Below $87,000 as Analysts Debate Bear Market",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/rekt-1-4-png-130a2e4b-abde-4065-90cf-34d8c4edb63a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/rekt-1-4-png-130a2e4b-abde-4065-90cf-34d8c4edb63a.png"
         }
       ]
     }
