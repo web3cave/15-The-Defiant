@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T15:14:36.034Z</id>
+    <id>urn:2026-01-14T16:15:46.872Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-14T15:14:36.034Z</updated>
+    <updated>2026-01-14T16:15:46.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Nears $97K as Broad Crypto Rally Extends for Second Day]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-nears-usd97k-in-broad-crypto-rally-jan-14-2026"/>
+        <updated>2026-01-14T15:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Risk appetite is improving across crypto as spot Bitcoin ETFs see their largest daily inflows in three months and traders weigh macro risks tied to U.S. tariff rulings.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantra Cuts Staff Less Than a Year After OM Crashed 90%]]></title>
+        <id>https://thedefiant.io/news/blockchains/mantra-cuts-staff-after-token-crash</id>
+        <link href="https://thedefiant.io/news/blockchains/mantra-cuts-staff-after-token-crash"/>
+        <updated>2026-01-14T15:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Mantra’s native token lost most of its value last April after what the project’s founder described as “reckless forced liquidations” by CEXs.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Climbs Back Over $95K as Traders Digest New Inflation Data]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-slumps-dec-19-update"/>
         <updated>2025-12-19T15:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Large-caps slump as ETF outflows and macro fears weigh on market sentiment.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking</id>
         <link href="https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking"/>
         <updated>2025-12-18T19:22:54.000Z</updated>
+        <summary type="html"><![CDATA[DeFi’s largest liquid staking provider has proposed expanding into stablecoin yield with new products aimed at institutions.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The recent SEC Crypto Task Force roundtable discussed the rising demand for privacy tools and the need for compliant solutions as crypto adoption grows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnosis Hard Fork to Recover Balancer Funds Sparks Debate on Immutability]]></title>
-        <id>https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability</id>
-        <link href="https://thedefiant.io/news/blockchains/gnosis-hard-fork-sparks-debate-on-immutability"/>
-        <updated>2025-12-16T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[The move to return frozen funds following the Balancer hack has split the Gnosis community over governance and the limits of “code is law.”]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa Unveils Stablecoin Settlement in the United States]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-launches-stablecoin-usdc-settlement-united-states</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-launches-stablecoin-usdc-settlement-united-states"/>
-        <updated>2025-12-16T16:43:33.000Z</updated>
-        <summary type="html"><![CDATA[One of the largest payments network in the world is launching USDC settlement after a two-year pilot program.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
