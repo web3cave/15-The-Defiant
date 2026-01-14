@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T19:10:15.007Z</id>
+    <id>urn:2026-01-14T20:10:17.308Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-14T19:10:15.007Z</updated>
+    <updated>2026-01-14T20:10:17.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Berachain Rallies 40% After Unveiling ‘Bera Builds Businesses’ Plan]]></title>
+        <id>https://thedefiant.io/news/blockchains/berachain-rallies-40-after-unveiling-bera-builds-businesses-plan</id>
+        <link href="https://thedefiant.io/news/blockchains/berachain-rallies-40-after-unveiling-bera-builds-businesses-plan"/>
+        <updated>2026-01-14T19:31:15.000Z</updated>
+        <summary type="html"><![CDATA[The Berachain Foundation plans to “build, acquire, or partner” businesses that create value for the BERA token.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dash Jumps Nearly 50% Following Alchemy Pay Integration]]></title>
         <id>https://thedefiant.io/news/markets/dash-jumps-nearly-50-following-alchemy-pay-integration</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut</id>
         <link href="https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut"/>
         <updated>2025-12-19T20:15:46.000Z</updated>
-        <summary type="html"><![CDATA[The CEX removed maker and taker fees across spot, derivatives, and tokenized securities as competition intensifies among crypto exchanges.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/regulation/coinbase-prediction-market-state-vs-federal-regulations</id>
         <link href="https://thedefiant.io/news/regulation/coinbase-prediction-market-state-vs-federal-regulations"/>
         <updated>2025-12-19T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The lawsuits were filed just before the Senate confirmed Trump’s pick to lead what would be prediction markets' federal regulator, the CFTC.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Ethereum broke back above $3,000 this morning as markets caught some relief]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniform Labs Launches Multiliquid to Unlock Liquidity for Tokenized RWAs]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/uniform-labs-launches-multiliquid-tokenized-rwa-liquidity</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/uniform-labs-launches-multiliquid-tokenized-rwa-liquidity"/>
-        <updated>2025-12-17T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[The protocol was founded by former team members of Standard Chartered and UniCredit.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
