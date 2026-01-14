@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T22:10:56.362Z</id>
+    <id>urn:2026-01-14T23:09:56.018Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-14T22:10:56.362Z</updated>
+    <updated>2026-01-14T23:09:56.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO Strongly Opposes Senate’s Crypto Bill Draft]]></title>
+        <id>https://thedefiant.io/news/regulation/coinbase-ceo-strongly-opposes-senate-s-crypto-bill-draft</id>
+        <link href="https://thedefiant.io/news/regulation/coinbase-ceo-strongly-opposes-senate-s-crypto-bill-draft"/>
+        <updated>2026-01-14T22:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Armstrong withdrew support for the draft legislation, claiming that it could restrict tokenized equities, DeFi, and stablecoin rewards.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CARDS Token Surges as Gacha Volume Hits All-Time High]]></title>
         <id>https://thedefiant.io/news/defi/cards-token-surges-as-gacha-volume-hits-all-time-high</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal</id>
         <link href="https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal"/>
         <updated>2025-12-22T09:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Tokenholders denied a proposal to allocate 17.4 million CRV tokens to Curve’s core development firm.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/tokenized-equity-sector-surges-2500-in-2025</id>
         <link href="https://thedefiant.io/news/defi/tokenized-equity-sector-surges-2500-in-2025"/>
         <updated>2025-12-22T06:07:37.000Z</updated>
+        <summary type="html"><![CDATA[The market capitalization of tokenized stocks is approaching $1 billion, from just $32 million at the beginning of the year.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[An iEarn vault from an earlier version of the veteran DeFi protocol was exploited for roughly $300,000, just weeks after Yearn lost $9 million.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia’s Biggest Bank Sberbank Pilots ‘DeFi Tools’ for TradFi Convergence]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/sberbank-pilots-defi-tools</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/sberbank-pilots-defi-tools"/>
-        <updated>2025-12-17T17:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s largest lender says it is piloting DeFi instruments as legal crypto markets in the country remain in early development.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
