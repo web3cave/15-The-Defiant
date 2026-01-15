@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T20:12:20.624Z</id>
+    <id>urn:2026-01-15T21:11:13.331Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T20:12:20.624Z</updated>
+    <updated>2026-01-15T21:11:13.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Felix Protocol to Launch Spot Equities on HyperEVM]]></title>
+        <id>https://thedefiant.io/news/defi/felix-protocol-to-launch-spot-equities-on-hyperevm</id>
+        <link href="https://thedefiant.io/news/defi/felix-protocol-to-launch-spot-equities-on-hyperevm"/>
+        <updated>2026-01-15T20:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Through a partnership with Ondo Finance, Felix is set to be HyperEVM’s first liquid spot equity provider.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance TVL Doubles to Over $2B in Less Than a Year]]></title>
+        <id>https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion</id>
+        <link href="https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion"/>
+        <updated>2026-01-15T20:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fogo Launches Public Mainnet After Binance Token Sale]]></title>
         <id>https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave</id>
         <link href="https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave"/>
         <updated>2025-12-23T10:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Stani Kulechov claims that moving forward with the proposal would negatively impact Aave Protocol, the DAO, and token holders.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation</id>
         <link href="https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation"/>
         <updated>2025-12-23T08:01:29.000Z</updated>
+        <summary type="html"><![CDATA[The leading decentralized prediction market clocked its busiest weekend since the 2024 US presidential election.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The online banking giant is continuing to dive back into crypto and what it calls the “blockchain super cycle.”]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Retraces Back Below $89,000 as Traders Unsure of Next Move]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-dec-18-bitcoin-below-usd89k"/>
-        <updated>2025-12-18T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Top-10 cryptocurrencies are flat or slightly up today, but remain in the red on the weekly timeframe.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Solana Lending Protocol Adds Superstate Tokenized Shares as Collateral]]></title>
-        <id>https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino</id>
-        <link href="https://thedefiant.io/news/defi/superstate-tokenized-shares-collateral-solana-defi-kamino"/>
-        <updated>2025-12-18T16:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized Forward Industries shares can now be used as collateral on Kamino.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
