@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T15:13:13.155Z</id>
+    <id>urn:2026-01-15T16:20:20.453Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T15:13:13.155Z</updated>
+    <updated>2026-01-15T16:20:20.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet Partners with NEAR to Bring STRK to Solana]]></title>
+        <id>https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near</id>
+        <link href="https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near"/>
+        <updated>2026-01-15T15:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum L2 Starknet’s native token is now available across the Solana ecosystem, a day after Solana's official X account mocked the L2 for low usage.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Fails to Hold Above $97K as Rally Cools]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026"/>
+        <updated>2026-01-15T15:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets are mostly flat today as ETF inflows stay elevated and analysts note Bitcoin is undergoing a transitional phase.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO Strongly Opposes Senate’s Crypto Bill Draft]]></title>
         <id>https://thedefiant.io/news/regulation/coinbase-ceo-strongly-opposes-senate-s-crypto-bill-draft</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud</id>
         <link href="https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud"/>
         <updated>2025-12-22T15:11:44.000Z</updated>
-        <summary type="html"><![CDATA[The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal</id>
         <link href="https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal"/>
         <updated>2025-12-22T09:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Tokenholders denied a proposal to allocate 17.4 million CRV tokens to Curve’s core development firm.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <link href="https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply"/>
         <updated>2025-12-17T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[The Hyper Foundation is looking to lock tokens in the Hyperliquid Assistance Fund, permanently removing nearly $1 billion in HYPE from the circulating and total supply.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTCC Taps Canton Network to Test Tokenized Treasuries]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot"/>
-        <updated>2025-12-17T20:29:16.000Z</updated>
-        <summary type="html"><![CDATA[The global financial infra giant says it chose the Layer 1 to protect sensitive trading data.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legacy Yearn Vault Exploited in Second Attack on the Protocol This Month]]></title>
-        <id>https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked</id>
-        <link href="https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked"/>
-        <updated>2025-12-17T19:51:59.000Z</updated>
-        <summary type="html"><![CDATA[An iEarn vault from an earlier version of the veteran DeFi protocol was exploited for roughly $300,000, just weeks after Yearn lost $9 million.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>

@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near",
+          "author": "Jona Jaupi",
+          "description": "Ethereum L2 Starknet’s native token is now available across the Solana ecosystem, a day after Solana's official X account mocked the L2 for low usage.",
+          "link": "https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near",
+          "publishedOn": "2026-01-15T15:54:50.000Z",
+          "wordCount": null,
+          "title": "Starknet Partners with NEAR to Bring STRK to Solana",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ec5d08cfbfc604d65e21455b237eec163ae4c3041b3d460d14134cc96c33-19578a78-599a-415d-b7cb-23fe8185cb38.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ec5d08cfbfc604d65e21455b237eec163ae4c3041b3d460d14134cc96c33-19578a78-599a-415d-b7cb-23fe8185cb38.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026",
+          "author": "Denis Omelchenko",
+          "description": "Crypto markets are mostly flat today as ETF inflows stay elevated and analysts note Bitcoin is undergoing a transitional phase.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-below-usd97k-crypto-market-update-jan-15-2026",
+          "publishedOn": "2026-01-15T15:24:22.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Fails to Hold Above $97K as Rally Cools",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ed282674ac33b6e6008c5acc5509400b035de32784652d7664219e8802f8-9abf3fe1-ebec-4504-b569-6721602fce52.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ed282674ac33b6e6008c5acc5509400b035de32784652d7664219e8802f8-9abf3fe1-ebec-4504-b569-6721602fce52.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/coinbase-ceo-strongly-opposes-senate-s-crypto-bill-draft",
           "author": "Jona Jaupi",
           "description": "Armstrong withdrew support for the draft legislation, claiming that it could restrict tokenized equities, DeFi, and stablecoin rewards.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
           "author": "Jona Jaupi",
-          "description": "The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.",
+          "description": "",
           "link": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
           "publishedOn": "2025-12-22T15:11:44.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Tokenholders denied a proposal to allocate 17.4 million CRV tokens to Curve’s core development firm.",
           "link": "https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal",
           "publishedOn": "2025-12-22T09:37:11.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/69b11de62284578d3d85f8cda7b53a1b6f3a53908471d4d7ffe23b802c56-10424f31-bf6d-4a2c-b2b3-66dbfd2655e6.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot",
-          "author": "Jona Jaupi",
-          "description": "The global financial infra giant says it chose the Layer 1 to protect sensitive trading data.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-taps-canton-for-tokenized-treasury-pilot",
-          "publishedOn": "2025-12-17T20:29:16.000Z",
-          "wordCount": null,
-          "title": "DTCC Taps Canton Network to Test Tokenized Treasuries",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/adfaddeed7e0d0ab1af58a85d3493dbd14960ae66b64e3931d0fa1c99a7b-d01a9e67-9f54-472b-957d-e314488df2ac.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/adfaddeed7e0d0ab1af58a85d3493dbd14960ae66b64e3931d0fa1c99a7b-d01a9e67-9f54-472b-957d-e314488df2ac.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked",
-          "author": "Squiffs",
-          "description": "An iEarn vault from an earlier version of the veteran DeFi protocol was exploited for roughly $300,000, just weeks after Yearn lost $9 million.",
-          "link": "https://thedefiant.io/news/defi/yearn-finance-iearn-vault-hacked",
-          "publishedOn": "2025-12-17T19:51:59.000Z",
-          "wordCount": null,
-          "title": "Legacy Yearn Vault Exploited in Second Attack on the Protocol This Month",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/c17a7e6ef10182f44f0ea04c98f09b9db18c6aa75bcdbda6b9e264a70bbb-a52ce03e-bd96-412c-803a-95b8be74a7d8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/c17a7e6ef10182f44f0ea04c98f09b9db18c6aa75bcdbda6b9e264a70bbb-a52ce03e-bd96-412c-803a-95b8be74a7d8.png"
         }
       ]
     }
