@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T17:22:49.012Z</id>
+    <id>urn:2026-01-15T18:21:32.908Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T17:22:49.012Z</updated>
+    <updated>2026-01-15T18:21:32.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KAITO Plummets as X Bans InfoFi Rewards]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/kaito-plummets-as-x-bans-infofi-rewards</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/kaito-plummets-as-x-bans-infofi-rewards"/>
+        <updated>2026-01-15T17:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Nikita Bier, X's head of product, announced the change this morning.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Stripe’s Crypto Strategy with Privy CEO: Wallets as Global Financial Accounts and the End of Decentralization Dogmas]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview"/>
+        <updated>2026-01-15T17:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Stern says Privy underpins Stripe’s stablecoin stack — and argues crypto needs better trade-offs, not absolutism.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet Partners with NEAR to Bring STRK to Solana]]></title>
         <id>https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near</id>
@@ -823,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays"/>
         <updated>2025-12-22T17:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum rise over 2% while SKY and NEAR lead the altcoin market.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +862,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud</id>
         <link href="https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud"/>
         <updated>2025-12-22T15:11:44.000Z</updated>
+        <summary type="html"><![CDATA[The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Coinbase Tokenize brings traditional assets on-chain and is part of the firm’s broader push beyond crypto trading, including into stock trading and prediction markets.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Fragmentation Could Cost Tokenized Asset Market Billions: RWAio]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/blockchain-fragmentation-real-world-asset-sector-costs-rwaio-report"/>
-        <updated>2025-12-18T13:03:26.000Z</updated>
-        <summary type="html"><![CDATA[The new research highlights tokenized RWA sector inefficiencies and calls for cross-chain interoperability.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Proposes Burning 13% of Circulating Supply]]></title>
-        <id>https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply</id>
-        <link href="https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply"/>
-        <updated>2025-12-17T22:01:31.000Z</updated>
-        <summary type="html"><![CDATA[The Hyper Foundation is looking to lock tokens in the Hyperliquid Assistance Fund, permanently removing nearly $1 billion in HYPE from the circulating and total supply.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
