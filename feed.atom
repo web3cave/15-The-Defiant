@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T18:21:32.908Z</id>
+    <id>urn:2026-01-15T19:15:54.416Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T18:21:32.908Z</updated>
+    <updated>2026-01-15T19:15:54.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fogo Launches Public Mainnet After Binance Token Sale]]></title>
+        <id>https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale</id>
+        <link href="https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale"/>
+        <updated>2026-01-15T18:52:33.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-compatible Layer 1 blockchain launched Thursday with live apps, exchange listings, and a token airdrop.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAITO Plummets as X Bans InfoFi Rewards]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/kaito-plummets-as-x-bans-infofi-rewards</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation</id>
         <link href="https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation"/>
         <updated>2025-12-23T08:01:29.000Z</updated>
-        <summary type="html"><![CDATA[The leading decentralized prediction market clocked its busiest weekend since the 2024 US presidential election.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-holidays"/>
         <updated>2025-12-22T17:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum rise over 2% while SKY and NEAR lead the altcoin market.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Tokenized Forward Industries shares can now be used as collateral on Kamino.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Unveils 'End-to-End' RWA Tokenization Platform]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-unveils-coinbase-tokenize"/>
-        <updated>2025-12-18T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Tokenize brings traditional assets on-chain and is part of the firmâ€™s broader push beyond crypto trading, including into stock trading and prediction markets.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
