@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-16T15:12:48.869Z</id>
+    <id>urn:2026-01-16T16:14:18.493Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-16T15:12:48.869Z</updated>
+    <updated>2026-01-16T16:14:18.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Slips Below $95K as Analysts Flag Make-Or-Break Zone]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026"/>
+        <updated>2026-01-16T16:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets are mostly lower today as momentum fades and analysts flag a key range for Bitcoin.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy Tokenizes First CLO on Avalanche With $50M Grove Allocation]]></title>
         <id>https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha"/>
         <updated>2025-12-24T08:06:47.000Z</updated>
-        <summary type="html"><![CDATA[The feature adds a more flexible approach to margin management, as well as earning and borrowing features to Hypercore.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed"/>
         <updated>2025-12-23T10:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Most Top 10 cryptocurrencies are in the red, with Bitcoin and Ethereum posting the largest losses.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[DeFiâ€™s largest liquid staking provider has proposed expanding into stablecoin yield with new products aimed at institutions.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intuit Partners with Circle to Integrate Stablecoin Infra, USDC Across Its Platform]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/intuit-partners-with-circle-usdc</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/intuit-partners-with-circle-usdc"/>
-        <updated>2025-12-18T18:46:11.000Z</updated>
-        <summary type="html"><![CDATA[The move aims to speed up payments, refunds, and remittances across the finance management giant's products.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
