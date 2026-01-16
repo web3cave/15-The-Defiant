@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-16T17:15:06.400Z</id>
+    <id>urn:2026-01-16T18:16:43.022Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-16T17:15:06.400Z</updated>
+    <updated>2026-01-16T18:16:43.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It’s Not Just Crypto Twitter That’s Dead — Experts Say Broader Retail Interest Is Waning]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning"/>
+        <updated>2026-01-16T17:30:34.000Z</updated>
+        <summary type="html"><![CDATA[InfoFi-fueled “AI slop” isn’t the only reason CT feels more empty, as social and trading data across platforms shows retail participants are disengaging.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Slips Below $95K as Analysts Flag Make-Or-Break Zone]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates</id>
         <link href="https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates"/>
         <updated>2025-12-24T08:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Burwick Law has filed a misconduct notice against pumpfun, alleging intimidation and retaliation against the defendants.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha"/>
         <updated>2025-12-24T08:06:47.000Z</updated>
+        <summary type="html"><![CDATA[The feature adds a more flexible approach to margin management, as well as earning and borrowing features to Hypercore.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The DeFi protocol is releasing an onchain-offchain hybrid CLOB perp exchange on DeFi’s largest Layer 1.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Outlines $60M Plan to Expand Beyond Liquid Staking]]></title>
-        <id>https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking</id>
-        <link href="https://thedefiant.io/news/defi/lido-2026-proposal-beyond-staking"/>
-        <updated>2025-12-18T19:22:54.000Z</updated>
-        <summary type="html"><![CDATA[DeFi’s largest liquid staking provider has proposed expanding into stablecoin yield with new products aimed at institutions.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
