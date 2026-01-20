@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/magic-eden-token-buybacks-staking-rewards",
+          "author": "Denis Omelchenko",
+          "description": "The former NFT marketplace said it will allocate revenue to the ME ecosystem, including USDC rewards paid out to stakers.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-token-buybacks-staking-rewards",
+          "publishedOn": "2026-01-20T15:28:03.000Z",
+          "wordCount": null,
+          "title": "ME Token Slumps After Magic Eden Announces Buybacks, Staking Rewards",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/236c6e2697e370262e32aabea901a14b60981b0482022df090cae2242e36-d173340a-0d0c-4e65-a2e5-e64c5fad66f3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/236c6e2697e370262e32aabea901a14b60981b0482022df090cae2242e36-d173340a-0d0c-4e65-a2e5-e64c5fad66f3.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/bitcoin-payments-crypto-survey-gomining",
           "author": "Denis Omelchenko",
           "description": "But most say limited merchant acceptance and high fees stop them from spending crypto.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal",
           "author": "Squiffs",
-          "description": "The multi-year saga has finally reached a resolution, with the Uniswap DAO voting to funnel a portion of protocol fees to buyback and burn UNI.",
+          "description": "After years of back and forth, Uniswap’s elusive fee switch is finally being flipped with the Uniswap DAO overwhelmingly passing the “UNIfication” proposal on Christmas day.",
           "link": "https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal",
           "publishedOn": "2025-12-26T19:50:41.000Z",
           "wordCount": 5072,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The crypto wallet said it will compensate users for lost funds after a malicious version was linked to wallets being drained within hours.",
           "link": "https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack",
           "publishedOn": "2025-12-26T16:14:19.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/sddefault-jpg-096d2bdf-eabf-4e9a-8376-d7f1ef2ea94b.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
-          "author": "Jona Jaupi",
-          "description": "The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.",
-          "link": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
-          "publishedOn": "2025-12-22T15:11:44.000Z",
-          "wordCount": null,
-          "title": "Magma Devs Launches RPC Smart Router on Google Cloud",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png"
         }
       ]
     }
