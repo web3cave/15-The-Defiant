@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T21:11:52.355Z</id>
+    <id>urn:2026-01-20T22:11:31.073Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-20T21:11:52.355Z</updated>
+    <updated>2026-01-20T22:11:31.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pumpfun Unveils Investment Arm and $3 Million Hackathon]]></title>
+        <id>https://thedefiant.io/news/defi/pumpfun-unveils-investment-arm-and-usd3-million-hackathon</id>
+        <link href="https://thedefiant.io/news/defi/pumpfun-unveils-investment-arm-and-usd3-million-hackathon"/>
+        <updated>2026-01-20T21:41:22.000Z</updated>
+        <summary type="html"><![CDATA[PUMP rallied as much as 10% but erased its gains as crypto markets dipped.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ME Token Slumps After Magic Eden Announces Buybacks, Staking Rewards]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/magic-eden-token-buybacks-staking-rewards</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge</id>
         <link href="https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge"/>
         <updated>2025-12-26T20:20:12.000Z</updated>
-        <summary type="html"><![CDATA[The leading perp DEX by trading volume is gearing up for its highly anticipated token airdrop.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,7 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal</id>
         <link href="https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal"/>
         <updated>2025-12-26T19:50:41.000Z</updated>
-        <summary type="html"><![CDATA[After years of back and forth, Uniswap’s elusive fee switch is finally being flipped with the Uniswap DAO overwhelmingly passing the “UNIfication” proposal on Christmas day.]]></summary>
+        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with the Uniswap DAO voting to funnel a portion of protocol fees to buyback and burn UNI.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -996,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Bitcoin and Ethereum rise over 2% while SKY and NEAR lead the altcoin market.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap is about to “turn on the switch.” with Hayden Adams]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/uniswap-is-about-to-turn-on-the-switch-with-hayden-adams</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/uniswap-is-about-to-turn-on-the-switch-with-hayden-adams"/>
-        <updated>2025-12-22T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Uniswap founder Hayden Adams joins us right as the UNIfication (Unification) proposal has moved to a final governance vote—a sweeping plan from Uniswap Labs + the Uniswap Foundation that would activate protocol fees, introduce a programmatic UNI burn, and realign how value accrues across the Uniswap ecosystem.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
