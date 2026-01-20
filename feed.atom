@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T13:37:58.215Z</id>
+    <id>urn:2026-01-20T14:20:03.399Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-20T13:37:58.215Z</updated>
+    <updated>2026-01-20T14:20:03.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most Crypto Holders Want to Pay with Bitcoin but Rarely Do, Survey Show]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/bitcoin-payments-crypto-survey-gomining</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/bitcoin-payments-crypto-survey-gomining"/>
+        <updated>2026-01-20T13:57:58.000Z</updated>
+        <summary type="html"><![CDATA[But most say limited merchant acceptance and high fees stop them from spending crypto.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GAS Tanks 90% After AI Dev ‘Steps Back’]]></title>
         <id>https://thedefiant.io/news/defi/gas-tanks-90-after-ai-dev-steps-back</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack</id>
         <link href="https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack"/>
         <updated>2025-12-26T16:14:19.000Z</updated>
-        <summary type="html"><![CDATA[The crypto wallet said it will compensate users for lost funds after a malicious version was linked to wallets being drained within hours.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet"/>
         <updated>2025-12-26T15:28:20.000Z</updated>
+        <summary type="html"><![CDATA[BTC fails to hold $89,000, while ETH continues to trade below $3,000.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Debates Base App’s Strategic Focus]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus"/>
-        <updated>2025-12-22T14:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Brian Armstrong responds to community feedback about the Base App, which now blends finance and social features.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
