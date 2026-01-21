@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T14:19:17.726Z</id>
+    <id>urn:2026-01-21T15:18:48.057Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T14:19:17.726Z</updated>
+    <updated>2026-01-21T15:18:48.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bermuda Taps Circle, Coinbase to Build â€˜Fully Onchainâ€™ Economy]]></title>
+        <id>https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy</id>
+        <link href="https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy"/>
+        <updated>2026-01-21T14:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto VCs Split as Hype Around DePIN Fades]]></title>
         <id>https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop</id>
         <link href="https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop"/>
         <updated>2025-12-29T19:47:18.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain created by the team behind NFT Top Shot and CryptoKitties was exploited this weekend.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-market-update-december-29-2025</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-update-december-29-2025"/>
         <updated>2025-12-29T17:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum edged lower, while liquidations and ETF outflows continued to weigh on sentiment.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Stani Kulechov claims that moving forward with the proposal would negatively impact Aave Protocol, the DAO, and token holders.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token Launches With Low FDVs Vastly Outperformed Hyped Debuts in 2025: Memento Research]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/token-launches-with-low-fdvs-vastly-outperformed-hyped-debuts-in-2025-memento-research</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/token-launches-with-low-fdvs-vastly-outperformed-hyped-debuts-in-2025-memento-research"/>
-        <updated>2025-12-23T09:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Most tokens launched in 2025 are now trading well below their initial valuations, with projects that started at smaller FDVs outperforming billion-dollar debuts.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
