@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T16:21:55.396Z</id>
+    <id>urn:2026-01-21T17:45:17.647Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T16:21:55.396Z</updated>
+    <updated>2026-01-21T17:45:17.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prediction Markets Hit New TVL High as Polymarket Tops $330 Million]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/crypto-prediction-markets-hit-tvl-all-time-high</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/crypto-prediction-markets-hit-tvl-all-time-high"/>
+        <updated>2026-01-21T17:10:58.000Z</updated>
+        <summary type="html"><![CDATA[The total value locked across crypto prediction markets broke above its previous U.S. presidential election-fueled ATH.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bermuda Taps Circle, Coinbase to Build ‘Fully Onchain’ Economy]]></title>
         <id>https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/uni-price-down-after-uniswap-burns-100-million-tokens-unification</id>
         <link href="https://thedefiant.io/news/defi/uni-price-down-after-uniswap-burns-100-million-tokens-unification"/>
         <updated>2025-12-29T20:56:43.000Z</updated>
-        <summary type="html"><![CDATA[The decline comes as analysts suggest the protocol’s new “UNIfication” fee structure may take time to boost the token’s value]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop</id>
         <link href="https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop"/>
         <updated>2025-12-29T19:47:18.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 blockchain created by the team behind NFT Top Shot and CryptoKitties was exploited this weekend.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Most Top 10 cryptocurrencies are in the red, with Bitcoin and Ethereum posting the largest losses.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Founder Calls Contentious Token Alignment Proposal ‘Bad for Aave’]]></title>
-        <id>https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave</id>
-        <link href="https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave"/>
-        <updated>2025-12-23T10:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Stani Kulechov claims that moving forward with the proposal would negatively impact Aave Protocol, the DAO, and token holders.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
