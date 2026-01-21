@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T18:28:17.808Z</id>
+    <id>urn:2026-01-21T19:17:47.263Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T18:28:17.808Z</updated>
+    <updated>2026-01-21T19:17:47.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Backs Decentralized Social Media as Mask Network Takes Over Lens]]></title>
+        <id>https://thedefiant.io/news/people/vitalik-backs-decentralized-social-media-as-mask-network-takes-over-lens</id>
+        <link href="https://thedefiant.io/news/people/vitalik-backs-decentralized-social-media-as-mask-network-takes-over-lens"/>
+        <updated>2026-01-21T19:09:25.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum co-founder said he plans to post more on Lens this year and warned that many crypto social projects rely too heavily on tokens and hype.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prediction Markets Hit New TVL High as Polymarket Tops $330 Million]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/crypto-prediction-markets-hit-tvl-all-time-high</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/daycare-fraud-journalist-tokenizes-content-on-base</id>
         <link href="https://thedefiant.io/news/defi/daycare-fraud-journalist-tokenizes-content-on-base"/>
         <updated>2025-12-29T22:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong helped onboard Nick Shirley, the journalist covering the Minnesota Daycare Fraud scheme.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/uni-price-down-after-uniswap-burns-100-million-tokens-unification</id>
         <link href="https://thedefiant.io/news/defi/uni-price-down-after-uniswap-burns-100-million-tokens-unification"/>
         <updated>2025-12-29T20:56:43.000Z</updated>
+        <summary type="html"><![CDATA[The decline comes as analysts suggest the protocol’s new “UNIfication” fee structure may take time to boost the token’s value]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The feature adds a more flexible approach to margin management, as well as earning and borrowing features to Hypercore.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Slides Back Below $88,000 as ‘Santa Rally’ Gets Derailed]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed"/>
-        <updated>2025-12-23T10:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Most Top 10 cryptocurrencies are in the red, with Bitcoin and Ethereum posting the largest losses.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
