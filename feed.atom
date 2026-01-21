@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T21:18:10.231Z</id>
+    <id>urn:2026-01-21T22:13:16.953Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T21:18:10.231Z</updated>
+    <updated>2026-01-21T22:13:16.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pendle Sparks Debate With veTokenomics Phase-Out Plan]]></title>
+        <id>https://thedefiant.io/news/defi/pendle-sparks-debate-with-vetokenomics-phase-out-plan</id>
+        <link href="https://thedefiant.io/news/defi/pendle-sparks-debate-with-vetokenomics-phase-out-plan"/>
+        <updated>2026-01-21T21:26:52.000Z</updated>
+        <summary type="html"><![CDATA[The protocol is overhauling its staking mechanism, swapping multi-year locks for a 14-day withdrawal period and shifting to an algorithmic emissions model.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Reclaims $90,000 After Trump Cancels Europe Tariffs]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd90-000-after-trump-cancels-europe-tariffs</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch</id>
         <link href="https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch"/>
         <updated>2025-12-30T19:20:10.000Z</updated>
-        <summary type="html"><![CDATA[The platformâ€™s native token went live late eastern time, catching many traders off guard.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/night-jumps-after-charles-hoskinson-backs-xrp-defi-integration</id>
         <link href="https://thedefiant.io/news/markets/night-jumps-after-charles-hoskinson-backs-xrp-defi-integration"/>
         <updated>2025-12-29T22:32:21.000Z</updated>
+        <summary type="html"><![CDATA[The privacy-focused token surged after Hoskinson highlighted Midnightâ€™s role in DeFi privacy.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Top altcoins remain under pressure amid muted ETF flows and thin liquidity.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUMP Plummets as Legal Dispute Escalates]]></title>
-        <id>https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates</id>
-        <link href="https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates"/>
-        <updated>2025-12-24T08:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Burwick Law has filed a misconduct notice against pumpfun, alleging intimidation and retaliation against the defendants.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
