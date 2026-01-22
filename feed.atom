@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T16:19:24.946Z</id>
+    <id>urn:2026-01-22T17:19:39.130Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T16:19:24.946Z</updated>
+    <updated>2026-01-22T17:19:39.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins Could Reach 20% of Bank Deposits in Some Emerging Markets: S&amp; P Global]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report"/>
+        <updated>2026-01-22T16:41:45.000Z</updated>
+        <summary type="html"><![CDATA[The report looks at foreign currency stablecoin adoption, namely of USD-pegged assets, in 45 emerging market countries.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Seeker Token SKR Jumps 300% on First Day of Trading]]></title>
         <id>https://thedefiant.io/news/tokens/solana-seeker-launches-skr-token-airdrop</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year</id>
         <link href="https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year"/>
         <updated>2025-12-31T16:51:44.000Z</updated>
-        <summary type="html"><![CDATA[The privacy-focused token has far outperformed Bitcoin and Ethereum as interest in confidential on-chain transactions surged.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/crypto-market-update-december-30-2025</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-update-december-30-2025"/>
         <updated>2025-12-30T20:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Trading volumes stayed subdued while BTC, ETH and other large-caps rose slightly.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[Institutional forecasts for 2026 point to steadier markets, real-world tokenization, growing stablecoin adoption, and AI-driven on-chain systems.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shift4 Launches Multi-Chain Stablecoin Support for Merchants]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants"/>
-        <updated>2025-12-24T09:16:10.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. payments giant, serving hundreds of thousands of businesses, now offers 24/7 settlement in four stablecoins.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
