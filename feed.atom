@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T18:16:17.457Z</id>
+    <id>urn:2026-01-22T19:15:45.682Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T18:16:17.457Z</updated>
+    <updated>2026-01-22T19:15:45.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Overtakes Ethereum, BNB Chain in DEX Volumes for the First Time]]></title>
+        <id>https://thedefiant.io/news/defi/base-dex-volume-growth</id>
+        <link href="https://thedefiant.io/news/defi/base-dex-volume-growth"/>
+        <updated>2026-01-22T18:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Accelerated activity on Base deployments of Uniswap and Aerodrome drove the growth.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stablecoins Could Reach 20% of Bank Deposits in Some Emerging Markets: S&amp; P Global]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/tokens/trump-media-announces-new-token-launch-in-2026</id>
         <link href="https://thedefiant.io/news/tokens/trump-media-announces-new-token-launch-in-2026"/>
         <updated>2025-12-31T20:56:50.000Z</updated>
-        <summary type="html"><![CDATA[With crypto-nativeâ€™s ready to put 2025 in the rearview mirror, President Donald Trump is set to drop another token in 2026.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <id>https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year</id>
         <link href="https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year"/>
         <updated>2025-12-31T16:51:44.000Z</updated>
+        <summary type="html"><![CDATA[The privacy-focused token has far outperformed Bitcoin and Ethereum as interest in confidential on-chain transactions surged.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[From payrolls to real estate, stablecoins were among the few crypto sectors that kept growing throughout the year.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Names in Crypto Predict New Bitcoin Highs and a Tokenization Boom in 2026]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom</id>
-        <link href="https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom"/>
-        <updated>2025-12-25T17:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Institutional forecasts for 2026 point to steadier markets, real-world tokenization, growing stablecoin adoption, and AI-driven on-chain systems.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
