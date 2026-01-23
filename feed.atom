@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-23T21:10:35.052Z</id>
+    <id>urn:2026-01-23T22:08:41.800Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-23T21:10:35.052Z</updated>
+    <updated>2026-01-23T22:08:41.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Regulators Are Applying Traditional Market Rules to DeFi: PwC]]></title>
+        <id>https://thedefiant.io/news/regulation/regulators-are-applying-traditional-market-rules-to-defi-pwc</id>
+        <link href="https://thedefiant.io/news/regulation/regulators-are-applying-traditional-market-rules-to-defi-pwc"/>
+        <updated>2026-01-23T21:41:43.000Z</updated>
+        <summary type="html"><![CDATA[PwC’s 2026 crypto regulation report says market surveillance, disclosures, and investor protections are moving onchain.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Hovers Around $90,000 As Dollar Drops, Gold Surges]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd90-000-as-dollar-drops-gold-surges</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage</id>
         <link href="https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage"/>
         <updated>2026-01-05T18:44:01.000Z</updated>
-        <summary type="html"><![CDATA[The disruption marks the second major incident since Starknet’s Grinta upgrade last year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/defi/polymarket-and-parcl-launch-real-estate-prediction-markets</id>
         <link href="https://thedefiant.io/news/defi/polymarket-and-parcl-launch-real-estate-prediction-markets"/>
         <updated>2026-01-05T18:39:58.000Z</updated>
+        <summary type="html"><![CDATA[The leading decentralized prediction market is working with Parcl, an onchain real estate market, to enable users to bet on US home prices.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Bitcoin and Ethereum edged lower, while liquidations and ETF outflows continued to weigh on sentiment.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi’s Weekly Volume Hits $2.3B, Nearly Double Polymarket’s]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record"/>
-        <updated>2025-12-26T21:06:23.000Z</updated>
-        <summary type="html"><![CDATA[The prediction market’s volumes accelerated over the past seven days to overtake its main rival.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
