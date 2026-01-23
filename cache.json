@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/kansas-lawmakers-propose-state-run-bitcoin-and-digital-assets-reserve-fund",
+          "author": "Jona Jaupi",
+          "description": "The bill would create a reserve fund to hold certain digital assets transferred to the state under unclaimed property rules.",
+          "link": "https://thedefiant.io/news/regulation/kansas-lawmakers-propose-state-run-bitcoin-and-digital-assets-reserve-fund",
+          "publishedOn": "2026-01-23T00:37:53.000Z",
+          "wordCount": null,
+          "title": "Kansas Lawmakers Propose State-Run Bitcoin and Digital Assets Reserve Fund",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/debanking-1-2-png-831b5534-1caa-4a62-a0ea-86a973273a86.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/debanking-1-2-png-831b5534-1caa-4a62-a0ea-86a973273a86.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/river-soars-40-after-justin-sun-backs-defi-project",
           "author": "Jona Jaupi",
           "description": "The DeFi token jumped after River announced an expansion of its stablecoin infrastructure.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-move-higher-after-holidays-memecoins-outperform",
           "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and major memecoins recorded gains, while privacy-focused coins slipped.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/crypto-markets-move-higher-after-holidays-memecoins-outperform",
           "publishedOn": "2026-01-02T20:49:19.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/markets/memecoins-lead-crypto-rally-pepe-doge-shib",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "PEPE was the top gainer among large-caps today, while DOGE and SHIB also outperformed.",
           "link": "https://thedefiant.io/news/markets/memecoins-lead-crypto-rally-pepe-doge-shib",
           "publishedOn": "2026-01-02T18:01:11.000Z",
           "wordCount": null,
@@ -1466,7 +1481,7 @@
           "description": "The multi-year saga has finally reached a resolution, with the Uniswap DAO voting to funnel a portion of protocol fees to buyback and burn UNI.",
           "link": "https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal",
           "publishedOn": "2025-12-26T19:50:41.000Z",
-          "wordCount": 5053,
+          "wordCount": 5061,
           "title": "Uniswap Passes 'UNIfication' Fee Switch Proposal",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/52a6afc52397d2cf503709281795c27f9a58dbf744560b2aa01838a7732b-c2cad5d7-d650-4d37-a4de-2d22bcf05a88.png",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/0e25d7768c7b05d19e361c8c35185aec673ea7a50dd41a3fb69970fdd70f-4b0b643a-f408-47ab-90ef-93e750694bb0.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet",
-          "author": "Denis Omelchenko",
-          "description": "BTC fails to hold $89,000, while ETH continues to trade below $3,000.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet",
-          "publishedOn": "2025-12-26T15:28:20.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Slump as Holiday Trading Stays Quiet",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/39b945bb21831dad57d0826b2ff6ce3ef7afdd627c39e12d38e9b0f18946-cfec8683-fc9c-4fb3-8dee-20182ea7d7d8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/39b945bb21831dad57d0826b2ff6ce3ef7afdd627c39e12d38e9b0f18946-cfec8683-fc9c-4fb3-8dee-20182ea7d7d8.png"
         }
       ]
     }
