@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-26T17:20:08.955Z</id>
+    <id>urn:2026-01-26T18:18:46.946Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-26T17:20:08.955Z</updated>
+    <updated>2026-01-26T18:18:46.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VanEck Launches First U.S.-Listed Avalanche ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-first-u-s-listed-avalanche-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-first-u-s-listed-avalanche-etf"/>
+        <updated>2026-01-26T17:54:01.000Z</updated>
+        <summary type="html"><![CDATA[The new fund, VAVX, offers spot exposure to AVAX and may generate staking rewards.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Trades Near $88,000 as ETF Outflows Deepen and Gold Continues to Rally]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-trades-near-usd88000-crypto-market-update-jan-26-2026</id>
@@ -833,7 +843,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/render-soars-30-as-ai-focused-tokens-rally</id>
         <link href="https://thedefiant.io/news/markets/render-soars-30-as-ai-focused-tokens-rally"/>
         <updated>2026-01-05T21:40:27.000Z</updated>
-        <summary type="html"><![CDATA[RENDER surges as demand for A.I. infrastructure grows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -843,6 +852,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/bitcoin-breaks-usd94k-market-update-jan-5-2026</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-breaks-usd94k-market-update-jan-5-2026"/>
         <updated>2026-01-05T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Crypto prices advanced Monday alongside strong ETF inflows and widespread short liquidations.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The decline comes as analysts suggest the protocol’s new “UNIfication” fee structure may take time to boost the token’s value]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow Back Online After Token Drops 40% on $4M Exploit]]></title>
-        <id>https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop</id>
-        <link href="https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop"/>
-        <updated>2025-12-29T19:47:18.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain created by the team behind NFT Top Shot and CryptoKitties was exploited this weekend.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
