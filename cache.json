@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/crypto-money-laundering-activity-report-chainalysis",
+          "author": "Denis Omelchenko",
+          "description": "Roughly $16 billion in illicit crypto flowed through Chinese-language Telegram-based networks in 2025.",
+          "link": "https://thedefiant.io/news/research-and-opinion/crypto-money-laundering-activity-report-chainalysis",
+          "publishedOn": "2026-01-27T13:00:31.000Z",
+          "wordCount": null,
+          "title": "Chinese Telegram-Based Networks Account for 20% of Crypto Laundering Activity: Chainalysis",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ml-scam-jpg-e8732f1e-9843-4878-a1a2-74a31ad22fa5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ml-scam-jpg-e8732f1e-9843-4878-a1a2-74a31ad22fa5.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/zama-s-encrypted-ethereum-token-auction-draws-usd118m-in-commitments",
           "author": "Jona Jaupi",
           "description": "The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
           "author": "Camila Russo",
-          "description": "In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.\n\nWe dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.\nFinally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.",
+          "description": "",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
           "publishedOn": "2026-01-06T17:50:53.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand",
           "author": "Squiffs",
-          "description": "",
+          "description": "The team has removed contribution caps and changed the allocation distribution process.",
           "link": "https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand",
           "publishedOn": "2026-01-06T17:48:37.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/96d1034514920578989bca927ab193ae9014404a8fbb636e2641f83871b1-51ad0607-8399-44c9-9d77-eb49b3f62b97.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/night-jumps-after-charles-hoskinson-backs-xrp-defi-integration",
-          "author": "Jona Jaupi",
-          "description": "The privacy-focused token surged after Hoskinson highlighted Midnight’s role in DeFi privacy.",
-          "link": "https://thedefiant.io/news/markets/night-jumps-after-charles-hoskinson-backs-xrp-defi-integration",
-          "publishedOn": "2025-12-29T22:32:21.000Z",
-          "wordCount": null,
-          "title": "NIGHT Jumps After Charles Hoskinson Backs XRP DeFi Integration",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/night-token-png-cb56e87d-e141-41ac-aa94-0dcafbe46108.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/night-token-png-cb56e87d-e141-41ac-aa94-0dcafbe46108.png"
         }
       ]
     }
