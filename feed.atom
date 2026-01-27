@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-27T15:19:12.636Z</id>
+    <id>urn:2026-01-27T16:16:48.268Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-27T15:19:12.636Z</updated>
+    <updated>2026-01-27T16:16:48.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Slips Under $88K as Markets Await Fed Decision]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-slips-under-usd88k-market-update-jan-27-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-slips-under-usd88k-market-update-jan-27-2026"/>
+        <updated>2026-01-27T15:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Most of the top-10 assets are little changed today, with modest losses led by XRP.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Telegram-Based Networks Account for 20% of Crypto Laundering Activity: Chainalysis]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/crypto-money-laundering-activity-report-chainalysis</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025"/>
         <updated>2026-01-06T18:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,10 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss"/>
         <updated>2026-01-06T17:50:53.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.
+
+We dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.
+Finally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -992,16 +1005,6 @@
         <summary type="html"><![CDATA[Base supporters are giving up on the Zora ecosystem’s creator coins after the viral journalist Nick Shirley’s coin failed to live up to hype.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lighter Users Report Withdrawal Issues After Perp DEX Launches LIT Token]]></title>
-        <id>https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch</id>
-        <link href="https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch"/>
-        <updated>2025-12-30T19:20:10.000Z</updated>
-        <summary type="html"><![CDATA[The platform’s native token went live late eastern time, catching many traders off guard.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

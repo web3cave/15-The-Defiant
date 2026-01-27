@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd88k-market-update-jan-27-2026",
+          "author": "Denis Omelchenko",
+          "description": "Most of the top-10 assets are little changed today, with modest losses led by XRP.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd88k-market-update-jan-27-2026",
+          "publishedOn": "2026-01-27T15:35:08.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Slips Under $88K as Markets Await Fed Decision",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-sad-jpg-fed6221c-5334-44c2-b25d-d2c32aa38fa8.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-sad-jpg-fed6221c-5334-44c2-b25d-d2c32aa38fa8.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/crypto-money-laundering-activity-report-chainalysis",
           "author": "Denis Omelchenko",
           "description": "Roughly $16 billion in illicit crypto flowed through Chinese-language Telegram-based networks in 2025.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
           "author": "Jona Jaupi",
-          "description": "Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
           "publishedOn": "2026-01-06T18:59:19.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
           "author": "Camila Russo",
-          "description": "",
+          "description": "In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.\n\nWe dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.\nFinally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss",
           "publishedOn": "2026-01-06T17:50:53.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/04c98cc0d39af641984f76671930c6cb3a46ded97ebcd22b7e0b87ae145c-816e5a04-faea-4171-9544-a10aa523b420.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch",
-          "author": "Jona Jaupi",
-          "description": "The platform’s native token went live late eastern time, catching many traders off guard.",
-          "link": "https://thedefiant.io/news/defi/lighter-users-report-withdrawal-issues-after-lit-token-launch",
-          "publishedOn": "2025-12-30T19:20:10.000Z",
-          "wordCount": null,
-          "title": "Lighter Users Report Withdrawal Issues After Perp DEX Launches LIT Token",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/96d1034514920578989bca927ab193ae9014404a8fbb636e2641f83871b1-51ad0607-8399-44c9-9d77-eb49b3f62b97.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/96d1034514920578989bca927ab193ae9014404a8fbb636e2641f83871b1-51ad0607-8399-44c9-9d77-eb49b3f62b97.png"
         }
       ]
     }
