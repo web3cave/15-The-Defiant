@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-27T17:18:43.360Z</id>
+    <id>urn:2026-01-27T18:25:55.463Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-27T17:18:43.360Z</updated>
+    <updated>2026-01-27T18:25:55.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Launches Regulated USAT Stablecoin]]></title>
+        <id>https://thedefiant.io/news/defi/tether-launches-regulated-usat-stablecoin</id>
+        <link href="https://thedefiant.io/news/defi/tether-launches-regulated-usat-stablecoin"/>
+        <updated>2026-01-27T18:19:36.000Z</updated>
+        <summary type="html"><![CDATA[DeFi’s leading stablecoin issuer is now catering to the United States and its federally regulated crypto environment.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Ecosystem Grew in 2025 Even as ETH Price Lagged: Everstake]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/ethereum-ecosystem-grew-in-2025-even-as-eth-price-lagged-everstake</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/ethereum-ecosystem-grew-in-2025-even-as-eth-price-lagged-everstake"/>
+        <updated>2026-01-27T17:38:07.000Z</updated>
+        <summary type="html"><![CDATA[More than 30% of the ETH supply is now staked, while Layer 2 throughput has topped 300 TPS.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Slips Under $88K as Markets Await Fed Decision]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-slips-under-usd88k-market-update-jan-27-2026</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-trade-mixed-as-bitcoin-pulls-back</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-trade-mixed-as-bitcoin-pulls-back"/>
         <updated>2026-01-06T20:03:50.000Z</updated>
-        <summary type="html"><![CDATA[BTC hovers around $92,000 as ETH extends weekly gains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025"/>
         <updated>2026-01-06T18:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -985,26 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The privacy-focused token has far outperformed Bitcoin and Ethereum as interest in confidential on-chain transactions surged.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Trade Mostly Flat as Year-End Activity Remains Light]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-update-december-30-2025</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-update-december-30-2025"/>
-        <updated>2025-12-30T20:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Trading volumes stayed subdued while BTC, ETH and other large-caps rose slightly.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZORA Drops as Creator Coins Disappoint Yet Again]]></title>
-        <id>https://thedefiant.io/news/markets/zora-drops-as-creator-coins-disappoint</id>
-        <link href="https://thedefiant.io/news/markets/zora-drops-as-creator-coins-disappoint"/>
-        <updated>2025-12-30T19:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Base supporters are giving up on the Zora ecosystem’s creator coins after the viral journalist Nick Shirley’s coin failed to live up to hype.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
