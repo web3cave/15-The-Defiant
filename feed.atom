@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T14:19:37.079Z</id>
+    <id>urn:2026-01-28T15:20:40.452Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-28T14:19:37.079Z</updated>
+    <updated>2026-01-28T15:20:40.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moonbirds Debuts BIRB Token on Solana at $200M FDV]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/moonbirds-debuts-birb-token-tge</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/moonbirds-debuts-birb-token-tge"/>
+        <updated>2026-01-28T14:38:38.000Z</updated>
+        <summary type="html"><![CDATA[After the BIRB tokenomics dropped, the Moonbirds NFT floor slid over 30%.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theo Launches Yield-Bearing Tokenized Gold as Price Tops $5,100]]></title>
         <id>https://thedefiant.io/news/defi/theo-launches-yield-bearing-tokenized-gold-as-price-tops-usd5-100</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt"/>
         <updated>2026-01-07T20:42:10.000Z</updated>
-        <summary type="html"><![CDATA[The sports apparel giant’s NFT experiment has come full circle.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data"/>
         <updated>2026-01-07T19:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ether slipped modestly as labor data pointed to a cooling U.S. job market.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The on-chain sleuth said that a total of roughly $100,000 had been drained across hundreds of wallets in a yet-to-be resolved exploit.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Move Higher After Holidays, Memecoins Outperform]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-move-higher-after-holidays-memecoins-outperform</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-move-higher-after-holidays-memecoins-outperform"/>
-        <updated>2026-01-02T20:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and major memecoins recorded gains, while privacy-focused coins slipped.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
