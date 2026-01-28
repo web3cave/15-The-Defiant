@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T18:22:06.435Z</id>
+    <id>urn:2026-01-28T19:17:29.956Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-28T18:22:06.435Z</updated>
+    <updated>2026-01-28T19:17:29.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Voters Approve OP Buyback Plan Tied to Superchain Revenue]]></title>
+        <id>https://thedefiant.io/news/tokens/optimism-tokenholders-approve-op-buybacks</id>
+        <link href="https://thedefiant.io/news/tokens/optimism-tokenholders-approve-op-buybacks"/>
+        <updated>2026-01-28T18:35:34.000Z</updated>
+        <summary type="html"><![CDATA[The Optimism community reached a quorum authorizing a yearlong program to convert Superchain revenue into OP purchases starting in February.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Briefly Reclaims $90K as Crypto Markets See Uptick]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex</id>
         <link href="https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex"/>
         <updated>2026-01-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Oct. 10–11 crash exposed weaknesses in exchange risk systems.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets</id>
         <link href="https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets"/>
         <updated>2026-01-07T21:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket has also become the exclusive prediction market partner of the Wall Street Journal and Dow Jones.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The leading decentralized prediction market is working with Parcl, an onchain real estate market, to enable users to bet on US home prices.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exploit Losses Fell 60% in December Despite Ongoing Hacks]]></title>
-        <id>https://thedefiant.io/news/hacks/crypto-exploits-december-2025-peckshield-report</id>
-        <link href="https://thedefiant.io/news/hacks/crypto-exploits-december-2025-peckshield-report"/>
-        <updated>2026-01-05T17:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Total losses dropped to about $76 million last month from more than double that in November, though PeckShield warns exploit activity remains persistent.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
