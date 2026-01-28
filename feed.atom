@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T19:17:29.956Z</id>
+    <id>urn:2026-01-28T20:15:54.942Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-28T19:17:29.956Z</updated>
+    <updated>2026-01-28T20:15:54.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fidelity’s Choice of Ethereum for its Stablecoin Puts Focus on Public Blockchains]]></title>
+        <id>https://thedefiant.io/news/defi/fidelity-s-choice-of-ethereum-for-its-stablecoin-puts-focus-on-public-blockchains</id>
+        <link href="https://thedefiant.io/news/defi/fidelity-s-choice-of-ethereum-for-its-stablecoin-puts-focus-on-public-blockchains"/>
+        <updated>2026-01-28T19:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Industry experts say Fidelity’s decision to launch FIDD on Ethereum could signal growing institutional comfort with public blockchain infrastructure.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Voters Approve OP Buyback Plan Tied to Superchain Revenue]]></title>
         <id>https://thedefiant.io/news/tokens/optimism-tokenholders-approve-op-buybacks</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute</id>
         <link href="https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute"/>
         <updated>2026-01-08T17:44:48.000Z</updated>
-        <summary type="html"><![CDATA[The former CEO pointed to governance changes at Bootstrap, the Zcash-linked nonprofit.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex</id>
         <link href="https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex"/>
         <updated>2026-01-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oct. 10–11 crash exposed weaknesses in exchange risk systems.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The disruption marks the second major incident since Starknet’s Grinta upgrade last year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket and Parcl Launch Real Estate Prediction Markets]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-and-parcl-launch-real-estate-prediction-markets</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-and-parcl-launch-real-estate-prediction-markets"/>
-        <updated>2026-01-05T18:39:58.000Z</updated>
-        <summary type="html"><![CDATA[The leading decentralized prediction market is working with Parcl, an onchain real estate market, to enable users to bet on US home prices.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
