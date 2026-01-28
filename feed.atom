@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T16:21:39.820Z</id>
+    <id>urn:2026-01-28T17:23:13.879Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-28T16:21:39.820Z</updated>
+    <updated>2026-01-28T17:23:13.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Briefly Reclaims $90K as Crypto Markets See Uptick]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026"/>
+        <updated>2026-01-28T16:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Most large-caps are posting modest gains today, despite crypto market sentiment remaining fear-driven ahead of today's Fed meeting.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonbirds Debuts BIRB Token on Solana at $200M FDV]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/moonbirds-debuts-birb-token-tge</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets</id>
         <link href="https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets"/>
         <updated>2026-01-07T21:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Polymarket has also become the exclusive prediction market partner of the Wall Street Journal and Dow Jones.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt"/>
         <updated>2026-01-07T20:42:10.000Z</updated>
+        <summary type="html"><![CDATA[The sports apparel giant’s NFT experiment has come full circle.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -995,16 +1005,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[Total losses dropped to about $76 million last month from more than double that in November, though PeckShield warns exploit activity remains persistent.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZachXBT Reports EVM Hack Affecting Hundreds of Wallets]]></title>
-        <id>https://thedefiant.io/news/hacks/zachxbt-reports-evm-hack-affecting-hundreds-of-wallets</id>
-        <link href="https://thedefiant.io/news/hacks/zachxbt-reports-evm-hack-affecting-hundreds-of-wallets"/>
-        <updated>2026-01-02T21:45:16.000Z</updated>
-        <summary type="html"><![CDATA[The on-chain sleuth said that a total of roughly $100,000 had been drained across hundreds of wallets in a yet-to-be resolved exploit.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
