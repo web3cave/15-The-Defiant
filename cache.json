@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/coinbase-launches-nationwide-prediction-markets-in-partnership-with-kalshi",
+          "author": "DefAInt",
+          "description": "Coinbase, in collaboration with Kalshi, has introduced prediction markets across all 50 U.S. states, allowing users to trade on real-world events.",
+          "link": "https://thedefiant.io/news/defi/coinbase-launches-nationwide-prediction-markets-in-partnership-with-kalshi",
+          "publishedOn": "2026-01-28T21:26:40.000Z",
+          "wordCount": null,
+          "title": "Coinbase Launches Nationwide Prediction Markets in Partnership with Kalshi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/coinbase-kalshi-jpg-a66d9450-629c-487d-8548-6f3c91390b1a.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/coinbase-kalshi-jpg-a66d9450-629c-487d-8548-6f3c91390b1a.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/base-ai-agent-deployers-rally-as-clawd-surges",
+          "author": "Squiffs",
+          "description": "The CLANKER and BANKR tokens are up 24% and 34% as attention turns back towards the AI agent ecosystem on Base.",
+          "link": "https://thedefiant.io/news/markets/base-ai-agent-deployers-rally-as-clawd-surges",
+          "publishedOn": "2026-01-28T21:09:52.000Z",
+          "wordCount": null,
+          "title": "Base AI Agent Deployers Rally as CLAWD Surges",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1769635023084-png-000fba9a-7c09-4299-a62b-dab3976a50b5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1769635023084-png-000fba9a-7c09-4299-a62b-dab3976a50b5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/fidelity-s-choice-of-ethereum-for-its-stablecoin-puts-focus-on-public-blockchains",
           "author": "Jona Jaupi",
           "description": "Industry experts say Fidelity’s decision to launch FIDD on Ethereum could signal growing institutional comfort with public blockchain infrastructure.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/white-whale-memecoin-surges-past-usd100-million-valuation",
           "author": "Squiffs",
-          "description": "The White Whale memecoin marks the first pumpfun token to surpass a $100 million market capitalization in almost a year.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/white-whale-memecoin-surges-past-usd100-million-valuation",
           "publishedOn": "2026-01-08T20:56:36.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The former CEO pointed to governance changes at Bootstrap, the Zcash-linked nonprofit.",
           "link": "https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute",
           "publishedOn": "2026-01-08T17:44:48.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/b84c2d8c0b10384083dc3246e94241085ae45c00643032ae7831ba7ac387-e7883bcd-2671-45a8-b551-0e688fe72a6c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-breaks-usd94k-market-update-jan-5-2026",
-          "author": "Jona Jaupi",
-          "description": "Crypto prices advanced Monday alongside strong ETF inflows and widespread short liquidations.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-breaks-usd94k-market-update-jan-5-2026",
-          "publishedOn": "2026-01-05T20:45:00.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Breaks $94K as Markets Rally Despite Rising Geopolitical Tensions",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/a390a571199f551fa9b04d076eede53cfd689dc21a48899a5a38df530d6f-3ca6acff-e6b9-4361-9168-725c556de14a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/a390a571199f551fa9b04d076eede53cfd689dc21a48899a5a38df530d6f-3ca6acff-e6b9-4361-9168-725c556de14a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage",
-          "author": "Jona Jaupi",
-          "description": "The disruption marks the second major incident since Starknet’s Grinta upgrade last year.",
-          "link": "https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage",
-          "publishedOn": "2026-01-05T18:44:01.000Z",
-          "wordCount": null,
-          "title": "Starknet Restores Network After Four-Hour Outage",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strk-1-1-png-42c75e5d-f0f1-41fb-ae4a-2625531fd566.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strk-1-1-png-42c75e5d-f0f1-41fb-ae4a-2625531fd566.png"
         }
       ]
     }
