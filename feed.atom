@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-29T14:30:30.196Z</id>
+    <id>urn:2026-01-29T15:23:14.793Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-29T14:30:30.196Z</updated>
+    <updated>2026-01-29T15:23:14.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Augur Reveals Lituus Oracle Infra to Fight Market Manipulation Across DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/augur-reveals-augur-lituus-oracle-whitepaper</id>
+        <link href="https://thedefiant.io/news/defi/augur-reveals-augur-lituus-oracle-whitepaper"/>
+        <updated>2026-01-29T15:20:18.000Z</updated>
+        <summary type="html"><![CDATA[As part of its "reboot," the early decentralized prediction protocol is developing a shared on-chain "truth layer" for other protocols.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1inch Team Vows Tokenomics Review After Token Hits All-Time Low]]></title>
+        <id>https://thedefiant.io/news/markets/1inch-team-responds-to-1inch-investor-sales</id>
+        <link href="https://thedefiant.io/news/markets/1inch-team-responds-to-1inch-investor-sales"/>
+        <updated>2026-01-29T14:49:04.000Z</updated>
+        <summary type="html"><![CDATA[The 1INCH token tanked after on-chain data showed millions of dollars in sales from early investor wallets.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WisdomTree Expands Tokenized Fund Offerings to Solana]]></title>
         <id>https://thedefiant.io/news/defi/wisdomtree-expands-tokenized-fund-offerings-to-solana</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally</id>
         <link href="https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally"/>
         <updated>2026-01-09T19:31:39.000Z</updated>
-        <summary type="html"><![CDATA[POL, formerly MATIC, is soaring after the Polygon CEO shared the chain’s vision for its Open Money Stack.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn"/>
         <updated>2026-01-09T15:50:56.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Chris Storaker sits down with Alex Garn, Chief Product Officer at Borderless, to unpack how stablecoins are quietly transforming cross-border payments — and what it actually takes to move money at scale across jurisdictions.]]></summary>
         <author>
             <name>Chris Storaker</name>
         </author>
@@ -982,29 +1002,6 @@
         <summary type="html"><![CDATA[Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s “HTTP Moment” with Marissa Posner &amp;  Yoav Weiss]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/ethereum-s-http-moment-with-marissa-posner-and-yoav-weiss"/>
-        <updated>2026-01-06T17:50:53.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant podcast, Camila Russo sits down in Buenos Aires (Devconnect) with Marissa Posner (Product, Ethereum Foundation) and Yoav Weiss (security researcher, Ethereum Foundation) to unpack The Trustless Manifesto and the Ethereum Interop Layer (EIL), why “trust assumptions” are quietly creeping into Ethereum’s stack, and what it will take to preserve Ethereum’s core values while making UX actually usable.
-
-We dig into the hidden places users are forced to trust intermediaries, from cross-chain interoperability and solvers to something most people never question: RPCs. Then we get practical: the guests walk through the EIL, a new approach to cross-chain UX that aims to deliver one-signature interop without introducing new trust assumptions, plus why the wallet becomes the center of the user’s security model.
-Finally, we zoom out: how should wallets warn users, what does “walkaway test” really mean, and why institutions may end up being one of the strongest forces pushing crypto toward less counterparty risk.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinex Changes ICO Terms Following Low Demand]]></title>
-        <id>https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand</id>
-        <link href="https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand"/>
-        <updated>2026-01-06T17:48:37.000Z</updated>
-        <summary type="html"><![CDATA[The team has removed contribution caps and changed the allocation distribution process.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
