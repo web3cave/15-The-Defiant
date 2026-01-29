@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-29T19:22:25.013Z</id>
+    <id>urn:2026-01-29T20:16:39.678Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-29T19:22:25.013Z</updated>
+    <updated>2026-01-29T20:16:39.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SOL ETFs Outpace ETH’s Early Rollout, But BTC Still Dominates]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/sol-etfs-outpace-eth-s-early-rollout-but-btc-still-dominates</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/sol-etfs-outpace-eth-s-early-rollout-but-btc-still-dominates"/>
+        <updated>2026-01-29T19:43:18.000Z</updated>
+        <summary type="html"><![CDATA[While Bitcoin ETFs still lead by a wide margin, Solana’s early ETF inflows outpaced Ethereum’s launch period.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum to Mobilize Unclaimed DAO Funds for $220 Million Security Initiative]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-to-mobilize-unclaimed-dao-funds-for-usd220-million-security-initiative</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum</id>
         <link href="https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum"/>
         <updated>2026-01-12T15:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s co-founder said the network should remain usable and secure even if core developers step back from active updates.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026</id>
         <link href="https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026"/>
         <updated>2026-01-10T00:48:42.000Z</updated>
+        <summary type="html"><![CDATA[The venture capital giant highlights prediction markets, zk-SNARKS, and ‘staked media’ as themes to watch.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -992,16 +1002,6 @@
         <summary type="html"><![CDATA[Digital Asset and Kinexys plan a phased rollout of the JPMD token on the privacy-focused Layer 1 blockchain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investors Eye Venezuela’s Bitcoin Stash Following Maduro’s Capture]]></title>
-        <id>https://thedefiant.io/news/markets/investors-eye-venezuela-s-bitcoin-stash-following-maduro-s-capture</id>
-        <link href="https://thedefiant.io/news/markets/investors-eye-venezuela-s-bitcoin-stash-following-maduro-s-capture"/>
-        <updated>2026-01-06T23:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Speculation grows surrounding a rumored $60 billion Bitcoin reserve amassed by the Venezuelan dictatorship.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
