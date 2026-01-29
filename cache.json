@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-stock-market-down-microsoft-ai-fears",
+          "author": "Denis Omelchenko",
+          "description": "BTC slipped below $85,000 as stocks took a hit this morning, reportedly driven by AI spending fears after Microsoft's earnings report.",
+          "link": "https://thedefiant.io/news/markets/crypto-stock-market-down-microsoft-ai-fears",
+          "publishedOn": "2026-01-29T17:34:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Markets Tumble as US Stock Market Dips",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/markets-down-ai-city-jpg-455412c0-5869-4241-9213-fe53d910ad6d.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/markets-down-ai-city-jpg-455412c0-5869-4241-9213-fe53d910ad6d.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/augur-reveals-augur-lituus-oracle-whitepaper",
           "author": "Denis Omelchenko",
           "description": "As part of its \"reboot,\" the early decentralized prediction protocol is developing a shared on-chain \"truth layer\" for other protocols.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations",
           "author": "Jona Jaupi",
-          "description": "Bitcoin slipped under $91,000, while Ethereum and Solana dropped 1.5%.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-after-us-jobs-miss-expectations",
           "publishedOn": "2026-01-09T19:59:49.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally",
           "author": "Squiffs",
-          "description": "",
+          "description": "POL, formerly MATIC, is soaring after the Polygon CEO shared the chain’s vision for its Open Money Stack.",
           "link": "https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally",
           "publishedOn": "2026-01-09T19:31:39.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/78b23c2a876be919a97fd529f5d12eedc5083e6b1fd949da96d1057c12f4-e65cfade-41ae-4d0e-9433-86e8c8cbba23.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
-          "author": "Jona Jaupi",
-          "description": "Expanding from Bitcoin to Ethereum, Solana, and other altcoins, public companies embraced crypto as a core treasury tool — and exposed new risks along the way.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/how-digital-asset-treasuries-went-mainstream-in-2025",
-          "publishedOn": "2026-01-06T18:59:19.000Z",
-          "wordCount": null,
-          "title": "How Digital Asset Treasuries Went Mainstream in 2025",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/8467600e07beba0d1553179b32f7d8276c53cc01b8c6f96986e66e31f983-f32c2ce4-53d6-4ee4-aa14-b17f0d481160.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/8467600e07beba0d1553179b32f7d8276c53cc01b8c6f96986e66e31f983-f32c2ce4-53d6-4ee4-aa14-b17f0d481160.png"
         }
       ]
     }
