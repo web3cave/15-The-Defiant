@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-is-for-institutions-danny-ryan-says-tokenization-isn-t-enough",
+          "author": "Camila Russo",
+          "description": "In this interview, Camila Russo sits down with Danny Ryan — former Ethereum Foundation researcher and a key leader behind Ethereum’s shift to proof of stake — now Co-Founder & President at Etherealize, to talk about the next big wave for crypto: institutional adoption of Ethereum.\nRecorded in Buenos Aires during Devconnect, Danny breaks down why the mood inside banks has flipped from “we can’t touch crypto” to “if we don’t adopt it, we’ll be left behind.” We dig into what institutions actually want beyond ETFs, why the biggest opportunity isn’t “tokenizing assets” but rewiring markets from first principles, and why privacy is table stakes for institutional-grade onchain finance.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/ethereum-is-for-institutions-danny-ryan-says-tokenization-isn-t-enough",
+          "publishedOn": "2026-01-29T22:52:16.000Z",
+          "wordCount": null,
+          "title": "Ethereum is for Institutions: Danny Ryan Says Tokenization Isn't Enough",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-danny-jpg-7476d9bf-c70b-4482-89be-c0c02fef5781.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-danny-jpg-7476d9bf-c70b-4482-89be-c0c02fef5781.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/optimism-unveils-op-enterprise",
           "author": "Squiffs",
           "description": "The Ethereum scaling solution is launching a deployment suite for enterprise clients looking to build blockchains.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges",
           "author": "Squiffs",
-          "description": "The recently launched perpetual DEX token is down nearly 30% over the past week.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges",
           "publishedOn": "2026-01-12T20:33:05.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/dubai-bans-privacy-tokens-on-regulated-exchanges",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "DFSA cites money-laundering and sanctions risks as it bans assets like Monero and Zcash from DIFC-based platforms.",
           "link": "https://thedefiant.io/news/regulation/dubai-bans-privacy-tokens-on-regulated-exchanges",
           "publishedOn": "2026-01-12T19:24:20.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/bf0d73d33f7f88cc68c9c0cdceb4f724ca08895e56bdef5f0436179be75a-ef1cad54-13a0-4a45-a77b-b6d73934d442.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin and Ether slipped modestly as labor data pointed to a cooling U.S. job market.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data",
-          "publishedOn": "2026-01-07T19:27:24.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Edge Lower as Investors Weigh Macro Data",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/6a08f48dd37f822cccaa59170d9bf14c0433bc2af635465a5487d330a370-c9abd1f4-d11b-467f-9da6-20091f60072a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/6a08f48dd37f822cccaa59170d9bf14c0433bc2af635465a5487d330a370-c9abd1f4-d11b-467f-9da6-20091f60072a.png"
         }
       ]
     }

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-29T22:15:23.742Z</id>
+    <id>urn:2026-01-29T23:15:14.202Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-29T22:15:23.742Z</updated>
+    <updated>2026-01-29T23:15:14.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum is for Institutions: Danny Ryan Says Tokenization Isn't Enough]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/ethereum-is-for-institutions-danny-ryan-says-tokenization-isn-t-enough</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/ethereum-is-for-institutions-danny-ryan-says-tokenization-isn-t-enough"/>
+        <updated>2026-01-29T22:52:16.000Z</updated>
+        <summary type="html"><![CDATA[In this interview, Camila Russo sits down with Danny Ryan — former Ethereum Foundation researcher and a key leader behind Ethereum’s shift to proof of stake — now Co-Founder & President at Etherealize, to talk about the next big wave for crypto: institutional adoption of Ethereum.
+Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood inside banks has flipped from “we can’t touch crypto” to “if we don’t adopt it, we’ll be left behind.” We dig into what institutions actually want beyond ETFs, why the biggest opportunity isn’t “tokenizing assets” but rewiring markets from first principles, and why privacy is table stakes for institutional-grade onchain finance.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Unveils OP Enterprise]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-unveils-op-enterprise</id>
@@ -830,7 +841,6 @@
         <id>https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges</id>
         <link href="https://thedefiant.io/news/defi/lighter-token-struggles-as-farmers-transition-to-alternative-exchanges"/>
         <updated>2026-01-12T20:33:05.000Z</updated>
-        <summary type="html"><![CDATA[The recently launched perpetual DEX token is down nearly 30% over the past week.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,6 +850,7 @@
         <id>https://thedefiant.io/news/regulation/dubai-bans-privacy-tokens-on-regulated-exchanges</id>
         <link href="https://thedefiant.io/news/regulation/dubai-bans-privacy-tokens-on-regulated-exchanges"/>
         <updated>2026-01-12T19:24:20.000Z</updated>
+        <summary type="html"><![CDATA[DFSA cites money-laundering and sanctions risks as it bans assets like Monero and Zcash from DIFC-based platforms.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -992,16 +1003,6 @@
         <summary type="html"><![CDATA[The sports apparel giant’s NFT experiment has come full circle.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Edge Lower as Investors Weigh Macro Data]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data"/>
-        <updated>2026-01-07T19:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ether slipped modestly as labor data pointed to a cooling U.S. job market.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
