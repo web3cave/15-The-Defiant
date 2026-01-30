@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-30T13:45:30.889Z</id>
+    <id>urn:2026-01-30T14:25:05.673Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-30T13:45:30.889Z</updated>
+    <updated>2026-01-30T14:25:05.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Nominates Kevin Warsh as New Fed Chair]]></title>
+        <id>https://thedefiant.io/news/regulation/trump-announces-new-fed-chair-pick-kevin-warsh</id>
+        <link href="https://thedefiant.io/news/regulation/trump-announces-new-fed-chair-pick-kevin-warsh"/>
+        <updated>2026-01-30T13:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Warsh is known as having a neutral to positive stance on Bitcoin and crypto.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwise Says Fusaka Improves Ethereum UX But Falls Short on Revenue Expectations]]></title>
         <id>https://thedefiant.io/news/blockchains/fusaka-falls-short-on-ethereum-revenue-expectations-bitwise</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down</id>
         <link href="https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down"/>
         <updated>2026-01-13T14:41:37.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi lending protocol staged a major comeback in 2025, rising to new TVL highs last year after it was hacked in 2023.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi"/>
         <updated>2026-01-13T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The asset manager has updated two Western Asset money market funds to support stablecoin reserves and blockchain-based distribution.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -991,16 +1001,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <link href="https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute"/>
         <updated>2026-01-08T17:44:48.000Z</updated>
         <summary type="html"><![CDATA[The former CEO pointed to governance changes at Bootstrap, the Zcash-linked nonprofit.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Derivatives Market Reset After Oct. 10 Crash: BitMEX]]></title>
-        <id>https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex</id>
-        <link href="https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex"/>
-        <updated>2026-01-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Oct. 10–11 crash exposed weaknesses in exchange risk systems.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>

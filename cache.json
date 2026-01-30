@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/trump-announces-new-fed-chair-pick-kevin-warsh",
+          "author": "DefAInt",
+          "description": "Warsh is known as having a neutral to positive stance on Bitcoin and crypto.",
+          "link": "https://thedefiant.io/news/regulation/trump-announces-new-fed-chair-pick-kevin-warsh",
+          "publishedOn": "2026-01-30T13:55:59.000Z",
+          "wordCount": null,
+          "title": "Trump Nominates Kevin Warsh as New Fed Chair",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usa-jpg-272c68d7-bf3e-494e-818c-5f23831b6a5c.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usa-jpg-272c68d7-bf3e-494e-818c-5f23831b6a5c.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/fusaka-falls-short-on-ethereum-revenue-expectations-bitwise",
           "author": "Denis Omelchenko",
           "description": "Before Fusaka went live, Bitwise's CIO had predicted that the upgrade would increase Ethereum's revenue capture.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down",
           "author": "Denis Omelchenko",
-          "description": "The DeFi lending protocol staged a major comeback in 2025, rising to new TVL highs last year after it was hacked in 2023.",
+          "description": "",
           "link": "https://thedefiant.io/news/people/euler-ceo-michael-bentley-steps-down",
           "publishedOn": "2026-01-13T14:41:37.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The asset manager has updated two Western Asset money market funds to support stablecoin reserves and blockchain-based distribution.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi",
           "publishedOn": "2026-01-13T14:00:24.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/68a9b75cbdea8a6fa984943290f5a6dca4dd7e8cc50d4a4a2f9ba20c33fb-ebbe6730-48c5-4a0b-b7cc-3c776808a312.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex",
-          "author": "Jona Jaupi",
-          "description": "The Oct. 10–11 crash exposed weaknesses in exchange risk systems.",
-          "link": "https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex",
-          "publishedOn": "2026-01-08T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Derivatives Market Reset After Oct. 10 Crash: BitMEX",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/7bdc734f6683b5b3d814a783cb7568425d3199d630780493788cc75a906e-1f8aebd0-11ee-4f0b-8d66-f882bfa6f9ca.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/7bdc734f6683b5b3d814a783cb7568425d3199d630780493788cc75a906e-1f8aebd0-11ee-4f0b-8d66-f882bfa6f9ca.png"
         }
       ]
     }
