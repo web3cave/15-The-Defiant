@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-30T10:21:05.996Z</id>
+    <id>urn:2026-01-30T11:19:02.182Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-30T10:21:05.996Z</updated>
+    <updated>2026-01-30T11:19:02.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitwise Says Fusaka Improves Ethereum UX But Falls Short on Revenue Expectations]]></title>
+        <id>https://thedefiant.io/news/blockchains/fusaka-falls-short-on-ethereum-revenue-expectations-bitwise</id>
+        <link href="https://thedefiant.io/news/blockchains/fusaka-falls-short-on-ethereum-revenue-expectations-bitwise"/>
+        <updated>2026-01-30T10:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Before Fusaka went live, Bitwise's CIO had predicted that the upgrade would increase Ethereum's revenue capture.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Story Protocol and OpenLedger Launch New Standard for Legal AI Training]]></title>
         <id>https://thedefiant.io/news/blockchains/story-protocol-and-openledger-launch-new-standard-for-legal-ai-training</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-preps-money-market-funds-for-defi"/>
         <updated>2026-01-13T14:00:24.000Z</updated>
-        <summary type="html"><![CDATA[The asset manager has updated two Western Asset money market funds to support stablecoin reserves and blockchain-based distribution.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/regulation/crypto-market-structure-bill-heads-to-key-senate-votes-this-week</id>
         <link href="https://thedefiant.io/news/regulation/crypto-market-structure-bill-heads-to-key-senate-votes-this-week"/>
         <updated>2026-01-12T21:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Two Senate committees are set to mark up competing crypto bills that would clarify SEC and CFTC oversight.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[The Oct. 10–11 crash exposed weaknesses in exchange risk systems.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Begins Rolling Out Fees in US App and Crypto Markets]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets"/>
-        <updated>2026-01-07T21:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Polymarket has also become the exclusive prediction market partner of the Wall Street Journal and Dow Jones.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
