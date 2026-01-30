@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/why-og-defi-failed-or-kain-warwick-founder-of-syntheti",
+          "author": "Camila Russo",
+          "description": "Kain Warwick—DeFi OG and founder of Synthetix and Infinex—is back on The Defiant Podcast with Camila Russo for a no-BS conversation at a pivotal moment: Infinex just ran its INX token sale and is heading into its TGE.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/why-og-defi-failed-or-kain-warwick-founder-of-syntheti",
+          "publishedOn": "2026-01-30T21:20:44.000Z",
+          "wordCount": null,
+          "title": "Why OG DeFi Failed | Kain Warwick, Founder of Synthetix",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail--jpg-0f76abe7-c76a-40fd-b137-4f816f210ddd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail--jpg-0f76abe7-c76a-40fd-b137-4f816f210ddd.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/mega-premarket-plummets-ahead-of-mainnet-launch",
           "author": "Squiffs",
           "description": "Ethereum Layer 2 network MegaETH is slated to launch its mainnet and native token on Feb. 9.",
@@ -296,7 +311,7 @@
           "description": "Coinbase, in collaboration with Kalshi, has introduced prediction markets across all 50 U.S. states, allowing users to trade on real-world events.",
           "link": "https://thedefiant.io/news/defi/coinbase-launches-nationwide-prediction-markets-in-partnership-with-kalshi",
           "publishedOn": "2026-01-28T21:26:40.000Z",
-          "wordCount": null,
+          "wordCount": 4419,
           "title": "Coinbase Launches Nationwide Prediction Markets in Partnership with Kalshi",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/coinbase-kalshi-jpg-a66d9450-629c-487d-8548-6f3c91390b1a.jpg",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data",
           "author": "Denis Omelchenko",
-          "description": "The latest CPI report shows U.S. inflation held steady in December, helping stabilize sentiment as investors remain cautious amid fragile crypto market consolidation.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data",
           "publishedOn": "2026-01-13T23:05:04.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025",
           "author": "Squiffs",
-          "description": "",
+          "description": "Fueled by PYUSD and PAXG, Paxos’ total assets are up more than fivefold over the last 365 days.",
           "link": "https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025",
           "publishedOn": "2026-01-13T22:50:16.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/2363d5c70e81b02f2be0147e337041b30004e5a725e9ca53cf3aa09820f8-bf873138-468e-483d-8628-860dbc11debe.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026",
-          "author": "Jona Jaupi",
-          "description": "Security experts warned that most hacked projects never fully recover after major attacks.",
-          "link": "https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026",
-          "publishedOn": "2026-01-09T18:30:59.000Z",
-          "wordCount": null,
-          "title": "Truebit Hack Wipes Out TRU in First Major Exploit of 2026",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f58a9cc5a964d17e8b85a34db9a9a8eeebadc9629f6872c20153ec4c802d-3fcbfa9f-f82e-4ab4-876f-2dc593fe1a9c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f58a9cc5a964d17e8b85a34db9a9a8eeebadc9629f6872c20153ec4c802d-3fcbfa9f-f82e-4ab4-876f-2dc593fe1a9c.png"
         }
       ]
     }
