@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-quantum-computing-threat",
+          "author": "Denis Omelchenko",
+          "description": "Expert opinions diverge on the scope and timing of the threat.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-quantum-computing-threat",
+          "publishedOn": "2026-02-01T17:15:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Faces Renewed Scrutiny Over Quantum Computing Threat",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-quantum-jpg-292dad57-78ee-4eea-9167-43e93eb54b81.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-quantum-jpg-292dad57-78ee-4eea-9167-43e93eb54b81.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/crypto-payment-adoption-without-point-of-sale",
           "author": "Denis Omelchenko",
           "description": "Pay-on-behalf experiments are expanding crypto payment acceptance, but some experts have regulatory concerns.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/dash-jumps-nearly-50-following-alchemy-pay-integration",
           "author": "Jona Jaupi",
-          "description": "The ‘dino’ token surged from about $55 to $86 amid the ongoing privacy coin rally.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/dash-jumps-nearly-50-following-alchemy-pay-integration",
           "publishedOn": "2026-01-14T17:46:10.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Crypto scammers are increasingly using DeFi protocols, with total losses exceeding $17 billion in 2025.",
           "link": "https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis",
           "publishedOn": "2026-01-14T17:35:18.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/b8a187f8e86ccb324cb8c73dccc3807ee329c0968c3f2515c4031b6f78e5-804ba98f-11df-4cdc-87cd-9c55ba2794e5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026",
-          "author": "Squiffs",
-          "description": "The venture capital giant highlights prediction markets, zk-SNARKS, and ‘staked media’ as themes to watch.",
-          "link": "https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026",
-          "publishedOn": "2026-01-10T00:48:42.000Z",
-          "wordCount": null,
-          "title": "A16z Crypto Shares Three Crypto Predictions for 2026",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/650f1cf440533af2061c46dea0af761e1e21d387ef710cc5e21d05c984a7-9e2fea48-de13-4da1-a479-4d28135160c8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/650f1cf440533af2061c46dea0af761e1e21d387ef710cc5e21d05c984a7-9e2fea48-de13-4da1-a479-4d28135160c8.png"
         }
       ]
     }

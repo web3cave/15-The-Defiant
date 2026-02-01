@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-01T17:15:00.369Z</id>
+    <id>urn:2026-02-01T18:17:19.918Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-01T17:15:00.369Z</updated>
+    <updated>2026-02-01T18:17:19.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Faces Renewed Scrutiny Over Quantum Computing Threat]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-quantum-computing-threat</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-quantum-computing-threat"/>
+        <updated>2026-02-01T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Expert opinions diverge on the scope and timing of the threat.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside the Rise of Apps That Let You Pay with Crypto, Even Where Merchants Don’t Accept It]]></title>
         <id>https://thedefiant.io/news/infrastructure/crypto-payment-adoption-without-point-of-sale</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/dash-jumps-nearly-50-following-alchemy-pay-integration</id>
         <link href="https://thedefiant.io/news/markets/dash-jumps-nearly-50-following-alchemy-pay-integration"/>
         <updated>2026-01-14T17:46:10.000Z</updated>
-        <summary type="html"><![CDATA[The ‘dino’ token surged from about $55 to $86 amid the ongoing privacy coin rally.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis</id>
         <link href="https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis"/>
         <updated>2026-01-14T17:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Crypto scammers are increasingly using DeFi protocols, with total losses exceeding $17 billion in 2025.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Ethereum’s co-founder said the network should remain usable and secure even if core developers step back from active updates.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A16z Crypto Shares Three Crypto Predictions for 2026]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/a16z-crypto-shares-three-crypto-predictions-for-2026"/>
-        <updated>2026-01-10T00:48:42.000Z</updated>
-        <summary type="html"><![CDATA[The venture capital giant highlights prediction markets, zk-SNARKS, and ‘staked media’ as themes to watch.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
