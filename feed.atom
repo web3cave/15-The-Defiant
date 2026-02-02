@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-02T17:29:08.060Z</id>
+    <id>urn:2026-02-02T18:26:28.136Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-02T17:29:08.060Z</updated>
+    <updated>2026-02-02T18:26:28.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave’s GHO Stablecoin Supply Hits $500M]]></title>
+        <id>https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million</id>
+        <link href="https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million"/>
+        <updated>2026-02-02T18:23:50.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin’s market cap almost tripled in 2025 alone.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singapore Gulf Bank Adds Stablecoin Settlement for Institutional Clients]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-adds-stablecoins-to-clearing-network</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/cards-token-surges-as-gacha-volume-hits-all-time-high</id>
         <link href="https://thedefiant.io/news/defi/cards-token-surges-as-gacha-volume-hits-all-time-high"/>
         <updated>2026-01-14T21:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized trading card platforms are making a comeback with sector activity approaching new highs.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/blockchains/berachain-rallies-40-after-unveiling-bera-builds-businesses-plan</id>
         <link href="https://thedefiant.io/news/blockchains/berachain-rallies-40-after-unveiling-bera-builds-businesses-plan"/>
         <updated>2026-01-14T19:31:15.000Z</updated>
+        <summary type="html"><![CDATA[The Berachain Foundation plans to “build, acquire, or partner” businesses that create value for the BERA token.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[DFSA cites money-laundering and sanctions risks as it bans assets like Monero and Zcash from DIFC-based platforms.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Stagnate as Gold and Silver Rally to New Highs]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-flat-metals-rally-jan-12-2026</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-flat-metals-rally-jan-12-2026"/>
-        <updated>2026-01-12T18:10:17.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Fed Chair Powell called out political pressure and threats from the Trump administration in a statement Sunday, weighing on global risk sentiment.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
