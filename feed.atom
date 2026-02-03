@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T14:36:11.164Z</id>
+    <id>urn:2026-02-03T15:37:01.825Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T14:36:11.164Z</updated>
+    <updated>2026-02-03T15:37:01.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Adds Tokenized US Stocks, ETFs via Ondo Global Markets]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/metamask-partners-with-ondo-to-add-tokenized-us-equities-etfs</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/metamask-partners-with-ondo-to-add-tokenized-us-equities-etfs"/>
+        <updated>2026-02-03T15:08:16.000Z</updated>
+        <summary type="html"><![CDATA[The move lets eligible non-U.S. users trade more than 200 tokenized securities directly inside MetaMask’s self-custodial wallet.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trading Bot Bankr Expands to Solana with Token Launches on Raydium]]></title>
+        <id>https://thedefiant.io/news/defi/trading-bot-bankr-adds-solana-support</id>
+        <link href="https://thedefiant.io/news/defi/trading-bot-bankr-adds-solana-support"/>
+        <updated>2026-02-03T14:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Creators can now launch tokens on Solana via Solana DEX Raydium.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spanish Red Cross Taps Ethereum to Protect Privacy of Aid Recipients]]></title>
         <id>https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy</id>
@@ -821,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation</id>
         <link href="https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation"/>
         <updated>2026-01-15T21:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy CLO 2025-1 totals $75 million and brings a private credit deal onchain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -841,6 +860,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion</id>
         <link href="https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion"/>
         <updated>2026-01-15T20:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -981,26 +1001,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <link href="https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025"/>
         <updated>2026-01-13T22:50:16.000Z</updated>
         <summary type="html"><![CDATA[Fueled by PYUSD and PAXG, Paxos’ total assets are up more than fivefold over the last 365 days.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YO Suffers $3.7M Loss Due to ‘Unintended’ Stablecoin Swap]]></title>
-        <id>https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap</id>
-        <link href="https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap"/>
-        <updated>2026-01-13T21:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Security firms said the Ethereum-based trade likely bypassed slippage protections.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon to Become US-Regulated Payments Platform]]></title>
-        <id>https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform</id>
-        <link href="https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform"/>
-        <updated>2026-01-13T20:50:28.000Z</updated>
-        <summary type="html"><![CDATA[The company acquired Coinme and Sequence, adopting their licenses and enabling operations in 48 states.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
