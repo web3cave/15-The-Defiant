@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T16:38:10.630Z</id>
+    <id>urn:2026-02-03T17:41:47.340Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T16:38:10.630Z</updated>
+    <updated>2026-02-03T17:41:47.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slide as Government Shutdown Delays Jobs Report]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-government-shutdown-delays-jobs-report</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-government-shutdown-delays-jobs-report"/>
+        <updated>2026-02-03T17:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum fell as investors weighed delayed economic data, tightening risk appetite, and mixed ETF flows.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Adds Tokenized US Stocks, ETFs via Ondo Global Markets]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/metamask-partners-with-ondo-to-add-tokenized-us-equities-etfs</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026"/>
         <updated>2026-01-16T16:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are mostly lower today as momentum fades and analysts flag a key range for Bitcoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation</id>
         <link href="https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation"/>
         <updated>2026-01-15T21:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy CLO 2025-1 totals $75 million and brings a private credit deal onchain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[The latest CPI report shows U.S. inflation held steady in December, helping stabilize sentiment as investors remain cautious amid fragile crypto market consolidation.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paxos’ Asset Base Grew 450% in 2025]]></title>
-        <id>https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025</id>
-        <link href="https://thedefiant.io/news/defi/paxos-asset-base-grew-450-in-2025"/>
-        <updated>2026-01-13T22:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Fueled by PYUSD and PAXG, Paxos’ total assets are up more than fivefold over the last 365 days.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
