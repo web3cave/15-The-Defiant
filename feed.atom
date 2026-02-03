@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T13:54:39.732Z</id>
+    <id>urn:2026-02-03T14:36:11.164Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T13:54:39.732Z</updated>
+    <updated>2026-02-03T14:36:11.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spanish Red Cross Taps Ethereum to Protect Privacy of Aid Recipients]]></title>
+        <id>https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy</id>
+        <link href="https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy"/>
+        <updated>2026-02-03T14:01:24.000Z</updated>
+        <summary type="html"><![CDATA[The national affiliate of the International Red Cross has rolled out a blockchain-based aid system that uses ZK proofs to protect sensitive data.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Edge Higher as Bitcoin, Ether Gain Despite Heavy Liquidations]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion</id>
         <link href="https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion"/>
         <updated>2026-01-15T20:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale</id>
         <link href="https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale"/>
         <updated>2026-01-15T18:52:33.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-compatible Layer 1 blockchain launched Thursday with live apps, exchange listings, and a token airdrop.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[The company acquired Coinme and Sequence, adopting their licenses and enabling operations in 48 states.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Adams-Backed NYC Token Rocked by Rug Pull Allegations]]></title>
-        <id>https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations</id>
-        <link href="https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations"/>
-        <updated>2026-01-13T17:48:43.000Z</updated>
-        <summary type="html"><![CDATA[A wallet linked to the NYC token deployer removed about $2.5 million in USDC liquidity, according to on-chain analysts.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

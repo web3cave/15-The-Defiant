@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy",
+          "author": "Denis Omelchenko",
+          "description": "The national affiliate of the International Red Cross has rolled out a blockchain-based aid system that uses ZK proofs to protect sensitive data.",
+          "link": "https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy",
+          "publishedOn": "2026-02-03T14:01:24.000Z",
+          "wordCount": null,
+          "title": "Spanish Red Cross Taps Ethereum to Protect Privacy of Aid Recipients",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/red-cross-jpg-8d9ac516-d437-4d24-abd5-1486c46929f3.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/red-cross-jpg-8d9ac516-d437-4d24-abd5-1486c46929f3.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations",
           "author": "Jona Jaupi",
           "description": "Prices rose modestly after a stronger-than-expected U.S. manufacturing report.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion",
           "author": "Denis Omelchenko",
-          "description": "Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion",
           "publishedOn": "2026-01-15T20:26:46.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The Solana-compatible Layer 1 blockchain launched Thursday with live apps, exchange listings, and a token airdrop.",
           "link": "https://thedefiant.io/news/blockchains/fogo-launches-public-mainnet-after-binance-token-sale",
           "publishedOn": "2026-01-15T18:52:33.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/75921bb50122b40efd52b54155e1b9d4593c10f1cbec0d796890a6b5c2da-fdbbdf0f-f0e3-487c-98d8-72823429922c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
-          "author": "Jona Jaupi",
-          "description": "A wallet linked to the NYC token deployer removed about $2.5 million in USDC liquidity, according to on-chain analysts.",
-          "link": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
-          "publishedOn": "2026-01-13T17:48:43.000Z",
-          "wordCount": null,
-          "title": "Eric Adams-Backed NYC Token Rocked by Rug Pull Allegations",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/a85ed1ddeaed1283ee401d03abe86d247a1342659f784b68336d61c3568a-24da823b-8513-4fb8-a7b8-1f3c583397a9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/a85ed1ddeaed1283ee401d03abe86d247a1342659f784b68336d61c3568a-24da823b-8513-4fb8-a7b8-1f3c583397a9.png"
         }
       ]
     }
