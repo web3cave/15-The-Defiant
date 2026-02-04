@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-04T21:22:03.556Z</id>
+    <id>urn:2026-02-04T22:14:05.149Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-04T21:22:03.556Z</updated>
+    <updated>2026-02-04T22:14:05.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto’s Point of No Return: Institutions are Finally Here, with Brett Tejpaul]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/crypto-s-point-of-no-return-institutions-are-finally-here-with-brett-tejpaul</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/crypto-s-point-of-no-return-institutions-are-finally-here-with-brett-tejpaul"/>
+        <updated>2026-02-04T21:58:22.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Brett Tejpaul, head of Coinbase Institutional, sits down with Camila Russo to explain why institutional adoption accelerated last year.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Losses Top $17 Billion at Crypto Treasury Companies]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/losses-top-usd17-billion-at-crypto-treasury-companies</id>
@@ -831,7 +841,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/pumpfun-unveils-investment-arm-and-usd3-million-hackathon</id>
         <link href="https://thedefiant.io/news/defi/pumpfun-unveils-investment-arm-and-usd3-million-hackathon"/>
         <updated>2026-01-20T21:41:22.000Z</updated>
-        <summary type="html"><![CDATA[PUMP rallied as much as 10% but erased its gains as crypto markets dipped.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -841,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/nfts-and-web3/magic-eden-token-buybacks-staking-rewards</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/magic-eden-token-buybacks-staking-rewards"/>
         <updated>2026-01-20T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[The former NFT marketplace said it will allocate revenue to the ME ecosystem, including USDC rewards paid out to stakers.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Nikita Bier, X's head of product, announced the change this morning.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Stripe’s Crypto Strategy with Privy CEO: Wallets as Global Financial Accounts and the End of Decentralization Dogmas]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview"/>
-        <updated>2026-01-15T17:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Stern says Privy underpins Stripe’s stablecoin stack — and argues crypto needs better trade-offs, not absolutism.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
