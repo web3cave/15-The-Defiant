@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital",
+          "author": "DefAInt",
+          "description": "Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.",
+          "link": "https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital",
+          "publishedOn": "2026-02-05T15:05:11.000Z",
+          "wordCount": 4560,
+          "title": "Tether Invests $100 Million in US 'Crypto Bank' Anchorage Digital",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bank-tether-jpg-5b4cd689-a9a0-49b3-8f3e-7abc774ae519.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bank-tether-jpg-5b4cd689-a9a0-49b3-8f3e-7abc774ae519.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading",
           "author": "Jona Jaupi",
           "description": "The feature allows CEX users to copy top traders on the largest perp DEX.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy",
           "author": "Denis Omelchenko",
-          "description": "Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.",
+          "description": "Bermuda plans to turn itself into what it calls the “world’s first fully onchain national economy,” with backing from stablecoin giant Circle and crypto exchange Coinbase.",
           "link": "https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy",
           "publishedOn": "2026-01-21T14:23:12.000Z",
           "wordCount": 4661,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin",
           "author": "Denis Omelchenko",
-          "description": "Venture investors are increasingly locking horns over DePIN — short for decentralized physical infrastructure networks — as some argue the model is running out of steam.",
+          "description": "The decentralized physical infrastructure sector faces a reality check as investors debate if it can deliver beyond the hype.",
           "link": "https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin",
           "publishedOn": "2026-01-21T13:53:38.000Z",
           "wordCount": 5591,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/8d3760f2151918087369b9615e36fcd106023779215cbe25889160991de8-1bf1de8f-1549-497b-b27d-3d2c5fd22da1.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion",
-          "author": "Denis Omelchenko",
-          "description": "Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.",
-          "link": "https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion",
-          "publishedOn": "2026-01-15T20:26:46.000Z",
-          "wordCount": 4689,
-          "title": "Ondo Finance TVL Doubles to Over $2B in Less Than a Year",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/e921d7ecd6c3a49ff39c1196f280d4e43c602f18817b19f07bc05236183f-9905f831-1849-422c-bb52-1b4ce74f848d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/e921d7ecd6c3a49ff39c1196f280d4e43c602f18817b19f07bc05236183f-9905f831-1849-422c-bb52-1b4ce74f848d.png"
         }
       ]
     }

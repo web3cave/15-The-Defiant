@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T14:38:23.562Z</id>
+    <id>urn:2026-02-05T15:29:58.285Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-05T14:38:23.562Z</updated>
+    <updated>2026-02-05T15:29:58.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Invests $100 Million in US 'Crypto Bank' Anchorage Digital]]></title>
+        <id>https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital</id>
+        <link href="https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital"/>
+        <updated>2026-02-05T15:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perp Pioneer BitMEX Launches Hyperliquid Copy Trading]]></title>
         <id>https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading</id>
@@ -831,7 +841,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy</id>
         <link href="https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy"/>
         <updated>2026-01-21T14:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.]]></summary>
+        <summary type="html"><![CDATA[Bermuda plans to turn itself into what it calls the “world’s first fully onchain national economy,” with backing from stablecoin giant Circle and crypto exchange Coinbase.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,7 +851,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin</id>
         <link href="https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin"/>
         <updated>2026-01-21T13:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Venture investors are increasingly locking horns over DePIN — short for decentralized physical infrastructure networks — as some argue the model is running out of steam.]]></summary>
+        <summary type="html"><![CDATA[The decentralized physical infrastructure sector faces a reality check as investors debate if it can deliver beyond the hype.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Through a partnership with Ondo Finance, Felix is set to be HyperEVM’s first liquid spot equity provider.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Finance TVL Doubles to Over $2B in Less Than a Year]]></title>
-        <id>https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion</id>
-        <link href="https://thedefiant.io/news/defi/ondo-tvl-reaches-usd2-billion"/>
-        <updated>2026-01-15T20:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Ondo’s TVL surge is driven by its tokenized U.S. Treasuries fund.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
