@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T15:29:58.285Z</id>
+    <id>urn:2026-02-05T16:31:38.393Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-05T15:29:58.285Z</updated>
+    <updated>2026-02-05T16:31:38.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Delegate Platform Proposes Pausing Three L2 Deployments Citing Weak Revenue]]></title>
+        <id>https://thedefiant.io/news/defi/aci-proposes-pausing-three-layer-2-deployments-citing-weak-revenue</id>
+        <link href="https://thedefiant.io/news/defi/aci-proposes-pausing-three-layer-2-deployments-citing-weak-revenue"/>
+        <updated>2026-02-05T16:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The proposal also includes requiring any new deployment to guarantee at least $2 million in annual revenue to Aave.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Partners with Circle to Integrate Native USDC]]></title>
+        <id>https://thedefiant.io/news/defi/circle-partners-with-polymarket-to-integrate-native-udsc</id>
+        <link href="https://thedefiant.io/news/defi/circle-partners-with-polymarket-to-integrate-native-udsc"/>
+        <updated>2026-02-05T15:32:11.000Z</updated>
+        <summary type="html"><![CDATA[The move comes as crypto prediction markets continue to rise in popularity, seeing record volumes.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Invests $100 Million in US 'Crypto Bank' Anchorage Digital]]></title>
         <id>https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital</id>
@@ -841,7 +861,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy</id>
         <link href="https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy"/>
         <updated>2026-01-21T14:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Bermuda plans to turn itself into what it calls the “world’s first fully onchain national economy,” with backing from stablecoin giant Circle and crypto exchange Coinbase.]]></summary>
+        <summary type="html"><![CDATA[Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -984,26 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Crypto markets are mostly lower today as momentum fades and analysts flag a key range for Bitcoin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Tokenizes First CLO on Avalanche With $50M Grove Allocation]]></title>
-        <id>https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation</id>
-        <link href="https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation"/>
-        <updated>2026-01-15T21:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy CLO 2025-1 totals $75 million and brings a private credit deal onchain.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Felix Protocol to Launch Spot Equities on HyperEVM]]></title>
-        <id>https://thedefiant.io/news/defi/felix-protocol-to-launch-spot-equities-on-hyperevm</id>
-        <link href="https://thedefiant.io/news/defi/felix-protocol-to-launch-spot-equities-on-hyperevm"/>
-        <updated>2026-01-15T20:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Through a partnership with Ondo Finance, Felix is set to be HyperEVM’s first liquid spot equity provider.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
