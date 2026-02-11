@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/zro-soars-40-after-unveiling-layer-1-blockchain",
+          "author": "Squiffs",
+          "description": "LayerZero announced its Zero blockchain yesterday, built in collaboration with Citadel, ICE, and Google Cloud.",
+          "link": "https://thedefiant.io/news/blockchains/zro-soars-40-after-unveiling-layer-1-blockchain",
+          "publishedOn": "2026-02-11T20:16:57.000Z",
+          "wordCount": 4528,
+          "title": "ZRO Soars 40% After Unveiling Layer 1 Blockchain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1770841019930-png-a2ef3a87-5a83-4635-821b-2de33b933806.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1770841019930-png-a2ef3a87-5a83-4635-821b-2de33b933806.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds",
+          "author": "DefAInt",
+          "description": "Ondo Global Markets has teamed up with Chainlink to utilize its Data Feeds, enhancing onchain pricing for tokenized U.S. stocks and ETFs, reinforcing the integration of traditional securities into DeFi.",
+          "link": "https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds",
+          "publishedOn": "2026-02-11T19:37:30.000Z",
+          "wordCount": 4342,
+          "title": "Ondo Global Markets Taps Chainlink for US Stock Price Feeds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4f430ec19070b81620c48ed37ef3a21e4833112-1792x1024.png",
+            "length": "1000000",
+            "type": "null"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a4f430ec19070b81620c48ed37ef3a21e4833112-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/intercontinental-exchange-unveils-polymarket-signals-tool-to-enhance-trader-insi",
           "author": "DefAInt",
           "description": "Intercontinental Exchange (ICE) has launched the Polymarket Signals and Sentiment Tool, integrating prediction market data into its services to provide traders with enhanced market insights.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/coinbase-launches-nationwide-prediction-markets-in-partnership-with-kalshi",
           "author": "DefAInt",
-          "description": "Coinbase, the largest cryptocurrency exchange by assets, launched prediction markets across all 50 U.S. states in partnership with Kalshi, offering users the ability to trade on outcomes of real-world events in sports, politics, and culture, the company announced on X.",
+          "description": "Coinbase, in collaboration with Kalshi, has introduced prediction markets across all 50 U.S. states, allowing users to trade on real-world events.",
           "link": "https://thedefiant.io/news/defi/coinbase-launches-nationwide-prediction-markets-in-partnership-with-kalshi",
           "publishedOn": "2026-01-28T21:26:40.000Z",
           "wordCount": 4431,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1769467163153-png-874baf09-2cdd-4042-b9ed-05bea267bad5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tradexyz-volume-and-open-interest-hit-all-time-highs",
-          "author": "Squiffs",
-          "description": "The Hyperliquid-based market provider’s cumulative equity and commodity volumes crossed $1 billion over the last 24 hours.",
-          "link": "https://thedefiant.io/news/defi/tradexyz-volume-and-open-interest-hit-all-time-highs",
-          "publishedOn": "2026-01-26T21:35:53.000Z",
-          "wordCount": 4453,
-          "title": "TradeXYZ Volume and Open Interest Hit All-Time Highs",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1769463408664-png-9988e579-b058-4f62-a189-2add8fe12880.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1769463408664-png-9988e579-b058-4f62-a189-2add8fe12880.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-first-u-s-listed-avalanche-etf",
-          "author": "Jona Jaupi",
-          "description": "The new fund, VAVX, offers spot exposure to AVAX and may generate staking rewards.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-first-u-s-listed-avalanche-etf",
-          "publishedOn": "2026-01-26T17:54:01.000Z",
-          "wordCount": 4603,
-          "title": "VanEck Launches First U.S.-Listed Avalanche ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1769450129457-png-04ad844f-3dd2-4dc5-96d4-e99491854529.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1769450129457-png-04ad844f-3dd2-4dc5-96d4-e99491854529.png"
         }
       ]
     }
