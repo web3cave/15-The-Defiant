@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T12:38:41.785Z</id>
+    <id>urn:2026-02-11T14:06:54.756Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-11T12:38:41.785Z</updated>
+    <updated>2026-02-11T14:06:54.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood’s Crypto Head Johann Kerbrat on Why Public Blockchains Will Win]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win"/>
+        <updated>2026-02-11T14:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood is opening the testnet for its Arbitrum-based Ethereum Layer 2. In this episode, we sit down with the fintech’s head of crypto, Johann Kerbrat, to discuss the strategic move to build on Ethereum. He believes institutions can get the privacy and compliance guarantees they need on public chains like Ethereum, so building on private chains doesn’t make sense as they are just a “fancy database.”]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Franklin Templeton and Binance Launch Tokenized Collateral Program]]></title>
         <id>https://thedefiant.io/news/cefi/franklin-templeton-and-binance-launch-tokenized-collateral-program</id>
@@ -831,7 +841,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/tokens/optimism-tokenholders-approve-op-buybacks</id>
         <link href="https://thedefiant.io/news/tokens/optimism-tokenholders-approve-op-buybacks"/>
         <updated>2026-01-28T18:35:34.000Z</updated>
-        <summary type="html"><![CDATA[The Optimism community reached a quorum authorizing a yearlong program to convert Superchain revenue into OP purchases starting in February.]]></summary>
+        <summary type="html"><![CDATA[Optimism tokenholders have approved a proposal from earlier this month to launch a 12-month OP buyback program, after the measure cleared quorum with support from more than 84% of participating votes. The vote — which reached a quorum just before it’s scheduled to end, today at 1:58 p.m. ET — authorizes allocating 50% of Superchain sequencer revenue toward monthly OP purchases, now subject to a final Joint House vote, requiring a 60% majority.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,7 +851,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026"/>
         <updated>2026-01-28T16:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets caught some relief on Wednesday morning, Jan. 28, with Bitcoin briefly climbing back above the $90,000 level as traders positioned themselves ahead of the Federal Reserve’s policy decision later today.]]></summary>
+        <summary type="html"><![CDATA[Most large-caps are posting modest gains today, despite crypto market sentiment remaining fear-driven ahead of today's Fed meeting.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Altcoins trade mixed as total crypto market capitalization remains unchanged at $3.11 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Gold Capitalization Tops $4 Billion as Spot Approaches $5,000]]></title>
-        <id>https://thedefiant.io/news/defi/tokenized-gold-capitalization-tops-usd4-billion-as-spot-approaches-usd5-000</id>
-        <link href="https://thedefiant.io/news/defi/tokenized-gold-capitalization-tops-usd4-billion-as-spot-approaches-usd5-000"/>
-        <updated>2026-01-23T19:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Tether Gold and Paxos Gold remain the largest onchain gold tokens, as the tokenized commodity sector grows.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
