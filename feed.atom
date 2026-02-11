@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T07:44:20.563Z</id>
+    <id>urn:2026-02-11T08:33:35.138Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-11T07:44:20.563Z</updated>
+    <updated>2026-02-11T08:33:35.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Franklin Templeton and Binance Launch Tokenized Collateral Program]]></title>
+        <id>https://thedefiant.io/news/cefi/franklin-templeton-and-binance-launch-tokenized-collateral-program</id>
+        <link href="https://thedefiant.io/news/cefi/franklin-templeton-and-binance-launch-tokenized-collateral-program"/>
+        <updated>2026-02-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eligible clients can now use tokenized money market funds as off-exchange trading collateral.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spark Launches Institutional Lending Products in Off-Chain Expansion]]></title>
         <id>https://thedefiant.io/news/defi/spark-launches-institutional-lending-products-in-off-chain-expansion</id>
@@ -831,7 +841,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-usd90k-market-update-jan-28-2026"/>
         <updated>2026-01-28T16:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Most large-caps are posting modest gains today, despite crypto market sentiment remaining fear-driven ahead of today's Fed meeting.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets caught some relief on Wednesday morning, Jan. 28, with Bitcoin briefly climbing back above the $90,000 level as traders positioned themselves ahead of the Federal Reserve’s policy decision later today.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -841,7 +851,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/nfts-and-web3/moonbirds-debuts-birb-token-tge</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/moonbirds-debuts-birb-token-tge"/>
         <updated>2026-01-28T14:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Moonbirds, a popular NFT project on Ethereum, debuted its native token BIRB on Solana today, Jan. 28. The price rallied from around $0.20 to above $0.35 within the first few hours of trading and is currently trading near $0.30, up nearly 70% since it launched this morning, according to CoinGecko data.]]></summary>
+        <summary type="html"><![CDATA[After the BIRB tokenomics dropped, the Moonbirds NFT floor slid over 30%.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Tether Gold and Paxos Gold remain the largest onchain gold tokens, as the tokenized commodity sector grows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum L1 Activity Exceeds L2s, But Researchers Point to ‘Address Poisoning’]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-mainnet-ath-activity-address-poisoning-scam</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-mainnet-ath-activity-address-poisoning-scam"/>
-        <updated>2026-01-23T18:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Some outlined the connection between lower fees on mainnet since Fusaka and increased attacks.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
