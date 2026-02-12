@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T23:20:28.198Z</id>
+    <id>urn:2026-02-12T01:05:15.892Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-11T23:20:28.198Z</updated>
+    <updated>2026-02-12T01:05:15.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lombard Launches Smart Accounts to Connect Institutional Bitcoin to DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/lombard-launches-smart-accounts-to-connect-institutional-bitcoin-to-defi</id>
+        <link href="https://thedefiant.io/news/defi/lombard-launches-smart-accounts-to-connect-institutional-bitcoin-to-defi"/>
+        <updated>2026-02-12T00:34:25.000Z</updated>
+        <summary type="html"><![CDATA[The new system lets institutions earn yield and access liquidity without moving Bitcoin out of custody.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Lender BlockFills Halts Withdrawals]]></title>
         <id>https://thedefiant.io/news/cefi/crypto-lender-blockfills-halts-withdrawals</id>
@@ -831,7 +841,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/regulation/senate-agriculture-committee-advances-crypto-market-structure-bill</id>
         <link href="https://thedefiant.io/news/regulation/senate-agriculture-committee-advances-crypto-market-structure-bill"/>
         <updated>2026-01-29T18:34:07.000Z</updated>
-        <summary type="html"><![CDATA[While the Senate Agriculture Committee passed its part of the crypto market structure bill today, the Senate Banking Committee has yet to vote on its more comprehensive version of the CLARITY Act.]]></summary>
+        <summary type="html"><![CDATA[The Senate Agriculture Committee, led by Chairman John Boozman, has advanced the Digital Commodity Intermediaries Act today, Jan. 29, a step toward establishing a comprehensive regulatory framework for crypto.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -841,7 +851,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/crypto-stock-market-down-microsoft-ai-fears</id>
         <link href="https://thedefiant.io/news/markets/crypto-stock-market-down-microsoft-ai-fears"/>
         <updated>2026-01-29T17:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Global markets saw a sharp downturn on Thursday morning, Jan. 29, just after the U.S. stock market opened. Bitcoin (BTC) quickly dropped over 5% to below $85,000.]]></summary>
+        <summary type="html"><![CDATA[BTC slipped below $85,000 as stocks took a hit this morning, reportedly driven by AI spending fears after Microsoft's earnings report.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[DeFi’s leading stablecoin issuer is now catering to the United States and its federally regulated crypto environment.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Ecosystem Grew in 2025 Even as ETH Price Lagged: Everstake]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/ethereum-ecosystem-grew-in-2025-even-as-eth-price-lagged-everstake</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/ethereum-ecosystem-grew-in-2025-even-as-eth-price-lagged-everstake"/>
-        <updated>2026-01-27T17:38:07.000Z</updated>
-        <summary type="html"><![CDATA[More than 30% of the ETH supply is now staked, while Layer 2 throughput has topped 300 TPS.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
