@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-14T18:17:30.844Z</id>
+    <id>urn:2026-02-14T19:15:06.952Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-14T18:17:30.844Z</updated>
+    <updated>2026-02-14T19:15:06.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Happened to Compound’s Crypto Lending Empire?]]></title>
+        <id>https://thedefiant.io/news/defi/what-happened-to-compound-defi-lender</id>
+        <link href="https://thedefiant.io/news/defi/what-happened-to-compound-defi-lender"/>
+        <updated>2026-02-14T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Compound was an OG of DeFi lending, but missteps have knocked it off its perch.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Flows Tied to Suspected Human Trafficking Reached ‘Hundreds of Millions’ in 2025: Chainalysis]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/crypto-flows-tied-to-suspected-human-trafficking-reached-hundreds-of-millions-in-2025</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/infrastructure/crypto-payment-adoption-without-point-of-sale</id>
         <link href="https://thedefiant.io/news/infrastructure/crypto-payment-adoption-without-point-of-sale"/>
         <updated>2026-01-31T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Pay-on-behalf experiments are expanding crypto payment acceptance, but some experts have regulatory concerns.]]></summary>
+        <summary type="html"><![CDATA[A small group of startups is quietly showing that crypto can be spent at regular stores without forcing merchants to change their point-of-sale systems or learn complicated new procedures.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[More than 70,500 ETH left unclaimed after the 2016 DAO hack will be deployed through a new fund focused on Ethereum security.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senate Ag Committee Advances CFTC-Focused Portion of Market Structure Bill]]></title>
-        <id>https://thedefiant.io/news/regulation/senate-agriculture-committee-advances-crypto-market-structure-bill</id>
-        <link href="https://thedefiant.io/news/regulation/senate-agriculture-committee-advances-crypto-market-structure-bill"/>
-        <updated>2026-01-29T18:34:07.000Z</updated>
-        <summary type="html"><![CDATA[While the Senate Agriculture Committee passed its part of the crypto market structure bill today, the Senate Banking Committee has yet to vote on its more comprehensive version of the CLARITY Act.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
