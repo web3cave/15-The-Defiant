@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-17T15:39:16.716Z</id>
+    <id>urn:2026-02-17T16:42:42.990Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-17T15:39:16.717Z</updated>
+    <updated>2026-02-17T16:42:42.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Token Launch Timing Doesn't Matter, Says Dragonfly's Qureshi]]></title>
+        <id>https://thedefiant.io/news/tokens/crypto-token-launch-timing-research-dragonfly-qureshi</id>
+        <link href="https://thedefiant.io/news/tokens/crypto-token-launch-timing-research-dragonfly-qureshi"/>
+        <updated>2026-02-17T16:22:02.000Z</updated>
+        <summary type="html"><![CDATA[New research by Dragonfly managing partner Haseeb Qureshi looked at long-term performance of Binance-listed tokens in bull and bear markets.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MegaETH TVL Rises 65% in a Week, but TGE Conditions Remain Unmet]]></title>
         <id>https://thedefiant.io/news/blockchains/megaeth-tvl-rises-65-percent-week-after-mainnet-but-still-no-tge</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million</id>
         <link href="https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million"/>
         <updated>2026-02-02T18:23:50.000Z</updated>
-        <summary type="html"><![CDATA[The stablecoin’s market cap almost tripled in 2025 alone.]]></summary>
+        <summary type="html"><![CDATA[Aave’s decentralized stablecoin GHO reached over a $500 million market cap, hitting a new milestone in adoption. According to data from CoinGecko, circulating supply has stayed above half a billion as of early February, and has grown more than 245% since the start of 2025.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-adds-stablecoins-to-clearing-network</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-adds-stablecoins-to-clearing-network"/>
         <updated>2026-02-02T14:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Singapore Gulf Bank (SGB) said it has upgraded its mult-currency clearing network, SGB Net, to support stablecoins alongside fiat currencies, allowing institutional clients to manage both within a single banking platform.]]></summary>
+        <summary type="html"><![CDATA[The bank said its institutional clients will be able to manage fiat currencies and stablecoins in one place.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -994,16 +1004,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[The Ethereum scaling solution is launching a deployment suite for enterprise clients looking to build blockchains.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Staff Clarifies How Securities Laws Apply to Tokenized Assets]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-staff-clarifies-how-securities-laws-apply-to-tokenized-assets</id>
-        <link href="https://thedefiant.io/news/regulation/sec-staff-clarifies-how-securities-laws-apply-to-tokenized-assets"/>
-        <updated>2026-01-29T20:58:52.000Z</updated>
-        <summary type="html"><![CDATA[The new guidance focuses on the structure of tokenized securities.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
