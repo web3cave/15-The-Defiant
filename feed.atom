@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T16:37:38.802Z</id>
+    <id>urn:2026-02-19T17:40:47.567Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-19T16:37:38.802Z</updated>
+    <updated>2026-02-19T17:40:47.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anchorage Digital Launches Regulated 'Stablecoin Solutions']]></title>
+        <id>https://thedefiant.io/news/defi/anchorage-digital-launches-regulated-stablecoin-solutions</id>
+        <link href="https://thedefiant.io/news/defi/anchorage-digital-launches-regulated-stablecoin-solutions"/>
+        <updated>2026-02-19T17:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Anchorage Digital has launched a new offering called Stablecoin Solutions, enabling banks to perform near-instant USD settlements.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal’s PYUSD Supply Crosses $4 Billion]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/circle-partners-with-polymarket-to-integrate-native-udsc</id>
         <link href="https://thedefiant.io/news/defi/circle-partners-with-polymarket-to-integrate-native-udsc"/>
         <updated>2026-02-05T15:32:11.000Z</updated>
-        <summary type="html"><![CDATA[The move comes as crypto prediction markets continue to rise in popularity, seeing record volumes.]]></summary>
+        <summary type="html"><![CDATA[Circle announced on Thursday, Feb.5, that it has partnered with Polymarket, the largest on-chain prediction market by trading volume, to provide its U.S. dollar stablecoin settlement infrastructure.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital</id>
         <link href="https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital"/>
         <updated>2026-02-05T15:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Tether announced a $100 million strategic equity investment in Anchorage Digital today, Feb. 5. The move is aimed at bolstering secure and regulated financial infrastructure within the cryptocurrency industry, according to a press release from Tether today, Feb. 5.]]></summary>
+        <summary type="html"><![CDATA[Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move lets eligible non-U.S. users trade more than 200 tokenized securities directly inside MetaMask’s self-custodial wallet.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trading Bot Bankr Expands to Solana with Token Launches on Raydium]]></title>
-        <id>https://thedefiant.io/news/defi/trading-bot-bankr-adds-solana-support</id>
-        <link href="https://thedefiant.io/news/defi/trading-bot-bankr-adds-solana-support"/>
-        <updated>2026-02-03T14:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Creators can now launch tokens on Solana via Solana DEX Raydium.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
