@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T15:36:00.701Z</id>
+    <id>urn:2026-02-19T16:37:38.802Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-19T15:36:00.701Z</updated>
+    <updated>2026-02-19T16:37:38.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal’s PYUSD Supply Crosses $4 Billion]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion"/>
+        <updated>2026-02-19T16:15:34.000Z</updated>
+        <summary type="html"><![CDATA[PYUSD has become the fourth-largest stablecoin on L2 Arbitrum after a partnership with USDai.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CME Group to Launch 24/7 Crypto Futures Trading]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-24-7-crypto-futures-trading</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-24-7-crypto-futures-trading"/>
+        <updated>2026-02-19T15:44:55.000Z</updated>
+        <summary type="html"><![CDATA[CME Group is set to commence 24/7 cryptocurrency futures trading on its CME Globex platform.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Fall as Bitcoin Drops 2.5% and Liquidations Near $200 Million]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-fall-as-bitcoin-drops-2-5-and-liquidations-near-usd200-million</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital</id>
         <link href="https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital"/>
         <updated>2026-02-05T15:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.]]></summary>
+        <summary type="html"><![CDATA[Tether announced a $100 million strategic equity investment in Anchorage Digital today, Feb. 5. The move is aimed at bolstering secure and regulated financial infrastructure within the cryptocurrency industry, according to a press release from Tether today, Feb. 5.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Creators can now launch tokens on Solana via Solana DEX Raydium.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spanish Red Cross Taps Ethereum to Protect Privacy of Aid Recipients]]></title>
-        <id>https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy</id>
-        <link href="https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy"/>
-        <updated>2026-02-03T14:01:24.000Z</updated>
-        <summary type="html"><![CDATA[The national affiliate of the International Red Cross has rolled out a blockchain-based aid system that uses ZK proofs to protect sensitive data.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Edge Higher as Bitcoin, Ether Gain Despite Heavy Liquidations]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations"/>
-        <updated>2026-02-02T22:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Prices rose modestly after a stronger-than-expected U.S. manufacturing report.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

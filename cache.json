@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion",
+          "author": "Denis Omelchenko",
+          "description": "PYUSD has become the fourth-largest stablecoin on L2 Arbitrum after a partnership with USDai.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion",
+          "publishedOn": "2026-02-19T16:15:34.000Z",
+          "wordCount": 4712,
+          "title": "PayPal’s PYUSD Supply Crosses $4 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usd-jpg-f45d9dcc-34d0-4215-82cf-7dcae0407ff0.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usd-jpg-f45d9dcc-34d0-4215-82cf-7dcae0407ff0.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-24-7-crypto-futures-trading",
+          "author": "DefAInt",
+          "description": "CME Group is set to commence 24/7 cryptocurrency futures trading on its CME Globex platform.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-24-7-crypto-futures-trading",
+          "publishedOn": "2026-02-19T15:44:55.000Z",
+          "wordCount": 4505,
+          "title": "CME Group to Launch 24/7 Crypto Futures Trading",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/futures24-7-jpg-c8a7112d-bbfe-4dc7-86ad-60f7d679c02a.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/futures24-7-jpg-c8a7112d-bbfe-4dc7-86ad-60f7d679c02a.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-fall-as-bitcoin-drops-2-5-and-liquidations-near-usd200-million",
           "author": "Jona Jaupi",
           "description": "The selloff continues as tensions in the Middle East rise and the Department of Homeland Security remains partially shut down.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital",
           "author": "DefAInt",
-          "description": "Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.",
+          "description": "Tether announced a $100 million strategic equity investment in Anchorage Digital today, Feb. 5. The move is aimed at bolstering secure and regulated financial infrastructure within the cryptocurrency industry, according to a press release from Tether today, Feb. 5.",
           "link": "https://thedefiant.io/news/defi/tether-invests-usd100-million-in-anchorage-digital",
           "publishedOn": "2026-02-05T15:05:11.000Z",
           "wordCount": 4569,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/bot-jpg-1f33fb10-a411-4249-8daf-40cd082d8883.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy",
-          "author": "Denis Omelchenko",
-          "description": "The national affiliate of the International Red Cross has rolled out a blockchain-based aid system that uses ZK proofs to protect sensitive data.",
-          "link": "https://thedefiant.io/news/infrastructure/spanish-red-cross-taps-ethereum-zk-proofs-for-data-privacy",
-          "publishedOn": "2026-02-03T14:01:24.000Z",
-          "wordCount": 4694,
-          "title": "Spanish Red Cross Taps Ethereum to Protect Privacy of Aid Recipients",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/red-cross-jpg-8d9ac516-d437-4d24-abd5-1486c46929f3.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/red-cross-jpg-8d9ac516-d437-4d24-abd5-1486c46929f3.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations",
-          "author": "Jona Jaupi",
-          "description": "Prices rose modestly after a stronger-than-expected U.S. manufacturing report.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-edge-higher-as-bitcoin-ether-gain-despite-heavy-liquidations",
-          "publishedOn": "2026-02-02T22:51:20.000Z",
-          "wordCount": 4826,
-          "title": "Crypto Markets Edge Higher as Bitcoin, Ether Gain Despite Heavy Liquidations",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770072724560-png-55b960fb-4adf-4f3d-8c49-e57a0535ee79.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770072724560-png-55b960fb-4adf-4f3d-8c49-e57a0535ee79.png"
         }
       ]
     }
