@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T20:19:22.868Z</id>
+    <id>urn:2026-02-19T21:20:58.247Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-19T20:19:22.868Z</updated>
+    <updated>2026-02-19T21:20:58.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Sets 2026 Protocol Priorities]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2026-protocol-priorities</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2026-protocol-priorities"/>
+        <updated>2026-02-19T20:37:55.000Z</updated>
+        <summary type="html"><![CDATA[The EF announced its 2026 Protocol priorities, emphasizing scalability, user experience, and security, as the network prepares for the Glamsterdam upgrade.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos Pivots Tokenomics Towards Performance-Driven Deflation]]></title>
+        <id>https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation</id>
+        <link href="https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation"/>
+        <updated>2026-02-19T20:32:48.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 network proposes token buybacks, raising gas fees by 10x, and reducing the staking rewards rate.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hack VC-Backed Nillion to Shut Down Its Chain on Cosmos, Shift Focus to Ethereum]]></title>
         <id>https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[EUR-pegged stablecoins are set to grow 800x-1,600x by 2030, S&P projects.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limitless Token Rallies as Monthly Volume Tops $200 Million]]></title>
-        <id>https://thedefiant.io/news/defi/limitless-token-rallies-as-monthly-volume-tops-usd200-million</id>
-        <link href="https://thedefiant.io/news/defi/limitless-token-rallies-as-monthly-volume-tops-usd200-million"/>
-        <updated>2026-02-03T22:06:12.000Z</updated>
-        <summary type="html"><![CDATA[The prediction market on Base recorded a spike in trading volumes at the end of January.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Says Ethereum’s Layer 2 Vision ‘No Longer Makes Sense’]]></title>
-        <id>https://thedefiant.io/news/blockchains/vitalik-says-ethereum-s-layer-2-vision-no-longer-makes-sense</id>
-        <link href="https://thedefiant.io/news/blockchains/vitalik-says-ethereum-s-layer-2-vision-no-longer-makes-sense"/>
-        <updated>2026-02-03T19:44:35.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum co-founder argues for a pivot from the rollup-centric roadmap, citing progress made towards scaling the base layer.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
