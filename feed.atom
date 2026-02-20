@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T17:27:49.369Z</id>
+    <id>urn:2026-02-20T18:29:52.404Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-20T17:27:49.369Z</updated>
+    <updated>2026-02-20T18:29:52.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lightspark Teams Up with Cross River Bank for Fiat Payments via Bitcoin]]></title>
+        <id>https://thedefiant.io/news/defi/lightspark-teams-up-with-cross-river-bank-for-fiat-payments-via-bitcoin</id>
+        <link href="https://thedefiant.io/news/defi/lightspark-teams-up-with-cross-river-bank-for-fiat-payments-via-bitcoin"/>
+        <updated>2026-02-20T18:12:15.000Z</updated>
+        <summary type="html"><![CDATA[The partnership pairs Bitcoin settlement with FedNow plumbing.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Research Finds Kalshi Markets Outperform Wall Street Surveys]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/fed-research-finds-kalshi-markets-outperform-wall-street-surveys</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/fed-research-finds-kalshi-markets-outperform-wall-street-surveys"/>
+        <updated>2026-02-20T17:54:36.000Z</updated>
+        <summary type="html"><![CDATA[A new study found that Kalshi’s markets respond more quickly to economic shifts than traditional surveys.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BGD to Leave Aave Citing Governance Tensions]]></title>
         <id>https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/tokens/rainbow-token-rnbw-tanks-65-below-ico-price-on-day-one-trading</id>
         <link href="https://thedefiant.io/news/tokens/rainbow-token-rnbw-tanks-65-below-ico-price-on-day-one-trading"/>
         <updated>2026-02-06T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[The launch was plagued by reports of delayed token distribution to early investors and technical issues.]]></summary>
+        <summary type="html"><![CDATA[Self-custodial Ethereum wallet Rainbow debuted its native token RNBW yesterday, Feb. 5, but the token tainked 30% right out of the gate and is now over 65% below its ICO price.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The stablecoin protocol ended its “Frontier” rewards phase with a dollar-denominated token airdrop.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CME Group Considers Crypto Token Launch]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-considers-crypto-token-launch</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/cme-group-considers-crypto-token-launch"/>
-        <updated>2026-02-04T19:06:26.000Z</updated>
-        <summary type="html"><![CDATA[The world’s largest futures and options marketplace is exploring ‘tokenized cash’ as it leans further into crypto markets.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payments Protocol by Coinbase, Shopify Processes Just $1.2M USDC Since June: growthepie]]></title>
-        <id>https://thedefiant.io/news/infrastructure/coinbase-shopify-process-usd1-million-usdc-since-june-growthepie</id>
-        <link href="https://thedefiant.io/news/infrastructure/coinbase-shopify-process-usd1-million-usdc-since-june-growthepie"/>
-        <updated>2026-02-04T18:49:21.000Z</updated>
-        <summary type="html"><![CDATA[The partnership between Shopify, Coinbase and Stripe allows Shopify merchants to accept USDC payments settled on Base.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
