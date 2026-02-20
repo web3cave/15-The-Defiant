@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T16:23:31.832Z</id>
+    <id>urn:2026-02-20T17:27:49.369Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-20T16:23:31.832Z</updated>
+    <updated>2026-02-20T17:27:49.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BGD to Leave Aave Citing Governance Tensions]]></title>
+        <id>https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions</id>
+        <link href="https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions"/>
+        <updated>2026-02-20T17:08:46.000Z</updated>
+        <summary type="html"><![CDATA[The development team said that disagreements over direction, particularly around Aave V4, drove the decision.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Acquires Magna for Early Token Support]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-acquires-magna-for-early-token-support</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The partnership between Shopify, Coinbase and Stripe allows Shopify merchants to accept USDC payments settled on Base.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Bleed Amid Tech Stock Selloff]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-bleed-amid-tech-stock-selloff</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-bleed-amid-tech-stock-selloff"/>
-        <updated>2026-02-04T18:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is down 18% in seven days as tech stocks continue to disappoint.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
