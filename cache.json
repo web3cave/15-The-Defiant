@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/ Why DAO Governance Always Turns Political",
+          "author": "Camila Russo",
+          "description": "\"In a decentralized governance system, it's unavoidable to develop politics.\"\n\nRune Christensen explains why DAO governance becomes a struggle for resources, how the \"iron law of bureaucracy\" emerges, and why Sky redesigned its architecture to survive it.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/%20Why%20DAO%20Governance%20Always%20Turns%20Political",
+          "publishedOn": "2026-02-21T22:56:40.000Z",
+          "wordCount": null,
+          "title": "Why DAO Governance Always Turns Political",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-rune-jpg-6806cb37-5ae9-4285-930f-be8ae94f0591.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-rune-jpg-6806cb37-5ae9-4285-930f-be8ae94f0591.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/base-ai-tokens-outperform-altcoin-market",
           "author": "Squiffs",
           "description": "Speculation is heating up as tokens like VVV and TIBBIR surge, while Vitalik Buterin calls out a new token launch.",
@@ -1001,7 +1016,7 @@
           "description": "Robinhood is opening the testnet for its Arbitrum-based Ethereum Layer 2. In this episode, we sit down with the fintech’s head of crypto, Johann Kerbrat, to discuss the strategic move to build on Ethereum. He believes institutions can get the privacy and compliance guarantees they need on public chains like Ethereum, so building on private chains doesn’t make sense as they are just a “fancy database.”",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win",
           "publishedOn": "2026-02-11T14:03:47.000Z",
-          "wordCount": 4590,
+          "wordCount": 4608,
           "title": "Robinhood’s Crypto Head Johann Kerbrat on Why Public Blockchains Will Win",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/cover-podcast-johann--jpg-88cee7fd-22cc-4f07-9ccd-56f07e63805c.jpg",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/bank-tether-jpg-5b4cd689-a9a0-49b3-8f3e-7abc774ae519.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading",
-          "author": "Jona Jaupi",
-          "description": "The feature allows CEX users to copy top traders on the largest perp DEX.",
-          "link": "https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading",
-          "publishedOn": "2026-02-05T12:18:51.000Z",
-          "wordCount": 4929,
-          "title": "Perp Pioneer BitMEX Launches Hyperliquid Copy Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/gen-block-jpg-66cbc3c1-75f5-4c77-8510-dce3dc0eccfe.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/gen-block-jpg-66cbc3c1-75f5-4c77-8510-dce3dc0eccfe.jpg"
         }
       ]
     }

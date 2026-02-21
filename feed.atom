@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-21T22:11:35.785Z</id>
+    <id>urn:2026-02-21T23:13:07.901Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-21T22:11:35.785Z</updated>
+    <updated>2026-02-21T23:13:07.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why DAO Governance Always Turns Political]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/ Why DAO Governance Always Turns Political</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/%20Why%20DAO%20Governance%20Always%20Turns%20Political"/>
+        <updated>2026-02-21T22:56:40.000Z</updated>
+        <summary type="html"><![CDATA["In a decentralized governance system, it's unavoidable to develop politics."
+
+Rune Christensen explains why DAO governance becomes a struggle for resources, how the "iron law of bureaucracy" emerges, and why Sky redesigned its architecture to survive it.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base AI Tokens Outperform Altcoin Market]]></title>
         <id>https://thedefiant.io/news/defi/base-ai-tokens-outperform-altcoin-market</id>
@@ -993,16 +1005,6 @@
         <summary type="html"><![CDATA[Tether's $100 million investment in Anchorage Digital underscores a commitment to secure, regulated financial systems, reinforcing Anchorage's status as the first federally chartered crypto bank in the U.S.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perp Pioneer BitMEX Launches Hyperliquid Copy Trading]]></title>
-        <id>https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading</id>
-        <link href="https://thedefiant.io/news/cefi/bitmex-launches-hyperliquid-copy-trading"/>
-        <updated>2026-02-05T12:18:51.000Z</updated>
-        <summary type="html"><![CDATA[The feature allows CEX users to copy top traders on the largest perp DEX.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
