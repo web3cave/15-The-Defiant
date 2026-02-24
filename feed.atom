@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-24T16:52:37.970Z</id>
+    <id>urn:2026-02-24T17:48:34.167Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-24T16:52:37.970Z</updated>
+    <updated>2026-02-24T17:48:34.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[21Shares Launches TSUI ETF on Nasdaq]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-tsui-etf-on-nasdaq</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-tsui-etf-on-nasdaq"/>
+        <updated>2026-02-24T17:44:15.000Z</updated>
+        <summary type="html"><![CDATA[21Shares has launched the TSUI ETF on Nasdaq, offering U.S. investors regulated exposure to Sui.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Pledges to Support Privacy-First, Permissionless DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi</id>
+        <link href="https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi"/>
+        <updated>2026-02-24T17:16:52.000Z</updated>
+        <summary type="html"><![CDATA[The EF has created a team to support DeFi builders, focusing on privacy, security, and open-source principles.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Struggle as BTC Slips Below $64K]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-struggle-as-btc-slips-below-usd64k-amid-broad-sell-off</id>
@@ -13,6 +33,16 @@
         <summary type="html"><![CDATA[BTC failed to hold key support levels, dragging the wider crypto market lower.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Explores Stablecoin Revival, Eyes Partnership with Stripe]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe"/>
+        <updated>2026-02-24T16:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Meta has issued a request for proposals (RFP) to third-party firms for stablecoin-based payments, potentially marking a comeback in the stablecoin market with Stripe as a possible partner.]]></summary>
+        <author>
+            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
@@ -842,7 +872,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/markets/bitcoin-holds-near-usd69k-market-update-feb-10-2026</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-holds-near-usd69k-market-update-feb-10-2026"/>
         <updated>2026-02-10T17:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets slumped slightly on Tuesday morning, Feb. 10, with prices stabilizing among large-caps but conviction still thin as total market capitalization sank 2% to $2.43 trillion.]]></summary>
+        <summary type="html"><![CDATA[Most large-cap crypto assets are flat or slightly down today, while ETF flows turned  positive.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -975,36 +1005,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Stablecoins have quietly become the most successful use case in crypto.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eurozone to Discuss Stablecoins in Bid to Strengthen Euro's Role]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/eu-ministers-to-discuss-euro-stablecoins-report</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/eu-ministers-to-discuss-euro-stablecoins-report"/>
-        <updated>2026-02-06T14:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Eurozone finance ministers will convene on Feb. 16 to deliberate on integrating euro-denominated stablecoins as part of efforts to bolster the euro's global influence.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exploit Losses Hit $370 Million in January: CertiK]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/crypto-exploit-losses-hit-usd370-million-in-january-certik</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/crypto-exploit-losses-hit-usd370-million-in-january-certik"/>
-        <updated>2026-02-05T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The security firm also revealed that wrench attacks are on the rise.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JP Morgan Strategist Prefers Bitcoin to Gold Long Term]]></title>
-        <id>https://thedefiant.io/news/markets/jp-morgan-strategist-prefers-bitcoin-to-gold-long-term</id>
-        <link href="https://thedefiant.io/news/markets/jp-morgan-strategist-prefers-bitcoin-to-gold-long-term"/>
-        <updated>2026-02-05T21:41:57.000Z</updated>
-        <summary type="html"><![CDATA[While crypto natives lament Bitcoin’s underperformance compared to precious metals, institutional traders are eyeing the digital asset.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
