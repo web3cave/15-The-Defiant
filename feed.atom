@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T12:35:35.977Z</id>
+    <id>urn:2026-02-26T14:00:58.813Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-26T12:35:35.977Z</updated>
+    <updated>2026-02-26T14:00:58.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet Launches strkBTC to Advance Bitcoin Privacy in DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi</id>
+        <link href="https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi"/>
+        <updated>2026-02-26T13:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Delegate Slams Aave Labs’ Track Record as Governance Dispute Continues]]></title>
         <id>https://thedefiant.io/news/defi/aave-delegate-slams-aave-labs-track-record-as-governance-dispute-continues</id>
@@ -995,16 +1005,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[CME Group is set to expand its cryptocurrency derivatives lineup with new futures contracts for Cardano (ADA), Chainlink (LINK), and Stellar Lumens (XLM), pending regulatory approval.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets - Bitcoin Tests Critical Support]]></title>
-        <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-tests-critical-support-60k</id>
-        <link href="https://thedefiant.io/education/premium-tutorials/markets-bitcoin-tests-critical-support-60k"/>
-        <updated>2026-02-09T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Our chart of the week is HYPE.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
