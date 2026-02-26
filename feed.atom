@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T20:23:00.873Z</id>
+    <id>urn:2026-02-26T21:22:11.069Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-26T20:23:00.873Z</updated>
+    <updated>2026-02-26T21:22:11.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Korean CEX Listings Continue to Boost Altcoins]]></title>
+        <id>https://thedefiant.io/news/markets/korean-cex-listings-continue-to-boost-altcoins</id>
+        <link href="https://thedefiant.io/news/markets/korean-cex-listings-continue-to-boost-altcoins"/>
+        <updated>2026-02-26T21:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Centrifuge and Espresso experienced explosive moves after being listed on major Korean exchanges this week.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Stock Jumps 40% on Q4 Earnings]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/circle-stock-jumps-40-on-q4-earnings</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-stock-jumps-40-on-q4-earnings"/>
+        <updated>2026-02-26T21:02:26.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin company had a strong 2025 and is exploring a token launch for Arc, its new Layer 1 blockchain.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PIPPIN Jumps 23% as AI and Meme Tokens Gain Momentum]]></title>
         <id>https://thedefiant.io/news/markets/pippin-jumps-23-as-ai-and-meme-tokens-gain-momentum</id>
@@ -842,7 +862,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/blockchains/optimism-taps-succinct-to-enable-instant-withdrawals</id>
         <link href="https://thedefiant.io/news/blockchains/optimism-taps-succinct-to-enable-instant-withdrawals"/>
         <updated>2026-02-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Layer 2 Optimism is partnering with Succinct as its first zero-knowledge (ZK) proving provider, in order to provide instant and real-time withdrawals from the L2.]]></summary>
+        <summary type="html"><![CDATA[The zero-knowledge validity proofs will become canonical across the OP stack.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -985,26 +1005,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The Arbitrum-based network is designed to support tokenized real-world assets and other on-chain financial services.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interop Protocol LayerZero Unveils L1 Blockchain Zero]]></title>
-        <id>https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero</id>
-        <link href="https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero"/>
-        <updated>2026-02-10T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Alongside its permissionless blockchain, the firm also revealed investments from Citadel Securities and ARK Invest.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Brokers Taps Coinbase for ‘Perpetual-Style’ Crypto Futures]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-taps-coinbase-for-perpetual-style-crypto-futures</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-taps-coinbase-for-perpetual-style-crypto-futures"/>
-        <updated>2026-02-10T21:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Global brokerage IBKR now offers traditional and perpetual-style BTC and ETH futures trading to its clients.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
