@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T16:26:52.232Z</id>
+    <id>urn:2026-02-27T17:24:19.953Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T16:26:52.232Z</updated>
+    <updated>2026-02-27T17:24:19.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Worth $580 Million Seized from Chinese Transnational Criminal Networks]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks"/>
+        <updated>2026-02-27T16:41:39.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice has announced a significant cryptocurrency seizure linked to Chinese transnational criminal networks, part of a broader initiative to combat global scams.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barclays Evaluates Blockchain-based Settlement]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/barclays-evaluates-blockchain-based-settlement</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/barclays-evaluates-blockchain-based-settlement"/>
+        <updated>2026-02-27T15:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Barclays is exploring a new platform integrating stablecoins and tokenized deposits.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MoonPay and M0 Launch PYUSDx Stablecoin Development Framework]]></title>
         <id>https://thedefiant.io/news/defi/moonpay-and-m0-launch-pyusdx-stablecoin-development-framework</id>
@@ -822,7 +842,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool</id>
         <link href="https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool"/>
         <updated>2026-02-13T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[The new tool lets users automate bets against consistent losers — instead of trying to copy winners.]]></summary>
+        <summary type="html"><![CDATA[Prediction market aggregator Stand announced today, Feb. 13, that it’s launching a tool to let users automatically take the opposite position of trades across popular platforms — namely from traders that tend to lose. Edward Ridgely, founder of Stand, said in a press release shared with The Defiant that conventional copy‑trading breaks down in prediction markets.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -985,26 +1005,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Major crypto assets traded lower on Wednesday morning as total market capitalization shed almost 4%]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNI Soars 30% Amid Strategic Investment from BlackRock]]></title>
-        <id>https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock</id>
-        <link href="https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock"/>
-        <updated>2026-02-11T15:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap and Securitize have announced a strategic partnership with BlackRock to provide DeFi liquidity for BlackRock's tokenized fund.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood’s Crypto Head Johann Kerbrat on Why Public Blockchains Will Win]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win"/>
-        <updated>2026-02-11T14:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood is opening the testnet for its Arbitrum-based Ethereum Layer 2. In this episode, we sit down with the fintech’s head of crypto, Johann Kerbrat, to discuss the strategic move to build on Ethereum. He believes institutions can get the privacy and compliance guarantees they need on public chains like Ethereum, so building on private chains doesn’t make sense as they are just a “fancy database.”]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>

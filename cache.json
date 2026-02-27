@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks",
+          "author": "DefAInt",
+          "description": "The U.S. Department of Justice has announced a significant cryptocurrency seizure linked to Chinese transnational criminal networks, part of a broader initiative to combat global scams.",
+          "link": "https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks",
+          "publishedOn": "2026-02-27T16:41:39.000Z",
+          "wordCount": 4396,
+          "title": "Crypto Worth $580 Million Seized from Chinese Transnational Criminal Networks",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772210555864-png-93be3065-904b-4987-8093-8c58c2629bb9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772210555864-png-93be3065-904b-4987-8093-8c58c2629bb9.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/barclays-evaluates-blockchain-based-settlement",
+          "author": "DefAInt",
+          "description": "Barclays is exploring a new platform integrating stablecoins and tokenized deposits.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/barclays-evaluates-blockchain-based-settlement",
+          "publishedOn": "2026-02-27T15:54:05.000Z",
+          "wordCount": 4294,
+          "title": "Barclays Evaluates Blockchain-based Settlement",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772209727326-png-0c022710-5700-4775-aec0-3441ccefbb4b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772209727326-png-0c022710-5700-4775-aec0-3441ccefbb4b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/moonpay-and-m0-launch-pyusdx-stablecoin-development-framework",
           "author": "DefAInt",
           "description": "MoonPay and M0 have introduced PYUSDx, a platform aimed at simplifying the creation and management of application-specific stablecoins backed by Paypal's PYUSD.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool",
           "author": "Denis Omelchenko",
-          "description": "The new tool lets users automate bets against consistent losers — instead of trying to copy winners.",
+          "description": "Prediction market aggregator Stand announced today, Feb. 13, that it’s launching a tool to let users automatically take the opposite position of trades across popular platforms — namely from traders that tend to lose. Edward Ridgely, founder of Stand, said in a press release shared with The Defiant that conventional copy‑trading breaks down in prediction markets.",
           "link": "https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool",
           "publishedOn": "2026-02-13T15:27:58.000Z",
           "wordCount": 5077,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/sad-bitcoin-jpg-7a57e8a1-888a-47b5-8580-6dd079e8b96b.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock",
-          "author": "DefAInt",
-          "description": "Uniswap and Securitize have announced a strategic partnership with BlackRock to provide DeFi liquidity for BlackRock's tokenized fund.",
-          "link": "https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock",
-          "publishedOn": "2026-02-11T15:25:53.000Z",
-          "wordCount": 4477,
-          "title": "UNI Soars 30% Amid Strategic Investment from BlackRock",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/genneral-markets-jpg-666fcd77-3a82-4843-81dd-c87f2f5db110.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/genneral-markets-jpg-666fcd77-3a82-4843-81dd-c87f2f5db110.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win",
-          "author": "Camila Russo",
-          "description": "Robinhood is opening the testnet for its Arbitrum-based Ethereum Layer 2. In this episode, we sit down with the fintech’s head of crypto, Johann Kerbrat, to discuss the strategic move to build on Ethereum. He believes institutions can get the privacy and compliance guarantees they need on public chains like Ethereum, so building on private chains doesn’t make sense as they are just a “fancy database.”",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/robinhood-s-crypto-head-johann-kerbrat-on-why-public-blockchains-will-win",
-          "publishedOn": "2026-02-11T14:03:47.000Z",
-          "wordCount": 4612,
-          "title": "Robinhood’s Crypto Head Johann Kerbrat on Why Public Blockchains Will Win",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/cover-podcast-johann--jpg-88cee7fd-22cc-4f07-9ccd-56f07e63805c.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/cover-podcast-johann--jpg-88cee7fd-22cc-4f07-9ccd-56f07e63805c.jpg"
         }
       ]
     }
