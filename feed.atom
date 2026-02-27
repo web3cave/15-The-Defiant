@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T15:27:59.624Z</id>
+    <id>urn:2026-02-27T16:26:52.232Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T15:27:59.624Z</updated>
+    <updated>2026-02-27T16:26:52.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MoonPay and M0 Launch PYUSDx Stablecoin Development Framework]]></title>
+        <id>https://thedefiant.io/news/defi/moonpay-and-m0-launch-pyusdx-stablecoin-development-framework</id>
+        <link href="https://thedefiant.io/news/defi/moonpay-and-m0-launch-pyusdx-stablecoin-development-framework"/>
+        <updated>2026-02-27T15:33:15.000Z</updated>
+        <summary type="html"><![CDATA[MoonPay and M0 have introduced PYUSDx, a platform aimed at simplifying the creation and management of application-specific stablecoins backed by Paypal's PYUSD.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decibel Perpetuals Exchange Launches on Aptos]]></title>
         <id>https://thedefiant.io/news/defi/decibel-perpetuals-exchange-launches-on-aptos</id>
@@ -842,7 +852,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/defi/hyperliquid-based-ventuals-trading-volume-surges-100-in-17-days</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-based-ventuals-trading-volume-surges-100-in-17-days"/>
         <updated>2026-02-12T21:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Ventuals, a protocol that lets users trade tokenized exposure to private and pre-IPO companies, has crossed $200 million in cumulative trading volume less than three months after launch, according to a Wednesday X post from the platform’s co-founder, Alvin Hsia.]]></summary>
+        <summary type="html"><![CDATA[Cumulative trading volume on the tokenized private equity platform reached $200 million about four months after the protocol’s launch.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -995,16 +1005,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Robinhood is opening the testnet for its Arbitrum-based Ethereum Layer 2. In this episode, we sit down with the fintech’s head of crypto, Johann Kerbrat, to discuss the strategic move to build on Ethereum. He believes institutions can get the privacy and compliance guarantees they need on public chains like Ethereum, so building on private chains doesn’t make sense as they are just a “fancy database.”]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton and Binance Launch Tokenized Collateral Program]]></title>
-        <id>https://thedefiant.io/news/cefi/franklin-templeton-and-binance-launch-tokenized-collateral-program</id>
-        <link href="https://thedefiant.io/news/cefi/franklin-templeton-and-binance-launch-tokenized-collateral-program"/>
-        <updated>2026-02-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eligible clients can now use tokenized money market funds as off-exchange trading collateral.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
