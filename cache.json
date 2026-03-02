@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows",
+          "author": "DefAInt",
+          "description": "Spot crypto ETFs turned positive last week, but they're still net negative for the month of February.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows",
+          "publishedOn": "2026-03-02T17:15:48.000Z",
+          "wordCount": 4535,
+          "title": "BTC, ETH Spot ETFs Reverse Weekly Outflow Streak",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/etf-flows-reverse-jpg-e9873f79-2487-4865-a541-0d6669267f75.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/etf-flows-reverse-jpg-e9873f79-2487-4865-a541-0d6669267f75.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing",
           "author": "DefAInt",
           "description": "The \"Aave Will Win\" governance proposal has successfully passed the Temp Check vote, garnering 52.58% support, and is now progressing to the Aave Request for Final Comment (ARFC) stage, marking a significant step for Aave's future development.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1770841019930-png-a2ef3a87-5a83-4635-821b-2de33b933806.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds",
-          "author": "DefAInt",
-          "description": "Ondo Global Markets has teamed up with Chainlink to utilize its Data Feeds, enhancing onchain pricing for tokenized U.S. stocks and ETFs, reinforcing the integration of traditional securities into DeFi.",
-          "link": "https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds",
-          "publishedOn": "2026-02-11T19:37:30.000Z",
-          "wordCount": 4304,
-          "title": "Ondo Global Markets Taps Chainlink for US Stock Price Feeds",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4f430ec19070b81620c48ed37ef3a21e4833112-1792x1024.png",
-            "length": "1000000",
-            "type": "null"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a4f430ec19070b81620c48ed37ef3a21e4833112-1792x1024.png"
         }
       ]
     }

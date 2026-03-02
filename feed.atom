@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-02T16:29:07.130Z</id>
+    <id>urn:2026-03-02T17:34:50.113Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-02T16:29:07.130Z</updated>
+    <updated>2026-03-02T17:34:50.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC, ETH Spot ETFs Reverse Weekly Outflow Streak]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows"/>
+        <updated>2026-03-02T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Spot crypto ETFs turned positive last week, but they're still net negative for the month of February.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave’s “Aave Will Win” Proposal Passes Temp Check, Advancing Governance Shift]]></title>
         <id>https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing</id>
@@ -997,16 +1007,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[LayerZero announced its Zero blockchain yesterday, built in collaboration with Citadel, ICE, and Google Cloud.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Global Markets Taps Chainlink for US Stock Price Feeds]]></title>
-        <id>https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds</id>
-        <link href="https://thedefiant.io/news/defi/ondo-global-markets-taps-chainlink-for-us-stock-price-feeds"/>
-        <updated>2026-02-11T19:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Ondo Global Markets has teamed up with Chainlink to utilize its Data Feeds, enhancing onchain pricing for tokenized U.S. stocks and ETFs, reinforcing the integration of traditional securities into DeFi.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
