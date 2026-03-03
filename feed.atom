@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T19:32:01.389Z</id>
+    <id>urn:2026-03-03T20:20:30.561Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T19:32:01.389Z</updated>
+    <updated>2026-03-03T20:20:30.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Usual Integrates Virtual IBANs to Simplify Euro Transactions]]></title>
+        <id>https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions</id>
+        <link href="https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions"/>
+        <updated>2026-03-03T19:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Usual's introduction of a direct EUR ↔ EUR0 rail leverages SEPA Instant and virtual IBAN technology to streamline fiat transactions, enhancing euro transfers for users across Europe.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Says It's 'Modernizing' Rules to Make a Place for DeFi in the US]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-and-sec-panel-on-crypto-regulation-milken-institute</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-and-sec-panel-on-crypto-regulation-milken-institute"/>
+        <updated>2026-03-03T19:38:01.000Z</updated>
+        <summary type="html"><![CDATA[The Chairs of the U.S. CFTC and SEC said they're working together to keep on-chain finance, prediction markets, and perpetuals futures in the country.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Outflows from Iranian Exchanges Surge Amid US-Israeli Airstrikes]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes"/>
+        <updated>2026-03-03T19:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Crypto outflows from Iranian exchanges spiked to $10.3 million, underscoring cryptocurrencies' role as financial safe havens during geopolitical crises.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dips as U.S. Dollar Spikes to 6-Week High]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-dips-as-u-s-dollar-spikes-to-6-week-high</id>
@@ -977,36 +1007,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Bastian Aue will take over the co-executive director role alongside Hsiao-Wei.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth Social Files for Digital Asset ETFs]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/truth-social-files-for-digital-asset-etfs</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/truth-social-files-for-digital-asset-etfs"/>
-        <updated>2026-02-13T17:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Truth Social Funds has filed with the SEC to launch two digital asset ETFs, aiming to integrate cryptocurrencies into traditional financial markets and attract new investors.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Rally After Softer-Than-Expected US Inflation Report]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report"/>
-        <updated>2026-02-13T16:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Total market value rose over 4% today, though risk appetite remains fragile.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Market Aggregator Stand Launches Counter-Trading Tool]]></title>
-        <id>https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool</id>
-        <link href="https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool"/>
-        <updated>2026-02-13T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[The new tool lets users automate bets against consistent losers — instead of trying to copy winners.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
