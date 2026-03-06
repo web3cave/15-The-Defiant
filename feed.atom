@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-06T15:25:33.201Z</id>
+    <id>urn:2026-03-06T16:25:38.566Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-06T15:25:33.202Z</updated>
+    <updated>2026-03-06T16:25:38.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Fed, OCC, FDIC Clarify Capital Treatment of Tokenized Securities]]></title>
+        <id>https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities</id>
+        <link href="https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities"/>
+        <updated>2026-03-06T15:42:04.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. federal banking agencies have issued new guidance clarifying that tokenized securities should receive the same capital treatment as traditional securities.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Fintech Strike Secures BitLicense to Operate in New York]]></title>
         <id>https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense</id>
@@ -844,7 +854,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/blockchains/scroll-top-fee-earner-etherfi-leaves-for-optimism</id>
         <link href="https://thedefiant.io/news/blockchains/scroll-top-fee-earner-etherfi-leaves-for-optimism"/>
         <updated>2026-02-19T18:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized neobank and crypto card issuer etherfi is leaving Scroll for Optimism, taking with it millions of dollars in total value locked and monthly fees generated on Scroll, data shows.]]></summary>
+        <summary type="html"><![CDATA[Both etherfi and Optimism described the transition as a long-term partnership.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -997,16 +1007,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Elemental Royalty Corporation becomes the first publicly listed gold company to offer dividends in Tether Gold (XAU₮)]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hovers Around $67,000 as Crypto Markets Drift Lower]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd67-000-as-crypto-markets-drift-lower</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd67-000-as-crypto-markets-drift-lower"/>
-        <updated>2026-02-17T20:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Experts say volatility is cooling as investors await macro catalysts.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
