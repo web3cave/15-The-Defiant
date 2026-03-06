@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-06T16:25:38.566Z</id>
+    <id>urn:2026-03-06T17:25:19.551Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-06T16:25:38.566Z</updated>
+    <updated>2026-03-06T17:25:19.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve Accuses PancakeSwap of Using Stableswap Code Without Authorization]]></title>
+        <id>https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization</id>
+        <link href="https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization"/>
+        <updated>2026-03-06T16:35:09.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21Shares Launches First US Spot Polkadot ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf"/>
+        <updated>2026-03-06T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[21Shares has launched the first U.S. spot DOT ETF just a week after it launched one of the first spot ETFs for SUI.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fed, OCC, FDIC Clarify Capital Treatment of Tokenized Securities]]></title>
         <id>https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities</id>
@@ -987,26 +1007,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The stablecoin is built in collaboration with M0 and returns T-bill yields to ecosystem applications.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erik Voorhees’ Venice AI Leads Altcoin Market]]></title>
-        <id>https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market</id>
-        <link href="https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market"/>
-        <updated>2026-02-17T22:19:16.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized artificial intelligence protocol is up 350% from its November low.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elemental Royalty Corporation Offers Dividends in Tether Gold]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/elemental-royalty-corporation-offers-dividends-in-tether-gold</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/elemental-royalty-corporation-offers-dividends-in-tether-gold"/>
-        <updated>2026-02-17T20:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Elemental Royalty Corporation becomes the first publicly listed gold company to offer dividends in Tether Gold (XAU₮)]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
