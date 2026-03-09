@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round",
+          "author": "Olivia Capozzalo",
+          "description": "Zcash Open Development Lab, which Zcash devs formed after leaving Electric Coin Capital, raised funds from prominent crypto VCs.",
+          "link": "https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round",
+          "publishedOn": "2026-03-09T16:35:18.000Z",
+          "wordCount": 4730,
+          "title": "Zcash Dev Team's New Company Raises $25M in Seed Round",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/zec-dat-jpg-5f8e35aa-8fc2-4a0e-8b62-4b1ef81fc882.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/zec-dat-jpg-5f8e35aa-8fc2-4a0e-8b62-4b1ef81fc882.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/nasdaq-taps-kraken-as-settlement-layer-for-tokenized-stock-initiative",
           "author": "DefAInt",
           "description": "Nasdaq revealed its new equity token design, emphasizing issuer control and bridging traditional financial markets with decentralized blockchain networks.",
@@ -596,7 +611,7 @@
           "description": "Spot crypto ETFs turned positive last week, but they're still net negative for the month of February.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows",
           "publishedOn": "2026-03-02T17:15:48.000Z",
-          "wordCount": 4547,
+          "wordCount": null,
           "title": "BTC, ETH Spot ETFs Reverse Weekly Outflow Streak",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/etf-flows-reverse-jpg-e9873f79-2487-4865-a541-0d6669267f75.jpg",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/canary-capital-launches-first-ever-staked-sui-etf",
-          "author": "DefAInt",
-          "description": "Canary Capital's introduction of the Canary Staked SUI ETF provides investors with regulated exposure to the Sui Network's staking rewards",
-          "link": "https://thedefiant.io/news/defi/canary-capital-launches-first-ever-staked-sui-etf",
-          "publishedOn": "2026-02-18T18:42:13.000Z",
-          "wordCount": 4334,
-          "title": "Canary Capital Launches First-Ever Staked SUI ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771440120583-png-52512f58-eed5-4afc-ae38-7e0d4e8326f8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771440120583-png-52512f58-eed5-4afc-ae38-7e0d4e8326f8.png"
         }
       ]
     }
