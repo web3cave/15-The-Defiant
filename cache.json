@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens",
+          "author": "DefAInt",
+          "description": "Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.",
+          "link": "https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens",
+          "publishedOn": "2026-03-10T14:17:26.000Z",
+          "wordCount": 4529,
+          "title": "Starknet Introduces Privacy Framework for ERC-20 Tokens",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-dai-png-c96e69ec-382a-4119-b1e7-80d95ba1218a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-dai-png-c96e69ec-382a-4119-b1e7-80d95ba1218a.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-pudgy-world-browser-game",
           "author": "yyctrader",
           "description": "The PENGU token is up 7% in the past 24 hours.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/trump-board-of-peace-explores-usd-stablecoin-for-gaza-ft",
           "author": "DefAInt",
-          "description": "The project is reportedly being led by Israeli tech entrepreneur Liran Tancman, who is working as an adviser to the recently established peacekeeping organization.",
+          "description": "The so-called “Board of Peace,” created by U.S. President Donald Trump and established during the World Economic Forum last month, is exploring launching a U.S.-dollar-pegged stablecoin in Gaza, FT reported today, Feb. 23.",
           "link": "https://thedefiant.io/news/regulation/trump-board-of-peace-explores-usd-stablecoin-for-gaza-ft",
           "publishedOn": "2026-02-23T17:08:03.000Z",
           "wordCount": 4638,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/why-dao-governance-always-turns-political-",
           "author": "Camila Russo",
-          "description": "\"In a decentralized governance system, it's unavoidable to develop politics.\"\n\nRune Christensen explains why DAO governance becomes a struggle for resources, how the \"iron law of bureaucracy\" emerges, and why Sky redesigned its architecture to survive it.\n\nFrom USDS growth to the Atlas rulebook and Genesis Capital — this is Sky's long-term vision for sustainable decentralized finance.",
+          "description": "\"In a decentralized governance system, it's unavoidable to develop politics.\"\n\nRune Christensen explains why DAO governance becomes a struggle for resources, how the \"iron law of bureaucracy\" emerges, and why Sky redesigned its architecture to survive it.",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/why-dao-governance-always-turns-political-",
           "publishedOn": "2026-02-21T22:56:40.000Z",
           "wordCount": 4256,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771521383774-png-e6a80d1a-dbde-48fe-9fe4-1c54f7fb5f81.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion",
-          "author": "Denis Omelchenko",
-          "description": "PYUSD has become the fourth-largest stablecoin on L2 Arbitrum after a partnership with USDai.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion",
-          "publishedOn": "2026-02-19T16:15:34.000Z",
-          "wordCount": 4691,
-          "title": "PayPal’s PYUSD Supply Crosses $4 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usd-jpg-f45d9dcc-34d0-4215-82cf-7dcae0407ff0.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usd-jpg-f45d9dcc-34d0-4215-82cf-7dcae0407ff0.jpg"
         }
       ]
     }

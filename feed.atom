@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T13:52:59.974Z</id>
+    <id>urn:2026-03-10T14:38:03.127Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T13:52:59.974Z</updated>
+    <updated>2026-03-10T14:38:03.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet Introduces Privacy Framework for ERC-20 Tokens]]></title>
+        <id>https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens</id>
+        <link href="https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens"/>
+        <updated>2026-03-10T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pudgy Penguins Launches ‘Pudgy World’ Browser Game]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-pudgy-world-browser-game</id>
@@ -832,7 +842,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/regulation/trump-board-of-peace-explores-usd-stablecoin-for-gaza-ft</id>
         <link href="https://thedefiant.io/news/regulation/trump-board-of-peace-explores-usd-stablecoin-for-gaza-ft"/>
         <updated>2026-02-23T17:08:03.000Z</updated>
-        <summary type="html"><![CDATA[The project is reportedly being led by Israeli tech entrepreneur Liran Tancman, who is working as an adviser to the recently established peacekeeping organization.]]></summary>
+        <summary type="html"><![CDATA[The so-called “Board of Peace,” created by U.S. President Donald Trump and established during the World Economic Forum last month, is exploring launching a U.S.-dollar-pegged stablecoin in Gaza, FT reported today, Feb. 23.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -844,9 +854,7 @@ But what if it fragmented it instead?]]></summary>
         <updated>2026-02-21T22:56:40.000Z</updated>
         <summary type="html"><![CDATA["In a decentralized governance system, it's unavoidable to develop politics."
 
-Rune Christensen explains why DAO governance becomes a struggle for resources, how the "iron law of bureaucracy" emerges, and why Sky redesigned its architecture to survive it.
-
-From USDS growth to the Atlas rulebook and Genesis Capital — this is Sky's long-term vision for sustainable decentralized finance.]]></summary>
+Rune Christensen explains why DAO governance becomes a struggle for resources, how the "iron law of bureaucracy" emerges, and why Sky redesigned its architecture to survive it.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -999,16 +1007,6 @@ From USDS growth to the Atlas rulebook and Genesis Capital — this is Sky's lon
         <summary type="html"><![CDATA[Anchorage Digital has launched a new offering called Stablecoin Solutions, enabling banks to perform near-instant USD settlements.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal’s PYUSD Supply Crosses $4 Billion]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-pyusd-supply-crosses-usd4-billion"/>
-        <updated>2026-02-19T16:15:34.000Z</updated>
-        <summary type="html"><![CDATA[PYUSD has become the fourth-largest stablecoin on L2 Arbitrum after a partnership with USDai.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
