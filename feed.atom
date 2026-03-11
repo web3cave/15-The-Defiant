@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T13:56:38.731Z</id>
+    <id>urn:2026-03-11T14:40:12.920Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T13:56:38.732Z</updated>
+    <updated>2026-03-11T14:40:12.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastercard Unveils 'Crypto Partner Program' with Major Industry Players]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program"/>
+        <updated>2026-03-11T14:38:18.000Z</updated>
+        <summary type="html"><![CDATA[The initiative brings together a broad spectrum of well-known, global crypto firms and blockchain projects including Circle, Solana, Binance, Polygon, and Ava Labs.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wells Fargo Files Trademark for 'WFUSD,' Signaling Stablecoin Ambitions]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/wells-fargo-files-trademark-for-wfusd</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/wells-fargo-files-trademark-for-wfusd"/>
+        <updated>2026-03-11T14:07:29.000Z</updated>
+        <summary type="html"><![CDATA[While the bank has yet to confirm its plans, the move could mark a first step toward launching its own USD stablecoin.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle TVL Crosses $1 Billion Fueled by Aave Deployment]]></title>
         <id>https://thedefiant.io/news/blockchains/mantle-tvl-crosses-usd1-billion-fueled-by-aave-deployment</id>
@@ -822,7 +842,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/defi/fluid-proposes-creating-foundation</id>
         <link href="https://thedefiant.io/news/defi/fluid-proposes-creating-foundation"/>
         <updated>2026-02-24T18:56:13.000Z</updated>
-        <summary type="html"><![CDATA[If approved, the governance proposal by Instadapp’s COO would establish a non-profit foundation to oversee the DeFi protocol’s code, frontend and trademarks.]]></summary>
+        <summary type="html"><![CDATA[Fluid DAO is considering a proposal to transfer all of the DeFi platform’s intellectual property into a Cayman Islands foundation, and to approve a $250,000 monthly grant to fund development and operations.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -842,7 +862,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi</id>
         <link href="https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi"/>
         <updated>2026-02-24T17:16:52.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation is doubling down on decentralized finance this year, forming a dedicated internal unit to support builders and to scale what it calls “cypherpunk values alongside market growth.”]]></summary>
+        <summary type="html"><![CDATA[The EF has created a team to support DeFi builders, focusing on privacy, security, and open-source principles.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -987,26 +1007,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The partnership pairs Bitcoin settlement with FedNow plumbing.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed Research Finds Kalshi Markets Outperform Wall Street Surveys]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/fed-research-finds-kalshi-markets-outperform-wall-street-surveys</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/fed-research-finds-kalshi-markets-outperform-wall-street-surveys"/>
-        <updated>2026-02-20T17:54:36.000Z</updated>
-        <summary type="html"><![CDATA[A new study found that Kalshi’s markets respond more quickly to economic shifts than traditional surveys.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGD to Leave Aave Citing Governance Tensions]]></title>
-        <id>https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions</id>
-        <link href="https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions"/>
-        <updated>2026-02-20T17:08:46.000Z</updated>
-        <summary type="html"><![CDATA[The development team said that disagreements over direction, particularly around Aave V4, drove the decision.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
