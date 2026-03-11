@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/binance-sues-wsj-for-defamation-as-doj-opens-iran-sanctions-probe",
+          "author": "yyctrader",
+          "description": "The exchange's lawsuit was filed the same morning the Journal reported a new federal investigation into whether Iran used Binance to evade U.S. sanctions.",
+          "link": "https://thedefiant.io/news/cefi/binance-sues-wsj-for-defamation-as-doj-opens-iran-sanctions-probe",
+          "publishedOn": "2026-03-11T16:55:08.000Z",
+          "wordCount": 4733,
+          "title": "Binance Sues WSJ for Defamation as DOJ Opens Iran Sanctions Probe",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773249223481-png-699cd846-2d11-4a4e-a50a-b1044ba9b0a3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773249223481-png-699cd846-2d11-4a4e-a50a-b1044ba9b0a3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
+          "author": "DefAInt",
+          "description": "The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.",
+          "link": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
+          "publishedOn": "2026-03-11T16:53:10.000Z",
+          "wordCount": 4945,
+          "title": "Ledger Uncovers Security Vulnerability That Could Affect 25% of Android Phones",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/phone-hack-jpg-c311f71e-ef14-4c21-83c8-5367e7a60216.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/phone-hack-jpg-c311f71e-ef14-4c21-83c8-5367e7a60216.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program",
           "author": "DefAInt",
           "description": "The initiative brings together a broad spectrum of well-known, global crypto firms and blockchain projects including Circle, Solana, Binance, Polygon, and Ava Labs.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/fluid-proposes-creating-foundation",
           "author": "Denis Omelchenko",
-          "description": "Fluid DAO is considering a proposal to transfer all of the DeFi platform’s intellectual property into a Cayman Islands foundation, and to approve a $250,000 monthly grant to fund development and operations.",
+          "description": "If approved, the governance proposal by Instadapp’s COO would establish a non-profit foundation to oversee the DeFi protocol’s code, frontend and trademarks.",
           "link": "https://thedefiant.io/news/defi/fluid-proposes-creating-foundation",
           "publishedOn": "2026-02-24T18:56:13.000Z",
           "wordCount": 5245,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771617372962-png-f646b24c-0662-4e40-9c5f-044507203ff5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/only-1-in-10-weak-token-launches-recovered-in-2025-arrakis",
-          "author": "Denis Omelchenko",
-          "description": "Data from more than 120 token launches shows that early sell pressure, not market timing, largely determined whether new tokens thrived in 2025.",
-          "link": "https://thedefiant.io/news/research-and-opinion/only-1-in-10-weak-token-launches-recovered-in-2025-arrakis",
-          "publishedOn": "2026-02-20T19:30:08.000Z",
-          "wordCount": 4713,
-          "title": "Only 1 in 10 Weak Token Launches Recovered in 2025: Arrakis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771615882739-png-0448a808-4cec-4842-baff-38ca8f5a74b5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771615882739-png-0448a808-4cec-4842-baff-38ca8f5a74b5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lightspark-teams-up-with-cross-river-bank-for-fiat-payments-via-bitcoin",
-          "author": "Denis Omelchenko",
-          "description": "The partnership pairs Bitcoin settlement with FedNow plumbing.",
-          "link": "https://thedefiant.io/news/defi/lightspark-teams-up-with-cross-river-bank-for-fiat-payments-via-bitcoin",
-          "publishedOn": "2026-02-20T18:12:15.000Z",
-          "wordCount": 4617,
-          "title": "Lightspark Teams Up with Cross River Bank for Fiat Payments via Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771611158378-png-7f03649e-fbbf-4b70-a108-e605a0f38296.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771611158378-png-7f03649e-fbbf-4b70-a108-e605a0f38296.png"
         }
       ]
     }
