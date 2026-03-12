@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets",
+          "author": "yyctrader",
+          "description": "The agency issued an advance rulemaking notice and a staff advisory encouraging innovation.",
+          "link": "https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets",
+          "publishedOn": "2026-03-12T17:04:31.000Z",
+          "wordCount": 5235,
+          "title": "CFTC Launches Sweeping Review of Prediction Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773335075503-png-d3540635-0dd9-4999-b088-802cd3cc6203.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773335075503-png-d3540635-0dd9-4999-b088-802cd3cc6203.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault",
           "author": "DefAInt",
           "description": "The new product, EarnUSD, lets users earn yield on their USDC and USDT.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
           "author": "DefAInt",
-          "description": "Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.",
+          "description": "Starknet has launched strkBTC, a new Bitcoin wrapper that promises to bring enhanced privacy features to decentralized finance (DeFi) without compromising on performance.",
           "link": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
           "publishedOn": "2026-02-26T13:34:39.000Z",
           "wordCount": 4406,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771876827604-png-834659fe-6f7a-4ef9-9013-d26891099b57.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/kraken-s-sponsorship-of-trump-accounts-highlights-crypto-s-growing-political-footprint",
-          "author": "Jona Jaupi",
-          "description": "The initiative showcases Kraken’s Wyoming roots and the increasing ties between crypto firms and policymakers.",
-          "link": "https://thedefiant.io/news/regulation/kraken-s-sponsorship-of-trump-accounts-highlights-crypto-s-growing-political-footprint",
-          "publishedOn": "2026-02-23T19:14:01.000Z",
-          "wordCount": 5216,
-          "title": "Kraken’s Sponsorship of ‘Trump Accounts’ Highlights Crypto’s Growing Political Footprint",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771874737687-png-3048d013-3c84-4c56-b9f1-452b90517bd5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771874737687-png-3048d013-3c84-4c56-b9f1-452b90517bd5.png"
         }
       ]
     }
