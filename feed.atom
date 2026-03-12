@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T14:39:16.449Z</id>
+    <id>urn:2026-03-12T15:44:03.960Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-12T14:39:16.449Z</updated>
+    <updated>2026-03-12T15:44:03.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Launches Its First Stablecoin Vault]]></title>
+        <id>https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault</id>
+        <link href="https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault"/>
+        <updated>2026-03-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new product, EarnUSD, lets users earn yield on their USDC and USDT.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Developer Op Labs Cuts 20% of Staff in Effeciency Push]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-developer-op-labs-cuts-20-of-staff</id>
@@ -995,16 +1005,6 @@ But what if it fragmented it instead?]]></summary>
         <summary type="html"><![CDATA[The initiative showcases Kraken’s Wyoming roots and the increasing ties between crypto firms and policymakers.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andre Cronje’s Flying Tulip Token Trades Near $1B FDV Floor]]></title>
-        <id>https://thedefiant.io/news/markets/andre-cronje-flying-tulip-token-trades-near-usd1b-fdv-floor</id>
-        <link href="https://thedefiant.io/news/markets/andre-cronje-flying-tulip-token-trades-near-usd1b-fdv-floor"/>
-        <updated>2026-02-23T19:13:42.000Z</updated>
-        <summary type="html"><![CDATA[The FT token arrives after the project raised close to $300 million in funding.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
