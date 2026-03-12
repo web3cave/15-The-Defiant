@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin",
+          "author": "yyctrader",
+          "description": "The strategic investment is the latest in a string of Bitcoin infrastructure bets by the stablecoin giant.",
+          "link": "https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin",
+          "publishedOn": "2026-03-12T17:57:09.000Z",
+          "wordCount": 4515,
+          "title": "Tether Backs Ark Labs to Bring Stablecoins Back to Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773339206402-png-51fdd99b-001d-4803-b3ab-3ed7ea182889.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773339206402-png-51fdd99b-001d-4803-b3ab-3ed7ea182889.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb",
+          "author": "DefAInt",
+          "description": "The TradFi giant's iShares Staked Ethereum Trust ETF is its first yield-bearing exchange-traded product.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb",
+          "publishedOn": "2026-03-12T17:41:09.000Z",
+          "wordCount": 4837,
+          "title": "BlackRock Launches Staked Ethereum ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-cogs-jpg-b0b0e94a-1e24-4a3c-b225-984c8d628bd5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-cogs-jpg-b0b0e94a-1e24-4a3c-b225-984c8d628bd5.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown",
+          "author": "yyctrader",
+          "description": "As perpetual futures positions shrink to just 11% of USDe's backing, the protocol argues its unstaking delay no longer reflects the liquidity available to meet redemptions.",
+          "link": "https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown",
+          "publishedOn": "2026-03-12T17:35:56.000Z",
+          "wordCount": 4786,
+          "title": "Ethena Proposes Replacing 7-Day sUSDe Unstaking Period With Dynamic Cooldown",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773337369010-png-5ea2942e-d672-406a-a8de-23d568df0a6e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773337369010-png-5ea2942e-d672-406a-a8de-23d568df0a6e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets",
           "author": "yyctrader",
           "description": "The agency issued an advance rulemaking notice and a staff advisory encouraging innovation.",
@@ -1253,7 +1298,7 @@
         {
           "id": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
           "author": "DefAInt",
-          "description": "Starknet has launched strkBTC, a new Bitcoin wrapper that promises to bring enhanced privacy features to decentralized finance (DeFi) without compromising on performance.",
+          "description": "Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.",
           "link": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
           "publishedOn": "2026-02-26T13:34:39.000Z",
           "wordCount": 4406,
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/market-chart-down-jpg-15d8a3a2-d421-44a2-bd59-261cf33ae610.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe",
-          "author": "DefAInt",
-          "description": "Meta has issued a request for proposals (RFP) to third-party firms for stablecoin-based payments, potentially marking a comeback in the stablecoin market with Stripe as a possible partner.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe",
-          "publishedOn": "2026-02-24T16:33:41.000Z",
-          "wordCount": 4391,
-          "title": "Meta Explores Stablecoin Revival, Eyes Partnership with Stripe",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771953132922-png-d73e8fe3-3e80-48c1-84ac-5955752cf558.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771953132922-png-d73e8fe3-3e80-48c1-84ac-5955752cf558.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-traders-attempt-to-frontrun-zachxbt-s-upcoming-expose",
-          "author": "Squiffs",
-          "description": "The onchain sleuth teased proof of insider trading within “one of crypto’s most profitable businesses.”",
-          "link": "https://thedefiant.io/news/markets/crypto-traders-attempt-to-frontrun-zachxbt-s-upcoming-expose",
-          "publishedOn": "2026-02-23T22:44:42.000Z",
-          "wordCount": 4336,
-          "title": "Crypto Traders Attempt to Frontrun ZachXBT’s Upcoming Exposé",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771886731701-png-86944f89-7ea1-4260-a539-3cd2cd10f3ec.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771886731701-png-86944f89-7ea1-4260-a539-3cd2cd10f3ec.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/crypto-com-secures-conditional-approval-for-national-trust-bank-charter",
-          "author": "DefAInt",
-          "description": "Crypto.com has received conditional approval from the U.S. Office of the Comptroller of the Currency (OCC) to charter Foris Dax National Trust Bank, taking a significant step toward becoming a federally regulated qualified custodian.",
-          "link": "https://thedefiant.io/news/cefi/crypto-com-secures-conditional-approval-for-national-trust-bank-charter",
-          "publishedOn": "2026-02-23T19:34:04.000Z",
-          "wordCount": 4696,
-          "title": "Crypto.com Secures Conditional Approval for National Trust Bank Charter",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771876827604-png-834659fe-6f7a-4ef9-9013-d26891099b57.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771876827604-png-834659fe-6f7a-4ef9-9013-d26891099b57.png"
         }
       ]
     }

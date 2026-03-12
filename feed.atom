@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T17:39:33.444Z</id>
+    <id>urn:2026-03-12T18:36:25.918Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-12T17:39:33.444Z</updated>
+    <updated>2026-03-12T18:36:25.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Backs Ark Labs to Bring Stablecoins Back to Bitcoin]]></title>
+        <id>https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin</id>
+        <link href="https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin"/>
+        <updated>2026-03-12T17:57:09.000Z</updated>
+        <summary type="html"><![CDATA[The strategic investment is the latest in a string of Bitcoin infrastructure bets by the stablecoin giant.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Launches Staked Ethereum ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb"/>
+        <updated>2026-03-12T17:41:09.000Z</updated>
+        <summary type="html"><![CDATA[The TradFi giant's iShares Staked Ethereum Trust ETF is its first yield-bearing exchange-traded product.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethena Proposes Replacing 7-Day sUSDe Unstaking Period With Dynamic Cooldown]]></title>
+        <id>https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown</id>
+        <link href="https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown"/>
+        <updated>2026-03-12T17:35:56.000Z</updated>
+        <summary type="html"><![CDATA[As perpetual futures positions shrink to just 11% of USDe's backing, the protocol argues its unstaking delay no longer reflects the liquidity available to meet redemptions.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Launches Sweeping Review of Prediction Markets]]></title>
         <id>https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets</id>
@@ -842,7 +872,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi</id>
         <link href="https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi"/>
         <updated>2026-02-26T13:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Starknet has launched strkBTC, a new Bitcoin wrapper that promises to bring enhanced privacy features to decentralized finance (DeFi) without compromising on performance.]]></summary>
+        <summary type="html"><![CDATA[Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -975,36 +1005,6 @@ But what if it fragmented it instead?]]></summary>
         <summary type="html"><![CDATA[BTC failed to hold key support levels, dragging the wider crypto market lower.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Explores Stablecoin Revival, Eyes Partnership with Stripe]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/meta-explores-stablecoin-revival-eyes-partnership-with-stripe"/>
-        <updated>2026-02-24T16:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Meta has issued a request for proposals (RFP) to third-party firms for stablecoin-based payments, potentially marking a comeback in the stablecoin market with Stripe as a possible partner.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Traders Attempt to Frontrun ZachXBT’s Upcoming Exposé]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-traders-attempt-to-frontrun-zachxbt-s-upcoming-expose</id>
-        <link href="https://thedefiant.io/news/markets/crypto-traders-attempt-to-frontrun-zachxbt-s-upcoming-expose"/>
-        <updated>2026-02-23T22:44:42.000Z</updated>
-        <summary type="html"><![CDATA[The onchain sleuth teased proof of insider trading within “one of crypto’s most profitable businesses.”]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto.com Secures Conditional Approval for National Trust Bank Charter]]></title>
-        <id>https://thedefiant.io/news/cefi/crypto-com-secures-conditional-approval-for-national-trust-bank-charter</id>
-        <link href="https://thedefiant.io/news/cefi/crypto-com-secures-conditional-approval-for-national-trust-bank-charter"/>
-        <updated>2026-02-23T19:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Crypto.com has received conditional approval from the U.S. Office of the Comptroller of the Currency (OCC) to charter Foris Dax National Trust Bank, taking a significant step toward becoming a federally regulated qualified custodian.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
