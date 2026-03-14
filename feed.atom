@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-14T01:02:01.092Z</id>
+    <id>urn:2026-03-14T03:59:29.216Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-14T01:02:01.092Z</updated>
+    <updated>2026-03-14T03:59:29.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US CLARITY Act Unlikely to Pass Senate Banking Committee Before April: Senator John Thune]]></title>
+        <id>https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9</id>
+        <link href="https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9"/>
+        <updated>2026-03-14T01:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Rally Fizzles on Iran Escalation Fears]]></title>
         <id>https://thedefiant.io/news/markets/crypto-rally-fizzles-on-iran-escalation-fears</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows"/>
         <updated>2026-03-02T17:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Spot crypto ETFs turned positive last week, but they're still net negative for the month of February.]]></summary>
+        <summary type="html"><![CDATA[Both Bitcoin (BTC) and Ethereum (ETH) spot exchange-traded funds (ETF) closed out last week in the green, a reversal from a period of multi-week outflows.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing</id>
         <link href="https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing"/>
         <updated>2026-03-02T13:31:10.000Z</updated>
-        <summary type="html"><![CDATA[In a closely watched governance decision for one of DeFi’s largest protocols, the “Aave Will Win” framework has passed its initial Temp Check vote, moving the proposal forward in Aave DAO’s multi-stage governance process.]]></summary>
+        <summary type="html"><![CDATA[The "Aave Will Win" governance proposal has successfully passed the Temp Check vote, garnering 52.58% support, and is now progressing to the Aave Request for Final Comment (ARFC) stage, marking a significant step for Aave's future development.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -995,16 +1005,6 @@ But what if it fragmented it instead?]]></summary>
         <summary type="html"><![CDATA[Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Delegate Slams Aave Labs’ Track Record as Governance Dispute Continues]]></title>
-        <id>https://thedefiant.io/news/defi/aave-delegate-slams-aave-labs-track-record-as-governance-dispute-continues</id>
-        <link href="https://thedefiant.io/news/defi/aave-delegate-slams-aave-labs-track-record-as-governance-dispute-continues"/>
-        <updated>2026-02-25T23:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Aave-Chan Initiative’s Marc Zeller took to the governance forum to criticize Aave Labs in light of its latest funding request.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
