@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sky-tvl-surges-38-in-march",
+          "author": "yyctrader",
+          "description": "Sky is now the fourth-largest DeFi protocol as RWA-backed yields drive inflows.",
+          "link": "https://thedefiant.io/news/defi/sky-tvl-surges-38-in-march",
+          "publishedOn": "2026-03-14T14:57:59.000Z",
+          "wordCount": 4457,
+          "title": "Sky TVL Surges 38% in March",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773500331636-png-13992d2a-aa5a-4942-a703-ec1f61ae20a9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773500331636-png-13992d2a-aa5a-4942-a703-ec1f61ae20a9.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-20-million-mined-milestone-miners-c0eenr",
+          "author": "DefAInt",
+          "description": "Bitcoin has surpassed 20 million coins mined—over 95% of its 21 million total supply—but most current miners may not survive to see the final 1 million coins extracted by 2140.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-20-million-mined-milestone-miners-c0eenr",
+          "publishedOn": "2026-03-14T14:17:00.000Z",
+          "wordCount": 4484,
+          "title": "Bitcoin Hits 20 Million Mined Milestone, Leaving Only 1 Million Coins Left: Mining Industry",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e8a2915a638484c00bdc6da4f336e2976d5789f4-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e8a2915a638484c00bdc6da4f336e2976d5789f4-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
           "author": "DefAInt",
           "description": "Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.",
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows",
           "author": "DefAInt",
-          "description": "Both Bitcoin (BTC) and Ethereum (ETH) spot exchange-traded funds (ETF) closed out last week in the green, a reversal from a period of multi-week outflows.",
+          "description": "Spot crypto ETFs turned positive last week, but they're still net negative for the month of February.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-spot-etfs-reverse-negative-weekly-flows",
           "publishedOn": "2026-03-02T17:15:48.000Z",
           "wordCount": 4559,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1772124763559-png-269506c3-c803-4844-8d5b-2659d9cdc315.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/resolv-and-centrifuge-launch-usd100m-tokenized-credit-strategy-on-aave",
-          "author": "Jona Jaupi",
-          "description": "The move shows how traditional credit is starting to play a bigger role in DeFi.",
-          "link": "https://thedefiant.io/news/defi/resolv-and-centrifuge-launch-usd100m-tokenized-credit-strategy-on-aave",
-          "publishedOn": "2026-02-26T15:00:00.000Z",
-          "wordCount": 4758,
-          "title": "Resolv and Centrifuge Launch $100 Million Tokenized Credit Strategy on Aave",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772064489113-png-c260bbd4-bcc0-408a-9314-e5c24b0fb533.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772064489113-png-c260bbd4-bcc0-408a-9314-e5c24b0fb533.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
-          "author": "DefAInt",
-          "description": "Starknet has introduced strkBTC, a Bitcoin wrapper that integrates enhanced privacy features for DeFi without sacrificing performance. This development promises to enable private Bitcoin transactions while maintaining composability.",
-          "link": "https://thedefiant.io/news/defi/starknet-launches-strkbtc-to-advance-bitcoin-privacy-in-defi",
-          "publishedOn": "2026-02-26T13:34:39.000Z",
-          "wordCount": 4385,
-          "title": "Starknet Launches strkBTC to Advance Bitcoin Privacy in DeFi",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/private-pepe-jpg-c7832ba8-1fe7-4052-8c3c-4a505033edd6.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/private-pepe-jpg-c7832ba8-1fe7-4052-8c3c-4a505033edd6.jpg"
         }
       ]
     }
