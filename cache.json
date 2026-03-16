@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly",
+          "author": "DefAInt",
+          "description": "A threat actor bypassed Venus Protocol's supply caps using Thena tokens to borrow multiple assets in what analysts suspect was a flash loan or price manipulation attack on BNB Chain.",
+          "link": "https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly",
+          "publishedOn": "2026-03-15T19:46:12.000Z",
+          "wordCount": 4392,
+          "title": "Venus Protocol exploited for $3.7M through supply cap manipulation: On-chain analysis",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0c40a501cd8cb655ec6c947fbb3d8a36e401b6da-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0c40a501cd8cb655ec6c947fbb3d8a36e401b6da-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp",
+          "author": "DefAInt",
+          "description": "The SEC and CFTC have signed a memorandum of understanding to establish a unified regulatory approach to digital assets.",
+          "link": "https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp",
+          "publishedOn": "2026-03-15T19:46:12.000Z",
+          "wordCount": 4401,
+          "title": "SEC and CFTC Sign Memorandum to Coordinate Crypto Regulation: Agencies",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b8a2e6f998b0cd337bcd7efd1781d1786b6180e1-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b8a2e6f998b0cd337bcd7efd1781d1786b6180e1-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr",
           "author": "DefAInt",
           "description": "The Ethereum Foundation completed a $10.2 million over-the-counter sale of 5,000 ETH to BitMine at $2,042.96 per token as part of treasury management.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1772133067357-png-41ddab17-caca-4cb3-bfe8-9ff552b27994.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate",
-          "author": "Denis Omelchenko",
-          "description": "Leading altcoins retraced some of their gains from Wednesday.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate",
-          "publishedOn": "2026-02-26T17:44:15.000Z",
-          "wordCount": 4857,
-          "title": "Bitcoin Hovers Near $67K as Crypto Markets Consolidate",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772128103552-png-4ff6e7c1-6bd1-463f-9261-697ec70a1404.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772128103552-png-4ff6e7c1-6bd1-463f-9261-697ec70a1404.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis",
-          "author": "Denis Omelchenko",
-          "description": "Although hackers made less money overall last year, victims who paid faced far higher bills than a year earlier.",
-          "link": "https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis",
-          "publishedOn": "2026-02-26T17:02:22.000Z",
-          "wordCount": 4668,
-          "title": "Ransomware Payments Topped $800 Million in 2025: Chainalysis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772125346265-png-440ef8bd-30c9-4dd5-b9cf-96f1812d8d7d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772125346265-png-440ef8bd-30c9-4dd5-b9cf-96f1812d8d7d.png"
         }
       ]
     }

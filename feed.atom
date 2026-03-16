@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-15T23:17:15.963Z</id>
+    <id>urn:2026-03-16T01:12:58.080Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-15T23:17:15.963Z</updated>
+    <updated>2026-03-16T01:12:58.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Venus Protocol exploited for $3.7M through supply cap manipulation: On-chain analysis]]></title>
+        <id>https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly</id>
+        <link href="https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly"/>
+        <updated>2026-03-15T19:46:12.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor bypassed Venus Protocol's supply caps using Thena tokens to borrow multiple assets in what analysts suspect was a flash loan or price manipulation attack on BNB Chain.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC and CFTC Sign Memorandum to Coordinate Crypto Regulation: Agencies]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp</id>
+        <link href="https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp"/>
+        <updated>2026-03-15T19:46:12.000Z</updated>
+        <summary type="html"><![CDATA[The SEC and CFTC have signed a memorandum of understanding to establish a unified regulatory approach to digital assets.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation Sells 5,000 ETH for $10.2M in OTC Deal: Ethereum Foundation]]></title>
         <id>https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr</id>
@@ -985,26 +1005,6 @@ But what if it fragmented it instead?]]></summary>
         <summary type="html"><![CDATA[The Solana-based AI memecoin is up 170% over the past month.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hovers Near $67K as Crypto Markets Consolidate]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate"/>
-        <updated>2026-02-26T17:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Leading altcoins retraced some of their gains from Wednesday.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Payments Topped $800 Million in 2025: Chainalysis]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis"/>
-        <updated>2026-02-26T17:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Although hackers made less money overall last year, victims who paid faced far higher bills than a year earlier.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
