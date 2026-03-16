@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T18:44:02.974Z</id>
+    <id>urn:2026-03-16T19:44:28.853Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T18:44:02.974Z</updated>
+    <updated>2026-03-16T19:44:28.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge's CFG Token Surges 60% on Binance Listing]]></title>
+        <id>https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing</id>
+        <link href="https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing"/>
+        <updated>2026-03-16T19:07:03.000Z</updated>
+        <summary type="html"><![CDATA[The protocol's tokenized RWA value is down this month, driven by a steep drop in the value of its corporate credit fund, JAAA.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoW Swap Points to Legacy Code and Solver Failures in $50M Loss That Aave Attributes to Illiquid Market]]></title>
+        <id>https://thedefiant.io/news/defi/cow-swap-points-to-legacy-code-and-solver-failures-in-usd50m-loss</id>
+        <link href="https://thedefiant.io/news/defi/cow-swap-points-to-legacy-code-and-solver-failures-in-usd50m-loss"/>
+        <updated>2026-03-16T19:05:05.000Z</updated>
+        <summary type="html"><![CDATA[While Aave blamed an illiquid market, CoW Swap identified a stale gas ceiling, silent solver failures, and a possible mempool leak that turned a bad trade into the worst execution loss in DeFi history.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Liberty Financial Passes Proposal Offering Team Access for Top Stakers]]></title>
         <id>https://thedefiant.io/news/defi/world-liberty-financial-passes-proposal-offering-team-access-for-top-stakers</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account"/>
         <updated>2026-03-04T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Kraken Financial received a limited purpose Fed master account, marking a notable milestone for crypto-TradFi integration.]]></summary>
+        <summary type="html"><![CDATA[Kraken Financial, then baking arm of U.S. centralized exchange Kraken, announced that it has a Federal Reserve master account, granting it direct access to the U.S. payment systems.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/real-world-assets-on-ethereum-top-usd15-billion"/>
         <updated>2026-03-02T18:18:26.000Z</updated>
         <summary type="html"><![CDATA[The tokenized gold market has surged past $4 billion, significantly contributing to Ethereum's Real-World Asset (RWA) market, which now exceeds $15 billion.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rebounds to $70,000 as Middle East Conflict Rages On]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd70-000-as-middle-east-conflict-rages-on</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd70-000-as-middle-east-conflict-rages-on"/>
-        <updated>2026-03-02T18:11:58.000Z</updated>
-        <summary type="html"><![CDATA[After dropping over the weekend, total crypto market capitalization is up 3.5% to $2.43 trillion.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Makes Largest Bitcoin Purchase Since January]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-announces-latest-bitcoin-purchase-adds-3015-btc</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/strategy-announces-latest-bitcoin-purchase-adds-3015-btc"/>
-        <updated>2026-03-02T17:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Bitmine also continued adding to its crypto holdings with a fresh ETH purchase in the past week.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

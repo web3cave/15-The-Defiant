@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing",
+          "author": "DefAInt",
+          "description": "The protocol's tokenized RWA value is down this month, driven by a steep drop in the value of its corporate credit fund, JAAA.",
+          "link": "https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing",
+          "publishedOn": "2026-03-16T19:07:03.000Z",
+          "wordCount": 5012,
+          "title": "Centrifuge's CFG Token Surges 60% on Binance Listing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/binance-logo-jpg-a62a6d23-bcce-4d46-a54e-2d052bf877cd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/binance-logo-jpg-a62a6d23-bcce-4d46-a54e-2d052bf877cd.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/cow-swap-points-to-legacy-code-and-solver-failures-in-usd50m-loss",
+          "author": "yyctrader",
+          "description": "While Aave blamed an illiquid market, CoW Swap identified a stale gas ceiling, silent solver failures, and a possible mempool leak that turned a bad trade into the worst execution loss in DeFi history.",
+          "link": "https://thedefiant.io/news/defi/cow-swap-points-to-legacy-code-and-solver-failures-in-usd50m-loss",
+          "publishedOn": "2026-03-16T19:05:05.000Z",
+          "wordCount": 5581,
+          "title": "CoW Swap Points to Legacy Code and Solver Failures in $50M Loss That Aave Attributes to Illiquid Market",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773688280285-png-fb813ef0-25ed-4b56-b746-a45987639eac.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773688280285-png-fb813ef0-25ed-4b56-b746-a45987639eac.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/world-liberty-financial-passes-proposal-offering-team-access-for-top-stakers",
           "author": "yyctrader",
           "description": "The Trump family-backed protocol's \"Super Node\" tier promises partnership discussions with the WLFI team.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account",
           "author": "DefAInt",
-          "description": "Kraken Financial received a limited purpose Fed master account, marking a notable milestone for crypto-TradFi integration.",
+          "description": "Kraken Financial, then baking arm of U.S. centralized exchange Kraken, announced that it has a Federal Reserve master account, granting it direct access to the U.S. payment systems.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account",
           "publishedOn": "2026-03-04T14:36:50.000Z",
           "wordCount": 4652,
@@ -1474,36 +1504,6 @@
             "type": "null"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef78a2173763d6014b7f7867cd4b5a74d8acaebd-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd70-000-as-middle-east-conflict-rages-on",
-          "author": "yyctrader",
-          "description": "After dropping over the weekend, total crypto market capitalization is up 3.5% to $2.43 trillion.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd70-000-as-middle-east-conflict-rages-on",
-          "publishedOn": "2026-03-02T18:11:58.000Z",
-          "wordCount": 4520,
-          "title": "Bitcoin Rebounds to $70,000 as Middle East Conflict Rages On",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772475124139-png-781c524b-6eaa-432d-9461-d4c2a1db5b15.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772475124139-png-781c524b-6eaa-432d-9461-d4c2a1db5b15.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-announces-latest-bitcoin-purchase-adds-3015-btc",
-          "author": "DefAInt",
-          "description": "Bitmine also continued adding to its crypto holdings with a fresh ETH purchase in the past week.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-announces-latest-bitcoin-purchase-adds-3015-btc",
-          "publishedOn": "2026-03-02T17:55:19.000Z",
-          "wordCount": 4880,
-          "title": "Strategy Makes Largest Bitcoin Purchase Since January",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-eth-dats-jpg-276d9869-8c5f-4e26-806d-6e40671503a4.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-eth-dats-jpg-276d9869-8c5f-4e26-806d-6e40671503a4.jpg"
         }
       ]
     }
