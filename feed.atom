@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T20:25:21.088Z</id>
+    <id>urn:2026-03-16T21:26:55.487Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T20:25:21.088Z</updated>
+    <updated>2026-03-16T21:26:55.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Soar as Stocks Rally, Oil Drops 5%]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-soar-as-stocks-rally-oil-drops-5</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-soar-as-stocks-rally-oil-drops-5"/>
+        <updated>2026-03-16T20:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Total crypto capitalization is up 3.5%, with Layer 1s and memecoins leading the charge.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centrifuge's CFG Token Surges 60% on Binance Listing]]></title>
         <id>https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/backpack-to-offer-on-chain-ipo-shares-solana-via-superstate</id>
         <link href="https://thedefiant.io/news/defi/backpack-to-offer-on-chain-ipo-shares-solana-via-superstate"/>
         <updated>2026-03-04T16:48:23.000Z</updated>
-        <summary type="html"><![CDATA[The move expands Backpack's existing partnership with Robert Leshner's tokenization firm.]]></summary>
+        <summary type="html"><![CDATA[Centralized exchange (CEX) and wallet app Backpack announced today, March 4, that it will offer early access to initial public offerings on-chain in partnership with Superstate.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account"/>
         <updated>2026-03-04T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Kraken Financial, then baking arm of U.S. centralized exchange Kraken, announced that it has a Federal Reserve master account, granting it direct access to the U.S. payment systems.]]></summary>
+        <summary type="html"><![CDATA[Kraken Financial received a limited purpose Fed master account, marking a notable milestone for crypto-TradFi integration.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The past year’s price action shows how politics, inflation concerns, and a weaker dollar reshaped market trends.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-World Assets on Ethereum Top $15 Billion]]></title>
-        <id>https://thedefiant.io/news/defi/real-world-assets-on-ethereum-top-usd15-billion</id>
-        <link href="https://thedefiant.io/news/defi/real-world-assets-on-ethereum-top-usd15-billion"/>
-        <updated>2026-03-02T18:18:26.000Z</updated>
-        <summary type="html"><![CDATA[The tokenized gold market has surged past $4 billion, significantly contributing to Ethereum's Real-World Asset (RWA) market, which now exceeds $15 billion.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
