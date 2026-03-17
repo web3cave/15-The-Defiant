@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T14:10:28.837Z</id>
+    <id>urn:2026-03-17T15:52:11.578Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T14:10:28.837Z</updated>
+    <updated>2026-03-17T15:52:11.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World Launches AgentKit to Let AI Agents Carry Proof of Human Backing]]></title>
+        <id>https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing</id>
+        <link href="https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing"/>
+        <updated>2026-03-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastercard to Acquire Stablecoin Infra Firm BVNK for up to $1.8 Billion]]></title>
+        <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
+        <link href="https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk"/>
+        <updated>2026-03-17T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aster Launches Privacy-Focused Layer 1]]></title>
         <id>https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters"/>
         <updated>2026-03-05T17:32:38.000Z</updated>
-        <summary type="html"><![CDATA[The global fintech applied to become a federally regulated, FDIC-insured bank, while the crypto infra firm is looking to become a national bank trust.]]></summary>
+        <summary type="html"><![CDATA[Two crypto-adjacent firms just applied to be federally regulated banks in the United States.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-owner-ice-strategic-investment-okx</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-owner-ice-strategic-investment-okx"/>
         <updated>2026-03-05T14:26:56.000Z</updated>
-        <summary type="html"><![CDATA[ICE has strategically invested in centralized cryptocurrency exchange OKX, valuing the company at $25 billion. The partnership involves several join initiatives that expand both ICE's and OKX's offerings.]]></summary>
+        <summary type="html"><![CDATA[The publicly traded parent company of NYSE, Intercontinental Exchange (ICE), is establishing a strategic partnership with the global centralized exchange.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The partnership with the CFTC-regulated prediction market will let users bet on luxury watch prices.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoFi and Mastercard Join Forces to Integrate SoFiUSD for Global Settlement]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin"/>
-        <updated>2026-03-03T14:20:55.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. neobank first announced its stablecoin, which is available on the Ethereum network, late last year.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa and Stripe-Owned Bridge Roll Out Stablecoin-Linked Cards to 100+ Countries]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-and-stripe-owned-bridge-roll-out-stablecoin-linked-cards-to-100-countries</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-and-stripe-owned-bridge-roll-out-stablecoin-linked-cards-to-100-countries"/>
-        <updated>2026-03-03T13:49:04.000Z</updated>
-        <summary type="html"><![CDATA[The program allows fintech firms and wallet providers to offer cards that let users spend stablecoin balances at any of Visa’s 175 million merchants worldwide.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
