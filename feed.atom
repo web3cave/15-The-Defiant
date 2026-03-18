@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-18T12:40:43.099Z</id>
+    <id>urn:2026-03-18T14:13:09.460Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-18T12:40:43.099Z</updated>
+    <updated>2026-03-18T14:13:09.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Pro expands margin trading to 44 pairs in largest leverage expansion: Kraken]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn"/>
+        <updated>2026-03-18T12:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Kraken Pro has rolled out its largest single margin leverage expansion, adding support across 44 trading pairs including stablecoins, gold tokens, BTC and ETH regional pairs, mid-cap assets, and DeFi blue-chips.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO governance platform Tally shuts down after six years, citing lack of viable market demand: Tally]]></title>
+        <id>https://thedefiant.io/news/defi/tally-dao-governance-platform-shuts-down-38m3d2</id>
+        <link href="https://thedefiant.io/news/defi/tally-dao-governance-platform-shuts-down-38m3d2"/>
+        <updated>2026-03-18T10:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Tally, which served over one million users and processed $1 billion in payments, is winding down operations as demand for DAO tooling declines.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum's Fast Confirmation Rule targets 13-second bridge times with 98% reduction: Ethereum Foundation]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-fast-confirmation-rule-13-second-bridge-times-um8a02</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-fast-confirmation-rule-13-second-bridge-times-um8a02"/>
+        <updated>2026-03-18T10:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's proposed Fast Confirmation Rule aims to slash L1-to-L2 bridge and exchange deposit times from minutes to just 13 seconds without requiring a hard fork.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea Delays Token Launch Again, Citing Market Conditions]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/opensea-delays-token-launch-again-citing-market-conditions</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization</id>
         <link href="https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization"/>
         <updated>2026-03-06T16:35:09.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.]]></summary>
+        <summary type="html"><![CDATA[PancakeSwap, the leading decentralized exchange on BNB Smart Chain, launched the StableSwap feature on March 1.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense</id>
         <link href="https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense"/>
         <updated>2026-03-06T15:02:54.000Z</updated>
-        <summary type="html"><![CDATA[The parent firm of Strike, the Bitcoin-focused fintech founded by Jack Mallers, has been granted a BitLicense by the New York Department of Financial Services (NYDFS), according a list of approved entities from the regulator.]]></summary>
+        <summary type="html"><![CDATA[Strike's parent firm has received a BitLicense from the New York Department of Financial Services (NYDFS), enabling it to offer crypto services in New York.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/kraken-financial-secures-federal-reserve-master-account"/>
         <updated>2026-03-04T14:36:50.000Z</updated>
         <summary type="html"><![CDATA[Kraken Financial received a limited purpose Fed master account, marking a notable milestone for crypto-TradFi integration.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Market Fever Cooled in February]]></title>
-        <id>https://thedefiant.io/news/defi/prediction-market-fever-cooled-in-february</id>
-        <link href="https://thedefiant.io/news/defi/prediction-market-fever-cooled-in-february"/>
-        <updated>2026-03-03T21:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Monthly prediction market volumes dipped in February for the first time since August 2025.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi Faces Backlash Over Khamenei Market Resolution]]></title>
-        <id>https://thedefiant.io/news/defi/kalshi-faces-backlash-over-khamenei-market</id>
-        <link href="https://thedefiant.io/news/defi/kalshi-faces-backlash-over-khamenei-market"/>
-        <updated>2026-03-03T19:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Kalshi's resolution of prediction markets tied to the death of Iran's Supreme Leader Ali Khamenei has sparked controversy.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Usual Integrates Virtual IBANs to Simplify Euro Transactions]]></title>
-        <id>https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions</id>
-        <link href="https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions"/>
-        <updated>2026-03-03T19:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Usual's introduction of a direct EUR ↔ EUR0 rail leverages SEPA Instant and virtual IBAN technology to streamline fiat transactions, enhancing euro transfers for users across Europe.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
