@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T11:25:42.342Z</id>
+    <id>urn:2026-03-19T12:34:43.190Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T11:25:42.342Z</updated>
+    <updated>2026-03-19T12:34:43.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Gets Native DeFi Stack as OP_NET Goes Live on Mainnet]]></title>
+        <id>https://thedefiant.io/news/defi/bitcoin-gets-native-defi-stack-as-opnet-goes-live-on-mainnet</id>
+        <link href="https://thedefiant.io/news/defi/bitcoin-gets-native-defi-stack-as-opnet-goes-live-on-mainnet"/>
+        <updated>2026-03-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The execution layer's launch comes alongside a DeFi stack, including a Bitcoin L1 DEX, permissionless smart contract deployment, and OP-20 token launches.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algorand Foundation cuts 25% of workforce amid crypto market downturn: Algorand Foundation]]></title>
         <id>https://thedefiant.io/news/blockchains/algorand-foundation-cuts-25-percent-staff-j0wsku</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Funds flowing to sanctioned entities jumped 694% year over year, making sanctions evasion the fastest-growing category of crypto crime.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Dip as Oil Spikes Amid Iran Conflict]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-oil-spikes-amid-iran-conflict</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-dip-as-oil-spikes-amid-iran-conflict"/>
-        <updated>2026-03-05T18:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is holding around $71,000, while ETH and SOL are down 3%.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
