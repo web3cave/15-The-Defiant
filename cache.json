@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge",
+          "author": "DefAInt",
+          "description": "Centrifuge's largest tokenized fund, JTRSY, is among the first of its products to adopt LayerZero.",
+          "link": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge",
+          "publishedOn": "2026-03-19T16:00:00.000Z",
+          "wordCount": 5280,
+          "title": "LayerZero, Centrifuge Team Up to Expand Multichain Access for Tokenized Funds",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/multichain-infra-jpg-f606c3fc-8cc6-418f-8b9a-3e2ff9c5ca22.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/multichain-infra-jpg-f606c3fc-8cc6-418f-8b9a-3e2ff9c5ca22.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/bitcoin-gets-native-defi-stack-as-opnet-goes-live-on-mainnet",
           "author": "Olivia Capozzalo",
           "description": "The execution layer's launch comes alongside a DeFi stack, including a Bitcoin L1 DEX, permissionless smart contract deployment, and OP-20 token launches.",
@@ -356,7 +371,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4392,
+          "wordCount": 4394,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/network-btc-jpg-54d8487f-3816-4afc-9d7f-62a9967b26a5.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/crypto-crime-hits-record-usd154-billion-as-sanctioned-states-turn-to-blockchain",
-          "author": "The Defiant Team",
-          "description": "Funds flowing to sanctioned entities jumped 694% year over year, making sanctions evasion the fastest-growing category of crypto crime.",
-          "link": "https://thedefiant.io/news/security/crypto-crime-hits-record-usd154-billion-as-sanctioned-states-turn-to-blockchain",
-          "publishedOn": "2026-03-05T18:14:21.000Z",
-          "wordCount": 5320,
-          "title": "Crypto Crime Hits Record $154 Billion as Sanctioned States Turn to Blockchain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/sanctioned-jpg-29473664-97f8-4f59-84dc-922953b4aa66.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/sanctioned-jpg-29473664-97f8-4f59-84dc-922953b4aa66.jpg"
         }
       ]
     }

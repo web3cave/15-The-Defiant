@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T15:40:27.098Z</id>
+    <id>urn:2026-03-19T16:43:33.833Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T15:40:27.098Z</updated>
+    <updated>2026-03-19T16:43:33.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero, Centrifuge Team Up to Expand Multichain Access for Tokenized Funds]]></title>
+        <id>https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge</id>
+        <link href="https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge"/>
+        <updated>2026-03-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Centrifuge's largest tokenized fund, JTRSY, is among the first of its products to adopt LayerZero.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Gets Native DeFi Stack as OP_NET Goes Live on Mainnet]]></title>
         <id>https://thedefiant.io/news/defi/bitcoin-gets-native-defi-stack-as-opnet-goes-live-on-mainnet</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A new report from DTCC, Clearstream, Euroclear, and the Boston Consulting Group advocates for interoperable infrastructure across blockchain and traditional ledgers.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Crime Hits Record $154 Billion as Sanctioned States Turn to Blockchain]]></title>
-        <id>https://thedefiant.io/news/security/crypto-crime-hits-record-usd154-billion-as-sanctioned-states-turn-to-blockchain</id>
-        <link href="https://thedefiant.io/news/security/crypto-crime-hits-record-usd154-billion-as-sanctioned-states-turn-to-blockchain"/>
-        <updated>2026-03-05T18:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Funds flowing to sanctioned entities jumped 694% year over year, making sanctions evasion the fastest-growing category of crypto crime.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
