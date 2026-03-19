@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T17:45:04.647Z</id>
+    <id>urn:2026-03-19T18:38:58.811Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T17:45:04.647Z</updated>
+    <updated>2026-03-19T18:38:58.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amundi Launches Tokenized Swap Fund on Ethereum and Stellar]]></title>
+        <id>https://thedefiant.io/news/defi/amundi-launches-tokenized-swap-fund-on-ethereum-and-stellar</id>
+        <link href="https://thedefiant.io/news/defi/amundi-launches-tokenized-swap-fund-on-ethereum-and-stellar"/>
+        <updated>2026-03-19T18:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Europe's largest asset manager has launched its second on-chain fund, leveraging Chainlink oracles to publish NAV data.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Becomes MLB’s Exclusive Prediction Market Partner]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/tornado-cash-dev-roman-storm-could-face-retrial</id>
         <link href="https://thedefiant.io/news/defi/tornado-cash-dev-roman-storm-could-face-retrial"/>
         <updated>2026-03-10T17:03:48.000Z</updated>
-        <summary type="html"><![CDATA[A U.S. federal prosecutor has requested to retry the co-founder of the privacy-focused crypto protocol months after he received a mixed verdict.]]></summary>
+        <summary type="html"><![CDATA[A United States federal prosecutor has requested to to retry Roman Storm, the co-founder of decentralized cryptocurrency mixer protocol Tornado Cash, according to court documents submitted on March 9.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens</id>
         <link href="https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens"/>
         <updated>2026-03-10T14:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Starknet has unveiled the STRK20 token framework, a new initiative designed to enhance the privacy of Ethereum’s ERC-20 tokens on its platform. According to a blog post from the Layer 2 today, March 10, this development addresses ongoing privacy concerns for token issuers, users, and regulators.]]></summary>
+        <summary type="html"><![CDATA[Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Strike's parent firm has received a BitLicense from the New York Department of Financial Services (NYDFS), enabling it to offer crypto services in New York.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB-based Prediction Market Opinion Launches Token]]></title>
-        <id>https://thedefiant.io/news/defi/bnb-based-prediction-market-opinion-launches-token</id>
-        <link href="https://thedefiant.io/news/defi/bnb-based-prediction-market-opinion-launches-token"/>
-        <updated>2026-03-05T19:30:56.000Z</updated>
-        <summary type="html"><![CDATA[OPN debuted at a $450 million valuation but is dropping steadily amid airdrop selling pressure.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
