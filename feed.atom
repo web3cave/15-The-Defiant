@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T16:43:33.833Z</id>
+    <id>urn:2026-03-19T17:45:04.647Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T16:43:33.833Z</updated>
+    <updated>2026-03-19T17:45:04.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Becomes MLB’s Exclusive Prediction Market Partner]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner"/>
+        <updated>2026-03-19T17:04:05.000Z</updated>
+        <summary type="html"><![CDATA[The league also signed an information-sharing agreement with the CFTC, the first such deal between the derivatives regulator and a professional sports body.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerZero, Centrifuge Team Up to Expand Multichain Access for Tokenized Funds]]></title>
         <id>https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens</id>
         <link href="https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens"/>
         <updated>2026-03-10T14:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.]]></summary>
+        <summary type="html"><![CDATA[Starknet has unveiled the STRK20 token framework, a new initiative designed to enhance the privacy of Ethereum’s ERC-20 tokens on its platform. According to a blog post from the Layer 2 today, March 10, this development addresses ongoing privacy concerns for token issuers, users, and regulators.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[OPN debuted at a $450 million valuation but is dropping steadily amid airdrop selling pressure.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interoperability Is 'Essential' for Digital Assets to Reach Their Full Potential: DTCC]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/interoperability-essential-for-digital-asset-securities-potential-research</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/interoperability-essential-for-digital-asset-securities-potential-research"/>
-        <updated>2026-03-05T18:42:55.000Z</updated>
-        <summary type="html"><![CDATA[A new report from DTCC, Clearstream, Euroclear, and the Boston Consulting Group advocates for interoperable infrastructure across blockchain and traditional ledgers.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

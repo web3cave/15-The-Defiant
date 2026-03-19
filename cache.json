@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner",
+          "author": "yyctrader",
+          "description": "The league also signed an information-sharing agreement with the CFTC, the first such deal between the derivatives regulator and a professional sports body.",
+          "link": "https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner",
+          "publishedOn": "2026-03-19T17:04:05.000Z",
+          "wordCount": 4922,
+          "title": "Polymarket Becomes MLB’s Exclusive Prediction Market Partner",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773940021244-png-c00b9515-6f65-4a8b-b967-474366f625c2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773940021244-png-c00b9515-6f65-4a8b-b967-474366f625c2.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge",
           "author": "DefAInt",
           "description": "Centrifuge's largest tokenized fund, JTRSY, is among the first of its products to adopt LayerZero.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens",
           "author": "DefAInt",
-          "description": "Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.",
+          "description": "Starknet has unveiled the STRK20 token framework, a new initiative designed to enhance the privacy of Ethereum’s ERC-20 tokens on its platform. According to a blog post from the Layer 2 today, March 10, this development addresses ongoing privacy concerns for token issuers, users, and regulators.",
           "link": "https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens",
           "publishedOn": "2026-03-10T14:17:26.000Z",
           "wordCount": 4541,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1772739200024-png-618de338-4e06-4f5d-95cc-cf384d7cfc29.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/interoperability-essential-for-digital-asset-securities-potential-research",
-          "author": "DefAInt",
-          "description": "A new report from DTCC, Clearstream, Euroclear, and the Boston Consulting Group advocates for interoperable infrastructure across blockchain and traditional ledgers.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/interoperability-essential-for-digital-asset-securities-potential-research",
-          "publishedOn": "2026-03-05T18:42:55.000Z",
-          "wordCount": 4937,
-          "title": "Interoperability Is 'Essential' for Digital Assets to Reach Their Full Potential: DTCC",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/network-btc-jpg-54d8487f-3816-4afc-9d7f-62a9967b26a5.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/network-btc-jpg-54d8487f-3816-4afc-9d7f-62a9967b26a5.jpg"
         }
       ]
     }
