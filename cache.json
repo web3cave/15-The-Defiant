@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions",
+          "author": "Camila Russo",
+          "description": "Lawyers say the joint SEC-CFTC framework is the most significant crypto regulatory development in years. But who decides when a token sheds its investment contract status, and what happens to DeFi, are still unanswered.",
+          "link": "https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions",
+          "publishedOn": "2026-03-20T16:37:39.000Z",
+          "wordCount": 6571,
+          "title": "SEC's Crypto Guidance Ends Years of Regulatory Ambiguity But Key Questions Remain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sec-questions-jpg-f52e2fac-fd47-4764-b06f-c5f9be20a693.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sec-questions-jpg-f52e2fac-fd47-4764-b06f-c5f9be20a693.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months",
+          "author": "Olivia Capozzalo",
+          "description": "The deal doubles the valuation from Kalshi's previous round in November.",
+          "link": "https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months",
+          "publishedOn": "2026-03-20T16:37:24.000Z",
+          "wordCount": 5168,
+          "title": "Kalshi Raises $1B at $22B Valuation: Report",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/fundraise-gen-jpg-f8aabc6e-9333-4a4a-ae70-ef843897ee53.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/fundraise-gen-jpg-f8aabc6e-9333-4a4a-ae70-ef843897ee53.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff",
           "author": "yyctrader",
           "description": "Bitcoin drops below $70,000 as the Fed raises its inflation forecast and oil-driven price pressures cloud the outlook for rate cuts.",
@@ -446,7 +476,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4390,
+          "wordCount": 4387,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/bpi-considers-suing-occ-over-crypto-treatment",
           "author": "DefAInt",
-          "description": "The Bank Policy Institute is reportedly weighing filing a lawsuit against the OCC over it granting more bank trust charters to crypto firms.",
+          "description": "A lobbying group for some of the largest banks that do business in the United States may be heading to court over crypto's growing access to the U.S. banking system. The Guardian first reported the news, citing a source familiar with the lobby's thinking.",
           "link": "https://thedefiant.io/news/regulation/bpi-considers-suing-occ-over-crypto-treatment",
           "publishedOn": "2026-03-10T19:25:22.000Z",
           "wordCount": 4950,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor",
           "author": "Olivia Capozzalo",
-          "description": "The Jito Foundation has acquired SolanaFloor, a media outlet focused on the Solana ecosystem.",
+          "description": "The foundation behind Solana liquid staking protocol Jito acquired SolanaFloor just two weeks after the media outlet announced it was shutting down.",
           "link": "https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor",
           "publishedOn": "2026-03-10T18:40:38.000Z",
           "wordCount": 4604,
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1772828921413-png-9fa9bf63-1e51-4dba-9ba5-c30d0b691d19.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-drops-under-usd68-000-as-oil-tops-usd90",
-          "author": "yyctrader",
-          "description": "Total crypto capitalization is down 3% to $2.4 trillion amid a global market retreat.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-drops-under-usd68-000-as-oil-tops-usd90",
-          "publishedOn": "2026-03-06T19:38:55.000Z",
-          "wordCount": 4496,
-          "title": "Bitcoin Drops Under $68,000 as Oil Tops $90",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772825938326-png-138854e3-5219-4bcb-ac9a-6ae6fa23ba80.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772825938326-png-138854e3-5219-4bcb-ac9a-6ae6fa23ba80.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization",
-          "author": "The Defiant Team",
-          "description": "PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.",
-          "link": "https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization",
-          "publishedOn": "2026-03-06T16:35:09.000Z",
-          "wordCount": 4403,
-          "title": "Curve Accuses PancakeSwap of Using Stableswap Code Without Authorization",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772815053546-png-e558c9a0-764e-4bfa-88cc-34444eeb7f97.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772815053546-png-e558c9a0-764e-4bfa-88cc-34444eeb7f97.png"
         }
       ]
     }
