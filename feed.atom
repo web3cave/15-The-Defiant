@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T22:15:37.019Z</id>
+    <id>urn:2026-03-20T23:17:50.416Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T22:15:37.019Z</updated>
+    <updated>2026-03-20T23:17:50.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World Liberty Financial Launches Toolkit to Let AI Agents Spend USD1]]></title>
+        <id>https://thedefiant.io/news/defi/world-liberty-financial-launches-toolkit-to-let-ai-agents-spend-usd1</id>
+        <link href="https://thedefiant.io/news/defi/world-liberty-financial-launches-toolkit-to-let-ai-agents-spend-usd1"/>
+        <updated>2026-03-20T22:54:22.000Z</updated>
+        <summary type="html"><![CDATA[The Trump-backed DeFi project's new AgentPay SDK gives AI agents self-custodial wallets and policy-enforced spending on EVM chains.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electric Capital Maps 501 Real-World Yield Sources, Finds 93% Untouched by DeFi]]></title>
         <id>https://thedefiant.io/news/defi/electric-capital-maps-501-real-world-yield-sources-finds-93-untouched-by-defi</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability</id>
         <link href="https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability"/>
         <updated>2026-03-11T16:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Ledger said on Wednesday, March 11, that it has discovered a vulnerability that could affect as much as 25% of Android phones, letting hackers steal users’ private keys, according to a press release shared with The Defiant.]]></summary>
+        <summary type="html"><![CDATA[The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Strategy just bought nearly 6x more BTC than last week, while Tom Lee's Bitmine also purchased more ETH than usual.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rallies Above $69,000 as Oil Reverses Sharply]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply"/>
-        <updated>2026-03-09T17:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Total crypto capitalization is up nearly 3% to $2.43 trillion, with most major altcoins posting gains.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
