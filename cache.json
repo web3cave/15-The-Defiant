@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before",
+          "author": "Camila Russo",
+          "description": "The Resolv hack wasn't a surprise. The same structural flaw has drained hundreds of millions from Morpho, Euler, and Fluid over the past year and the industry kept building on top of it anyway.",
+          "link": "https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before",
+          "publishedOn": "2026-03-23T17:18:09.000Z",
+          "wordCount": 6048,
+          "title": "DeFi Has Seen Resolv's $25M USR Exploit Many Times Before",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774289976982-png-991c1da7-e8c0-47e8-8023-75837a286ce4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774289976982-png-991c1da7-e8c0-47e8-8023-75837a286ce4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/novabay-rebrands-as-stablecoin-development-corporation-with-nearly-9-of-sky-supply",
           "author": "yyctrader",
           "description": "The company, which generated less than $10 million in revenue last year selling eyecare products, raised $134 million to bet entirely on the Sky protocol's governance token.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault",
           "author": "DefAInt",
-          "description": "Lido, DeFi’s largest liquid staking protocol by total value locked, has launched EarnUSD, its first stablecoin vault, according to a press release shared with The Defiant.",
+          "description": "The new product, EarnUSD, lets users earn yield on their USDC and USDT.",
           "link": "https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault",
           "publishedOn": "2026-03-12T15:00:00.000Z",
           "wordCount": 4851,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/solana-jpg-e19b4211-76c7-4499-a9d5-26b009b10db3.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd71-000-as-oil-drops-under-usd80",
-          "author": "yyctrader",
-          "description": "Total crypto capitalization is up another 3% to $2.49 trillion.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-tops-usd71-000-as-oil-drops-under-usd80",
-          "publishedOn": "2026-03-10T18:21:05.000Z",
-          "wordCount": 4401,
-          "title": "Bitcoin Tops $71,000 as Oil Drops Under $80",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773167158730-png-ebc83650-22fa-4c3d-9292-0ec4cc450a37.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773167158730-png-ebc83650-22fa-4c3d-9292-0ec4cc450a37.png"
         }
       ]
     }

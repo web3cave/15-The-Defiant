@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T17:41:03.855Z</id>
+    <id>urn:2026-03-23T18:36:50.361Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T17:41:03.855Z</updated>
+    <updated>2026-03-23T18:36:50.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Has Seen Resolv's $25M USR Exploit Many Times Before]]></title>
+        <id>https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before</id>
+        <link href="https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before"/>
+        <updated>2026-03-23T17:18:09.000Z</updated>
+        <summary type="html"><![CDATA[The Resolv hack wasn't a surprise. The same structural flaw has drained hundreds of millions from Morpho, Euler, and Fluid over the past year and the industry kept building on top of it anyway.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NovaBay Rebrands as 'Stablecoin Development Corporation' With Nearly 9% of SKY Supply]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/novabay-rebrands-as-stablecoin-development-corporation-with-nearly-9-of-sky-supply</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault</id>
         <link href="https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault"/>
         <updated>2026-03-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido, DeFi’s largest liquid staking protocol by total value locked, has launched EarnUSD, its first stablecoin vault, according to a press release shared with The Defiant.]]></summary>
+        <summary type="html"><![CDATA[The new product, EarnUSD, lets users earn yield on their USDC and USDT.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The foundation behind Solana liquid staking protocol Jito acquired SolanaFloor just two weeks after the media outlet announced it was shutting down.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Tops $71,000 as Oil Drops Under $80]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd71-000-as-oil-drops-under-usd80</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd71-000-as-oil-drops-under-usd80"/>
-        <updated>2026-03-10T18:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Total crypto capitalization is up another 3% to $2.49 trillion.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
