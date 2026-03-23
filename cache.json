@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/resolv-usr-stablecoin-exploit-80-million-minted-vholbs",
+          "author": "DefAInt",
+          "description": "An attacker has successfully exploited the Resolv USR stablecoin protocol, minting 80 million tokens and withdrawing at least $25 million before the depeg.",
+          "link": "https://thedefiant.io/news/hacks/resolv-usr-stablecoin-exploit-80-million-minted-vholbs",
+          "publishedOn": "2026-03-22T06:01:44.000Z",
+          "wordCount": 4432,
+          "title": "Attacker exploits Resolv USR stablecoin to mint 80 million tokens, cashes out $25M: Resolv Labs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5d4b7830dec7972b655c902f7c55c4984093299-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d5d4b7830dec7972b655c902f7c55c4984093299-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/world-liberty-financial-launches-toolkit-to-let-ai-agents-spend-usd1",
           "author": "yyctrader",
           "description": "The Trump-backed DeFi project's new AgentPay SDK gives AI agents self-custodial wallets and policy-enforced spending on EVM chains.",
@@ -326,7 +341,7 @@
           "description": "Kraken has frozen its multibillion-dollar initial public offering plan, citing difficult market conditions just months after confidentially filing with the SEC.",
           "link": "https://thedefiant.io/news/cefi/kraken-freezes-ipo-plan-market-conditions-fntzn9",
           "publishedOn": "2026-03-18T15:17:15.000Z",
-          "wordCount": 4365,
+          "wordCount": 4379,
           "title": "Kraken shelves IPO plans amid market headwinds: CoinDesk",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed47a63dd0fd41070b0eb5983d856f36d4732db5-1792x1024.jpg",
@@ -536,7 +551,7 @@
           "description": "Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.",
           "link": "https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q",
           "publishedOn": "2026-03-17T13:17:20.000Z",
-          "wordCount": 4516,
+          "wordCount": 4530,
           "title": "Ripple to expand in Brazil with custody, payments, and brokerage services ahead of central bank approval push: Ripple",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/550c6b7c97c26b718dd9888a9172103d2055523a-1792x1024.jpg",
@@ -566,7 +581,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4396,
+          "wordCount": 4410,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -731,7 +746,7 @@
           "description": "The FATF's latest report pivots regulatory focus from deposit/withdrawal monitoring to tracking peer-to-peer transactions across personal wallets, with issuers now expected to freeze illicit assets on-chain.",
           "link": "https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap",
           "publishedOn": "2026-03-16T06:00:53.000Z",
-          "wordCount": 4717,
+          "wordCount": 4731,
           "title": "FATF shifts stablecoin oversight to secondary markets, expands monitoring beyond on- and off-ramps: Financial Action Task Force",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88a48e9553802f20da052e350888663bdaa0f348-1792x1024.jpg",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773082458432-png-71179635-023b-4a5d-a6df-ae693f82f6f6.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases",
-          "author": "Olivia Capozzalo",
-          "description": "Strategy just bought nearly 6x more BTC than last week, while Tom Lee's Bitmine also purchased more ETH than usual.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases",
-          "publishedOn": "2026-03-09T18:45:49.000Z",
-          "wordCount": 4799,
-          "title": "Two Largest DAT Companies Double Down on Crypto Buys",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-eth-dats-jpg-ee907b75-7d66-4fa5-ba3e-929f0b178d23.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-eth-dats-jpg-ee907b75-7d66-4fa5-ba3e-929f0b178d23.jpg"
         }
       ]
     }
