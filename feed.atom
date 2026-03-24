@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T17:45:10.276Z</id>
+    <id>urn:2026-03-24T18:44:37.235Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T17:45:10.276Z</updated>
+    <updated>2026-03-24T18:44:37.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Invesco to Manage Superstate's Tokenized US T-Bill Fund]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund"/>
+        <updated>2026-03-24T18:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Invesco, with over $2T in AUM, will become the first TradFi asset manager to use Superstate's digital transfer agent infra.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Launches Post-Quantum Research Hub]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub"/>
+        <updated>2026-03-24T18:10:56.000Z</updated>
+        <summary type="html"><![CDATA[The EF's Post-Quantum and Cryptography teams have consolidated an 8-year research push into an open resource with a roadmap and specifications.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYSE Taps Securitize to Develop Tokenized Securities Trading Infra]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure"/>
         <updated>2026-03-24T17:35:43.000Z</updated>
         <summary type="html"><![CDATA[Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMO launches tokenized cash and deposits on CME's 24/7 settlement network: Bank of Montreal]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr"/>
+        <updated>2026-03-24T16:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Bank of Montreal enables clients to convert dollars into tokenized cash on CME and Google Cloud's Universal Ledger for round-the-clock margin, collateral and B2B payments.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool"/>
         <updated>2026-03-11T18:35:52.000Z</updated>
         <summary type="html"><![CDATA[The world's top Bitcoin mining pool operator expands into privacy coins as ZEC surges 600% year-over-year.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Can Now Transact Via MetaMask Without Accessing Private Keys, Says CoinFello]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/coinfello-launches-ai-agent-skill-for-secure-on-chain-transactions</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/coinfello-launches-ai-agent-skill-for-secure-on-chain-transactions"/>
-        <updated>2026-03-11T18:24:52.000Z</updated>
-        <summary type="html"><![CDATA[A new OpenClaw skill from CoinFello addresses a key security issue with AI agents using crypto.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Across Protocol Proposes Shift From DAO to Private Company]]></title>
-        <id>https://thedefiant.io/news/defi/across-protocol-proposes-shift-from-dao-to-private-company</id>
-        <link href="https://thedefiant.io/news/defi/across-protocol-proposes-shift-from-dao-to-private-company"/>
-        <updated>2026-03-11T18:02:57.000Z</updated>
-        <summary type="html"><![CDATA[The token buyout plan offers ACX holders equity or a cash exit at a 25% premium.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Sues WSJ for Defamation as DOJ Opens Iran Sanctions Probe]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-sues-wsj-for-defamation-as-doj-opens-iran-sanctions-probe</id>
-        <link href="https://thedefiant.io/news/cefi/binance-sues-wsj-for-defamation-as-doj-opens-iran-sanctions-probe"/>
-        <updated>2026-03-11T16:55:08.000Z</updated>
-        <summary type="html"><![CDATA[The exchange's lawsuit was filed the same morning the Journal reported a new federal investigation into whether Iran used Binance to evade U.S. sanctions.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
