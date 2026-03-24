@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T16:48:54.552Z</id>
+    <id>urn:2026-03-24T17:45:10.276Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T16:48:54.552Z</updated>
+    <updated>2026-03-24T17:45:10.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NYSE Taps Securitize to Develop Tokenized Securities Trading Infra]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure"/>
+        <updated>2026-03-24T17:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Hovers Around $70,000 as Crypto Stocks Plunge]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd70-000-as-crypto-stocks-plunge</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles"/>
         <updated>2026-03-12T21:12:55.000Z</updated>
-        <summary type="html"><![CDATA[POAP, the blockchain-based platform that turned event attendance into digital collectibles, is entering maintenance mode — effectively winding down active development after nearly seven years as a fixture of the Web3 community.]]></summary>
+        <summary type="html"><![CDATA[The pioneering Web3 attendance protocol will stop onboarding new issuers on March 16, as its team turns its attention to building open infrastructure for digital collectibles.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The exchange's lawsuit was filed the same morning the Journal reported a new federal investigation into whether Iran used Binance to evade U.S. sanctions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger Uncovers Security Vulnerability That Could Affect 25% of Android Phones]]></title>
-        <id>https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability</id>
-        <link href="https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability"/>
-        <updated>2026-03-11T16:53:10.000Z</updated>
-        <summary type="html"><![CDATA[The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
