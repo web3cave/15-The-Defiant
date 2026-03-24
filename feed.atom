@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T12:41:10.528Z</id>
+    <id>urn:2026-03-24T14:10:38.862Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T12:41:10.528Z</updated>
+    <updated>2026-03-24T14:10:38.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balancer Proposes Winding Down Labs, Ending BAL Emissions in Sweeping Reset]]></title>
+        <id>https://thedefiant.io/news/defi/balancer-proposes-labs-shutdown-bal-tokenomics-shift</id>
+        <link href="https://thedefiant.io/news/defi/balancer-proposes-labs-shutdown-bal-tokenomics-shift"/>
+        <updated>2026-03-24T13:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Five months after a $128M exploit rocked the protocol, Balancer is proposing its most radical restructuring yet.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitmine’s Tom Lee Calls Crypto a 'Wartime Store of Value']]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-tom-lee-calls-crypto-a-wartime-store-of-value</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents</id>
         <link href="https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents"/>
         <updated>2026-03-12T18:50:45.000Z</updated>
-        <summary type="html"><![CDATA[BNB Chain has surpassed Ethereum as the blockchain hosting the largest number of AI agents operating under the ERC-8004 standard, according to data from Agentscan and 8004scan.]]></summary>
+        <summary type="html"><![CDATA[BSC recently became the largest network by registered AI agents using the ERC-8004 standard, while on-chain agent activity in the ecosystem is also rising.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[While the bank has yet to confirm its plans, the move could mark a first step toward launching its own USD stablecoin.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle TVL Crosses $1 Billion Fueled by Aave Deployment]]></title>
-        <id>https://thedefiant.io/news/blockchains/mantle-tvl-crosses-usd1-billion-fueled-by-aave-deployment</id>
-        <link href="https://thedefiant.io/news/blockchains/mantle-tvl-crosses-usd1-billion-fueled-by-aave-deployment"/>
-        <updated>2026-03-10T21:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Aave has attracted nearly $800 million in deposits since launching on Mantle a month ago.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
