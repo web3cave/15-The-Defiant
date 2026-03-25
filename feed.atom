@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T16:55:51.196Z</id>
+    <id>urn:2026-03-25T17:48:59.774Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T16:55:51.196Z</updated>
+    <updated>2026-03-25T17:48:59.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Brings Exchange Data Onchain via Chainlink's DataLink]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink"/>
+        <updated>2026-03-25T17:15:52.000Z</updated>
+        <summary type="html"><![CDATA[The integration gives DeFi protocols direct access to institutional-grade order book, spot, and futures data from the largest US crypto exchange.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple Partners with Singapore's Central Bank on Cross-Border Settlement Infra for Trade Finance]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ripple-partners-with-singapore-mas-on-cross-border-settlement-infra</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ripple-partners-with-singapore-mas-on-cross-border-settlement-infra"/>
+        <updated>2026-03-25T17:01:08.000Z</updated>
+        <summary type="html"><![CDATA[The pilot is part of a broader MAS initiative to extend settlement capabilities using tokenized bank liabilities and regulated stablecoins.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whop Treasury launches with Aave, Plasma, and Veda integrations: Whop]]></title>
+        <id>https://thedefiant.io/news/defi/whop-treasury-aave-launch-dkmju5</id>
+        <link href="https://thedefiant.io/news/defi/whop-treasury-aave-launch-dkmju5"/>
+        <updated>2026-03-25T16:32:11.000Z</updated>
+        <summary type="html"><![CDATA[E-commerce platform Whop has launched its Treasury feature, enabling creators to earn yield directly on balances through integrations with Aave, Plasma, and Veda.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitMine Launches Proprietary Ethereum Validator Network MAVAN]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan</id>
@@ -23,6 +53,16 @@
         <summary type="html"><![CDATA[An independent government review warned that crypto assets could channel foreign money into British politics.]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-USD stablecoin supply surges 3x in latest research: Dune and Visa]]></title>
+        <id>https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2</id>
+        <link href="https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2"/>
+        <updated>2026-03-25T13:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Dune and Visa released research showing non-USD stablecoins growing dramatically, with holder addresses jumping 30x and monthly transfer volume hitting $10B.]]></summary>
+        <author>
+            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
@@ -800,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr</id>
         <link href="https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr"/>
         <updated>2026-03-15T07:16:12.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation completed a $10.2 million over-the-counter sale of 5,000 ETH to BitMine at $2,042.96 per token as part of treasury management.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum Foundation has completed an over-the-counter sale of 5,000 ETH to BitMine Immersion Technologies for $10.2 million, priced at $2,042.96 per token. The OTC transaction represents a strategic move by the foundation to manage its treasury and fund ongoing operations and ecosystem development initiatives.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9</id>
         <link href="https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9"/>
         <updated>2026-03-14T01:02:03.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited Crypto Clarity Act is unlikely to advance through the Senate Banking Committee before April, according to Senator John Thune. The delay stems from ongoing disagreements between banks and stablecoin issuers over key legislative provisions, per reporting from The Block.]]></summary>
+        <summary type="html"><![CDATA[Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[BSC recently became the largest network by registered AI agents using the ERC-8004 standard, while on-chain agent activity in the ecosystem is also rising.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Backs Ark Labs to Bring Stablecoins Back to Bitcoin]]></title>
-        <id>https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin</id>
-        <link href="https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin"/>
-        <updated>2026-03-12T17:57:09.000Z</updated>
-        <summary type="html"><![CDATA[The strategic investment is the latest in a string of Bitcoin infrastructure bets by the stablecoin giant.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Launches Staked Ethereum ETF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb"/>
-        <updated>2026-03-12T17:41:09.000Z</updated>
-        <summary type="html"><![CDATA[The TradFi giant's iShares Staked Ethereum Trust ETF is its first yield-bearing exchange-traded product.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Proposes Replacing 7-Day sUSDe Unstaking Period With Dynamic Cooldown]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown</id>
-        <link href="https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown"/>
-        <updated>2026-03-12T17:35:56.000Z</updated>
-        <summary type="html"><![CDATA[As perpetual futures positions shrink to just 11% of USDe's backing, the protocol argues its unstaking delay no longer reflects the liquidity available to meet redemptions.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Launches Sweeping Review of Prediction Markets]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets"/>
-        <updated>2026-03-12T17:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The agency issued an advance rulemaking notice and a staff advisory encouraging innovation.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

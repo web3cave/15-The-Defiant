@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink",
+          "author": "yyctrader",
+          "description": "The integration gives DeFi protocols direct access to institutional-grade order book, spot, and futures data from the largest US crypto exchange.",
+          "link": "https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink",
+          "publishedOn": "2026-03-25T17:15:52.000Z",
+          "wordCount": 4610,
+          "title": "Coinbase Brings Exchange Data Onchain via Chainlink's DataLink",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774459150973-png-70c4b9e8-7539-4a1d-a29d-3a42b048c412.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774459150973-png-70c4b9e8-7539-4a1d-a29d-3a42b048c412.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ripple-partners-with-singapore-mas-on-cross-border-settlement-infra",
+          "author": "DefAInt",
+          "description": "The pilot is part of a broader MAS initiative to extend settlement capabilities using tokenized bank liabilities and regulated stablecoins.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-partners-with-singapore-mas-on-cross-border-settlement-infra",
+          "publishedOn": "2026-03-25T17:01:08.000Z",
+          "wordCount": 4880,
+          "title": "Ripple Partners with Singapore's Central Bank on Cross-Border Settlement Infra for Trade Finance",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/gen-block-jpg-003eacd0-a8c3-4386-9c7d-e435df6e722f.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/gen-block-jpg-003eacd0-a8c3-4386-9c7d-e435df6e722f.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/whop-treasury-aave-launch-dkmju5",
+          "author": "DefAInt",
+          "description": "E-commerce platform Whop has launched its Treasury feature, enabling creators to earn yield directly on balances through integrations with Aave, Plasma, and Veda.",
+          "link": "https://thedefiant.io/news/defi/whop-treasury-aave-launch-dkmju5",
+          "publishedOn": "2026-03-25T16:32:11.000Z",
+          "wordCount": 4375,
+          "title": "Whop Treasury launches with Aave, Plasma, and Veda integrations: Whop",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/275cf6ed77b49cb5db5c2c8d1ddc2ca021803b17-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/275cf6ed77b49cb5db5c2c8d1ddc2ca021803b17-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan",
           "author": "DefAInt",
           "description": "Tom Lee's firm is the largest public holder of ETH, and the second largest digital asset treasury company.",
@@ -34,6 +79,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774453040175-png-473da63b-19e5-4d83-9813-a8fd8c1b9a74.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2",
+          "author": "DefAInt",
+          "description": "Dune and Visa released research showing non-USD stablecoins growing dramatically, with holder addresses jumping 30x and monthly transfer volume hitting $10B.",
+          "link": "https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2",
+          "publishedOn": "2026-03-25T13:31:59.000Z",
+          "wordCount": 4373,
+          "title": "Non-USD stablecoin supply surges 3x in latest research: Dune and Visa",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2542e4600eebd8e83b7b5c539828e677f025680c-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2542e4600eebd8e83b7b5c539828e677f025680c-1792x1024.jpg"
         },
         {
           "id": "https://thedefiant.io/news/markets/bittensor-subnet-tokens-surge-as-tao-rally-boosts-ecosystem",
@@ -1193,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr",
           "author": "DefAInt",
-          "description": "The Ethereum Foundation completed a $10.2 million over-the-counter sale of 5,000 ETH to BitMine at $2,042.96 per token as part of treasury management.",
+          "description": "The Ethereum Foundation has completed an over-the-counter sale of 5,000 ETH to BitMine Immersion Technologies for $10.2 million, priced at $2,042.96 per token. The OTC transaction represents a strategic move by the foundation to manage its treasury and fund ongoing operations and ecosystem development initiatives.",
           "link": "https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr",
           "publishedOn": "2026-03-15T07:16:12.000Z",
           "wordCount": 4379,
@@ -1253,7 +1313,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
           "author": "DefAInt",
-          "description": "The long-awaited Crypto Clarity Act is unlikely to advance through the Senate Banking Committee before April, according to Senator John Thune. The delay stems from ongoing disagreements between banks and stablecoin issuers over key legislative provisions, per reporting from The Block.",
+          "description": "Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.",
           "link": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
           "publishedOn": "2026-03-14T01:02:03.000Z",
           "wordCount": 4369,
@@ -1444,66 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/virtuals-update2-png-feeee093-8165-418d-b5b7-59bffab2929b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin",
-          "author": "yyctrader",
-          "description": "The strategic investment is the latest in a string of Bitcoin infrastructure bets by the stablecoin giant.",
-          "link": "https://thedefiant.io/news/defi/tether-backs-ark-labs-to-bring-stablecoins-back-to-bitcoin",
-          "publishedOn": "2026-03-12T17:57:09.000Z",
-          "wordCount": 4494,
-          "title": "Tether Backs Ark Labs to Bring Stablecoins Back to Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773339206402-png-51fdd99b-001d-4803-b3ab-3ed7ea182889.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773339206402-png-51fdd99b-001d-4803-b3ab-3ed7ea182889.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb",
-          "author": "DefAInt",
-          "description": "The TradFi giant's iShares Staked Ethereum Trust ETF is its first yield-bearing exchange-traded product.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-launches-staked-ethereum-etf-ethb",
-          "publishedOn": "2026-03-12T17:41:09.000Z",
-          "wordCount": 4816,
-          "title": "BlackRock Launches Staked Ethereum ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-cogs-jpg-b0b0e94a-1e24-4a3c-b225-984c8d628bd5.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-cogs-jpg-b0b0e94a-1e24-4a3c-b225-984c8d628bd5.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown",
-          "author": "yyctrader",
-          "description": "As perpetual futures positions shrink to just 11% of USDe's backing, the protocol argues its unstaking delay no longer reflects the liquidity available to meet redemptions.",
-          "link": "https://thedefiant.io/news/defi/ethena-proposes-replacing-7-day-susde-unstaking-period-with-dynamic-cooldown",
-          "publishedOn": "2026-03-12T17:35:56.000Z",
-          "wordCount": 4765,
-          "title": "Ethena Proposes Replacing 7-Day sUSDe Unstaking Period With Dynamic Cooldown",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773337369010-png-5ea2942e-d672-406a-a8de-23d568df0a6e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773337369010-png-5ea2942e-d672-406a-a8de-23d568df0a6e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets",
-          "author": "yyctrader",
-          "description": "The agency issued an advance rulemaking notice and a staff advisory encouraging innovation.",
-          "link": "https://thedefiant.io/news/regulation/cftc-launches-sweeping-review-of-prediction-markets",
-          "publishedOn": "2026-03-12T17:04:31.000Z",
-          "wordCount": 5214,
-          "title": "CFTC Launches Sweeping Review of Prediction Markets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773335075503-png-d3540635-0dd9-4999-b088-802cd3cc6203.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773335075503-png-d3540635-0dd9-4999-b088-802cd3cc6203.png"
         }
       ]
     }
