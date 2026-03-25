@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse",
+          "author": "yyctrader",
+          "description": "Spot BTC ETFs had $74 million in outflows on Tuesday as traders await Friday's PCE data.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse",
+          "publishedOn": "2026-03-25T20:16:56.000Z",
+          "wordCount": 4605,
+          "title": "Bitcoin Holds $71K as ETF Flows Reverse",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774469927243-png-3bf9213e-7d41-4d4c-867e-dee6beb3e3c7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774469927243-png-3bf9213e-7d41-4d4c-867e-dee6beb3e3c7.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy",
           "author": "yyctrader",
           "description": "The Sky-backed stablecoin incubator's inaugural class of eight projects marks the protocol's biggest push yet to diversify beyond crypto-native yield sources.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3",
           "author": "DefAInt",
-          "description": "Aave is rolling out a new protective feature called 'Aave Shield' after a trader lost $50 million swapping USDT for AAVE due to illiquid market conditions.",
+          "description": "Aave announced the launch of 'Aave Shield,' a new protective measure, following a $50 million loss suffered by a trader during a token swap. In a post-mortem analysis, Aave clarified that the loss was caused not by slippage but by illiquid market conditions that decimated the trade's execution price when the trader swapped USDT for AAVE tokens.",
           "link": "https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3",
           "publishedOn": "2026-03-16T01:15:47.000Z",
           "wordCount": 4455,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt",
           "author": "DefAInt",
-          "description": "Spark Protocol is moving to reactivate Wrapped Bitcoin (WBTC) collateral support on SparkLend and expand its liquidity layer infrastructure, according to a proposal published Monday. The changes include re-enabling WBTC collateral functionality, adding USDT and USDT transfer asset rate limits to Anchorage, and onboarding a Uniswap v4 USDT/USDS pool. The proposal also covers Spark Treasury grants for Q2 2026.",
+          "description": "The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.",
           "link": "https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt",
           "publishedOn": "2026-03-16T00:45:52.000Z",
           "wordCount": 4508,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773355658328-png-f11097ce-bae1-4721-ae01-55fb71b3d294.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles",
-          "author": "Camila Russo",
-          "description": "The pioneering Web3 attendance protocol will stop onboarding new issuers on March 16, as its team turns its attention to building open infrastructure for digital collectibles.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles",
-          "publishedOn": "2026-03-12T21:12:55.000Z",
-          "wordCount": 5717,
-          "title": "POAP Moves to Maintenance Mode as Founders Eye Next Generation of Digital Collectibles",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/poap-jpg-a91bf118-bfbe-4152-ba22-93b5bab17145.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/poap-jpg-a91bf118-bfbe-4152-ba22-93b5bab17145.jpg"
         }
       ]
     }

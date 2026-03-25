@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T19:37:28.883Z</id>
+    <id>urn:2026-03-25T20:26:26.371Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T19:37:28.883Z</updated>
+    <updated>2026-03-25T20:26:26.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Holds $71K as ETF Flows Reverse]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse"/>
+        <updated>2026-03-25T20:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Spot BTC ETFs had $74 million in outflows on Tuesday as traders await Friday's PCE data.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Obex Starts Deploying $1B in USDS Into Mortgages, AI Hardware, and Solar Energy]]></title>
         <id>https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3</id>
         <link href="https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3"/>
         <updated>2026-03-16T01:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Aave is rolling out a new protective feature called 'Aave Shield' after a trader lost $50 million swapping USDT for AAVE due to illiquid market conditions.]]></summary>
+        <summary type="html"><![CDATA[Aave announced the launch of 'Aave Shield,' a new protective measure, following a $50 million loss suffered by a trader during a token swap. In a post-mortem analysis, Aave clarified that the loss was caused not by slippage but by illiquid market conditions that decimated the trade's execution price when the trader swapped USDT for AAVE tokens.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt</id>
         <link href="https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt"/>
         <updated>2026-03-16T00:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Spark Protocol is moving to reactivate Wrapped Bitcoin (WBTC) collateral support on SparkLend and expand its liquidity layer infrastructure, according to a proposal published Monday. The changes include re-enabling WBTC collateral functionality, adding USDT and USDT transfer asset rate limits to Anchorage, and onboarding a Uniswap v4 USDT/USDS pool. The proposal also covers Spark Treasury grants for Q2 2026.]]></summary>
+        <summary type="html"><![CDATA[The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BTC, ETH, and major altcoins are mostly unchanged over the past 24 hours.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POAP Moves to Maintenance Mode as Founders Eye Next Generation of Digital Collectibles]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/poap-moves-to-maintenance-mode-as-founders-eye-next-generation-of-digital-collectibles"/>
-        <updated>2026-03-12T21:12:55.000Z</updated>
-        <summary type="html"><![CDATA[The pioneering Web3 attendance protocol will stop onboarding new issuers on March 16, as its team turns its attention to building open infrastructure for digital collectibles.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
