@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T17:48:59.774Z</id>
+    <id>urn:2026-03-25T18:40:04.923Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T17:48:59.774Z</updated>
+    <updated>2026-03-25T18:40:04.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Obex Starts Deploying $1B in USDS Into Mortgages, AI Hardware, and Solar Energy]]></title>
+        <id>https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy</id>
+        <link href="https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy"/>
+        <updated>2026-03-25T18:33:33.000Z</updated>
+        <summary type="html"><![CDATA[The Sky-backed stablecoin incubator's inaugural class of eight projects marks the protocol's biggest push yet to diversify beyond crypto-native yield sources.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Tokenizes Five Franklin Templeton ETFs]]></title>
+        <id>https://thedefiant.io/news/defi/ondo-tokenizes-five-franklin-templeton-etfs</id>
+        <link href="https://thedefiant.io/news/defi/ondo-tokenizes-five-franklin-templeton-etfs"/>
+        <updated>2026-03-25T18:07:42.000Z</updated>
+        <summary type="html"><![CDATA[The partnership brings growth, large-cap, fixed income, equity income, and gold ETFs onchain through Ondo Global Markets.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Brings Exchange Data Onchain via Chainlink's DataLink]]></title>
         <id>https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink</id>
@@ -53,6 +73,16 @@
         <summary type="html"><![CDATA[An independent government review warned that crypto assets could channel foreign money into British politics.]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Association urges SEC to treat DeFi as infrastructure, not intermediary: Blockchain Association]]></title>
+        <id>https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx</id>
+        <link href="https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx"/>
+        <updated>2026-03-25T15:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Summer Mersinger from the Blockchain Association told a House Financial Services Committee hearing that DeFi systems should receive tailored regulatory treatment distinct from intermediary-based compliance regimes.]]></summary>
+        <author>
+            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt</id>
         <link href="https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt"/>
         <updated>2026-03-16T00:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.]]></summary>
+        <summary type="html"><![CDATA[Spark Protocol is moving to reactivate Wrapped Bitcoin (WBTC) collateral support on SparkLend and expand its liquidity layer infrastructure, according to a proposal published Monday. The changes include re-enabling WBTC collateral functionality, adding USDT and USDT transfer asset rate limits to Anchorage, and onboarding a Uniswap v4 USDT/USDS pool. The proposal also covers Spark Treasury grants for Q2 2026.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr</id>
         <link href="https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr"/>
         <updated>2026-03-15T07:16:12.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation has completed an over-the-counter sale of 5,000 ETH to BitMine Immersion Technologies for $10.2 million, priced at $2,042.96 per token. The OTC transaction represents a strategic move by the foundation to manage its treasury and fund ongoing operations and ecosystem development initiatives.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum Foundation completed a $10.2 million over-the-counter sale of 5,000 ETH to BitMine at $2,042.96 per token as part of treasury management.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The pioneering Web3 attendance protocol will stop onboarding new issuers on March 16, as its team turns its attention to building open infrastructure for digital collectibles.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whale Swaps $50 Million in Stablecoins for Just $36,000 of AAVE]]></title>
-        <id>https://thedefiant.io/news/defi/whale-swaps-usd50-million-in-stablecoins-for-just-usd36-000-of-aave</id>
-        <link href="https://thedefiant.io/news/defi/whale-swaps-usd50-million-in-stablecoins-for-just-usd36-000-of-aave"/>
-        <updated>2026-03-12T21:02:55.000Z</updated>
-        <summary type="html"><![CDATA[The massive transaction routed through CowSwap on Ethereum resulted in a 99.9% loss.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puffer Teams Up With Anchorage to Bring Ethereum Restaking to Institutions]]></title>
-        <id>https://thedefiant.io/news/defi/puffer-teams-up-with-anchorage-to-bring-ethereum-restaking-to-institutions</id>
-        <link href="https://thedefiant.io/news/defi/puffer-teams-up-with-anchorage-to-bring-ethereum-restaking-to-institutions"/>
-        <updated>2026-03-12T19:43:12.000Z</updated>
-        <summary type="html"><![CDATA[With the restaking sector in a slump, the protocol is betting that institutional distribution can reignite growth.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain Overtakes Ethereum, Base by Number of AI Agents]]></title>
-        <id>https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents</id>
-        <link href="https://thedefiant.io/news/defi/bnb-smart-chain-becomes-home-to-most-erc-8004-ai-agents"/>
-        <updated>2026-03-12T18:50:45.000Z</updated>
-        <summary type="html"><![CDATA[BSC recently became the largest network by registered AI agents using the ERC-8004 standard, while on-chain agent activity in the ecosystem is also rising.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>
