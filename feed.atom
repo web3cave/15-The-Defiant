@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T15:57:15.976Z</id>
+    <id>urn:2026-03-25T16:55:51.196Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T15:57:15.976Z</updated>
+    <updated>2026-03-25T16:55:51.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BitMine Launches Proprietary Ethereum Validator Network MAVAN]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan"/>
+        <updated>2026-03-25T16:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Tom Lee's firm is the largest public holder of ETH, and the second largest digital asset treasury company.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK Bans Crypto Donations to Political Parties, Citing Foreign Interference Risk]]></title>
         <id>https://thedefiant.io/news/regulation/uk-bans-crypto-donations-to-political-parties</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9</id>
         <link href="https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9"/>
         <updated>2026-03-14T01:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.]]></summary>
+        <summary type="html"><![CDATA[The long-awaited Crypto Clarity Act is unlikely to advance through the Senate Banking Committee before April, according to Senator John Thune. The delay stems from ongoing disagreements between banks and stablecoin issuers over key legislative provisions, per reporting from The Block.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The agency issued an advance rulemaking notice and a staff advisory encouraging innovation.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Launches Its First Stablecoin Vault]]></title>
-        <id>https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault</id>
-        <link href="https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault"/>
-        <updated>2026-03-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new product, EarnUSD, lets users earn yield on their USDC and USDT.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
