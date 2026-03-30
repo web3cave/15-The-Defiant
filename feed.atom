@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T17:41:46.750Z</id>
+    <id>urn:2026-03-30T18:42:38.368Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T17:41:46.750Z</updated>
+    <updated>2026-03-30T18:42:38.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Valinor Raises $25M Seed Round to Bring Private Credit Onchain]]></title>
+        <id>https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain</id>
+        <link href="https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain"/>
+        <updated>2026-03-30T18:27:54.000Z</updated>
+        <summary type="html"><![CDATA[The ex-Blackstone team wants to move beyond crypto-collateralized loans and into ‘real economy credit’ as the tokenized RWA sector continues to grow.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave V4 Launches on Ethereum Mainnet]]></title>
         <id>https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1</id>
         <link href="https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1"/>
         <updated>2026-03-17T13:52:16.000Z</updated>
-        <summary type="html"><![CDATA[The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q</id>
         <link href="https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q"/>
         <updated>2026-03-17T13:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b"/>
         <updated>2026-03-16T03:30:42.000Z</updated>
         <summary type="html"><![CDATA[BlockFills has filed for Chapter 11 bankruptcy in the US after suspending deposits and withdrawals last month amid poor market conditions.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave launches 'Aave Shield' following $50M token swap loss: Aave]]></title>
-        <id>https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3</id>
-        <link href="https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3"/>
-        <updated>2026-03-16T01:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Aave is rolling out a new protective feature called 'Aave Shield' after a trader lost $50 million swapping USDT for AAVE due to illiquid market conditions.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
