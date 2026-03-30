@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T15:57:59.986Z</id>
+    <id>urn:2026-03-30T16:51:42.486Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T15:57:59.986Z</updated>
+    <updated>2026-03-30T16:51:42.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Metals.io Brings Tokenized Gold, Uranium, and Rare Earth Metals to Tezos]]></title>
+        <id>https://thedefiant.io/news/blockchains/metals-io-brings-tokenized-gold-uranium-and-rare-earth-metals-to-tezos</id>
+        <link href="https://thedefiant.io/news/blockchains/metals-io-brings-tokenized-gold-uranium-and-rare-earth-metals-to-tezos"/>
+        <updated>2026-03-30T16:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Built by Tezos R&D hub Trilitech, the new web app brings tokenized rare earth metals on-chain alongside gold and uranium as AI-driven industrial demand intensifies.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gnosis and Zisk Unveil 'Ethereum Economic Zone' Framework]]></title>
         <id>https://thedefiant.io/news/blockchains/gnosis-and-zisk-unveil-ethereum-economic-zone-framework</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc"/>
         <updated>2026-03-17T12:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Cari Network is building a bank-governed tokenized deposit platform on ZKsync's Prividium stack, offering US regional lenders an onchain payments rail with stablecoin-like speed and transferability.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu</id>
         <link href="https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu"/>
         <updated>2026-03-17T11:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt"/>
         <updated>2026-03-16T00:45:52.000Z</updated>
         <summary type="html"><![CDATA[The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venus Protocol exploited for $3.7M through supply cap manipulation: On-chain analysis]]></title>
-        <id>https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly</id>
-        <link href="https://thedefiant.io/news/hacks/venus-protocol-3-7m-supply-cap-exploit-6072ly"/>
-        <updated>2026-03-15T19:46:12.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor bypassed Venus Protocol's supply caps using Thena tokens to borrow multiple assets in what analysts suspect was a flash loan or price manipulation attack on BNB Chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
