@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack",
+          "author": "yyctrader",
+          "description": "The DeFi curator says existing deposits and smart contracts are unaffected, but asked users to avoid the platform until the front-end is restored.",
+          "link": "https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack",
+          "publishedOn": "2026-03-30T18:55:26.000Z",
+          "wordCount": null,
+          "title": "Steakhouse Financial Warns Users of Phishing Attack",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774897076925-png-b394a236-1566-4d34-9c50-a2a113accdd3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774897076925-png-b394a236-1566-4d34-9c50-a2a113accdd3.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain",
           "author": "yyctrader",
           "description": "The ex-Blackstone team wants to move beyond crypto-collateralized loans and into ‘real economy credit’ as the tokenized RWA sector continues to grow.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
           "author": "DefAInt",
-          "description": "The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.",
+          "description": "",
           "link": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
           "publishedOn": "2026-03-17T14:15:49.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1",
           "author": "DefAInt",
-          "description": "",
+          "description": "The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.",
           "link": "https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1",
           "publishedOn": "2026-03-17T13:52:16.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5ea377486cd99ad51b0fb5af43c05ea071f8b143-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b",
-          "author": "DefAInt",
-          "description": "BlockFills has filed for Chapter 11 bankruptcy in the US after suspending deposits and withdrawals last month amid poor market conditions.",
-          "link": "https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b",
-          "publishedOn": "2026-03-16T03:30:42.000Z",
-          "wordCount": null,
-          "title": "Crypto lender BlockFills files for Chapter 11 bankruptcy: BlockFills",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/29dee95b42a36a2f6547f282ac20c124edaa5f1b-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/29dee95b42a36a2f6547f282ac20c124edaa5f1b-1792x1024.jpg"
         }
       ]
     }

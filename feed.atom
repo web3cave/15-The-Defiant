@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T18:42:38.368Z</id>
+    <id>urn:2026-03-30T19:45:01.181Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T18:42:38.368Z</updated>
+    <updated>2026-03-30T19:45:01.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Steakhouse Financial Warns Users of Phishing Attack]]></title>
+        <id>https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack</id>
+        <link href="https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack"/>
+        <updated>2026-03-30T18:55:26.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi curator says existing deposits and smart contracts are unaffected, but asked users to avoid the platform until the front-end is restored.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valinor Raises $25M Seed Round to Bring Private Credit Onchain]]></title>
         <id>https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
         <link href="https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk"/>
         <updated>2026-03-17T14:15:49.000Z</updated>
-        <summary type="html"><![CDATA[The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1</id>
         <link href="https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1"/>
         <updated>2026-03-17T13:52:16.000Z</updated>
+        <summary type="html"><![CDATA[The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/defi/synthetix-extends-susd-rewards-infinex-8-weeks-gsmgbs"/>
         <updated>2026-03-16T04:01:10.000Z</updated>
         <summary type="html"><![CDATA[Synthetix has extended its sUSD deposit rewards campaign on Infinex for 8 weeks, supporting peg stability as the protocol enters its mainnet public launch phase.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto lender BlockFills files for Chapter 11 bankruptcy: BlockFills]]></title>
-        <id>https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b</id>
-        <link href="https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b"/>
-        <updated>2026-03-16T03:30:42.000Z</updated>
-        <summary type="html"><![CDATA[BlockFills has filed for Chapter 11 bankruptcy in the US after suspending deposits and withdrawals last month amid poor market conditions.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
