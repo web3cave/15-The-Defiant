@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet",
+          "author": "yyctrader",
+          "description": "Announced at EthCC in Cannes, the upgrade enables institution-specific borrowing environments, structured credit products, and RWA-backed lending within a unified liquidity system.",
+          "link": "https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet",
+          "publishedOn": "2026-03-30T17:28:11.000Z",
+          "wordCount": null,
+          "title": "Aave V4 Launches on Ethereum Mainnet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774891694653-png-2a441de9-970c-40a5-867a-1ad3bceaa006.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774891694653-png-2a441de9-970c-40a5-867a-1ad3bceaa006.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/metals-io-brings-tokenized-gold-uranium-and-rare-earth-metals-to-tezos",
           "author": "yyctrader",
           "description": "Built by Tezos R&D hub Trilitech, the new web app brings tokenized rare earth metals on-chain alongside gold and uranium as AI-driven industrial demand intensifies.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q",
           "author": "DefAInt",
-          "description": "Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.",
+          "description": "",
           "link": "https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q",
           "publishedOn": "2026-03-17T13:17:20.000Z",
           "wordCount": null,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc",
           "author": "DefAInt",
-          "description": "",
+          "description": "Cari Network is building a bank-governed tokenized deposit platform on ZKsync's Prividium stack, offering US regional lenders an onchain payments rail with stablecoin-like speed and transferability.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc",
           "publishedOn": "2026-03-17T12:16:47.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1239273772a4173894b9fe5aed9662fce0b041f-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt",
-          "author": "DefAInt",
-          "description": "The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.",
-          "link": "https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt",
-          "publishedOn": "2026-03-16T00:45:52.000Z",
-          "wordCount": null,
-          "title": "Spark Protocol votes to reactivate WBTC collateral and expand liquidity layer: Sky Ecosystem",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37fadc84ead6ba4d245abaea2713b9323bf155da-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37fadc84ead6ba4d245abaea2713b9323bf155da-1792x1024.jpg"
         }
       ]
     }

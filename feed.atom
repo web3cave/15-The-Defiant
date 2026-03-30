@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T16:51:42.486Z</id>
+    <id>urn:2026-03-30T17:41:46.750Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T16:51:42.486Z</updated>
+    <updated>2026-03-30T17:41:46.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave V4 Launches on Ethereum Mainnet]]></title>
+        <id>https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet</id>
+        <link href="https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet"/>
+        <updated>2026-03-30T17:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Announced at EthCC in Cannes, the upgrade enables institution-specific borrowing environments, structured credit products, and RWA-backed lending within a unified liquidity system.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metals.io Brings Tokenized Gold, Uranium, and Rare Earth Metals to Tezos]]></title>
         <id>https://thedefiant.io/news/blockchains/metals-io-brings-tokenized-gold-uranium-and-rare-earth-metals-to-tezos</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q</id>
         <link href="https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q"/>
         <updated>2026-03-17T13:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc"/>
         <updated>2026-03-17T12:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Cari Network is building a bank-governed tokenized deposit platform on ZKsync's Prividium stack, offering US regional lenders an onchain payments rail with stablecoin-like speed and transferability.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3"/>
         <updated>2026-03-16T01:15:47.000Z</updated>
         <summary type="html"><![CDATA[Aave is rolling out a new protective feature called 'Aave Shield' after a trader lost $50 million swapping USDT for AAVE due to illiquid market conditions.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark Protocol votes to reactivate WBTC collateral and expand liquidity layer: Sky Ecosystem]]></title>
-        <id>https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt</id>
-        <link href="https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt"/>
-        <updated>2026-03-16T00:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
