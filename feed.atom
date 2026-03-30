@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T21:31:03.828Z</id>
+    <id>urn:2026-03-30T22:22:22.730Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-30T21:31:03.828Z</updated>
+    <updated>2026-03-30T22:22:22.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Rebounds to $67,000 as Iran De-Escalation Hopes Lift Risk Appetite]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd67-000-as-iran-de-escalation-hopes-lift-risk-appetite</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd67-000-as-iran-de-escalation-hopes-lift-risk-appetite"/>
+        <updated>2026-03-30T21:49:20.000Z</updated>
+        <summary type="html"><![CDATA[ETH gained 2% as BitMine extended its buying streak.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steakhouse Financial Warns Users of Phishing Attack]]></title>
         <id>https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing</id>
         <link href="https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing"/>
         <updated>2026-03-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
         <link href="https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk"/>
         <updated>2026-03-17T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap"/>
         <updated>2026-03-16T06:00:53.000Z</updated>
         <summary type="html"><![CDATA[The FATF's latest report pivots regulatory focus from deposit/withdrawal monitoring to tracking peer-to-peer transactions across personal wallets, with issuers now expected to freeze illicit assets on-chain.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetix extends sUSD rewards on Infinex for 8 weeks as mainnet launch approaches: Synthetix]]></title>
-        <id>https://thedefiant.io/news/defi/synthetix-extends-susd-rewards-infinex-8-weeks-gsmgbs</id>
-        <link href="https://thedefiant.io/news/defi/synthetix-extends-susd-rewards-infinex-8-weeks-gsmgbs"/>
-        <updated>2026-03-16T04:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Synthetix has extended its sUSD deposit rewards campaign on Infinex for 8 weeks, supporting peg stability as the protocol enters its mainnet public launch phase.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
