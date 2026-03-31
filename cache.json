@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot",
+          "author": "yyctrader",
+          "description": "Employees can elect to receive a portion of their salary in shares of WTGXX, earning yield from the day compensation is paid.",
+          "link": "https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot",
+          "publishedOn": "2026-03-31T17:03:45.000Z",
+          "wordCount": null,
+          "title": "Plume Turns Paychecks Into Yield-Bearing Assets in RWA Payroll Pilot",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774976938353-png-cd361485-183d-47be-9ad1-922123494e5f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774976938353-png-cd361485-183d-47be-9ad1-922123494e5f.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
+          "author": "yyctrader",
+          "description": "A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.",
+          "link": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
+          "publishedOn": "2026-03-31T16:39:17.000Z",
+          "wordCount": null,
+          "title": "Google Quantum AI Paper Rewrites Threat Timeline for Bitcoin, Ethereum Security",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd67-000-as-iran-de-escalation-hopes-lift-risk-appetite",
           "author": "yyctrader",
           "description": "ETH gained 2% as BitMine extended its buying streak.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/zec-rallies-20-after-cypherpunk-reports-first-annual-profit",
           "author": "Olivia Capozzalo",
-          "description": "The Winklevoss-backed Zcash treasury company reported $4.8 million in net income in 2025, driven by unrealized gains on its ZEC holdings.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/zec-rallies-20-after-cypherpunk-reports-first-annual-profit",
           "publishedOn": "2026-03-17T17:51:44.000Z",
           "wordCount": null,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
           "author": "DefAInt",
-          "description": "",
+          "description": "The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.",
           "link": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
           "publishedOn": "2026-03-17T15:00:00.000Z",
           "wordCount": null,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af2483f56b7169fdba87532a47b88bd71c0b311a-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/australian-senate-backs-crypto-regulation-framework-x9q2qh",
-          "author": "DefAInt",
-          "description": "Australia's Senate Economics Legislation Committee has endorsed proposed legislation to modernize the country's digital assets regulatory framework.",
-          "link": "https://thedefiant.io/news/regulation/australian-senate-backs-crypto-regulation-framework-x9q2qh",
-          "publishedOn": "2026-03-16T06:30:46.000Z",
-          "wordCount": null,
-          "title": "Australian Senate committee backs digital assets regulatory framework: Senate Economics Legislation Committee",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5aceba4e71faad4423e04183a2b08d4fe3d0813-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d5aceba4e71faad4423e04183a2b08d4fe3d0813-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap",
-          "author": "DefAInt",
-          "description": "The FATF's latest report pivots regulatory focus from deposit/withdrawal monitoring to tracking peer-to-peer transactions across personal wallets, with issuers now expected to freeze illicit assets on-chain.",
-          "link": "https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap",
-          "publishedOn": "2026-03-16T06:00:53.000Z",
-          "wordCount": null,
-          "title": "FATF shifts stablecoin oversight to secondary markets, expands monitoring beyond on- and off-ramps: Financial Action Task Force",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88a48e9553802f20da052e350888663bdaa0f348-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88a48e9553802f20da052e350888663bdaa0f348-1792x1024.jpg"
         }
       ]
     }
