@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T16:43:12.630Z</id>
+    <id>urn:2026-04-02T17:39:31.375Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-02T16:43:12.630Z</updated>
+    <updated>2026-04-02T17:39:31.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase's x402 Payment Protocol Moves to Linux Foundation With Backing From Google, Stripe, and Visa]]></title>
+        <id>https://thedefiant.io/news/infrastructure/coinbase-x402-payment-protocol-moves-to-linux-foundation</id>
+        <link href="https://thedefiant.io/news/infrastructure/coinbase-x402-payment-protocol-moves-to-linux-foundation"/>
+        <updated>2026-04-02T16:42:15.000Z</updated>
+        <summary type="html"><![CDATA[The open standard for embedding payments into HTTP interactions aims to become the settlement layer for AI agent commerce, with over 20 founding members spanning tech, payments and crypto.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Lets Traders Bet on Stocks, Gold, and Oil Via Pyth Integration]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge</id>
         <link href="https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge"/>
         <updated>2026-03-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero and Centrifuge are partnering to integrate Centrifuge's institutional tokenization infrastructure into the interoperability protocol’s ecosystem, according to a press release shared exclusively with The Defiant. The companies said that the deal aims to make access and distribution of tokenized real world asset (RWA) products broader with multichain reach from launch.]]></summary>
+        <summary type="html"><![CDATA[Centrifuge's largest tokenized fund, JTRSY, is among the first of its products to adopt LayerZero.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The SEC has issued an official interpretation clarifying the application of federal securities laws to crypto assets and transactions, marking a significant step in regulatory clarity for the industry.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyth Network Launches 24/7 Oil Index as Volatility Spikes Amid Iran Conflict]]></title>
-        <id>https://thedefiant.io/news/defi/pyth-network-launches-24-7-oil-index-as-volatility-spikes-amid-iran-conflict</id>
-        <link href="https://thedefiant.io/news/defi/pyth-network-launches-24-7-oil-index-as-volatility-spikes-amid-iran-conflict"/>
-        <updated>2026-03-17T18:53:53.000Z</updated>
-        <summary type="html"><![CDATA[The oracle network's new composite index blends institutional and onchain data sources to produce a constantly updated crude oil reference price.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
