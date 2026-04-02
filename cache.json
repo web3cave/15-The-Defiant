@@ -6,6 +6,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration",
+          "author": "yyctrader",
+          "description": "The integration launches with more than a dozen U.S. stocks, major equity indices, and commodity contracts resolved using Pyth's real-time price data.",
+          "link": "https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration",
+          "publishedOn": "2026-04-02T15:45:00.000Z",
+          "wordCount": 4788,
+          "title": "Polymarket Lets Traders Bet on Stocks, Gold, and Oil Via Pyth Integration",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775144987988-png-1d7671d5-0d40-4009-b135-9e9735e0bbd1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775144987988-png-1d7671d5-0d40-4009-b135-9e9735e0bbd1.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
+          "author": "DefAInt",
+          "description": "Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.",
+          "link": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
+          "publishedOn": "2026-04-02T14:02:13.000Z",
+          "wordCount": 4480,
+          "title": "Kraken launches opt-in rewards program for xStocks tokenized equities",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc3428bd5b0915c74c4c9bed34a744b6b7aa8350-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc3428bd5b0915c74c4c9bed34a744b6b7aa8350-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
+          "author": "DefAInt",
+          "description": "Ethereum's share of non-USD stablecoin supply has fallen from 90% in early 2023 to 65% as of February 2026, though it remains the primary issuance chain.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
+          "publishedOn": "2026-04-02T13:16:31.000Z",
+          "wordCount": 4471,
+          "title": "Ethereum's stablecoin dominance declines to 65% as other chains gain ground: Dune and Visa report",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad3bffbae778e48a10288cccafb510153aa0dbd0-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ad3bffbae778e48a10288cccafb510153aa0dbd0-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs",
+          "author": "DefAInt",
+          "description": "SoFi, a nationally chartered bank with 13.7M members and $50B+ in assets, launched an enterprise banking platform combining fiat and stablecoin services on Solana with 24/7 payment support.",
+          "link": "https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs",
+          "publishedOn": "2026-04-02T12:16:41.000Z",
+          "wordCount": 4572,
+          "title": "SoFi launches Big Business Banking platform on Solana: SoFi",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/73b84b9db6a0a5b1ac8e9c86c6ef00406a3baf0e-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73b84b9db6a0a5b1ac8e9c86c6ef00406a3baf0e-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7",
+          "author": "DefAInt",
+          "description": "Paradigm is building a prediction markets trading terminal aimed at professional traders and market makers, with partner Arjun Balaji leading the effort since late 2025.",
+          "link": "https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7",
+          "publishedOn": "2026-04-02T10:32:03.000Z",
+          "wordCount": 4525,
+          "title": "Paradigm develops prediction markets trading terminal for pro traders: Fortune",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/889f04d9b2311b59ceb9195777d299f46f3ba638-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/889f04d9b2311b59ceb9195777d299f46f3ba638-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-reclaims-usd68-000-as-iran-ceasefire-hopes-fuel-risk-on-rally",
           "author": "yyctrader",
           "description": "Crypto markets rose as oil prices retreated under $100 a barrel on growing expectations that the conflict could wind down within weeks.",
@@ -1178,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge",
           "author": "DefAInt",
-          "description": "Centrifuge's largest tokenized fund, JTRSY, is among the first of its products to adopt LayerZero.",
+          "description": "LayerZero and Centrifuge are partnering to integrate Centrifuge's institutional tokenization infrastructure into the interoperability protocol’s ecosystem, according to a press release shared exclusively with The Defiant. The companies said that the deal aims to make access and distribution of tokenized real world asset (RWA) products broader with multichain reach from launch.",
           "link": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-centrifuge",
           "publishedOn": "2026-03-19T16:00:00.000Z",
           "wordCount": 5338,
@@ -1429,81 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pythoil-1-png-3c7d48b5-d198-4f32-aa9e-f6ffe6846212.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/zec-rallies-20-after-cypherpunk-reports-first-annual-profit",
-          "author": "Olivia Capozzalo",
-          "description": "The Winklevoss-backed Zcash treasury company reported $4.8 million in net income in 2025, driven by unrealized gains on its ZEC holdings.",
-          "link": "https://thedefiant.io/news/markets/zec-rallies-20-after-cypherpunk-reports-first-annual-profit",
-          "publishedOn": "2026-03-17T17:51:44.000Z",
-          "wordCount": 5254,
-          "title": "ZEC Rallies 20% After Cypherpunk Reports First Annual Profit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/up-city-jpg-35fcc0d6-11b4-4691-9e95-85ea63370b3a.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/up-city-jpg-35fcc0d6-11b4-4691-9e95-85ea63370b3a.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration",
-          "author": "yyctrader",
-          "description": "The popular Solana wallet can now partner with registered exchanges to offer in-app access to derivatives and event contracts without registering as a broker.",
-          "link": "https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration",
-          "publishedOn": "2026-03-17T17:48:59.000Z",
-          "wordCount": 4461,
-          "title": "CFTC Clears Phantom to Offer Derivatives Trading Without Broker Registration",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773769978277-png-319bb7a6-36f6-45a1-9e86-e0ad35968876.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773769978277-png-319bb7a6-36f6-45a1-9e86-e0ad35968876.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
-          "author": "DefAInt",
-          "description": "The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.",
-          "link": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
-          "publishedOn": "2026-03-17T15:00:00.000Z",
-          "wordCount": 5297,
-          "title": "World Launches AgentKit to Let AI Agents Carry Proof of Human Backing",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/world-agent-kit-jpg-b6babae8-f917-4019-b29d-99f892d10cd2.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/world-agent-kit-jpg-b6babae8-f917-4019-b29d-99f892d10cd2.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
-          "author": "DefAInt",
-          "description": "The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.",
-          "link": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
-          "publishedOn": "2026-03-17T14:15:49.000Z",
-          "wordCount": 4825,
-          "title": "Mastercard to Acquire Stablecoin Infra Firm BVNK for up to $1.8 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/infra-jpg-5981e8d3-5ff9-422e-ae15-e19989eaf403.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/infra-jpg-5981e8d3-5ff9-422e-ae15-e19989eaf403.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1",
-          "author": "DefAInt",
-          "description": "The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.",
-          "link": "https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1",
-          "publishedOn": "2026-03-17T13:52:16.000Z",
-          "wordCount": 5187,
-          "title": "Aster Launches Privacy-Focused Layer 1",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/aster-jpg-bb8b4cb0-cbbd-4af4-bd19-fe2550742a0b.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/aster-jpg-bb8b4cb0-cbbd-4af4-bd19-fe2550742a0b.jpg"
         }
       ]
     }
