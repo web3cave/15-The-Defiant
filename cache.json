@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report",
+          "author": "Olivia Capozzalo",
+          "description": "The International Monetary Fund also warns that the distribution and speed of on-chain transactions bring new challenges and risks that require international coordination.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report",
+          "publishedOn": "2026-04-03T17:21:47.000Z",
+          "wordCount": 5357,
+          "title": "IMF Says Tokenization Is a 'Structural Shift' in Finance, Not Just a Tech Upgrade",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/gen-block-jpg-30367ddf-d725-4c41-9c0c-55238b52c008.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/gen-block-jpg-30367ddf-d725-4c41-9c0c-55238b52c008.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-gets-conditional-approval-from-occ-for-federal-trust",
           "author": "DefAInt",
           "description": "Coinbase got conditional approval from the OCC for its trust, a step toward federal oversight for its offerings to replace the current state by state licensing approach.",
@@ -236,7 +251,7 @@
           "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
-          "wordCount": 4487,
+          "wordCount": 4488,
           "title": "Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cdb01f4457cc2b8a70ea6d0944e7ff2f249b98d-1792x1024.jpg",
@@ -596,7 +611,7 @@
           "description": "Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff",
           "publishedOn": "2026-03-26T18:26:51.000Z",
-          "wordCount": 4407,
+          "wordCount": 4417,
           "title": "Bitcoin Slides Below $69,000 as Iran Stalemate Fuels Global Selloff",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months",
           "author": "Olivia Capozzalo",
-          "description": "The deal doubles the valuation from Kalshi's previous round in November.",
+          "description": "CFTC-regulated prediction market platform Kalshi is raising around $1 billion at a $22 billion valuation in a new funding round, according to reports from multiple reports. The new round is led by Coatue Management, according to the The Wall Street Journal, which first reported the news on Thursday. March 19.",
           "link": "https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months",
           "publishedOn": "2026-03-20T16:37:24.000Z",
           "wordCount": 5171,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/layer-1-jpg-c5f17d6b-d45a-43b9-a340-88c4e59e49f8.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn",
-          "author": "DefAInt",
-          "description": "Kraken Pro has rolled out its largest single margin leverage expansion, adding support across 44 trading pairs including stablecoins, gold tokens, BTC and ETH regional pairs, mid-cap assets, and DeFi blue-chips.",
-          "link": "https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn",
-          "publishedOn": "2026-03-18T12:31:22.000Z",
-          "wordCount": 4555,
-          "title": "Kraken Pro expands margin trading to 44 pairs in largest leverage expansion: Kraken",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f90e409b89b83c7cf9e0675fe017dee4c33c666-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f90e409b89b83c7cf9e0675fe017dee4c33c666-1792x1024.jpg"
         }
       ]
     }

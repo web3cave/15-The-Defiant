@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-03T17:23:10.951Z</id>
+    <id>urn:2026-04-03T18:30:53.050Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-03T17:23:10.951Z</updated>
+    <updated>2026-04-03T18:30:53.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IMF Says Tokenization Is a 'Structural Shift' in Finance, Not Just a Tech Upgrade]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report"/>
+        <updated>2026-04-03T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[The International Monetary Fund also warns that the distribution and speed of on-chain transactions bring new challenges and risks that require international coordination.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Joins Crypto Bank Trust Wave, Landing Conditional Approval From the OCC]]></title>
         <id>https://thedefiant.io/news/cefi/coinbase-gets-conditional-approval-from-occ-for-federal-trust</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months</id>
         <link href="https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months"/>
         <updated>2026-03-20T16:37:24.000Z</updated>
-        <summary type="html"><![CDATA[The deal doubles the valuation from Kalshi's previous round in November.]]></summary>
+        <summary type="html"><![CDATA[CFTC-regulated prediction market platform Kalshi is raising around $1 billion at a $22 billion valuation in a new funding round, according to reports from multiple reports. The new round is led by Coatue Management, according to the The Wall Street Journal, which first reported the news on Thursday. March 19.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/tempo-launches-mainnet-unveils-machine-payments-protocol-with-stripe"/>
         <updated>2026-03-18T14:10:37.000Z</updated>
         <summary type="html"><![CDATA[The payments-focused L1 launches with a slew of fintech and TradFi partners, while MPP is aimed at enabling agentic commerce.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Pro expands margin trading to 44 pairs in largest leverage expansion: Kraken]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-pro-margin-expansion-44-pairs-5l1hxn"/>
-        <updated>2026-03-18T12:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Kraken Pro has rolled out its largest single margin leverage expansion, adding support across 44 trading pairs including stablecoins, gold tokens, BTC and ETH regional pairs, mid-cap assets, and DeFi blue-chips.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
