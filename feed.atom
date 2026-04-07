@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T16:02:09.624Z</id>
+    <id>urn:2026-04-07T17:46:18.755Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-07T16:02:09.624Z</updated>
+    <updated>2026-04-07T17:46:18.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jupiter Launches Token Verification API for Launchpads, Agents]]></title>
+        <id>https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api</id>
+        <link href="https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api"/>
+        <updated>2026-04-07T16:47:11.000Z</updated>
+        <summary type="html"><![CDATA[The new tool from the Solana-based DEX aggregator lets DEXs, launchpads, and AI agents build verification into their token creation flows.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fintech Transcend Connects to Canton Network for Real-Time Collateral Mobility]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Lawyers say the joint SEC-CFTC framework is the most significant crypto regulatory development in years. But who decides when a token sheds its investment contract status, and what happens to DeFi, are still unanswered.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi Raises $1B at $22B Valuation: Report]]></title>
-        <id>https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months</id>
-        <link href="https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months"/>
-        <updated>2026-03-20T16:37:24.000Z</updated>
-        <summary type="html"><![CDATA[The deal doubles the valuation from Kalshi's previous round in November.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>
