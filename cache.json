@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network",
+          "author": "DefAInt",
+          "description": "The collateral and liquidity focused fintech is also building a node-as-a-service on Canton, which is known as an institution-focused blockchain platform.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network",
+          "publishedOn": "2026-04-07T14:41:56.000Z",
+          "wordCount": 4896,
+          "title": "Fintech Transcend Connects to Canton Network for Real-Time Collateral Mobility",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/tradfi-png-a89ad6d9-e16d-4b8f-8c2a-ae63f2ea03c8.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/tradfi-png-a89ad6d9-e16d-4b8f-8c2a-ae63f2ea03c8.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq",
           "author": "DefAInt",
           "description": "CME Group expanded is looking to expand its crypto derivatives offerings with new futures contracts for Avalanche and Sui, pending regulatory approval.",
@@ -26,7 +41,7 @@
           "description": "Security researcher Taylor Monahan claims North Korean IT workers have infiltrated more than 40 decentralized finance platforms, with the $280 million Drift Protocol exploit last week being the latest operation tied to the network.",
           "link": "https://thedefiant.io/news/security/north-korean-agents-defi-platforms-drift-protocol-sxz326",
           "publishedOn": "2026-04-07T12:47:05.000Z",
-          "wordCount": 4689,
+          "wordCount": 4677,
           "title": "North Korean Agents Embedded in 40+ DeFi Platforms for Nearly a Decade: Taylor Monahan",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7309a7d340e6b73aa0e49e251ccc98c828c3902-1792x1024.jpg",
@@ -131,7 +146,7 @@
           "description": "A 45-day ceasefire plan and Strategy's $330M Bitcoin purchase buoyed crypto markets.",
           "link": "https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite",
           "publishedOn": "2026-04-06T18:36:09.000Z",
-          "wordCount": 4880,
+          "wordCount": 4884,
           "title": "Bitcoin Nears $70,000 as Ceasefire Proposal Lifts Risk Appetite",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1775500754773-png-2d18e4a0-733f-4659-b9c0-c0f652f574e9.png",
@@ -476,7 +491,7 @@
           "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
-          "wordCount": 4458,
+          "wordCount": 4472,
           "title": "Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cdb01f4457cc2b8a70ea6d0944e7ff2f249b98d-1792x1024.jpg",
@@ -506,7 +521,7 @@
           "description": "New Hampshire's Bitcoin-backed municipal bond receives Ba2 rating from Moody's, marking the first instance of a public finance instrument backed by cryptocurrency.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn",
           "publishedOn": "2026-04-01T07:32:22.000Z",
-          "wordCount": 4372,
+          "wordCount": 4380,
           "title": "New Hampshire issues Bitcoin-backed municipal bond with Ba2 rating: Moody's",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74df27769099e605cdf4da89f9c4b7b91fee1cfc-1792x1024.jpg",
@@ -836,7 +851,7 @@
           "description": "Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff",
           "publishedOn": "2026-03-26T18:26:51.000Z",
-          "wordCount": 4385,
+          "wordCount": 4389,
           "title": "Bitcoin Slides Below $69,000 as Iran Stalemate Fuels Global Selloff",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before",
           "author": "Camila Russo",
-          "description": "On a quiet Sunday morning, someone turned $100,000 into $25 million in about seventeen minutes. The target was Resolv, a yield-bearing stablecoin protocol.\nThe mechanism that caused the initial hack to spread its damage – pricing a depegged stablecoin at $1 in a lending market– is not new. It happened at least four times in the past fourteen months.",
+          "description": "The Resolv hack wasn't a surprise. The same structural flaw has drained hundreds of millions from Morpho, Euler, and Fluid over the past year and the industry kept building on top of it anyway.",
           "link": "https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before",
           "publishedOn": "2026-03-23T17:18:09.000Z",
           "wordCount": 6282,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/fundraise-gen-jpg-f8aabc6e-9333-4a4a-ae70-ef843897ee53.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff",
-          "author": "yyctrader",
-          "description": "Bitcoin drops below $70,000 as the Fed raises its inflation forecast and oil-driven price pressures cloud the outlook for rate cuts.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff",
-          "publishedOn": "2026-03-19T23:03:35.000Z",
-          "wordCount": 4473,
-          "title": "Crypto Markets Extend Post-FOMC Selloff",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773961685440-png-4aae7b89-93a5-4ef4-92c5-4471b63fca4c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773961685440-png-4aae7b89-93a5-4ef4-92c5-4471b63fca4c.png"
         }
       ]
     }

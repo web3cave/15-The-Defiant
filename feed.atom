@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T14:24:18.069Z</id>
+    <id>urn:2026-04-07T16:02:09.624Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-07T14:24:18.069Z</updated>
+    <updated>2026-04-07T16:02:09.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fintech Transcend Connects to Canton Network for Real-Time Collateral Mobility]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network"/>
+        <updated>2026-04-07T14:41:56.000Z</updated>
+        <summary type="html"><![CDATA[The collateral and liquidity focused fintech is also building a node-as-a-service on Canton, which is known as an institution-focused blockchain platform.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CME Group Plans to Launch Avalanche and Sui Futures]]></title>
         <id>https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq</id>
@@ -840,8 +850,7 @@
         <id>https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before</id>
         <link href="https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before"/>
         <updated>2026-03-23T17:18:09.000Z</updated>
-        <summary type="html"><![CDATA[On a quiet Sunday morning, someone turned $100,000 into $25 million in about seventeen minutes. The target was Resolv, a yield-bearing stablecoin protocol.
-The mechanism that caused the initial hack to spread its damage – pricing a depegged stablecoin at $1 in a lending market– is not new. It happened at least four times in the past fourteen months.]]></summary>
+        <summary type="html"><![CDATA[The Resolv hack wasn't a surprise. The same structural flaw has drained hundreds of millions from Morpho, Euler, and Fluid over the past year and the industry kept building on top of it anyway.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -994,16 +1003,6 @@ The mechanism that caused the initial hack to spread its damage – pricing a de
         <summary type="html"><![CDATA[The deal doubles the valuation from Kalshi's previous round in November.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Extend Post-FOMC Selloff]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff"/>
-        <updated>2026-03-19T23:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin drops below $70,000 as the Fed raises its inflation forecast and oil-driven price pressures cloud the outlook for rate cuts.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
