@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T17:46:18.755Z</id>
+    <id>urn:2026-04-07T18:43:40.025Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-07T17:46:18.755Z</updated>
+    <updated>2026-04-07T18:43:40.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AAVE Slides Below $90 as Contributor Departures Weigh on DeFi's Largest Lender]]></title>
+        <id>https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender</id>
+        <link href="https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender"/>
+        <updated>2026-04-07T18:18:26.000Z</updated>
+        <summary type="html"><![CDATA[The AAVE token has lost roughly 75% of its value since its most recent peak in August 2025.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley's Bitcoin ETF Set to Launch on April 8: Bloomberg]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg"/>
+        <updated>2026-04-07T18:12:06.000Z</updated>
+        <summary type="html"><![CDATA[MSBT will launch tomorrow as the lowest-fee Bitcoin ETF on the market, potentially kicking off a fee war among funds.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Introduces Spot Price Guardrails in Post-Crash Overhaul]]></title>
+        <id>https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul</id>
+        <link href="https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul"/>
+        <updated>2026-04-07T17:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jupiter Launches Token Verification API for Launchpads, Agents]]></title>
         <id>https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/balancer-proposes-labs-shutdown-bal-tokenomics-shift</id>
         <link href="https://thedefiant.io/news/defi/balancer-proposes-labs-shutdown-bal-tokenomics-shift"/>
         <updated>2026-03-24T13:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Five months after a $128M exploit rocked the protocol, Balancer is proposing its most radical restructuring yet.]]></summary>
+        <summary type="html"><![CDATA[The team behind veteran DeFi protocol Balancer has posted two sweeping governance proposals that would wind down Balancer Labs, consolidate all operations under a DAO-controlled entity, and end BAL token emissions entirely.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The industry body co-authored a white paper with Boston Consulting Group outlining a "Gold as a Service" platform to standardize issuance and custody of digital gold.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privy Taps Deframe by Pods to Unlock DeFi Yield Strategies]]></title>
-        <id>https://thedefiant.io/news/defi/privy-taps-deframe-by-pods-to-unlock-defi-yield-strategies</id>
-        <link href="https://thedefiant.io/news/defi/privy-taps-deframe-by-pods-to-unlock-defi-yield-strategies"/>
-        <updated>2026-03-20T19:23:32.000Z</updated>
-        <summary type="html"><![CDATA[The Stripe-owned wallet infrastructure provider has integrated Deframe's DeFi aggregation API, the latest in a string of yield-focused moves.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Foundation President Says Web3 Gaming 'Is Not Coming Back']]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/lily-liu-solana-president-blockchain-gaming-comment</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/lily-liu-solana-president-blockchain-gaming-comment"/>
-        <updated>2026-03-20T19:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Liu also added "head of gaming" at Solana Foundation to her X bio, in what appears to be a pointed joke.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC's Crypto Guidance Ends Years of Regulatory Ambiguity But Key Questions Remain]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions</id>
-        <link href="https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions"/>
-        <updated>2026-03-20T16:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Lawyers say the joint SEC-CFTC framework is the most significant crypto regulatory development in years. But who decides when a token sheds its investment contract status, and what happens to DeFi, are still unanswered.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
