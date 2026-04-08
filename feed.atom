@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T16:05:39.893Z</id>
+    <id>urn:2026-04-08T17:56:02.245Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T16:05:39.893Z</updated>
+    <updated>2026-04-08T17:56:02.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visa Rolls Out AI Agent Shopping Infrastructure Globally]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally"/>
+        <updated>2026-04-08T17:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Launches Stablecoin Settlement Solution for TradFi Institutions]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi"/>
+        <updated>2026-04-08T17:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biconomy, Ethereum Foundation Unveil Execution Standard for AI Agents]]></title>
+        <id>https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents</id>
+        <link href="https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents"/>
+        <updated>2026-04-08T16:23:20.000Z</updated>
+        <summary type="html"><![CDATA[On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arkham Intel Removes TON Blockchain Support]]></title>
         <id>https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2</id>
         <link href="https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2"/>
         <updated>2026-03-25T13:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Dune and Visa released research showing non-USD stablecoins growing dramatically, with holder addresses jumping 30x and monthly transfer volume hitting $10B.]]></summary>
+        <summary type="html"><![CDATA[Dune Analytics and Visa published research titled "Beyond Dollarization" on March 25 revealing significant growth in non-USD stablecoin adoption. Non-USD stablecoin supply grew 3x, while holder addresses increased from 40,000 to 1.2 million (a 30x jump) and monthly transfer volume expanded from $600 million to $10 billion.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The company, which generated less than $10 million in revenue last year selling eyecare products, raised $134 million to bet entirely on the Sky protocol's governance token.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave V4 passes ARFC stage, moves toward mainnet launch: Aave]]></title>
-        <id>https://thedefiant.io/news/defi/aave-v4-passes-arfc-stage-mainnet-launch-581n6x</id>
-        <link href="https://thedefiant.io/news/defi/aave-v4-passes-arfc-stage-mainnet-launch-581n6x"/>
-        <updated>2026-03-23T16:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Aave V4 has successfully completed the Aave Request for Comments stage, with the protocol's team now preparing for final AIP deployment and mainnet launch.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amber Group-Backed Perp DEX edgeX to Launch Token on March 31]]></title>
-        <id>https://thedefiant.io/news/defi/amber-group-backed-perp-dex-edgex-to-launch-token-on-march-31</id>
-        <link href="https://thedefiant.io/news/defi/amber-group-backed-perp-dex-edgex-to-launch-token-on-march-31"/>
-        <updated>2026-03-23T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[The derivatives platform has already opened airdrop claims and pre-market trading ahead of its long-anticipated token generation event.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surges Past $71,000 After Trump Announces Iran Strikes Pause: Trump]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah"/>
-        <updated>2026-03-23T12:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin climbed to $71,500 on March 23 after President Trump said the U.S. would postpone planned strikes on Iranian infrastructure for five days pending ongoing diplomatic talks.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
