@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T12:54:58.481Z</id>
+    <id>urn:2026-04-09T14:47:33.662Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T12:54:58.481Z</updated>
+    <updated>2026-04-09T14:47:33.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ, CFTC Seek to Block Arizona Enforcement Action against Kalshi]]></title>
+        <id>https://thedefiant.io/news/regulation/doj-cftc-block-arizona-kalshi-enforcement-8d2ner</id>
+        <link href="https://thedefiant.io/news/regulation/doj-cftc-block-arizona-kalshi-enforcement-8d2ner"/>
+        <updated>2026-04-09T13:46:58.000Z</updated>
+        <summary type="html"><![CDATA[The DOJ and CFTC filed to enjoin Arizona's criminal and civil enforcement against prediction market platform Kalshi, arguing federally regulated event contracts fall under CFTC jurisdiction.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Settles Bored Ape NFT Trademark Lawsuit with Artist Ryder Ripps]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv"/>
+        <updated>2026-04-09T13:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Yuga Labs has reached a settlement in its NFT counterfeiting lawsuit against artist Ryder Ripps and his business partner Jeremy Cahen, with parties agreeing to permanent blocks on trademark and imagery use.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Wallet Integrates Prediction Markets via YZi Labs-Backed Predictfun]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig"/>
+        <updated>2026-04-09T13:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canary Capital Files SEC Registration for PEPE ETF]]></title>
         <id>https://thedefiant.io/news/regulation/canary-capital-pepe-etf-sec-filing-jwlmse</id>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan"/>
         <updated>2026-03-25T16:07:08.000Z</updated>
-        <summary type="html"><![CDATA[BitMine Immersion Technologies (NYSE: BMNR) has officially launched MAVAN — the Made in America Validator Network — its proprietary institutional-grade Ethereum staking platform, the company announced on Wednesday, March 25.]]></summary>
+        <summary type="html"><![CDATA[Tom Lee's firm is the largest public holder of ETH, and the second largest digital asset treasury company.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Five months after a $128M exploit rocked the protocol, Balancer is proposing its most radical restructuring yet.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmine’s Tom Lee Calls Crypto a 'Wartime Store of Value']]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-tom-lee-calls-crypto-a-wartime-store-of-value</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-tom-lee-calls-crypto-a-wartime-store-of-value"/>
-        <updated>2026-03-24T00:32:44.000Z</updated>
-        <summary type="html"><![CDATA[The largest Ethereum treasury company added another 65,341 ETH last week.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Tightens Insider Trading Rules]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-tightens-insider-trading-rules</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-tightens-insider-trading-rules"/>
-        <updated>2026-03-23T23:11:31.000Z</updated>
-        <summary type="html"><![CDATA[The prediction market is updating insider trading and manipulation rules days after inking an exclusive partnership with Major League Baseball.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi and Polymarket CEOs Back $35M Prediction Market Venture Fund]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/kalshi-and-polymarket-ceos-back-usd35m-prediction-market-venture-fund</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/kalshi-and-polymarket-ceos-back-usd35m-prediction-market-venture-fund"/>
-        <updated>2026-03-23T20:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Former Kalshi employees are raising capital for 5c(c) Capital, a venture firm focused on prediction market infrastructure.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
