@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T20:39:04.630Z</id>
+    <id>urn:2026-04-09T21:36:05.277Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T20:39:04.630Z</updated>
+    <updated>2026-04-09T21:36:05.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon, Frax and Curve Launch Onchain Forex Liquidity Pools]]></title>
+        <id>https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools</id>
+        <link href="https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools"/>
+        <updated>2026-04-09T20:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Curve's FXSwap pools use frxUSD as the base dollar pairing for cross-currency swaps spanning the Brazilian real, Indonesian rupiah, British pound, Australian dollar, Korean won and USDT.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StarkWare Researcher Publishes Quantum-Safe Bitcoin Transaction Scheme]]></title>
         <id>https://thedefiant.io/news/blockchains/starkware-researcher-publishes-quantum-safe-bitcoin-transaction-scheme</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol</id>
         <link href="https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol"/>
         <updated>2026-03-26T18:09:50.000Z</updated>
-        <summary type="html"><![CDATA[The LayerZero integration gives assets tokenized on Canton access to over 165 public blockchains.]]></summary>
+        <summary type="html"><![CDATA[LayerZero has integrated with the institution-focused blockchain Canton (CC), becoming the first interoperability protocol to go live on the network, per a press release shared with The Defiant.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl"/>
         <updated>2026-03-26T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[YPF Luz, the electricity subsidiary of Argentina’s largest energy company, alongside Buenos Aires-based blockchain infrastructure company Justoken earlier this month announced the launch of an energy tokenization platform built on XRP Ledger (XRPL).]]></summary>
+        <summary type="html"><![CDATA[Enertoken, developed by Justoken for YPF Luz, launched with over $800 million in tokenized energy assets on XRPL.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Invesco, with over $2T in AUM, will become the first TradFi asset manager to use Superstate's digital transfer agent infra.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Foundation Launches Post-Quantum Research Hub]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub"/>
-        <updated>2026-03-24T18:10:56.000Z</updated>
-        <summary type="html"><![CDATA[The EF's Post-Quantum and Cryptography teams have consolidated an 8-year research push into an open resource with a roadmap and specifications.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

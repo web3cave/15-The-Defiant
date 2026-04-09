@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools",
+          "author": "yyctrader",
+          "description": "Curve's FXSwap pools use frxUSD as the base dollar pairing for cross-currency swaps spanning the Brazilian real, Indonesian rupiah, British pound, Australian dollar, Korean won and USDT.",
+          "link": "https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools",
+          "publishedOn": "2026-04-09T20:43:20.000Z",
+          "wordCount": 5083,
+          "title": "Polygon, Frax and Curve Launch Onchain Forex Liquidity Pools",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775767402955-png-711ec427-14ce-4e0d-8d38-be05fc0638dd.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775767402955-png-711ec427-14ce-4e0d-8d38-be05fc0638dd.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/starkware-researcher-publishes-quantum-safe-bitcoin-transaction-scheme",
           "author": "yyctrader",
           "description": "The QSB scheme uses only existing Bitcoin consensus rules, sidestepping the network's contentious upgrade process.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
           "author": "DefAInt",
-          "description": "The LayerZero integration gives assets tokenized on Canton access to over 165 public blockchains.",
+          "description": "LayerZero has integrated with the institution-focused blockchain Canton (CC), becoming the first interoperability protocol to go live on the network, per a press release shared with The Defiant.",
           "link": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
           "publishedOn": "2026-03-26T18:09:50.000Z",
           "wordCount": 4930,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl",
           "author": "Olivia Capozzalo",
-          "description": "YPF Luz, the electricity subsidiary of Argentina’s largest energy company, alongside Buenos Aires-based blockchain infrastructure company Justoken earlier this month announced the launch of an energy tokenization platform built on XRP Ledger (XRPL).",
+          "description": "Enertoken, developed by Justoken for YPF Luz, launched with over $800 million in tokenized energy assets on XRPL.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl",
           "publishedOn": "2026-03-26T16:54:52.000Z",
           "wordCount": 5956,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/city-eth-jpg-233b203f-0275-4439-ac0b-e0b938ca0405.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub",
-          "author": "yyctrader",
-          "description": "The EF's Post-Quantum and Cryptography teams have consolidated an 8-year research push into an open resource with a roadmap and specifications.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-post-quantum-research-hub",
-          "publishedOn": "2026-03-24T18:10:56.000Z",
-          "wordCount": 4513,
-          "title": "Ethereum Foundation Launches Post-Quantum Research Hub",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774375890644-png-75c453cd-dce9-401d-b8e2-3f71b5b90c4e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774375890644-png-75c453cd-dce9-401d-b8e2-3f71b5b90c4e.png"
         }
       ]
     }
