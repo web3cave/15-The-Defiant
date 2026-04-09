@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls",
+          "author": "yyctrader",
+          "description": "BTC clung to a three-week high as the Iran truce lifted risk assets, but doubts about the deal's durability capped upside.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls",
+          "publishedOn": "2026-04-09T23:02:18.000Z",
+          "wordCount": 4976,
+          "title": "Bitcoin Holds Above $72,000 as Ceasefire Rally Stalls",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775775882626-png-701ae667-39f1-4a0c-9f86-e6deaa9655ae.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775775882626-png-701ae667-39f1-4a0c-9f86-e6deaa9655ae.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools",
           "author": "yyctrader",
           "description": "Curve's FXSwap pools use frxUSD as the base dollar pairing for cross-currency swaps spanning the Brazilian real, Indonesian rupiah, British pound, Australian dollar, Korean won and USDT.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
           "author": "DefAInt",
-          "description": "LayerZero has integrated with the institution-focused blockchain Canton (CC), becoming the first interoperability protocol to go live on the network, per a press release shared with The Defiant.",
+          "description": "The LayerZero integration gives assets tokenized on Canton access to over 165 public blockchains.",
           "link": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
           "publishedOn": "2026-03-26T18:09:50.000Z",
           "wordCount": 4930,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774379385349-png-8d960cab-2e77-46d6-8777-e5be2548e83e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund",
-          "author": "DefAInt",
-          "description": "Invesco, with over $2T in AUM, will become the first TradFi asset manager to use Superstate's digital transfer agent infra.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund",
-          "publishedOn": "2026-03-24T18:29:53.000Z",
-          "wordCount": 4864,
-          "title": "Invesco to Manage Superstate's Tokenized US T-Bill Fund",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/city-eth-jpg-233b203f-0275-4439-ac0b-e0b938ca0405.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/city-eth-jpg-233b203f-0275-4439-ac0b-e0b938ca0405.jpg"
         }
       ]
     }
