@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults",
+          "author": "yyctrader",
+          "description": "The feature prevents compromised curator keys from redirecting depositor funds to unvetted reserves.",
+          "link": "https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults",
+          "publishedOn": "2026-04-09T18:57:45.000Z",
+          "wordCount": 4663,
+          "title": "Kamino Introduces Contract-Level Security Controls for Lending Vaults",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775761330485-png-52f750f2-f0cd-45fe-b84c-664e8e9dff79.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775761330485-png-52f750f2-f0cd-45fe-b84c-664e8e9dff79.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/world-liberty-financial-has-borrowed-millions-against-its-own-token",
           "author": "yyctrader",
           "description": "The DeFi project's treasury used 3 billion WLFI tokens as collateral on Dolomite to borrow $75 million in stablecoins over the past week.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/city-scape-jpg-d1ae28e9-563a-48bb-96fb-8cee5dee922f.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr",
-          "author": "DefAInt",
-          "description": "Bank of Montreal enables clients to convert dollars into tokenized cash on CME and Google Cloud's Universal Ledger for round-the-clock margin, collateral and B2B payments.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr",
-          "publishedOn": "2026-03-24T16:47:09.000Z",
-          "wordCount": 4540,
-          "title": "BMO launches tokenized cash and deposits on CME's 24/7 settlement network: Bank of Montreal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b2d5ebe2ac1b585924dee4390c270ac8ecac7386-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b2d5ebe2ac1b585924dee4390c270ac8ecac7386-1792x1024.jpg"
         }
       ]
     }

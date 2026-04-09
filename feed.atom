@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T18:44:14.440Z</id>
+    <id>urn:2026-04-09T19:55:46.947Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T18:44:14.440Z</updated>
+    <updated>2026-04-09T19:55:46.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kamino Introduces Contract-Level Security Controls for Lending Vaults]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults</id>
+        <link href="https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults"/>
+        <updated>2026-04-09T18:57:45.000Z</updated>
+        <summary type="html"><![CDATA[The feature prevents compromised curator keys from redirecting depositor funds to unvetted reserves.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Liberty Financial Has Borrowed Millions Against Its Own Token]]></title>
         <id>https://thedefiant.io/news/defi/world-liberty-financial-has-borrowed-millions-against-its-own-token</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure"/>
         <updated>2026-03-24T17:35:43.000Z</updated>
         <summary type="html"><![CDATA[Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMO launches tokenized cash and deposits on CME's 24/7 settlement network: Bank of Montreal]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bmo-tokenized-cash-cme-universal-ledger-dtakgr"/>
-        <updated>2026-03-24T16:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Bank of Montreal enables clients to convert dollars into tokenized cash on CME and Google Cloud's Universal Ledger for round-the-clock margin, collateral and B2B payments.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
