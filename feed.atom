@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T19:55:46.947Z</id>
+    <id>urn:2026-04-09T20:39:04.630Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T19:55:46.947Z</updated>
+    <updated>2026-04-09T20:39:04.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkWare Researcher Publishes Quantum-Safe Bitcoin Transaction Scheme]]></title>
+        <id>https://thedefiant.io/news/blockchains/starkware-researcher-publishes-quantum-safe-bitcoin-transaction-scheme</id>
+        <link href="https://thedefiant.io/news/blockchains/starkware-researcher-publishes-quantum-safe-bitcoin-transaction-scheme"/>
+        <updated>2026-04-09T20:32:56.000Z</updated>
+        <summary type="html"><![CDATA[The QSB scheme uses only existing Bitcoin consensus rules, sidestepping the network's contentious upgrade process.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kamino Introduces Contract-Level Security Controls for Lending Vaults]]></title>
         <id>https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl"/>
         <updated>2026-03-26T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Enertoken, developed by Justoken for YPF Luz, launched with over $800 million in tokenized energy assets on XRPL.]]></summary>
+        <summary type="html"><![CDATA[YPF Luz, the electricity subsidiary of Argentina’s largest energy company, alongside Buenos Aires-based blockchain infrastructure company Justoken earlier this month announced the launch of an energy tokenization platform built on XRP Ledger (XRPL).]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The EF's Post-Quantum and Cryptography teams have consolidated an 8-year research push into an open resource with a roadmap and specifications.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Taps Securitize to Develop Tokenized Securities Trading Infra]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure"/>
-        <updated>2026-03-24T17:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
