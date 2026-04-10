@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T19:34:40.924Z</id>
+    <id>urn:2026-04-10T20:22:30.582Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-10T19:34:40.924Z</updated>
+    <updated>2026-04-10T20:22:30.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Surges Past $73,000 as Hot CPI Meets Fragile Ceasefire]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-surges-past-usd73-000-as-hot-cpi-meets-fragile-ceasefire</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-surges-past-usd73-000-as-hot-cpi-meets-fragile-ceasefire"/>
+        <updated>2026-04-10T20:04:09.000Z</updated>
+        <summary type="html"><![CDATA[The March inflation print came in hotter than expected, but a tame core reading and easing oil prices gave risk assets room to rally.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visa Direct Integration Lets OwlTing Users Fund USDC Straight From a Debit Card]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/visa-direct-integration-lets-owlting-users-fund-usdc-straight-from-a-debit-card</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/world-foundation-worldcoin-token-sale-65-million-x5jait</id>
         <link href="https://thedefiant.io/news/markets/world-foundation-worldcoin-token-sale-65-million-x5jait"/>
         <updated>2026-03-29T11:16:31.000Z</updated>
-        <summary type="html"><![CDATA[The World Foundation, which supports the Worldcoin (WLD) digital identity project, completed a $65 million over-the-counter token sale via its subsidiary World Assets Ltd. The block trades were executed with four private counterparties over the past week, with initial settlements beginning March 20, 2026, according to a March 28 statement. Tokens were priced at an average of $0.2719 per token.]]></summary>
+        <summary type="html"><![CDATA[The World Foundation sold $65 million in WLD tokens through over-the-counter block trades with four private counterparties at an average price of $0.2719 per token.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/ondo-tokenizes-five-franklin-templeton-etfs"/>
         <updated>2026-03-25T18:07:42.000Z</updated>
         <summary type="html"><![CDATA[The partnership brings growth, large-cap, fixed income, equity income, and gold ETFs onchain through Ondo Global Markets.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Brings Exchange Data Onchain via Chainlink's DataLink]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink"/>
-        <updated>2026-03-25T17:15:52.000Z</updated>
-        <summary type="html"><![CDATA[The integration gives DeFi protocols direct access to institutional-grade order book, spot, and futures data from the largest US crypto exchange.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
