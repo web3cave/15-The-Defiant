@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T16:03:50.181Z</id>
+    <id>urn:2026-04-13T17:49:21.708Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-13T16:03:50.181Z</updated>
+    <updated>2026-04-13T17:49:21.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HSBC Completes Tokenized Deposit Pilot on Canton Network]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network"/>
+        <updated>2026-04-13T17:18:11.000Z</updated>
+        <summary type="html"><![CDATA[The pilot builds on HSBC's broader rollout of its Tokenized Deposit Service, which lets corporate clients convert fiat deposits into digital assets]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Gives DeFi Front-Ends a Narrow Path Around Broker-Dealer Rules]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi</id>
+        <link href="https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi"/>
+        <updated>2026-04-13T16:45:39.000Z</updated>
+        <summary type="html"><![CDATA[New staff guidance from the SEC's Division of Trading and Markets details conditions under which certain self-custody crypto UI can avoid broker-dealer registration.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitmine Crosses 4% of ETH Supply as Saylor Reveals Another $1B BTC Buy]]></title>
+        <id>https://thedefiant.io/news/markets/bitmine-crosses-4-of-eth-supply-as-saylor-reveals-another-usd1b-btc-buy</id>
+        <link href="https://thedefiant.io/news/markets/bitmine-crosses-4-of-eth-supply-as-saylor-reveals-another-usd1b-btc-buy"/>
+        <updated>2026-04-13T16:28:31.000Z</updated>
+        <summary type="html"><![CDATA[The largest Ethereum treasury company now holds 4.875 million ETH, while Strategy acquired nearly 14,000 BTC last week.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polkadot Confirms Exploit on Hyperbridge's Ethereum Gateway Contract]]></title>
         <id>https://thedefiant.io/news/hacks/polkadot-hyperbridge-ethereum-gateway-exploit-sjb0ql</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security</id>
         <link href="https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security"/>
         <updated>2026-03-31T16:39:17.000Z</updated>
-        <summary type="html"><![CDATA[A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.]]></summary>
+        <summary type="html"><![CDATA[A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors, and urges an immediate industry pivot to post-quantum cryptography.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff"/>
         <updated>2026-03-26T18:26:51.000Z</updated>
         <summary type="html"><![CDATA[Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Goes Live on Institution-Focused Canton as Its First Interop Protocol]]></title>
-        <id>https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol</id>
-        <link href="https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol"/>
-        <updated>2026-03-26T18:09:50.000Z</updated>
-        <summary type="html"><![CDATA[The LayerZero integration gives assets tokenized on Canton access to over 165 public blockchains.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Argentina's State-Backed Energy Giant YPF Launches Tokenization Initiative on XRP Ledger]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl"/>
-        <updated>2026-03-26T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Enertoken, developed by Justoken for YPF Luz, launched with over $800 million in tokenized energy assets on XRPL.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Generated $8 Billion in Onchain Yield in 2025: Analysis]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/defi-generated-usd8-billion-in-onchain-yield-in-2025-analysis</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/defi-generated-usd8-billion-in-onchain-yield-in-2025-analysis"/>
-        <updated>2026-03-25T20:55:03.000Z</updated>
-        <summary type="html"><![CDATA[A breakdown of DeFi's yield sources reveals that borrowing demand, trading fees, and funding rates drove the bulk of returns, while more than half of stablecoin deposits in the Ethereum ecosystem are earning less than U.S. Treasuries.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>

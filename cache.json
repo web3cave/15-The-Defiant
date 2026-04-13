@@ -6,12 +6,57 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network",
+          "author": "DefAInt",
+          "description": "The pilot builds on HSBC's broader rollout of its Tokenized Deposit Service, which lets corporate clients convert fiat deposits into digital assets",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network",
+          "publishedOn": "2026-04-13T17:18:11.000Z",
+          "wordCount": 4815,
+          "title": "HSBC Completes Tokenized Deposit Pilot on Canton Network",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/banking-png-3840a48b-4bf1-418c-9892-3ba86c27abc5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/banking-png-3840a48b-4bf1-418c-9892-3ba86c27abc5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi",
+          "author": "Olivia Capozzalo",
+          "description": "New staff guidance from the SEC's Division of Trading and Markets details conditions under which certain self-custody crypto UI can avoid broker-dealer registration.",
+          "link": "https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi",
+          "publishedOn": "2026-04-13T16:45:39.000Z",
+          "wordCount": 5105,
+          "title": "SEC Gives DeFi Front-Ends a Narrow Path Around Broker-Dealer Rules",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sec_defi-1-png-d02f5631-6330-40f1-b76a-532d3952d3b5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sec_defi-1-png-d02f5631-6330-40f1-b76a-532d3952d3b5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitmine-crosses-4-of-eth-supply-as-saylor-reveals-another-usd1b-btc-buy",
+          "author": "yyctrader",
+          "description": "The largest Ethereum treasury company now holds 4.875 million ETH, while Strategy acquired nearly 14,000 BTC last week.",
+          "link": "https://thedefiant.io/news/markets/bitmine-crosses-4-of-eth-supply-as-saylor-reveals-another-usd1b-btc-buy",
+          "publishedOn": "2026-04-13T16:28:31.000Z",
+          "wordCount": 4765,
+          "title": "Bitmine Crosses 4% of ETH Supply as Saylor Reveals Another $1B BTC Buy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1776097742003-png-204ce5fd-224f-49a6-96b4-21264cf2d0ac.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1776097742003-png-204ce5fd-224f-49a6-96b4-21264cf2d0ac.png"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/polkadot-hyperbridge-ethereum-gateway-exploit-sjb0ql",
           "author": "DefAInt",
           "description": "The attacker exploited a vulnerability in Polkadot interoperability protocol Hyperbridge, minting over ~$2 billion in DOT and other tokens, but was only successfully able to cash out about $237K.",
           "link": "https://thedefiant.io/news/hacks/polkadot-hyperbridge-ethereum-gateway-exploit-sjb0ql",
           "publishedOn": "2026-04-13T13:01:09.000Z",
-          "wordCount": 4595,
+          "wordCount": 4619,
           "title": "Polkadot Confirms Exploit on Hyperbridge's Ethereum Gateway Contract",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/61c1289ee47be3a0ec40471ecbddc4ff9a971c42-1792x1024.jpg",
@@ -1208,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
           "author": "yyctrader",
-          "description": "A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.",
+          "description": "A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors, and urges an immediate industry pivot to post-quantum cryptography.",
           "link": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
           "publishedOn": "2026-03-31T16:39:17.000Z",
           "wordCount": 6404,
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
-          "author": "DefAInt",
-          "description": "The LayerZero integration gives assets tokenized on Canton access to over 165 public blockchains.",
-          "link": "https://thedefiant.io/news/infrastructure/layerzero-partners-with-canton-as-first-interop-protocol",
-          "publishedOn": "2026-03-26T18:09:50.000Z",
-          "wordCount": 4954,
-          "title": "LayerZero Goes Live on Institution-Focused Canton as Its First Interop Protocol",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/blockchain-gen-png-adfde718-8daf-408f-af55-7ae4a76f6dcf.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/blockchain-gen-png-adfde718-8daf-408f-af55-7ae4a76f6dcf.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl",
-          "author": "Olivia Capozzalo",
-          "description": "Enertoken, developed by Justoken for YPF Luz, launched with over $800 million in tokenized energy assets on XRPL.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/argentina-state-backed-energy-giant-launches-tokenization-platform-on-xrpl",
-          "publishedOn": "2026-03-26T16:54:52.000Z",
-          "wordCount": 5980,
-          "title": "Argentina's State-Backed Energy Giant YPF Launches Tokenization Initiative on XRP Ledger",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/ripple-gen-png-dda09e79-99f1-4872-88fb-5afaa7692e62.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/ripple-gen-png-dda09e79-99f1-4872-88fb-5afaa7692e62.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/defi-generated-usd8-billion-in-onchain-yield-in-2025-analysis",
-          "author": "yyctrader",
-          "description": "A breakdown of DeFi's yield sources reveals that borrowing demand, trading fees, and funding rates drove the bulk of returns, while more than half of stablecoin deposits in the Ethereum ecosystem are earning less than U.S. Treasuries.",
-          "link": "https://thedefiant.io/news/research-and-opinion/defi-generated-usd8-billion-in-onchain-yield-in-2025-analysis",
-          "publishedOn": "2026-03-25T20:55:03.000Z",
-          "wordCount": 5540,
-          "title": "DeFi Generated $8 Billion in Onchain Yield in 2025: Analysis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774472106593-png-99345edf-a3ea-4cb2-a006-4be3721b818c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774472106593-png-99345edf-a3ea-4cb2-a006-4be3721b818c.png"
         }
       ]
     }
