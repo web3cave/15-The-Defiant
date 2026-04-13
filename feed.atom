@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T12:56:28.403Z</id>
+    <id>urn:2026-04-13T14:27:26.466Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-13T12:56:28.403Z</updated>
+    <updated>2026-04-13T14:27:26.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polkadot Confirms Exploit on Hyperbridge's Ethereum Gateway Contract]]></title>
+        <id>https://thedefiant.io/news/hacks/polkadot-hyperbridge-ethereum-gateway-exploit-sjb0ql</id>
+        <link href="https://thedefiant.io/news/hacks/polkadot-hyperbridge-ethereum-gateway-exploit-sjb0ql"/>
+        <updated>2026-04-13T13:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The attacker exploited a vulnerability in Polkadot interoperability protocol Hyperbridge, minting over ~$2 billion in DOT and other tokens, but was only successfully able to cash out about $237K.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justin Sun and World Liberty Financial Trade Blows in Escalating Public Feud]]></title>
         <id>https://thedefiant.io/news/defi/justin-sun-and-world-liberty-financial-trade-blows</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/research-and-opinion/defi-generated-usd8-billion-in-onchain-yield-in-2025-analysis"/>
         <updated>2026-03-25T20:55:03.000Z</updated>
         <summary type="html"><![CDATA[A breakdown of DeFi's yield sources reveals that borrowing demand, trading fees, and funding rates drove the bulk of returns, while more than half of stablecoin deposits in the Ethereum ecosystem are earning less than U.S. Treasuries.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Holds $71K as ETF Flows Reverse]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-holds-usd71k-as-etf-flows-reverse"/>
-        <updated>2026-03-25T20:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Spot BTC ETFs had $74 million in outflows on Tuesday as traders await Friday's PCE data.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
