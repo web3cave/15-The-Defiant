@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf",
+          "author": "DefAInt",
+          "description": "The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf",
+          "publishedOn": "2026-04-14T15:23:56.000Z",
+          "wordCount": 4698,
+          "title": "Goldman Sachs Files for Its First Bitcoin-Linked ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bitcoin-corps-png-221beaed-0722-4dd2-8159-5d1c48eb284c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bitcoin-corps-png-221beaed-0722-4dd2-8159-5d1c48eb284c.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
+          "author": "DefAInt",
+          "description": "Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.",
+          "link": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
+          "publishedOn": "2026-04-14T14:58:48.000Z",
+          "wordCount": 4582,
+          "title": "Morpho Unveils Fixed-Rate Protocol Morpho Midnight",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/morpho-jpg-6c68df29-092c-466c-8d4a-a55c4ce1edd5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/morpho-jpg-6c68df29-092c-466c-8d4a-a55c4ce1edd5.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion",
           "author": "DefAInt",
           "description": "Self-custodial wallet tether.wallet supports Bitcoin, USDT, USAT and XAUT across multiple blockchains at launch.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay",
           "author": "DefAInt",
-          "description": "Solana's non-USD stablecoin adoption surged nearly threefold in the past year, driven by EURC and BRZ growth alongside institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.",
+          "description": "Unique senders of non-USD stablecoins on Solana nearly tripled year-over-year, according to data from Dune released April 1, 2026. The growth is being driven by adoption of EURC and BRZ stablecoins. Solana is positioning stablecoin payments as a core use case, leveraging its sub-second finality and near-zero fees, with institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.",
           "link": "https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay",
           "publishedOn": "2026-04-01T13:01:40.000Z",
           "wordCount": 4515,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx",
           "author": "DefAInt",
-          "description": "Binance co-founder Changpeng Zhao posted on X on April 1, 2026, addressing growing concerns about quantum computing's threat to cryptocurrency. CZ stated that the crypto industry can upgrade to quantum-resistant, or post-quantum, cryptographic algorithms to neutralize the risk, urging users not to panic over the potential threat.",
+          "description": "Changpeng Zhao addressed quantum computing concerns, stating the crypto industry can upgrade to quantum-resistant algorithms to mitigate threats.",
           "link": "https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx",
           "publishedOn": "2026-04-01T10:01:29.000Z",
           "wordCount": 4389,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/682125d5eba5e9b6aa1c03dd12efe72dd2fa199b-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim",
-          "author": "yyctrader",
-          "description": "A new working paper from the European Central Bank examined four major protocols and found that a small number of actors control the bulk of governance token holdings.",
-          "link": "https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim",
-          "publishedOn": "2026-03-27T17:08:06.000Z",
-          "wordCount": 5520,
-          "title": "ECB Study Concludes DeFi DAOs Aren't as Decentralized as They Claim",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774631477102-png-54c64be1-859a-4150-9c74-5cf20b8749f9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774631477102-png-54c64be1-859a-4150-9c74-5cf20b8749f9.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket",
-          "author": "yyctrader",
-          "description": "Intercontinental Exchange has now deployed nearly $2 billion into the onchain prediction market, underscoring Wall Street's growing conviction that event-based trading is here to stay.",
-          "link": "https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket",
-          "publishedOn": "2026-03-27T16:49:57.000Z",
-          "wordCount": 4926,
-          "title": "NYSE Owner ICE Pours Another $600 Million Into Polymarket",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774630271801-png-ab370b85-42b5-4cb0-9f43-2062749f1926.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774630271801-png-ab370b85-42b5-4cb0-9f43-2062749f1926.png"
         }
       ]
     }

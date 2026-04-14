@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T14:44:52.803Z</id>
+    <id>urn:2026-04-14T15:59:01.204Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T14:44:52.803Z</updated>
+    <updated>2026-04-14T15:59:01.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Goldman Sachs Files for Its First Bitcoin-Linked ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf"/>
+        <updated>2026-04-14T15:23:56.000Z</updated>
+        <summary type="html"><![CDATA[The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morpho Unveils Fixed-Rate Protocol Morpho Midnight]]></title>
+        <id>https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight</id>
+        <link href="https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight"/>
+        <updated>2026-04-14T14:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Introduces Multichain Self-Custodial Wallet]]></title>
         <id>https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay</id>
         <link href="https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay"/>
         <updated>2026-04-01T13:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Solana's non-USD stablecoin adoption surged nearly threefold in the past year, driven by EURC and BRZ growth alongside institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.]]></summary>
+        <summary type="html"><![CDATA[Unique senders of non-USD stablecoins on Solana nearly tripled year-over-year, according to data from Dune released April 1, 2026. The growth is being driven by adoption of EURC and BRZ stablecoins. Solana is positioning stablecoin payments as a core use case, leveraging its sub-second finality and near-zero fees, with institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx</id>
         <link href="https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx"/>
         <updated>2026-04-01T10:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Binance co-founder Changpeng Zhao posted on X on April 1, 2026, addressing growing concerns about quantum computing's threat to cryptocurrency. CZ stated that the crypto industry can upgrade to quantum-resistant, or post-quantum, cryptographic algorithms to neutralize the risk, urging users not to panic over the potential threat.]]></summary>
+        <summary type="html"><![CDATA[Changpeng Zhao addressed quantum computing concerns, stating the crypto industry can upgrade to quantum-resistant algorithms to mitigate threats.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The World Foundation sold $65 million in WLD tokens through over-the-counter block trades with four private counterparties at an average price of $0.2719 per token.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECB Study Concludes DeFi DAOs Aren't as Decentralized as They Claim]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim"/>
-        <updated>2026-03-27T17:08:06.000Z</updated>
-        <summary type="html"><![CDATA[A new working paper from the European Central Bank examined four major protocols and found that a small number of actors control the bulk of governance token holdings.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Owner ICE Pours Another $600 Million Into Polymarket]]></title>
-        <id>https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket</id>
-        <link href="https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket"/>
-        <updated>2026-03-27T16:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Intercontinental Exchange has now deployed nearly $2 billion into the onchain prediction market, underscoring Wall Street's growing conviction that event-based trading is here to stay.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
