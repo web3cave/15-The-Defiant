@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T21:39:55.630Z</id>
+    <id>urn:2026-04-14T22:34:48.129Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T21:39:55.630Z</updated>
+    <updated>2026-04-14T22:34:48.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Approves Elimination of Pattern Day Trader Rule and $25,000 Minimum: FINRA]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn</id>
+        <link href="https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn"/>
+        <updated>2026-04-14T21:46:53.000Z</updated>
+        <summary type="html"><![CDATA[The SEC granted accelerated approval to FINRA's rule change eliminating the Pattern Day Trader designation and its $25,000 minimum equity requirement for day traders.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP Ledger Gets Native ZK Proof Verification Via Boundless Integration]]></title>
         <id>https://thedefiant.io/news/blockchains/xrp-ledger-gets-native-zk-proof-verification-via-boundless-integration</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm</id>
         <link href="https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm"/>
         <updated>2026-04-02T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.]]></summary>
+        <summary type="html"><![CDATA[Kraken launched an opt-in rewards program for xStocks on Thursday, offering users up to 1% rewards by holding tokenized U.S. equities and ETFs. The rewards program addresses a gap in traditional equities markets, which typically lack accessible yield mechanisms beyond dividends. xStocks, Kraken's 24/7 permissionless onchain equities products, enable crypto-native investors to access U.S. stocks and ETFs outside traditional market hours.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe"/>
         <updated>2026-04-02T13:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's dominance in non-USD stablecoin supply has shrunk to 65% as of February 2026, down from 90% in early 2023, according to data published by Dune and Visa on Thursday. Despite the decline, Ethereum remains the default chain for stablecoin issuance, though other blockchains are catching up in market share.]]></summary>
+        <summary type="html"><![CDATA[Ethereum's share of non-USD stablecoin supply has fallen from 90% in early 2023 to 65% as of February 2026, though it remains the primary issuance chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot"/>
         <updated>2026-03-31T17:03:45.000Z</updated>
         <summary type="html"><![CDATA[Employees can elect to receive a portion of their salary in shares of WTGXX, earning yield from the day compensation is paid.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Quantum AI Paper Rewrites Threat Timeline for Bitcoin, Ethereum Security]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security"/>
-        <updated>2026-03-31T16:39:17.000Z</updated>
-        <summary type="html"><![CDATA[A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>

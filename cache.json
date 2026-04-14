@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn",
+          "author": "DefAInt",
+          "description": "The SEC granted accelerated approval to FINRA's rule change eliminating the Pattern Day Trader designation and its $25,000 minimum equity requirement for day traders.",
+          "link": "https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn",
+          "publishedOn": "2026-04-14T21:46:53.000Z",
+          "wordCount": 4422,
+          "title": "SEC Approves Elimination of Pattern Day Trader Rule and $25,000 Minimum: FINRA",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/87e6d68556694e20086fd603540ebd25874f9272-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/87e6d68556694e20086fd603540ebd25874f9272-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/xrp-ledger-gets-native-zk-proof-verification-via-boundless-integration",
           "author": "yyctrader",
           "description": "The integration lays the groundwork for private, compliant financial applications on Ripple’s Layer 1 blockchain.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
           "author": "DefAInt",
-          "description": "Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.",
+          "description": "Kraken launched an opt-in rewards program for xStocks on Thursday, offering users up to 1% rewards by holding tokenized U.S. equities and ETFs. The rewards program addresses a gap in traditional equities markets, which typically lack accessible yield mechanisms beyond dividends. xStocks, Kraken's 24/7 permissionless onchain equities products, enable crypto-native investors to access U.S. stocks and ETFs outside traditional market hours.",
           "link": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
           "publishedOn": "2026-04-02T14:02:13.000Z",
           "wordCount": 4476,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
           "author": "DefAInt",
-          "description": "Ethereum's dominance in non-USD stablecoin supply has shrunk to 65% as of February 2026, down from 90% in early 2023, according to data published by Dune and Visa on Thursday. Despite the decline, Ethereum remains the default chain for stablecoin issuance, though other blockchains are catching up in market share.",
+          "description": "Ethereum's share of non-USD stablecoin supply has fallen from 90% in early 2023 to 65% as of February 2026, though it remains the primary issuance chain.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
           "publishedOn": "2026-04-02T13:16:31.000Z",
           "wordCount": 4448,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774976938353-png-cd361485-183d-47be-9ad1-922123494e5f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
-          "author": "yyctrader",
-          "description": "A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.",
-          "link": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
-          "publishedOn": "2026-03-31T16:39:17.000Z",
-          "wordCount": 6374,
-          "title": "Google Quantum AI Paper Rewrites Threat Timeline for Bitcoin, Ethereum Security",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png"
         }
       ]
     }
