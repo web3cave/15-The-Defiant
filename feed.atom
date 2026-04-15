@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T17:56:54.384Z</id>
+    <id>urn:2026-04-15T19:03:39.291Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T17:56:54.384Z</updated>
+    <updated>2026-04-15T19:03:39.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun Blasts WLFI Token Unlock Proposal as 'World Tyranny']]></title>
+        <id>https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny</id>
+        <link href="https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny"/>
+        <updated>2026-04-15T18:57:12.000Z</updated>
+        <summary type="html"><![CDATA[TRON founder escalates feud with Trump-linked DeFi project, alleging coercion and frozen voting rights.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Labs Launches Checkpoint, AI-Powered Governance Security System: Aave Labs]]></title>
+        <id>https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9</id>
+        <link href="https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9"/>
+        <updated>2026-04-15T18:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Aave Checkpoint combines automated AI analysis with mandatory human verification to review all DAO proposals before onchain execution.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Eyes Q2 Rebound as Institutions Deepen Crypto Commitment: Nexo]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo"/>
+        <updated>2026-04-15T17:57:02.000Z</updated>
+        <summary type="html"><![CDATA[After crypto's worst Q1 since 2018, ETF inflows have turned positive, and $268 billion in stablecoins sits on the sidelines waiting for a catalyst.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwise Launches Avalanche ETF With In-House Staking]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-avalanche-etf-with-in-house-staking</id>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report"/>
         <updated>2026-04-03T17:21:47.000Z</updated>
-        <summary type="html"><![CDATA[In a new staff research note published on Thursday, The International Monetary Fund (IMF) argues that tokenization represents a "structural shift in financial architecture," not just an incremental efficiency gain.]]></summary>
+        <summary type="html"><![CDATA[The International Monetary Fund also warns that the distribution and speed of on-chain transactions bring new challenges and risks that require international coordination.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Onchain data shows more than a dozen asset types drained from the Solana perp DEX's main vault address in a rapid burst of transactions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton Launches Dedicated 'Franklin Crypto' Division]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-launches-dedicated-franklin-crypto-division</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-launches-dedicated-franklin-crypto-division"/>
-        <updated>2026-04-01T15:48:35.000Z</updated>
-        <summary type="html"><![CDATA[The $1.7 trillion asset manager will absorb the 250 Digital team and all liquid crypto strategies previously managed by CoinFund, targeting pensions and sovereign wealth funds.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-USD stablecoin senders on Solana nearly tripled year-over-year, led by EURC and BRZ: Dune]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay"/>
-        <updated>2026-04-01T13:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Solana's non-USD stablecoin adoption surged nearly threefold in the past year, driven by EURC and BRZ growth alongside institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech]]></title>
-        <id>https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9</id>
-        <link href="https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9"/>
-        <updated>2026-04-01T11:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
