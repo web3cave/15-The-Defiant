@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
+          "author": "DefAInt",
+          "description": "CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.",
+          "link": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
+          "publishedOn": "2026-04-15T01:57:48.000Z",
+          "wordCount": 4532,
+          "title": "CoW Swap Domain Locked Due to Security Issue: CoW Swap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a7e661fb23c504ce09b0d7870308b182a3b83090-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a7e661fb23c504ce09b0d7870308b182a3b83090-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th",
+          "author": "DefAInt",
+          "description": "X introduced a new cashtag feature enabling users to tag and discuss stocks and cryptocurrencies directly on the platform.",
+          "link": "https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th",
+          "publishedOn": "2026-04-15T01:31:32.000Z",
+          "wordCount": 4413,
+          "title": "X Launches New Cashtag Feature for Stocks and Crypto: X",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16e35a7118f349e1d9c32fdbc8e25dbf1451230d-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16e35a7118f349e1d9c32fdbc8e25dbf1451230d-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/21shares-hyperliquid-etf-thyp-ticker-sec-filing-iy6iy6",
+          "author": "DefAInt",
+          "description": "21Shares submitted an updated regulatory filing for a US-listed Hyperliquid ETF with ticker symbol $THYP, with fee details still pending.",
+          "link": "https://thedefiant.io/news/regulation/21shares-hyperliquid-etf-thyp-ticker-sec-filing-iy6iy6",
+          "publishedOn": "2026-04-15T00:46:35.000Z",
+          "wordCount": 4359,
+          "title": "21Shares Files Updated Hyperliquid ETF Application With Ticker $THYP: SEC",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a22372007d6271fc711f4ead047c1d0aabacc16-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8a22372007d6271fc711f4ead047c1d0aabacc16-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn",
           "author": "DefAInt",
           "description": "The SEC granted accelerated approval to FINRA's rule change eliminating the Pattern Day Trader designation and its $25,000 minimum equity requirement for day traders.",
@@ -1253,7 +1298,7 @@
         {
           "id": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
           "author": "DefAInt",
-          "description": "Kraken launched an opt-in rewards program for xStocks on Thursday, offering users up to 1% rewards by holding tokenized U.S. equities and ETFs. The rewards program addresses a gap in traditional equities markets, which typically lack accessible yield mechanisms beyond dividends. xStocks, Kraken's 24/7 permissionless onchain equities products, enable crypto-native investors to access U.S. stocks and ETFs outside traditional market hours.",
+          "description": "Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.",
           "link": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
           "publishedOn": "2026-04-02T14:02:13.000Z",
           "wordCount": 4473,
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders",
-          "author": "yyctrader",
-          "description": "Ivan Kozlov shared the first public update on recovery efforts nine days after an attacker minted 80 million unbacked USR tokens and extracted roughly $23 million.",
-          "link": "https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders",
-          "publishedOn": "2026-03-31T18:57:02.000Z",
-          "wordCount": 4572,
-          "title": "Resolv Co-Founder Pledges 1:1 Redemptions for All Pre-Exploit USR Holders",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774983426965-png-ae41aac2-2b04-4f83-898b-c9c9f5f2a252.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774983426965-png-ae41aac2-2b04-4f83-898b-c9c9f5f2a252.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aztec-launches-alpha-network-ethereum-s-first-l2-for-private-smart-contracts",
-          "author": "yyctrader",
-          "description": "The a16z-backed privacy chain goes live with private smart contracts, but warns users of known critical vulnerabilities as audits continue.",
-          "link": "https://thedefiant.io/news/blockchains/aztec-launches-alpha-network-ethereum-s-first-l2-for-private-smart-contracts",
-          "publishedOn": "2026-03-31T18:00:01.000Z",
-          "wordCount": 4752,
-          "title": "Aztec Launches Alpha Network, Ethereum's First L2 for Private Smart Contracts",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774980370065-png-68cc9c5f-a3e1-4896-bc7d-0e65dad92cef.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774980370065-png-68cc9c5f-a3e1-4896-bc7d-0e65dad92cef.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot",
-          "author": "yyctrader",
-          "description": "Employees can elect to receive a portion of their salary in shares of WTGXX, earning yield from the day compensation is paid.",
-          "link": "https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot",
-          "publishedOn": "2026-03-31T17:03:45.000Z",
-          "wordCount": 4729,
-          "title": "Plume Turns Paychecks Into Yield-Bearing Assets in RWA Payroll Pilot",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774976938353-png-cd361485-183d-47be-9ad1-922123494e5f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774976938353-png-cd361485-183d-47be-9ad1-922123494e5f.png"
         }
       ]
     }

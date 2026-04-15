@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T01:16:52.889Z</id>
+    <id>urn:2026-04-15T04:35:32.548Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T01:16:52.889Z</updated>
+    <updated>2026-04-15T04:35:32.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CoW Swap Domain Locked Due to Security Issue: CoW Swap]]></title>
+        <id>https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5</id>
+        <link href="https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5"/>
+        <updated>2026-04-15T01:57:48.000Z</updated>
+        <summary type="html"><![CDATA[CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X Launches New Cashtag Feature for Stocks and Crypto: X]]></title>
+        <id>https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th</id>
+        <link href="https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th"/>
+        <updated>2026-04-15T01:31:32.000Z</updated>
+        <summary type="html"><![CDATA[X introduced a new cashtag feature enabling users to tag and discuss stocks and cryptocurrencies directly on the platform.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21Shares Files Updated Hyperliquid ETF Application With Ticker $THYP: SEC]]></title>
+        <id>https://thedefiant.io/news/regulation/21shares-hyperliquid-etf-thyp-ticker-sec-filing-iy6iy6</id>
+        <link href="https://thedefiant.io/news/regulation/21shares-hyperliquid-etf-thyp-ticker-sec-filing-iy6iy6"/>
+        <updated>2026-04-15T00:46:35.000Z</updated>
+        <summary type="html"><![CDATA[21Shares submitted an updated regulatory filing for a US-listed Hyperliquid ETF with ticker symbol $THYP, with fee details still pending.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Approves Elimination of Pattern Day Trader Rule and $25,000 Minimum: FINRA]]></title>
         <id>https://thedefiant.io/news/regulation/sec-approves-elimination-pattern-day-trader-rule-25000-minimum-shfufn</id>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm</id>
         <link href="https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm"/>
         <updated>2026-04-02T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Kraken launched an opt-in rewards program for xStocks on Thursday, offering users up to 1% rewards by holding tokenized U.S. equities and ETFs. The rewards program addresses a gap in traditional equities markets, which typically lack accessible yield mechanisms beyond dividends. xStocks, Kraken's 24/7 permissionless onchain equities products, enable crypto-native investors to access U.S. stocks and ETFs outside traditional market hours.]]></summary>
+        <summary type="html"><![CDATA[Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents"/>
         <updated>2026-03-31T19:12:43.000Z</updated>
         <summary type="html"><![CDATA[Coinbase's Layer 2 shifts focus to tokenizing every major asset class and scaling stablecoin payments.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolv Co-Founder Pledges 1:1 Redemptions for All Pre-Exploit USR Holders]]></title>
-        <id>https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders</id>
-        <link href="https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders"/>
-        <updated>2026-03-31T18:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Ivan Kozlov shared the first public update on recovery efforts nine days after an attacker minted 80 million unbacked USR tokens and extracted roughly $23 million.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec Launches Alpha Network, Ethereum's First L2 for Private Smart Contracts]]></title>
-        <id>https://thedefiant.io/news/blockchains/aztec-launches-alpha-network-ethereum-s-first-l2-for-private-smart-contracts</id>
-        <link href="https://thedefiant.io/news/blockchains/aztec-launches-alpha-network-ethereum-s-first-l2-for-private-smart-contracts"/>
-        <updated>2026-03-31T18:00:01.000Z</updated>
-        <summary type="html"><![CDATA[The a16z-backed privacy chain goes live with private smart contracts, but warns users of known critical vulnerabilities as audits continue.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plume Turns Paychecks Into Yield-Bearing Assets in RWA Payroll Pilot]]></title>
-        <id>https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot</id>
-        <link href="https://thedefiant.io/news/defi/plume-turns-paychecks-into-yield-bearing-assets-in-rwa-payroll-pilot"/>
-        <updated>2026-03-31T17:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Employees can elect to receive a portion of their salary in shares of WTGXX, earning yield from the day compensation is paid.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
