@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
+          "author": "DefAInt",
+          "description": "The governance proposal would give early token buyers the ability to start unlocking their tokens in two years — notably, after Trump's second presidential term ends.",
+          "link": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
+          "publishedOn": "2026-04-15T14:39:10.000Z",
+          "wordCount": 4979,
+          "title": "WLFI Moves to End Indefinite Token Lock with Four-Year Vesting Proposal",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
+          "author": "DefAInt",
+          "description": "Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.",
+          "link": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
+          "publishedOn": "2026-04-15T10:46:18.000Z",
+          "wordCount": 4371,
+          "title": "Bitcoin Developers Propose Freezing Quantum-Vulnerable Coins in BIP-361",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43c68916364ecd62b0d1be6ccc19b6f543e5abf2-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43c68916364ecd62b0d1be6ccc19b6f543e5abf2-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
           "author": "DefAInt",
           "description": "CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/markets/riot-platforms-sells-3778-btc-q1-2026-gpb4vo",
           "author": "DefAInt",
-          "description": "Nasdaq-listed Bitcoin miner Riot Platforms sold 3,778 BTC in the first quarter of 2026, generating roughly $289.5 million in net proceeds.",
+          "description": "Riot Platforms, a major publicly traded Bitcoin mining company listed on Nasdaq, sold 3,778 BTC during Q1 2026, netting approximately $289.5 million in proceeds. The sale represents a significant reduction in the miner's Bitcoin holdings and marks a notable shift in the company's position management strategy.",
           "link": "https://thedefiant.io/news/markets/riot-platforms-sells-3778-btc-q1-2026-gpb4vo",
           "publishedOn": "2026-04-03T15:13:57.000Z",
           "wordCount": 4332,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/74df27769099e605cdf4da89f9c4b7b91fee1cfc-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/square-bitcoin-pos-zero-fees-2026-xl0czz",
-          "author": "DefAInt",
-          "description": "Square is waiving processing fees for Bitcoin payments at US merchants for two years, with instant dollar conversion to reduce adoption barriers.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/square-bitcoin-pos-zero-fees-2026-xl0czz",
-          "publishedOn": "2026-04-01T07:32:22.000Z",
-          "wordCount": 4480,
-          "title": "Square launches zero-fee Bitcoin payments for US merchants through 2026: Square",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0a7ad44e90f0f5e2b5c1d4df2776224120bef14-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0a7ad44e90f0f5e2b5c1d4df2776224120bef14-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
-          "author": "yyctrader",
-          "description": "Coinbase's Layer 2 shifts focus to tokenizing every major asset class and scaling stablecoin payments.",
-          "link": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
-          "publishedOn": "2026-03-31T19:12:43.000Z",
-          "wordCount": 4928,
-          "title": "Base Doubles Down on Global Markets, Stablecoins, and AI Agents",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png"
         }
       ]
     }
