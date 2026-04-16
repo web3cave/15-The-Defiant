@@ -6,6 +6,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch",
+          "author": "Olivia Capozzalo",
+          "description": "The $12 trillion brokerage will begin a phased rollout of Schwab Crypto, offering direct spot BTC and ETH trading to retail investors in the coming weeks.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch",
+          "publishedOn": "2026-04-16T17:43:31.000Z",
+          "wordCount": 4898,
+          "title": "Charles Schwab Announces Rollout of Spot BTC and ETH Trading for Retail Clients",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16365971d745291e617c1cdc7e0b98efec4bb8e4-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16365971d745291e617c1cdc7e0b98efec4bb8e4-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/south-korea-to-test-deposit-tokens-for-government-spending",
+          "author": "yyctrader",
+          "description": "Nine major banks will participate in the pilot, which replaces government purchase cards with programmable blockchain-based payments starting in Q4.",
+          "link": "https://thedefiant.io/news/regulation/south-korea-to-test-deposit-tokens-for-government-spending",
+          "publishedOn": "2026-04-16T17:29:27.000Z",
+          "wordCount": 4784,
+          "title": "South Korea to Test Deposit Tokens for Government Spending",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1776360569452-png-e688f6ba-fca4-4ff6-9b11-434fcba9b058.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1776360569452-png-e688f6ba-fca4-4ff6-9b11-434fcba9b058.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions",
+          "author": "yyctrader",
+          "description": "The Stripe-incubated blockchain is pitching privacy as the missing piece for institutional stablecoin adoption.",
+          "link": "https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions",
+          "publishedOn": "2026-04-16T16:34:15.000Z",
+          "wordCount": 4627,
+          "title": "Tempo Unveils 'Zones' for Private Enterprise Stablecoin Transactions",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1776357907613-png-1dfb6329-1f9c-4550-ad19-6defdf3cd703.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1776357907613-png-1dfb6329-1f9c-4550-ad19-6defdf3cd703.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/ethereum-foundation-departures-josh-stark-trent-eth",
+          "author": "Olivia Capozzalo",
+          "description": "Josh Stark, a member of the EF's leadership team, and Trent Van Epps both separately announced this week that they are leaving the foundation after five years.",
+          "link": "https://thedefiant.io/news/people/ethereum-foundation-departures-josh-stark-trent-eth",
+          "publishedOn": "2026-04-16T16:19:18.000Z",
+          "wordCount": 5277,
+          "title": "Two Long-Time Ethereum Foundation Contributors Announce Departures",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/markets-flat-eth-png-c8f309d7-8d33-4955-9e3b-a47fcfd1ae4e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/markets-flat-eth-png-c8f309d7-8d33-4955-9e3b-a47fcfd1ae4e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan",
           "author": "DefAInt",
           "description": "Tether is leading a $150M recovery initiative for Drift Protocol; the plan will also shift the perp DEX's primary settlement asset to USDT on Solana.",
@@ -1193,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw",
           "author": "DefAInt",
-          "description": "Solana Foundation unveiled STRIDE, a comprehensive security evaluation program for DeFi protocols, alongside SIRN, a membership-based incident response network with five founding security firms.",
+          "description": "The Solana Foundation announced the launch of STRIDE (Solana Trust, Resilience and Infrastructure for DeFi Enterprises) and the Solana Incident Response Network (SIRN) on Monday. STRIDE establishes security requirements and independent evaluations for Solana protocols, with the Solana Foundation funding formal verification for protocols above $100M TVL and providing 24/7 threat monitoring for those above $10M TVL. SIRN, a membership-based network led by founding members Asymmetric Research, OpenZeppelin Security, Neodyme, Multisig, and Zero Shadow, offers real-time incident response across the ecosystem with prioritization by TVL.",
           "link": "https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw",
           "publishedOn": "2026-04-07T00:17:05.000Z",
           "wordCount": 4647,
@@ -1444,66 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1775144987988-png-1d7671d5-0d40-4009-b135-9e9735e0bbd1.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
-          "author": "DefAInt",
-          "description": "Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.",
-          "link": "https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm",
-          "publishedOn": "2026-04-02T14:02:13.000Z",
-          "wordCount": 4482,
-          "title": "Kraken launches opt-in rewards program for xStocks tokenized equities",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc3428bd5b0915c74c4c9bed34a744b6b7aa8350-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc3428bd5b0915c74c4c9bed34a744b6b7aa8350-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
-          "author": "DefAInt",
-          "description": "Ethereum's share of non-USD stablecoin supply has fallen from 90% in early 2023 to 65% as of February 2026, though it remains the primary issuance chain.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe",
-          "publishedOn": "2026-04-02T13:16:31.000Z",
-          "wordCount": 4454,
-          "title": "Ethereum's stablecoin dominance declines to 65% as other chains gain ground: Dune and Visa report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad3bffbae778e48a10288cccafb510153aa0dbd0-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ad3bffbae778e48a10288cccafb510153aa0dbd0-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs",
-          "author": "DefAInt",
-          "description": "SoFi, a nationally chartered bank with 13.7M members and $50B+ in assets, launched an enterprise banking platform combining fiat and stablecoin services on Solana with 24/7 payment support.",
-          "link": "https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs",
-          "publishedOn": "2026-04-02T12:16:41.000Z",
-          "wordCount": 4557,
-          "title": "SoFi launches Big Business Banking platform on Solana: SoFi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/73b84b9db6a0a5b1ac8e9c86c6ef00406a3baf0e-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73b84b9db6a0a5b1ac8e9c86c6ef00406a3baf0e-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7",
-          "author": "DefAInt",
-          "description": "Paradigm is building a prediction markets trading terminal aimed at professional traders and market makers, with partner Arjun Balaji leading the effort since late 2025.",
-          "link": "https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7",
-          "publishedOn": "2026-04-02T10:32:03.000Z",
-          "wordCount": 4528,
-          "title": "Paradigm develops prediction markets trading terminal for pro traders: Fortune",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/889f04d9b2311b59ceb9195777d299f46f3ba638-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/889f04d9b2311b59ceb9195777d299f46f3ba638-1792x1024.jpg"
         }
       ]
     }
