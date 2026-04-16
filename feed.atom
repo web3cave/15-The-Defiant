@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T12:59:59.877Z</id>
+    <id>urn:2026-04-16T14:55:18.945Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-16T12:59:59.877Z</updated>
+    <updated>2026-04-16T14:55:18.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Commits $127.5M to Drift Protocol Recovery Plan Following $270M+ Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan</id>
+        <link href="https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan"/>
+        <updated>2026-04-16T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Tether is leading a $150M recovery initiative for Drift Protocol; the plan will also shift the perp DEX's primary settlement asset to USDT on Solana.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Stalls Below $75,000 amid Geopolitical Fog and Tax-Day Selling]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/polymarket-profitability-report-april-2026</id>
         <link href="https://thedefiant.io/news/research-and-opinion/polymarket-profitability-report-april-2026"/>
         <updated>2026-04-06T18:01:26.000Z</updated>
-        <summary type="html"><![CDATA[84.1% of all Polymarket traders are in the red, according to new research published today, April 6, by independent on-chain analyst Andrey Sergeenkov.]]></summary>
+        <summary type="html"><![CDATA[On-chain researcher Andrey Sergeenkov found that only 2% of the 2.5 million wallets analyzed have ever made over $1,000.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Paradigm is building a prediction markets trading terminal aimed at professional traders and market makers, with partner Arjun Balaji leading the effort since late 2025.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Reclaims $68,000 as Iran Ceasefire Hopes Fuel Risk-On Rally]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd68-000-as-iran-ceasefire-hopes-fuel-risk-on-rally</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-usd68-000-as-iran-ceasefire-hopes-fuel-risk-on-rally"/>
-        <updated>2026-04-01T20:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets rose as oil prices retreated under $100 a barrel on growing expectations that the conflict could wind down within weeks.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
