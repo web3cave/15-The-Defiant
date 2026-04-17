@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-17T12:51:38.059Z</id>
+    <id>urn:2026-04-17T14:14:09.482Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-17T12:51:38.059Z</updated>
+    <updated>2026-04-17T14:14:09.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken's Parent Firm to Acquire US Derivatives Exchange Bitnomial]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial"/>
+        <updated>2026-04-17T13:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Payward has entered into a definitive agreement to acquire Bitnomial for up to $550 million.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mitsui &amp;  Co.'s Crypto Arm Brings Tokenized Metals Asset Zipangcoin to OP Mainnet]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/mitsui-and-co-s-crypto-arm-brings-tokenized-metals-asset-zipangcoin-to-op-mainnet</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api</id>
         <link href="https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api"/>
         <updated>2026-04-07T16:47:11.000Z</updated>
-        <summary type="html"><![CDATA[The new tool from the Solana-based DEX aggregator lets DEXs, launchpads, and AI agents build verification into their token creation flows.]]></summary>
+        <summary type="html"><![CDATA[Jupiter, the largest decentralized exchange aggregator by trading volume, today announced a new developer tool, the Express Verification API by Jupiter VRFD.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network"/>
         <updated>2026-04-07T14:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Institutional collateral and liquidity optimization fintech Transcend announced today, April 7, that it has connected to privacy-focused blockchain Canton Network. The integration enables clients to move collateral and cash in real time across counterparties and markets using a mix of traditional and tokenized assets.]]></summary>
+        <summary type="html"><![CDATA[The collateral and liquidity focused fintech is also building a node-as-a-service on Canton, which is known as an institution-focused blockchain platform.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The ETH treasury company posted its largest weekly purchase since December, and will begin trading on the main NYSE board on Thursday.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF Says Tokenization Is a 'Structural Shift' in Finance, Not Just a Tech Upgrade]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report"/>
-        <updated>2026-04-03T17:21:47.000Z</updated>
-        <summary type="html"><![CDATA[The International Monetary Fund also warns that the distribution and speed of on-chain transactions bring new challenges and risks that require international coordination.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>

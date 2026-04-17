@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial",
+          "author": "Olivia Capozzalo",
+          "description": "Payward has entered into a definitive agreement to acquire Bitnomial for up to $550 million.",
+          "link": "https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial",
+          "publishedOn": "2026-04-17T13:58:56.000Z",
+          "wordCount": 4727,
+          "title": "Kraken's Parent Firm to Acquire US Derivatives Exchange Bitnomial",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/nyc-btc-jpg-9bf652e4-39e8-43eb-adbb-abd33eeae2cb.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/nyc-btc-jpg-9bf652e4-39e8-43eb-adbb-abd33eeae2cb.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/mitsui-and-co-s-crypto-arm-brings-tokenized-metals-asset-zipangcoin-to-op-mainnet",
           "author": "DefAInt",
           "description": "The shift to Optimism is ZPG's first deployment on a public blockchain since launching in 2022, and the start of its global rollout.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api",
           "author": "DefAInt",
-          "description": "The new tool from the Solana-based DEX aggregator lets DEXs, launchpads, and AI agents build verification into their token creation flows.",
+          "description": "Jupiter, the largest decentralized exchange aggregator by trading volume, today announced a new developer tool, the Express Verification API by Jupiter VRFD.",
           "link": "https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api",
           "publishedOn": "2026-04-07T16:47:11.000Z",
           "wordCount": 4687,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network",
           "author": "DefAInt",
-          "description": "Institutional collateral and liquidity optimization fintech Transcend announced today, April 7, that it has connected to privacy-focused blockchain Canton Network. The integration enables clients to move collateral and cash in real time across counterparties and markets using a mix of traditional and tokenized assets.",
+          "description": "The collateral and liquidity focused fintech is also building a node-as-a-service on Canton, which is known as an institution-focused blockchain platform.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network",
           "publishedOn": "2026-04-07T14:41:56.000Z",
           "wordCount": 4896,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btc-eth-city-png-0241d42d-1776-4e94-9c9c-4fc0917b4e36.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report",
-          "author": "Olivia Capozzalo",
-          "description": "The International Monetary Fund also warns that the distribution and speed of on-chain transactions bring new challenges and risks that require international coordination.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/imf-tokenization-report",
-          "publishedOn": "2026-04-03T17:21:47.000Z",
-          "wordCount": 5345,
-          "title": "IMF Says Tokenization Is a 'Structural Shift' in Finance, Not Just a Tech Upgrade",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/gen-block-jpg-30367ddf-d725-4c41-9c0c-55238b52c008.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/gen-block-jpg-30367ddf-d725-4c41-9c0c-55238b52c008.jpg"
         }
       ]
     }
