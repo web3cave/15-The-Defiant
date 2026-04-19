@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9",
+          "author": "Camila Russo",
+          "description": "Attacker minted unbacked rsETH through Kelp's LayerZero bridge, then borrowed WETH on Aave V3 and V4 before markets could freeze.",
+          "link": "https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9",
+          "publishedOn": "2026-04-19T14:47:06.000Z",
+          "wordCount": 6066,
+          "title": "Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6b4668657ab3fd35473b60ae0e1851e0211a0d39-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6b4668657ab3fd35473b60ae0e1851e0211a0d39-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i",
           "author": "DefAInt",
           "description": "Solana announced wXRP is live on Titan Exchange, Real, Phantom, Jupiter, and Meteora, expanding cross-chain asset availability on the blockchain.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx",
           "author": "DefAInt",
-          "description": "The Federal Deposit Insurance Corporation a proposed rule that would establish a framework for stablecoin issuers supervised by the FDIC.",
+          "description": "The Federal Deposit Insurance Corporation proposed new rules on Tuesday to oversee stablecoins issued through the banking system under the GENIUS Act. The FDIC board of directors voted to advance the proposal, which sets parameters for how stablecoins may be issued and managed by regulated depository institutions.",
           "link": "https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx",
           "publishedOn": "2026-04-08T12:32:12.000Z",
           "wordCount": 4353,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/55361d3ce3ea219a02792c9fd6b050893ec693e8-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite",
-          "author": "yyctrader",
-          "description": "A 45-day ceasefire plan and Strategy's $330M Bitcoin purchase buoyed crypto markets.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite",
-          "publishedOn": "2026-04-06T18:36:09.000Z",
-          "wordCount": 4898,
-          "title": "Bitcoin Nears $70,000 as Ceasefire Proposal Lifts Risk Appetite",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775500754773-png-2d18e4a0-733f-4659-b9c0-c0f652f574e9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775500754773-png-2d18e4a0-733f-4659-b9c0-c0f652f574e9.png"
         }
       ]
     }

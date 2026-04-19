@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-19T18:31:21.972Z</id>
+    <id>urn:2026-04-19T19:32:51.867Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-19T18:31:21.972Z</updated>
+    <updated>2026-04-19T19:32:51.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt]]></title>
+        <id>https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9</id>
+        <link href="https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9"/>
+        <updated>2026-04-19T14:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Attacker minted unbacked rsETH through Kelp's LayerZero bridge, then borrowed WETH on Aave V3 and V4 before markets could freeze.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wrapped XRP Now Available Across Major Solana Apps: Solana]]></title>
         <id>https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx</id>
         <link href="https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx"/>
         <updated>2026-04-08T12:32:12.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Deposit Insurance Corporation a proposed rule that would establish a framework for stablecoin issuers supervised by the FDIC.]]></summary>
+        <summary type="html"><![CDATA[The Federal Deposit Insurance Corporation proposed new rules on Tuesday to oversee stablecoins issued through the banking system under the GENIUS Act. The FDIC board of directors voted to advance the proposal, which sets parameters for how stablecoins may be issued and managed by regulated depository institutions.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[BlackRock's BUIDL token on Ethereum has exceeded $1 billion in market capitalization, up approximately 115% year-to-date.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Nears $70,000 as Ceasefire Proposal Lifts Risk Appetite]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite"/>
-        <updated>2026-04-06T18:36:09.000Z</updated>
-        <summary type="html"><![CDATA[A 45-day ceasefire plan and Strategy's $330M Bitcoin purchase buoyed crypto markets.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
