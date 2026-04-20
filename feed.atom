@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T11:08:50.169Z</id>
+    <id>urn:2026-04-20T13:00:45.472Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T11:08:50.169Z</updated>
+    <updated>2026-04-20T13:00:45.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service]]></title>
+        <id>https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay</id>
+        <link href="https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay"/>
+        <updated>2026-04-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tangem Pay lets users spend USDC directly from their self-custodial Tangem wallets, settling all transactions on Polygon.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff"/>
         <updated>2026-04-08T13:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.]]></summary>
+        <summary type="html"><![CDATA[Securitize announced a partnership with Currenc Group (Nasdaq: CURR) to tokenize the company's ordinary shares on Ethereum and Solana. The move comes as Securitize was recently named the first digital transfer agent in the NYSE's onchain securities initiative. Tokenized shares will enable 24/7 trading, lower costs, fractional ownership, and DeFi integration.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact</id>
         <link href="https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact"/>
         <updated>2026-04-08T13:27:07.000Z</updated>
-        <summary type="html"><![CDATA[The White House Council of Economic Advisers released a study Wednesday examining stablecoin yield and its impact on deposit flight and bank lending. The report finds that eliminating stablecoin yield would increase bank lending by just 0.02%—approximately $2.1 billion—while resulting in a net welfare loss to consumers. The findings directly contradict concerns from some Senate Banking lawmakers who had pressed the White House to release the report.]]></summary>
+        <summary type="html"><![CDATA[A White House Council of Economic Advisers study released Wednesday concludes that banning stablecoin yield would have minimal impact on bank lending and would harm consumers.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw"/>
         <updated>2026-04-07T00:17:05.000Z</updated>
         <summary type="html"><![CDATA[Solana Foundation unveiled STRIDE, a comprehensive security evaluation program for DeFi protocols, alongside SIRN, a membership-based incident response network with five founding security firms.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Projects Tokenized Real-World Assets Market Could Reach $13 Trillion by 2030: JPMorgan]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-tokenized-assets-13-trillion-2030-oiqmg6</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-tokenized-assets-13-trillion-2030-oiqmg6"/>
-        <updated>2026-04-06T21:31:38.000Z</updated>
-        <summary type="html"><![CDATA[JPMorgan says the tokenized real-world assets market could grow to $13 trillion by 2030.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
