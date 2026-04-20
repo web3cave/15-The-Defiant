@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/defi-protocols-launch-joint-escape-hatch-for-aave-eth-lenders-and-loopers",
+          "author": "Camila Russo",
+          "description": "Fluid's aWETH Redemption Protocol, launched with Lido, Ether.fi, 1inch, 0x and Kyber, has processed $136M out of Aave's frozen WETH pool in 48 hours.",
+          "link": "https://thedefiant.io/news/defi/defi-protocols-launch-joint-escape-hatch-for-aave-eth-lenders-and-loopers",
+          "publishedOn": "2026-04-20T21:53:12.000Z",
+          "wordCount": 5822,
+          "title": "DeFi Protocols Launch Joint Escape Hatch for Aave ETH Lenders and Loopers",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/escape-hatch-jpg-28145a61-d835-4e3f-a594-110b9f8b3bcd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/escape-hatch-jpg-28145a61-d835-4e3f-a594-110b9f8b3bcd.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to",
           "author": "Camila Russo",
           "description": "In a detailed incident report, Aave service providers quantified the protocol's exposure for the first time and outlined two scenarios depending on how Kelp DAO allocates the loss. LayerZero and Kelp continue to blame each other for the compromised bridge configuration.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d6cccbdd9e60ab0588b0994d1d97df1909acd8b9-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/north-korean-agents-defi-platforms-drift-protocol-sxz326",
-          "author": "DefAInt",
-          "description": "Security researcher Taylor Monahan claims North Korean IT workers have infiltrated more than 40 decentralized finance platforms, with the $280 million Drift Protocol exploit last week being the latest operation tied to the network.",
-          "link": "https://thedefiant.io/news/security/north-korean-agents-defi-platforms-drift-protocol-sxz326",
-          "publishedOn": "2026-04-07T12:47:05.000Z",
-          "wordCount": 4697,
-          "title": "North Korean Agents Embedded in 40+ DeFi Platforms for Nearly a Decade: Taylor Monahan",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7309a7d340e6b73aa0e49e251ccc98c828c3902-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d7309a7d340e6b73aa0e49e251ccc98c828c3902-1792x1024.jpg"
         }
       ]
     }
