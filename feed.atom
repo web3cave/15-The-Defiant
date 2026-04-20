@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T13:00:45.472Z</id>
+    <id>urn:2026-04-20T15:07:16.205Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T13:00:45.472Z</updated>
+    <updated>2026-04-20T15:07:16.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,26 @@
         <summary type="html"><![CDATA[Tangem Pay lets users spend USDC directly from their self-custodial Tangem wallets, settling all transactions on Polygon.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment]]></title>
+        <id>https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw</id>
+        <link href="https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw"/>
+        <updated>2026-04-20T11:46:26.000Z</updated>
+        <summary type="html"><![CDATA[AAVE, ZRO, LDO, and ENA tokens plunged 10–22% as market repriced risk across DeFi protocols exposed to a bad debt event, with LayerZero priced as equally culpable as the originating lender.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise]]></title>
+        <id>https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3</id>
+        <link href="https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3"/>
+        <updated>2026-04-20T11:31:28.000Z</updated>
+        <summary type="html"><![CDATA[North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.]]></summary>
+        <author>
+            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents</id>
         <link href="https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents"/>
         <updated>2026-04-08T16:23:20.000Z</updated>
-        <summary type="html"><![CDATA[On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.]]></summary>
+        <summary type="html"><![CDATA[Blockchain infrastructure company Biconomy has unveiled ERC-8211, an execution standard for on-chain AI agents, co-developed with the Ethereum Foundation, per an X post on April 7.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff"/>
         <updated>2026-04-08T13:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Securitize announced a partnership with Currenc Group (Nasdaq: CURR) to tokenize the company's ordinary shares on Ethereum and Solana. The move comes as Securitize was recently named the first digital transfer agent in the NYSE's onchain securities initiative. Tokenized shares will enable 24/7 trading, lower costs, fractional ownership, and DeFi integration.]]></summary>
+        <summary type="html"><![CDATA[Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/polygon-giugliano-hardfork-april-8-lb1l6o"/>
         <updated>2026-04-07T11:07:05.000Z</updated>
         <summary type="html"><![CDATA[The Polygon Foundation confirmed the Giugliano hardfork will activate on mainnet at block 85,268,500 on April 8 at approximately 2 p.m. UTC.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Stablecoin Supply Hits $180 Billion All-Time High: Token Terminal]]></title>
-        <id>https://thedefiant.io/news/markets/ethereum-stablecoin-supply-180-billion-ath-7m5r5w</id>
-        <link href="https://thedefiant.io/news/markets/ethereum-stablecoin-supply-180-billion-ath-7m5r5w"/>
-        <updated>2026-04-07T10:46:33.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's stablecoin supply reached an all-time high of $180 billion, representing 150% growth over three years and 60% of the total stablecoin market.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Foundation Launches STRIDE Security Program: Solana Foundation]]></title>
-        <id>https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw</id>
-        <link href="https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw"/>
-        <updated>2026-04-07T00:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Solana Foundation unveiled STRIDE, a comprehensive security evaluation program for DeFi protocols, alongside SIRN, a membership-based incident response network with five founding security firms.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

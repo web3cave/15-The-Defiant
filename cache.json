@@ -21,6 +21,36 @@
           "imageUrl": "https://cdn.thedefiant.io/card-payment-jpg-94236bde-ff30-4929-949d-108c1b19e2c7.jpg"
         },
         {
+          "id": "https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw",
+          "author": "DefAInt",
+          "description": "AAVE, ZRO, LDO, and ENA tokens plunged 10–22% as market repriced risk across DeFi protocols exposed to a bad debt event, with LayerZero priced as equally culpable as the originating lender.",
+          "link": "https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw",
+          "publishedOn": "2026-04-20T11:46:26.000Z",
+          "wordCount": 4574,
+          "title": "DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/genius-1-png-d6c792f9-e951-4e14-92e1-3812571c60f7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/genius-1-png-d6c792f9-e951-4e14-92e1-3812571c60f7.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3",
+          "author": "DefAInt",
+          "description": "North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.",
+          "link": "https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3",
+          "publishedOn": "2026-04-20T11:31:28.000Z",
+          "wordCount": 4857,
+          "title": "LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
           "author": "DefAInt",
           "description": "Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
           "author": "DefAInt",
-          "description": "On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.",
+          "description": "Blockchain infrastructure company Biconomy has unveiled ERC-8211, an execution standard for on-chain AI agents, co-developed with the Ethereum Foundation, per an X post on April 7.",
           "link": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
           "publishedOn": "2026-04-08T16:23:20.000Z",
           "wordCount": 5114,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff",
           "author": "DefAInt",
-          "description": "Securitize announced a partnership with Currenc Group (Nasdaq: CURR) to tokenize the company's ordinary shares on Ethereum and Solana. The move comes as Securitize was recently named the first digital transfer agent in the NYSE's onchain securities initiative. Tokenized shares will enable 24/7 trading, lower costs, fractional ownership, and DeFi integration.",
+          "description": "Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff",
           "publishedOn": "2026-04-08T13:32:22.000Z",
           "wordCount": 4473,
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/effb19004129bafd3e85c7f122506cad675a5e0d-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-stablecoin-supply-180-billion-ath-7m5r5w",
-          "author": "DefAInt",
-          "description": "Ethereum's stablecoin supply reached an all-time high of $180 billion, representing 150% growth over three years and 60% of the total stablecoin market.",
-          "link": "https://thedefiant.io/news/markets/ethereum-stablecoin-supply-180-billion-ath-7m5r5w",
-          "publishedOn": "2026-04-07T10:46:33.000Z",
-          "wordCount": 4373,
-          "title": "Ethereum Stablecoin Supply Hits $180 Billion All-Time High: Token Terminal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d296c21fe24e3474342564ec4593a66f53497bc6-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d296c21fe24e3474342564ec4593a66f53497bc6-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw",
-          "author": "DefAInt",
-          "description": "Solana Foundation unveiled STRIDE, a comprehensive security evaluation program for DeFi protocols, alongside SIRN, a membership-based incident response network with five founding security firms.",
-          "link": "https://thedefiant.io/news/security/solana-foundation-stride-security-program-sirn-incident-response-48lxbw",
-          "publishedOn": "2026-04-07T00:17:05.000Z",
-          "wordCount": 4661,
-          "title": "Solana Foundation Launches STRIDE Security Program: Solana Foundation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3ea37a03940fe9baa981bd1ec0b18ff6687aa002-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3ea37a03940fe9baa981bd1ec0b18ff6687aa002-1792x1024.jpg"
         }
       ]
     }
