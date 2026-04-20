@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to",
+          "author": "Camila Russo",
+          "description": "In a detailed incident report, Aave service providers quantified the protocol's exposure for the first time and outlined two scenarios depending on how Kelp DAO allocates the loss. LayerZero and Kelp continue to blame each other for the compromised bridge configuration.",
+          "link": "https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to",
+          "publishedOn": "2026-04-20T20:03:54.000Z",
+          "wordCount": 6107,
+          "title": "Aave Models $124M to $230M in Bad Debt From Kelp Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bad-debt-jpg-4cf8a72f-cf0b-47f0-a144-fbf14544ca0b.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bad-debt-jpg-4cf8a72f-cf0b-47f0-a144-fbf14544ca0b.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq",
           "author": "DefAInt",
           "description": "Analysis of 2,665 LayerZero OApp contracts shows nearly half rely on single-validator security configurations, the same setup that exposed KelpDAO's rsETH to exploitation.",
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi",
           "author": "DefAInt",
-          "description": "Circle today launched Circle Payments Network (CPN) Managed Payments, a stablecoin settlement solution aimed simplifying stablecoin transactions for traditional financial institutions, according to a  press release from the firm.",
+          "description": "Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi",
           "publishedOn": "2026-04-08T17:02:09.000Z",
           "wordCount": 4648,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d7309a7d340e6b73aa0e49e251ccc98c828c3902-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8",
-          "author": "DefAInt",
-          "description": "US-listed spot bitcoin ETFs posted their strongest day since late February with $471.32 million in net inflows on April 6.",
-          "link": "https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8",
-          "publishedOn": "2026-04-07T12:47:05.000Z",
-          "wordCount": 4506,
-          "title": "Spot Bitcoin ETFs Record $471M Inflow in Largest Single Day in Six Weeks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/53b5aa084d8ab2c7eac6f2cd2e9a205fb7ad7b9b-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/53b5aa084d8ab2c7eac6f2cd2e9a205fb7ad7b9b-1792x1024.jpg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T20:34:02.035Z</id>
+    <id>urn:2026-04-20T21:35:43.634Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T20:34:02.035Z</updated>
+    <updated>2026-04-20T21:35:43.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Models $124M to $230M in Bad Debt From Kelp Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to</id>
+        <link href="https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to"/>
+        <updated>2026-04-20T20:03:54.000Z</updated>
+        <summary type="html"><![CDATA[In a detailed incident report, Aave service providers quantified the protocol's exposure for the first time and outlined two scenarios depending on how Kelp DAO allocates the loss. LayerZero and Kelp continue to blame each other for the compromised bridge configuration.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack]]></title>
         <id>https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi"/>
         <updated>2026-04-08T17:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Circle today launched Circle Payments Network (CPN) Managed Payments, a stablecoin settlement solution aimed simplifying stablecoin transactions for traditional financial institutions, according to a  press release from the firm.]]></summary>
+        <summary type="html"><![CDATA[Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/north-korean-agents-defi-platforms-drift-protocol-sxz326"/>
         <updated>2026-04-07T12:47:05.000Z</updated>
         <summary type="html"><![CDATA[Security researcher Taylor Monahan claims North Korean IT workers have infiltrated more than 40 decentralized finance platforms, with the $280 million Drift Protocol exploit last week being the latest operation tied to the network.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spot Bitcoin ETFs Record $471M Inflow in Largest Single Day in Six Weeks]]></title>
-        <id>https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8</id>
-        <link href="https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8"/>
-        <updated>2026-04-07T12:47:05.000Z</updated>
-        <summary type="html"><![CDATA[US-listed spot bitcoin ETFs posted their strongest day since late February with $471.32 million in net inflows on April 6.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
