@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T16:01:29.886Z</id>
+    <id>urn:2026-04-21T17:49:40.560Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T16:01:29.886Z</updated>
+    <updated>2026-04-21T17:49:40.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New York Attorney General Sues Coinbase, Gemini Over Unlicensed Prediction Markets]]></title>
+        <id>https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets</id>
+        <link href="https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets"/>
+        <updated>2026-04-21T17:15:19.000Z</updated>
+        <summary type="html"><![CDATA[New York AG Letitia James filed suit against Coinbase and Gemini, alleging their prediction market platforms constitute illegal gambling operations lacking state licenses.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Partially Unfreezes WETH After Kelp Bridge Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit</id>
+        <link href="https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit"/>
+        <updated>2026-04-21T16:59:55.000Z</updated>
+        <summary type="html"><![CDATA[After attackers deposited rsETH from an exploited Kelp bridge and borrowed Wrapped ETH, Aave had frozen WETH across multiple markets.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace]]></title>
+        <id>https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra</id>
+        <link href="https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra"/>
+        <updated>2026-04-21T16:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Tempo also announced it's launching a Stablecoin Advisory.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp]]></title>
         <id>https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows"/>
         <updated>2026-04-09T16:50:43.000Z</updated>
-        <summary type="html"><![CDATA[MSBT saw a strong first day of trading on Wednesday, but the broader U.S. Bitcoin ETF sector was in the red yesterday.]]></summary>
+        <summary type="html"><![CDATA[Morgan Stanley's spot Bitcoin ETF, MSBT, saw a strong first day of trading on Wednesday, April 8, on NYSE Arca. The fund recorded $30.6 million in net inflows on April 8, per Farside data.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig"/>
         <updated>2026-04-09T13:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance Wallet has integrated Predict.fun prediction markets and is sponsoring all gas fees on BNB Smart Chain. The integration allows Binance Wallet users to access prediction market functionality directly within the wallet interface without bearing transaction costs on the BNB network.]]></summary>
+        <summary type="html"><![CDATA[Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Sky Governance is proposing a stronger solvency buffer and a more sustainable staking rewards model to solidify long-term protocol stability.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAVE Slides Below $90 as Contributor Departures Weigh on DeFi's Largest Lender]]></title>
-        <id>https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender</id>
-        <link href="https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender"/>
-        <updated>2026-04-07T18:18:26.000Z</updated>
-        <summary type="html"><![CDATA[The AAVE token has lost roughly 75% of its value since its most recent peak in August 2025.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Stanley's Bitcoin ETF Set to Launch on April 8: Bloomberg]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg"/>
-        <updated>2026-04-07T18:12:06.000Z</updated>
-        <summary type="html"><![CDATA[MSBT will launch tomorrow as the lowest-fee Bitcoin ETF on the market, potentially kicking off a fee war among funds.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Introduces Spot Price Guardrails in Post-Crash Overhaul]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul</id>
-        <link href="https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul"/>
-        <updated>2026-04-07T17:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

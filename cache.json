@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets",
+          "author": "DefAInt",
+          "description": "New York AG Letitia James filed suit against Coinbase and Gemini, alleging their prediction market platforms constitute illegal gambling operations lacking state licenses.",
+          "link": "https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets",
+          "publishedOn": "2026-04-21T17:15:19.000Z",
+          "wordCount": 4806,
+          "title": "New York Attorney General Sues Coinbase, Gemini Over Unlicensed Prediction Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06df3cd8777d95d41b32498231a9cc4d85064ab9-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06df3cd8777d95d41b32498231a9cc4d85064ab9-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
+          "author": "DefAInt",
+          "description": "After attackers deposited rsETH from an exploited Kelp bridge and borrowed Wrapped ETH, Aave had frozen WETH across multiple markets.",
+          "link": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
+          "publishedOn": "2026-04-21T16:59:55.000Z",
+          "wordCount": 5090,
+          "title": "Aave Partially Unfreezes WETH After Kelp Bridge Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
+          "author": "DefAInt",
+          "description": "Tempo also announced it's launching a Stablecoin Advisory.",
+          "link": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
+          "publishedOn": "2026-04-21T16:02:41.000Z",
+          "wordCount": 4928,
+          "title": "DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt",
           "author": "DefAInt",
           "description": "Ramp expands stablecoin access by launching USDT across Solana, Plasma, and Ethereum with seamless 1:1 USD conversion for global money movement.",
@@ -1208,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "author": "Olivia Capozzalo",
-          "description": "MSBT saw a strong first day of trading on Wednesday, but the broader U.S. Bitcoin ETF sector was in the red yesterday.",
+          "description": "Morgan Stanley's spot Bitcoin ETF, MSBT, saw a strong first day of trading on Wednesday, April 8, on NYSE Arca. The fund recorded $30.6 million in net inflows on April 8, per Farside data.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "publishedOn": "2026-04-09T16:50:43.000Z",
           "wordCount": 5085,
@@ -1253,7 +1298,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig",
           "author": "DefAInt",
-          "description": "Binance Wallet has integrated Predict.fun prediction markets and is sponsoring all gas fees on BNB Smart Chain. The integration allows Binance Wallet users to access prediction market functionality directly within the wallet interface without bearing transaction costs on the BNB network.",
+          "description": "Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.",
           "link": "https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig",
           "publishedOn": "2026-04-09T13:31:31.000Z",
           "wordCount": 4388,
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15c85e6ec52c419ae0c4df76a27fce2fab76e4b3-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender",
-          "author": "yyctrader",
-          "description": "The AAVE token has lost roughly 75% of its value since its most recent peak in August 2025.",
-          "link": "https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender",
-          "publishedOn": "2026-04-07T18:18:26.000Z",
-          "wordCount": 5061,
-          "title": "AAVE Slides Below $90 as Contributor Departures Weigh on DeFi's Largest Lender",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775585948725-png-c0075062-241d-4e65-8682-141a76e9ce4f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775585948725-png-c0075062-241d-4e65-8682-141a76e9ce4f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg",
-          "author": "Olivia Capozzalo",
-          "description": "MSBT will launch tomorrow as the lowest-fee Bitcoin ETF on the market, potentially kicking off a fee war among funds.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg",
-          "publishedOn": "2026-04-07T18:12:06.000Z",
-          "wordCount": 5083,
-          "title": "Morgan Stanley's Bitcoin ETF Set to Launch on April 8: Bloomberg",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bank-crypto-jpg-a1b33ef9-764e-4a80-bcbf-ec254838da41.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bank-crypto-jpg-a1b33ef9-764e-4a80-bcbf-ec254838da41.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul",
-          "author": "yyctrader",
-          "description": "Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.",
-          "link": "https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul",
-          "publishedOn": "2026-04-07T17:08:31.000Z",
-          "wordCount": 4803,
-          "title": "Binance Introduces Spot Price Guardrails in Post-Crash Overhaul",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775584076654-png-81dd5d4b-51b0-4a87-92de-384be79aea8d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775584076654-png-81dd5d4b-51b0-4a87-92de-384be79aea8d.png"
         }
       ]
     }
