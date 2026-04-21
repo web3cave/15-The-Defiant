@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T14:27:41.456Z</id>
+    <id>urn:2026-04-21T16:01:29.886Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T14:27:41.456Z</updated>
+    <updated>2026-04-21T16:01:29.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp]]></title>
+        <id>https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt</id>
+        <link href="https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt"/>
+        <updated>2026-04-21T15:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Ramp expands stablecoin access by launching USDT across Solana, Plasma, and Ethereum with seamless 1:1 USD conversion for global money movement.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Freezes 30,766 ETH Linked to KelpDAO Exploit]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit"/>
+        <updated>2026-04-21T14:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Since the freeze, ZachXBT reported that the attackers had begun moving funds from Ethereum mainnet to Bitcoin.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Boost, Sunnyside's Privacy SDK, Goes Live on Optimism Mainnet: Optimism]]></title>
+        <id>https://thedefiant.io/news/blockchains/privacy-boost-sunnyside-optimism-mainnet-launch-a9hri3</id>
+        <link href="https://thedefiant.io/news/blockchains/privacy-boost-sunnyside-optimism-mainnet-launch-a9hri3"/>
+        <updated>2026-04-21T14:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Optimism's first privacy offering by core developer Sunnyside uses ZK and TEE hybrid technology to enable confidential computing for enterprises on the OP Stack.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Protocols Launch Joint Escape Hatch for Aave ETH Lenders and Loopers]]></title>
         <id>https://thedefiant.io/news/defi/defi-protocols-launch-joint-escape-hatch-for-aave-eth-lenders-and-loopers</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig"/>
         <updated>2026-04-09T13:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.]]></summary>
+        <summary type="html"><![CDATA[Binance Wallet has integrated Predict.fun prediction markets and is sponsoring all gas fees on BNB Smart Chain. The integration allows Binance Wallet users to access prediction market functionality directly within the wallet interface without bearing transaction costs on the BNB network.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Launches Token Verification API for Launchpads, Agents]]></title>
-        <id>https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api</id>
-        <link href="https://thedefiant.io/news/defi/jupiter-launches-token-express-verification-api"/>
-        <updated>2026-04-07T16:47:11.000Z</updated>
-        <summary type="html"><![CDATA[The new tool from the Solana-based DEX aggregator lets DEXs, launchpads, and AI agents build verification into their token creation flows.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fintech Transcend Connects to Canton Network for Real-Time Collateral Mobility]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/transcend-connects-to-canton-network"/>
-        <updated>2026-04-07T14:41:56.000Z</updated>
-        <summary type="html"><![CDATA[The collateral and liquidity focused fintech is also building a node-as-a-service on Canton, which is known as an institution-focused blockchain platform.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CME Group Plans to Launch Avalanche and Sui Futures]]></title>
-        <id>https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq</id>
-        <link href="https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq"/>
-        <updated>2026-04-07T13:46:30.000Z</updated>
-        <summary type="html"><![CDATA[CME Group expanded is looking to expand its crypto derivatives offerings with new futures contracts for Avalanche and Sui, pending regulatory approval.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
