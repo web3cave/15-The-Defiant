@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T17:49:07.431Z</id>
+    <id>urn:2026-04-22T18:55:22.401Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T17:49:07.431Z</updated>
+    <updated>2026-04-22T18:55:22.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SparkLend Sees Over $1B in Deposits Since Kelp Exploit as Aave TVL Plunges]]></title>
+        <id>https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit</id>
+        <link href="https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit"/>
+        <updated>2026-04-22T18:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Aave TVL has dropped by $10B since the Kelp attackers used the protocol to borrow $190 million in WETH, depositing unbacked rsETH.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justin Sun Sues World Liberty Financial Over Frozen WLFI Tokens]]></title>
         <id>https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff"/>
         <updated>2026-04-08T13:32:22.000Z</updated>
         <summary type="html"><![CDATA[Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deposit Flight Concerns Over Stablecoin Yield Are 'Quantitatively Small': White House Report]]></title>
-        <id>https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact</id>
-        <link href="https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact"/>
-        <updated>2026-04-08T13:27:07.000Z</updated>
-        <summary type="html"><![CDATA[A White House Council of Economic Advisers study released Wednesday concludes that banning stablecoin yield would have minimal impact on bank lending and would harm consumers.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

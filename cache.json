@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit",
+          "author": "Olivia Capozzalo",
+          "description": "Aave TVL has dropped by $10B since the Kelp attackers used the protocol to borrow $190 million in WETH, depositing unbacked rsETH.",
+          "link": "https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit",
+          "publishedOn": "2026-04-22T18:07:15.000Z",
+          "wordCount": 4838,
+          "title": "SparkLend Sees Over $1B in Deposits Since Kelp Exploit as Aave TVL Plunges",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/defi-lending-back-png-fa17809b-0966-40e2-a500-af8353e57ce9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/defi-lending-back-png-fa17809b-0966-40e2-a500-af8353e57ce9.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens",
           "author": "DefAInt",
           "description": "TRON founder takes the Trump-linked DeFi project to California federal court, escalating a months-long feud over blacklisted tokens and governance rights.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7ee18e223ecc7f002bccddb45f248b399f8c3ed0-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact",
-          "author": "DefAInt",
-          "description": "A White House Council of Economic Advisers study released Wednesday concludes that banning stablecoin yield would have minimal impact on bank lending and would harm consumers.",
-          "link": "https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact",
-          "publishedOn": "2026-04-08T13:27:07.000Z",
-          "wordCount": 4629,
-          "title": "Deposit Flight Concerns Over Stablecoin Yield Are 'Quantitatively Small': White House Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/66ced2d66064850ac4641153034dc71beded7803-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66ced2d66064850ac4641153034dc71beded7803-1792x1024.jpg"
         }
       ]
     }
