@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T20:51:52.275Z</id>
+    <id>urn:2026-04-22T21:40:13.775Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T20:51:52.275Z</updated>
+    <updated>2026-04-22T21:40:13.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Proposes Emergency Rate Changes to Unstick Aave's Frozen USDC Pool]]></title>
+        <id>https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool</id>
+        <link href="https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool"/>
+        <updated>2026-04-22T20:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoin issuer argues Aave's interest rate curve is failing to clear the $1.89B pool after four days at full utilization.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SparkLend Sees Over $1B in Deposits Since Kelp Exploit as Aave TVL Plunges]]></title>
         <id>https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9"/>
         <updated>2026-04-08T13:33:17.000Z</updated>
         <summary type="html"><![CDATA[Arkham Intelligence is discontinuing support for the TON blockchain on its platform effective April 8 at 12pm EST.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Partners with Currenc Group to Tokenize Shares on Ethereum and Solana: Securitize]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff"/>
-        <updated>2026-04-08T13:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

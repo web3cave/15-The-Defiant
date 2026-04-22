@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool",
+          "author": "DefAInt",
+          "description": "Stablecoin issuer argues Aave's interest rate curve is failing to clear the $1.89B pool after four days at full utilization.",
+          "link": "https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool",
+          "publishedOn": "2026-04-22T20:37:35.000Z",
+          "wordCount": 4724,
+          "title": "Circle Proposes Emergency Rate Changes to Unstick Aave's Frozen USDC Pool",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9b2bf808715f899ad75d48f6354994c0eed1a41-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f9b2bf808715f899ad75d48f6354994c0eed1a41-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit",
           "author": "Olivia Capozzalo",
           "description": "Aave TVL has dropped by $10B since the Kelp attackers used the protocol to borrow $190 million in WETH, depositing unbacked rsETH.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f37413cf7cb2f5989c15749bb6c700b282a5da7-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff",
-          "author": "DefAInt",
-          "description": "Tokenization firm Securitize has partnered with Nasdaq-listed Currenc Group to tokenize its ordinary shares on Ethereum and Solana blockchains.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-currenc-group-tokenize-shares-ethereum-solana-clkbff",
-          "publishedOn": "2026-04-08T13:32:22.000Z",
-          "wordCount": 4471,
-          "title": "Securitize Partners with Currenc Group to Tokenize Shares on Ethereum and Solana: Securitize",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ee18e223ecc7f002bccddb45f248b399f8c3ed0-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7ee18e223ecc7f002bccddb45f248b399f8c3ed0-1792x1024.jpg"
         }
       ]
     }
