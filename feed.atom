@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T12:56:09.373Z</id>
+    <id>urn:2026-04-22T14:28:52.369Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T12:56:09.373Z</updated>
+    <updated>2026-04-22T14:28:52.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WalletConnect Integrates with TradFi-Focused Chain Canton Network]]></title>
+        <id>https://thedefiant.io/news/infrastructure/walletconnect-adds-support-for-canton-network</id>
+        <link href="https://thedefiant.io/news/infrastructure/walletconnect-adds-support-for-canton-network"/>
+        <updated>2026-04-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WalletConnect's ecosystem of 700 crypto wallets and 70,000 dApps now supports the enterprise- and privacy-focused blockchain network.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New York Attorney General Sues Coinbase, Gemini Over Unlicensed Prediction Markets]]></title>
         <id>https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/research-and-opinion/tokenized-rwa-report-securitize-keyrock</id>
         <link href="https://thedefiant.io/news/research-and-opinion/tokenized-rwa-report-securitize-keyrock"/>
         <updated>2026-04-09T17:45:01.000Z</updated>
-        <summary type="html"><![CDATA[RWA perpetuals tied to assets like gold, silver and oil, grew 40x in six months, the new report shows.]]></summary>
+        <summary type="html"><![CDATA[Market maker Keyrock and tokenization platform Securitize published a new report on the future of real-world asset (RWA) tokenization today, April 9. According to the new research, the distributed RWA market — meaning tokenized assets that are freely transferable on-chain — is projected to grow from around $29 billion today to $400 billion by 2030 as a base case.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows"/>
         <updated>2026-04-09T16:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Morgan Stanley's spot Bitcoin ETF, MSBT, saw a strong first day of trading on Wednesday, April 8, on NYSE Arca. The fund recorded $30.6 million in net inflows on April 8, per Farside data.]]></summary>
+        <summary type="html"><![CDATA[MSBT saw a strong first day of trading on Wednesday, but the broader U.S. Bitcoin ETF sector was in the red yesterday.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[An analysis of Morpho markets finds depositors are undercompensated by 5-10x. Curators counter that empirical loss data tells a different story.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Protocol Proposes Two Structural Upgrades to Strengthen Capital Protection Framework: Sky Governance]]></title>
-        <id>https://thedefiant.io/news/defi/sky-protocol-structural-upgrades-capital-protection-ukog0y</id>
-        <link href="https://thedefiant.io/news/defi/sky-protocol-structural-upgrades-capital-protection-ukog0y"/>
-        <updated>2026-04-07T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Sky Governance is proposing a stronger solvency buffer and a more sustainable staking rewards model to solidify long-term protocol stability.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

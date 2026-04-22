@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/walletconnect-adds-support-for-canton-network",
+          "author": "DefAInt",
+          "description": "WalletConnect's ecosystem of 700 crypto wallets and 70,000 dApps now supports the enterprise- and privacy-focused blockchain network.",
+          "link": "https://thedefiant.io/news/infrastructure/walletconnect-adds-support-for-canton-network",
+          "publishedOn": "2026-04-22T13:00:00.000Z",
+          "wordCount": 4922,
+          "title": "WalletConnect Integrates with TradFi-Focused Chain Canton Network",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/city-ab-jpg-9c14fe66-e61c-4b5f-98ea-d6c5e9573bce.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/city-ab-jpg-9c14fe66-e61c-4b5f-98ea-d6c5e9573bce.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets",
           "author": "DefAInt",
           "description": "New York AG Letitia James filed suit against Coinbase and Gemini, alleging their prediction market platforms constitute illegal gambling operations lacking state licenses.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/tokenized-rwa-report-securitize-keyrock",
           "author": "DefAInt",
-          "description": "RWA perpetuals tied to assets like gold, silver and oil, grew 40x in six months, the new report shows.",
+          "description": "Market maker Keyrock and tokenization platform Securitize published a new report on the future of real-world asset (RWA) tokenization today, April 9. According to the new research, the distributed RWA market — meaning tokenized assets that are freely transferable on-chain — is projected to grow from around $29 billion today to $400 billion by 2030 as a base case.",
           "link": "https://thedefiant.io/news/research-and-opinion/tokenized-rwa-report-securitize-keyrock",
           "publishedOn": "2026-04-09T17:45:01.000Z",
           "wordCount": 5482,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "author": "Olivia Capozzalo",
-          "description": "Morgan Stanley's spot Bitcoin ETF, MSBT, saw a strong first day of trading on Wednesday, April 8, on NYSE Arca. The fund recorded $30.6 million in net inflows on April 8, per Farside data.",
+          "description": "MSBT saw a strong first day of trading on Wednesday, but the broader U.S. Bitcoin ETF sector was in the red yesterday.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "publishedOn": "2026-04-09T16:50:43.000Z",
           "wordCount": 5064,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1775593673194-png-519a710f-bebf-492b-b862-1a85f0dbb674.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sky-protocol-structural-upgrades-capital-protection-ukog0y",
-          "author": "DefAInt",
-          "description": "Sky Governance is proposing a stronger solvency buffer and a more sustainable staking rewards model to solidify long-term protocol stability.",
-          "link": "https://thedefiant.io/news/defi/sky-protocol-structural-upgrades-capital-protection-ukog0y",
-          "publishedOn": "2026-04-07T20:02:06.000Z",
-          "wordCount": 4472,
-          "title": "Sky Protocol Proposes Two Structural Upgrades to Strengthen Capital Protection Framework: Sky Governance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15c85e6ec52c419ae0c4df76a27fce2fab76e4b3-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15c85e6ec52c419ae0c4df76a27fce2fab76e4b3-1792x1024.jpg"
         }
       ]
     }
