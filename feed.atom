@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T12:55:24.189Z</id>
+    <id>urn:2026-04-23T15:05:10.995Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-23T12:55:24.189Z</updated>
+    <updated>2026-04-23T15:05:10.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Freezes $344M USDT in Coordination with U.S. Law Enforcement]]></title>
+        <id>https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement</id>
+        <link href="https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement"/>
+        <updated>2026-04-23T14:43:21.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin issuer says it has now supported more than 2,300 cases worldwide, including over 1,200 with U.S. agencies.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lotus Taps WisdomTree Money Market Fund to Build Yield Floor into DeFi Lending]]></title>
         <id>https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1</id>
         <link href="https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1"/>
         <updated>2026-04-10T14:32:32.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask now supports the ERC-7715 standard, allowing agents and dApps to request execution permissions on OP Mainnet.]]></summary>
+        <summary type="html"><![CDATA[Optimism announced that agents and decentralized applications can now request wallet execution permissions on OP Mainnet, with MetaMask enabling builders to request these permissions using the ERC-7715 standard. The update unlocks new permission models for dApps and agents operating on the Optimism network.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g</id>
         <link href="https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g"/>
         <updated>2026-04-10T14:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Securitize integrated with TRON Network on April 10, enabling tokenized assets issued by Securitize to be deployed on TRON, one of the world's largest blockchains. The partnership expands Securitize's multichain footprint and brings institutional-grade assets to a high-performance network designed for efficient, programmable financial systems.]]></summary>
+        <summary type="html"><![CDATA[Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi"/>
         <updated>2026-04-08T17:02:09.000Z</updated>
         <summary type="html"><![CDATA[Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biconomy, Ethereum Foundation Unveil Execution Standard for AI Agents]]></title>
-        <id>https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents</id>
-        <link href="https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents"/>
-        <updated>2026-04-08T16:23:20.000Z</updated>
-        <summary type="html"><![CDATA[On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

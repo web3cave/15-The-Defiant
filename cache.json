@@ -6,12 +6,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement",
+          "author": "yyctrader",
+          "description": "The stablecoin issuer says it has now supported more than 2,300 cases worldwide, including over 1,200 with U.S. agencies.",
+          "link": "https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement",
+          "publishedOn": "2026-04-23T14:43:21.000Z",
+          "wordCount": 4835,
+          "title": "Tether Freezes $344M USDT in Coordination with U.S. Law Enforcement",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1776955453358-png-5a90e101-5e75-44f1-860d-871dbe7734b4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1776955453358-png-5a90e101-5e75-44f1-860d-871dbe7734b4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves",
           "author": "Olivia Capozzalo",
           "description": "WisdomTree's WTGXX holds nearly $860M in distributed asset value, mostly on Ethereum.",
           "link": "https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves",
           "publishedOn": "2026-04-23T12:00:00.000Z",
-          "wordCount": 5193,
+          "wordCount": 5211,
           "title": "Lotus Taps WisdomTree Money Market Fund to Build Yield Floor into DeFi Lending",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/lotus-jpg-2b2c4a73-d2cb-4c61-93b4-9e13b7071098.jpg",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1",
           "author": "DefAInt",
-          "description": "MetaMask now supports the ERC-7715 standard, allowing agents and dApps to request execution permissions on OP Mainnet.",
+          "description": "Optimism announced that agents and decentralized applications can now request wallet execution permissions on OP Mainnet, with MetaMask enabling builders to request these permissions using the ERC-7715 standard. The update unlocks new permission models for dApps and agents operating on the Optimism network.",
           "link": "https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1",
           "publishedOn": "2026-04-10T14:32:32.000Z",
           "wordCount": 4368,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g",
           "author": "DefAInt",
-          "description": "Securitize integrated with TRON Network on April 10, enabling tokenized assets issued by Securitize to be deployed on TRON, one of the world's largest blockchains. The partnership expands Securitize's multichain footprint and brings institutional-grade assets to a high-performance network designed for efficient, programmable financial systems.",
+          "description": "Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.",
           "link": "https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g",
           "publishedOn": "2026-04-10T14:16:27.000Z",
           "wordCount": 4361,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/banking-png-a53318ea-3e93-41f9-a707-4f60dc5e3c81.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
-          "author": "DefAInt",
-          "description": "On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.",
-          "link": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
-          "publishedOn": "2026-04-08T16:23:20.000Z",
-          "wordCount": 5096,
-          "title": "Biconomy, Ethereum Foundation Unveil Execution Standard for AI Agents",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-agents-jpg-6b8bba67-a1a5-48c0-ab01-3eb0bd5fc34a.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-agents-jpg-6b8bba67-a1a5-48c0-ab01-3eb0bd5fc34a.jpg"
         }
       ]
     }
