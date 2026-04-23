@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T11:51:13.132Z</id>
+    <id>urn:2026-04-23T12:55:24.189Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-23T11:51:13.132Z</updated>
+    <updated>2026-04-23T12:55:24.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lotus Taps WisdomTree Money Market Fund to Build Yield Floor into DeFi Lending]]></title>
+        <id>https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves</id>
+        <link href="https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves"/>
+        <updated>2026-04-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WisdomTree's WTGXX holds nearly $860M in distributed asset value, mostly on Ethereum.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle Proposes Emergency Rate Changes to Unstick Aave's Frozen USDC Pool]]></title>
         <id>https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g</id>
         <link href="https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g"/>
         <updated>2026-04-10T14:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.]]></summary>
+        <summary type="html"><![CDATA[Securitize integrated with TRON Network on April 10, enabling tokenized assets issued by Securitize to be deployed on TRON, one of the world's largest blockchains. The partnership expands Securitize's multichain footprint and brings institutional-grade assets to a high-performance network designed for efficient, programmable financial systems.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents"/>
         <updated>2026-04-08T16:23:20.000Z</updated>
         <summary type="html"><![CDATA[On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkham Intel Removes TON Blockchain Support]]></title>
-        <id>https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9</id>
-        <link href="https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9"/>
-        <updated>2026-04-08T13:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Arkham Intelligence is discontinuing support for the TON blockchain on its platform effective April 8 at 12pm EST.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

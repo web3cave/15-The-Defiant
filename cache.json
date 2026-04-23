@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves",
+          "author": "Olivia Capozzalo",
+          "description": "WisdomTree's WTGXX holds nearly $860M in distributed asset value, mostly on Ethereum.",
+          "link": "https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves",
+          "publishedOn": "2026-04-23T12:00:00.000Z",
+          "wordCount": 5193,
+          "title": "Lotus Taps WisdomTree Money Market Fund to Build Yield Floor into DeFi Lending",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/lotus-jpg-2b2c4a73-d2cb-4c61-93b4-9e13b7071098.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/lotus-jpg-2b2c4a73-d2cb-4c61-93b4-9e13b7071098.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool",
           "author": "DefAInt",
           "description": "Stablecoin issuer argues Aave's interest rate curve is failing to clear the $1.89B pool after four days at full utilization.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g",
           "author": "DefAInt",
-          "description": "Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.",
+          "description": "Securitize integrated with TRON Network on April 10, enabling tokenized assets issued by Securitize to be deployed on TRON, one of the world's largest blockchains. The partnership expands Securitize's multichain footprint and brings institutional-grade assets to a high-performance network designed for efficient, programmable financial systems.",
           "link": "https://thedefiant.io/news/blockchains/securitize-integrates-tron-network-tokenized-assets-xx1p8g",
           "publishedOn": "2026-04-10T14:16:27.000Z",
           "wordCount": 4361,
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/eth-agents-jpg-6b8bba67-a1a5-48c0-ab01-3eb0bd5fc34a.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9",
-          "author": "DefAInt",
-          "description": "Arkham Intelligence is discontinuing support for the TON blockchain on its platform effective April 8 at 12pm EST.",
-          "link": "https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9",
-          "publishedOn": "2026-04-08T13:33:17.000Z",
-          "wordCount": 4354,
-          "title": "Arkham Intel Removes TON Blockchain Support",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f37413cf7cb2f5989c15749bb6c700b282a5da7-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f37413cf7cb2f5989c15749bb6c700b282a5da7-1792x1024.jpg"
         }
       ]
     }
