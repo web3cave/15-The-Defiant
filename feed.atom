@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T15:05:10.995Z</id>
+    <id>urn:2026-04-23T17:07:27.144Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-23T15:05:10.995Z</updated>
+    <updated>2026-04-23T17:07:27.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Pulls Back From $78K As Persian Gulf Risk Trumps Institutional Bid]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid"/>
+        <updated>2026-04-23T15:14:04.000Z</updated>
+        <summary type="html"><![CDATA[ETH is lagging with on-chain risk still elevated post-Kelp, while SOL dropped 3% and the broader market cap slipped 1.6% on the day.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Freezes $344M USDT in Coordination with U.S. Law Enforcement]]></title>
         <id>https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae</id>
         <link href="https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae"/>
         <updated>2026-04-10T14:38:12.000Z</updated>
-        <summary type="html"><![CDATA[MoonPay, WalletConnect, and Ingenico announced a partnership to enable stablecoin payments at physical retail locations globally using MoonPay Virtual Accounts for fiat settlement.]]></summary>
+        <summary type="html"><![CDATA[MoonPay announced a partnership with WalletConnect and Ingenico to bring stablecoin payments to physical retail locations at global scale. The integration leverages MoonPay Virtual Accounts to enable fast fiat settlement for in-store transactions powered by stablecoins.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1</id>
         <link href="https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1"/>
         <updated>2026-04-10T14:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Optimism announced that agents and decentralized applications can now request wallet execution permissions on OP Mainnet, with MetaMask enabling builders to request these permissions using the ERC-7715 standard. The update unlocks new permission models for dApps and agents operating on the Optimism network.]]></summary>
+        <summary type="html"><![CDATA[MetaMask now supports the ERC-7715 standard, allowing agents and dApps to request execution permissions on OP Mainnet.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Launches Stablecoin Settlement Solution for TradFi Institutions]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi"/>
-        <updated>2026-04-08T17:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

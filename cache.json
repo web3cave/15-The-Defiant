@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid",
+          "author": "yyctrader",
+          "description": "ETH is lagging with on-chain risk still elevated post-Kelp, while SOL dropped 3% and the broader market cap slipped 1.6% on the day.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid",
+          "publishedOn": "2026-04-23T15:14:04.000Z",
+          "wordCount": 4837,
+          "title": "Bitcoin Pulls Back From $78K As Persian Gulf Risk Trumps Institutional Bid",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1776957486975-png-d350ca13-e331-42f1-8c5c-031c5f9e999f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1776957486975-png-d350ca13-e331-42f1-8c5c-031c5f9e999f.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/tether-freezes-usd344m-usdt-in-coordination-with-u-s-law-enforcement",
           "author": "yyctrader",
           "description": "The stablecoin issuer says it has now supported more than 2,300 cases worldwide, including over 1,200 with U.S. agencies.",
@@ -1238,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae",
           "author": "DefAInt",
-          "description": "MoonPay, WalletConnect, and Ingenico announced a partnership to enable stablecoin payments at physical retail locations globally using MoonPay Virtual Accounts for fiat settlement.",
+          "description": "MoonPay announced a partnership with WalletConnect and Ingenico to bring stablecoin payments to physical retail locations at global scale. The integration leverages MoonPay Virtual Accounts to enable fast fiat settlement for in-store transactions powered by stablecoins.",
           "link": "https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae",
           "publishedOn": "2026-04-10T14:38:12.000Z",
           "wordCount": 4275,
@@ -1253,7 +1268,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1",
           "author": "DefAInt",
-          "description": "Optimism announced that agents and decentralized applications can now request wallet execution permissions on OP Mainnet, with MetaMask enabling builders to request these permissions using the ERC-7715 standard. The update unlocks new permission models for dApps and agents operating on the Optimism network.",
+          "description": "MetaMask now supports the ERC-7715 standard, allowing agents and dApps to request execution permissions on OP Mainnet.",
           "link": "https://thedefiant.io/news/blockchains/optimism-wallet-execution-permissions-erc-7715-4tr1v1",
           "publishedOn": "2026-04-10T14:32:32.000Z",
           "wordCount": 4368,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1775668064201-png-64ade846-9d62-4e1e-bc1c-1e6502c32fc7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi",
-          "author": "DefAInt",
-          "description": "Circle Payments Network (CPN) Managed Payments let financial institutions operate in fiat, while using crypto rails behind the scenes via Circle.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/circle-launches-cpn-managed-payments-stablecoin-settlement-solution-for-tradfi",
-          "publishedOn": "2026-04-08T17:02:09.000Z",
-          "wordCount": 4630,
-          "title": "Circle Launches Stablecoin Settlement Solution for TradFi Institutions",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/banking-png-a53318ea-3e93-41f9-a707-4f60dc5e3c81.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/banking-png-a53318ea-3e93-41f9-a707-4f60dc5e3c81.png"
         }
       ]
     }
