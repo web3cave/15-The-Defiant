@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T17:57:38.616Z</id>
+    <id>urn:2026-04-27T19:09:37.710Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-27T17:57:38.616Z</updated>
+    <updated>2026-04-27T19:09:37.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Proposes to Streamline Treasury Management]]></title>
+        <id>https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management</id>
+        <link href="https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management"/>
+        <updated>2026-04-27T19:00:08.000Z</updated>
+        <summary type="html"><![CDATA[With Genesis Capital fully deployed, the protocol looks to shift from governance-determined capital outflows to rules-bound expenses capped at a fixed percentage of revenue.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support]]></title>
         <id>https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/hsbc-completes-tokenized-deposit-pilot-on-canton-network"/>
         <updated>2026-04-13T17:18:11.000Z</updated>
-        <summary type="html"><![CDATA[HSBC has successfully completed a pilot simulating the issuance, transfer, and atomic settlement of its Tokenized Deposit Service (TDS) on the Canton Network.]]></summary>
+        <summary type="html"><![CDATA[The pilot builds on HSBC's broader rollout of its Tokenized Deposit Service, which lets corporate clients convert fiat deposits into digital assets]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Holds Above $72,000 as Ceasefire Rally Stalls]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls"/>
-        <updated>2026-04-09T23:02:18.000Z</updated>
-        <summary type="html"><![CDATA[BTC clung to a three-week high as the Iran truce lifted risk assets, but doubts about the deal's durability capped upside.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
