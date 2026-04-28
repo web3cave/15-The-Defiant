@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram",
+          "author": "DefAInt",
+          "description": "The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction",
+          "link": "https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram",
+          "publishedOn": "2026-04-28T18:19:46.000Z",
+          "wordCount": 4820,
+          "title": "Developers of Telegram's Crypto Wallet Launch Agentic Wallets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/agent-city-jpg-f596667a-3ccb-42b2-bb8b-65a9094742d9.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/agent-city-jpg-f596667a-3ccb-42b2-bb8b-65a9094742d9.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer",
+          "author": "yyctrader",
+          "description": "The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.",
+          "link": "https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer",
+          "publishedOn": "2026-04-28T18:05:26.000Z",
+          "wordCount": 4693,
+          "title": "Ostium Launches Institutional Hedging Layer",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777399728926-png-7a50ee98-7d14-48e2-9862-8464e70cd898.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777399728926-png-7a50ee98-7d14-48e2-9862-8464e70cd898.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy",
+          "author": "DefAInt",
+          "description": "The CFTC filed suit against Wisconsin to establish its exclusive regulatory authority over prediction markets, a sector closely tied to crypto and blockchain-based derivatives.",
+          "link": "https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy",
+          "publishedOn": "2026-04-28T18:01:32.000Z",
+          "wordCount": 4491,
+          "title": "CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4a9ab97ed97712e86ef831bf4256d72400e13e63-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4a9ab97ed97712e86ef831bf4256d72400e13e63-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report",
           "author": "DefAInt",
           "description": "The move would let Polymarket's primary, on-chain prediction market platform operate in the United States, rather than through its current intermediated setup with Polymarket US.",
@@ -1208,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
           "author": "DefAInt",
-          "description": "Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.",
+          "description": "Morpho, DeFi's second-largest lending protocol by value locked, has officially named its long-in-development fixed-rate product: Morpho Midnight.",
           "link": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
           "publishedOn": "2026-04-14T14:58:48.000Z",
           "wordCount": 4606,
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1775843001016-png-4fb845c9-8001-4bbf-bf77-a63cadaac82e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid",
-          "author": "yyctrader",
-          "description": "Storm's defense argued his work on the non-custodial mixer was lawful, while prosecutors claimed he profited from money laundering.",
-          "link": "https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid",
-          "publishedOn": "2026-04-10T17:10:28.000Z",
-          "wordCount": 4897,
-          "title": "Tornado Cash Developer Roman Storm Awaits Judge's Ruling on Acquittal Bid",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775841178779-png-7a47b290-d57a-4815-8cae-338bdec9028c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775841178779-png-7a47b290-d57a-4815-8cae-338bdec9028c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs",
-          "author": "DefAInt",
-          "description": "The DEX aggregator's $415K treasury will be transferred to the protocol's development company, along with future revenue.",
-          "link": "https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs",
-          "publishedOn": "2026-04-10T16:52:16.000Z",
-          "wordCount": 5427,
-          "title": "Velora DAO Votes to Wind Down, Hand Operations to Laita Labs",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/blockchain-gen-png-3c7625a9-3708-4f4b-a6f5-d67c29fbf393.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/blockchain-gen-png-3c7625a9-3708-4f4b-a6f5-d67c29fbf393.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
-          "author": "DefAInt",
-          "description": "Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.",
-          "link": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
-          "publishedOn": "2026-04-10T15:29:45.000Z",
-          "wordCount": 4405,
-          "title": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg"
         }
       ]
     }

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T17:27:00.486Z</id>
+    <id>urn:2026-04-28T19:15:19.715Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T17:27:00.486Z</updated>
+    <updated>2026-04-28T19:15:19.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Developers of Telegram's Crypto Wallet Launch Agentic Wallets]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram"/>
+        <updated>2026-04-28T18:19:46.000Z</updated>
+        <summary type="html"><![CDATA[The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ostium Launches Institutional Hedging Layer]]></title>
+        <id>https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer</id>
+        <link href="https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer"/>
+        <updated>2026-04-28T18:05:26.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy"/>
+        <updated>2026-04-28T18:01:32.000Z</updated>
+        <summary type="html"><![CDATA[The CFTC filed suit against Wisconsin to establish its exclusive regulatory authority over prediction markets, a sector closely tied to crypto and blockchain-based derivatives.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Seeks Full CFTC Approval for Its Main Platform: Report]]></title>
         <id>https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight</id>
         <link href="https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight"/>
         <updated>2026-04-14T14:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.]]></summary>
+        <summary type="html"><![CDATA[Morpho, DeFi's second-largest lending protocol by value locked, has officially named its long-in-development fixed-rate product: Morpho Midnight.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The HKMA selected two issuers from a pool of 36 applicants under the Stablecoins Ordinance, which took effect in August 2025.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash Developer Roman Storm Awaits Judge's Ruling on Acquittal Bid]]></title>
-        <id>https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid</id>
-        <link href="https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid"/>
-        <updated>2026-04-10T17:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Storm's defense argued his work on the non-custodial mixer was lawful, while prosecutors claimed he profited from money laundering.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velora DAO Votes to Wind Down, Hand Operations to Laita Labs]]></title>
-        <id>https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs</id>
-        <link href="https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs"/>
-        <updated>2026-04-10T16:52:16.000Z</updated>
-        <summary type="html"><![CDATA[The DEX aggregator's $415K treasury will be transferred to the protocol's development company, along with future revenue.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push]]></title>
-        <id>https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on</id>
-        <link href="https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on"/>
-        <updated>2026-04-10T15:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
