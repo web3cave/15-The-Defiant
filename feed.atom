@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T12:18:15.211Z</id>
+    <id>urn:2026-04-28T17:27:00.486Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T12:18:15.211Z</updated>
+    <updated>2026-04-28T17:27:00.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Seeks Full CFTC Approval for Its Main Platform: Report]]></title>
+        <id>https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report</id>
+        <link href="https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report"/>
+        <updated>2026-04-28T16:36:13.000Z</updated>
+        <summary type="html"><![CDATA[The move would let Polymarket's primary, on-chain prediction market platform operate in the United States, rather than through its current intermediated setup with Polymarket US.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity"/>
+        <updated>2026-04-28T15:24:57.000Z</updated>
+        <summary type="html"><![CDATA[The partnership lets holders of tokenized equity and ETFs participate in proxy voting and access other governance features.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Stalls Below $80K as Geopolitical Risk Returns Ahead of Fed]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd80k-as-geopolitical-risk-returns-ahead-of-fed</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on"/>
         <updated>2026-04-10T15:29:45.000Z</updated>
         <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAO Tanks 20% as Major Subnet Developer Accuses Bittensor Founder of 'Decentralization Theatre']]></title>
-        <id>https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre</id>
-        <link href="https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre"/>
-        <updated>2026-04-10T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[The founder of Covenant AI announced the project's departure from Bittensor last night, kicking off public accusations from both sides, and sending the subnet ecosystem down 26%.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Partners with WalletConnect and Ingenico for Stablecoin Retail Payments]]></title>
-        <id>https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae</id>
-        <link href="https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae"/>
-        <updated>2026-04-10T14:38:12.000Z</updated>
-        <summary type="html"><![CDATA[MoonPay, WalletConnect, and Ingenico announced a partnership to enable stablecoin payments at physical retail locations globally using MoonPay Virtual Accounts for fiat settlement.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
