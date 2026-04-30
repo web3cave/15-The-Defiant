@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T12:05:47.308Z</id>
+    <id>urn:2026-04-30T14:55:49.623Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T12:05:47.308Z</updated>
+    <updated>2026-04-30T14:55:49.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance's SYRUP Token Now Available on Revolut in UK and EU]]></title>
+        <id>https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob</id>
+        <link href="https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob"/>
+        <updated>2026-04-30T12:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Maple Finance's SYRUP token launched on Revolut, giving the fintech's 70M+ users across 39 countries access to on-chain institutional credit yield.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od</id>
         <link href="https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od"/>
         <updated>2026-04-15T10:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin developers and researchers proposed BIP-361, a mechanism to freeze quantum-vulnerable coins as a private incentive for users to upgrade their security posture. The proposal, published Wednesday, aims to address the long-term threat posed by quantum computing to legacy Bitcoin addresses that lack quantum resistance.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5</id>
         <link href="https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5"/>
         <updated>2026-04-15T01:57:48.000Z</updated>
-        <summary type="html"><![CDATA[CoW Swap's swap.cow.fi domain has been locked and is not accessible as of Tuesday, April 14, 2026. The protocol team is working with security experts to assert control over the domain but does not expect it to be live again tonight. CoW Swap has spun up a new instance of its UI at a temporary URL to allow users to continue accessing the protocol.]]></summary>
+        <summary type="html"><![CDATA[CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units"/>
         <updated>2026-04-13T20:02:49.000Z</updated>
         <summary type="html"><![CDATA[The company behind Starknet is pivoting from pure infrastructure toward revenue-generating products built on its proprietary tech stack.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave DAO Votes to Consolidate All Revenue Under AAVE Token]]></title>
-        <id>https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token</id>
-        <link href="https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token"/>
-        <updated>2026-04-13T18:55:07.000Z</updated>
-        <summary type="html"><![CDATA['Aave Will Win' passed with 75% support, awarding Aave Labs a $25 million stablecoin grant and 75,000 AAVE in exchange for directing 100% of product revenue to the DAO treasury.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
