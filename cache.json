@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/wasabi-protocol-hack",
+          "author": "DefAInt",
+          "description": "Wasabi Protocol is the latest victim in what appears to be a record bad month for DeFi hacks.",
+          "link": "https://thedefiant.io/news/hacks/wasabi-protocol-hack",
+          "publishedOn": "2026-04-30T15:28:38.000Z",
+          "wordCount": 4755,
+          "title": "Wasabi Loses $5M+ in Latest DeFi Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hack-scam-png-8ca95de9-d240-4636-945b-11f20cfe636e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hack-scam-png-8ca95de9-d240-4636-945b-11f20cfe636e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch",
+          "author": "DefAInt",
+          "description": "Kraken is introducing curated portfolio bundles combining cryptocurrency with traditional U.S. equities and ETFs through its xStocks offering.",
+          "link": "https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch",
+          "publishedOn": "2026-04-30T14:50:01.000Z",
+          "wordCount": 4426,
+          "title": "Kraken Launches Crypto and Tokenized Stocks Bundles",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6686a5bf20e4e516b90c4c30c9677146ae1a9359-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6686a5bf20e4e516b90c4c30c9677146ae1a9359-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob",
           "author": "DefAInt",
           "description": "Maple Finance's SYRUP token launched on Revolut, giving the fintech's 70M+ users across 39 countries access to on-chain institutional credit yield.",
@@ -1223,7 +1253,7 @@
         {
           "id": "https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho",
           "author": "Olivia Capozzalo",
-          "description": "The platform's new Earn feature lets its thousands of institutional clients deposit their stablecoin to DeFi's top lending protocols directly on Fireblocks.",
+          "description": "Enterprise crypto infrastructure firm Fireblocks has launched an on-chain lending product, Earn, giving its institutional clients direct access to two of DeFi's largest lending protocols, per a press release shared with The Defiant.",
           "link": "https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho",
           "publishedOn": "2026-04-15T16:55:18.000Z",
           "wordCount": 4873,
@@ -1253,7 +1283,7 @@
         {
           "id": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
           "author": "DefAInt",
-          "description": "Bitcoin developers and researchers proposed BIP-361, a mechanism to freeze quantum-vulnerable coins as a private incentive for users to upgrade their security posture. The proposal, published Wednesday, aims to address the long-term threat posed by quantum computing to legacy Bitcoin addresses that lack quantum resistance.",
+          "description": "Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.",
           "link": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
           "publishedOn": "2026-04-15T10:46:18.000Z",
           "wordCount": 4385,
@@ -1474,36 +1504,6 @@
             "type": "null"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a41dda5ac0ec5975faed37800dd2e3182874df92-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade",
-          "author": "yyctrader",
-          "description": "Crypto markets shrugged off collapsing peace talks and surging oil prices, with BTC, ETH, and major altcoins posting gains.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade",
-          "publishedOn": "2026-04-13T20:50:18.000Z",
-          "wordCount": 4588,
-          "title": "Bitcoin Tops $73,000 Despite Iran Blockade",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1776113524326-png-79bbc117-19f8-476d-9e2e-bb748f28a7e4.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1776113524326-png-79bbc117-19f8-476d-9e2e-bb748f28a7e4.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units",
-          "author": "yyctrader",
-          "description": "The company behind Starknet is pivoting from pure infrastructure toward revenue-generating products built on its proprietary tech stack.",
-          "link": "https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units",
-          "publishedOn": "2026-04-13T20:02:49.000Z",
-          "wordCount": 4933,
-          "title": "StarkWare Cuts Staff and Restructures Into Two Units",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1776111083797-png-56c6ebf4-1611-4650-8c38-dc20f3288af3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1776111083797-png-56c6ebf4-1611-4650-8c38-dc20f3288af3.png"
         }
       ]
     }

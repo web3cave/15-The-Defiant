@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T14:55:49.623Z</id>
+    <id>urn:2026-04-30T16:11:24.555Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T14:55:49.623Z</updated>
+    <updated>2026-04-30T16:11:24.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wasabi Loses $5M+ in Latest DeFi Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/wasabi-protocol-hack</id>
+        <link href="https://thedefiant.io/news/hacks/wasabi-protocol-hack"/>
+        <updated>2026-04-30T15:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Wasabi Protocol is the latest victim in what appears to be a record bad month for DeFi hacks.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken Launches Crypto and Tokenized Stocks Bundles]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch"/>
+        <updated>2026-04-30T14:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Kraken is introducing curated portfolio bundles combining cryptocurrency with traditional U.S. equities and ETFs through its xStocks offering.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maple Finance's SYRUP Token Now Available on Revolut in UK and EU]]></title>
         <id>https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho</id>
         <link href="https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho"/>
         <updated>2026-04-15T16:55:18.000Z</updated>
-        <summary type="html"><![CDATA[The platform's new Earn feature lets its thousands of institutional clients deposit their stablecoin to DeFi's top lending protocols directly on Fireblocks.]]></summary>
+        <summary type="html"><![CDATA[Enterprise crypto infrastructure firm Fireblocks has launched an on-chain lending product, Earn, giving its institutional clients direct access to two of DeFi's largest lending protocols, per a press release shared with The Defiant.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od</id>
         <link href="https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od"/>
         <updated>2026-04-15T10:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin developers and researchers proposed BIP-361, a mechanism to freeze quantum-vulnerable coins as a private incentive for users to upgrade their security posture. The proposal, published Wednesday, aims to address the long-term threat posed by quantum computing to legacy Bitcoin addresses that lack quantum resistance.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Self-custodial wallet tether.wallet supports Bitcoin, USDT, USAT and XAUT across multiple blockchains at launch.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Tops $73,000 Despite Iran Blockade]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade"/>
-        <updated>2026-04-13T20:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets shrugged off collapsing peace talks and surging oil prices, with BTC, ETH, and major altcoins posting gains.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkWare Cuts Staff and Restructures Into Two Units]]></title>
-        <id>https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units</id>
-        <link href="https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units"/>
-        <updated>2026-04-13T20:02:49.000Z</updated>
-        <summary type="html"><![CDATA[The company behind Starknet is pivoting from pure infrastructure toward revenue-generating products built on its proprietary tech stack.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
