@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T19:09:51.788Z</id>
+    <id>urn:2026-05-04T20:55:24.538Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-04T19:09:51.788Z</updated>
+    <updated>2026-05-04T20:55:24.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Launches Shielded USDC and USDT Payments]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments"/>
+        <updated>2026-05-04T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Polygon wallet now offers a "Privately Send" option that hides sender, receiver, and amount onchain, with KYT screening built into every transfer.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Tops $80,000 As ETF Bid Returns]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[TRON founder escalates feud with Trump-linked DeFi project, alleging coercion and frozen voting rights.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Labs Launches Checkpoint, AI-Powered Governance Security System: Aave Labs]]></title>
-        <id>https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9</id>
-        <link href="https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9"/>
-        <updated>2026-04-15T18:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Aave Checkpoint combines automated AI analysis with mandatory human verification to review all DAO proposals before onchain execution.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
