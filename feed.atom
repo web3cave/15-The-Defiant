@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-05T15:26:32.771Z</id>
+    <id>urn:2026-05-05T17:10:21.596Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-05T15:26:32.771Z</updated>
+    <updated>2026-05-05T17:10:21.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Drift Sets Out Token-Based Recovery Framework for $295M April Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit</id>
+        <link href="https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit"/>
+        <updated>2026-05-05T16:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-based perpetuals exchange will issue burn-on-redeem recovery tokens funded by exchange revenue, a $127.5M Tether commitment, and another $20M from partners.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellar Gets Its First Regulated, Yield-Bearing Stablecoin with YLDS Launch]]></title>
         <id>https://thedefiant.io/news/defi/figure-ylds-launches-on-stellar</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Tether is leading a $150M recovery initiative for Drift Protocol; the plan will also shift the perp DEX's primary settlement asset to USDT on Solana.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Stalls Below $75,000 amid Geopolitical Fog and Tax-Day Selling]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling"/>
-        <updated>2026-04-15T20:45:24.000Z</updated>
-        <summary type="html"><![CDATA[ETH, SOL, and major altcoins are marginally higher on the day.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
