@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T15:22:43.094Z</id>
+    <id>urn:2026-05-07T17:28:58.164Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-07T15:22:43.094Z</updated>
+    <updated>2026-05-07T17:28:58.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy]]></title>
+        <id>https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026</id>
+        <link href="https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026"/>
+        <updated>2026-05-07T17:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Officially Confirms $1B Raise at $22B Valuation]]></title>
+        <id>https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation</id>
+        <link href="https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation"/>
+        <updated>2026-05-07T15:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi's co-founder said the new capital will be used to accelerate that institutional adoption.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slide While S&amp; P 500 Notches Fresh Record on Iran Peace Hopes]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes"/>
+        <updated>2026-05-07T15:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Strategy's Q1 earnings call signaled a departure from Saylor's "never sell" mantra, with Bitcoin slipping below $81,000 in the aftermath.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken's Parent Company Acquires Stablecoin Payments Firm Reap for $600M]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-parent-payward-acquires-hong-kong-payments-firm-reap-for-usd600m</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3"/>
         <updated>2026-04-20T11:31:28.000Z</updated>
         <summary type="html"><![CDATA[North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds"/>
-        <updated>2026-04-20T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt]]></title>
-        <id>https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9</id>
-        <link href="https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9"/>
-        <updated>2026-04-19T14:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Attacker minted unbacked rsETH through Kelp's LayerZero bridge, then borrowed WETH on Aave V3 and V4 before markets could freeze.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrapped XRP Now Available Across Major Solana Apps: Solana]]></title>
-        <id>https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i</id>
-        <link href="https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i"/>
-        <updated>2026-04-17T21:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Solana announced wXRP is live on Titan Exchange, Real, Phantom, Jupiter, and Meteora, expanding cross-chain asset availability on the blockchain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

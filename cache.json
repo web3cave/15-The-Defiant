@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
+          "author": "Olivia Capozzalo",
+          "description": "Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.",
+          "link": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
+          "publishedOn": "2026-05-07T17:12:04.000Z",
+          "wordCount": null,
+          "title": "‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation",
+          "author": "DefAInt",
+          "description": "Kalshi's co-founder said the new capital will be used to accelerate that institutional adoption.",
+          "link": "https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation",
+          "publishedOn": "2026-05-07T15:34:06.000Z",
+          "wordCount": null,
+          "title": "Kalshi Officially Confirms $1B Raise at $22B Valuation",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/vc-jpg-fa3557e4-3755-475a-b272-005eb2f65472.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/vc-jpg-fa3557e4-3755-475a-b272-005eb2f65472.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes",
+          "author": "yyctrader",
+          "description": "Strategy's Q1 earnings call signaled a departure from Saylor's \"never sell\" mantra, with Bitcoin slipping below $81,000 in the aftermath.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes",
+          "publishedOn": "2026-05-07T15:20:13.000Z",
+          "wordCount": null,
+          "title": "Crypto Markets Slide While S&amp; P 500 Notches Fresh Record on Iran Peace Hopes",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1778167421612-png-e65220c7-3b9c-4538-ade2-15c87ff5fa88.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1778167421612-png-e65220c7-3b9c-4538-ade2-15c87ff5fa88.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/kraken-parent-payward-acquires-hong-kong-payments-firm-reap-for-usd600m",
           "author": "DefAInt",
           "description": "The deal is payable in cash and stock and values Payward at $20 billion.",
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
-          "author": "DefAInt",
-          "description": "Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
-          "publishedOn": "2026-04-20T06:30:00.000Z",
-          "wordCount": null,
-          "title": "Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/tokenized-bonds-jpg-28cc3cd4-8155-4996-8ab9-da9960fd90f1.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/tokenized-bonds-jpg-28cc3cd4-8155-4996-8ab9-da9960fd90f1.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9",
-          "author": "Camila Russo",
-          "description": "Attacker minted unbacked rsETH through Kelp's LayerZero bridge, then borrowed WETH on Aave V3 and V4 before markets could freeze.",
-          "link": "https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9",
-          "publishedOn": "2026-04-19T14:47:06.000Z",
-          "wordCount": null,
-          "title": "Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6b4668657ab3fd35473b60ae0e1851e0211a0d39-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6b4668657ab3fd35473b60ae0e1851e0211a0d39-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i",
-          "author": "DefAInt",
-          "description": "Solana announced wXRP is live on Titan Exchange, Real, Phantom, Jupiter, and Meteora, expanding cross-chain asset availability on the blockchain.",
-          "link": "https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i",
-          "publishedOn": "2026-04-17T21:46:30.000Z",
-          "wordCount": null,
-          "title": "Wrapped XRP Now Available Across Major Solana Apps: Solana",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/203f1c762762fd90e486448df47d225433f888e6-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/203f1c762762fd90e486448df47d225433f888e6-1792x1024.jpg"
         }
       ]
     }
