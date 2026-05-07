@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe",
+          "author": "yyctrader",
+          "description": "Bedrock AgentCore Payments turns Amazon's agent platform into a transactional layer, with Coinbase supplying x402 stablecoin rails and Stripe contributing wallet infrastructure via Privy.",
+          "link": "https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe",
+          "publishedOn": "2026-05-07T18:20:55.000Z",
+          "wordCount": null,
+          "title": "Amazon Builds AI Agent Payments With Coinbase and Stripe",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1778178057763-png-b60b0378-7562-4deb-8b6b-b879438a6317.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1778178057763-png-b60b0378-7562-4deb-8b6b-b879438a6317.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
           "author": "Olivia Capozzalo",
           "description": "Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/genius-1-png-d6c792f9-e951-4e14-92e1-3812571c60f7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3",
-          "author": "DefAInt",
-          "description": "North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.",
-          "link": "https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3",
-          "publishedOn": "2026-04-20T11:31:28.000Z",
-          "wordCount": null,
-          "title": "LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg"
         }
       ]
     }
