@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T16:06:23.908Z</id>
+    <id>urn:2026-05-08T18:01:52.567Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-08T16:06:23.909Z</updated>
+    <updated>2026-05-08T18:01:52.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ECB's Lagarde: Euro Stablecoins Aren't the Answer, Build Public Infrastructure Instead]]></title>
+        <id>https://thedefiant.io/news/regulation/ecb-lagarde-on-euro-stablecoins</id>
+        <link href="https://thedefiant.io/news/regulation/ecb-lagarde-on-euro-stablecoins"/>
+        <updated>2026-05-08T17:12:33.000Z</updated>
+        <summary type="html"><![CDATA[The President of the European Central Bank spoke against EUR-pegged stablecoins at the inaugural Banco de España LatAm Economic Forum today.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Slips Under $80,000 As ETFs Snap Five-Day Inflow Streak]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak"/>
+        <updated>2026-05-08T16:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Tron, Cardano and Solana led weekly gains among the Top 10, while Bitcoin and Ether lagged as US spot ETF demand cooled on Thursday.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tydro Keeps Markets Paused After Chaos Labs Flags Suspected Nation-State Attack]]></title>
         <id>https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[In a detailed incident report, Aave service providers quantified the protocol's exposure for the first time and outlined two scenarios depending on how Kelp DAO allocates the loss. LayerZero and Kelp continue to blame each other for the compromised bridge configuration.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack]]></title>
-        <id>https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq</id>
-        <link href="https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq"/>
-        <updated>2026-04-20T16:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of 2,665 LayerZero OApp contracts shows nearly half rely on single-validator security configurations, the same setup that exposed KelpDAO's rsETH to exploitation.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service]]></title>
-        <id>https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay</id>
-        <link href="https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay"/>
-        <updated>2026-04-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tangem Pay lets users spend USDC directly from their self-custodial Tangem wallets, settling all transactions on Polygon.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>
