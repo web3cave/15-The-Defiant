@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s",
+          "author": "DefAInt",
+          "description": "LayerZero Labs acknowledged a Lazarus Group attack on internal RPCs and a multisig signer's unauthorized personal trade, impacting 0.36% of assets on the protocol.",
+          "link": "https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s",
+          "publishedOn": "2026-05-09T00:41:52.000Z",
+          "wordCount": null,
+          "title": "LayerZero Admits Mistake in 1/1 DVN Setup Tied to $292M Kelp Hack",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0489d5ba4e813efba667998a7b28c9e40999cbb-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0489d5ba4e813efba667998a7b28c9e40999cbb-1792x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/megaeth-kicks-off-mega-buybacks",
           "author": "yyctrader",
           "description": "Future repurchases will follow a preset schedule and be routed through on-chain markets.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab591118a1da419e8692141068bba319a1bb07c1-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit",
-          "author": "DefAInt",
-          "description": "Since the freeze, ZachXBT reported that the attackers had begun moving funds from Ethereum mainnet to Bitcoin.",
-          "link": "https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit",
-          "publishedOn": "2026-04-21T14:43:18.000Z",
-          "wordCount": null,
-          "title": "Arbitrum Freezes 30,766 ETH Linked to KelpDAO Exploit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/hacker-freeze-jpg-5daf01f2-2417-442d-ae6c-d3cd27a17046.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/hacker-freeze-jpg-5daf01f2-2417-442d-ae6c-d3cd27a17046.jpg"
         }
       ]
     }

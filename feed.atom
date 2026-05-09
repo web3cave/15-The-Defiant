@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T23:43:05.600Z</id>
+    <id>urn:2026-05-09T01:46:02.706Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-08T23:43:05.600Z</updated>
+    <updated>2026-05-09T01:46:02.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero Admits Mistake in 1/1 DVN Setup Tied to $292M Kelp Hack]]></title>
+        <id>https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s</id>
+        <link href="https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s"/>
+        <updated>2026-05-09T00:41:52.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero Labs acknowledged a Lazarus Group attack on internal RPCs and a multisig signer's unauthorized personal trade, impacting 0.36% of assets on the protocol.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MegaETH Kicks Off MEGA Buybacks]]></title>
         <id>https://thedefiant.io/news/blockchains/megaeth-kicks-off-mega-buybacks</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt"/>
         <updated>2026-04-21T15:01:07.000Z</updated>
         <summary type="html"><![CDATA[Ramp expands stablecoin access by launching USDT across Solana, Plasma, and Ethereum with seamless 1:1 USD conversion for global money movement.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Freezes 30,766 ETH Linked to KelpDAO Exploit]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit"/>
-        <updated>2026-04-21T14:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Since the freeze, ZachXBT reported that the attackers had begun moving funds from Ethereum mainnet to Bitcoin.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
