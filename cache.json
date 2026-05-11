@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup",
+          "author": "DefAInt",
+          "description": "The Senate Banking Committee is set to mark up the sweeping crypto market structure bill on Thursday.",
+          "link": "https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup",
+          "publishedOn": "2026-05-11T17:01:18.000Z",
+          "wordCount": null,
+          "title": "Banks Sound Alarm as Senate Prepares CLARITY Act Markup",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/us-banks-jpg-709527ee-609e-46d0-9ffa-7d741825f4cf.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/us-banks-jpg-709527ee-609e-46d0-9ffa-7d741825f4cf.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-to-manage-usd125m-defi-yield-fund-seeded-by-sharplink-s-eth-treasury",
+          "author": "yyctrader",
+          "description": "Mike Novogratz's firm will pick protocols and size exposures while Sharplink keeps its core staked ETH position intact.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-to-manage-usd125m-defi-yield-fund-seeded-by-sharplink-s-eth-treasury",
+          "publishedOn": "2026-05-11T16:36:31.000Z",
+          "wordCount": null,
+          "title": "Galaxy to Manage $125M DeFi Yield Fund Seeded by Sharplink's ETH Treasury",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1778517559083-png-f3151235-7219-4912-a6ab-e7835794c00a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1778517559083-png-f3151235-7219-4912-a6ab-e7835794c00a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/circle-raises-usd222m-in-arc-presale-at-usd3b-fdv",
+          "author": "Olivia Capozzalo",
+          "description": "The private token sale for Circle's Arc blockchain was led by a16z crypto, and included BlackRock, Apollo, and Intercontinental Exchange.",
+          "link": "https://thedefiant.io/news/blockchains/circle-raises-usd222m-in-arc-presale-at-usd3b-fdv",
+          "publishedOn": "2026-05-11T14:52:19.000Z",
+          "wordCount": null,
+          "title": "Circle Raises $222M in Arc Presale at $3B FDV",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/circle-jpg-15283472-8426-4a64-bd08-92bf9a34e139.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/circle-jpg-15283472-8426-4a64-bd08-92bf9a34e139.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s",
           "author": "DefAInt",
           "description": "LayerZero Labs acknowledged a Lazarus Group attack on internal RPCs and a multisig signer's unauthorized personal trade, impacting 0.36% of assets on the protocol.",
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06df3cd8777d95d41b32498231a9cc4d85064ab9-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
-          "author": "DefAInt",
-          "description": "After attackers deposited rsETH from an exploited Kelp bridge and borrowed Wrapped ETH, Aave had frozen WETH across multiple markets.",
-          "link": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
-          "publishedOn": "2026-04-21T16:59:55.000Z",
-          "wordCount": null,
-          "title": "Aave Partially Unfreezes WETH After Kelp Bridge Exploit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
-          "author": "DefAInt",
-          "description": "Tempo also announced it's launching a Stablecoin Advisory.",
-          "link": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
-          "publishedOn": "2026-04-21T16:02:41.000Z",
-          "wordCount": null,
-          "title": "DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt",
-          "author": "DefAInt",
-          "description": "Ramp expands stablecoin access by launching USDT across Solana, Plasma, and Ethereum with seamless 1:1 USD conversion for global money movement.",
-          "link": "https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt",
-          "publishedOn": "2026-04-21T15:01:07.000Z",
-          "wordCount": null,
-          "title": "USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab591118a1da419e8692141068bba319a1bb07c1-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab591118a1da419e8692141068bba319a1bb07c1-1792x1024.jpg"
         }
       ]
     }
