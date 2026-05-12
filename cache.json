@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-clear-signing-standard",
+          "author": "yyctrader",
+          "description": "The initiative, anchored by ERC-7730 and a new attestation framework, aims to make human-readable transactions the default across wallets and protocols.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-clear-signing-standard",
+          "publishedOn": "2026-05-12T17:14:29.000Z",
+          "wordCount": null,
+          "title": "Ethereum Foundation Launches Clear Signing Standard",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1778606099701-png-048582b9-ff74-42f9-8c77-c8590301d7f3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1778606099701-png-048582b9-ff74-42f9-8c77-c8590301d7f3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-picks-chainlink-as-data-layer-for-24-7-tokenized-collateral-platform",
+          "author": "yyctrader",
+          "description": "The Collateral AppChain will use the Chainlink Runtime Environment to automate eligibility, margining and settlement across global markets, with production launch slated for Q4 2026.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-picks-chainlink-as-data-layer-for-24-7-tokenized-collateral-platform",
+          "publishedOn": "2026-05-12T16:30:35.000Z",
+          "wordCount": null,
+          "title": "DTCC Picks Chainlink As Data Layer For 24/7 Tokenized Collateral Platform",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1778603714521-png-e646ed12-e53d-4b17-83f0-fd66da5c995d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1778603714521-png-e646ed12-e53d-4b17-83f0-fd66da5c995d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/anthropic-calls-out-unauthorized-tokenized-shares",
           "author": "DefAInt",
           "description": "The developer of Claude has updated its terms of service, warning against the third-party sale or transfer of its private equity.",
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91a21c4e94b4c9b5f3cccb21abe43f1307b049a4-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/defi-united-fundraising-chips-away-at-kelp-exploit-shortfall",
-          "author": "yyctrader",
-          "description": "Bybit CEO Ben Zhou pledged his support for Mantle's 30,000 ETH loan proposal.",
-          "link": "https://thedefiant.io/news/defi/defi-united-fundraising-chips-away-at-kelp-exploit-shortfall",
-          "publishedOn": "2026-04-24T15:00:34.000Z",
-          "wordCount": null,
-          "title": "DeFi United Fundraising Chips Away at Kelp Exploit Shortfall",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777043725355-png-3d66611f-95bb-43c9-89f2-fc8b79fea17d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777043725355-png-3d66611f-95bb-43c9-89f2-fc8b79fea17d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth",
-          "author": "yyctrader",
-          "description": "Traders can post non-USDC assets as collateral for perps through Unified Trading Accounts, with conservative supply caps at launch.",
-          "link": "https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth",
-          "publishedOn": "2026-04-24T14:34:25.000Z",
-          "wordCount": null,
-          "title": "Lighter Unveils Multi-Asset Margin Starting With ETH",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777041337512-png-7fbdc8c7-19b6-40d0-9ebc-09905562721f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777041337512-png-7fbdc8c7-19b6-40d0-9ebc-09905562721f.png"
         }
       ]
     }
