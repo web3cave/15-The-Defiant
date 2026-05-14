@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-14T20:21:19.731Z</id>
+    <id>urn:2026-05-14T21:58:12.648Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-14T20:21:19.731Z</updated>
+    <updated>2026-05-14T21:58:12.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y"/>
+        <updated>2026-05-14T20:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Kraken is deprecating its existing cross-chain infrastructure and moving exclusively to Chainlink CCIP to secure Kraken Wrapped Bitcoin (kBTC) and all future wrapped assets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Rallies as Senate Committee Advances Market Structure Bill to Full Senate]]></title>
         <id>https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The coalition has secured ETH commitments to refill the bridge in tranches and will use Aave and Compound governance proposals to liquidate the exploiter's remaining positions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers of Telegram's Crypto Wallet Launch Agentic Wallets]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram"/>
-        <updated>2026-04-28T18:19:46.000Z</updated>
-        <summary type="html"><![CDATA[The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y",
+          "author": "The Defiant Team",
+          "description": "Kraken is deprecating its existing cross-chain infrastructure and moving exclusively to Chainlink CCIP to secure Kraken Wrapped Bitcoin (kBTC) and all future wrapped assets.",
+          "link": "https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y",
+          "publishedOn": "2026-05-14T20:28:10.000Z",
+          "wordCount": null,
+          "title": "Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e39ce329b57a4b628251e8569acfe277d6268a3d-1536x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e39ce329b57a4b628251e8569acfe277d6268a3d-1536x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate",
           "author": "The Defiant Team",
           "description": "Bitcoin rose 3% and Coinbase stock surged more than 8% as the Senate Banking Committee advanced the most consequential crypto market structure bill in U.S. history. Substantial hurdles remain before it becomes law.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1777404482901-png-8015168f-6d0a-4686-a382-2dd3ccee3465.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram",
-          "author": "DefAInt",
-          "description": "The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram",
-          "publishedOn": "2026-04-28T18:19:46.000Z",
-          "wordCount": null,
-          "title": "Developers of Telegram's Crypto Wallet Launch Agentic Wallets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/agent-city-jpg-f596667a-3ccb-42b2-bb8b-65a9094742d9.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/agent-city-jpg-f596667a-3ccb-42b2-bb8b-65a9094742d9.jpg"
         }
       ]
     }
