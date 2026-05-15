@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T15:53:33.759Z</id>
+    <id>urn:2026-05-15T17:18:39.801Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-15T15:53:33.759Z</updated>
+    <updated>2026-05-15T17:18:39.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid]]></title>
+        <id>https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid</id>
+        <link href="https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid"/>
+        <updated>2026-05-15T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The Hyperliquid Policy Center disputed the framing.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized ETFs Surpass $430 Million in Onchain Market Cap, Led by Ondo Finance's IVVon]]></title>
         <id>https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl</id>
@@ -41,6 +51,16 @@
         <link href="https://thedefiant.io/news/defi/spark-sky-agent-network-risk-framework-hfggvd"/>
         <updated>2026-05-15T11:18:16.000Z</updated>
         <summary type="html"><![CDATA[Spark has released a comprehensive risk framework for the Sky Agent Network, detailing how losses are absorbed and risk is bounded across Spark Savings, SparkLend, and the Spark Liquidity Layer.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Launches Agent Marketplace for DeFi-Native Service Discovery and Integration]]></title>
+        <id>https://thedefiant.io/news/defi/circle-agent-marketplace-launch-qram21</id>
+        <link href="https://thedefiant.io/news/defi/circle-agent-marketplace-launch-qram21"/>
+        <updated>2026-05-14T23:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Circle introduced Agent Marketplace as part of its Agent Stack, enabling autonomous agents to discover and pay for trusted services through programmable, usage-based economic models.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -113,6 +133,18 @@
         <summary type="html"><![CDATA[Grove has launched Basin, a DeFi protocol providing instant onchain stablecoin liquidity for tokenized real-world assets with up to $1 billion in daily liquidity capacity.]]></summary>
         <author>
             <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Yields Are Too Damn Low! Here's Why]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/defi-yields-are-too-damn-low-here-s-why</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/defi-yields-are-too-damn-low-here-s-why"/>
+        <updated>2026-05-14T16:23:00.000Z</updated>
+        <summary type="html"><![CDATA[DeFi is approaching a breaking point.
+
+After a wave of hacks and growing concerns around smart contract risk, liquidity risk, and hidden dependencies, the biggest question in crypto is no longer just how much yield you can earn, but whether that yield is actually worth the risk.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -896,6 +928,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The $300M DeFi Bailout: Heroic or Unsustainable?]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/the-usd300m-defi-bailout-heroic-or-unsustainable</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/the-usd300m-defi-bailout-heroic-or-unsustainable"/>
+        <updated>2026-04-30T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Explosive debate: after one of DeFi's biggest attacks left Aave facing bad debt, DeFi United raised more than $300M to stop the contagion. But did the ecosystem prove its strength - or expose hidden trust assumptions, opaque risk, and the need for a real DeFi backstop?]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wasabi Loses $5M+ in Latest DeFi Exploit]]></title>
         <id>https://thedefiant.io/news/hacks/wasabi-protocol-hack</id>
         <link href="https://thedefiant.io/news/hacks/wasabi-protocol-hack"/>
@@ -963,46 +1005,6 @@
         <summary type="html"><![CDATA[Former acting CFTC Chairman Caroline Pham will run the new business, which bundles key management, custody, execution, and white-label stablecoin issuance into a single stack.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Judge Bans Celsius Founder Mashinsky From Any Product Involving 'Assets']]></title>
-        <id>https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement</id>
-        <link href="https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement"/>
-        <updated>2026-04-29T17:57:37.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Trade Commission settlement decision also ordered Mashinsky to pay the commission $10 million.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Sea Taps WisdomTree to Bring Tokenized Treasury Yield to Business Operating Cash]]></title>
-        <id>https://thedefiant.io/news/defi/stable-sea-taps-wisdomtree-to-bring-tokenized-treasury-yield-to-business-operating-cash</id>
-        <link href="https://thedefiant.io/news/defi/stable-sea-taps-wisdomtree-to-bring-tokenized-treasury-yield-to-business-operating-cash"/>
-        <updated>2026-04-29T17:28:47.000Z</updated>
-        <summary type="html"><![CDATA[The collaboration lets non-crypto-native finance teams sweep idle dollars into WisdomTree's WTGXX alongside their stablecoin payments, with daily dividend accrual and 24/7 liquidity.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Teams Up With Computershare to Tokenize U.S.-Listed Equities]]></title>
-        <id>https://thedefiant.io/news/defi/securitize-teams-up-with-computershare-to-tokenize-u-s-listed-equities</id>
-        <link href="https://thedefiant.io/news/defi/securitize-teams-up-with-computershare-to-tokenize-u-s-listed-equities"/>
-        <updated>2026-04-29T17:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Issuer-Sponsored Tokens enable direct equity ownership in token form, rather than synthetic wrappers sitting on top of underlying shares.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumpfun Announces 50% Revenue Buyback-and-Burn Model]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/pumpfun-announces-50-revenue-buyback-model</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/pumpfun-announces-50-revenue-buyback-model"/>
-        <updated>2026-04-29T16:45:12.000Z</updated>
-        <summary type="html"><![CDATA[PUMP briefly rallied today on news that the platform has burned ~36% of the token's circulating supply from previous buybacks.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
