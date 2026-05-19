@@ -6,6 +6,46 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/tor-project-and-funding-the-commons-launch-web3-native-crowdfunding-campaign",
+          "author": "The Defiant Team",
+          "description": "A coalition of privacy and crypto organizations is using quadratic funding to channel crypto donations to 10 nonprofits fighting censorship and surveillance worldwide.",
+          "link": "https://thedefiant.io/news/infrastructure/tor-project-and-funding-the-commons-launch-web3-native-crowdfunding-campaign",
+          "publishedOn": "2026-05-19T14:33:18.000Z",
+          "wordCount": null,
+          "title": "Tor Project and Funding the Commons Launch Web3-Native Crowdfunding Campaign",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/solana-toly-perpetuals-dex-hyperliquid-jsl7mu",
+          "author": "The Defiant Team",
+          "description": "Anatoly Yakovenko argues Solana needs its own atomically composable perpetuals DEX as Hyperliquid pursues regulatory clarity in Washington.",
+          "link": "https://thedefiant.io/news/defi/solana-toly-perpetuals-dex-hyperliquid-jsl7mu",
+          "publishedOn": "2026-05-19T06:02:53.000Z",
+          "wordCount": null,
+          "title": "Solana Co-founder Toly Backs New Perpetuals DEX to Challenge Hyperliquid's Dominance",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ab391a3560be58e426360a56885fc1b5fe870cb-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6ab391a3560be58e426360a56885fc1b5fe870cb-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stock-trading-awyn0m",
+          "author": "The Defiant Team",
+          "description": "The SEC is developing a new regulatory framework that would allow digital versions of publicly traded securities to trade on blockchain networks in the US.",
+          "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stock-trading-awyn0m",
+          "publishedOn": "2026-05-18T23:49:11.000Z",
+          "wordCount": null,
+          "title": "SEC Preparing 'Innovation Exemption' Framework for Tokenized Stock Trading",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/605d46c26b77fe42366d799225b3e161204b7f22-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/605d46c26b77fe42366d799225b3e161204b7f22-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/regulation/galaxy-receives-bitlicense-nydfs-n4omxc",
           "author": "The Defiant Team",
           "description": "Galaxy has obtained a BitLicense from the New York State Department of Financial Services, regulatory approval to operate a cryptocurrency business in the state.",
@@ -1459,51 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-9d1fc5f7-45c9-4791-b441-d499e9eebfbd.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polymarket-taps-chainalysis-to-police-insider-trading",
-          "author": "yyctrader",
-          "description": "The prediction market will deploy a custom on-chain detection model to flag insider activity.",
-          "link": "https://thedefiant.io/news/defi/polymarket-taps-chainalysis-to-police-insider-trading",
-          "publishedOn": "2026-04-30T18:38:24.000Z",
-          "wordCount": null,
-          "title": "Polymarket Taps Chainalysis to Police Insider Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777574537520-png-60d6d86e-4d1b-442b-bce5-fce427535b4a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777574537520-png-60d6d86e-4d1b-442b-bce5-fce427535b4a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-asset-management-taps-superstate-fundos",
-          "author": "DefAInt",
-          "description": "Coinbase Asset Management has selected Superstate FundOS to issue on-chain shares of Coinbase Stablecoin Yield Fund (CUSHY).",
-          "link": "https://thedefiant.io/news/defi/coinbase-asset-management-taps-superstate-fundos",
-          "publishedOn": "2026-04-30T18:27:41.000Z",
-          "wordCount": null,
-          "title": "Coinbase's Institutional Investment Arm Taps Superstate to Launch Tokenized Credit Fund",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/tokenization-city-jpg-463abf4a-be8b-4597-924e-11487712144f.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/tokenization-city-jpg-463abf4a-be8b-4597-924e-11487712144f.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization",
-          "author": "yyctrader",
-          "description": "The payments giant will fold PYUSD, Braintree, and merchant processing into a new Payment Services & Crypto division, marking the first time digital assets have a dedicated home within the company.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization",
-          "publishedOn": "2026-04-30T17:51:47.000Z",
-          "wordCount": null,
-          "title": "PayPal Elevates Crypto to Core Business in Strategic Reorganization",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777571821938-png-3d5734fe-b362-44c8-ac3f-9d6e506d0a68.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777571821938-png-3d5734fe-b362-44c8-ac3f-9d6e506d0a68.png"
         }
       ]
     }

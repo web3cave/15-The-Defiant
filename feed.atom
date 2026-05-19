@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T13:46:28.594Z</id>
+    <id>urn:2026-05-19T16:41:52.261Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-19T13:46:28.594Z</updated>
+    <updated>2026-05-19T16:41:52.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tor Project and Funding the Commons Launch Web3-Native Crowdfunding Campaign]]></title>
+        <id>https://thedefiant.io/news/infrastructure/tor-project-and-funding-the-commons-launch-web3-native-crowdfunding-campaign</id>
+        <link href="https://thedefiant.io/news/infrastructure/tor-project-and-funding-the-commons-launch-web3-native-crowdfunding-campaign"/>
+        <updated>2026-05-19T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[A coalition of privacy and crypto organizations is using quadratic funding to channel crypto donations to 10 nonprofits fighting censorship and surveillance worldwide.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Co-founder Toly Backs New Perpetuals DEX to Challenge Hyperliquid's Dominance]]></title>
+        <id>https://thedefiant.io/news/defi/solana-toly-perpetuals-dex-hyperliquid-jsl7mu</id>
+        <link href="https://thedefiant.io/news/defi/solana-toly-perpetuals-dex-hyperliquid-jsl7mu"/>
+        <updated>2026-05-19T06:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Anatoly Yakovenko argues Solana needs its own atomically composable perpetuals DEX as Hyperliquid pursues regulatory clarity in Washington.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Preparing 'Innovation Exemption' Framework for Tokenized Stock Trading]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stock-trading-awyn0m</id>
+        <link href="https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stock-trading-awyn0m"/>
+        <updated>2026-05-18T23:49:11.000Z</updated>
+        <summary type="html"><![CDATA[The SEC is developing a new regulatory framework that would allow digital versions of publicly traded securities to trade on blockchain networks in the US.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy Receives BitLicense From New York State Department of Financial Services]]></title>
         <id>https://thedefiant.io/converge/regulation/galaxy-receives-bitlicense-nydfs-n4omxc</id>
@@ -975,36 +1005,6 @@ After a wave of hacks and growing concerns around smart contract risk, liquidity
         <summary type="html"><![CDATA[The partnership aims to make it easier for companies, including fintechs and paying firms, to issue compliant stablecoins in the United States.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Taps Chainalysis to Police Insider Trading]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-taps-chainalysis-to-police-insider-trading</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-taps-chainalysis-to-police-insider-trading"/>
-        <updated>2026-04-30T18:38:24.000Z</updated>
-        <summary type="html"><![CDATA[The prediction market will deploy a custom on-chain detection model to flag insider activity.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase's Institutional Investment Arm Taps Superstate to Launch Tokenized Credit Fund]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-asset-management-taps-superstate-fundos</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-asset-management-taps-superstate-fundos"/>
-        <updated>2026-04-30T18:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Asset Management has selected Superstate FundOS to issue on-chain shares of Coinbase Stablecoin Yield Fund (CUSHY).]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Elevates Crypto to Core Business in Strategic Reorganization]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization"/>
-        <updated>2026-04-30T17:51:47.000Z</updated>
-        <summary type="html"><![CDATA[The payments giant will fold PYUSD, Braintree, and merchant processing into a new Payment Services & Crypto division, marking the first time digital assets have a dedicated home within the company.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
