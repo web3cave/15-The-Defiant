@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/layerzero-s-incident-report-says-kelp-downgraded-from-2-of-2-to-1-of-1-before-usd292m-exploit",
+          "author": "The Defiant Team",
+          "description": "Detailed May 18 post-mortem traces a six-week breach to DPRK group TraderTraitor and locks in a new 3-of-3 DVN protocol default. Kelp says LayerZero approved the configuration and has migrated rsETH bridging to Chainlink.",
+          "link": "https://thedefiant.io/news/hacks/layerzero-s-incident-report-says-kelp-downgraded-from-2-of-2-to-1-of-1-before-usd292m-exploit",
+          "publishedOn": "2026-05-20T14:29:56.000Z",
+          "wordCount": null,
+          "title": "LayerZero's Incident Report Says Kelp Downgraded From 2-of-2 to 1-of-1 DVN Before $292M Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/2026-05-20-10-55-52-jpg-004870ea-b796-4b31-8415-6dcda23750cd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/2026-05-20-10-55-52-jpg-004870ea-b796-4b31-8415-6dcda23750cd.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/cowswap-solana-launch-near-intents-6ete",
+          "author": "The Defiant Team",
+          "description": "CoW Swap, the intent-based DEX, is launching on Solana blockchain with NEAR Intents providing backend infrastructure.",
+          "link": "https://thedefiant.io/news/defi/cowswap-solana-launch-near-intents-6ete",
+          "publishedOn": "2026-05-20T13:47:29.000Z",
+          "wordCount": null,
+          "title": "CoW Swap Expands to Solana With NEAR Intents Backend Support",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef08b72bc0f994f79babdf34f7e3a010452a7964-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef08b72bc0f994f79babdf34f7e3a010452a7964-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/blockchains/moneygram-tempo-blockchain-remittance-validator-ssfqw2",
+          "author": "The Defiant Team",
+          "description": "MoneyGram has become Tempo's anchor remittance validator in a new strategic blockchain partnership designed to enhance cross-border payment infrastructure.",
+          "link": "https://thedefiant.io/converge/blockchains/moneygram-tempo-blockchain-remittance-validator-ssfqw2",
+          "publishedOn": "2026-05-20T13:42:17.000Z",
+          "wordCount": null,
+          "title": "MoneyGram Partners With Tempo as Anchor Remittance Validator on Blockchain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/727c400811ff1a6d43688f3f6be53a27deee35ad-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/727c400811ff1a6d43688f3f6be53a27deee35ad-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-v4-market-isolation-structure-launch-z6fuwi",
           "author": "The Defiant Team",
           "description": "Aave V4 introduces a new market architecture featuring collateral isolation across Hubs and Spokes, with Prime, Core, and Plus Hubs launching initially.",
@@ -1454,51 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1777662055965-png-e5117466-c866-46cb-b190-9bbf1a8657e7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-pushes-above-usd78-000-as-risk-assets-shake-off-hawkish-fed",
-          "author": "yyctrader",
-          "description": "Crypto markets open May with a rally despite an unresolved Hormuz blockade.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-pushes-above-usd78-000-as-risk-assets-shake-off-hawkish-fed",
-          "publishedOn": "2026-05-01T18:42:21.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Pushes Above $78,000 as Risk Assets Shake Off Hawkish Fed",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777660944474-png-640c2a3d-fef8-4a4d-952b-4d147eb82de1.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777660944474-png-640c2a3d-fef8-4a4d-952b-4d147eb82de1.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/defi-sets-new-hack-record-as-april-logs-28-exploits-with-usd635m-stolen",
-          "author": "yyctrader",
-          "description": "April's exploits were driven less by smart contract bugs and more by social engineering, bridge spoofing, and AI-assisted reconnaissance.",
-          "link": "https://thedefiant.io/news/defi/defi-sets-new-hack-record-as-april-logs-28-exploits-with-usd635m-stolen",
-          "publishedOn": "2026-05-01T16:35:14.000Z",
-          "wordCount": null,
-          "title": "DeFi Sets New Hack Record as April Logs 28 Exploits with $635M Stolen",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777653319736-png-0dc9ede3-1117-44ea-8bcd-1ce23b81e44e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777653319736-png-0dc9ede3-1117-44ea-8bcd-1ce23b81e44e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide",
-          "author": "yyctrader",
-          "description": "Bitcoin reclaims $76,000 despite U.S. spot ETFs posting a third consecutive day of outflows.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide",
-          "publishedOn": "2026-04-30T20:10:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Catch a Breath After Three-Day Slide",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1777579811965-png-b7253649-1a55-4593-b67d-6dbbf7cf3580.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1777579811965-png-b7253649-1a55-4593-b67d-6dbbf7cf3580.png"
         }
       ]
     }

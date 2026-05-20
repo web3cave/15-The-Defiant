@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-20T13:26:54.586Z</id>
+    <id>urn:2026-05-20T16:41:34.718Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-20T13:26:54.586Z</updated>
+    <updated>2026-05-20T16:41:34.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero's Incident Report Says Kelp Downgraded From 2-of-2 to 1-of-1 DVN Before $292M Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/layerzero-s-incident-report-says-kelp-downgraded-from-2-of-2-to-1-of-1-before-usd292m-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/layerzero-s-incident-report-says-kelp-downgraded-from-2-of-2-to-1-of-1-before-usd292m-exploit"/>
+        <updated>2026-05-20T14:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Detailed May 18 post-mortem traces a six-week breach to DPRK group TraderTraitor and locks in a new 3-of-3 DVN protocol default. Kelp says LayerZero approved the configuration and has migrated rsETH bridging to Chainlink.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoW Swap Expands to Solana With NEAR Intents Backend Support]]></title>
+        <id>https://thedefiant.io/news/defi/cowswap-solana-launch-near-intents-6ete</id>
+        <link href="https://thedefiant.io/news/defi/cowswap-solana-launch-near-intents-6ete"/>
+        <updated>2026-05-20T13:47:29.000Z</updated>
+        <summary type="html"><![CDATA[CoW Swap, the intent-based DEX, is launching on Solana blockchain with NEAR Intents providing backend infrastructure.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoneyGram Partners With Tempo as Anchor Remittance Validator on Blockchain]]></title>
+        <id>https://thedefiant.io/converge/blockchains/moneygram-tempo-blockchain-remittance-validator-ssfqw2</id>
+        <link href="https://thedefiant.io/converge/blockchains/moneygram-tempo-blockchain-remittance-validator-ssfqw2"/>
+        <updated>2026-05-20T13:42:17.000Z</updated>
+        <summary type="html"><![CDATA[MoneyGram has become Tempo's anchor remittance validator in a new strategic blockchain partnership designed to enhance cross-border payment infrastructure.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave V4 Gains Momentum With Two-Layer Market Isolation Structure During Capped Launch]]></title>
         <id>https://thedefiant.io/news/defi/aave-v4-market-isolation-structure-launch-z6fuwi</id>
@@ -973,36 +1003,6 @@ After a wave of hacks and growing concerns around smart contract risk, liquidity
         <link href="https://thedefiant.io/news/defi/tradexyz-launches-pre-ipo-perpetuals"/>
         <updated>2026-05-01T19:00:52.000Z</updated>
         <summary type="html"><![CDATA[IPOP markets reference anticipated public equity, convert to standard perps once shares list, and settle by TWAP if the listing fails.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Pushes Above $78,000 as Risk Assets Shake Off Hawkish Fed]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-pushes-above-usd78-000-as-risk-assets-shake-off-hawkish-fed</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-pushes-above-usd78-000-as-risk-assets-shake-off-hawkish-fed"/>
-        <updated>2026-05-01T18:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets open May with a rally despite an unresolved Hormuz blockade.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Sets New Hack Record as April Logs 28 Exploits with $635M Stolen]]></title>
-        <id>https://thedefiant.io/news/defi/defi-sets-new-hack-record-as-april-logs-28-exploits-with-usd635m-stolen</id>
-        <link href="https://thedefiant.io/news/defi/defi-sets-new-hack-record-as-april-logs-28-exploits-with-usd635m-stolen"/>
-        <updated>2026-05-01T16:35:14.000Z</updated>
-        <summary type="html"><![CDATA[April's exploits were driven less by smart contract bugs and more by social engineering, bridge spoofing, and AI-assisted reconnaissance.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Catch a Breath After Three-Day Slide]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-catch-a-breath-after-three-day-slide"/>
-        <updated>2026-04-30T20:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin reclaims $76,000 despite U.S. spot ETFs posting a third consecutive day of outflows.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
