@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-22T16:11:56.437Z</id>
+    <id>urn:2026-05-22T18:26:14.354Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-22T16:11:56.437Z</updated>
+    <updated>2026-05-22T18:26:14.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Commissioner Hester Peirce Clarifies Distinction Between Tokenized Securities and Synthetic Instruments]]></title>
+        <id>https://thedefiant.io/converge/regulation/sec-peirce-tokenization-synthetics-distinction-sopanz</id>
+        <link href="https://thedefiant.io/converge/regulation/sec-peirce-tokenization-synthetics-distinction-sopanz"/>
+        <updated>2026-05-22T17:32:19.000Z</updated>
+        <summary type="html"><![CDATA[SEC Commissioner Hester Peirce references a staff statement on tokenization to distinguish between issuer-sponsored tokenized stocks and synthetic crypto instruments offering stock exposure.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid ETFs Surpass $69 Million in Net Inflows]]></title>
+        <id>https://thedefiant.io/news/markets/hyperliquid-etfs-surpass-69-million-net-inflows-yrbea4</id>
+        <link href="https://thedefiant.io/news/markets/hyperliquid-etfs-surpass-69-million-net-inflows-yrbea4"/>
+        <updated>2026-05-22T17:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Spot ETFs tracking Hyperliquid ($THYP and $BHYP) attracted over $16 million in flows yesterday, bringing cumulative net inflows to $69 million.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEAR Launches Confidential Payments via Intents Protocol]]></title>
         <id>https://thedefiant.io/news/blockchains/near-confidential-payments-intents-launch-sc5363</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[YLDS is an SEC-registered, USD-pegged stable asset from Figure.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Cuts ~14% of Workforce, Restructures as AI-Native Organization: Brian Armstrong]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv"/>
-        <updated>2026-05-05T14:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong announced a ~14% workforce reduction and major organizational restructuring to operate as an AI-native company with flattened hierarchy and individual contributor leaders.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Launches Shielded USDC and USDT Payments]]></title>
-        <id>https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments</id>
-        <link href="https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments"/>
-        <updated>2026-05-04T19:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The Polygon wallet now offers a "Privately Send" option that hides sender, receiver, and amount onchain, with KYT screening built into every transfer.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
