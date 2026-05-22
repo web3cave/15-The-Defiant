@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-22T13:18:58.087Z</id>
+    <id>urn:2026-05-22T16:11:56.437Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-22T13:18:58.087Z</updated>
+    <updated>2026-05-22T16:11:56.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NEAR Launches Confidential Payments via Intents Protocol]]></title>
+        <id>https://thedefiant.io/news/blockchains/near-confidential-payments-intents-launch-sc5363</id>
+        <link href="https://thedefiant.io/news/blockchains/near-confidential-payments-intents-launch-sc5363"/>
+        <updated>2026-05-22T12:47:42.000Z</updated>
+        <summary type="html"><![CDATA[NEAR Protocol has launched confidential payments on its Intents platform, enabling private cross-chain swaps between NEAR and ETH.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Commissioner Peirce Clarifies Scope of Proposed Innovation Exemption for Onchain Stock Trading]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-commissioner-peirce-clarifies-tokenized-stock-exemption-scope-uikype</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments"/>
         <updated>2026-05-04T19:43:00.000Z</updated>
         <summary type="html"><![CDATA[The Polygon wallet now offers a "Privately Send" option that hides sender, receiver, and amount onchain, with KYT screening built into every transfer.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Tops $80,000 As ETF Bid Returns]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns"/>
-        <updated>2026-05-04T18:15:21.000Z</updated>
-        <summary type="html"><![CDATA[The crypto rally extended into Monday, with traders pricing in the CLARITY Act compromise and Trump's "Project Freedom" Hormuz operation.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
