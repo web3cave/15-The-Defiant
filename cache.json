@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/stablr-stablecoins-exploited-eurr-and-usdr-depeg-after-minting-key-compromise",
+          "author": "The Defiant Team",
+          "description": "Estimates of losses range from $2.8 million to $10 million.",
+          "link": "https://thedefiant.io/news/hacks/stablr-stablecoins-exploited-eurr-and-usdr-depeg-after-minting-key-compromise",
+          "publishedOn": "2026-05-24T13:13:08.000Z",
+          "wordCount": null,
+          "title": "StablR Stablecoins Exploited, EURR and USDR Depeg After Minting Key Compromise",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stablecoin-depeg-png-07167810-8605-4e33-99a5-a7606862e351.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stablecoin-depeg-png-07167810-8605-4e33-99a5-a7606862e351.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/regulation/sec-peirce-tokenization-synthetics-distinction-sopanz",
           "author": "The Defiant Team",
           "description": "SEC Commissioner Hester Peirce references a staff statement on tokenization to distinguish between issuer-sponsored tokenized stocks and synthetic crypto instruments offering stock exposure.",
@@ -1484,21 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/btc-city-gen-jpg-693bc51c-9a31-4089-84b9-6e7a00603462.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv",
-          "author": "DefAInt",
-          "description": "Coinbase CEO Brian Armstrong announced a ~14% workforce reduction and major organizational restructuring to operate as an AI-native company with flattened hierarchy and individual contributor leaders.",
-          "link": "https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv",
-          "publishedOn": "2026-05-05T14:02:43.000Z",
-          "wordCount": null,
-          "title": "Coinbase Cuts ~14% of Workforce, Restructures as AI-Native Organization: Brian Armstrong",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d569c9ee99250b0ba242b763c53761b7cdb1d58-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d569c9ee99250b0ba242b763c53761b7cdb1d58-1792x1024.jpg"
         }
       ]
     }
