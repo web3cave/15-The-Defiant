@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-25T21:58:34.228Z</id>
+    <id>urn:2026-05-25T22:58:40.958Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-25T21:58:34.228Z</updated>
+    <updated>2026-05-25T22:58:40.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52"/>
+        <updated>2026-05-25T22:24:55.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Foundation's Kohaku Initiative released an SDK enabling seamless integration of shielded pool protocols like Railgun, Tornado Cash, and Privacy Pools directly into wallet interfaces, with 4337 relaying now operational.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized Stocks Emerge as Fastest-Growing Asset Class on Ethereum]]></title>
         <id>https://thedefiant.io/converge/defi/tokenized-stocks-fastest-growing-ethereum-assets-tim56f</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Security Council has been in the spotlight in recent weeks after its decision to freeze over 30K ETH connected to the Kelp bridge exploit.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Taps Jump and Jupiter to Launch Regulated Trading for Tokenized Equities]]></title>
-        <id>https://thedefiant.io/news/defi/securitize-taps-jump-and-jupiter-to-launch-regulated-trading-for-tokenized-equities</id>
-        <link href="https://thedefiant.io/news/defi/securitize-taps-jump-and-jupiter-to-launch-regulated-trading-for-tokenized-equities"/>
-        <updated>2026-05-05T16:59:03.000Z</updated>
-        <summary type="html"><![CDATA[The three-way partnership pairs Securitize's broker-dealer rails with Jump's PropAMM liquidity engine and Jupiter's Solana-wide aggregation layer.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
