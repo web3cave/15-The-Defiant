@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-26T14:33:06.772Z</id>
+    <id>urn:2026-05-26T17:49:28.238Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-26T14:33:06.772Z</updated>
+    <updated>2026-05-26T17:49:28.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cardano Treasury Vote Ratifies Developer Experience Initiative With 67.9% Support]]></title>
+        <id>https://thedefiant.io/news/blockchains/cardano-treasury-vote-developer-experience-initiative-approved-37kjj6</id>
+        <link href="https://thedefiant.io/news/blockchains/cardano-treasury-vote-developer-experience-initiative-approved-37kjj6"/>
+        <updated>2026-05-26T11:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Cardano's IO-backed Developer Experience Initiative has been approved through treasury vote, securing 67.90% support with ₳3.72 billion in Yes stake.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy Pivots From Bitcoin, Buys Bonds in Unexpected Move]]></title>
+        <id>https://thedefiant.io/news/markets/microstrategy-bitcoin-bonds-pivot-lf43s7</id>
+        <link href="https://thedefiant.io/news/markets/microstrategy-bitcoin-bonds-pivot-lf43s7"/>
+        <updated>2026-05-26T05:47:30.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy's Michael Saylor announced the company purchased bonds this week despite holding 843,738 BTC worth $65 billion, signaling a tactical shift in the corporate treasury strategy.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Staking Queue Reaches 3.4M ETH as Exit Backlog Drops to 64 ETH]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-staking-queue-3-4m-eth-demand-br5lku</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-staking-queue-3-4m-eth-demand-br5lku"/>
+        <updated>2026-05-26T03:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum staking demand vastly outpaces validator exits, with over 3.39 million ETH queued to enter the network against just 64 ETH waiting to unstake.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYT Investigation Exposes CFTC Officials Suspended Over Prediction Markets Scrutiny]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-officials-suspended-prediction-markets-nyt-lhyttr</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-officials-suspended-prediction-markets-nyt-lhyttr"/>
+        <updated>2026-05-26T02:19:30.000Z</updated>
+        <summary type="html"><![CDATA[A New York Times investigation reveals that CFTC officials who raised concerns about prediction markets were suspended and removed from the agency.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot Approves Validator Self-Stake Minimum of 10,000 DOT in Major Staking Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/polkadot-validator-self-stake-minimum-approved-5lqfj3</id>
+        <link href="https://thedefiant.io/news/blockchains/polkadot-validator-self-stake-minimum-approved-5lqfj3"/>
+        <updated>2026-05-26T01:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot governance has approved a proposal to implement a 10,000 DOT validator self-stake minimum, making nominators unslashable and reducing unbonding periods from 28 days to as little as 24 hours.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52</id>
@@ -953,56 +1003,6 @@
         <summary type="html"><![CDATA[The agreement spans spot and perpetual trading, settlement, liquidations, and onboarding flows on the decentralized exchange.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CME Group to Launch Bitcoin Volatility Futures on June 1]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1"/>
-        <updated>2026-05-05T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[The derivatives giant is rolling out CFTC-regulated contracts that let traders isolate Bitcoin volatility from price direction, settling to a new 30-day implied volatility benchmark.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Reclaims $81,000 As ETF Inflows Surge Despite Iran Escalation]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd81-000-as-etf-inflows-surge-despite-iran-escalation</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-usd81-000-as-etf-inflows-surge-despite-iran-escalation"/>
-        <updated>2026-05-05T19:35:19.000Z</updated>
-        <summary type="html"><![CDATA[BTC prints its highest level since January, even as UAE air defenses engage Iranian missiles and drones.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z Crypto Raises $2.2B Fund to Turn New Infra into Everyday Products]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-raises-usd2-2b-crypto-fund-5</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-raises-usd2-2b-crypto-fund-5"/>
-        <updated>2026-05-05T18:42:58.000Z</updated>
-        <summary type="html"><![CDATA[a16z crypto's Crypto Fund 5 was announced just a day after Haun Ventures revealed its $1 billion fund focused on crypto and the agentic economy.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toncoin Surges as Telegram Takes Direct Control of TON Network]]></title>
-        <id>https://thedefiant.io/news/blockchains/toncoin-surges-as-telegram-takes-direct-control-of-ton-network</id>
-        <link href="https://thedefiant.io/news/blockchains/toncoin-surges-as-telegram-takes-direct-control-of-ton-network"/>
-        <updated>2026-05-05T17:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Pavel Durov says Telegram will replace the TON Foundation and become the network's largest validator as part of a ‘Make TON Great Again’ roadmap.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum DAO Elects Six New Security Council Members Amid Ongoing Kelp Fallout]]></title>
-        <id>https://thedefiant.io/news/security/arbitrum-security-council-elections</id>
-        <link href="https://thedefiant.io/news/security/arbitrum-security-council-elections"/>
-        <updated>2026-05-05T17:26:28.000Z</updated>
-        <summary type="html"><![CDATA[The Security Council has been in the spotlight in recent weeks after its decision to freeze over 30K ETH connected to the Kelp bridge exploit.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>

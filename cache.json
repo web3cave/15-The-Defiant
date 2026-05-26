@@ -6,6 +6,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/cardano-treasury-vote-developer-experience-initiative-approved-37kjj6",
+          "author": "The Defiant Team",
+          "description": "Cardano's IO-backed Developer Experience Initiative has been approved through treasury vote, securing 67.90% support with ₳3.72 billion in Yes stake.",
+          "link": "https://thedefiant.io/news/blockchains/cardano-treasury-vote-developer-experience-initiative-approved-37kjj6",
+          "publishedOn": "2026-05-26T11:17:29.000Z",
+          "wordCount": null,
+          "title": "Cardano Treasury Vote Ratifies Developer Experience Initiative With 67.9% Support",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c47136f7effb73342a9bb301517a9efb290eed3f-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c47136f7effb73342a9bb301517a9efb290eed3f-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/microstrategy-bitcoin-bonds-pivot-lf43s7",
+          "author": "The Defiant Team",
+          "description": "MicroStrategy's Michael Saylor announced the company purchased bonds this week despite holding 843,738 BTC worth $65 billion, signaling a tactical shift in the corporate treasury strategy.",
+          "link": "https://thedefiant.io/news/markets/microstrategy-bitcoin-bonds-pivot-lf43s7",
+          "publishedOn": "2026-05-26T05:47:30.000Z",
+          "wordCount": null,
+          "title": "MicroStrategy Pivots From Bitcoin, Buys Bonds in Unexpected Move",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6b39d302d5c86ad4f4535e0b3144b221ba9d9fd-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e6b39d302d5c86ad4f4535e0b3144b221ba9d9fd-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-staking-queue-3-4m-eth-demand-br5lku",
+          "author": "The Defiant Team",
+          "description": "Ethereum staking demand vastly outpaces validator exits, with over 3.39 million ETH queued to enter the network against just 64 ETH waiting to unstake.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-staking-queue-3-4m-eth-demand-br5lku",
+          "publishedOn": "2026-05-26T03:02:58.000Z",
+          "wordCount": null,
+          "title": "Ethereum Staking Queue Reaches 3.4M ETH as Exit Backlog Drops to 64 ETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/53542cb5d136e2298ae2f1dc38b4fb41ca5f04b5-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/53542cb5d136e2298ae2f1dc38b4fb41ca5f04b5-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-officials-suspended-prediction-markets-nyt-lhyttr",
+          "author": "The Defiant Team",
+          "description": "A New York Times investigation reveals that CFTC officials who raised concerns about prediction markets were suspended and removed from the agency.",
+          "link": "https://thedefiant.io/news/regulation/cftc-officials-suspended-prediction-markets-nyt-lhyttr",
+          "publishedOn": "2026-05-26T02:19:30.000Z",
+          "wordCount": null,
+          "title": "NYT Investigation Exposes CFTC Officials Suspended Over Prediction Markets Scrutiny",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/387e831a827ae7bd4b7161980755dc2f2359e565-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/387e831a827ae7bd4b7161980755dc2f2359e565-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/polkadot-validator-self-stake-minimum-approved-5lqfj3",
+          "author": "The Defiant Team",
+          "description": "Polkadot governance has approved a proposal to implement a 10,000 DOT validator self-stake minimum, making nominators unslashable and reducing unbonding periods from 28 days to as little as 24 hours.",
+          "link": "https://thedefiant.io/news/blockchains/polkadot-validator-self-stake-minimum-approved-5lqfj3",
+          "publishedOn": "2026-05-26T01:02:54.000Z",
+          "wordCount": null,
+          "title": "Polkadot Approves Validator Self-Stake Minimum of 10,000 DOT in Major Staking Upgrade",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7d05e68c138d5784ef2bd5808014ae500805dc2-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d7d05e68c138d5784ef2bd5808014ae500805dc2-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52",
           "author": "The Defiant Team",
           "description": "The Ethereum Foundation's Kohaku Initiative released an SDK enabling seamless integration of shielded pool protocols like Railgun, Tornado Cash, and Privacy Pools directly into wallet interfaces, with 4337 relaying now operational.",
@@ -1424,81 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1778011970106-png-48e19b7b-d918-40fc-925a-9c6c8804fdf0.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1",
-          "author": "yyctrader",
-          "description": "The derivatives giant is rolling out CFTC-regulated contracts that let traders isolate Bitcoin volatility from price direction, settling to a new 30-day implied volatility benchmark.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1",
-          "publishedOn": "2026-05-05T19:46:58.000Z",
-          "wordCount": null,
-          "title": "CME Group to Launch Bitcoin Volatility Futures on June 1",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778010567381-png-b66a981e-b6a0-46db-b644-af172c5f68da.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778010567381-png-b66a981e-b6a0-46db-b644-af172c5f68da.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-reclaims-usd81-000-as-etf-inflows-surge-despite-iran-escalation",
-          "author": "yyctrader",
-          "description": "BTC prints its highest level since January, even as UAE air defenses engage Iranian missiles and drones.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-reclaims-usd81-000-as-etf-inflows-surge-despite-iran-escalation",
-          "publishedOn": "2026-05-05T19:35:19.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Reclaims $81,000 As ETF Inflows Surge Despite Iran Escalation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778009725032-png-213c115c-0be5-4a2b-a6b7-057d1c9995d1.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778009725032-png-213c115c-0be5-4a2b-a6b7-057d1c9995d1.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-raises-usd2-2b-crypto-fund-5",
-          "author": "Olivia Capozzalo",
-          "description": "a16z crypto's Crypto Fund 5 was announced just a day after Haun Ventures revealed its $1 billion fund focused on crypto and the agentic economy.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-raises-usd2-2b-crypto-fund-5",
-          "publishedOn": "2026-05-05T18:42:58.000Z",
-          "wordCount": null,
-          "title": "a16z Crypto Raises $2.2B Fund to Turn New Infra into Everyday Products",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/vc-jpg-0668cff7-d1f0-4928-a5c7-0a106fed0420.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/vc-jpg-0668cff7-d1f0-4928-a5c7-0a106fed0420.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/toncoin-surges-as-telegram-takes-direct-control-of-ton-network",
-          "author": "yyctrader",
-          "description": "Pavel Durov says Telegram will replace the TON Foundation and become the network's largest validator as part of a ‘Make TON Great Again’ roadmap.",
-          "link": "https://thedefiant.io/news/blockchains/toncoin-surges-as-telegram-takes-direct-control-of-ton-network",
-          "publishedOn": "2026-05-05T17:32:56.000Z",
-          "wordCount": null,
-          "title": "Toncoin Surges as Telegram Takes Direct Control of TON Network",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778002773763-png-aa1f2e5e-0679-4a8a-99c4-be0f16b28ea3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778002773763-png-aa1f2e5e-0679-4a8a-99c4-be0f16b28ea3.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/arbitrum-security-council-elections",
-          "author": "Olivia Capozzalo",
-          "description": "The Security Council has been in the spotlight in recent weeks after its decision to freeze over 30K ETH connected to the Kelp bridge exploit.",
-          "link": "https://thedefiant.io/news/security/arbitrum-security-council-elections",
-          "publishedOn": "2026-05-05T17:26:28.000Z",
-          "wordCount": null,
-          "title": "Arbitrum DAO Elects Six New Security Council Members Amid Ongoing Kelp Fallout",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-generic-png-bc9d2fd3-3ec2-4636-bae2-76072bedc9a2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-generic-png-bc9d2fd3-3ec2-4636-bae2-76072bedc9a2.png"
         }
       ]
     }
