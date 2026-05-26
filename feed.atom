@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-26T17:49:28.238Z</id>
+    <id>urn:2026-05-26T19:51:16.883Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-26T17:49:28.238Z</updated>
+    <updated>2026-05-26T19:51:16.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Launches MCP Agent Gateway for Onchain Portfolio Management]]></title>
+        <id>https://thedefiant.io/news/defi/base-mcp-agent-gateway-launch-2p8bh1</id>
+        <link href="https://thedefiant.io/news/defi/base-mcp-agent-gateway-launch-2p8bh1"/>
+        <updated>2026-05-26T18:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Base introduces Model Context Protocol integration enabling AI agents to execute swaps, trades, and portfolio management across leading DeFi protocols.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cardano Treasury Vote Ratifies Developer Experience Initiative With 67.9% Support]]></title>
         <id>https://thedefiant.io/news/blockchains/cardano-treasury-vote-developer-experience-initiative-approved-37kjj6</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/kelp-dao-accuses-layerzero-of-deflecting-blame-for-usd300m-bridge-hack"/>
         <updated>2026-05-05T20:25:32.000Z</updated>
         <summary type="html"><![CDATA[The liquid restaking protocol argues that the 1-of-1 verifier setup at the center of the April 18 exploit was LayerZero's own documented default.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lighter Names USDC as Preferred Stablecoin in New Circle Partnership]]></title>
-        <id>https://thedefiant.io/news/defi/lighter-names-usdc-as-preferred-stablecoin-in-new-circle-partnership</id>
-        <link href="https://thedefiant.io/news/defi/lighter-names-usdc-as-preferred-stablecoin-in-new-circle-partnership"/>
-        <updated>2026-05-05T20:00:53.000Z</updated>
-        <summary type="html"><![CDATA[The agreement spans spot and perpetual trading, settlement, liquidations, and onboarding flows on the decentralized exchange.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
