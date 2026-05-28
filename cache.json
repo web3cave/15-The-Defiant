@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization",
+          "author": "The Defiant Team",
+          "description": "The Coinbase-incubated layer-2 network activated multiproofs on mainnet, combining TEE and ZK proof systems to move closer to full decentralization while cutting empty blocks by 99%.",
+          "link": "https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization",
+          "publishedOn": "2026-05-28T21:27:03.000Z",
+          "wordCount": null,
+          "title": "Base Launches Azul Upgrade, Takes Step Toward Stage 2 Decentralization",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/base-jpg-8a206207-a5de-4937-ae8a-1f78064b48ad.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/base-jpg-8a206207-a5de-4937-ae8a-1f78064b48ad.jpg"
+        },
+        {
           "id": "https://thedefiant.io/converge/blockchains/tempo-l1-hits-3-9m-transactions-in-two-months",
           "author": "The Defiant Team",
           "description": "The payments-focused blockchain Tempo has settled 3.9M transactions across 177K addresses since mainnet launch in March, with stablecoin supply exceeding $25M and full Dune Analytics integration live.",
@@ -1484,21 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1778178057763-png-b60b0378-7562-4deb-8b6b-b879438a6317.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
-          "author": "Olivia Capozzalo",
-          "description": "Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.",
-          "link": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
-          "publishedOn": "2026-05-07T17:12:04.000Z",
-          "wordCount": null,
-          "title": "‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg"
         }
       ]
     }

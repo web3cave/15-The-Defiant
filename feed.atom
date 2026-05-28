@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-28T20:00:56.273Z</id>
+    <id>urn:2026-05-28T22:24:06.166Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-28T20:00:56.273Z</updated>
+    <updated>2026-05-28T22:24:06.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Launches Azul Upgrade, Takes Step Toward Stage 2 Decentralization]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization</id>
+        <link href="https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization"/>
+        <updated>2026-05-28T21:27:03.000Z</updated>
+        <summary type="html"><![CDATA[The Coinbase-incubated layer-2 network activated multiproofs on mainnet, combining TEE and ZK proof systems to move closer to full decentralization while cutting empty blocks by 99%.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tempo L1 Hits 3.9M Transactions in Two Months]]></title>
         <id>https://thedefiant.io/converge/blockchains/tempo-l1-hits-3-9m-transactions-in-two-months</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bedrock AgentCore Payments turns Amazon's agent platform into a transactional layer, with Coinbase supplying x402 stablecoin rails and Stripe contributing wallet infrastructure via Privy.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy]]></title>
-        <id>https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026</id>
-        <link href="https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026"/>
-        <updated>2026-05-07T17:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.]]></summary>
-        <author>
-            <name>Olivia Capozzalo</name>
         </author>
     </entry>
 </feed>
