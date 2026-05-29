@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-29T14:33:24.333Z</id>
+    <id>urn:2026-05-29T17:58:14.231Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-29T14:33:24.333Z</updated>
+    <updated>2026-05-29T17:58:14.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sui Restarts After Back-to-Back Mainnet Halts Tied to Software Bug]]></title>
+        <id>https://thedefiant.io/news/blockchains/sui-restarts-after-back-to-back-mainnet-halts</id>
+        <link href="https://thedefiant.io/news/blockchains/sui-restarts-after-back-to-back-mainnet-halts"/>
+        <updated>2026-05-29T16:19:02.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 blockchain blamed two stoppages in as many days on its 1.72 upgrade and said validators have now deployed a permanent fix. SUI slid about 15% in the past seven days.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Approves First US-Regulated Bitcoin Perpetual Futures]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-approves-first-us-regulated-bitcoin-perpetual-futures</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-approves-first-us-regulated-bitcoin-perpetual-futures"/>
+        <updated>2026-05-29T14:32:56.000Z</updated>
+        <summary type="html"><![CDATA[The agency approved Kalshi's BTCPERP contract, the first bitcoin perpetual on a registered U.S. exchange, and in a separate action cleared Coinbase to route customers to its offshore Deribit affiliate. Together the moves open an onshore path for a product long pushed abroad and raise the]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Chief Sprecher Calls Hyperliquid 'Bigger Than Nasdaq' as HYPE Run Draws TradFi Notice]]></title>
+        <id>https://thedefiant.io/news/defi/ice-chief-sprecher-calls-hyperliquid-bigger-than-nasdaq-as-hype-run-draws-tradfi-notice</id>
+        <link href="https://thedefiant.io/news/defi/ice-chief-sprecher-calls-hyperliquid-bigger-than-nasdaq-as-hype-run-draws-tradfi-notice"/>
+        <updated>2026-05-29T05:47:29.000Z</updated>
+        <summary type="html"><![CDATA[The founder of the company that owns the New York Stock Exchange praised the small decentralized exchange and its SpaceX pre-IPO market, even as ICE presses regulators over how to police perpetual futures.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base Launches Azul Upgrade, Takes Step Toward Stage 2 Decentralization]]></title>
         <id>https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization</id>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[The President of the European Central Bank spoke against EUR-pegged stablecoins at the inaugural Banco de España LatAm Economic Forum today.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Slips Under $80,000 As ETFs Snap Five-Day Inflow Streak]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak"/>
-        <updated>2026-05-08T16:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Tron, Cardano and Solana led weekly gains among the Top 10, while Bitcoin and Ether lagged as US spot ETF demand cooled on Thursday.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tydro Keeps Markets Paused After Chaos Labs Flags Suspected Nation-State Attack]]></title>
-        <id>https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack</id>
-        <link href="https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack"/>
-        <updated>2026-05-07T19:23:52.000Z</updated>
-        <summary type="html"><![CDATA[The largest DeFi protocol on Kraken's Ink Layer 2 network is onboarding Chainlink and RedStone feeds before resuming its lending markets.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Builds AI Agent Payments With Coinbase and Stripe]]></title>
-        <id>https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe</id>
-        <link href="https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe"/>
-        <updated>2026-05-07T18:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Bedrock AgentCore Payments turns Amazon's agent platform into a transactional layer, with Coinbase supplying x402 stablecoin rails and Stripe contributing wallet infrastructure via Privy.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>

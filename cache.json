@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/sui-restarts-after-back-to-back-mainnet-halts",
+          "author": "The Defiant Team",
+          "description": "The Layer 1 blockchain blamed two stoppages in as many days on its 1.72 upgrade and said validators have now deployed a permanent fix. SUI slid about 15% in the past seven days.",
+          "link": "https://thedefiant.io/news/blockchains/sui-restarts-after-back-to-back-mainnet-halts",
+          "publishedOn": "2026-05-29T16:19:02.000Z",
+          "wordCount": null,
+          "title": "Sui Restarts After Back-to-Back Mainnet Halts Tied to Software Bug",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sui-jpg-30e104f8-ba81-405e-9cfb-4388b07620bf.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sui-jpg-30e104f8-ba81-405e-9cfb-4388b07620bf.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-approves-first-us-regulated-bitcoin-perpetual-futures",
+          "author": "The Defiant Team",
+          "description": "The agency approved Kalshi's BTCPERP contract, the first bitcoin perpetual on a registered U.S. exchange, and in a separate action cleared Coinbase to route customers to its offshore Deribit affiliate. Together the moves open an onshore path for a product long pushed abroad and raise the",
+          "link": "https://thedefiant.io/news/regulation/cftc-approves-first-us-regulated-bitcoin-perpetual-futures",
+          "publishedOn": "2026-05-29T14:32:56.000Z",
+          "wordCount": null,
+          "title": "CFTC Approves First US-Regulated Bitcoin Perpetual Futures",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0da9a137ef53f85f0cce4c8648b66c4c64f5a35-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0da9a137ef53f85f0cce4c8648b66c4c64f5a35-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ice-chief-sprecher-calls-hyperliquid-bigger-than-nasdaq-as-hype-run-draws-tradfi-notice",
+          "author": "The Defiant Team",
+          "description": "The founder of the company that owns the New York Stock Exchange praised the small decentralized exchange and its SpaceX pre-IPO market, even as ICE presses regulators over how to police perpetual futures.",
+          "link": "https://thedefiant.io/news/defi/ice-chief-sprecher-calls-hyperliquid-bigger-than-nasdaq-as-hype-run-draws-tradfi-notice",
+          "publishedOn": "2026-05-29T05:47:29.000Z",
+          "wordCount": null,
+          "title": "ICE Chief Sprecher Calls Hyperliquid 'Bigger Than Nasdaq' as HYPE Run Draws TradFi Notice",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15263ee43b0684f244771554b94471607e5a8a1a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15263ee43b0684f244771554b94471607e5a8a1a-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization",
           "author": "The Defiant Team",
           "description": "The Coinbase-incubated layer-2 network activated multiproofs on mainnet, combining TEE and ZK proof systems to move closer to full decentralization while cutting empty blocks by 99%.",
@@ -1454,51 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/euro-jpg-10b0b5a6-9fe4-42a4-bb3f-a4aaf1d90f68.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak",
-          "author": "yyctrader",
-          "description": "Tron, Cardano and Solana led weekly gains among the Top 10, while Bitcoin and Ether lagged as US spot ETF demand cooled on Thursday.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd80-000-as-etfs-snap-five-day-inflow-streak",
-          "publishedOn": "2026-05-08T16:29:21.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Slips Under $80,000 As ETFs Snap Five-Day Inflow Streak",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778257893705-png-3fc778fc-2fd5-4832-8965-4229986796f2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778257893705-png-3fc778fc-2fd5-4832-8965-4229986796f2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack",
-          "author": "yyctrader",
-          "description": "The largest DeFi protocol on Kraken's Ink Layer 2 network is onboarding Chainlink and RedStone feeds before resuming its lending markets.",
-          "link": "https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack",
-          "publishedOn": "2026-05-07T19:23:52.000Z",
-          "wordCount": null,
-          "title": "Tydro Keeps Markets Paused After Chaos Labs Flags Suspected Nation-State Attack",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778182113153-png-1b90b844-96b7-4832-b0d1-0f5a793d9b53.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778182113153-png-1b90b844-96b7-4832-b0d1-0f5a793d9b53.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe",
-          "author": "yyctrader",
-          "description": "Bedrock AgentCore Payments turns Amazon's agent platform into a transactional layer, with Coinbase supplying x402 stablecoin rails and Stripe contributing wallet infrastructure via Privy.",
-          "link": "https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe",
-          "publishedOn": "2026-05-07T18:20:55.000Z",
-          "wordCount": null,
-          "title": "Amazon Builds AI Agent Payments With Coinbase and Stripe",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778178057763-png-b60b0378-7562-4deb-8b6b-b879438a6317.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778178057763-png-b60b0378-7562-4deb-8b6b-b879438a6317.png"
         }
       ]
     }
