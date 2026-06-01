@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-01T08:20:04.381Z</id>
+    <id>urn:2026-06-01T14:44:56.665Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-01T08:20:04.381Z</updated>
+    <updated>2026-06-01T14:44:56.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Pay Hit by 'Delay Module' Exploit as Gnosis Pledges to Cover User Losses]]></title>
+        <id>https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses</id>
+        <link href="https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses"/>
+        <updated>2026-06-01T13:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Co-founder Martin Köppelmann said the company will make all users whole after attackers exploited the smart-contract module that governs Gnosis Pay card accounts. No loss figure has been disclosed.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Argentine Prosecutors Arrest 24, Seize Over $8M in USDT in 'Fake Coins' Crypto-Fraud Sweep]]></title>
         <id>https://thedefiant.io/news/regulation/argentine-prosecutors-arrest-24-seize-8m-usdt-fake-coins</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A newly formed Delaware entity will consolidate and liquidate remaining assets, with "strategic alternatives" coming in the next few weeks.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banks Sound Alarm as Senate Prepares CLARITY Act Markup]]></title>
-        <id>https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup</id>
-        <link href="https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup"/>
-        <updated>2026-05-11T17:01:18.000Z</updated>
-        <summary type="html"><![CDATA[The Senate Banking Committee is set to mark up the sweeping crypto market structure bill on Thursday.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
