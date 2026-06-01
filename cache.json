@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt",
+          "author": "The Defiant Team",
+          "description": "Ethereum co-founder Vitalik Buterin proposed splitting 1 ETH into two paired option assets that always sum back to 1 ETH, eliminating forced liquidations and letting synthetics rely on slow, prediction-market-style oracles.",
+          "link": "https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt",
+          "publishedOn": "2026-06-01T21:20:54.000Z",
+          "wordCount": null,
+          "title": "Vitalik Buterin Proposes Options-Based DeFi to Replace Liquidation-Driven Debt Model",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e06d0d0528f57891dae41b8bad397871b7d1b01b-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e06d0d0528f57891dae41b8bad397871b7d1b01b-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/usd85m-polymarket-dispute-over-strategy-s-may-bitcoin-sale-puts-uma-s-token-voting-oracle-on",
+          "author": "The Defiant Team",
+          "description": "A multi-million-dollar Polymarket contract on whether Strategy sold any bitcoin by May 31 has been disputed twice and is now in front of UMA tokenholders, reigniting an analyst argument that prediction-market oracles built on token voting are structurally unfit for high-stakes settlement.",
+          "link": "https://thedefiant.io/news/markets/usd85m-polymarket-dispute-over-strategy-s-may-bitcoin-sale-puts-uma-s-token-voting-oracle-on",
+          "publishedOn": "2026-06-01T21:19:02.000Z",
+          "wordCount": null,
+          "title": "$60M Polymarket Dispute Over Strategy's May Bitcoin Sale Puts UMA's Token-Voting Oracle on Trial",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b3bac2d44920ea665f047b5e2fbbc16a9cbcd901-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b3bac2d44920ea665f047b5e2fbbc16a9cbcd901-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/telegrams-durov-renames-ton-native-token-to-gram-price-climbs-19",
           "author": "The Defiant Team",
           "description": "Pavel Durov said in a Telegram channel post that The Open Network's native cryptocurrency will be renamed from Toncoin to Gram over the next three weeks, restoring the 2018 whitepaper name the SEC blocked. The token climbed as high as $2.21.",
@@ -1464,36 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/tokenization-city-jpg-3dedc44b-3141-431e-ba68-16783573df1d.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5",
-          "author": "DefAInt",
-          "description": "BlackRock has filed for a new tokenized fund structure with the SEC, selecting Securitize infrastructure for the second time after BUIDL's $2.3B success.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5",
-          "publishedOn": "2026-05-12T13:02:10.000Z",
-          "wordCount": null,
-          "title": "BlackRock Files for New Tokenized Fund With SEC, Taps Securitize Again",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af9422fde0ff02596f2a4322b153d3bfea5ae784-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af9422fde0ff02596f2a4322b153d3bfea5ae784-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80",
-          "author": "DefAInt",
-          "description": "Kraken introduced Flexline, a lending product that accepts cryptocurrency as collateral at 10–25% APR fixed rates, targeting crypto-native businesses and high-net-worth individuals excluded from traditional banking.",
-          "link": "https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80",
-          "publishedOn": "2026-05-12T10:02:02.000Z",
-          "wordCount": null,
-          "title": "Kraken Launches Flexline, Crypto-Backed Lending Product for Builders and Traders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b70cfcf98f24de6b94ab91e99895d7197a4af4ed-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b70cfcf98f24de6b94ab91e99895d7197a4af4ed-1792x1024.jpg"
         }
       ]
     }

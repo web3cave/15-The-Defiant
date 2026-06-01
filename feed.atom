@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-01T19:48:56.526Z</id>
+    <id>urn:2026-06-01T22:27:24.265Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-01T19:48:56.526Z</updated>
+    <updated>2026-06-01T22:27:24.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin Proposes Options-Based DeFi to Replace Liquidation-Driven Debt Model]]></title>
+        <id>https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt</id>
+        <link href="https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt"/>
+        <updated>2026-06-01T21:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum co-founder Vitalik Buterin proposed splitting 1 ETH into two paired option assets that always sum back to 1 ETH, eliminating forced liquidations and letting synthetics rely on slow, prediction-market-style oracles.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$60M Polymarket Dispute Over Strategy's May Bitcoin Sale Puts UMA's Token-Voting Oracle on Trial]]></title>
+        <id>https://thedefiant.io/news/markets/usd85m-polymarket-dispute-over-strategy-s-may-bitcoin-sale-puts-uma-s-token-voting-oracle-on</id>
+        <link href="https://thedefiant.io/news/markets/usd85m-polymarket-dispute-over-strategy-s-may-bitcoin-sale-puts-uma-s-token-voting-oracle-on"/>
+        <updated>2026-06-01T21:19:02.000Z</updated>
+        <summary type="html"><![CDATA[A multi-million-dollar Polymarket contract on whether Strategy sold any bitcoin by May 31 has been disputed twice and is now in front of UMA tokenholders, reigniting an analyst argument that prediction-market oracles built on token voting are structurally unfit for high-stakes settlement.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram's Durov Renames TON's Native Token to Gram, Price Climbs as Much as 19%]]></title>
         <id>https://thedefiant.io/news/blockchains/telegrams-durov-renames-ton-native-token-to-gram-price-climbs-19</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/anthropic-calls-out-unauthorized-tokenized-shares"/>
         <updated>2026-05-12T14:11:35.000Z</updated>
         <summary type="html"><![CDATA[The developer of Claude has updated its terms of service, warning against the third-party sale or transfer of its private equity.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Files for New Tokenized Fund With SEC, Taps Securitize Again]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5"/>
-        <updated>2026-05-12T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock has filed for a new tokenized fund structure with the SEC, selecting Securitize infrastructure for the second time after BUIDL's $2.3B success.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Launches Flexline, Crypto-Backed Lending Product for Builders and Traders]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80"/>
-        <updated>2026-05-12T10:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Kraken introduced Flexline, a lending product that accepts cryptocurrency as collateral at 10–25% APR fixed rates, targeting crypto-native businesses and high-net-worth individuals excluded from traditional banking.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
