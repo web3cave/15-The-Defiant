@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-02T20:42:42.291Z</id>
+    <id>urn:2026-06-02T22:53:05.398Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-02T20:42:42.291Z</updated>
+    <updated>2026-06-02T22:53:05.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Franklin Templeton Wires BENJI Money-Market Fund Into MoonPay Trade for Onchain Stablecoin Swaps]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-benji-moonpay-trade-onchain-stablecoin-swaps</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-benji-moonpay-trade-onchain-stablecoin-swaps"/>
+        <updated>2026-06-02T21:07:02.000Z</updated>
+        <summary type="html"><![CDATA[The $1.74 trillion asset manager is letting institutions move directly between stablecoins and shares of its tokenized US government money fund through MoonPay's new institutional rails, marking one of the first listings of a US-registered tokenized MMF on a third-party onchain trading venue.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui Blames Triple Mainnet Halt on Gas-Charging Bug and a Known-Risk Patch That Backfired]]></title>
+        <id>https://thedefiant.io/news/blockchains/sui-blames-triple-mainnet-halt-gas-charging-bug-known-risk-patch</id>
+        <link href="https://thedefiant.io/news/blockchains/sui-blames-triple-mainnet-halt-gas-charging-bug-known-risk-patch"/>
+        <updated>2026-06-02T20:53:09.000Z</updated>
+        <summary type="html"><![CDATA[The Sui Foundation's post-mortem ties two of three outages to an edge case in the v1.72 address-balances feature, and the third to a randomness-state bug exposed by an interim fix the team shipped knowing it carried halt risk.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Treasury Adds Nobitex and Three Other Iranian Exchanges to OFAC SDN List Under 'Economic Fury']]></title>
+        <id>https://thedefiant.io/news/regulation/us-treasury-nobitex-iran-crypto-exchanges-ofac-sdn-economic-fury</id>
+        <link href="https://thedefiant.io/news/regulation/us-treasury-nobitex-iran-crypto-exchanges-ofac-sdn-economic-fury"/>
+        <updated>2026-06-02T20:49:30.000Z</updated>
+        <summary type="html"><![CDATA[The Office of Foreign Assets Control designated Nobitex, Wallex, Bitpin and Ramzinex, along with their leadership, naming the exchanges as the digital-asset rails for Iran's central bank and the Islamic Revolutionary Guard Corps.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Books First On-Chain Institutional Block Trade]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/polymarket-books-first-on-chain-institutional-block-trade</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/polymarket-books-first-on-chain-institutional-block-trade"/>
+        <updated>2026-06-02T20:49:28.000Z</updated>
+        <summary type="html"><![CDATA[A six-figure trade settled against the Ornn Compute Price Index pushes the world's largest prediction market into TradFi-style risk transfer, with FalconX signing on as a dedicated market maker for future blocks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bad Sentiment, Strong Fundamentals: the Institutional Turn | Chris Perkins, Franklin Crypto]]></title>
         <id>https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto</id>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[Grove has launched Basin, a DeFi protocol providing instant onchain stablecoin liquidity for tokenized real-world assets with up to $1 billion in daily liquidity capacity.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Yields Are Too Damn Low! Here's Why]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/defi-yields-are-too-damn-low-here-s-why</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/defi-yields-are-too-damn-low-here-s-why"/>
-        <updated>2026-05-14T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[DeFi is approaching a breaking point. After a wave of hacks and growing concerns around smart contract risk, liquidity risk, and hidden dependencies, the biggest question in crypto is no longer just how much yield you can earn, but whether that yield is actually worth the risk.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena's ENA Token Launches on Solana via Sunrise DeFi: Solana]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-ena-token-launches-solana-sunrise-defi-2z6pbl</id>
-        <link href="https://thedefiant.io/news/defi/ethena-ena-token-launches-solana-sunrise-defi-2z6pbl"/>
-        <updated>2026-05-14T15:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Ethena's ENA stablecoin is now live on the Solana blockchain through integration with Sunrise DeFi.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain Unveils On-Chain Agent Identity and Payment Framework With ERC-8004 Standard]]></title>
-        <id>https://thedefiant.io/news/blockchains/bnb-chain-agent-identity-erc-8004-go3uof</id>
-        <link href="https://thedefiant.io/news/blockchains/bnb-chain-agent-identity-erc-8004-go3uof"/>
-        <updated>2026-05-13T18:18:38.000Z</updated>
-        <summary type="html"><![CDATA[BNB Chain introduced a framework enabling autonomous agents to obtain verifiable on-chain identities, receive payments, hire other agents, and build reputation through new token standards and skill integrations.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Bill Advances in Senate With Strong Support: Brian Armstrong]]></title>
-        <id>https://thedefiant.io/news/regulation/crypto-bill-advances-senate-armstrong-tx7pju</id>
-        <link href="https://thedefiant.io/news/regulation/crypto-bill-advances-senate-armstrong-tx7pju"/>
-        <updated>2026-05-13T15:17:29.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong says crypto legislation is closer to passage, crediting Senate support and 3.7 million Stand With Crypto advocates.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
