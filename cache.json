@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil",
+          "author": "The Defiant Team",
+          "description": "A dormant launchpad contract from 2021 was emptied this week through a quiet ownership transfer and a one-wei fee reset — the latest in a string of BNB Chain drains that turn admin keys into the attack surface.",
+          "link": "https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil",
+          "publishedOn": "2026-06-03T14:04:28.000Z",
+          "wordCount": null,
+          "title": "Old DxSale Lockers Drained for $7.3M Across 1,400 BNB Chain Pools as Owner-Privilege Exploits Pile Up",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b363699b22f753e0c5ea57ee3d63b21a12f890af-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b363699b22f753e0c5ea57ee3d63b21a12f890af-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/binance-closes-its-centralized-nft-marketplace-joining-coinbase-kraken-in-cex-backed-nft-retreat",
+          "author": "The Defiant Team",
+          "description": "The world's largest crypto exchange is folding its in-house NFT service into Binance Wallet by July 3, ending the centralized-marketplace bet a year after Coinbase NFT shut down and four months after X2Y2's sunset — a near-complete unwinding of the CEX-backed NFT marketplace category.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/binance-closes-its-centralized-nft-marketplace-joining-coinbase-kraken-in-cex-backed-nft-retreat",
+          "publishedOn": "2026-06-03T14:01:31.000Z",
+          "wordCount": null,
+          "title": "Binance Closes Its Centralized NFT Marketplace, Joining Coinbase, Kraken in CEX-Backed NFT Retreat",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/42ca8940fa222e57eb05ee5b9c9dc6d4decb7329-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/42ca8940fa222e57eb05ee5b9c9dc6d4decb7329-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-benji-moonpay-trade-onchain-stablecoin-swaps",
           "author": "The Defiant Team",
           "description": "The $1.74 trillion asset manager is letting institutions move directly between stablecoins and shares of its tokenized US government money fund through MoonPay's new institutional rails, marking one of the first listings of a US-registered tokenized MMF on a third-party onchain trading venue.",
@@ -1381,7 +1411,7 @@
           "description": "Circle introduced Agent Marketplace as part of its Agent Stack, enabling autonomous agents to discover and pay for trusted services through programmable, usage-based economic models.",
           "link": "https://thedefiant.io/news/defi/circle-agent-marketplace-launch-qram21",
           "publishedOn": "2026-05-14T23:48:15.000Z",
-          "wordCount": 3844,
+          "wordCount": 3820,
           "title": "Circle Launches Agent Marketplace for DeFi-Native Service Discovery and Integration",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/716645c846596cadf0559512864addb296b874f2-1536x1024.png",
@@ -1464,36 +1494,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dbe04d00cd4cbc6ab80091da745ec8c286d6d6f5-1536x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-lands-hyperliquid-stablecoin-role-eight-months-after-governance-vote-picked-native",
-          "author": "The Defiant Team",
-          "description": "Native Markets is selling its brand assets to Coinbase as USDC becomes the protocol's canonical quote asset.",
-          "link": "https://thedefiant.io/news/defi/coinbase-lands-hyperliquid-stablecoin-role-eight-months-after-governance-vote-picked-native",
-          "publishedOn": "2026-05-14T18:08:53.000Z",
-          "wordCount": null,
-          "title": "Coinbase Lands Hyperliquid Stablecoin Role Eight Months After Governance Vote Picked Native Markets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/hyperliquid-png-9e22b3fe-0395-4ba0-858e-cb79bc5813c4.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/hyperliquid-png-9e22b3fe-0395-4ba0-858e-cb79bc5813c4.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/grove-launches-basin-1-billion-daily-liquidity-tokenized-rwa-pax3tx",
-          "author": "The Defiant Team",
-          "description": "Grove has launched Basin, a DeFi protocol providing instant onchain stablecoin liquidity for tokenized real-world assets with up to $1 billion in daily liquidity capacity.",
-          "link": "https://thedefiant.io/news/defi/grove-launches-basin-1-billion-daily-liquidity-tokenized-rwa-pax3tx",
-          "publishedOn": "2026-05-14T17:26:12.000Z",
-          "wordCount": null,
-          "title": "Grove Launches Basin With up to $1 Billion in Daily Liquidity for Tokenized Real-World Assets",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8762818d9d4e157ac9005e2cc0dd2545926f174a-1536x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8762818d9d4e157ac9005e2cc0dd2545926f174a-1536x1024.png"
         }
       ]
     }
