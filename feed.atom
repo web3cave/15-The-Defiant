@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-03T19:39:42.211Z</id>
+    <id>urn:2026-06-03T22:21:37.168Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-03T19:39:42.211Z</updated>
+    <updated>2026-06-03T22:21:37.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deel Deploys Stripe's Full Stablecoin Stack to Pay 1.5M Contractors in DLUSD]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors"/>
+        <updated>2026-06-03T21:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Deel is the first enterprise to combine Bridge, Privy, and Tempo in a single product, issuing a custom USD-denominated stablecoin for 1.5 million contractors across 150 countries, starting in Argentina.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders]]></title>
+        <id>https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders</id>
+        <link href="https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders"/>
+        <updated>2026-06-03T21:09:43.000Z</updated>
+        <summary type="html"><![CDATA[The yield-tokenization protocol's $233M-mcap token is now buyable inside Revolut's MiCA-licensed crypto app across the UK, EU, Norway, Iceland and Liechtenstein — the second on-chain yield protocol to land on the fintech's regulated rails after Maple's SYRUP in April.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Plans 2027 US Bank Launch With Stablecoin Services Built In From Day One]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-plans-2027-us-bank-launch-stablecoin-services-day-one</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-plans-2027-us-bank-launch-stablecoin-services-day-one"/>
+        <updated>2026-06-03T20:08:23.000Z</updated>
+        <summary type="html"><![CDATA[The British neobank, with 70 million customers and a $75 billion valuation, will pair FDIC-insured accounts with stablecoin access on a single platform — a tier-one fintech entering US banking with stablecoins designed in, not bolted on.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Builder-Deployed Perp Markets Push Hyperliquid to Record Share of Global Perps Volume]]></title>
+        <id>https://thedefiant.io/news/defi/builder-deployed-perp-markets-push-hyperliquid-to-record-share-of-global-perps-volume</id>
+        <link href="https://thedefiant.io/news/defi/builder-deployed-perp-markets-push-hyperliquid-to-record-share-of-global-perps-volume"/>
+        <updated>2026-06-03T20:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Hyperliquid's HIP-3 framework — which lets anyone deploy a perpetual futures market on the protocol's settlement layer — cleared $62 billion in May volume, pushing the venue to a record 6.63% share of global perps and 14.4% against Binance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Slides Below $66,000 as Spot ETF Outflow Streak Hits a Record 12 Days]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-slides-below-66000-spot-etf-outflow-streak-record-12-days</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault"/>
         <updated>2026-05-15T13:53:23.000Z</updated>
         <summary type="html"><![CDATA[THORChain developers announced that one of six Asgard vaults was compromised, resulting in approximately $7.4M in unauthorized outbound transactions before the network halted signing activity.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkham Intelligence Reports 90%+ Token Concentration in $LAB Project Trading at $4B Market Cap]]></title>
-        <id>https://thedefiant.io/news/markets/arkham-lab-token-90-percent-concentration-4-billion-market-cap-c2a0qd</id>
-        <link href="https://thedefiant.io/news/markets/arkham-lab-token-90-percent-concentration-4-billion-market-cap-c2a0qd"/>
-        <updated>2026-05-15T13:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain intelligence firm Arkham flags extreme insider ownership concentration in $LAB, which has surged 3000% in three months.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark Publishes Risk Framework for Sky Agent Network Built on Sky Protocol Security Principles]]></title>
-        <id>https://thedefiant.io/news/defi/spark-sky-agent-network-risk-framework-hfggvd</id>
-        <link href="https://thedefiant.io/news/defi/spark-sky-agent-network-risk-framework-hfggvd"/>
-        <updated>2026-05-15T11:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Spark has released a comprehensive risk framework for the Sky Agent Network, detailing how losses are absorbed and risk is bounded across Spark Savings, SparkLend, and the Spark Liquidity Layer.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Launches Agent Marketplace for DeFi-Native Service Discovery and Integration]]></title>
-        <id>https://thedefiant.io/news/defi/circle-agent-marketplace-launch-qram21</id>
-        <link href="https://thedefiant.io/news/defi/circle-agent-marketplace-launch-qram21"/>
-        <updated>2026-05-14T23:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Circle introduced Agent Marketplace as part of its Agent Stack, enabling autonomous agents to discover and pay for trusted services through programmable, usage-based economic models.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y"/>
-        <updated>2026-05-14T20:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Kraken is deprecating its existing cross-chain infrastructure and moving exclusively to Chainlink CCIP to secure Kraken Wrapped Bitcoin (kBTC) and all future wrapped assets.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
