@@ -6,6 +6,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners",
+          "author": "The Defiant Team",
+          "description": "0x Protocol has opened its Cross-Chain API to general availability with 12 bridge providers live from day one, including Circle, LayerZero, Stargate and Across — accessible through a single API integration.",
+          "link": "https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners",
+          "publishedOn": "2026-06-04T20:55:00.000Z",
+          "wordCount": null,
+          "title": "0x Opens Cross-Chain API to All Developers with 12 Bridge Partners on Day One",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/arthur-hayes-exits-hype-near-positions-iran-war-ai-ipo",
+          "author": "The Defiant Team",
+          "description": "BitMEX co-founder Arthur Hayes sold his full Hyperliquid and NEAR Protocol holdings on June 4, citing rising energy prices, a pipeline of AI IPOs, and a predicted Trump pivot against AI. A fuller rationale arrives in his \"Reality Test\" essay on June 9.",
+          "link": "https://thedefiant.io/news/markets/arthur-hayes-exits-hype-near-positions-iran-war-ai-ipo",
+          "publishedOn": "2026-06-04T20:40:00.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes Exits Entire HYPE and NEAR Positions, Cites Iran War and AI IPO Pipeline",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d26f6a7692395e5100889213c5107d9196bd788-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d26f6a7692395e5100889213c5107d9196bd788-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption",
           "author": "Chris Storaker",
           "description": "What if the blockchain token you hold doesn't actually give you ownership of the underlying asset? Dennis O'Connell of the ERC-3643 Association joins Converge to expose the hidden differences between tokenization standards — and why knowing which one you're buying matters more than most people",
@@ -1464,36 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5288e13ebd562bdc9411e1777d4bf2d39571646f-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/verus-ethereum-bridge-exploit-11-5-million-ri18bt",
-          "author": "The Defiant Team",
-          "description": "An active exploit on the Verus-Ethereum Bridge has resulted in $11.58 million in losses, according to security firm Blockaid.",
-          "link": "https://thedefiant.io/news/hacks/verus-ethereum-bridge-exploit-11-5-million-ri18bt",
-          "publishedOn": "2026-05-18T12:03:08.000Z",
-          "wordCount": null,
-          "title": "$11.58M Drained in Ongoing Exploit on Verus-Ethereum Bridge",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/891b67cc0a37e34a23b39eb06e9dacd523411962-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/891b67cc0a37e34a23b39eb06e9dacd523411962-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-extends-decline-78500-xm9c9c",
-          "author": "The Defiant Team",
-          "description": "Bitcoin has fallen below $78,500 and is consolidating near the $76,500 support level, with a bearish trend line forming resistance at $77,700 on the hourly chart.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-extends-decline-78500-xm9c9c",
-          "publishedOn": "2026-05-18T11:23:14.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Extends Decline Below $78,500 as Bearish Pressure Intensifies",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d667e2b8c55dc170e8377b69ae11d481c8457ee6-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d667e2b8c55dc170e8377b69ae11d481c8457ee6-2048x1152.png"
         }
       ]
     }
