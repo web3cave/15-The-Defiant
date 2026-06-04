@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T16:14:29.107Z</id>
+    <id>urn:2026-06-04T19:10:12.164Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-04T16:14:29.107Z</updated>
+    <updated>2026-06-04T19:10:12.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ERC-3643: The Case for Permissioned Tokens for Insitutional Adoption]]></title>
+        <id>https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption</id>
+        <link href="https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption"/>
+        <updated>2026-06-04T16:51:18.000Z</updated>
+        <summary type="html"><![CDATA[What if the blockchain token you hold doesn't actually give you ownership of the underlying asset? Dennis O'Connell of the ERC-3643 Association joins Converge to expose the hidden differences between tokenization standards — and why knowing which one you're buying matters more than most people]]></summary>
+        <author>
+            <name>Chris Storaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spot Bitcoin ETF Outflow Streak Extends to Record 13 Days, $4.4B Cumulative]]></title>
+        <id>https://thedefiant.io/news/markets/spot-bitcoin-etf-outflow-streak-record-13-days</id>
+        <link href="https://thedefiant.io/news/markets/spot-bitcoin-etf-outflow-streak-record-13-days"/>
+        <updated>2026-06-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[US spot Bitcoin ETFs posted a 13th consecutive day of net outflows on Wednesday, extending the longest withdrawal streak in the products' history to $4.4 billion cumulative since May 15.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitMine Files for $300M Preferred Stock Offering at 9.5% Yield to Expand ETH Treasury]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-files-300m-preferred-stock-offering-9-5-yield-eth-treasury</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-files-300m-preferred-stock-offering-9-5-yield-eth-treasury"/>
+        <updated>2026-06-04T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[BitMine Immersion Technologies filed a 424B5 prospectus supplement to raise up to $300 million through Series A Perpetual Preferred Stock at a 9.5% cumulative dividend — applying Strategy's STRC capital-markets playbook to a corporate Ethereum treasury sitting on $9.2 billion in unrealized losses.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Western Union Deploys USDPT on Bybit's Fiat Channels in Latin America]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/western-union-usdpt-bybit-fiat-channels-latin-america</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/western-union-usdpt-bybit-fiat-channels-latin-america"/>
+        <updated>2026-06-04T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Western Union has made its USDPT stablecoin available on Bybit's fiat channels in Latin America, making Bybit the first major crypto exchange to integrate USDPT — arriving two days after MoneyGram launched its own rival dollar token on Stellar.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deel Deploys Stripe's Full Stablecoin Stack to Pay 1.5M Contractors in DLUSD]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/hyperliquid-hype-token-rally-spacex-pre-ipo-perpetual-ooc2j1"/>
         <updated>2026-05-18T09:19:10.000Z</updated>
         <summary type="html"><![CDATA[HYPE token gained 7% over 24 hours following the launch of a synthetic SpaceX pre-IPO perpetual contract on Hyperliquid, valuing the private aerospace company at $1.78 trillion.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Restores WETH LTV Ratios Across Multiple Networks as Part of rsETH Recovery Plan]]></title>
-        <id>https://thedefiant.io/news/defi/aave-restores-weth-ltv-ratios-rseth-recovery-2itixw</id>
-        <link href="https://thedefiant.io/news/defi/aave-restores-weth-ltv-ratios-rseth-recovery-2itixw"/>
-        <updated>2026-05-18T00:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Aave has restored WETH loan-to-value ratios on Ethereum, Arbitrum, Base, Mantle, and Linea, re-enabling borrowing against the asset following a technical incident.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid]]></title>
-        <id>https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid</id>
-        <link href="https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid"/>
-        <updated>2026-05-15T16:36:50.000Z</updated>
-        <summary type="html"><![CDATA[The Hyperliquid Policy Center disputed the framing.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized ETFs Surpass $430 Million in Onchain Market Cap, Led by Ondo Finance's IVVon]]></title>
-        <id>https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl</id>
-        <link href="https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl"/>
-        <updated>2026-05-15T14:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Tokenized ETFs have crossed $430 million in total onchain market cap, with Ondo Finance's IVVon token surging 150% in the past month on Ethereum.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORChain Reports $10.7M Loss From Compromised Asgard Vault]]></title>
-        <id>https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault</id>
-        <link href="https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault"/>
-        <updated>2026-05-15T13:53:23.000Z</updated>
-        <summary type="html"><![CDATA[THORChain developers announced that one of six Asgard vaults was compromised, resulting in approximately $7.4M in unauthorized outbound transactions before the network halted signing activity.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
