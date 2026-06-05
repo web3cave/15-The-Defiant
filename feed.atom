@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T22:58:57.141Z</id>
+    <id>urn:2026-06-05T00:04:57.613Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-04T22:58:57.141Z</updated>
+    <updated>2026-06-05T00:04:57.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shielded Labs Proposes New Zcash Upgrade to Prove ZEC Supply After Orchard Bug]]></title>
+        <id>https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug</id>
+        <link href="https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug"/>
+        <updated>2026-06-04T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[The Zcash developer said researcher Taylor Hornby used Anthropic's latest AI model to find a flaw that could have minted undetectable counterfeit ZEC inside the Orchard privacy pool. It wants a further network upgrade to prove the supply is sound, beyond the emergency fix activated June 3.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0x Opens Cross-Chain API to All Developers with 12 Bridge Partners on Day One]]></title>
         <id>https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/aave-proposes-principal-preserving-charitable-giving-layer-3bloge"/>
         <updated>2026-05-18T13:47:48.000Z</updated>
         <summary type="html"><![CDATA[Aave governance initiates temp-check on a new charitable mechanism that would allow users to generate yield on deposits while maintaining capital control for humanitarian organizations.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran Launches Bitcoin-Settled Insurance Platform for Hormuz Strait Shipping]]></title>
-        <id>https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p</id>
-        <link href="https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p"/>
-        <updated>2026-05-18T13:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Iran has unveiled Hormuz Safe, a Bitcoin-backed insurance service enabling shipping companies to obtain coverage for transiting the Strait of Hormuz.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

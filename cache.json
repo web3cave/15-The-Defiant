@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug",
+          "author": "The Defiant Team",
+          "description": "The Zcash developer said researcher Taylor Hornby used Anthropic's latest AI model to find a flaw that could have minted undetectable counterfeit ZEC inside the Orchard privacy pool. It wants a further network upgrade to prove the supply is sound, beyond the emergency fix activated June 3.",
+          "link": "https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug",
+          "publishedOn": "2026-06-04T23:00:43.000Z",
+          "wordCount": null,
+          "title": "Shielded Labs Proposes New Zcash Upgrade to Prove ZEC Supply After Orchard Bug",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/zcash-jpg-afc3c3d3-b22d-4a37-b6c3-c2ec0ca2576a.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/zcash-jpg-afc3c3d3-b22d-4a37-b6c3-c2ec0ca2576a.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners",
           "author": "The Defiant Team",
           "description": "0x Protocol has opened its Cross-Chain API to general availability with 12 bridge providers live from day one, including Circle, LayerZero, Stargate and Across — accessible through a single API integration.",
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84175f5f3bca667b8759a1d1ce0cc4180d617e4d-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p",
-          "author": "The Defiant Team",
-          "description": "Iran has unveiled Hormuz Safe, a Bitcoin-backed insurance service enabling shipping companies to obtain coverage for transiting the Strait of Hormuz.",
-          "link": "https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p",
-          "publishedOn": "2026-05-18T13:18:41.000Z",
-          "wordCount": null,
-          "title": "Iran Launches Bitcoin-Settled Insurance Platform for Hormuz Strait Shipping",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5288e13ebd562bdc9411e1777d4bf2d39571646f-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5288e13ebd562bdc9411e1777d4bf2d39571646f-2048x1152.png"
         }
       ]
     }
