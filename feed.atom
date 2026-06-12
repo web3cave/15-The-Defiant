@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-12T12:46:45.562Z</id>
+    <id>urn:2026-06-12T16:09:38.362Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-12T12:46:45.562Z</updated>
+    <updated>2026-06-12T16:09:38.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer]]></title>
         <id>https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity</id>
         <link href="https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity"/>
-        <updated>2026-06-12T12:46:44.000Z</updated>
+        <updated>2026-06-12T16:09:37.000Z</updated>
         <summary type="html"><![CDATA[The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q2 2026 Sets All-Time High for DeFi Hack Count With ~70 Exploits, $746M Stolen]]></title>
+        <id>https://thedefiant.io/news/hacks/q2-2026-most-hacked-quarter-defi-70-exploits-746m</id>
+        <link href="https://thedefiant.io/news/hacks/q2-2026-most-hacked-quarter-defi-70-exploits-746m"/>
+        <updated>2026-06-12T15:45:48.000Z</updated>
+        <summary type="html"><![CDATA[DeFi logged approximately 70 separate exploits in Q2 2026, roughly doubling the previous quarterly record, even as the $746 million dollar total remains a fraction of historical single-event peaks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Circuit Affirms SBF’s Fraud Conviction and 25-Year Sentence]]></title>
+        <id>https://thedefiant.io/news/regulation/second-circuit-affirms-sbf-fraud-conviction-25-year-sentence</id>
+        <link href="https://thedefiant.io/news/regulation/second-circuit-affirms-sbf-fraud-conviction-25-year-sentence"/>
+        <updated>2026-06-12T15:41:06.000Z</updated>
+        <summary type="html"><![CDATA[A three-judge Second Circuit panel affirmed Sam Bankman-Fried’s conviction on seven counts of fraud and conspiracy, along with his 25-year prison sentence, closing his primary legal path to overturning the 2023 verdict.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Begins Nasdaq Trading With Tokenized Versions Mirroring Largest IPO in History]]></title>
+        <id>https://thedefiant.io/news/markets/spacex-begins-nasdaq-trading-with-tokenized-versions-mirroring-largest-ipo-in-history</id>
+        <link href="https://thedefiant.io/news/markets/spacex-begins-nasdaq-trading-with-tokenized-versions-mirroring-largest-ipo-in-history"/>
+        <updated>2026-06-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX opened for trading on Nasdaq Friday under SPCX, completing what Nasdaq and Morgan Stanley confirmed as the largest IPO in history at $75 billion pre-greenshoe.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero Jumps 30% After ZachXBT Traces $120M USDT Laundering Run Through Privacy Coin]]></title>
+        <id>https://thedefiant.io/news/markets/monero-jumps-zachxbt-120m-usdt-laundering-tether-freeze</id>
+        <link href="https://thedefiant.io/news/markets/monero-jumps-zachxbt-120m-usdt-laundering-tether-freeze"/>
+        <updated>2026-06-12T14:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Monero surged roughly 30% to an intraday high of $438 on Thursday after blockchain investigator ZachXBT traced a $120 million USDT movement that included large purchases of the privacy coin, with Tether subsequently freezing $72 million in connected funds.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/converge/cefi/robinhood-closes-180m-wonderfi-deal-canada-1m-international"/>
         <updated>2026-06-02T13:33:09.000Z</updated>
         <summary type="html"><![CDATA[The retail brokerage's first Canadian footprint comes via a year-late buyout of the operator of Bitbuy and Coinsquare, adding roughly 300,000 funded crypto customers in a single transaction.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Researchers Lay Out Post-Quantum Key Registry as First Concrete Migration Step]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-researchers-lay-out-post-quantum-key-registry-as-first-concrete-migration-step</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-researchers-lay-out-post-quantum-key-registry-as-first-concrete-migration-step"/>
-        <updated>2026-06-02T13:32:06.000Z</updated>
-        <summary type="html"><![CDATA[A team led by Thomas Coratger and Justin Drake published the design for a dedicated XMSS public-key registry, the first protocol fork on the EF Strawmap before validators swap off BLS signatures.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Launches Institutional OTC Prediction-Markets Desk With $10M Arca Trade on the CLARITY Act]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/galaxy-launches-institutional-otc-prediction-markets-desk-arca-clarity</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/galaxy-launches-institutional-otc-prediction-markets-desk-arca-clarity"/>
-        <updated>2026-06-02T13:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy is bringing block-size, principal-counterparty execution to Kalshi and Polymarket event contracts, anchored by a $10 million swap that lets crypto hedge fund Arca hedge regulatory exposure to the Digital Asset Market Clarity Act.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoneyGram Launches MGUSD Stablecoin on Stellar]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/moneygram-launches-mgusd-stablecoin-on-stellar</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/moneygram-launches-mgusd-stablecoin-on-stellar"/>
-        <updated>2026-06-02T13:10:51.000Z</updated>
-        <summary type="html"><![CDATA[The Dallas-based payments company is now the issuer of a U.S. dollar token on a public chain, with Stripe-owned Bridge as the regulated minter, M0 smart contracts handling supply, and Fireblocks holding the float.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schwab Targets Mid-2027 Crypto Spot Trading and Custody for the $5.2T Advisor Channel]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/schwab-targets-mid-2027-crypto-spot-trading-custody-advisor-channel</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/schwab-targets-mid-2027-crypto-spot-trading-custody-advisor-channel"/>
-        <updated>2026-06-02T13:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Charles Schwab will extend Schwab Crypto from retail to its registered-investment-advisor clients by the middle of 2027, putting Bitcoin trading and storage inside the country's largest RIA custody platform.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
