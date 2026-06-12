@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-12T18:55:53.723Z</id>
+    <id>urn:2026-06-12T20:58:01.909Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-12T18:55:53.723Z</updated>
+    <updated>2026-06-12T20:58:01.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer]]></title>
         <id>https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity</id>
         <link href="https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity"/>
-        <updated>2026-06-12T18:55:53.000Z</updated>
+        <updated>2026-06-12T20:58:01.000Z</updated>
         <summary type="html"><![CDATA[The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hester Peirce Bids Farewell to the SEC After Nearly 30 Years]]></title>
+        <id>https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto</id>
+        <link href="https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto"/>
+        <updated>2026-06-12T19:24:46.000Z</updated>
+        <summary type="html"><![CDATA[SEC Commissioner Hester Peirce delivered her farewell remarks Tuesday at the U.S. Chamber of Commerce Capital Markets Summit, closing a tenure defined by crypto-industry advocacy and dissent from the Gensler era.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/defi/anchorage-collateral-manager-ethena-institutional-lending"/>
         <updated>2026-06-02T20:49:20.000Z</updated>
         <summary type="html"><![CDATA[The OCC-chartered crypto bank will hold borrower collateral in segregated custody and run real-time margining for Ethena's overcollateralized loan book, configuring DeFi-native lending around bank-grade controls.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Ships Native Payments Rail for Subscriptions and Allowances]]></title>
-        <id>https://thedefiant.io/converge/blockchains/solana-ships-native-payments-rail-for-subscriptions-and-allowances</id>
-        <link href="https://thedefiant.io/converge/blockchains/solana-ships-native-payments-rail-for-subscriptions-and-allowances"/>
-        <updated>2026-06-02T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The Solana Foundation has deployed a single onchain program that any merchant, payroll operator, or wallet can build recurring billing, capped agent allowances, and contractor pulls on top of, putting a native primitive into the rail layer that Stripe Billing, Recurly, and the card networks own]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
