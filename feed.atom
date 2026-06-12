@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-12T05:23:22.820Z</id>
+    <id>urn:2026-06-12T09:52:17.984Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-12T05:23:22.820Z</updated>
+    <updated>2026-06-12T09:52:17.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer]]></title>
         <id>https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity</id>
         <link href="https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity"/>
-        <updated>2026-06-12T05:23:21.000Z</updated>
+        <updated>2026-06-12T09:52:17.000Z</updated>
         <summary type="html"><![CDATA[The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.]]></summary>
         <author>
             <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Material Holding America Together Is Disappearing. AetherStrike Tokenized It.]]></title>
+        <id>https://thedefiant.io/education/research-and-opinion/the-material-holding-america-together-is-disappearing-aetherstrike-tokenized-it</id>
+        <link href="https://thedefiant.io/education/research-and-opinion/the-material-holding-america-together-is-disappearing-aetherstrike-tokenized-it"/>
+        <updated>2026-06-12T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[A regulated security backed 1:1 by independently certified bitumen reserves — issued under ERC-3643, settled on Ethereum, and offered to accredited investors through a dedicated SPV. The thesis: a structural supply shock in U.S. asphalt binder, met with a tokenization framework purpose-built for]]></summary>
+        <author>
+            <name>AetherStrike</name>
         </author>
     </entry>
     <entry>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/schwab-targets-mid-2027-crypto-spot-trading-custody-advisor-channel"/>
         <updated>2026-06-02T13:09:21.000Z</updated>
         <summary type="html"><![CDATA[Charles Schwab will extend Schwab Crypto from retail to its registered-investment-advisor clients by the middle of 2027, putting Bitcoin trading and storage inside the country's largest RIA custody platform.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Proposes Options-Based DeFi to Replace Liquidation-Driven Debt Model]]></title>
-        <id>https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt</id>
-        <link href="https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt"/>
-        <updated>2026-06-01T21:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum co-founder Vitalik Buterin proposed splitting 1 ETH into two paired option assets that always sum back to 1 ETH, eliminating forced liquidations and letting synthetics rely on slow, prediction-market-style oracles.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
