@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-14T20:56:37.261Z</id>
+    <id>urn:2026-06-14T22:01:53.450Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-14T20:56:37.261Z</updated>
+    <updated>2026-06-14T22:01:53.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World Liberty Financial Pays UFC Freedom 250 Fighters in USD1 at White House]]></title>
+        <id>https://thedefiant.io/news/cefi/world-liberty-financial-usd1-ufc-freedom-250-white-house</id>
+        <link href="https://thedefiant.io/news/cefi/world-liberty-financial-usd1-ufc-freedom-250-white-house"/>
+        <updated>2026-06-14T21:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Trump-backed World Liberty Financial funded a $250,000 Performance of the Night bonus pool at UFC Freedom 250, distributing the awards in its USD1 stablecoin on the White House South Lawn.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Staff Give DCMs a Path to Convert Perpetual-Style Digital Commodity Futures Into True Perpetuals]]></title>
         <id>https://thedefiant.io/converge/regulation/cftc-staff-dcm-convert-perpetual-style-digital-commodity-futures-true-perpetuals</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/sui-blames-triple-mainnet-halt-gas-charging-bug-known-risk-patch"/>
         <updated>2026-06-02T20:53:09.000Z</updated>
         <summary type="html"><![CDATA[The Sui Foundation's post-mortem ties two of three outages to an edge case in the v1.72 address-balances feature, and the third to a randomness-state bug exposed by an interim fix the team shipped knowing it carried halt risk.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYDFS and European Banking Authority Sign Cross-Atlantic Stablecoin Supervision MoU]]></title>
-        <id>https://thedefiant.io/converge/regulation/nydfs-eba-cross-atlantic-stablecoin-supervision-mou</id>
-        <link href="https://thedefiant.io/converge/regulation/nydfs-eba-cross-atlantic-stablecoin-supervision-mou"/>
-        <updated>2026-06-02T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The 22-page memorandum is the first formal supervisory link between the New York regulator licensing Circle, Paxos and Gemini and the EU body overseeing MiCA stablecoin issuers, committing both authorities to quarterly reserve-data exchange as the GENIUS Act and MiCA move toward enforcement.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
