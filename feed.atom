@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-16T00:20:15.869Z</id>
+    <id>urn:2026-06-16T06:20:42.393Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-16T00:20:15.869Z</updated>
+    <updated>2026-06-16T06:20:42.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken and Coinbase Bring Perps Onshore as US Derivatives Markets Shift]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-coinbase-perps-onshore-us-derivatives-launch</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-coinbase-perps-onshore-us-derivatives-launch"/>
+        <updated>2026-06-15T21:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Kraken and Coinbase each launched perpetual futures products Monday, with Kraken going live on CFTC-regulated crypto contracts via Bitnomial and Coinbase introducing four thematic equity-index perpetuals on US soil.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm Leads $9 Million Round in Latin American Stablecoin App El Dorado]]></title>
         <id>https://thedefiant.io/converge/cefi/paradigm-leads-9m-round-el-dorado-latam-stablecoin-app</id>
@@ -76,11 +86,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thetanuts Finance: $2.1M Attack, Partial White-Hat Recovery]]></title>
+        <id>https://thedefiant.io/news/hacks/aztec-connect-thetanuts-zk-rollup-exploit-4-3m</id>
+        <link href="https://thedefiant.io/news/hacks/aztec-connect-thetanuts-zk-rollup-exploit-4-3m"/>
+        <updated>2026-06-15T15:02:49.000Z</updated>
+        <summary type="html"><![CDATA[The on-chain options and structured product protocol Thetanuts Finance was exploited for $2.1 million. Security firm Blockaid published the exploit transaction and exploiter address shortly after the attack.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Strategy Buys 1,587 Bitcoin for $100M Below Its Blended Cost Basis, Lifting Stack to 846,842 BTC]]></title>
         <id>https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc</id>
         <link href="https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc"/>
         <updated>2026-06-15T14:40:00.000Z</updated>
         <summary type="html"><![CDATA[Michael Saylor's firm paid an average $63,024 a coin this week, roughly 17% under the $75,656 it has paid across its entire 846,842-BTC treasury.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Association Takes BRCA Preservation Fight to the Senate Floor]]></title>
+        <id>https://thedefiant.io/converge/regulation/blockchain-association-brca-preservation-senate-floor</id>
+        <link href="https://thedefiant.io/converge/regulation/blockchain-association-brca-preservation-senate-floor"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Blockchain Association brought member executives to Capitol Hill this week, reporting meetings with more than half the Senate as it presses lawmakers to preserve the BRCA developer-protection provision of the CLARITY Act before an August recess deadline.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-slides-below-66000-spot-etf-outflow-streak-record-12-days"/>
         <updated>2026-06-03T17:07:05.000Z</updated>
         <summary type="html"><![CDATA[US spot Bitcoin ETFs pulled in another $519 million of net redemptions on June 2, extending the longest outflow run since the funds launched and tipping a leveraged market into $1.86 billion of forced selling.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano's TapTools Winding Down is a Symptom of a Shrinking Chain]]></title>
-        <id>https://thedefiant.io/news/blockchains/cardano-s-taptools-winding-down-is-a-symptom-of-a-shrinking-chain</id>
-        <link href="https://thedefiant.io/news/blockchains/cardano-s-taptools-winding-down-is-a-symptom-of-a-shrinking-chain"/>
-        <updated>2026-06-03T16:37:06.000Z</updated>
-        <summary type="html"><![CDATA[TapTools, the most-used analytics platform on Cardano, said on X it will wind down within two weeks after losing its fifth senior executive in a year. Founder Charles Hoskinson warned in a video the same day that more older Cardano-ecosystem projects will fold in the second half of 2026.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old DxSale Lockers Drained for $7.3M Across 1,400 BNB Chain Pools as Owner-Privilege Exploits Pile Up]]></title>
-        <id>https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil</id>
-        <link href="https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil"/>
-        <updated>2026-06-03T14:04:28.000Z</updated>
-        <summary type="html"><![CDATA[A dormant launchpad contract from 2021 was emptied this week through a quiet ownership transfer and a one-wei fee reset — the latest in a string of BNB Chain drains that turn admin keys into the attack surface.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard Opens Card-Settlement Network on Eight Blockchains, Adding Weekend and Holiday Cycles]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-card-settlement-network-on-eight-blockchains-adding-weekend-and-holiday-cycles</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-card-settlement-network-on-eight-blockchains-adding-weekend-and-holiday-cycles"/>
-        <updated>2026-06-03T14:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Issuers and acquirers can now clear card transactions in regulated stablecoins on Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo and XRPL, with ARQ, CBW Bank, Cross River, Lead Bank and Nuvei lined up as the first adopters in the US and Latin America.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
