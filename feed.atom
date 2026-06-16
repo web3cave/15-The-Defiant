@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-16T16:50:16.494Z</id>
+    <id>urn:2026-06-16T19:59:49.022Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-16T16:50:16.494Z</updated>
+    <updated>2026-06-16T19:59:49.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Teases 1:1-Backed Tokenized U.S. Stocks With On-Chain Dividends]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-teases-1-1-backed-tokenized-u-s-stocks-with-on-chain-dividends</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-teases-1-1-backed-tokenized-u-s-stocks-with-on-chain-dividends"/>
+        <updated>2026-06-16T16:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase announced plans for what it calls the first tokenized U.S. stocks backed 1:1 by actual shares, with automatic on-chain dividend distribution. The exchange described the product as 'no derivatives, no IOUs,' a direct contrast to the synthetic equity structures currently dominating on-chain]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax']]></title>
         <id>https://thedefiant.io/news/regulation/coinbase-armstrong-accredited-investor-regressive-tax</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/visa-and-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network"/>
         <updated>2026-06-04T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Visa and stablecoin issuer Brale are piloting settlement using SBC, a U.S. dollar-backed stablecoin, on Canton Network, the privacy-preserving institutional DLT, testing whether blockchain settlement can meet bank-grade compliance requirements.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deel Deploys Stripe's Full Stablecoin Stack to Pay 1.5M Contractors in DLUSD]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors"/>
-        <updated>2026-06-03T21:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Deel is the first enterprise to combine Bridge, Privy, and Tempo in a single product, issuing a custom USD-denominated stablecoin for 1.5 million contractors across 150 countries, starting in Argentina.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
