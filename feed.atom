@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T17:09:01.593Z</id>
+    <id>urn:2026-06-19T19:21:44.252Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-19T17:09:01.593Z</updated>
+    <updated>2026-06-19T19:21:44.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Plugs Coinbase's x402 Into CloudFront, Letting Publishers Charge AI Agents in USDC]]></title>
+        <id>https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base</id>
+        <link href="https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base"/>
+        <updated>2026-06-19T17:22:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS turned on AI traffic monetization inside AWS WAF on Monday, letting any site behind Amazon CloudFront charge AI agents per request in USDC through Coinbase's x402 protocol. It is the first time a hyperscale cloud has wired onchain settlement into its content-delivery edge.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARITY Act Reaches Senate Floor With House Ready to Move Fast; Seven-Democrat Math Becomes the Gate]]></title>
         <id>https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow</id>
@@ -21,6 +31,16 @@
         <link href="https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition"/>
         <updated>2026-06-19T16:23:26.000Z</updated>
         <summary type="html"><![CDATA[The world's largest derivatives exchange operator said Wednesday it will sue the CFTC over the agency's approval of Kalshi's bitcoin perpetual futures, arguing the contracts should be classified as swaps under the Dodd-Frank Act.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Loses Second Co-Executive Director as Hsiao-Wei Wang Steps Down]]></title>
+        <id>https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director</id>
+        <link href="https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director"/>
+        <updated>2026-06-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on Thursday after a sabbatical, the second co-ED exit at the Switzerland-based nonprofit in four months and the latest in a five-month wave of senior departures.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/metamask-launches-agent-wallet-in-early-access-giving-ai-agents-self-custody-acces"/>
         <updated>2026-06-08T16:21:38.000Z</updated>
         <summary type="html"><![CDATA[The Consensys-owned wallet provider opened early access Monday for autonomous AI agents to trade across 25+ EVM chains and Hyperliquid, with transaction simulation and $10,000 in loss coverage as the security pitch.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit and Kraken Add xStocks SpaceX Tokenized Equity as Pre-IPO Derivatives Race Reaches Four Venues]]></title>
-        <id>https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues</id>
-        <link href="https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bybit and Kraken both launched 1:1 equity-backed SpaceX exposure via xStocks, joining Coinbase International and BitMEX in a four-venue race that now splits between synthetic perpetuals and regulated tokenized equity issued by Backed Assets (JE) Limited.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Buys 1,550 BTC for $101M One Week After Selling 32, Cash Reserve Hits $1B]]></title>
-        <id>https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b</id>
-        <link href="https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Strategy purchased 1,550 bitcoin for $101.3 million between June 1 and 7, one week after its first BTC sale since 2022. Cash reserve reached $1 billion.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

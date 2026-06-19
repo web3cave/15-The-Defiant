@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base",
+          "author": "The Defiant Team",
+          "description": "AWS turned on AI traffic monetization inside AWS WAF on Monday, letting any site behind Amazon CloudFront charge AI agents per request in USDC through Coinbase's x402 protocol. It is the first time a hyperscale cloud has wired onchain settlement into its content-delivery edge.",
+          "link": "https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base",
+          "publishedOn": "2026-06-19T17:22:27.000Z",
+          "wordCount": null,
+          "title": "AWS Plugs Coinbase's x402 Into CloudFront, Letting Publishers Charge AI Agents in USDC",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/34ddea52e1d2b87d1809b087eee3d110bb85e4dc-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34ddea52e1d2b87d1809b087eee3d110bb85e4dc-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow",
           "author": "The Defiant Team",
           "description": "The Digital Asset Market Clarity Act sits on the Senate calendar eligible for a floor vote, with House Agriculture digital-assets subcommittee chair Dusty Johnson signaling a fast House companion. The bill needs at least seven Democratic votes to clear the 60-vote cloture threshold before the",
@@ -34,6 +49,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e9f88927419da75ce7a7382a8636211a55516b60-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director",
+          "author": "The Defiant Team",
+          "description": "Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on Thursday after a sabbatical, the second co-ED exit at the Switzerland-based nonprofit in four months and the latest in a five-month wave of senior departures.",
+          "link": "https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director",
+          "publishedOn": "2026-06-19T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Ethereum Foundation Loses Second Co-Executive Director as Hsiao-Wei Wang Steps Down",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7afec4d05ded6d1b24c514ebcf3d3d0fe5166eb8-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7afec4d05ded6d1b24c514ebcf3d3d0fe5166eb8-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/fable-s-shutdown-hands-crypto-its-case-for-decentralized-ai",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b81219f19f54d64ac29618e458f8b67d42ad73cf-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues",
-          "author": "The Defiant Team",
-          "description": "Bybit and Kraken both launched 1:1 equity-backed SpaceX exposure via xStocks, joining Coinbase International and BitMEX in a four-venue race that now splits between synthetic perpetuals and regulated tokenized equity issued by Backed Assets (JE) Limited.",
-          "link": "https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues",
-          "publishedOn": "2026-06-08T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Bybit and Kraken Add xStocks SpaceX Tokenized Equity as Pre-IPO Derivatives Race Reaches Four Venues",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea53c20d73b7aca644b470e298fd0e2004989621-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea53c20d73b7aca644b470e298fd0e2004989621-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b",
-          "author": "The Defiant Team",
-          "description": "Strategy purchased 1,550 bitcoin for $101.3 million between June 1 and 7, one week after its first BTC sale since 2022. Cash reserve reached $1 billion.",
-          "link": "https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b",
-          "publishedOn": "2026-06-08T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Strategy Buys 1,550 BTC for $101M One Week After Selling 32, Cash Reserve Hits $1B",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e22b278216d84151050fe9295ea587e2c6f3df71-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e22b278216d84151050fe9295ea587e2c6f3df71-2048x1152.png"
         }
       ]
     }
