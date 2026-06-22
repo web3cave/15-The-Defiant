@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
+          "author": "The Defiant Team",
+          "description": "Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has",
+          "link": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
+          "publishedOn": "2026-06-22T22:57:40.000Z",
+          "wordCount": null,
+          "title": "Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/223bb74a0be823ca64d6ad37508ca7e712c889ec-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/223bb74a0be823ca64d6ad37508ca7e712c889ec-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc",
           "author": "The Defiant Team",
           "description": "The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.",
@@ -21,10 +36,10 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbf58f12cdd24140765e6252b3c43f31fb248569-2048x1152.png"
         },
         {
-          "id": "https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans",
+          "id": "https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults",
           "author": "The Defiant Team",
           "description": "Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.",
-          "link": "https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans",
+          "link": "https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults",
           "publishedOn": "2026-06-22T20:30:59.000Z",
           "wordCount": null,
           "title": "a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d340e82e9d319710be62dfeef850ee88cd2adf9-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer",
-          "author": "The Defiant Team",
-          "description": "An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.",
-          "link": "https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer",
-          "publishedOn": "2026-06-10T17:08:28.000Z",
-          "wordCount": null,
-          "title": "Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f48dcb218cf2c1448f8c26864dca98f17e1f873e-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f48dcb218cf2c1448f8c26864dca98f17e1f873e-2048x1152.png"
         }
       ]
     }

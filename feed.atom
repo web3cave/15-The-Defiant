@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T22:28:59.041Z</id>
+    <id>urn:2026-06-22T23:57:39.082Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-22T22:28:59.041Z</updated>
+    <updated>2026-06-22T23:57:39.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw]]></title>
+        <id>https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw</id>
+        <link href="https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw"/>
+        <updated>2026-06-22T22:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts]]></title>
         <id>https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc</id>
@@ -17,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans]]></title>
-        <id>https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans</id>
-        <link href="https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans"/>
+        <id>https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults</id>
+        <link href="https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults"/>
         <updated>2026-06-22T20:30:59.000Z</updated>
         <summary type="html"><![CDATA[Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.]]></summary>
         <author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/robinhood-securities-gains-ipo-underwriter-status-ceo-tenev-targets-retail-allocation"/>
         <updated>2026-06-10T17:48:30.000Z</updated>
         <summary type="html"><![CDATA[Robinhood Securities has received approval to serve as an IPO underwriter, CEO Vlad Tenev announced Tuesday, positioning the zero-commission broker to compete directly with Wall Street banks on the mega-IPO pipeline.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool]]></title>
-        <id>https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer</id>
-        <link href="https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer"/>
-        <updated>2026-06-10T17:08:28.000Z</updated>
-        <summary type="html"><![CDATA[An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
