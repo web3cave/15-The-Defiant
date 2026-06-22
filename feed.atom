@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-22T20:29:00.920Z</id>
+    <id>urn:2026-06-22T22:28:59.041Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-22T20:29:00.920Z</updated>
+    <updated>2026-06-22T22:28:59.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc"/>
+        <updated>2026-06-22T21:15:37.000Z</updated>
+        <summary type="html"><![CDATA[The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans]]></title>
+        <id>https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans</id>
+        <link href="https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans"/>
+        <updated>2026-06-22T20:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams]]></title>
         <id>https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer"/>
         <updated>2026-06-10T17:08:28.000Z</updated>
         <summary type="html"><![CDATA[An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raydium Confirms $1.34M Drain on Deprecated AMM V3, Pledges Treasury Compensation]]></title>
-        <id>https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash</id>
-        <link href="https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash"/>
-        <updated>2026-06-10T16:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Raydium core contributor Infra confirmed Wednesday that an attacker drained ~$1.34M from the legacy AMM V3 program, a contract phased out in 2021. Current users were unaffected, the treasury will cover full compensation, and the root cause was a self-contained LP-mint validation flaw. PeckShield]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyli Winds Down Two-Year ZK Blockchain Project, Citing Lack of ZK Traction]]></title>
-        <id>https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction</id>
-        <link href="https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction"/>
-        <updated>2026-06-10T16:31:39.000Z</updated>
-        <summary type="html"><![CDATA[ZK blockchain project Hyli is shutting down after two years, with the team citing weak demand for zero-knowledge technology. The closure comes the same day Botanix wound down its Bitcoin Layer 2.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
