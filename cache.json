@@ -6,6 +6,61 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/treasury-sanctions-three-individuals-six-entities-routing-crypto-isis",
+          "author": "The Defiant Team",
+          "description": "OFAC designated three financial facilitators and six money service businesses across Europe, Syria, Turkey, and Nigeria for moving funds to ISIS and its West Africa affiliate using crypto, including two TRON addresses tied to a French national.",
+          "link": "https://thedefiant.io/news/regulation/treasury-sanctions-three-individuals-six-entities-routing-crypto-isis",
+          "publishedOn": "2026-06-23T01:43:21.000Z",
+          "wordCount": null,
+          "title": "Treasury Sanctions Three Individuals and Six Entities for Routing Crypto to ISIS",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/66b20954b9f98c798bb0718abb695389e26bab49-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66b20954b9f98c798bb0718abb695389e26bab49-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx",
+          "author": "The Defiant Team",
+          "description": "Synthetix governance has moved to retire sUSD entirely under SIP-423, introduced June 12. The proposal would freeze the stablecoin contract and pay all holders back at face value in vested SNX at a conversion of four SNX per sUSD. A companion SIP-424 covering technical implementation is pending.",
+          "link": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx",
+          "publishedOn": "2026-06-23T01:43:21.000Z",
+          "wordCount": null,
+          "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4be2a6223dd5a401a9f7b0a98739acbd4e22f6e4-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4be2a6223dd5a401a9f7b0a98739acbd4e22f6e4-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny",
+          "author": "The Defiant Team",
+          "description": "Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny",
+          "publishedOn": "2026-06-23T01:43:21.000Z",
+          "wordCount": null,
+          "title": "Baillie Gifford Launches UK-Regulated Tokenized Bond Fund on Solana and Ethereum With BNY",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e352c943761715f107aee5a960a76ac402614f79-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e352c943761715f107aee5a960a76ac402614f79-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
+          "author": "The Defiant Team",
+          "description": "Sunrise and Backpack Securities tokenized Micron Technology ($MU) stock on Solana on Monday, landing the asset on-chain 48 hours before the chipmaker's fiscal Q3 earnings report. Each MU token is backed 1:1 by a real share held in custody and redeemable through Backpack Exchange into a traditional",
+          "link": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
+          "publishedOn": "2026-06-23T00:34:16.000Z",
+          "wordCount": null,
+          "title": "Micron Stock Goes On-Chain 48 Hours Before Earnings as Backpack Securities Lists $MU on Solana",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
           "author": "The Defiant Team",
           "description": "Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has",
@@ -1444,66 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/83bdf572c6128b8941347d7d33dea6c2e9de98ee-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks",
-          "author": "The Defiant Team",
-          "description": "Kalshi opened more than 150 insider-trading investigations in the first quarter of 2026, blocked over 100 potential insider trades, and referred at least 20 cases to law enforcement. The CFTC-regulated prediction market paired the numbers Tuesday with a new risk-scoring framework,",
-          "link": "https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks",
-          "publishedOn": "2026-06-10T19:50:18.000Z",
-          "wordCount": null,
-          "title": "Kalshi Reports 150+ Insider-Trading Investigations in Q1, Rolls Out Employer Checks for High-Risk Markets",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/91d11c2d3e8dd77b27bb943901d8505fceff8ad4-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91d11c2d3e8dd77b27bb943901d8505fceff8ad4-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo",
-          "author": "The Defiant Team",
-          "description": "Federal prosecutors have subpoenaed JPMorgan Chase, Bank of America and Wells Fargo, examining whether banks unlawfully terminated customer accounts for political reasons. The probe directly validates the crypto industry's Operation Chokepoint 2.0 grievances.",
-          "link": "https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo",
-          "publishedOn": "2026-06-10T19:45:00.000Z",
-          "wordCount": null,
-          "title": "DOJ Opens Debanking Probe Into JPMorgan, Bank of America and Wells Fargo",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37379e26a47310fb38326c736d553357375ae010-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37379e26a47310fb38326c736d553357375ae010-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally",
-          "author": "The Defiant Team",
-          "description": "An NFT creator published a thread claiming to trace large ADA flows to IOG-linked stake pool pledges from the 2021 bull market. Cardano's founder has made no public statement in response to the new analysis. ADA is down 42% over the past 30 days.",
-          "link": "https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally",
-          "publishedOn": "2026-06-10T18:17:26.000Z",
-          "wordCount": null,
-          "title": "On-Chain Tracking Revives Allegations That Hoskinson Sold 1.5B ADA in the 2021 Rally",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/chares-dumping-jpg-e9b1a3d0-9972-439d-a9d0-efce62f1555e.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/chares-dumping-jpg-e9b1a3d0-9972-439d-a9d0-efce62f1555e.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-securities-gains-ipo-underwriter-status-ceo-tenev-targets-retail-allocation",
-          "author": "The Defiant Team",
-          "description": "Robinhood Securities has received approval to serve as an IPO underwriter, CEO Vlad Tenev announced Tuesday, positioning the zero-commission broker to compete directly with Wall Street banks on the mega-IPO pipeline.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-securities-gains-ipo-underwriter-status-ceo-tenev-targets-retail-allocation",
-          "publishedOn": "2026-06-10T17:48:30.000Z",
-          "wordCount": null,
-          "title": "Robinhood Securities Gains IPO Underwriter Status, CEO Tenev Targets Retail Allocation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d340e82e9d319710be62dfeef850ee88cd2adf9-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d340e82e9d319710be62dfeef850ee88cd2adf9-2048x1152.png"
         }
       ]
     }
