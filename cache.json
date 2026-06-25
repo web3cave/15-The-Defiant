@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/abracadabra-mim-depeg-emergency-measures-2026",
+          "author": "The Defiant Team",
+          "description": "Abracadabra.money declared emergency measures after its MIM stablecoin fell roughly 50% below its $1 peg, triggering interest rate hikes across all Cauldrons, a halt to Curve bribes, and a suspension of direct incentives.",
+          "link": "https://thedefiant.io/news/defi/abracadabra-mim-depeg-emergency-measures-2026",
+          "publishedOn": "2026-06-25T16:02:13.000Z",
+          "wordCount": null,
+          "title": "Magic Internet Money Falls 50% Below Peg as Abracadabra Declares Emergency",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19df4ffe0c07668ff283f39953a6a5bf7e379524-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19df4ffe0c07668ff283f39953a6a5bf7e379524-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/spark-uniswap-sky-150m-usds-uniswap-v4-stablecoin-fx-layer",
+          "author": "The Defiant Team",
+          "description": "Spark, Uniswap, and Sky are launching shared stablecoin liquidity infrastructure, beginning with a $150 million USDS migration to Uniswap v4 pools designed to serve a multi-issuer stablecoin economy.",
+          "link": "https://thedefiant.io/news/defi/spark-uniswap-sky-150m-usds-uniswap-v4-stablecoin-fx-layer",
+          "publishedOn": "2026-06-25T15:52:02.000Z",
+          "wordCount": null,
+          "title": "Spark, Uniswap, and Sky Launch $150M Liquidity Migration to Build Shared Stablecoin FX Layer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e220198dee356a417c3bf297e2186b93339b260a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e220198dee356a417c3bf297e2186b93339b260a-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/strategy-strc-record-low-leverage-cascade-june-2026",
+          "author": "The Defiant Team",
+          "description": "Strategy's Series A perpetual preferred stock has fallen to record lows around $73-78, down roughly 25% from its $100 par value in two weeks, as a leverage-driven selloff accelerates despite the company's bitcoin balance sheet staying intact.",
+          "link": "https://thedefiant.io/news/markets/strategy-strc-record-low-leverage-cascade-june-2026",
+          "publishedOn": "2026-06-25T15:49:11.000Z",
+          "wordCount": null,
+          "title": "Strategy's STRC Preferred Stock Hits Record Lows as Leverage Cascade Deepens",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/strc-jpg-5af39206-cab8-4a4f-9ac2-2d4ea3dff393.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/strc-jpg-5af39206-cab8-4a4f-9ac2-2d4ea3dff393.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd60-000-as-tech-rout-hawkish-fed-hit-crypto",
           "author": "The Defiant Team",
           "description": "Ether falls harder than Bitcoin in a market-wide risk-off move, while Aave bucks the selloff on V4 and Grayscale tailwinds; total DeFi value drops to about $69 billion",
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6fa7ca3a20d1c313eb8291607c295c4608a0cefb-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc",
-          "author": "The Defiant Team",
-          "description": "Michael Saylor's firm paid an average $63,024 a coin this week, roughly 17% under the $75,656 it has paid across its entire 846,842-BTC treasury.",
-          "link": "https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc",
-          "publishedOn": "2026-06-15T14:40:00.000Z",
-          "wordCount": null,
-          "title": "Strategy Buys 1,587 Bitcoin for $100M Below Its Blended Cost Basis, Lifting Stack to 846,842 BTC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aba914dd0d5b06855fec935c12e4b8bb4127493b-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aba914dd0d5b06855fec935c12e4b8bb4127493b-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/live-the-fable-backlash-is-this-the-case-for-decentralized-ai",
-          "author": "Camila Russo",
-          "description": "Last week Anthropic launched Claude Fable 5 — and within 48 hours it became one of the messiest releases in frontier AI. A buried line in the model's system card revealed Fable would silently degrade its own answers for anyone it suspected of building competing AI systems, with no warning.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/live-the-fable-backlash-is-this-the-case-for-decentralized-ai",
-          "publishedOn": "2026-06-15T14:17:00.000Z",
-          "wordCount": null,
-          "title": "🟢 LIVE - The Fable Backlash: Is This the Case for Decentralized AI?",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail--jpg-2e3713d5-333b-42e3-9def-af0c810c26ca.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail--jpg-2e3713d5-333b-42e3-9def-af0c810c26ca.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/blockchain-association-brca-preservation-senate-floor",
-          "author": "The Defiant Team",
-          "description": "The Blockchain Association brought member executives to Capitol Hill this week, reporting meetings with more than half the Senate as it presses lawmakers to preserve the BRCA developer-protection provision of the CLARITY Act before an August recess deadline.",
-          "link": "https://thedefiant.io/converge/regulation/blockchain-association-brca-preservation-senate-floor",
-          "publishedOn": "2026-06-15T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Blockchain Association Takes BRCA Preservation Fight to the Senate Floor",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/baec56884bc0aee952ab08bbf042cdc470557883-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/baec56884bc0aee952ab08bbf042cdc470557883-2048x1152.png"
         }
       ]
     }
