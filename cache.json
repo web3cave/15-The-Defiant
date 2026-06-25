@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount",
+          "author": "The Defiant Team",
+          "description": "The founder said all Aave protocol and GHO revenue flows to the AAVE token and that the brand and software belong to holders, responding to a report that Kraken is in talks to buy a 15% stake at a $385 million valuation.",
+          "link": "https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount",
+          "publishedOn": "2026-06-25T21:20:47.000Z",
+          "wordCount": null,
+          "title": "Aave's Kulechov Disputes Report, Says Firm Won't Sell AAVE at '70%' Discount",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aave-jpg-a6a7a736-ae97-4853-9602-0713c09a6ae0.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aave-jpg-a6a7a736-ae97-4853-9602-0713c09a6ae0.jpg"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails",
           "author": "The Defiant Team",
           "description": "US asset manager files for a GENIUS Act reserve money market fund whose shares are recorded directly on public blockchains, with Superstate as sub-transfer agent",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a4805527c11ab8175b192d611bd568a45109173-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/aztec-connect-deprecated-contract-exploit-2-1m-zk-proof",
-          "author": "The Defiant Team",
-          "description": "An attacker exploited a proof-verification flaw in Aztec Connect's abandoned RollupProcessorV3 contract to withdraw roughly $2.1 million, including 909 ETH, from a privacy bridge that Aztec Labs shut down three years ago and can no longer control.",
-          "link": "https://thedefiant.io/news/hacks/aztec-connect-deprecated-contract-exploit-2-1m-zk-proof",
-          "publishedOn": "2026-06-15T15:04:30.000Z",
-          "wordCount": null,
-          "title": "Aztec Connect Drained of $2.1M Through Deprecated Contract Three Years After Shutdown",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/947a6289a5f412e6aaa809aa06148b808be92fa7-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/947a6289a5f412e6aaa809aa06148b808be92fa7-2048x1152.png"
         }
       ]
     }

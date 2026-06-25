@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-25T19:59:42.676Z</id>
+    <id>urn:2026-06-25T21:42:04.731Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-25T19:59:42.676Z</updated>
+    <updated>2026-06-25T21:42:04.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave's Kulechov Disputes Report, Says Firm Won't Sell AAVE at '70%' Discount]]></title>
+        <id>https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount</id>
+        <link href="https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount"/>
+        <updated>2026-06-25T21:20:47.000Z</updated>
+        <summary type="html"><![CDATA[The founder said all Aave protocol and GHO revenue flows to the AAVE token and that the brand and software belong to holders, responding to a report that Kraken is in talks to buy a 15% stake at a $385 million valuation.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Invesco Files for Tokenized Stablecoin-Reserve Money Market Fund Built on Superstate Rails]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/hyperliquid-based-ventuals-winds-down-on-chain-pre-ipo-markets"/>
         <updated>2026-06-15T15:35:12.000Z</updated>
         <summary type="html"><![CDATA[Ventuals froze its OpenAI and Anthropic pre-IPO markets at 24-hour average prices and is returning deposited HYPE to users as the team folds into another Hyperliquid-ecosystem project.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec Connect Drained of $2.1M Through Deprecated Contract Three Years After Shutdown]]></title>
-        <id>https://thedefiant.io/news/hacks/aztec-connect-deprecated-contract-exploit-2-1m-zk-proof</id>
-        <link href="https://thedefiant.io/news/hacks/aztec-connect-deprecated-contract-exploit-2-1m-zk-proof"/>
-        <updated>2026-06-15T15:04:30.000Z</updated>
-        <summary type="html"><![CDATA[An attacker exploited a proof-verification flaw in Aztec Connect's abandoned RollupProcessorV3 contract to withdraw roughly $2.1 million, including 909 ETH, from a privacy bridge that Aztec Labs shut down three years ago and can no longer control.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
