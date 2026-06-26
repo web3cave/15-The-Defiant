@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-26T16:04:48.046Z</id>
+    <id>urn:2026-06-26T18:20:03.090Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-26T16:04:48.046Z</updated>
+    <updated>2026-06-26T18:20:03.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance Launches 24/7 Minting and Redemption for Tokenized US Stocks and ETFs]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/ondo-finance-24-7-minting-redemption-tokenized-stocks-etfs-ethereum</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/ondo-finance-24-7-minting-redemption-tokenized-stocks-etfs-ethereum"/>
+        <updated>2026-06-26T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Ondo Finance has enabled around-the-clock minting and redemption for tokenized US stocks and ETFs on Ethereum and BNB Chain, removing the weekday-only constraint that had tied position creation and cancellation to US market hours.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Blocks Housing Bill Signing Over Voter ID Demand, Putting CBDC Ban in Limbo]]></title>
+        <id>https://thedefiant.io/converge/regulation/trump-blocks-housing-bill-signing-voter-id-cbdc-ban</id>
+        <link href="https://thedefiant.io/converge/regulation/trump-blocks-housing-bill-signing-voter-id-cbdc-ban"/>
+        <updated>2026-06-26T16:27:38.000Z</updated>
+        <summary type="html"><![CDATA[President Trump canceled the signing ceremony for the 21st Century ROAD to Housing Act, which includes a statutory ban on a Federal Reserve-issued CBDC through 2030, demanding Congress first pass the SAVE America Act voter-ID legislation. The housing bill passed both chambers with veto-proof]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophon Shuts Down Its zkSync Chain and Rebuilds as a Consumer App Studio on Base]]></title>
+        <id>https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base</id>
+        <link href="https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base"/>
+        <updated>2026-06-26T16:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Sophon is decommissioning its zkSync-based Layer 2 chain and pivoting to Soph+, a consumer product studio building exclusively on Base. The shutdown caps a chain that raised $60 million through node sales but attracted fewer than 200 daily users and generated roughly $30 in daily fees.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base Resumes Block Production After Roughly Two-Hour Mainnet Halt]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt</id>
+        <link href="https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt"/>
+        <updated>2026-06-26T16:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase-incubated Layer 2 Base stalled block production for about two hours Thursday after an invalid block triggered a consensus fault, before the network recovered. The outage renewed scrutiny of single-sequencer risk on major rollups.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot]]></title>
         <id>https://thedefiant.io/podcasts-and-videos/podcast/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot</id>
@@ -51,6 +91,16 @@
         <link href="https://thedefiant.io/news/markets/tether-usdt-closes-in-ether-no-2-crypto-market-cap"/>
         <updated>2026-06-26T15:07:44.000Z</updated>
         <summary type="html"><![CDATA[USDT has drawn level with ether for the second-largest cryptocurrency by market cap, briefly overtaking it earlier in June. Rising stablecoin issuance is meeting a falling ether price.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securities Probe Lands on Strategy as MSTR Sinks and STRC Slips Below Par]]></title>
+        <id>https://thedefiant.io/news/markets/strategy-securities-probe-mstr-two-year-low-strc-below-par</id>
+        <link href="https://thedefiant.io/news/markets/strategy-securities-probe-mstr-two-year-low-strc-below-par"/>
+        <updated>2026-06-26T14:51:39.000Z</updated>
+        <summary type="html"><![CDATA[The Rosen Law Firm opened a securities investigation into Strategy and is soliciting shareholders for a potential class action, as MSTR hit a two-year low below $100 and its STRC preferred traded about 26% below par.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/defi-lending-and-dex-fees-slump-as-leverage-drains-out-after-june-selloff"/>
         <updated>2026-06-16T20:49:56.000Z</updated>
         <summary type="html"><![CDATA[Fees fell as much as 65% week over week across the largest lending protocols and decentralized exchanges.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Teases 1:1-Backed Tokenized U.S. Stocks With On-Chain Dividends]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-teases-1-1-backed-tokenized-u-s-stocks-with-on-chain-dividends</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-teases-1-1-backed-tokenized-u-s-stocks-with-on-chain-dividends"/>
-        <updated>2026-06-16T16:52:37.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase announced plans for what it calls the first tokenized U.S. stocks backed 1:1 by actual shares, with automatic on-chain dividend distribution. The exchange described the product as 'no derivatives, no IOUs,' a direct contrast to the synthetic equity structures currently dominating on-chain]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax']]></title>
-        <id>https://thedefiant.io/news/regulation/coinbase-armstrong-accredited-investor-regressive-tax</id>
-        <link href="https://thedefiant.io/news/regulation/coinbase-armstrong-accredited-investor-regressive-tax"/>
-        <updated>2026-06-16T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong called Monday for an overhaul of the U.S. accredited-investor framework, arguing that wealth-based gatekeeping concentrates private-market gains among the already wealthy. He proposed replacing the net worth and income test with a financial literacy exam, or removing]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity Protocol Launches New H Token Airdrop After $36M Exploit]]></title>
-        <id>https://thedefiant.io/news/tokens/humanity-protocol-h-token-airdrop-recovery-36m-exploit</id>
-        <link href="https://thedefiant.io/news/tokens/humanity-protocol-h-token-airdrop-recovery-36m-exploit"/>
-        <updated>2026-06-16T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Humanity Protocol has announced a full token migration and 1:1 airdrop of a new H token after the June 8 exploit that drained approximately $36 million.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Launches BITA, a Covered-Call Bitcoin ETF Designed to Generate Monthly Income]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/blackrock-launches-bita-covered-call-bitcoin-etf-monthly-income</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/blackrock-launches-bita-covered-call-bitcoin-etf-monthly-income"/>
-        <updated>2026-06-16T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock listed the iShares Bitcoin Premium Income ETF (BITA) on Nasdaq, overlaying a covered-call strategy on IBIT to generate monthly income while capping upside participation.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood Cuts 10% of Workforce, Takes $28M Restructuring Charge]]></title>
-        <id>https://thedefiant.io/news/cefi/robinhood-cuts-10-percent-workforce-28m-restructuring-charge</id>
-        <link href="https://thedefiant.io/news/cefi/robinhood-cuts-10-percent-workforce-28m-restructuring-charge"/>
-        <updated>2026-06-16T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood is cutting roughly 10% of its full-time employees in a corporate restructuring CEO Vlad Tenev has framed as a push for a high performance culture, with $28 million in charges expected in Q2 2026.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
