@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
+          "author": "The Defiant Team",
+          "description": "Blockchain intelligence firm AMLBot has confirmed the Polymarket supply-chain attack total at approximately $3.1 million in PUSD across 11 user wallets, with funds bridged from Polygon to Ethereum and converted to ETH. Polymarket has pledged full refunds but has not named the compromised vendor.",
+          "link": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
+          "publishedOn": "2026-06-27T17:13:43.000Z",
+          "wordCount": null,
+          "title": "AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/326aea0341822bd9f99e83093c50ab3fc59d2641-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/326aea0341822bd9f99e83093c50ab3fc59d2641-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
           "author": "The Defiant Team",
           "description": "Aave confirmed Saturday that Aavenomics 3.0 is now active, with automated AAVE token buybacks running and DAO operational spending reduced, completing a governance roadmap the protocol has built toward since mid-2024.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/strc-png-5e1a4c55-187f-4c47-b665-7cd9a23487e2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/cap-labs-cap-token-auction-106m-fdv-oversubscription",
-          "author": "The Defiant Team",
-          "description": "Cap Labs' batch auction for its CAP governance token drew 1,002 bids and $16.4 million in commitments, clearing at $0.011 per token for a $106 million fully diluted valuation.",
-          "link": "https://thedefiant.io/news/defi/cap-labs-cap-token-auction-106m-fdv-oversubscription",
-          "publishedOn": "2026-06-18T14:06:36.000Z",
-          "wordCount": null,
-          "title": "Cap Labs CAP Token Auction Closes at $106 Million FDV With 5.5x Oversubscription",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a5600df1f2e98245597e1295d0627802a1b2876d-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a5600df1f2e98245597e1295d0627802a1b2876d-2048x1152.png"
         }
       ]
     }
