@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/polymarket-confirms-3-million-loss-third-party-front-end-supply-chain-breach",
+          "author": "The Defiant Team",
+          "description": "Polymarket confirmed hackers drained approximately $3 million through a compromised third-party vendor that injected malicious code into the platform's website, and pledged full refunds to fewer than 15 affected accounts.",
+          "link": "https://thedefiant.io/news/hacks/polymarket-confirms-3-million-loss-third-party-front-end-supply-chain-breach",
+          "publishedOn": "2026-06-27T00:49:27.000Z",
+          "wordCount": null,
+          "title": "Polymarket Confirms $3 Million Loss From Third-Party Front-End Supply-Chain Breach",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/25b136a6a3d9b228ddaf42da851c346c7a3ac01e-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/25b136a6a3d9b228ddaf42da851c346c7a3ac01e-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/zuckerberg-urges-meta-explore-polymarket-kalshi-partnerships",
           "author": "The Defiant Team",
           "description": "Mark Zuckerberg has pushed Meta's leadership to explore partnerships with Polymarket and Kalshi, per a new New York Times report, days after a separate report revealed Meta is building its own prediction-market app called Arena.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32d95f660df972f2b60c6afdade54b42a507b80c-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/world-chain-bridge-tvl-33-percent-seven-days-worldcoin-wld-rally",
-          "author": "The Defiant Team",
-          "description": "World Chain's canonical-bridge TVL climbed 32.87% over seven days to about $602M, with WLD tracking the move at +33.6%. The growth concentrates in Re7 Labs vaults on Morpho Blue, while the chain's on-chain DeFi TVL remains near $40M.",
-          "link": "https://thedefiant.io/news/markets/world-chain-bridge-tvl-33-percent-seven-days-worldcoin-wld-rally",
-          "publishedOn": "2026-06-17T17:41:56.000Z",
-          "wordCount": null,
-          "title": "World Chain Bridge TVL Climbs 33% Over Seven Days as Worldcoin Token Posts Matching Rally",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/22514a1dc63327eb9543436487b341b86cd7daf2-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/22514a1dc63327eb9543436487b341b86cd7daf2-2048x1152.png"
         }
       ]
     }
