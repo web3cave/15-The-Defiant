@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
+          "author": "The Defiant Team",
+          "description": "Aave confirmed Saturday that Aavenomics 3.0 is now active, with automated AAVE token buybacks running and DAO operational spending reduced, completing a governance roadmap the protocol has built toward since mid-2024.",
+          "link": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
+          "publishedOn": "2026-06-27T14:57:39.000Z",
+          "wordCount": null,
+          "title": "Aave Confirms Aavenomics 3.0 Is Live With Buybacks and DAO Spending Cut",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/33e7b47ed72dcd478cda91c13919488b768ed8d6-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/33e7b47ed72dcd478cda91c13919488b768ed8d6-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/strategy-enterprise-mnav-drops-below-1-first-time",
+          "author": "The Defiant Team",
+          "description": "Strategy's enterprise market-to-NAV ratio crossed below 1 on Thursday for the first time, putting the combined weight of its debt, preferred stock, and equity above the value of its 847,363-bitcoin treasury and closing the equity-accretion channel that powered its buying spree.",
+          "link": "https://thedefiant.io/news/markets/strategy-enterprise-mnav-drops-below-1-first-time",
+          "publishedOn": "2026-06-27T14:57:36.000Z",
+          "wordCount": null,
+          "title": "Strategy's Enterprise mNAV Drops Below 1 for the First Time",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/27fa027be08457eef965a6e6d8621f40f403cc3a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/27fa027be08457eef965a6e6d8621f40f403cc3a-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-advances-automated-aave-buyback-overhaul-aavenomics-3-0",
           "author": "The Defiant Team",
           "description": "Aave founder Stani Kulechov previewed Aavenomics 3.0 on X Thursday, an automated on-chain buyback mechanism that would route all protocol and GHO revenue to AAVE holders by default, replacing the existing discretionary committee-directed program.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a5600df1f2e98245597e1295d0627802a1b2876d-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/zama-morpho-steakhouse-confidential-usdc-yield-vault-ethereum",
-          "author": "The Defiant Team",
-          "description": "Zama, Morpho and Steakhouse open the first DeFi yield vault for Confidential USDC on June 23, routing encrypted cUSDC into Steakhouse Prime v2 on Morpho and putting fully homomorphic encryption to work in live lending.",
-          "link": "https://thedefiant.io/news/defi/zama-morpho-steakhouse-confidential-usdc-yield-vault-ethereum",
-          "publishedOn": "2026-06-17T21:19:15.000Z",
-          "wordCount": null,
-          "title": "Zama, Morpho and Steakhouse Open First Confidential USDC Yield Vault on Ethereum",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/2026-06-17-17-19-32-jpg-67cdeabf-ec2b-44f7-a5dd-cfc4c2d7d8f0.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/2026-06-17-17-19-32-jpg-67cdeabf-ec2b-44f7-a5dd-cfc4c2d7d8f0.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/litecoin-spot-etf-9m-altcoin-etf-era-demand-thesis-ece431",
-          "author": "The Defiant Team",
-          "description": "The first US spot Litecoin ETF has been trading for nearly eight months, but Canary Capital's LTCC has drawn under $10 million as LTC sits 89% below its all-time high, testing the thesis that altcoin ETF approval automatically translates into institutional inflows.",
-          "link": "https://thedefiant.io/news/markets/litecoin-spot-etf-9m-altcoin-etf-era-demand-thesis-ece431",
-          "publishedOn": "2026-06-17T21:11:51.000Z",
-          "wordCount": null,
-          "title": "Litecoin Spot ETF Sits at $9M as Altcoin-ETF Era Tests Its Demand Thesis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/litecoin-jpg-dfb9dc75-dd4d-4785-b99b-1b49b43327de.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/litecoin-jpg-dfb9dc75-dd4d-4785-b99b-1b49b43327de.jpg"
         }
       ]
     }
