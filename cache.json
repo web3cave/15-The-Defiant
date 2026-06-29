@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
+          "author": "The Defiant Team",
+          "description": "The collapsed yield protocol, whose November failure froze roughly $160 million in deposits and left an estimated $285 million owed across DeFi lending markets, is asking potential creditors to submit claim information through an online form",
+          "link": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
+          "publishedOn": "2026-06-29T21:13:18.000Z",
+          "wordCount": null,
+          "title": "Stream Finance Starts Collecting Creditor Claims in Step Toward 'Global Resolution'",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stream_thumb-png-ac84b56c-9d24-4206-81a7-fd1f027a38f0.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stream_thumb-png-ac84b56c-9d24-4206-81a7-fd1f027a38f0.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
           "author": "The Defiant Team",
           "description": "The Solana launchpad's repurchases since July now exceed $400M, yet PUMP trades roughly 83% below its record and is little changed on the day",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/sonic-jpg-aaac02fc-7bf6-4b78-8e0e-bcf189729f99.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base",
-          "author": "The Defiant Team",
-          "description": "AWS turned on AI traffic monetization inside AWS WAF on Monday, letting any site behind Amazon CloudFront charge AI agents per request in USDC through Coinbase's x402 protocol. It is the first time a hyperscale cloud has wired onchain settlement into its content-delivery edge.",
-          "link": "https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base",
-          "publishedOn": "2026-06-19T17:22:27.000Z",
-          "wordCount": null,
-          "title": "AWS Plugs Coinbase's x402 Into CloudFront, Letting Publishers Charge AI Agents in USDC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/34ddea52e1d2b87d1809b087eee3d110bb85e4dc-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34ddea52e1d2b87d1809b087eee3d110bb85e4dc-2048x1152.png"
         }
       ]
     }
