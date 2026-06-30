@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-30T20:48:40.158Z</id>
+    <id>urn:2026-06-30T22:05:58.449Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-30T20:48:40.158Z</updated>
+    <updated>2026-06-30T22:05:58.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighter to Burn Repurchased LIT, Fund Staking from Ecosystem Reserve]]></title>
+        <id>https://thedefiant.io/news/markets/lighter-to-burn-repurchased-lit-fund-staking-from-ecosystem-reserve</id>
+        <link href="https://thedefiant.io/news/markets/lighter-to-burn-repurchased-lit-fund-staking-from-ecosystem-reserve"/>
+        <updated>2026-06-30T21:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange will start burning the LIT it buys with revenue and tap its token reserve to keep staking yields flowing.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machi Big Brother's Hyperliquid Losses Top $80M as He Sells Bored Apes for Margin]]></title>
+        <id>https://thedefiant.io/news/defi/machi-big-brother-s-hyperliquid-losses-top-usd80m-as-he-sells-bored-apes-for-margin</id>
+        <link href="https://thedefiant.io/news/defi/machi-big-brother-s-hyperliquid-losses-top-usd80m-as-he-sells-bored-apes-for-margin"/>
+        <updated>2026-06-30T21:17:49.000Z</updated>
+        <summary type="html"><![CDATA[The trader's latest Ethereum liquidation came without a fresh deposit to backstop it, a first in a months-long losing streak tracked onchain.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom Hires Ventuals Founders After Hyperliquid Perps Venue Winds Down]]></title>
+        <id>https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down</id>
+        <link href="https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down"/>
+        <updated>2026-06-30T21:16:52.000Z</updated>
+        <summary type="html"><![CDATA[The Solana wallet is bringing on the three-person team behind a pre-IPO perpetuals platform, deepening its push into derivatives.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/converge/regulation/1200-tech-companies-clarity-act-lummis-absurdity-developers"/>
         <updated>2026-06-22T15:41:36.000Z</updated>
         <summary type="html"><![CDATA[The Consumer Technology Association, representing more than 1,200 firms including Amazon, Apple and Google, urged the Senate to pass the CLARITY Act without delay. Senator Cynthia Lummis followed with an on-record statement that the bill ends the 'absurdity' of developers needing lawyers to know]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENS DAO Opens Temp Check on Handing Treasury and Day-to-Day Authority to ENS Foundation]]></title>
-        <id>https://thedefiant.io/news/defi/ens-dao-temp-check-empowering-ens-foundation-treasury-handover</id>
-        <link href="https://thedefiant.io/news/defi/ens-dao-temp-check-empowering-ens-foundation-treasury-handover"/>
-        <updated>2026-06-22T15:21:41.000Z</updated>
-        <summary type="html"><![CDATA[An ENS DAO temp check published Friday would shift treasury control, grants administration and long-term capital strategy to an expanded ENS Foundation, while tokenholders retain protocol-layer authority.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Stanley Files Amended S-1s for Spot Solana and Ethereum Trusts]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-files-amended-s-1s-for-spot-solana-and-ethereum-trusts</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-files-amended-s-1s-for-spot-solana-and-ethereum-trusts"/>
-        <updated>2026-06-22T14:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Morgan Stanley's amended S-1 filings for its spot Solana and spot Ethereum trusts name BNY Mellon and Coinbase Custody as joint custodians, set a 0.14% sponsor fee, and reserve the tickers MSOL and MSSE on NYSE Arca. Both products include staking provisions.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaredfromsubway.eth, Ethereum's Most Active Sandwich Bot, Drained for $7.5M Over the Weekend]]></title>
-        <id>https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot</id>
-        <link href="https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot"/>
-        <updated>2026-06-22T14:55:05.000Z</updated>
-        <summary type="html"><![CDATA[An attacker drained more than $7.5 million from jaredfromsubway.eth, the Ethereum address tied to roughly 70% of sandwich attacks on the network, after a counter-MEV honeypot fed it 66 fake token contracts over several weeks. Blockaid disclosed the exploit Saturday.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
