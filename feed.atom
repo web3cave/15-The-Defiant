@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-30T18:26:09.457Z</id>
+    <id>urn:2026-06-30T20:48:40.158Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-30T18:26:09.457Z</updated>
+    <updated>2026-06-30T20:48:40.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company"/>
+        <updated>2026-06-30T18:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Cantor Equity Partners II shareholders voted Monday to approve a business combination with Securitize, expected to close July 1 and list on the NYSE July 2 under ticker SECZ as the first publicly traded tokenization company in the US.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magic Eden, Founders Sued by $ME Buyers Over Broken 'Utility' Promises]]></title>
         <id>https://thedefiant.io/news/defi/magic-eden-founders-sued-by-usdme-buyers-over-broken-utility-promises</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot"/>
         <updated>2026-06-22T14:55:05.000Z</updated>
         <summary type="html"><![CDATA[An attacker drained more than $7.5 million from jaredfromsubway.eth, the Ethereum address tied to roughly 70% of sandwich attacks on the network, after a counter-MEV honeypot fed it 66 fake token contracts over several weeks. Blockaid disclosed the exploit Saturday.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dormant Wallet Tied to HashFlare Fraud Moves 10,600 ETH Worth $18.5M]]></title>
-        <id>https://thedefiant.io/news/hacks/hashflare-scam-wallet-moves-10600-eth-18m-zachxbt-dormant</id>
-        <link href="https://thedefiant.io/news/hacks/hashflare-scam-wallet-moves-10600-eth-18m-zachxbt-dormant"/>
-        <updated>2026-06-22T14:34:12.000Z</updated>
-        <summary type="html"><![CDATA[An Ethereum address tied to the HashFlare cloud-mining Ponzi moved 10,600 ETH worth about $18.5 million on Monday morning after sitting idle for roughly three and a half years. Onchain investigator ZachXBT, with help from security firm Cyvers, flagged the movement, the first activity from the]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
