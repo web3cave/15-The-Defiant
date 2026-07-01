@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments",
+          "author": "The Defiant Team",
+          "description": "Cloudflare opened a waitlist for its Monetization Gateway on Wednesday, letting customers charge for web pages, datasets, APIs or MCP tools with payments settling in stablecoins over the x402 protocol. Will Papper, formerly of Syndicate, joined the company as product manager for Agent Payments to",
+          "link": "https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments",
+          "publishedOn": "2026-07-01T20:41:53.000Z",
+          "wordCount": null,
+          "title": "Cloudflare Launches Monetization Gateway for Stablecoin Payments via x402",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8e1f551dc57a75a5e3a1190339f512aa4cfb4f06-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8e1f551dc57a75a5e3a1190339f512aa4cfb4f06-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern",
+          "author": "The Defiant Team",
+          "description": "Avalanche Treasury Corp told the SEC its ability to continue as a going concern is in doubt after its Nasdaq-listed stock lost 93% of its value in a month, with its AVAX position now worth less than half of what it paid.",
+          "link": "https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern",
+          "publishedOn": "2026-07-01T20:39:28.000Z",
+          "wordCount": null,
+          "title": "Avalanche Treasury Corp Stock Crashes 93%, Warns SEC It May Not Survive the Year",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc88b71df2d58e78339dd9402b18c945cafa3132-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc88b71df2d58e78339dd9402b18c945cafa3132-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor",
+          "author": "The Defiant Team",
+          "description": "The Supreme Court's 6-3 ruling in Trump v. Slaughter overturns a 91-year-old precedent shielding independent agency commissioners from at-will removal, with direct implications for SEC and CFTC leadership as the CLARITY Act nears a floor vote.",
+          "link": "https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor",
+          "publishedOn": "2026-07-01T20:38:12.000Z",
+          "wordCount": null,
+          "title": "Supreme Court Overturns Humphrey's Executor, Clearing Trump to Fire SEC and CFTC Commissioners",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a39530d052b52e63fe44716b73e163d3ad41a47e-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a39530d052b52e63fe44716b73e163d3ad41a47e-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto",
           "author": "The Defiant Team",
           "description": "At a London keynote, the trading platform opened its Arbitrum-based Layer 2 to the public, rolled out new stock tokens and a Morpho-powered lending product, and confirmed launches in Canada and Singapore alongside plans for crypto trading in the UK.",
@@ -19,6 +64,21 @@
             "type": "image/svg+xml"
           },
           "imageUrl": "https://cdn.thedefiant.io/robinhood-chain-mainnet-launch-svg-0b8e4c9f-3a1b-44e0-92ad-2f3427b3c3d4.svg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds",
+          "author": "The Defiant Team",
+          "description": "The SEC published a formal request for comment on 'Novel ETFs' covering crypto-asset and prediction-market funds, following Chair Paul Atkins' May statement pausing launches for over two dozen pending applications.",
+          "link": "https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds",
+          "publishedOn": "2026-07-01T17:38:00.000Z",
+          "wordCount": null,
+          "title": "SEC Opens 60-Day Comment Period on 'Novel' ETF Rules as Prediction Market Funds Pile Up",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8bbd3a1e2a406b92857a28dd7f30a5e0da5f60c-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8bbd3a1e2a406b92857a28dd7f30a5e0da5f60c-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/news/defi/world-launches-onchain-prediction-market-on-solana-through-phantom",
@@ -1444,66 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d8da3a8ff9b101f9ef50e3df0d94dbf22fbb4de-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
-          "author": "The Defiant Team",
-          "description": "Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has",
-          "link": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
-          "publishedOn": "2026-06-22T22:57:40.000Z",
-          "wordCount": null,
-          "title": "Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/223bb74a0be823ca64d6ad37508ca7e712c889ec-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/223bb74a0be823ca64d6ad37508ca7e712c889ec-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc",
-          "author": "The Defiant Team",
-          "description": "The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.",
-          "link": "https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc",
-          "publishedOn": "2026-06-22T21:15:37.000Z",
-          "wordCount": null,
-          "title": "CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cbf58f12cdd24140765e6252b3c43f31fb248569-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbf58f12cdd24140765e6252b3c43f31fb248569-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults",
-          "author": "The Defiant Team",
-          "description": "Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.",
-          "link": "https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults",
-          "publishedOn": "2026-06-22T20:30:59.000Z",
-          "wordCount": null,
-          "title": "a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/86b389724bfb2aacd123fdb2de4f23e24c863302-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86b389724bfb2aacd123fdb2de4f23e24c863302-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
-          "author": "The Defiant Team",
-          "description": "Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.",
-          "link": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
-          "publishedOn": "2026-06-22T20:05:30.000Z",
-          "wordCount": null,
-          "title": "Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88febd18dfd150c3739e048a4732bb8d22a5f6a9-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88febd18dfd150c3739e048a4732bb8d22a5f6a9-2048x1152.png"
         }
       ]
     }

@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T18:53:07.645Z</id>
+    <id>urn:2026-07-01T20:43:44.410Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T18:53:07.645Z</updated>
+    <updated>2026-07-01T20:43:44.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Launches Monetization Gateway for Stablecoin Payments via x402]]></title>
+        <id>https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments</id>
+        <link href="https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments"/>
+        <updated>2026-07-01T20:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare opened a waitlist for its Monetization Gateway on Wednesday, letting customers charge for web pages, datasets, APIs or MCP tools with payments settling in stablecoins over the x402 protocol. Will Papper, formerly of Syndicate, joined the company as product manager for Agent Payments to]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Treasury Corp Stock Crashes 93%, Warns SEC It May Not Survive the Year]]></title>
+        <id>https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern</id>
+        <link href="https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern"/>
+        <updated>2026-07-01T20:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche Treasury Corp told the SEC its ability to continue as a going concern is in doubt after its Nasdaq-listed stock lost 93% of its value in a month, with its AVAX position now worth less than half of what it paid.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Overturns Humphrey's Executor, Clearing Trump to Fire SEC and CFTC Commissioners]]></title>
+        <id>https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor</id>
+        <link href="https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor"/>
+        <updated>2026-07-01T20:38:12.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court's 6-3 ruling in Trump v. Slaughter overturns a 91-year-old precedent shielding independent agency commissioners from at-will removal, with direct implications for SEC and CFTC leadership as the CLARITY Act nears a floor vote.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robinhood Launches Robinhood Chain Mainnet, Adds Stock Tokens, Onchain Lending, and Agentic Crypto Trading]]></title>
         <id>https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto</id>
         <link href="https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto"/>
         <updated>2026-07-01T18:21:41.000Z</updated>
         <summary type="html"><![CDATA[At a London keynote, the trading platform opened its Arbitrum-based Layer 2 to the public, rolled out new stock tokens and a Morpho-powered lending product, and confirmed launches in Canada and Singapore alongside plans for crypto trading in the UK.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Opens 60-Day Comment Period on 'Novel' ETF Rules as Prediction Market Funds Pile Up]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds</id>
+        <link href="https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds"/>
+        <updated>2026-07-01T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The SEC published a formal request for comment on 'Novel ETFs' covering crypto-asset and prediction-market funds, following Chair Paul Atkins' May statement pausing launches for over two dozen pending applications.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m"/>
         <updated>2026-06-22T23:15:00.000Z</updated>
         <summary type="html"><![CDATA[An attacker forged withdrawal proofs using an RSA-3072 private key accidentally committed to Taiko’s public raiko GitHub repository, draining $1.7 million from L1 bridge contracts and forcing the protocol to halt block production and urge all users to exit.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw]]></title>
-        <id>https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw</id>
-        <link href="https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw"/>
-        <updated>2026-06-22T22:57:40.000Z</updated>
-        <summary type="html"><![CDATA[Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc"/>
-        <updated>2026-06-22T21:15:37.000Z</updated>
-        <summary type="html"><![CDATA[The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans]]></title>
-        <id>https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults</id>
-        <link href="https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults"/>
-        <updated>2026-06-22T20:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain"/>
-        <updated>2026-06-22T20:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
