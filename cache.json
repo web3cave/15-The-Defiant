@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-launches-onchain-governance-stake-weighted-voting",
+          "author": "The Defiant Team",
+          "description": "Solana Foundation says onchain governance is now live, letting validators with at least 100,000 SOL delegated open proposals that go to a stake-weighted vote once they clear 15% cluster support.",
+          "link": "https://thedefiant.io/news/blockchains/solana-launches-onchain-governance-stake-weighted-voting",
+          "publishedOn": "2026-07-01T21:16:40.000Z",
+          "wordCount": null,
+          "title": "Solana Launches Onchain Governance With Stake-Weighted Voting for Validators",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2234d3b023e1cd61e014b95f8a236e92b91a775f-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2234d3b023e1cd61e014b95f8a236e92b91a775f-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/venice-raises-65m-series-a-1b-valuation-dragonfly",
+          "author": "The Defiant Team",
+          "description": "Erik Voorhees' privacy-first AI platform Venice landed a $65 million Series A at a $1 billion equity valuation, its first outside capital, after hitting profitability in Q1.",
+          "link": "https://thedefiant.io/news/markets/venice-raises-65m-series-a-1b-valuation-dragonfly",
+          "publishedOn": "2026-07-01T20:45:10.000Z",
+          "wordCount": null,
+          "title": "Venice Raises $65M Series A at $1B Valuation Led by Dragonfly",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3cd8c71dfb8e6302ad5c04c530dc0a2cf82e0497-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3cd8c71dfb8e6302ad5c04c530dc0a2cf82e0497-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments",
           "author": "The Defiant Team",
           "description": "Cloudflare opened a waitlist for its Monetization Gateway on Wednesday, letting customers charge for web pages, datasets, APIs or MCP tools with payments settling in stablecoins over the x402 protocol. Will Papper, formerly of Syndicate, joined the company as product manager for Agent Payments to",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e352c943761715f107aee5a960a76ac402614f79-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
-          "author": "The Defiant Team",
-          "description": "Sunrise and Backpack Securities tokenized Micron Technology ($MU) stock on Solana on Monday, landing the asset on-chain 48 hours before the chipmaker's fiscal Q3 earnings report. Each MU token is backed 1:1 by a real share held in custody and redeemable through Backpack Exchange into a traditional",
-          "link": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
-          "publishedOn": "2026-06-23T00:34:16.000Z",
-          "wordCount": null,
-          "title": "Micron Stock Goes On-Chain 48 Hours Before Earnings as Backpack Securities Lists $MU on Solana",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/239f945f5b784152bb7f65eb5ab16e210121f6e5-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/239f945f5b784152bb7f65eb5ab16e210121f6e5-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m",
-          "author": "The Defiant Team",
-          "description": "An attacker forged withdrawal proofs using an RSA-3072 private key accidentally committed to Taiko’s public raiko GitHub repository, draining $1.7 million from L1 bridge contracts and forcing the protocol to halt block production and urge all users to exit.",
-          "link": "https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m",
-          "publishedOn": "2026-06-22T23:15:00.000Z",
-          "wordCount": null,
-          "title": "Taiko Bridge Drained $1.7M After SGX Signing Key Left Exposed on GitHub",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d8da3a8ff9b101f9ef50e3df0d94dbf22fbb4de-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d8da3a8ff9b101f9ef50e3df0d94dbf22fbb4de-2048x1152.png"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T20:43:44.410Z</id>
+    <id>urn:2026-07-01T22:10:42.366Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T20:43:44.410Z</updated>
+    <updated>2026-07-01T22:10:42.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Launches Onchain Governance With Stake-Weighted Voting for Validators]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-launches-onchain-governance-stake-weighted-voting</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-launches-onchain-governance-stake-weighted-voting"/>
+        <updated>2026-07-01T21:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Solana Foundation says onchain governance is now live, letting validators with at least 100,000 SOL delegated open proposals that go to a stake-weighted vote once they clear 15% cluster support.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venice Raises $65M Series A at $1B Valuation Led by Dragonfly]]></title>
+        <id>https://thedefiant.io/news/markets/venice-raises-65m-series-a-1b-valuation-dragonfly</id>
+        <link href="https://thedefiant.io/news/markets/venice-raises-65m-series-a-1b-valuation-dragonfly"/>
+        <updated>2026-07-01T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Erik Voorhees' privacy-first AI platform Venice landed a $65 million Series A at a $1 billion equity valuation, its first outside capital, after hitting profitability in Q1.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Launches Monetization Gateway for Stablecoin Payments via x402]]></title>
         <id>https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny"/>
         <updated>2026-06-23T01:43:21.000Z</updated>
         <summary type="html"><![CDATA[Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micron Stock Goes On-Chain 48 Hours Before Earnings as Backpack Securities Lists $MU on Solana]]></title>
-        <id>https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings</id>
-        <link href="https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings"/>
-        <updated>2026-06-23T00:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Sunrise and Backpack Securities tokenized Micron Technology ($MU) stock on Solana on Monday, landing the asset on-chain 48 hours before the chipmaker's fiscal Q3 earnings report. Each MU token is backed 1:1 by a real share held in custody and redeemable through Backpack Exchange into a traditional]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiko Bridge Drained $1.7M After SGX Signing Key Left Exposed on GitHub]]></title>
-        <id>https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m</id>
-        <link href="https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m"/>
-        <updated>2026-06-22T23:15:00.000Z</updated>
-        <summary type="html"><![CDATA[An attacker forged withdrawal proofs using an RSA-3072 private key accidentally committed to Taiko’s public raiko GitHub repository, draining $1.7 million from L1 bridge contracts and forcing the protocol to halt block production and urge all users to exit.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
