@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T23:59:59.090Z</id>
+    <id>urn:2026-07-02T03:40:00.385Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T23:59:59.090Z</updated>
+    <updated>2026-07-02T03:40:00.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor"/>
         <updated>2026-07-01T20:38:12.000Z</updated>
         <summary type="html"><![CDATA[The Supreme Court's 6-3 ruling in Trump v. Slaughter overturns a 91-year-old precedent shielding independent agency commissioners from at-will removal, with direct implications for SEC and CFTC leadership as the CLARITY Act nears a floor vote.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dYdX Launches Arcus, a DEX Pairing Stock Tokens With Perpetuals on Robinhood Chain]]></title>
+        <id>https://thedefiant.io/news/defi/dydx-launches-arcus-dex-stock-tokens-perpetuals-robinhood-chain</id>
+        <link href="https://thedefiant.io/news/defi/dydx-launches-arcus-dex-stock-tokens-perpetuals-robinhood-chain"/>
+        <updated>2026-07-01T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[dYdX Labs founder Antonio Juliano launched Arcus, a new DEX combining tokenized stock trading with perpetual futures, built jointly with Robinhood Crypto on Robinhood Chain.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx"/>
         <updated>2026-06-23T01:43:21.000Z</updated>
         <summary type="html"><![CDATA[Synthetix governance has moved to retire sUSD entirely under SIP-423, introduced June 12. The proposal would freeze the stablecoin contract and pay all holders back at face value in vested SNX at a conversion of four SNX per sUSD. A companion SIP-424 covering technical implementation is pending.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baillie Gifford Launches UK-Regulated Tokenized Bond Fund on Solana and Ethereum With BNY]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny"/>
-        <updated>2026-06-23T01:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
