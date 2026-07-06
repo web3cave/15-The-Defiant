@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-06T19:28:49.670Z</id>
+    <id>urn:2026-07-06T21:17:36.170Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-06T19:28:49.670Z</updated>
+    <updated>2026-07-06T21:17:36.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up]]></title>
         <id>https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo</id>
         <link href="https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo"/>
-        <updated>2026-07-06T19:28:49.000Z</updated>
+        <updated>2026-07-06T21:17:35.000Z</updated>
         <summary type="html"><![CDATA[eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,48 @@
         <title type="html"><![CDATA[BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply"/>
-        <updated>2026-07-06T19:28:49.000Z</updated>
+        <updated>2026-07-06T21:17:35.000Z</updated>
         <summary type="html"><![CDATA[BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan's JLTXX Tokenized Money Market Fund AUM Grows 250% in a Month on Ethereum]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-s-jltxx-tokenized-money-market-fund-aum-grows-250-in-a-month-on-ethereum</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-s-jltxx-tokenized-money-market-fund-aum-grows-250-in-a-month-on-ethereum"/>
+        <updated>2026-07-06T21:07:18.000Z</updated>
+        <summary type="html"><![CDATA[JPMorgan's JLTXX tokenized money market fund has grown its onchain assets under management by roughly 250% over the past month, according to data platform Token Terminal. The bank runs the fund exclusively on Ethereum. JLTXX, formally the OnChain Liquidity Token Money Market Fund, launched May 13…]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple Secures Full MiCA License, Completing EU Compliance]]></title>
+        <id>https://thedefiant.io/converge/regulation/ripple-secures-full-mica-license-completing-eu-compliance</id>
+        <link href="https://thedefiant.io/converge/regulation/ripple-secures-full-mica-license-completing-eu-compliance"/>
+        <updated>2026-07-06T21:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Ripple has received full Crypto Asset Service Provider (CASP) authorization from Luxembourg's Commission de Surveillance du Secteur Financier, the company said in a press release Monday. The license completes Ripple's Markets in Crypto-Assets Regulation (MiCA) requirements, letting it offer…]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMURGO Says Hacked Cardano Wallet SecondFi Won't Reopen]]></title>
+        <id>https://thedefiant.io/news/hacks/emurgo-says-hacked-cardano-wallet-secondfi-won-t-reopen</id>
+        <link href="https://thedefiant.io/news/hacks/emurgo-says-hacked-cardano-wallet-secondfi-won-t-reopen"/>
+        <updated>2026-07-06T20:46:04.000Z</updated>
+        <summary type="html"><![CDATA[EMURGO, the Cardano-founding entity behind SecondFi, said Monday the hacked wallet service will not resume normal operations even after ongoing security audits conclude, telling all users to migrate away using its official recovery process. "Although we believe unaffected users remain safe,…]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BonkDAO Treasury Drained of $20M via Malicious Proposal]]></title>
+        <id>https://thedefiant.io/news/hacks/bonkdao-treasury-drained-of-20m-via-malicious-proposal</id>
+        <link href="https://thedefiant.io/news/hacks/bonkdao-treasury-drained-of-20m-via-malicious-proposal"/>
+        <updated>2026-07-06T20:34:24.000Z</updated>
+        <summary type="html"><![CDATA[BonkDAO, the decentralized autonomous organization tied to the Solana-based memecoin BONK, said Monday it was the target of a malicious governance proposal that drained an estimated $20 million worth of BONK tokens from its treasury, according to a post on its official X account. The DAO said the…]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/catholic-leaders-oppose-clarity-act-trafficking-safeguards"/>
         <updated>2026-06-23T21:38:28.000Z</updated>
         <summary type="html"><![CDATA[Close to 100 Catholic bishops and church leaders have sent a letter to Senate leadership opposing the CLARITY Act, arguing that a provision shielding non-custodial developers from money-transmitter rules would weaken federal safeguards against human trafficking and other financial crimes.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump White House Negotiating CLARITY Act Ethics Deal With Senate Democrats]]></title>
-        <id>https://thedefiant.io/news/regulation/trump-white-house-clarity-act-ethics-deal-senate-democrats</id>
-        <link href="https://thedefiant.io/news/regulation/trump-white-house-clarity-act-ethics-deal-senate-democrats"/>
-        <updated>2026-06-23T21:38:25.000Z</updated>
-        <summary type="html"><![CDATA[A Trump White House official is negotiating an ethics compromise on the CLARITY Act with Senate Democrats, the last major sticking point before a floor vote, as Senator Cynthia Lummis says the US is finally close to getting digital asset legislation right.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Sues Kentucky to Defend Its Exclusive Jurisdiction Over Prediction Markets]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-sues-kentucky-exclusive-jurisdiction-prediction-markets</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-sues-kentucky-exclusive-jurisdiction-prediction-markets"/>
-        <updated>2026-06-23T21:35:50.000Z</updated>
-        <summary type="html"><![CDATA[The CFTC sued Kentucky on Tuesday to stop the state from using its own laws and a new transaction fee to push federally registered prediction markets out, widening a multi-state campaign over exclusive federal jurisdiction.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit]]></title>
-        <id>https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit</id>
-        <link href="https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit"/>
-        <updated>2026-06-23T21:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0x Opens Swap API to AI Agents Paying $0.01 Per Request in USDC]]></title>
-        <id>https://thedefiant.io/news/defi/0x-swap-api-ai-agents-usdc-payment-x402</id>
-        <link href="https://thedefiant.io/news/defi/0x-swap-api-ai-agents-usdc-payment-x402"/>
-        <updated>2026-06-23T21:01:27.000Z</updated>
-        <summary type="html"><![CDATA[AI agents can now access 0x Protocol's Swap API by paying $0.01 per request in USDC directly from their own wallets, with no API key required, via the HTTP 402 and x402 standard built with Alchemy AgentPay.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
