@@ -10,7 +10,7 @@
           "author": "The Defiant Team",
           "description": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
           "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-          "publishedOn": "2026-07-13T18:24:25.000Z",
+          "publishedOn": "2026-07-13T20:05:24.000Z",
           "wordCount": null,
           "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
           "enclosure": {
@@ -25,7 +25,7 @@
           "author": "The Defiant Team",
           "description": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
           "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-          "publishedOn": "2026-07-13T18:24:25.000Z",
+          "publishedOn": "2026-07-13T20:05:24.000Z",
           "wordCount": null,
           "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
           "enclosure": {
@@ -40,7 +40,7 @@
           "author": "The Defiant Team",
           "description": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-          "publishedOn": "2026-07-13T18:24:25.000Z",
+          "publishedOn": "2026-07-13T20:05:24.000Z",
           "wordCount": null,
           "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
           "enclosure": {
@@ -55,7 +55,7 @@
           "author": "The Defiant Team",
           "description": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
-          "publishedOn": "2026-07-13T18:24:25.000Z",
+          "publishedOn": "2026-07-13T20:05:24.000Z",
           "wordCount": null,
           "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
           "enclosure": {
@@ -70,7 +70,7 @@
           "author": "The Defiant Team",
           "description": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
           "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-          "publishedOn": "2026-07-13T18:24:25.000Z",
+          "publishedOn": "2026-07-13T20:05:24.000Z",
           "wordCount": null,
           "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
           "enclosure": {
@@ -79,6 +79,51 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9cb48b7ad61af1254dcdca0be2ca83b0dcaf25c4-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/bonzo-lend-loses-9m-on-hedera-in-supra-oracle-exploit",
+          "author": "The Defiant Team",
+          "description": "A single manipulated price feed let an attacker turn 250 SAUCE tokens worth a few dollars into $9.05 million in borrowed USDC and wrapped HBAR in eight seconds.",
+          "link": "https://thedefiant.io/news/hacks/bonzo-lend-loses-9m-on-hedera-in-supra-oracle-exploit",
+          "publishedOn": "2026-07-13T19:48:08.000Z",
+          "wordCount": null,
+          "title": "Bonzo Lend Loses $9M on Hedera in Supra Oracle Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/da5a4a6928b5bc3f737205ba8698e63cba1de8b8-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/da5a4a6928b5bc3f737205ba8698e63cba1de8b8-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sablier-labs-enters-maintenance-mode-halts-development",
+          "author": "The Defiant Team",
+          "description": "The token-streaming protocol's smart contracts, used by over 345,000 Ethereum addresses, will keep running onchain even as the company behind them steps back.",
+          "link": "https://thedefiant.io/news/defi/sablier-labs-enters-maintenance-mode-halts-development",
+          "publishedOn": "2026-07-13T19:25:13.000Z",
+          "wordCount": null,
+          "title": "Sablier Labs Enters Maintenance Mode, Halts Development",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f852eaa798ec6c97027796495c0875b2fce12bf2-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f852eaa798ec6c97027796495c0875b2fce12bf2-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uniswap-auctions-go-live-on-robinhood-chain",
+          "author": "The Defiant Team",
+          "description": "Robinhood Chain auction listings will now surface directly in the Uniswap Web App, where users can launch, browse, bid and claim tokens in one place.",
+          "link": "https://thedefiant.io/news/defi/uniswap-auctions-go-live-on-robinhood-chain",
+          "publishedOn": "2026-07-13T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Uniswap Auctions Go Live on Robinhood Chain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/707e8d274df34da9f4eebdf999454219c6cc3e3b-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/707e8d274df34da9f4eebdf999454219c6cc3e3b-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/coinbase-ceo-says-base-s-content-coins-didn-t-work",
@@ -94,6 +139,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/coinbase-content-coins-thumbnail-v2-jpg-c6a50448-f8d8-40a9-869c-a2afbd28865d.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/strategy-sells-467m-in-mstr-shares-bitcoin-stack-steady",
+          "author": "The Defiant Team",
+          "description": "The bitcoin treasury company's cash reserve climbed to $3 billion even as its 843,775 BTC holdings stayed frozen for a second straight week.",
+          "link": "https://thedefiant.io/news/cefi/strategy-sells-467m-in-mstr-shares-bitcoin-stack-steady",
+          "publishedOn": "2026-07-13T17:25:00.000Z",
+          "wordCount": null,
+          "title": "Strategy Sells $467M in MSTR Shares, Bitcoin Stack Steady",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcbe475a9ad83d2783501c71ef705e56ea2eda67-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dcbe475a9ad83d2783501c71ef705e56ea2eda67-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/news/regulation/trump-urges-senate-to-pass-clarity-act-for-lindsey-graham",
@@ -1439,66 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/97a8aac2e867d3a93d141733e0e065a0942ceb34-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-rlusd-japan-jfsa-sbi-vc-trade-circle-nomura-stablecoin",
-          "author": "The Defiant Team",
-          "description": "Ripple's RLUSD stablecoin went live in Japan on Tuesday after receiving approval from Japan's Financial Services Agency, becoming the first foreign-issued stablecoin classified under Japan's revised Payment Services Act.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-rlusd-japan-jfsa-sbi-vc-trade-circle-nomura-stablecoin",
-          "publishedOn": "2026-06-26T21:54:48.000Z",
-          "wordCount": null,
-          "title": "Ripple Launches RLUSD in Japan via SBI as Circle and Nomura Join Stablecoin Race",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/676bf688bafef1c507151c647889086938daf84d-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/676bf688bafef1c507151c647889086938daf84d-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
-          "author": "The Defiant Team",
-          "description": "Seventeen Democratic senators are urging the Senate Appropriations Subcommittee to include a rider in the FY2027 spending bill that would prohibit the CFTC from using any federal funds to sue states over prediction-market regulation, escalating a multi-front jurisdictional battle spanning nine",
-          "link": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
-          "publishedOn": "2026-06-26T20:45:50.000Z",
-          "wordCount": null,
-          "title": "17 Democratic Senators Seek to Bar CFTC From Funding Prediction-Market State Lawsuits",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/103cad472bc6d46dc13bb89ccbd34875c29c81f1-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/103cad472bc6d46dc13bb89ccbd34875c29c81f1-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
-          "author": "Camila Russo",
-          "description": "Prediction markets are entering a new phase — and the biggest market makers in the world are taking notice. Alex Momot, Co-founder of Peanut Trade, joins Camila Russo to break down the mechanics, the opportunity, and the risks behind this fast-moving space.",
-          "link": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
-          "publishedOn": "2026-06-26T20:37:06.000Z",
-          "wordCount": null,
-          "title": "Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-asset-value-stalls-even-as-stock-token-holders-surge",
-          "author": "The Defiant Team",
-          "description": "Distributed tokenized real-world asset value slipped about 1.4% over the past month to roughly $31.5 billion, the first monthly decline of its institutional-led run, even as the number of holders climbed 14%, led by tokenized stocks, according to data from rwa.xyz.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-asset-value-stalls-even-as-stock-token-holders-surge",
-          "publishedOn": "2026-06-26T20:16:02.000Z",
-          "wordCount": null,
-          "title": "Tokenized Asset Value Stalls Even as Stock Token Holders Surge",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/871e50b8d36d65062c989249a249e61cd16c3f9e-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/871e50b8d36d65062c989249a249e61cd16c3f9e-2048x1152.png"
         }
       ]
     }
