@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/rarible-launches-solana-nft-marketplace-with-claynosaurz-as-first-collection",
+          "author": "The Defiant Team",
+          "description": "Rarible's site now lists Solana alongside Ethereum, MegaETH and Base, with dedicated Explore, Mint and Gacha pages for the network.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/rarible-launches-solana-nft-marketplace-with-claynosaurz-as-first-collection",
+          "publishedOn": "2026-08-07T17:30:05.000Z",
+          "wordCount": null,
+          "title": "Rarible Launches Solana NFT Marketplace With Claynosaurz as First Collection",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bd8a7fba20a3971e786a3f73cf67a72775113dc0-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bd8a7fba20a3971e786a3f73cf67a72775113dc0-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/tokyo-lawson-register-scans-a-barcode-for-a-322-yen-jpyc-stablecoin-payment",
+          "author": "The Defiant Team",
+          "description": "Store-side acceptance ran inside Lawson's existing register through HashPort Wallet for Biz and Canal Payment Service's PAYTREE gateway, with no dedicated stablecoin terminal added at the till.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/tokyo-lawson-register-scans-a-barcode-for-a-322-yen-jpyc-stablecoin-payment",
+          "publishedOn": "2026-08-07T17:03:35.000Z",
+          "wordCount": null,
+          "title": "Tokyo Lawson Register Scans a Barcode for a 322-Yen JPYC Stablecoin Payment",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e892f8af2a318ab84317650abc664d963f36ef95-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e892f8af2a318ab84317650abc664d963f36ef95-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/black-lake-harbor-verify-onchain-credit-verification",
           "author": "Bitwire",
           "description": "Black Lake Digital Markets has launched Harbor Verify, a browser-based tool that lets investors, lenders, auditors, and rating agencies independently confirm that every loan in a tokenized pool belongs there and passed its published eligibility rules, without seeing private borrower data.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/61935b0c0fdb81a06ff1c82d527ab89ec5bd68a5-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aztec-launches-alpha-v5-on-mainnet-with-faster-private-proving",
-          "author": "The Defiant Team",
-          "description": "The privacy Layer 2 says its latest release halves proving time and transaction costs versus V4, with the Nyx wallet as its first live app.",
-          "link": "https://thedefiant.io/news/blockchains/aztec-launches-alpha-v5-on-mainnet-with-faster-private-proving",
-          "publishedOn": "2026-07-21T14:16:39.000Z",
-          "wordCount": null,
-          "title": "Aztec Launches Alpha V5 on Mainnet With Faster Private Proving",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/31219cdf88e43c06e4ceea09850fa169abc587e6-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31219cdf88e43c06e4ceea09850fa169abc587e6-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-files-s-1-for-spot-worldcoin-etf",
-          "author": "The Defiant Team",
-          "description": "The registration statement, filed with the SEC on July 20, would create an exchange-traded product holding the WLD token.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-files-s-1-for-spot-worldcoin-etf",
-          "publishedOn": "2026-07-21T13:55:00.000Z",
-          "wordCount": null,
-          "title": "Grayscale Files S-1 for Spot Worldcoin ETF",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/358a3e9ebfe127454b89af03529999e714f45373-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/358a3e9ebfe127454b89af03529999e714f45373-2048x1152.png"
         }
       ]
     }
