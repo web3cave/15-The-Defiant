@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
+          "author": "The Defiant Team",
+          "description": "Hardware wallet maker Foundation and the Bitcoin zine Citadel21 both said their nodes were swept, in some cases hours before the project's public alert. BTCPay says the flaw under attack is not the one disclosed in its changelog.",
+          "link": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
+          "publishedOn": "2026-08-07T20:20:36.000Z",
+          "wordCount": null,
+          "title": "Lightning Nodes Drained As BTCPay Server Users Race To Patch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37c802b40b3a6009bca01af84ee41e16d5d80e60-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37c802b40b3a6009bca01af84ee41e16d5d80e60-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer",
+          "author": "The Defiant Team",
+          "description": "Any proceeds from a sale of the exchange's tech stack, brand and IP go to FAF holders pro rata, with team tokens excluded from the distribution.",
+          "link": "https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer",
+          "publishedOn": "2026-08-07T20:01:50.000Z",
+          "wordCount": null,
+          "title": "Solana Perp DEX Flash Trade to Wind Down Unless It Finds a Buyer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa3a3248270751b64e0a4b76078e1b509a9e34ab-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa3a3248270751b64e0a4b76078e1b509a9e34ab-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards",
           "author": "The Defiant Team",
           "description": "Joseph Chalom argues the draft would strip the base rate out from under roughly $35 billion in liquid staking token collateral and could push institutions to sell ETH as they unstake.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/75dcf676c11dbf6fc5c19766ffbe98732f1f56c2-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
-          "author": "The Defiant Team",
-          "description": "The Solana launchpad's co-founder says the change adds about 20% liquidity to each newly migrated coin, with all figures the company's own projections.",
-          "link": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
-          "publishedOn": "2026-07-21T16:04:38.000Z",
-          "wordCount": null,
-          "title": "Pump.fun Adds 'BOOST' Liquidity Mode for Every New Coin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d95d0a67777f02365e0268ee11b3c2828a447fb-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d95d0a67777f02365e0268ee11b3c2828a447fb-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/morpho-launches-fixed-rate-lending-protocol-midnight-on-base",
-          "author": "The Defiant Team",
-          "description": "The DeFi lender also released a new Markets App that lets users set their own rates and terms, starting on Base with more networks to follow.",
-          "link": "https://thedefiant.io/news/defi/morpho-launches-fixed-rate-lending-protocol-midnight-on-base",
-          "publishedOn": "2026-07-21T15:47:12.000Z",
-          "wordCount": null,
-          "title": "Morpho Launches Fixed-Rate Lending Protocol Midnight on Base",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/687d6e8ac73edcfa3db0e35c7525274c514d5102-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/687d6e8ac73edcfa3db0e35c7525274c514d5102-2048x1152.png"
         }
       ]
     }
