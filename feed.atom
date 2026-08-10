@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T15:46:47.581Z</id>
+    <id>urn:2026-08-10T16:39:43.021Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T15:46:47.581Z</updated>
+    <updated>2026-08-10T16:39:43.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BIP-110 Bitcoin Fork Stalls at Two Blocks as Its Only Miner Quits]]></title>
+        <id>https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits</id>
+        <link href="https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits"/>
+        <updated>2026-08-10T16:15:22.000Z</updated>
+        <summary type="html"><![CDATA[OCEAN will refund roughly 0.3 BTC to miners whose hashrate its Stratum templates sent to the breakaway chain for about 18 hours.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lightning Nodes Drained As BTCPay Server Users Race To Patch]]></title>
         <id>https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/durov-says-telegram-will-ship-native-gram-wallet-to-a-billion-users"/>
         <updated>2026-07-21T16:55:18.000Z</updated>
         <summary type="html"><![CDATA[The Telegram founder is putting private-key custody inside the core app this summer, a distribution reach no self-custody wallet has attempted.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Enables Tokenized Stock Collateral on OndoPerps]]></title>
-        <id>https://thedefiant.io/converge/defi/ondo-enables-tokenized-stock-collateral-on-ondoperps</id>
-        <link href="https://thedefiant.io/converge/defi/ondo-enables-tokenized-stock-collateral-on-ondoperps"/>
-        <updated>2026-07-21T16:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Ondo Stocks holders can now back perpetual futures positions with SPYon and QQQon, subject to an initial $100,000 per-asset notional cap.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
