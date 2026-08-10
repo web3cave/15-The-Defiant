@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T22:23:50.349Z</id>
+    <id>urn:2026-08-10T23:23:09.103Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T22:23:50.349Z</updated>
+    <updated>2026-08-10T23:23:09.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's BIP Editors Remove Luke Dashjr Two Days After BIP-110 Fork Stalled]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled"/>
+        <updated>2026-08-10T22:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Dashjr lost editor and admin access to the BIPs repository about 26 hours after Mark "Murch" Erhardt filed a motion on the developer mailing list. Dashjr called the accusations false. Minutes before the removal was confirmed, he announced a sabbatical from mining pool Ocean.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Prediction Markets Shut Down Hours Apart as Kalshi and Polymarket Take 93% of Volume]]></title>
         <id>https://thedefiant.io/news/defi/two-prediction-markets-shut-down-hours-apart-as-kalshi-and-polymarket-take-93-of-volume</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-says-altcoins-are-key-to-the-agentic-ai-trade"/>
         <updated>2026-07-22T17:48:54.000Z</updated>
         <summary type="html"><![CDATA[Digital assets head Sandy Kaul argues card rails can't handle $0.001 machine payments, making blockchain tokens the way to capture agentic AI value.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramp Adds Stablecoin Accounts and Bill Pay on Stripe Stack]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack"/>
-        <updated>2026-07-22T17:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Bridge converts dollars for Bill Pay while Privy stores balances, splitting the roles across Stripe's stablecoin infrastructure.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

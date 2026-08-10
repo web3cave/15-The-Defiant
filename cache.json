@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled",
+          "author": "The Defiant Team",
+          "description": "Dashjr lost editor and admin access to the BIPs repository about 26 hours after Mark \"Murch\" Erhardt filed a motion on the developer mailing list. Dashjr called the accusations false. Minutes before the removal was confirmed, he announced a sabbatical from mining pool Ocean.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled",
+          "publishedOn": "2026-08-10T22:40:11.000Z",
+          "wordCount": null,
+          "title": "Bitcoin's BIP Editors Remove Luke Dashjr Two Days After BIP-110 Fork Stalled",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dashjr-thumbnail-jpg-a83d65bf-9e55-4c05-a483-55e133156da5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dashjr-thumbnail-jpg-a83d65bf-9e55-4c05-a483-55e133156da5.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/two-prediction-markets-shut-down-hours-apart-as-kalshi-and-polymarket-take-93-of-volume",
           "author": "The Defiant Team",
           "description": "Trepa and Fireplace both told users to withdraw by Sept. 30. One published a post-mortem arguing crypto's active user base is far smaller than the industry reports.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack",
-          "author": "The Defiant Team",
-          "description": "Bridge converts dollars for Bill Pay while Privy stores balances, splitting the roles across Stripe's stablecoin infrastructure.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack",
-          "publishedOn": "2026-07-22T17:44:07.000Z",
-          "wordCount": null,
-          "title": "Ramp Adds Stablecoin Accounts and Bill Pay on Stripe Stack",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f32e26e59e66403602ed13e1741deecc6b3587f3-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f32e26e59e66403602ed13e1741deecc6b3587f3-2048x1152.png"
         }
       ]
     }
