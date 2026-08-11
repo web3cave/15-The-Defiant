@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/rain-acquires-ansa-stored-value-merchant-wallets",
+          "author": "The Defiant Team",
+          "description": "Ansa builds branded prepaid wallets that hold dollar balances for merchants, with no stablecoin leg. Founder Sophia Goldberg joins Rain as head of payments, and terms were not disclosed.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/rain-acquires-ansa-stored-value-merchant-wallets",
+          "publishedOn": "2026-08-11T19:10:48.000Z",
+          "wordCount": null,
+          "title": "Stablecoin Card Issuer Rain Buys Merchant Wallet Startup Ansa",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/deeds-thumbnail-jpg-ddefa87f-bf70-4549-b227-297cfa8ed09d.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/deeds-thumbnail-jpg-ddefa87f-bf70-4549-b227-297cfa8ed09d.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ens-tokenholders-hand-endowment-control-to-a-staffed-foundation",
           "author": "The Defiant Team",
           "description": "The proposal passed with 1.27 million ENS in favor and 480,690 against. Co-founder Alex Van de Sande voted no after decoding the executable, arguing the DAO disappears from the endowment's control chain.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ad502632448ca6c94be56fb24f26aa5553802312-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/attacker-drains-usd24m-in-usdc-from-afx-bridge-on-arbitrum",
-          "author": "The Defiant Team",
-          "description": "The exploit targeted a bridge operated by derivatives exchange AFX and emptied nearly all of the USDC locked in the contract, according to security firm Blockaid. Arbitrum co-founder Steven Goldfeder said the network's native bridge was not affected.",
-          "link": "https://thedefiant.io/news/hacks/attacker-drains-usd24m-in-usdc-from-afx-bridge-on-arbitrum",
-          "publishedOn": "2026-07-23T01:35:03.000Z",
-          "wordCount": null,
-          "title": "Attacker Drains $24M in USDC From AFX Bridge on Arbitrum",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/afx-bridge-hack-thumbnail-jpg-8230f7d4-cf7e-48d7-a4e1-fe2e9c934f5d.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/afx-bridge-hack-thumbnail-jpg-8230f7d4-cf7e-48d7-a4e1-fe2e9c934f5d.jpg"
         }
       ]
     }
