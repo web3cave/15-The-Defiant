@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T20:29:25.986Z</id>
+    <id>urn:2026-08-12T21:32:06.589Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T20:29:25.986Z</updated>
+    <updated>2026-08-12T21:32:06.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim]]></title>
-        <id>https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim</id>
-        <link href="https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim"/>
-        <updated>2026-08-12T20:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.]]></summary>
+        <title type="html"><![CDATA[Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding]]></title>
+        <id>https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding</id>
+        <link href="https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding"/>
+        <updated>2026-08-12T21:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Circle National Trust custodies the backing, while published Bitcoin addresses and Chainlink Proof of Reserve provide onchain visibility; Arc support remains forthcoming.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitGo CFO to Exit as Q2 Net Loss Hits $19 Million]]></title>
+        <id>https://thedefiant.io/converge/cefi/bitgo-cfo-to-exit-as-q2-net-loss-hits-19-million</id>
+        <link href="https://thedefiant.io/converge/cefi/bitgo-cfo-to-exit-as-q2-net-loss-hits-19-million"/>
+        <updated>2026-08-12T21:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Revenue jumped 80%, but trading and staking margins weakened as BitGo targeted $15 million in annualized savings following June layoffs.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -21,6 +31,16 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral"/>
         <updated>2026-08-12T20:16:45.000Z</updated>
         <summary type="html"><![CDATA[The relief lets Franklin Templeton’s registered funds hold FOBXX through an affiliated blockchain-integrated system, subject to 12 custody and control conditions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa"/>
+        <updated>2026-08-12T19:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Two launchpads on Robinhood Chain cut pump.fun's share of launchpad fees from 80% to 27% in two weeks. Pump.fun's fees are up 30% over 30 days anyway, because the category grew 77% around it. Memecoin prices did not participate.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -61,6 +81,16 @@
         <link href="https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion"/>
         <updated>2026-08-12T15:31:25.000Z</updated>
         <summary type="html"><![CDATA[The crypto asset manager reduced headcount to about 155 from 180, while its BITW index fund ended June with $532.8 million in net assets, down from $1.03 billion at year-end.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim]]></title>
+        <id>https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim</id>
+        <link href="https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim"/>
+        <updated>2026-08-12T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code"/>
         <updated>2026-07-24T19:59:12.000Z</updated>
         <summary type="html"><![CDATA[India's cybercrime agency gave GitHub three hours to pull three Bitchat repositories, objecting to the mesh messaging app's ability to work during internet shutdowns amid protests in New Delhi. Digital rights advocates called the order unconstitutional.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Sushi CTO Joseph DeLong to Launch Order Book DEX on Robinhood Chain]]></title>
-        <id>https://thedefiant.io/news/defi/ex-sushi-cto-joseph-delong-to-launch-order-book-dex-on-robinhood-chain</id>
-        <link href="https://thedefiant.io/news/defi/ex-sushi-cto-joseph-delong-to-launch-order-book-dex-on-robinhood-chain"/>
-        <updated>2026-07-24T19:54:52.000Z</updated>
-        <summary type="html"><![CDATA[The former SushiSwap CTO described the decentralized exchange as a side project that 'outgrew nights and weekends,' with no specs, contract, or token disclosed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacks Bitcoin Staking Upgrade Vote Passes With 99%, Muneeb Says]]></title>
-        <id>https://thedefiant.io/news/blockchains/stacks-bitcoin-staking-upgrade-vote-passes-with-99-muneeb-says</id>
-        <link href="https://thedefiant.io/news/blockchains/stacks-bitcoin-staking-upgrade-vote-passes-with-99-muneeb-says"/>
-        <updated>2026-07-24T19:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Most exchanges and partners have signaled readiness for the hard fork, though a few are still reviewing details and the upgrade has not yet activated.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Says Wallet Will Add Stablecoin Support]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/samsung-says-wallet-will-add-stablecoin-support</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/samsung-says-wallet-will-add-stablecoin-support"/>
-        <updated>2026-07-24T16:18:08.000Z</updated>
-        <summary type="html"><![CDATA[The announcement at Galaxy Unpacked in London came with no timeline, issuers, or markets — but would put stablecoins on hundreds of millions of phones.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
