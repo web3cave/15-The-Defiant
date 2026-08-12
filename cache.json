@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/boltz-founders-exit-as-unnamed-bitcoin-group-agrees-to-take-over-suspended-swap-service",
+          "author": "The Defiant Team",
+          "description": "The service remains offline while incoming operators work to fix vulnerabilities; Boltz said attacks caused losses to the company.",
+          "link": "https://thedefiant.io/news/infrastructure/boltz-founders-exit-as-unnamed-bitcoin-group-agrees-to-take-over-suspended-swap-service",
+          "publishedOn": "2026-08-12T21:35:29.000Z",
+          "wordCount": null,
+          "title": "Boltz Founders Exit as Unnamed Bitcoin Group Agrees to Take Over Suspended Swap Service",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3423bd713d0947a0e77c8c0858edd16a2e628f8d-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3423bd713d0947a0e77c8c0858edd16a2e628f8d-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding",
           "author": "The Defiant Team",
           "description": "Circle National Trust custodies the backing, while published Bitcoin addresses and Chainlink Proof of Reserve provide onchain visibility; Arc support remains forthcoming.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54d7c603d315986150328926e0965ac09c044828-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code",
-          "author": "The Defiant Team",
-          "description": "India's cybercrime agency gave GitHub three hours to pull three Bitchat repositories, objecting to the mesh messaging app's ability to work during internet shutdowns amid protests in New Delhi. Digital rights advocates called the order unconstitutional.",
-          "link": "https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code",
-          "publishedOn": "2026-07-24T19:59:12.000Z",
-          "wordCount": null,
-          "title": "India Orders GitHub to Remove Jack Dorsey's Bitchat Code",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7364243014e05f4838db9a0844e797275cc3601-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d7364243014e05f4838db9a0844e797275cc3601-2048x1152.png"
         }
       ]
     }
