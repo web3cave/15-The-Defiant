@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
+          "author": "The Defiant Team",
+          "description": "Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.",
+          "link": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
+          "publishedOn": "2026-08-12T14:10:35.000Z",
+          "wordCount": null,
+          "title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f4e80102a94a8d141632085cec6c325d0f9b803-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f4e80102a94a8d141632085cec6c325d0f9b803-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
           "author": "The Defiant Team",
           "description": "Wirex will provide payment and card infrastructure, Crossmint will handle wallet onboarding, and Stellar will supply the blockchain layer for the planned feature.",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0042b8c4a856dc1d26951c2fca9193077e859881-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4",
-          "author": "The Defiant Team",
-          "description": "The v4 hook enforces issuer allowlists onchain at the protocol level, with Superstate, Securitize, and Dowgo as launch partners.",
-          "link": "https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4",
-          "publishedOn": "2026-07-23T16:56:43.000Z",
-          "wordCount": null,
-          "title": "Uniswap Adds Permissioned Pools to Bring Regulated Assets to v4",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0b0af05ffb490e2e58709017ab14f1c262214fc-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a0b0af05ffb490e2e58709017ab14f1c262214fc-2048x1152.png"
         }
       ]
     }

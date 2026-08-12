@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T12:38:42.916Z</id>
+    <id>urn:2026-08-12T14:10:36.142Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T12:38:42.917Z</updated>
+    <updated>2026-08-12T14:10:36.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim]]></title>
+        <id>https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim</id>
+        <link href="https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim"/>
+        <updated>2026-08-12T14:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barça Mobile Plans Stellar Wallet With Wirex and Crossmint]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-cleared-to-offer-tokenized-stocks-in-us"/>
         <updated>2026-07-23T17:17:09.000Z</updated>
         <summary type="html"><![CDATA[The tokenization firm said its broker-dealer subsidiary can now sell tokenized equities, ETFs and funds to American investors under SEC and FINRA oversight.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Adds Permissioned Pools to Bring Regulated Assets to v4]]></title>
-        <id>https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4</id>
-        <link href="https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4"/>
-        <updated>2026-07-23T16:56:43.000Z</updated>
-        <summary type="html"><![CDATA[The v4 hook enforces issuer allowlists onchain at the protocol level, with Superstate, Securitize, and Dowgo as launch partners.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
