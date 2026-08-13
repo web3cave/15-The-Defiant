@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls",
+          "author": "The Defiant Team",
+          "description": "Tokenization revenue dropped 12% and operating costs jumped 56%, showing that higher onchain assets have yet to produce steadier earnings.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls",
+          "publishedOn": "2026-08-13T01:18:37.000Z",
+          "wordCount": null,
+          "title": "Securitize’s Tokenized Assets Hit $4.3 Billion as Revenue Falls",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fac484247403bc725697c31ac6254ff1097ba718-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fac484247403bc725697c31ac6254ff1097ba718-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uniswap-founder-says-team-renounced-creator-fees-from-employee-testing",
+          "author": "The Defiant Team",
+          "description": "TradePools said test tokens built while developing Pools no longer send creator fees to Uniswap Labs, with past and future fees redirected to an ETH-for-burn mechanism.",
+          "link": "https://thedefiant.io/news/defi/uniswap-founder-says-team-renounced-creator-fees-from-employee-testing",
+          "publishedOn": "2026-08-13T01:09:22.000Z",
+          "wordCount": null,
+          "title": "Uniswap Founder Says Team Renounced Creator Fees From Employee Testing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-58a9c5a4-3363-4607-9a32-a7085fbfded0.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-58a9c5a4-3363-4607-9a32-a7085fbfded0.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/boltz-founders-exit-as-unnamed-bitcoin-group-agrees-to-take-over-suspended-swap-service",
           "author": "The Defiant Team",
           "description": "The service remains offline while incoming operators work to fix vulnerabilities; Boltz said attacks caused losses to the company.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2de53d690edb3697cc995f56e20c9aa445dd7004-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/bitmart-to-wind-down-exchange-end-trading-by-aug-26",
-          "author": "The Defiant Team",
-          "description": "The exchange gave no specific reason for the closure, and its BMX token fell about 59% in 24 hours after the announcement.",
-          "link": "https://thedefiant.io/converge/cefi/bitmart-to-wind-down-exchange-end-trading-by-aug-26",
-          "publishedOn": "2026-07-26T15:19:38.000Z",
-          "wordCount": null,
-          "title": "BitMart to Wind Down Exchange, End Trading by Aug. 26",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e17175e29a19e50e2ab0e068d8c74b67b6573ad1-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e17175e29a19e50e2ab0e068d8c74b67b6573ad1-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/perp-dex-dango-to-wind-down-will-halt-trading-july-29",
-          "author": "The Defiant Team",
-          "description": "The Hack VC-backed Layer 1 will shut its blockchain on Aug. 13 and return user funds as USDC, closing out a mainnet run of under four months that began with a $1.9 million exploit.",
-          "link": "https://thedefiant.io/news/defi/perp-dex-dango-to-wind-down-will-halt-trading-july-29",
-          "publishedOn": "2026-07-24T20:02:11.000Z",
-          "wordCount": null,
-          "title": "Perp DEX Dango to Wind Down, Will Halt Trading July 29",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/54d7c603d315986150328926e0965ac09c044828-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54d7c603d315986150328926e0965ac09c044828-2048x1152.png"
         }
       ]
     }
