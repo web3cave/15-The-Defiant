@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-13T12:39:45.998Z</id>
+    <id>urn:2026-08-13T14:12:20.569Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-13T12:39:45.998Z</updated>
+    <updated>2026-08-13T14:12:20.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trezor Shipping-Provider Breach Exposes Data of 13,689 Customers]]></title>
+        <id>https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers</id>
+        <link href="https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers"/>
+        <updated>2026-08-13T14:04:09.000Z</updated>
+        <summary type="html"><![CDATA[ShipMonk incident exposed names and contact details of recent customers in seven countries; Trezor says its devices and systems were not compromised.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ether.fi Adds Tokenized Stocks, New Fiat Rails And Aave-Backed Borrowing]]></title>
+        <id>https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing</id>
+        <link href="https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing"/>
+        <updated>2026-08-13T13:44:32.000Z</updated>
+        <summary type="html"><![CDATA[The Summer release lands a week after the protocol pulled restaking out of weETH. The release also introduces programmatic ETHFI buybacks funded from every revenue line.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize’s Tokenized Assets Hit $4.3 Billion as Revenue Falls]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward"/>
         <updated>2026-07-27T14:57:35.000Z</updated>
         <summary type="html"><![CDATA[The embedded-wallet pioneer is rebranding as Newton Labs to focus on an onchain authorization layer that vets transactions against policy before they settle.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Registers Capital Affiliate as SEC Investment Adviser]]></title>
-        <id>https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser</id>
-        <link href="https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser"/>
-        <updated>2026-07-27T14:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Securitize Capital's registration took effect July 22, SEC records show, adding an advisory license to the tokenization firm's U.S. regulatory lineup three weeks after its NYSE debut.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Opens 'Launches' Tab for New Base, Solana Tokens]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens"/>
-        <updated>2026-07-27T14:45:01.000Z</updated>
-        <summary type="html"><![CDATA[The feature routes users into Coinbase's built-in DEX, which its product page says is not available in all locations and requires a self-custody wallet.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
