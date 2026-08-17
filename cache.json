@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+          "author": "The Defiant Team",
+          "description": "OpenRouter meters AI usage against prepaid deposits and charges 5% on crypto top-ups against 5.5% on card purchases made through Stripe. Stripe co-incubated Tempo to settle machine payments onchain; the chain is running at about one transaction per second.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+          "publishedOn": "2026-08-17T15:52:20.000Z",
+          "wordCount": null,
+          "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stripe-openrouter-thumbnail-jpg-adb980bf-2b8c-44bf-a36c-5ee3178c01fb.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stripe-openrouter-thumbnail-jpg-adb980bf-2b8c-44bf-a36c-5ee3178c01fb.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
+          "author": "The Defiant Team",
+          "description": "The wallet maker says a flaw in an order-tracking plug-in leaked names, phone numbers and shipping addresses over 14 months. A seller is now advertising the file.",
+          "link": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
+          "publishedOn": "2026-08-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/safepal-thumbnail-jpg-fd37d640-aa65-4a02-99d0-7f4899e30554.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/safepal-thumbnail-jpg-fd37d640-aa65-4a02-99d0-7f4899e30554.jpg"
+        },
+        {
           "id": "https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements",
           "author": "The Defiant Team",
           "description": "The Big Four firm issued an unqualified opinion on 2025 accounts for Tether's El Salvador issuing entity. The work was done to AICPA standards rather than the PCAOB standards the GENIUS Act sets for licensed U.S. issuers, and Tether has released neither the statements nor the opinion letter.",
@@ -1474,36 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a05945c72987198d98cde23ddf364a046dcc06d-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows",
-          "author": "The Defiant Team",
-          "description": "The $1.79 trillion asset manager joins BlackRock, Fidelity and Goldman Sachs in backing the crypto market-structure bill as senators review updated Senate text.",
-          "link": "https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows",
-          "publishedOn": "2026-07-28T15:49:51.000Z",
-          "wordCount": null,
-          "title": "Franklin Templeton Backs CLARITY Act as Wall Street Coalition Grows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef6b310778f883184dc3f0e8928e65a8d956aad7-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef6b310778f883184dc3f0e8928e65a8d956aad7-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network",
-          "author": "The Defiant Team",
-          "description": "CEO Ian De Bode says the company will not run the new execution layer and the earlier Ondo Chain in parallel, and that the network 'isn't a blockchain today.'",
-          "link": "https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network",
-          "publishedOn": "2026-07-27T18:20:32.000Z",
-          "wordCount": null,
-          "title": "Ondo Recasts Its Blockchain as the Ondo Network",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d6e9a28918c72439a8b171f18c3b9d156e0c467-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d6e9a28918c72439a8b171f18c3b9d156e0c467-2048x1152.png"
         }
       ]
     }

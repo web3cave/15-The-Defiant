@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T15:14:02.619Z</id>
+    <id>urn:2026-08-17T16:12:39.107Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-17T15:14:02.619Z</updated>
+    <updated>2026-08-17T16:12:39.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain"/>
+        <updated>2026-08-17T15:52:20.000Z</updated>
+        <summary type="html"><![CDATA[OpenRouter meters AI usage against prepaid deposits and charges 5% on crypto top-ups against 5.5% on card purchases made through Stripe. Stripe co-incubated Tempo to settle machine payments onchain; the chain is running at about one transaction per second.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum]]></title>
+        <id>https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale</id>
+        <link href="https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale"/>
+        <updated>2026-08-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The wallet maker says a flaw in an order-tracking plug-in leaked names, phone numbers and shipping addresses over 14 months. A seller is now advertising the file.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Clears First Full Audit From KPMG Without Publishing the Statements]]></title>
         <id>https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/ethereum-gacha-protocol-fake-world-assets-flips-collector-crypt-in-daily-revenue"/>
         <updated>2026-07-28T16:09:40.000Z</updated>
         <summary type="html"><![CDATA[The two-developer project overtook Solana's dominant tokenized-card platform four days after relaunching, generating $1.6M in daily fees at its peak before activity cooled.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton Backs CLARITY Act as Wall Street Coalition Grows]]></title>
-        <id>https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows</id>
-        <link href="https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows"/>
-        <updated>2026-07-28T15:49:51.000Z</updated>
-        <summary type="html"><![CDATA[The $1.79 trillion asset manager joins BlackRock, Fidelity and Goldman Sachs in backing the crypto market-structure bill as senators review updated Senate text.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Recasts Its Blockchain as the Ondo Network]]></title>
-        <id>https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network</id>
-        <link href="https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network"/>
-        <updated>2026-07-27T18:20:32.000Z</updated>
-        <summary type="html"><![CDATA[CEO Ian De Bode says the company will not run the new execution layer and the earlier Ondo Chain in parallel, and that the network 'isn't a blockchain today.']]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
