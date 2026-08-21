@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
+          "author": "The Defiant Team",
+          "description": "The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds.",
+          "link": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
+          "publishedOn": "2026-08-21T22:09:27.000Z",
+          "wordCount": null,
+          "title": "Solana Activates 350-Millisecond Slots on Mainnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bc4bad13f617a30b5cced96bd45972bb4e336c48-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bc4bad13f617a30b5cced96bd45972bb4e336c48-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
           "author": "The Defiant Team",
           "description": "Bitcoin gained 22.6% over seven days, its largest advance over any seven-day window since November 2024, after the president told crypto executives at the White House that Congress needs to pass market structure legislation.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/thumbnail-jpg-d566ea7d-dde8-47a2-bf7b-9c87401e298c.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
-          "author": "The Defiant Team",
-          "description": "A firmware bug that shipped in 2021 made Coldcard seeds guessable, and attackers have drained more than 1,800 BTC since Thursday. The latest sweep can still be outbid in the mempool, giving some victims a window to rescue their coins.",
-          "link": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
-          "publishedOn": "2026-08-03T15:02:19.000Z",
-          "wordCount": null,
-          "title": "Coldcard Thefts Near $114 Million as Fourth Attack Wave Hits",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/824d3b1c81947f30b31de531acf6b1eb0b69fbf4-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/824d3b1c81947f30b31de531acf6b1eb0b69fbf4-2048x1152.png"
         }
       ]
     }

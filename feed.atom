@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T22:10:44.166Z</id>
+    <id>urn:2026-08-21T23:11:53.485Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-21T22:10:44.166Z</updated>
+    <updated>2026-08-21T23:11:53.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Activates 350-Millisecond Slots on Mainnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet"/>
+        <updated>2026-08-21T22:09:27.000Z</updated>
+        <summary type="html"><![CDATA[The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Posts Biggest Week Since 2024 as Trump Pushes Senate on CLARITY Act]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[DTCC holds $114 trillion in assets. On July 15th, it showed the world how those assets can be converted into digital tokens, traded in real production conditions, and converted back — without disrupting anything.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldcard Thefts Near $114 Million as Fourth Attack Wave Hits]]></title>
-        <id>https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits</id>
-        <link href="https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits"/>
-        <updated>2026-08-03T15:02:19.000Z</updated>
-        <summary type="html"><![CDATA[A firmware bug that shipped in 2021 made Coldcard seeds guessable, and attackers have drained more than 1,800 BTC since Thursday. The latest sweep can still be outbid in the mempool, giving some victims a window to rescue their coins.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
