@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
+          "author": "The Defiant Team",
+          "description": "Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio says was not affected.",
+          "link": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
+          "publishedOn": "2026-08-22T17:08:34.000Z",
+          "wordCount": null,
+          "title": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/17dc6b1fe8b157172275c20a4a80882d71a0d3ba-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/17dc6b1fe8b157172275c20a4a80882d71a0d3ba-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
           "author": "The Defiant Team",
           "description": "The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/coldcard-victims-thumbnail-jpg-f3bee843-5f3e-44cb-b658-ad90b2cf1646.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market",
-          "author": "Camila Russo",
-          "description": "DTCC holds $114 trillion in assets. On July 15th, it showed the world how those assets can be converted into digital tokens, traded in real production conditions, and converted back — without disrupting anything.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market",
-          "publishedOn": "2026-08-03T15:08:10.000Z",
-          "wordCount": null,
-          "title": "The $114 Trillion Question: How DTCC Is Tokenizing the Entire U.S. Market",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail-jpg-d566ea7d-dde8-47a2-bf7b-9c87401e298c.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail-jpg-d566ea7d-dde8-47a2-bf7b-9c87401e298c.jpg"
         }
       ]
     }

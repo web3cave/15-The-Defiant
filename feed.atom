@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T17:09:38.093Z</id>
+    <id>urn:2026-08-22T18:11:28.953Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-22T17:09:38.093Z</updated>
+    <updated>2026-08-22T18:11:28.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC]]></title>
+        <id>https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc</id>
+        <link href="https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc"/>
+        <updated>2026-08-22T17:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio says was not affected.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Activates 350-Millisecond Slots on Mainnet]]></title>
         <id>https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitcoiners who followed self-custody best practices — air-gapped devices, steel seed plates, safety deposit boxes — describe watching years of savings disappear in minutes as attackers exploiting the Coldcard flaw drained more than $114 million.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The $114 Trillion Question: How DTCC Is Tokenizing the Entire U.S. Market]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market"/>
-        <updated>2026-08-03T15:08:10.000Z</updated>
-        <summary type="html"><![CDATA[DTCC holds $114 trillion in assets. On July 15th, it showed the world how those assets can be converted into digital tokens, traded in real production conditions, and converted back — without disrupting anything.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
