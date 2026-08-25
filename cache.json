@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million",
+          "author": "The Defiant Team",
+          "description": "Withdrawals remain open, but Term’s Aug. 23 update did not quantify remaining vault assets and only said it would explore ways to address any shortfall.",
+          "link": "https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million",
+          "publishedOn": "2026-08-25T19:24:38.000Z",
+          "wordCount": null,
+          "title": "Term Finance Permanently Shuts Meta Vaults After Exploit PeckShield Estimated at $8.5 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c6ec1175794427160c7d2296d5c6b1570ff0903-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3c6ec1175794427160c7d2296d5c6b1570ff0903-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base",
           "author": "The Defiant Team",
           "description": "Only the Mag7X strategy is active at launch, holding four Coinbase-issued stock tokens; two additional Bitwise models remain marked ‘coming soon.’",
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1e4911e13c22f2d0c1ba55969788d883e38c7419-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks",
-          "author": "The Defiant Team",
-          "description": "The non-custodial swap service said attackers now iterate faster than its team can patch, leaving wallets including Aqua and Bull Bitcoin racing to restore Lightning and Liquid swaps.",
-          "link": "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks",
-          "publishedOn": "2026-08-03T19:09:03.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/boltz-halt-thumbnail-jpg-058c9ca6-37f8-427d-a6ad-4cc0f8192de9.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/boltz-halt-thumbnail-jpg-058c9ca6-37f8-427d-a6ad-4cc0f8192de9.jpg"
         }
       ]
     }
