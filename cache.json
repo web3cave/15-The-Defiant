@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
+          "author": "The Defiant Team",
+          "description": "The headless exchange routes 75% of post-venue trading fees into ZRO buybacks and burns, and pays trading venues rebates of up to 65%.",
+          "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
+          "publishedOn": "2026-08-25T16:28:16.000Z",
+          "wordCount": null,
+          "title": "LayerZero Unveils ATLAS Exchange Engine",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/layerzero-thumbnail-jpg-16513ec7-a047-452f-bd18-be0114b654cd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/layerzero-thumbnail-jpg-16513ec7-a047-452f-bd18-be0114b654cd.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million",
+          "author": "The Defiant Team",
+          "description": "A wallet bought yield tokens in a $9 million Pendle pool, pushing the principal token price down 2.8% and clearing out looped positions on a Morpho market carrying $52 million in borrows. No bad debt was incurred.",
+          "link": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million",
+          "publishedOn": "2026-08-25T16:19:44.000Z",
+          "wordCount": null,
+          "title": "Pendle Oracle Move Liquidates $36 Million",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pendle-thumbnail-jpg-93c36cca-a8ac-4717-8fe9-4ae34211ed2b.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pendle-thumbnail-jpg-93c36cca-a8ac-4717-8fe9-4ae34211ed2b.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
+          "author": "The Defiant Team",
+          "description": "Nikita Bier left the role on Aug. 5. No X corporate account has ever announced a trading feature, and Bier said in February that the company is not handling trade execution.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
+          "publishedOn": "2026-08-25T16:10:00.000Z",
+          "wordCount": null,
+          "title": "Ex-X Product Chief Says Trade Buttons Coming",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/x-trade-thumbnail-jpg-a5fbcbdd-ccf9-40f9-8e6d-7ae35aa168f3.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/x-trade-thumbnail-jpg-a5fbcbdd-ccf9-40f9-8e6d-7ae35aa168f3.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
           "author": "The Defiant Team",
           "description": "Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total crypto market value declined even as bitcoin rose.",
@@ -1459,51 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d936763f4ae05edfa547477566c7d8737f3bf56-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/flap-overtakes-pump-fun-in-daily-revenue-with-1-18-million",
-          "author": "The Defiant Team",
-          "description": "The BNB Chain launchpad's fees grew 40x in two weeks, making it the second BNB Chain platform to flip the Solana incumbent.",
-          "link": "https://thedefiant.io/news/defi/flap-overtakes-pump-fun-in-daily-revenue-with-1-18-million",
-          "publishedOn": "2026-08-03T18:38:54.000Z",
-          "wordCount": null,
-          "title": "Flap Overtakes Pump.fun in Daily Revenue With $1.18 Million",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fb7e385f8cd707feffd2ff8301e06cc14a57426b-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fb7e385f8cd707feffd2ff8301e06cc14a57426b-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/dex-spot-volume-hit-a-record-24-of-cex-volume-in-july",
-          "author": "The Defiant Team",
-          "description": "Decentralized exchanges took their largest share of spot trading since tracking began in 2019 — in a month when overall volumes sank to a two-year low.",
-          "link": "https://thedefiant.io/news/defi/dex-spot-volume-hit-a-record-24-of-cex-volume-in-july",
-          "publishedOn": "2026-08-03T18:33:21.000Z",
-          "wordCount": null,
-          "title": "DEX Spot Volume Hit a Record 24% of CEX Volume in July",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/49e6e2f6767e691747e37e77d1768b26126050ae-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/49e6e2f6767e691747e37e77d1768b26126050ae-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/rwas-topped-half-of-hyperliquid-s-volume-for-two-straight-weeks-in-july",
-          "author": "The Defiant Team",
-          "description": "Perpetual futures tied to stocks, indexes and commodities out-traded crypto pairs on the largest perps DEX for the first time, less than a year after builder-deployed markets went live.",
-          "link": "https://thedefiant.io/news/markets/rwas-topped-half-of-hyperliquid-s-volume-for-two-straight-weeks-in-july",
-          "publishedOn": "2026-08-03T18:32:39.000Z",
-          "wordCount": null,
-          "title": "RWAs Topped Half of Hyperliquid's Volume for Two Straight Weeks in July",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c7048d2f751714e907802c6cdd927b79a4b7a55b-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c7048d2f751714e907802c6cdd927b79a4b7a55b-2048x1152.png"
         }
       ]
     }
