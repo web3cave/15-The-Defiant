@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T18:44:32.974Z</id>
+    <id>urn:2026-08-26T21:24:17.101Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-26T18:44:32.974Z</updated>
+    <updated>2026-08-26T21:24:17.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-08-26T18:44:32.000Z</updated>
+        <updated>2026-08-26T21:24:16.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,18 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-08-26T18:44:32.000Z</updated>
+        <updated>2026-08-26T21:24:16.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Lightning Tells Node Operators To Go Offline, With No Patch Published]]></title>
+        <id>https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published</id>
+        <link href="https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published"/>
+        <updated>2026-08-26T20:07:46.000Z</updated>
+        <summary type="html"><![CDATA[The CLN team said operators who don’t upgrade should run their nodes --offline, but the fixed binaries aren’t out yet and the details of what they fix are under a two-week embargo.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield"/>
         <updated>2026-08-04T16:27:15.000Z</updated>
         <summary type="html"><![CDATA[EIP-8361 would deduct a rising share of every validator's rewards as the staking ratio climbs, cancelling consensus issuance outright at 50%. It landed two days before the deadline to propose EIPs for Hegotá, and the timing drew an objection within hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wells Fargo to Launch Tokenized Deposits for Corporate Clients This Fall]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026"/>
-        <updated>2026-08-04T16:10:28.000Z</updated>
-        <summary type="html"><![CDATA[The bank will start with a limited U.S. dollar-to-British pound corridor and widen it through 2027. It names neither the blockchain it is using nor whether the ledger is permissioned.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
