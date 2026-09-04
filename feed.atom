@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-04T18:38:15.400Z</id>
+    <id>urn:2026-09-04T21:06:34.685Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-04T18:38:15.400Z</updated>
+    <updated>2026-09-04T21:06:34.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-04T18:38:14.000Z</updated>
+        <updated>2026-09-04T21:06:33.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,28 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-04T18:38:14.000Z</updated>
+        <updated>2026-09-04T21:06:33.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Base Traffic Spike Crowded Robinhood Chain Out Of Ethereum's Blob Space]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-traffic-spike-crowded-robinhood-chain-out-of-ethereum-blob-space</id>
+        <link href="https://thedefiant.io/news/blockchains/base-traffic-spike-crowded-robinhood-chain-out-of-ethereum-blob-space"/>
+        <updated>2026-09-04T20:44:59.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Chain's batches stopped reaching Ethereum for 14 minutes across an 18-minute stretch on Friday, the longest single gap 8 minutes 36 seconds. Its own blocks never stopped.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August Payrolls Knock Bitcoin Off $81,000]]></title>
+        <id>https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000</id>
+        <link href="https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000"/>
+        <updated>2026-09-04T19:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin fell $1,430 in the five minutes after the Bureau of Labor Statistics reported 162,000 August jobs, five times the average of the prior year. Polymarket traders moved a quarter-point September rate increase from 39.5 cents to the majority outcome inside 15 minutes.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain"/>
         <updated>2026-08-17T15:52:20.000Z</updated>
         <summary type="html"><![CDATA[OpenRouter meters AI usage against prepaid deposits and charges 5% on crypto top-ups against 5.5% on card purchases made through Stripe. Stripe co-incubated Tempo to settle machine payments onchain; the chain is running at about one transaction per second.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum]]></title>
-        <id>https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale</id>
-        <link href="https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale"/>
-        <updated>2026-08-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The wallet maker says a flaw in an order-tracking plug-in leaked names, phone numbers and shipping addresses over 14 months. A seller is now advertising the file.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Clears First Full Audit From KPMG Without Publishing the Statements]]></title>
-        <id>https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements</id>
-        <link href="https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements"/>
-        <updated>2026-08-13T21:12:29.000Z</updated>
-        <summary type="html"><![CDATA[The Big Four firm issued an unqualified opinion on 2025 accounts for Tether's El Salvador issuing entity. The work was done to AICPA standards rather than the PCAOB standards the GENIUS Act sets for licensed U.S. issuers, and Tether has released neither the statements nor the opinion letter.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
