@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-04T21:06:34.685Z</id>
+    <id>urn:2026-09-04T23:29:52.519Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-04T21:06:34.685Z</updated>
+    <updated>2026-09-04T23:29:52.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-04T21:06:33.000Z</updated>
+        <updated>2026-09-04T23:29:51.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,18 +19,18 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-04T21:06:33.000Z</updated>
+        <updated>2026-09-04T23:29:51.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Base Traffic Spike Crowded Robinhood Chain Out Of Ethereum's Blob Space]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-traffic-spike-crowded-robinhood-chain-out-of-ethereum-blob-space</id>
-        <link href="https://thedefiant.io/news/blockchains/base-traffic-spike-crowded-robinhood-chain-out-of-ethereum-blob-space"/>
-        <updated>2026-09-04T20:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood Chain's batches stopped reaching Ethereum for 14 minutes across an 18-minute stretch on Friday, the longest single gap 8 minutes 36 seconds. Its own blocks never stopped.]]></summary>
+        <title type="html"><![CDATA[Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes]]></title>
+        <id>https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes</id>
+        <link href="https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes"/>
+        <updated>2026-09-04T21:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Blocks came every 101 milliseconds throughout the outage reported on Friday. The chain's transaction data went missing on Ethereum for exactly 14 minutes, across two gaps. Arbitrum blamed Ethereum's blob market, which fits the second gap and not the first.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
