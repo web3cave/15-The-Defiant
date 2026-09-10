@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-10T11:55:12.146Z</id>
+    <id>urn:2026-09-10T15:22:10.398Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-10T11:55:12.146Z</updated>
+    <updated>2026-09-10T15:22:10.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-10T11:55:11.000Z</updated>
+        <updated>2026-09-10T15:22:08.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,48 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-10T11:55:11.000Z</updated>
+        <updated>2026-09-10T15:22:08.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latitude Raises $35 Million For Local Stablecoin Off-Ramps]]></title>
+        <id>https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails</id>
+        <link href="https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails"/>
+        <updated>2026-09-10T14:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Oak HC/FT led the round with NEA, Coinbase Ventures, Lightspeed Faction and OpenFX participating, taking total funding to $43 million. Latitude's own site breaks its "45 U.S. markets" into 39 money transmission licences, one state registration and five no-action letters.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Bank Issues Its Own Stablecoin On Stellar]]></title>
+        <id>https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot</id>
+        <link href="https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot"/>
+        <updated>2026-09-10T14:14:04.000Z</updated>
+        <summary type="html"><![CDATA[The bank said Wednesday it moved value between its North American and European entities with USBDC, a dollar-backed token it issued on Stellar. The pilot tested minting, redemption, freezing and clawback. XLM trades at $0.18, down 3.1% on the day.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether And Fasanara Seed A $400 Million Private Credit Fund]]></title>
+        <id>https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund</id>
+        <link href="https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund"/>
+        <updated>2026-09-10T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[The evergreen fund opens with $400 million from the two sponsors and targets up to $3 billion from outside institutions. Fasanara manages the investments while Tether originates USDT-linked deals and runs settlement. USDT supply stands at $183.4 billion.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq Invests $100 Million in Kraken Parent Payward]]></title>
+        <id>https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward</id>
+        <link href="https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward"/>
+        <updated>2026-09-10T14:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq Ventures agreed to put $100 million into Kraken's parent company, at a $21 billion valuation according to Bloomberg, and Payward will adopt Nasdaq's surveillance technology across its trading venues.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine"/>
         <updated>2026-08-25T16:28:16.000Z</updated>
         <summary type="html"><![CDATA[The headless exchange routes 75% of post-venue trading fees into ZRO buybacks and burns, and pays trading venues rebates of up to 65%.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle Oracle Move Liquidates $36 Million]]></title>
-        <id>https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million</id>
-        <link href="https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million"/>
-        <updated>2026-08-25T16:19:44.000Z</updated>
-        <summary type="html"><![CDATA[A wallet bought yield tokens in a $9 million Pendle pool, pushing the principal token price down 2.8% and clearing out looped positions on a Morpho market carrying $52 million in borrows. No bad debt was incurred.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-X Product Chief Says Trade Buttons Coming]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming"/>
-        <updated>2026-08-25T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Nikita Bier left the role on Aug. 5. No X corporate account has ever announced a trading feature, and Bier said in February that the company is not handling trade execution.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains"/>
-        <updated>2026-08-24T21:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total crypto market value declined even as bitcoin rose.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Launches Tokenized Stocks On Base]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base"/>
-        <updated>2026-08-24T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Four tokens covering Nvidia, Apple, Meta and Alphabet went live for non-US users, with about $4.5 million minted and $3 million of DEX liquidity on day one. Chainlink price feeds run 24/5 while the tokens trade 24/7.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
