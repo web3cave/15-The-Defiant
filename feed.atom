@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-15T17:21:48.776Z</id>
+    <id>urn:2026-09-15T20:32:54.831Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-15T17:21:48.776Z</updated>
+    <updated>2026-09-15T20:32:54.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-15T17:21:47.000Z</updated>
+        <updated>2026-09-15T20:32:54.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,7 +19,7 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-15T17:21:47.000Z</updated>
+        <updated>2026-09-15T20:32:54.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -29,8 +29,28 @@
         <title type="html"><![CDATA[Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off]]></title>
         <id>https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026</id>
         <link href="https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026"/>
-        <updated>2026-09-15T17:21:47.000Z</updated>
+        <updated>2026-09-15T20:32:54.000Z</updated>
         <summary type="html"><![CDATA[One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed]]></title>
+        <id>https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed</id>
+        <link href="https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed"/>
+        <updated>2026-09-15T19:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Cloture on the motion to proceed to H.R. 3633 fell 11 votes short of the 60 it needed. All 49 votes to proceed came from Republicans. Collins, Hawley, Moran and Tillis voted no, and Tillis voted no to preserve the right to move to reconsider, which he did a minute after the result was announced.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0x Says Uniswap v4 Hooks Were A Mistake, Hayden Adams Says "Skill Issue"]]></title>
+        <id>https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue</id>
+        <link href="https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue"/>
+        <updated>2026-09-15T18:56:26.000Z</updated>
+        <summary type="html"><![CDATA[The DEX aggregator found 54.2% of the 84,163 hooks it analyzed were malicious. Uniswap's founder and Paradigm's Dan Robinson said the failure is in 0x's routing.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/strategy-restarts-bitcoin-buying-with-370-million-purchase"/>
         <updated>2026-08-31T16:06:15.000Z</updated>
         <summary type="html"><![CDATA[The company funded 4,603 BTC entirely with MSTR share-sale proceeds, leaving its $5.10 billion USD Reserve untouched for preferred dividends and debt interest.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fogo Mainnet Has Been Stopped For 46 Hours With No Restart Timeline]]></title>
-        <id>https://thedefiant.io/news/security/fogo-halts-mainnet-after-400-million-fogo-sent-to-bad-actor</id>
-        <link href="https://thedefiant.io/news/security/fogo-halts-mainnet-after-400-million-fogo-sent-to-bad-actor"/>
-        <updated>2026-08-31T15:10:24.000Z</updated>
-        <summary type="html"><![CDATA[The chain has produced no blocks since Saturday, the halt notice is still the Foundation's most recent update, and an impersonator account is circulating a fake compensation vote.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancer Warns Legacy V1 LPs to Exit After Pool-Draining Bug]]></title>
-        <id>https://thedefiant.io/news/defi/balancer-warns-legacy-v1-lps-to-exit-after-pool-draining-bug</id>
-        <link href="https://thedefiant.io/news/defi/balancer-warns-legacy-v1-lps-to-exit-after-pool-draining-bug"/>
-        <updated>2026-08-31T14:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Balancer said the deprecated pools are non-pausable, while SlowMist attributed a roughly $234,000 V1 drain to a fixed-point rounding flaw.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
