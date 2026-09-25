@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-25T00:58:59.091Z</id>
+    <id>urn:2026-09-25T05:49:29.973Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-25T00:58:59.091Z</updated>
+    <updated>2026-09-25T05:49:29.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Evercrest Files BC Civil Claim Against LayerZero and Pellegrino, CEO Says]]></title>
+        <title type="html"><![CDATA[Block Adds Bitcoin Lightning to x402 Standard]]></title>
+        <id>https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard</id>
+        <link href="https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard"/>
+        <updated>2026-09-25T02:55:22.000Z</updated>
+        <summary type="html"><![CDATA[The Lightning payment specification has been merged into x402’s repository, while a Python implementation still awaits review and real-node testing.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens]]></title>
+        <id>https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens</id>
+        <link href="https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens"/>
+        <updated>2026-09-25T02:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The draft keeps amounts confidential but preserves issuer enforcement powers, tackling requirements behind institutional interest in permissioned networks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenized-Stock Holder Count Reaches 4.3 Million, Led by BNB Chain]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stock-holder-count-reaches-4-3-million-led-by-bnb-chain</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stock-holder-count-reaches-4-3-million-led-by-bnb-chain"/>
+        <updated>2026-09-25T01:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Chain ranks second with 1.3 million holders, ahead of Solana’s 997,000, in Token Terminal’s latest update. The metric measures token balances, not distinct investors.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KelpDAO Files BC Civil Claim Against LayerZero]]></title>
         <id>https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says</id>
         <link href="https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says"/>
         <updated>2026-09-24T23:54:59.000Z</updated>
-        <summary type="html"><![CDATA[The LayerZero Labs CEO identified Evercrest as KelpDAO and called the claim 'meritless,' saying he would defend it in Vancouver.]]></summary>
+        <summary type="html"><![CDATA[LayerZero CEO Bryan Pellegrino says he is also named in the claim and calls it 'meritless,' promising to defend himself in Vancouver.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/spark-okx-usdt-savings-x-layer-integration"/>
         <updated>2026-09-11T14:50:50.000Z</updated>
         <summary type="html"><![CDATA[The exchange routes USDT deposits into a Spark vault on X Layer, OKX's own Layer 2 network, where the vault holds under $500 and Spark's risk reviewers noted the chain can be upgraded by its operator without delay.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockstream Rejects Ransom Demand After Liquid Bitcoin Exploit]]></title>
-        <id>https://thedefiant.io/news/security/blockstream-rejects-ransom-demand-after-liquid-bitcoin-exploit</id>
-        <link href="https://thedefiant.io/news/security/blockstream-rejects-ransom-demand-after-liquid-bitcoin-exploit"/>
-        <updated>2026-09-11T14:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Liquid said on Sept. 8 that 3,400 BTC had been returned and about 598.5 BTC remained outstanding; transactions later resumed with peg-outs disabled.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off]]></title>
-        <id>https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026</id>
-        <link href="https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026"/>
-        <updated>2026-09-10T20:02:00.000Z</updated>
-        <summary type="html"><![CDATA[One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Launches Dynamic Fees for Two Stable-Pair Pools]]></title>
-        <id>https://thedefiant.io/news/defi/uniswap-launches-dynamic-fees-for-two-stable-pair-pools</id>
-        <link href="https://thedefiant.io/news/defi/uniswap-launches-dynamic-fees-for-two-stable-pair-pools"/>
-        <updated>2026-09-10T18:38:44.000Z</updated>
-        <summary type="html"><![CDATA[The two Ethereum launch pools pair USDC with USDT and USDG; corrective trades outside the price band face a fee that falls each block.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
