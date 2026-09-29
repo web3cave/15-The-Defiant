@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T00:41:29.022Z</id>
+    <id>urn:2026-09-29T06:21:07.165Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-29T00:41:29.022Z</updated>
+    <updated>2026-09-29T06:21:07.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Wins CFTC Approval for In-House Derivatives Clearing]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing"/>
+        <updated>2026-09-29T01:23:54.000Z</updated>
+        <summary type="html"><![CDATA[The new clearinghouse can handle fully collateralized contracts; Coinbase will keep outside partners for margined futures and planned single-stock perpetuals.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ]]></title>
         <id>https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push"/>
         <updated>2026-09-17T17:25:00.000Z</updated>
         <summary type="html"><![CDATA[The smart contract security firm will retain its name and audit team as S&P expands from financial risk assessments into onchain technology risk.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents]]></title>
-        <id>https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges</id>
-        <link href="https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges"/>
-        <updated>2026-09-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Agentic Detection, live Thursday in Messari Monitoring, lets a listings or compliance desk take a development the moment Blockworks' agents find it, before an analyst has checked it. Every alert carries a tag saying whether an agent or an analyst produced it.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
