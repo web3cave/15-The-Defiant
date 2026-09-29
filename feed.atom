@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T06:21:07.165Z</id>
+    <id>urn:2026-09-29T13:29:53.747Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-29T06:21:07.165Z</updated>
+    <updated>2026-09-29T13:29:53.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethlabs Says CCIP 2.0 Cuts Ethereum Confirmation Wait to Seconds]]></title>
+        <id>https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds</id>
+        <link href="https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds"/>
+        <updated>2026-09-29T06:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Faster transfers require opt-in settings, while Ethereum’s full-finality guarantees and CCIP’s default wait remain unchanged.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Wins CFTC Approval for In-House Derivatives Clearing]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing</id>
@@ -60,7 +70,7 @@
         <id>https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation</id>
         <link href="https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation"/>
         <updated>2026-09-28T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Records show 344,780 COMP increased the Foundation’s voting power before a $52 million V4 budget vote. The proposal had enough support to pass without those tokens.]]></summary>
+        <summary type="html"><![CDATA[Records show 344,780 COMP took the proposal’s supporters from 45.1% to 50.1% of delegated voting power before the $52 million V4 budget vote. No one voted against it.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/world-rolls-out-money-app-as-key-features-remain-country-limited"/>
         <updated>2026-09-17T19:14:00.000Z</updated>
         <summary type="html"><![CDATA[The self-custodial app combines Bridge-linked accounts and Morpho lending, but availability, eligibility and third-party providers vary by jurisdiction.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P Global to Acquire OpenZeppelin in Onchain Risk Push]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push"/>
-        <updated>2026-09-17T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The smart contract security firm will retain its name and audit team as S&P expands from financial risk assessments into onchain technology risk.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

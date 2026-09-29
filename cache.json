@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds",
+          "author": "The Defiant Team",
+          "description": "Faster transfers require opt-in settings, while Ethereum’s full-finality guarantees and CCIP’s default wait remain unchanged.",
+          "link": "https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds",
+          "publishedOn": "2026-09-29T06:26:21.000Z",
+          "wordCount": null,
+          "title": "Ethlabs Says CCIP 2.0 Cuts Ethereum Confirmation Wait to Seconds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37927ea1948ee57cbf96f4362ad8644887159eb6-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37927ea1948ee57cbf96f4362ad8644887159eb6-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing",
           "author": "The Defiant Team",
           "description": "The new clearinghouse can handle fully collateralized contracts; Coinbase will keep outside partners for margined futures and planned single-stock perpetuals.",
@@ -83,7 +98,7 @@
         {
           "id": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
           "author": "The Defiant Team",
-          "description": "Records show 344,780 COMP increased the Foundation’s voting power before a $52 million V4 budget vote. The proposal had enough support to pass without those tokens.",
+          "description": "Records show 344,780 COMP took the proposal’s supporters from 45.1% to 50.1% of delegated voting power before the $52 million V4 budget vote. No one voted against it.",
           "link": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
           "publishedOn": "2026-09-28T18:00:52.000Z",
           "wordCount": null,
@@ -1489,21 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/afa2b68252df9d8c028814f8cddc698cdd672939-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push",
-          "author": "The Defiant Team",
-          "description": "The smart contract security firm will retain its name and audit team as S&P expands from financial risk assessments into onchain technology risk.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push",
-          "publishedOn": "2026-09-17T17:25:00.000Z",
-          "wordCount": null,
-          "title": "S&P Global to Acquire OpenZeppelin in Onchain Risk Push",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/370e8e7024d4407a1182c40506769f37324b13aa-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/370e8e7024d4407a1182c40506769f37324b13aa-2048x1152.png"
         }
       ]
     }
