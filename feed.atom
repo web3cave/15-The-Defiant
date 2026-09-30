@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T22:47:22.463Z</id>
+    <id>urn:2026-09-30T01:42:14.889Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-29T22:47:22.463Z</updated>
+    <updated>2026-09-30T01:42:14.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Begins US Crypto Perps Rollout With Up to 10x Leverage]]></title>
+        <id>https://thedefiant.io/news/cefi/robinhood-begins-us-crypto-perps-rollout-with-up-to-10x-leverage</id>
+        <link href="https://thedefiant.io/news/cefi/robinhood-begins-us-crypto-perps-rollout-with-up-to-10x-leverage"/>
+        <updated>2026-09-29T23:30:02.000Z</updated>
+        <summary type="html"><![CDATA[The eight-contract lineup offers no-expiry trading through Robinhood Derivatives and Bitstamp, with broader access planned in the coming months.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock Sees Stablecoins Powering AI Agent Payments]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout"/>
         <updated>2026-09-18T17:26:22.000Z</updated>
         <summary type="html"><![CDATA[Strata scheduled a 48-hour valuation update that would write jrNUSD to zero while withdrawals from its senior tranche settle in sNUSD at revised share values.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Seeks CFTC Approval for US Single-Stock Perpetual Futures]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-seeks-cftc-approval-for-us-single-stock-perpetual-futures</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-seeks-cftc-approval-for-us-single-stock-perpetual-futures"/>
-        <updated>2026-09-18T17:01:54.000Z</updated>
-        <summary type="html"><![CDATA[The contracts would trade 24/5 on Coinbase Derivatives, use hourly funding and clear through Nodal Clear, but the CFTC filing remains pending.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
