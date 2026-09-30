@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-30T07:37:14.052Z</id>
+    <id>urn:2026-09-30T14:20:40.587Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-30T07:37:14.052Z</updated>
+    <updated>2026-09-30T14:20:40.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gate: Same-Name Error Triggers Liquidations in Perp Market]]></title>
+        <id>https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment</id>
+        <link href="https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment"/>
+        <updated>2026-09-30T10:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Two self-identified Gate managers said a same-name asset error affected 200 accounts and that balance displays were being restored.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Announces Visa Direct Integration for Bank and Mobile Wallet Payouts]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/stable-announces-visa-direct-integration-for-bank-and-mobile-wallet-payouts</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/stable-announces-visa-direct-integration-for-bank-and-mobile-wallet-payouts"/>
+        <updated>2026-09-30T10:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Visa previously announced stablecoin funding and payout pilots; Stable has not specified when its connection will be available or which markets it will cover.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HSBC Names Hong Kong Stablecoin 'RedCoin' Ahead of Retail Rollout]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout"/>
+        <updated>2026-09-30T10:04:27.000Z</updated>
+        <summary type="html"><![CDATA[The Hong Kong dollar token is planned for the second half of 2026, with initial distribution limited to PayMe and the HSBC HK Mobile App.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard Chartered Initiates ENA Coverage With $2 Target]]></title>
+        <id>https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target</id>
+        <link href="https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target"/>
+        <updated>2026-09-30T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Standard Chartered forecasts a 7x gain by end-2028 on the strength of Ethena's buyback program. The buyback switches on when USDe supply reaches $7.5 billion; USDe sits at $4.9 billion.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi Files to End Volume Incentive Program]]></title>
         <id>https://thedefiant.io/news/cefi/kalshi-files-to-end-volume-incentive-program</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/zetachain-votes-to-wind-down-layer-1-and-move-zeta-to-solana"/>
         <updated>2026-09-21T21:10:43.000Z</updated>
         <summary type="html"><![CDATA[Proposal 68 passed with 99.4% support and 58% participation, but exchanges must confirm the swap before a second vote sets the snapshot, claims and shutdown schedule.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Opens IPO Allocations to US Retail Investors With Oura]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-opens-ipo-allocations-to-us-retail-investors-with-oura</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-opens-ipo-allocations-to-us-retail-investors-with-oura"/>
-        <updated>2026-09-21T21:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Eligible US customers can request shares at the offer price before trading begins, but allocations depend on supply from underwriters and investor demand.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCC Gives Catena Preliminary Conditional Approval for National Trust Bank]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/occ-gives-catena-preliminary-conditional-approval-for-national-trust-bank</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/occ-gives-catena-preliminary-conditional-approval-for-national-trust-bank"/>
-        <updated>2026-09-21T21:00:08.000Z</updated>
-        <summary type="html"><![CDATA[The proposed bank could custody and manage fiat, securities and digital assets, but Catena must meet capital, liquidity and preopening requirements before it can operate.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Opens Bitcoin-Backed USDC Borrowing To Mint Clients, Routed Through Morpho]]></title>
-        <id>https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho</id>
-        <link href="https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho"/>
-        <updated>2026-09-21T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The cirBTC market on Arc holds $14.3 million of USDC borrowed against 287 cirBTC, up from $1.37 million on Sept. 17. Galaxy and Keyrock supply nearly all the dollars. Circle issues the wrapper and the wallet; the loan terms sit with Morpho.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Size Dominates Kalshi's ETH Perp Volume]]></title>
-        <id>https://thedefiant.io/news/cefi/one-size-dominates-kalshi-eth-perp-volume</id>
-        <link href="https://thedefiant.io/news/cefi/one-size-dominates-kalshi-eth-perp-volume"/>
-        <updated>2026-09-21T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the dollar volume in the exchange's ether perpetual futures comes from trades of a single repeating size, data from Kalshi's own public API shows. The exchange says its incentive programs are filed publicly.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
