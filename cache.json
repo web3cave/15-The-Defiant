@@ -6,6 +6,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
+          "author": "The Defiant Team",
+          "description": "Redeeming burns the tokens and ends their claim on future deposits. Holders can instead wait for revenue-funded recovery or sell their DFX.",
+          "link": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
+          "publishedOn": "2026-10-01T16:14:14.000Z",
+          "wordCount": null,
+          "title": "Drift Opens DFX Claims With Recovery Pool Covering About 1% of Losses",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee5543e6889c6710d4b15093ba35709511e28a8a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee5543e6889c6710d4b15093ba35709511e28a8a-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
+          "author": "The Defiant Team",
+          "description": "Holders must open a 180-day lock and cast governance votes to claim rewards, with no fixed payout rate.",
+          "link": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
+          "publishedOn": "2026-10-01T14:16:01.000Z",
+          "wordCount": null,
+          "title": "World Liberty Launches WLFI Staking, Plans $1.25M USD1 Pool",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server",
+          "author": "The Defiant Team",
+          "description": "A hosted Model Context Protocol server gives ChatGPT, Claude and Cursor read access to the datasets behind Blockworks research and its Intel app. It comes with every API plan at no extra cost, on the same key and the same permissions.",
+          "link": "https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server",
+          "publishedOn": "2026-10-01T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Blockworks Opens Its Full Dataset To AI Agents",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cbcdf410d66d8ae821cb2d28e47170a5df5e3121-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbcdf410d66d8ae821cb2d28e47170a5df5e3121-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss",
+          "author": "The Defiant Team",
+          "description": "The protocol pledged full compensation and said deposits and withdrawals on 11 networks would face a longer suspension while infrastructure repairs continue.",
+          "link": "https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss",
+          "publishedOn": "2026-10-01T13:41:34.000Z",
+          "wordCount": null,
+          "title": "NEAR Intents Halts Services, Reports $3.8 Million Loss",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a179e383cd478f9b33a6661eeb7b6f14cc46f372-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a179e383cd478f9b33a6661eeb7b6f14cc46f372-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
+          "author": "The Defiant Team",
+          "description": "The authors plan a separate issuance-policy process, naming Lido among those offering to help after objections over validator economics and how the change was being considered.",
+          "link": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
+          "publishedOn": "2026-10-01T09:41:48.000Z",
+          "wordCount": null,
+          "title": "Authors Pull Ethereum Staking Reward Burn From Hegotá",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ce94767eeac1a8dfcbd652507bc3e7b3548d1a9-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ce94767eeac1a8dfcbd652507bc3e7b3548d1a9-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
           "author": "The Defiant Team",
           "description": "Judge Jennifer Rochon ruled that six months of memecoin launches cannot sustain a RICO claim, and that plaintiffs never pleaded Meteora as an entity capable of being sued.",
@@ -68,7 +143,7 @@
         {
           "id": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
           "author": "The Defiant Team",
-          "description": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally.",
+          "description": "MetaMask says its investigation has found no indication that wallets or customer funds were affected. Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days.",
           "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
           "publishedOn": "2026-10-01T00:00:43.000Z",
           "wordCount": null,
@@ -1429,81 +1504,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a7173fe7d692ce1e8a8100671d44098845f112a9-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
-          "author": "The Defiant Team",
-          "description": "Points distributions will continue at 150,000 a week until launch, while team and investor tokens face a 12-month lock.",
-          "link": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
-          "publishedOn": "2026-09-24T02:44:47.000Z",
-          "wordCount": null,
-          "title": "Variational Sets Q4 VAR Launch With 32% Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c1289da7287950f0bff5d3ba884bf26af95f7ea-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3c1289da7287950f0bff5d3ba884bf26af95f7ea-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
-          "author": "The Defiant Team",
-          "description": "Total crypto market value fell 2.27% to $2.96 trillion. XRP dropped 5.8%, Dogecoin 8.3% and Hedera 9.9%, and Uniswap gave back the entire spike it took on Tuesday's CME listing. Perpetual funding at OKX turned negative on both the bitcoin and ether swaps. U.S. equities and gold closed lower",
-          "link": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
-          "publishedOn": "2026-09-23T21:20:51.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1790198425558-png-6b1e98aa-44ac-4961-8ad4-6a7893e22c5c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1790198425558-png-6b1e98aa-44ac-4961-8ad4-6a7893e22c5c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
-          "author": "The Defiant Team",
-          "description": "The physically backed product trades in Paris and Amsterdam, while a 3:42 p.m. ET chain snapshot put shielded ZEC at 29% of supply.",
-          "link": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
-          "publishedOn": "2026-09-23T19:55:11.000Z",
-          "wordCount": null,
-          "title": "Zcash Clears $1,600 After 21Shares Launches European ETP",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f74e85f57361afb9dfa011df3f0657d621ac0430-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f74e85f57361afb9dfa011df3f0657d621ac0430-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
-          "author": "The Defiant Team",
-          "description": "The Hub produced no blocks for 24 hours and 48 minutes. The attacker bought voting power for 20,199 USDC and staked it 12 minutes before an expedited Neutron proposal closed.",
-          "link": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
-          "publishedOn": "2026-09-23T19:54:30.000Z",
-          "wordCount": null,
-          "title": "Cosmos Hub Restarts; 1.23 Million ATOM Moved From Neutron Attacker Wallet",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/66c72ba149d8fedd923f85d61b4260468f3e13e1-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66c72ba149d8fedd923f85d61b4260468f3e13e1-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou",
-          "author": "The Defiant Team",
-          "description": "Optimism’s X post names a tokenized bond as the first product, while its same-day blog names two tokenized funds. Korea’s first regulatory phase starts in February 2027.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou",
-          "publishedOn": "2026-09-23T19:10:14.000Z",
-          "wordCount": null,
-          "title": "KB Securities, Securitize and Optimism Sign Exploratory Korea Tokenization MOU",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/42f9e1b1d80b1738f28c4bcea3e50200aef261e7-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/42f9e1b1d80b1738f28c4bcea3e50200aef261e7-2048x1152.png"
         }
       ]
     }
