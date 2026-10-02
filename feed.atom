@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T19:37:12.394Z</id>
+    <id>urn:2026-10-02T23:22:24.389Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T19:37:12.394Z</updated>
+    <updated>2026-10-02T23:22:24.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts]]></title>
+        <id>https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts</id>
+        <link href="https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts"/>
+        <updated>2026-10-02T23:10:02.000Z</updated>
+        <summary type="html"><![CDATA[The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose injunction terms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Pauses New Stylus Activations in Emergency Security Action]]></title>
+        <id>https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action</id>
+        <link href="https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action"/>
+        <updated>2026-10-02T21:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Active contracts can still run and renew, while a new BoLD guard could delay unconfirmed withdrawals if contradictory proofs are accepted.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICBA Sues OCC Over Crypto Trust Charters]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters"/>
+        <updated>2026-10-02T21:45:44.000Z</updated>
+        <summary type="html"><![CDATA[The complaint targets Protego’s conditional approval and seeks to stop the agency from granting charters under its disputed rule and guidance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation Introduces zkAPI for Private API Payments]]></title>
         <id>https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass"/>
         <updated>2026-09-25T14:42:01.000Z</updated>
         <summary type="html"><![CDATA[CoinGlass says it will keep operating independently, with its brand, website, app, API and pricing unchanged.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins]]></title>
-        <id>https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins</id>
-        <link href="https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins"/>
-        <updated>2026-09-25T14:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block Adds Bitcoin Lightning to x402 Standard]]></title>
-        <id>https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard</id>
-        <link href="https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard"/>
-        <updated>2026-09-25T02:55:22.000Z</updated>
-        <summary type="html"><![CDATA[The Lightning payment specification has been merged into x402’s repository, while a Python implementation still awaits review and real-node testing.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens]]></title>
-        <id>https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens</id>
-        <link href="https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens"/>
-        <updated>2026-09-25T02:26:19.000Z</updated>
-        <summary type="html"><![CDATA[The draft keeps amounts confidential but preserves issuer enforcement powers, tackling requirements behind institutional interest in permissioned networks.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

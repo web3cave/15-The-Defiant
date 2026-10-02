@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
+          "author": "The Defiant Team",
+          "description": "The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose injunction terms.",
+          "link": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
+          "publishedOn": "2026-10-02T23:10:02.000Z",
+          "wordCount": 3769,
+          "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
+          "author": "The Defiant Team",
+          "description": "Active contracts can still run and renew, while a new BoLD guard could delay unconfirmed withdrawals if contradictory proofs are accepted.",
+          "link": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
+          "publishedOn": "2026-10-02T21:46:54.000Z",
+          "wordCount": null,
+          "title": "Arbitrum Pauses New Stylus Activations in Emergency Security Action",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters",
+          "author": "The Defiant Team",
+          "description": "The complaint targets Protego’s conditional approval and seeks to stop the agency from granting charters under its disputed rule and guidance.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters",
+          "publishedOn": "2026-10-02T21:45:44.000Z",
+          "wordCount": null,
+          "title": "ICBA Sues OCC Over Crypto Trust Charters",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cabebc59c184f5577039b92e30715b0824b1a2ce-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cabebc59c184f5577039b92e30715b0824b1a2ce-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
           "author": "The Defiant Team",
           "description": "OA Chat supports the prepaid tool, which separates billing from requests but does not conceal prompts from AI providers.",
@@ -26,7 +71,7 @@
           "description": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.",
           "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
           "publishedOn": "2026-10-02T17:17:20.000Z",
-          "wordCount": 3743,
+          "wordCount": 3749,
           "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f432d6c1bb500d2267f6689414e92e0cde7ea422-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -386,7 +431,7 @@
           "description": "Judge Jennifer Rochon ruled that six months of memecoin launches cannot sustain a RICO claim, and that plaintiffs never pleaded Meteora as an entity capable of being sued.",
           "link": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
           "publishedOn": "2026-10-01T08:36:54.000Z",
-          "wordCount": 3865,
+          "wordCount": 3871,
           "title": "Judge Dismisses LIBRA and M3M3 Class Action With Prejudice",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f398a280d24ccda89f070944bb89bc85a714ef4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -461,7 +506,7 @@
           "description": "Chainalysis says the wallets’ counterparties had exposure to laundering networks used by Mexican and Colombian cartels and Venezuelan launderers.",
           "link": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
           "publishedOn": "2026-09-30T21:29:30.000Z",
-          "wordCount": 3736,
+          "wordCount": 3742,
           "title": "OFAC Sanctions Tren de Aragua ATM Network, Lists Seven Tron Addresses",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a91fd14c7cc424f191a7dcd964193a7209167ef1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -491,7 +536,7 @@
           "description": "The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting loss harvesting.",
           "link": "https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules",
           "publishedOn": "2026-09-30T19:29:57.000Z",
-          "wordCount": 3715,
+          "wordCount": 3760,
           "title": "Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b633b94cf71fab07ebd78ef782a42489e791e224-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -506,7 +551,7 @@
           "description": "Existing firms that apply by Feb. 28, 2027 can keep taking new business if their applications are still pending when the regime starts on Oct. 25.",
           "link": "https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime",
           "publishedOn": "2026-09-30T19:27:02.000Z",
-          "wordCount": 3753,
+          "wordCount": 3759,
           "title": "UK FCA Opens Crypto Authorization Window Ahead of 2027 Regime",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d1b6e66be0f129653c5acec9f98be485ff822ad-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -836,7 +881,7 @@
           "description": "Two New York lawsuits allege investors were shown fictitious profits and pressed for more money when they tried to withdraw.",
           "link": "https://thedefiant.io/news/regulation/sec-sues-cryptoaiml-and-tsai-over-alleged-15-million-ai-trading-scams",
           "publishedOn": "2026-09-29T20:05:34.000Z",
-          "wordCount": 3768,
+          "wordCount": 3774,
           "title": "SEC Sues Cryptoaiml and TSAI Over Alleged $15 Million AI Trading Scams",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/46e1cbac495f08e4dbf8d940076b4bad89a961c8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -896,7 +941,7 @@
           "description": "Comer is seeking identity-verification and suspicious-trading records from Hyperliquid Labs, Crypto.com and PredictIt owner Aristotle Exchange.",
           "link": "https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid",
           "publishedOn": "2026-09-29T15:31:30.000Z",
-          "wordCount": 3652,
+          "wordCount": 3658,
           "title": "House Oversight Expands Prediction-Market Probe to Hyperliquid",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d946d2501c7d2be35d9ee332143db07140bbc2f0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1001,7 +1046,7 @@
           "description": "The Sept. 25 answer referred only to a system’s functionality. The revised wording makes the absence of centralized control an explicit condition.",
           "link": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
           "publishedOn": "2026-09-28T20:50:00.000Z",
-          "wordCount": 3751,
+          "wordCount": 3752,
           "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b515c12877b648ce8e8951bacfe88f375e0fda38-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1076,7 +1121,7 @@
           "description": "A Senate minority report released the same day found USDT dominated activity in 84% of 846 Iran- and proxy-linked wallets it studied.",
           "link": "https://thedefiant.io/news/regulation/tether-says-it-helped-freeze-nearly-550-million-in-iran-linked-usdt",
           "publishedOn": "2026-09-28T17:46:20.000Z",
-          "wordCount": 3739,
+          "wordCount": 3745,
           "title": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/52a700f3586836f2db08fa524eec62c65c7bcfbc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1316,7 +1361,7 @@
           "description": "The regulator wants the EU to examine rules for DeFi gateways, with leverage caps and certification of lending protocols among the options.",
           "link": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
           "publishedOn": "2026-09-25T20:50:59.000Z",
-          "wordCount": 3745,
+          "wordCount": 3751,
           "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ddb37ee0db16d60a2d83eeebb692d8773640e9d0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1361,7 +1406,7 @@
           "description": "Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding.",
           "link": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
           "publishedOn": "2026-09-25T20:14:02.000Z",
-          "wordCount": 3734,
+          "wordCount": 3740,
           "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2be7174737689cabfa0343e3e1d6207aeb410bf5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e1baa7a8066c60849167dbabb5919d69cb3b5ca4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
-          "author": "The Defiant Team",
-          "description": "Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.",
-          "link": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
-          "publishedOn": "2026-09-25T14:20:39.000Z",
-          "wordCount": null,
-          "title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c435e4acd13e6bdfedfbcdec1268437a294525e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3c435e4acd13e6bdfedfbcdec1268437a294525e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
-          "author": "The Defiant Team",
-          "description": "The Lightning payment specification has been merged into x402’s repository, while a Python implementation still awaits review and real-node testing.",
-          "link": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
-          "publishedOn": "2026-09-25T02:55:22.000Z",
-          "wordCount": null,
-          "title": "Block Adds Bitcoin Lightning to x402 Standard",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c3d6ea8580724b95a87e7caf022001fb88952c2e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c3d6ea8580724b95a87e7caf022001fb88952c2e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
-          "author": "The Defiant Team",
-          "description": "The draft keeps amounts confidential but preserves issuer enforcement powers, tackling requirements behind institutional interest in permissioned networks.",
-          "link": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
-          "publishedOn": "2026-09-25T02:26:19.000Z",
-          "wordCount": null,
-          "title": "Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/421544a292501ea6f88ae6bc527683cd30f04d46-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/421544a292501ea6f88ae6bc527683cd30f04d46-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
