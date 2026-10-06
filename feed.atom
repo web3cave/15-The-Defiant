@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T19:10:39.317Z</id>
+    <id>urn:2026-10-06T23:24:20.902Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-06T19:10:39.317Z</updated>
+    <updated>2026-10-06T23:24:20.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Launches US 500 Perpetual Future With No Expiration]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration"/>
+        <updated>2026-10-06T21:59:32.000Z</updated>
+        <summary type="html"><![CDATA[The stock-index contract uses daily funding payments and futures-account collateral; Kalshi displayed maximum leverage of 15.3 times on launch day.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Launches 15-Minute And Hourly Crypto Price Markets]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets"/>
+        <updated>2026-10-06T21:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase added short-dated up-or-down contracts on bitcoin, ether and eight other tokens to its prediction markets on Tuesday. Kalshi lists the contracts and already runs the same 15-minute markets on its own exchange.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstract to Shut Down Ethereum Layer 2 on Dec. 15]]></title>
+        <id>https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15</id>
+        <link href="https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15"/>
+        <updated>2026-10-06T20:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conduit Sues Tether Over $2.76 Million in Frozen USDT]]></title>
+        <id>https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt</id>
+        <link href="https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt"/>
+        <updated>2026-10-06T19:19:43.000Z</updated>
+        <summary type="html"><![CDATA[The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winklevoss Files for Zcash ETF With 0.25% Fee]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee"/>
+        <updated>2026-10-06T19:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Winklevoss Capital Fund has indicated interest in buying up to $100 million of shares, but the potential purchase is nonbinding.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher</id>
@@ -41,6 +91,16 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank"/>
         <updated>2026-10-06T15:27:34.000Z</updated>
         <summary type="html"><![CDATA[The planned bank would take over issuance and reserves from Agora’s Bermuda entity, but must meet capital, liquidity and compliance conditions before opening.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenized Stocks Grew 395% in a Year While DeFi Use Stayed Under 3%]]></title>
+        <id>https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps</id>
+        <link href="https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps"/>
+        <updated>2026-10-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RedStone's report puts lending collateral at roughly $81 million against $3.17 billion of supply, with leveraged equity exposure onchain sitting almost entirely in perpetual futures]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/balancer-sets-shutdown-dates-after-bal-holders-approve-wind-down"/>
         <updated>2026-09-29T19:13:04.000Z</updated>
         <summary type="html"><![CDATA[About $52.4 million remains in V2 and V3 pools. Withdrawals will stay open, while treasury redemptions are scheduled to begin in May 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancer Holders Approve Wind-Down, Reject Official Fork]]></title>
-        <id>https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork</id>
-        <link href="https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork"/>
-        <updated>2026-09-29T19:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Pausable pools begin moving to withdrawals-only on Oct. 30, while BAL holders can redeem for treasury assets starting at the end of May 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption"/>
-        <updated>2026-09-29T17:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Uphold today releases research which reveals that 75% of American banks have blockchain finance programmes underway: 22% have projects that are live or scaling, while an additional 53% are piloting or assessing specific use cases.]]></summary>
-        <author>
-            <name>BTC Wire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House Oversight Expands Prediction-Market Probe to Hyperliquid]]></title>
-        <id>https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid</id>
-        <link href="https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid"/>
-        <updated>2026-09-29T15:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Comer is seeking identity-verification and suspicious-trading records from Hyperliquid Labs, Crypto.com and PredictIt owner Aristotle Exchange.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Adds HYPE and ZEC as Collateral for Loans of Up to $100,000]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000"/>
-        <updated>2026-09-29T15:15:13.000Z</updated>
-        <summary type="html"><![CDATA[The Morpho-powered borrowing product runs on Base and is available to eligible US users outside New York.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sentora Seeks Aave V4 Markets With 50% Revenue Share for DAO]]></title>
-        <id>https://thedefiant.io/news/defi/sentora-seeks-aave-v4-markets-with-50-revenue-share-for-dao</id>
-        <link href="https://thedefiant.io/news/defi/sentora-seeks-aave-v4-markets-with-50-revenue-share-for-dao"/>
-        <updated>2026-09-29T14:10:13.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum instance would lend RLUSD, PYUSD and OUSD, with Sentora controlling risk outside the mandate of Aave's risk service providers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modveon Unveils El Salvador’s Sivar App for Dollar Transfers on Base]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/modveon-unveils-el-salvador-s-sivar-app-for-dollar-transfers-on-base</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/modveon-unveils-el-salvador-s-sivar-app-for-dollar-transfers-on-base"/>
-        <updated>2026-09-29T14:04:53.000Z</updated>
-        <summary type="html"><![CDATA[The government-backed app uses self-custodial wallets. Its $2 cross-border processing fee is separate from funding and cash-withdrawal charges.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
