@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-08T09:37:53.722Z</id>
+    <id>urn:2026-10-08T17:02:18.117Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-08T09:37:53.722Z</updated>
+    <updated>2026-10-08T17:02:18.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Bridges Adopt Fast Confirmation for Ethereum Deposits]]></title>
+        <id>https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits</id>
+        <link href="https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits"/>
+        <updated>2026-10-08T16:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Users and apps need no changes, but the faster processing relies on different security guarantees from Ethereum finality.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astroport Ends Tokenholder Governance on Neutron and Terra]]></title>
+        <id>https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra</id>
+        <link href="https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra"/>
+        <updated>2026-10-08T15:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Contributors will run the protocol through DAO DAO organizations, while vxASTRO holders retain the normal unlock process and ASTRO emissions go to zero.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallet Shifts 150 Million USDT From Aave to Spark Savings]]></title>
+        <id>https://thedefiant.io/news/defi/wallet-shifts-150-million-usdt-from-aave-to-spark-savings</id>
+        <link href="https://thedefiant.io/news/defi/wallet-shifts-150-million-usdt-from-aave-to-spark-savings"/>
+        <updated>2026-10-08T15:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Aave’s Ethereum USDT reserve showed $169.54 million in available liquidity on Oct. 8, after withdrawals coincided with double-digit borrowing rates.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glassnode Co-Founder Counts 6.26 Million BTC With Exposed Public Keys]]></title>
+        <id>https://thedefiant.io/news/security/glassnode-co-founder-counts-6-26-million-btc-with-exposed-public-keys</id>
+        <link href="https://thedefiant.io/news/security/glassnode-co-founder-counts-6-26-million-btc-with-exposed-public-keys"/>
+        <updated>2026-10-08T15:11:08.000Z</updated>
+        <summary type="html"><![CDATA[The exposed balance has risen by 222,000 BTC since May, while total Bitcoin supply grew by 64,000 BTC.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Foundation Spins Out Veridian With Tokenized Equity]]></title>
+        <id>https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity</id>
+        <link href="https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity"/>
+        <updated>2026-10-08T15:10:30.000Z</updated>
+        <summary type="html"><![CDATA[The digital identity company plans to seek strategic partners and investors in 2027, while Foundation executives retain board roles.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana"/>
+        <updated>2026-10-08T15:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Eligible US and EU investors can access share-backed tokens through Securitize’s broker-dealer platform; trading on NYSE and OKXICE venues remains planned.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE]]></title>
         <id>https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers"/>
         <updated>2026-09-30T19:53:45.000Z</updated>
         <summary type="html"><![CDATA[OUSD is already available across Uniswap's protocol, apps and API, while the planned rewards mechanism awaits its full design.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules]]></title>
-        <id>https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules</id>
-        <link href="https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules"/>
-        <updated>2026-09-30T19:29:57.000Z</updated>
-        <summary type="html"><![CDATA[The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting loss harvesting.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK FCA Opens Crypto Authorization Window Ahead of 2027 Regime]]></title>
-        <id>https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime</id>
-        <link href="https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime"/>
-        <updated>2026-09-30T19:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Existing firms that apply by Feb. 28, 2027 can keep taking new business if their applications are still pending when the regime starts on Oct. 25.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Ships Cobalt With Conditional Transactions And A Seize Function]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function</id>
-        <link href="https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function"/>
-        <updated>2026-09-30T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[The year's third Base upgrade lets traders submit transactions that stay dormant until price or block conditions are met, and adds three changes to the B20 token standard behind Coinbase's tokenized stocks. Base's documentation for the new transaction method lists it as running on test networks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arc Packages USDC Funding and Morpho Lending for Apps]]></title>
-        <id>https://thedefiant.io/news/defi/arc-packages-usdc-funding-and-morpho-lending-for-apps</id>
-        <link href="https://thedefiant.io/news/defi/arc-packages-usdc-funding-and-morpho-lending-for-apps"/>
-        <updated>2026-09-30T18:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Borrow Kit lets apps offer cirBTC-backed loans, while Onramp purchases require provider identity checks and regional eligibility.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Unveils Fulcrum for Cross-Chain Institutional Repo]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/chainlink-unveils-fulcrum-for-cross-chain-institutional-repo</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/chainlink-unveils-fulcrum-for-cross-chain-institutional-repo"/>
-        <updated>2026-09-30T18:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink demonstrated the financing workflow with DTCC at Sibos, while integrations with financing venues remain under way.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open USD Launches as Stripe's Default Stablecoin]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin"/>
-        <updated>2026-09-30T18:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Mastercard's route runs through BVNK, while Visa offers limited beta access and Coinbase is scheduled to follow on Oct. 1.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
