@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+          "author": "The Defiant Team",
+          "description": "Per-block computing limits shrink to preserve overall capacity, while validators face more frequent voting and shorter production windows.",
+          "link": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+          "publishedOn": "2026-10-09T04:52:51.000Z",
+          "wordCount": null,
+          "title": "Solana Schedules Final Cut to 200-Millisecond Slots",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a237a210c0c94fc578299637079678e8141f9495-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a237a210c0c94fc578299637079678e8141f9495-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
           "author": "The Defiant Team",
           "description": "The proposed DRS overhaul would replace batch processing with APIs and automate a transfer step, while still requiring transfer-agent approval.",
@@ -431,7 +446,7 @@
           "description": "The FT reports that people familiar with MAS's thinking consider the decentralized venue outside its jurisdiction. Singapore's rules distinguish crypto derivatives on approved exchanges from those offered elsewhere.",
           "link": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
           "publishedOn": "2026-10-07T16:42:19.000Z",
-          "wordCount": 3792,
+          "wordCount": 3801,
           "title": "Hyperliquid Confirms Singapore Base but Says It Has No MAS License",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc631963f5ede857d2de39aaf6b5a7e0f47e30c0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -611,7 +626,7 @@
           "description": "The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements.",
           "link": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
           "publishedOn": "2026-10-06T19:19:43.000Z",
-          "wordCount": 3763,
+          "wordCount": 3772,
           "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cca7aaa68a72652d76d3c6893b4ddba3172028f5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -836,7 +851,7 @@
           "description": "A new filing targets Storm’s venue challenge, while his acquittal motion remains pending and a retrial is scheduled for April 26, 2027.",
           "link": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal",
           "publishedOn": "2026-10-06T09:21:07.000Z",
-          "wordCount": 3779,
+          "wordCount": 3788,
           "title": "DOJ Presses Roman Storm Case as FinCEN Drops Mixer Proposal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/55ed6930fd94f73d868d9437a2b17b0522aa2bdd-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1046,7 +1061,7 @@
           "description": "The Commodity Futures Trading Commission published an Advanced Notice of Proposed Rulemaking covering retail crypto trading on margin, leverage or financing, and a new exchange registration category built for it. Chairman Michael Selig called it a federal option rather than a mandate. The notice",
           "link": "https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026",
           "publishedOn": "2026-10-05T17:23:56.000Z",
-          "wordCount": 3998,
+          "wordCount": 4007,
           "title": "CFTC Seeks Comment on Crypto Rulebook That Leaves Spot Exchanges to the States",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1791220764425-png-f3642370-0d24-41d8-ae13-758c11c9e4c7.png",
@@ -1061,7 +1076,7 @@
           "description": "FinCEN withdrew the 2020 unhosted wallet reporting proposal and its 2023 finding that crypto mixing is a primary money laundering concern. The agency said it will keep monitoring mixers and may act again",
           "link": "https://thedefiant.io/news/regulation/treasury-drops-crypto-wallet-surveillance-rules",
           "publishedOn": "2026-10-05T15:27:55.000Z",
-          "wordCount": 3790,
+          "wordCount": 3799,
           "title": "Treasury Drops Crypto Wallet Surveillance Rules",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/screenshot-2026-10-05-at-11-22-36-am-png-098ad5fe-897b-41cc-b144-ae519b840a84.png",
@@ -1106,7 +1121,7 @@
           "description": "Greenfield says it asked the Safe Ecosystem Foundation to remove Gnosis co-founder Stefan George from its board and add independent members, and that every request was rejected",
           "link": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
           "publishedOn": "2026-10-05T14:21:17.000Z",
-          "wordCount": 3768,
+          "wordCount": 3777,
           "title": "Safe Investor Greenfield Files Swiss Regulatory Complaint Over Foundation Governance",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1791209345194-png-9719e128-2c5a-4b70-bdb9-7b7898b9e5be.png",
@@ -1166,7 +1181,7 @@
           "description": "The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose injunction terms.",
           "link": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
           "publishedOn": "2026-10-02T23:10:02.000Z",
-          "wordCount": 3787,
+          "wordCount": 3796,
           "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1226,7 +1241,7 @@
           "description": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.",
           "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
           "publishedOn": "2026-10-02T17:17:20.000Z",
-          "wordCount": 3767,
+          "wordCount": 3776,
           "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f432d6c1bb500d2267f6689414e92e0cde7ea422-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92325a75579acf10a399a3f9f57fa607bd76b796-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges",
-          "author": "The Defiant Team",
-          "description": "Hyperliquid held as much resting liquidity as the median of Binance, Bybit and OKX on four of five crypto assets and cost less to trade, a Castle Labs study of live order books found. The gap that remains sits in how venues price stocks and commodities when the underlying market is closed.",
-          "link": "https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges",
-          "publishedOn": "2026-10-01T17:17:53.000Z",
-          "wordCount": null,
-          "title": "Onchain Perps Close Execution Gap With CEXs, Castle Labs Says",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1790874948132-png-6d05df76-9a5b-49a8-9d28-2ee84490e2ca.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1790874948132-png-6d05df76-9a5b-49a8-9d28-2ee84490e2ca.png"
         }
       ]
     }
