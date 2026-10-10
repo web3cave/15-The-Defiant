@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-10T07:50:01.040Z</id>
+    <id>urn:2026-10-10T14:02:30.470Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-10T07:50:01.040Z</updated>
+    <updated>2026-10-10T14:02:30.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkWare Calls Starknet L1 Shift Its 'Clearest Path Forward']]></title>
+        <id>https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward</id>
+        <link href="https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward"/>
+        <updated>2026-10-10T12:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash]]></title>
+        <id>https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash</id>
+        <link href="https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash"/>
+        <updated>2026-10-10T11:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papertrade Sets 1000x Perps Launch With $85 Million Deposited]]></title>
+        <id>https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited</id>
+        <link href="https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited"/>
+        <updated>2026-10-10T09:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders’ losses.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether"/>
+        <updated>2026-10-10T09:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Aerodrome holds about $393 million on Base as its planned merger with Velodrome approaches.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702]]></title>
         <id>https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts"/>
         <updated>2026-10-02T23:10:02.000Z</updated>
         <summary type="html"><![CDATA[The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose injunction terms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Pauses New Stylus Activations in Emergency Security Action]]></title>
-        <id>https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action</id>
-        <link href="https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action"/>
-        <updated>2026-10-02T21:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Active contracts can still run and renew, while a new BoLD guard could delay unconfirmed withdrawals if contradictory proofs are accepted.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICBA Sues OCC Over Crypto Trust Charters]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters"/>
-        <updated>2026-10-02T21:45:44.000Z</updated>
-        <summary type="html"><![CDATA[The complaint targets Protego’s conditional approval and seeks to stop the agency from granting charters under its disputed rule and guidance.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Foundation Introduces zkAPI for Private API Payments]]></title>
-        <id>https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments</id>
-        <link href="https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments"/>
-        <updated>2026-10-02T18:44:44.000Z</updated>
-        <summary type="html"><![CDATA[OA Chat supports the prepaid tool, which separates billing from requests but does not conceal prompts from AI providers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF Approves $138 Million for El Salvador After Bitcoin Waiver]]></title>
-        <id>https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver</id>
-        <link href="https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver"/>
-        <updated>2026-10-02T17:17:20.000Z</updated>
-        <summary type="html"><![CDATA[The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
