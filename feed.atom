@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-10T01:21:34.346Z</id>
+    <id>urn:2026-10-10T07:50:01.040Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-10T01:21:34.346Z</updated>
+    <updated>2026-10-10T07:50:01.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702]]></title>
+        <id>https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702</id>
+        <link href="https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702"/>
+        <updated>2026-10-10T03:50:48.000Z</updated>
+        <summary type="html"><![CDATA[The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Theft Funds Shift Into USDD, Beyond Tether’s Freeze Controls]]></title>
+        <id>https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls</id>
+        <link href="https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls"/>
+        <updated>2026-10-10T02:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Tron records show a 2 million USDT conversion through USDD’s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STRK Jumps 30% as Starknet Weighs Layer 1 Shift]]></title>
         <id>https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver"/>
         <updated>2026-10-02T17:17:20.000Z</updated>
         <summary type="html"><![CDATA[The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval]]></title>
-        <id>https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval</id>
-        <link href="https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval"/>
-        <updated>2026-10-02T16:57:35.000Z</updated>
-        <summary type="html"><![CDATA[The levy would charge customers on asset value rather than gains, with draft rules covering paid custody, transfers and stablecoin settlement.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple and CSD BR Partner to Mirror Brazil's BTG Fund Records on XRP Ledger]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/ripple-and-csd-br-partner-to-mirror-btg-fund-records-on-xrp-ledger</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/ripple-and-csd-br-partner-to-mirror-btg-fund-records-on-xrp-ledger"/>
-        <updated>2026-10-02T16:42:06.000Z</updated>
-        <summary type="html"><![CDATA[The companies describe a live-transaction phase, with CSD BR retaining the official records for registration, deposit and settlement.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
