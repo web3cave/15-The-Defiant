@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T09:23:50.829Z</id>
+    <id>urn:2026-10-11T16:00:04.701Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-11T09:23:50.829Z</updated>
+    <updated>2026-10-11T16:00:04.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage]]></title>
+        <id>https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage</id>
+        <link href="https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage"/>
+        <updated>2026-10-11T15:59:08.000Z</updated>
+        <summary type="html"><![CDATA[The reserve gap is about 603 BTC. Liquid says peg-outs require full backing and completed security reviews before they can restart.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations]]></title>
+        <id>https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations</id>
+        <link href="https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations"/>
+        <updated>2026-10-11T15:53:36.000Z</updated>
+        <summary type="html"><![CDATA[The team says it is restricting exposure onchain and through relayers. Its statement does not confirm claims that a trader was blacklisted or prevented from closing positions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeckShield Traces $3.89 Million in Ledger Theft Funds to Binance Deposits]]></title>
+        <id>https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits</id>
+        <link href="https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits"/>
+        <updated>2026-10-11T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[The reported Tron deposits offer investigators an exchange-account lead, but intermediary wallets handling other clients’ money complicate attribution.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions]]></title>
+        <id>https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions</id>
+        <link href="https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions"/>
+        <updated>2026-10-11T14:08:37.000Z</updated>
+        <summary type="html"><![CDATA[The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Bitcoin ETFs Shed $679 Million in Weekly Reversal]]></title>
+        <id>https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-679-million-in-weekly-reversal</id>
+        <link href="https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-679-million-in-weekly-reversal"/>
+        <updated>2026-10-11T13:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Withdrawals on Oct. 7–8 drove a $920 million swing from the preceding week, leaving the two-week flow total negative.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COLDCARD Warns of Phishing Post on Its Official X Account]]></title>
+        <id>https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account</id>
+        <link href="https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account"/>
+        <updated>2026-10-11T09:38:29.000Z</updated>
+        <summary type="html"><![CDATA[The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases]]></title>
         <id>https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens"/>
         <updated>2026-10-05T18:44:11.000Z</updated>
         <summary type="html"><![CDATA[Six outflows followed a borrower-whitelist change. The proceeds were redeemed for wstETH, with some later entering bridge withdrawals toward Ethereum.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Votes on Giving Governance Power to Cancel Treasury Operations]]></title>
-        <id>https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations</id>
-        <link href="https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations"/>
-        <updated>2026-10-05T18:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Proposal 612 would extend treasury delays from two days to ten, while a wallet linked to Humpy has cast 1.75 million COMP votes in support.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchorage Digital Cuts 17% of Staff, The Information Reports]]></title>
-        <id>https://thedefiant.io/converge/people/anchorage-digital-cuts-17-of-staff-the-information-reports</id>
-        <link href="https://thedefiant.io/converge/people/anchorage-digital-cuts-17-of-staff-the-information-reports"/>
-        <updated>2026-10-05T18:31:26.000Z</updated>
-        <summary type="html"><![CDATA[The reported reduction follows a $100 million Tether investment and an expansion of the custodian’s institutional settlement business.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZachXBT Posed as a Client to Infiltrate Chinese Syndicate Laundering Bybit Hack Funds]]></title>
-        <id>https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds</id>
-        <link href="https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds"/>
-        <updated>2026-10-05T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The investigator says he fronted 349,700 USDC and lost 5% on every order to a broker who told him in advance where North Korea's stolen funds were going next]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX-ICE Plans Tokenized Stock Trading Through a Uniswap v4 Hook]]></title>
-        <id>https://thedefiant.io/news/defi/okx-ice-plans-tokenized-stock-trading-through-a-uniswap-v4-hook</id>
-        <link href="https://thedefiant.io/news/defi/okx-ice-plans-tokenized-stock-trading-through-a-uniswap-v4-hook"/>
-        <updated>2026-10-05T18:22:23.000Z</updated>
-        <summary type="html"><![CDATA[The venue would restrict trading and liquidity provision to approved wallets on X Layer, with no current support for aggregators.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Clears 3x Bitcoin and Ether ETPs for Cboe Listing]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/sec-clears-3x-bitcoin-and-ether-etps-for-cboe-listing</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sec-clears-3x-bitcoin-and-ether-etps-for-cboe-listing"/>
-        <updated>2026-10-05T18:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Proposed tickers BITH and ETHK would use futures and reset leverage daily, exposing longer-term holders to compounding losses.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Seeks Comment on Crypto Rulebook That Leaves Spot Exchanges to the States]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026"/>
-        <updated>2026-10-05T17:23:56.000Z</updated>
-        <summary type="html"><![CDATA[The Commodity Futures Trading Commission published an Advanced Notice of Proposed Rulemaking covering retail crypto trading on margin, leverage or financing, and a new exchange registration category built for it. Chairman Michael Selig called it a federal option rather than a mandate. The notice]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
