@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
+          "author": "The Defiant Team",
+          "description": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers.",
+          "link": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
+          "publishedOn": "2026-10-15T06:53:08.000Z",
+          "wordCount": null,
+          "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f595611e258a9b1d88bf975ded1476c8b1553420-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f595611e258a9b1d88bf975ded1476c8b1553420-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
           "author": "The Defiant Team",
           "description": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase.",
@@ -26,7 +41,7 @@
           "description": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effect.",
           "link": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
           "publishedOn": "2026-10-15T02:53:06.000Z",
-          "wordCount": 3787,
+          "wordCount": 3793,
           "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bef862f70bc85517ac63902747f45a3ff17c8dff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -236,7 +251,7 @@
           "description": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.",
           "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
           "publishedOn": "2026-10-14T14:05:53.000Z",
-          "wordCount": 3743,
+          "wordCount": 3758,
           "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/84a7032028b34b3a0c6f642adbe76ec67df5d17c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -611,7 +626,7 @@
           "description": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership.",
           "link": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
           "publishedOn": "2026-10-13T17:31:48.000Z",
-          "wordCount": 3776,
+          "wordCount": 3782,
           "title": "UK Court Rules Chinese Law Governs Victims’ Claims to 61,000 Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6be9b5d9e0da82348fdbaf2ec4c58eb3edb9797-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b9c8ada33a72d6d05b37e914dac756322e752f65-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
-          "author": "The Defiant Team",
-          "description": "Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH.",
-          "link": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
-          "publishedOn": "2026-10-10T11:09:33.000Z",
-          "wordCount": null,
-          "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56d16dcdfb9d97ab44f112d0777cf13004211874-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56d16dcdfb9d97ab44f112d0777cf13004211874-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }

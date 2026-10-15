@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-15T05:21:47.441Z</id>
+    <id>urn:2026-10-15T10:28:01.057Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-15T05:21:47.441Z</updated>
+    <updated>2026-10-15T10:28:01.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention]]></title>
+        <id>https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention</id>
+        <link href="https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention"/>
+        <updated>2026-10-15T06:53:08.000Z</updated>
+        <summary type="html"><![CDATA[A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know]]></title>
         <id>https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward"/>
         <updated>2026-10-10T12:21:43.000Z</updated>
         <summary type="html"><![CDATA[Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash]]></title>
-        <id>https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash</id>
-        <link href="https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash"/>
-        <updated>2026-10-10T11:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
