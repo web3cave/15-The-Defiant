@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-16T19:05:23.657Z</id>
+    <id>urn:2026-10-16T22:16:59.146Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-16T19:05:23.657Z</updated>
+    <updated>2026-10-16T22:16:59.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps]]></title>
+        <id>https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps</id>
+        <link href="https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps"/>
+        <updated>2026-10-16T21:32:28.000Z</updated>
+        <summary type="html"><![CDATA[The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets]]></title>
         <id>https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction"/>
         <updated>2026-10-13T12:10:08.000Z</updated>
         <summary type="html"><![CDATA[The devnet implementation adds ML-DSA-65 account signatures. Native mainnet support is targeted for Q1 2027, subject to audits and testnet feedback.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans"/>
-        <updated>2026-10-13T10:06:10.000Z</updated>
-        <summary type="html"><![CDATA[The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to ¥28.3 billion to share repurchases.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

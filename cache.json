@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+          "author": "The Defiant Team",
+          "description": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds.",
+          "link": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+          "publishedOn": "2026-10-16T21:32:28.000Z",
+          "wordCount": null,
+          "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
           "author": "The Defiant Team",
           "description": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
@@ -221,7 +236,7 @@
           "description": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
           "link": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
           "publishedOn": "2026-10-16T14:32:00.000Z",
-          "wordCount": 3815,
+          "wordCount": 3803,
           "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg",
@@ -251,7 +266,7 @@
           "description": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed.",
           "link": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
           "publishedOn": "2026-10-16T08:58:56.000Z",
-          "wordCount": 3723,
+          "wordCount": 3684,
           "title": "Solana Postpones Shanghai Event, Citing Registration Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/229ddef598cc1e8faee4030e18b5d5829bfffcfc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -281,7 +296,7 @@
           "description": "The interruption follows a new Shanghai office and skyline promotion at the start of the foundation’s four-city China tour.",
           "link": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
           "publishedOn": "2026-10-16T04:29:25.000Z",
-          "wordCount": 3706,
+          "wordCount": 3694,
           "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4627e7f80161e24640d64b463e4e832b28a5cbd3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -296,7 +311,7 @@
           "description": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
           "link": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
           "publishedOn": "2026-10-16T00:39:04.000Z",
-          "wordCount": 3749,
+          "wordCount": 3737,
           "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce892344d3b1c7e15b30787ce1c39cc16c062016-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -446,7 +461,7 @@
           "description": "A separate restriction on direct crypto trades between individuals takes effect July 1, 2027, requiring residents to use authorized intermediaries.",
           "link": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
           "publishedOn": "2026-10-15T17:08:03.000Z",
-          "wordCount": 3761,
+          "wordCount": 3749,
           "title": "Russia Bars Self-Custody Withdrawals From Regulated Crypto Accounts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/039041deb4ddd26145abf29b956e45a10dadf145-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -761,7 +776,7 @@
           "description": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effect.",
           "link": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
           "publishedOn": "2026-10-15T02:53:06.000Z",
-          "wordCount": 3797,
+          "wordCount": 3785,
           "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bef862f70bc85517ac63902747f45a3ff17c8dff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -971,7 +986,7 @@
           "description": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.",
           "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
           "publishedOn": "2026-10-14T14:05:53.000Z",
-          "wordCount": 3764,
+          "wordCount": 3752,
           "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/84a7032028b34b3a0c6f642adbe76ec67df5d17c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1346,7 +1361,7 @@
           "description": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership.",
           "link": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
           "publishedOn": "2026-10-13T17:31:48.000Z",
-          "wordCount": 3788,
+          "wordCount": 3776,
           "title": "UK Court Rules Chinese Law Governs Victims’ Claims to 61,000 Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6be9b5d9e0da82348fdbaf2ec4c58eb3edb9797-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea0b4c296d429bb0269b9ea81eb734a443f76d7f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
-          "author": "The Defiant Team",
-          "description": "The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to ¥28.3 billion to share repurchases.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
-          "publishedOn": "2026-10-13T10:06:10.000Z",
-          "wordCount": null,
-          "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a94864b47172450171429f2bbec997bc658cb872-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a94864b47172450171429f2bbec997bc658cb872-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
