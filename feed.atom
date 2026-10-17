@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-16T22:16:59.146Z</id>
+    <id>urn:2026-10-17T00:52:24.654Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-16T22:16:59.146Z</updated>
+    <updated>2026-10-17T00:52:24.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO]]></title>
+        <id>https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo</id>
+        <link href="https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo"/>
+        <updated>2026-10-16T23:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps]]></title>
         <id>https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton"/>
         <updated>2026-10-13T12:20:50.000Z</updated>
         <summary type="html"><![CDATA[The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction]]></title>
-        <id>https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction</id>
-        <link href="https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction"/>
-        <updated>2026-10-13T12:10:08.000Z</updated>
-        <summary type="html"><![CDATA[The devnet implementation adds ML-DSA-65 account signatures. Native mainnet support is targeted for Q1 2027, subject to audits and testnet feedback.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
