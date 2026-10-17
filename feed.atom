@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-17T16:43:03.463Z</id>
+    <id>urn:2026-10-17T18:55:38.602Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-17T16:43:03.463Z</updated>
+    <updated>2026-10-17T18:55:38.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Injective Activates Fixed Gas Costs for Exchange Transactions]]></title>
+        <id>https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions</id>
+        <link href="https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions"/>
+        <updated>2026-10-17T17:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Traders and app developers can use published gas budgets for orders, cancellations, deposits and withdrawals instead of simulating each transaction.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strive Prices $630 Million SATS Preferred Offering at $90]]></title>
         <id>https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue"/>
         <updated>2026-10-13T17:03:26.000Z</updated>
         <summary type="html"><![CDATA[The contracts offer leveraged exposure rather than shares, with settlement tied to IPO filings, private-market valuations or revenue estimates.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mezo Sets Oct. 13 Bridge-Out Deadline for swBTC and USDe]]></title>
-        <id>https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde</id>
-        <link href="https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde"/>
-        <updated>2026-10-13T16:44:38.000Z</updated>
-        <summary type="html"><![CDATA[SolvBTC and xSolvBTC withdrawals will close Oct. 29. Deposits are already suspended for all four tokens.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
