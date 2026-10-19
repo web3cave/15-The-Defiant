@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T08:10:53.358Z</id>
+    <id>urn:2026-10-19T15:57:15.578Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T08:10:53.358Z</updated>
+    <updated>2026-10-19T15:57:15.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple’s SYRUP Slides 24% in a Week, Underperforming Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether"/>
+        <updated>2026-10-19T15:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Maple still has $2.71 billion in TVL, while September’s revenue-funded token buybacks doubled from August.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa and Mesh Plan Crypto Spending From Wallet Balances]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/visa-and-mesh-plan-crypto-spending-from-wallet-balances</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/visa-and-mesh-plan-crypto-spending-from-wallet-balances"/>
+        <updated>2026-10-19T15:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Merchants would receive fiat through Visa payments, while Mesh handles conversion. Initial availability and participating platforms have yet to be announced.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/sparkassen-begin-bitcoin-trading-through-dekabank-in-banking-app</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sparkassen-begin-bitcoin-trading-through-dekabank-in-banking-app"/>
+        <updated>2026-10-19T14:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Deka lists five participating savings banks, with more than 230 expressing interest. Trades cost €0.99 plus a spread, and withdrawals are limited to approved custodians.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echo Protocol Winds Down, Halting New Deposits and Borrowing]]></title>
+        <id>https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing</id>
+        <link href="https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing"/>
+        <updated>2026-10-19T14:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Withdrawals and repayments remain open, but the shutdown notice gives conflicting November deadlines before collateral liquidation.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyAI Sells Entire Solana Treasury, Launches $201 Million Tender]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-entire-solana-treasury-launches-201-million-tender</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-entire-solana-treasury-launches-201-million-tender"/>
+        <updated>2026-10-19T13:49:25.000Z</updated>
+        <summary type="html"><![CDATA[The company reports $223.8 million in cash and has dropped the offer’s SOL-price condition, while retaining a $3 share price challenged by Bastion Trading.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Keeps ZEC Swaps Halted After Bug Triggers Vault Slash]]></title>
+        <id>https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash</id>
+        <link href="https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash"/>
+        <updated>2026-10-19T13:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Onchain records show about 140 RUNE deducted from 18 node accounts. The fix is scheduled for the v3.21 upgrade around Oct. 23.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Targets Rujira Restart With v3.21 Exploit Fix]]></title>
+        <id>https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix</id>
+        <link href="https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix"/>
+        <updated>2026-10-19T13:10:58.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPMorgan Extends JPM Coin to Ethereum for Institutional Clients]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients</id>
@@ -931,76 +1001,6 @@
         <link href="https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown"/>
         <updated>2026-10-13T19:31:16.000Z</updated>
         <summary type="html"><![CDATA[Prosecutors allege a scheme affecting more than 70 US employers generated about $3 million. The Ohio indictment describes cryptocurrency transfers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parlays Drive Kalshi’s $3.9 Billion Trading Days, Analysis Finds]]></title>
-        <id>https://thedefiant.io/news/markets/parlays-drive-kalshi-s-3-9-billion-trading-days-analysis-finds</id>
-        <link href="https://thedefiant.io/news/markets/parlays-drive-kalshi-s-3-9-billion-trading-days-analysis-finds"/>
-        <updated>2026-10-13T19:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Combos supplied roughly 70% of weekend notional volume, according to Bitcoin.com’s analysis, but that measure is not cash spent by buyers or a count of new users.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUP Rises 51% in Four Weeks as Jupiter Fees Decline]]></title>
-        <id>https://thedefiant.io/news/markets/jup-rises-51-in-four-weeks-as-jupiter-fees-decline</id>
-        <link href="https://thedefiant.io/news/markets/jup-rises-51-in-four-weeks-as-jupiter-fees-decline"/>
-        <updated>2026-10-13T19:26:27.000Z</updated>
-        <summary type="html"><![CDATA[JUP outpaced bitcoin and ether despite a 5.6% weekly pullback. Fees across Jupiter’s products fell to $16.82 million in the latest complete 28-day period.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT Gains 51% in Four Weeks, Outpacing Bitcoin and Ether]]></title>
-        <id>https://thedefiant.io/news/markets/apt-gains-51-in-four-weeks-outpacing-bitcoin-and-ether</id>
-        <link href="https://thedefiant.io/news/markets/apt-gains-51-in-four-weeks-outpacing-bitcoin-and-ether"/>
-        <updated>2026-10-13T19:24:15.000Z</updated>
-        <summary type="html"><![CDATA[The token's weekly return is nearly flat, while DefiLlama's tracked stablecoin market cap on Aptos has fallen 17.5% over four weeks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood Opens Social Trading Feed to Eligible US Customers]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers"/>
-        <updated>2026-10-13T19:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Users can share charts and portfolio allocations, while a rollout on the Legend desktop platform is planned in the coming weeks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaMarktSaturn Pulls Ledger Products Amid Tampering Reports]]></title>
-        <id>https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports</id>
-        <link href="https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports"/>
-        <updated>2026-10-13T19:09:53.000Z</updated>
-        <summary type="html"><![CDATA[The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain.com Seeks CFTC Licenses for US Derivatives and Prediction Markets]]></title>
-        <id>https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets</id>
-        <link href="https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets"/>
-        <updated>2026-10-13T19:03:30.000Z</updated>
-        <summary type="html"><![CDATA[The company is seeking both exchange and futures-broker registrations to serve retail and institutional customers. The proposed US offering still requires approval.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Introduces Earn & Borrow With Aave and Morpho]]></title>
-        <id>https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho</id>
-        <link href="https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho"/>
-        <updated>2026-10-13T19:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Apps can embed variable-rate stablecoin lending and crypto-backed loans, while borrowers remain subject to the underlying protocols’ liquidation rules.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
