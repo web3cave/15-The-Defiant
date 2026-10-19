@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T02:20:46.672Z</id>
+    <id>urn:2026-10-19T08:10:53.358Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T02:20:46.672Z</updated>
+    <updated>2026-10-19T08:10:53.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan Extends JPM Coin to Ethereum for Institutional Clients]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"/>
+        <updated>2026-10-19T07:53:33.000Z</updated>
+        <summary type="html"><![CDATA[The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qubic Halts Network After $1.3 Million Wallet Drain]]></title>
         <id>https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho"/>
         <updated>2026-10-13T19:01:43.000Z</updated>
         <summary type="html"><![CDATA[Apps can embed variable-rate stablecoin lending and crypto-backed loans, while borrowers remain subject to the underlying protocols’ liquidation rules.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cirBTC Borrowing on Morpho Tops $190 Million as Arc Liquidity Tightens]]></title>
-        <id>https://thedefiant.io/news/defi/cirbtc-borrowing-on-morpho-tops-190-million-as-arc-liquidity-tightens</id>
-        <link href="https://thedefiant.io/news/defi/cirbtc-borrowing-on-morpho-tops-190-million-as-arc-liquidity-tightens"/>
-        <updated>2026-10-13T18:42:26.000Z</updated>
-        <summary type="html"><![CDATA[About 97.4% of supplied USDC is borrowed in the main market, compared with 8.1% when Circle Mint opened access on Sept. 21.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
