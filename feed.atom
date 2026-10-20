@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-20T03:45:50.106Z</id>
+    <id>urn:2026-10-20T08:57:15.232Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-20T03:45:50.106Z</updated>
+    <updated>2026-10-20T08:57:15.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples]]></title>
+        <id>https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples</id>
+        <link href="https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples"/>
+        <updated>2026-10-20T08:02:39.000Z</updated>
+        <summary type="html"><![CDATA[The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam]]></title>
+        <id>https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam</id>
+        <link href="https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam"/>
+        <updated>2026-10-20T07:49:17.000Z</updated>
+        <summary type="html"><![CDATA[The related consensus-specs issue was closed as ‘not planned’; its author points to pre-deposit checks as a defense.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers"/>
         <updated>2026-10-14T14:09:05.000Z</updated>
         <summary type="html"><![CDATA[The feature uses existing pools rather than a separate private market; LP positions and transaction details remain visible onchain.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report]]></title>
-        <id>https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report</id>
-        <link href="https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report"/>
-        <updated>2026-10-14T14:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bastion Demands $3.50 SkyAI Tender Price and Board Overhaul]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul"/>
-        <updated>2026-10-14T13:59:39.000Z</updated>
-        <summary type="html"><![CDATA[The shareholder says it will not participate on current terms. SkyAI’s latest filing reports 600,000 SOL remaining and cash covering about 80% of the proposed offer.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

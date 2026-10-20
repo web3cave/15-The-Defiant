@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
+          "author": "The Defiant Team",
+          "description": "The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged.",
+          "link": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
+          "publishedOn": "2026-10-20T08:02:39.000Z",
+          "wordCount": null,
+          "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/466fa65162e2909606426d7364002aa127d6016b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/466fa65162e2909606426d7364002aa127d6016b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
+          "author": "The Defiant Team",
+          "description": "The related consensus-specs issue was closed as ‘not planned’; its author points to pre-deposit checks as a defense.",
+          "link": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
+          "publishedOn": "2026-10-20T07:49:17.000Z",
+          "wordCount": null,
+          "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
           "author": "The Defiant Team",
           "description": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8fb880d3b48ab8137faefea09c348984cb99165b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
-          "author": "The Defiant Team",
-          "description": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.",
-          "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
-          "publishedOn": "2026-10-14T14:05:53.000Z",
-          "wordCount": 3799,
-          "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/84a7032028b34b3a0c6f642adbe76ec67df5d17c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84a7032028b34b3a0c6f642adbe76ec67df5d17c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
-          "author": "The Defiant Team",
-          "description": "The shareholder says it will not participate on current terms. SkyAI’s latest filing reports 600,000 SOL remaining and cash covering about 80% of the proposed offer.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
-          "publishedOn": "2026-10-14T13:59:39.000Z",
-          "wordCount": null,
-          "title": "Bastion Demands $3.50 SkyAI Tender Price and Board Overhaul",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/23edd9b0c2bb74e6b0e197dfe679a6d98d367daf-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/23edd9b0c2bb74e6b0e197dfe679a6d98d367daf-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
