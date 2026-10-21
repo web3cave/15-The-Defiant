@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T15:42:10.853Z</id>
+    <id>urn:2026-10-21T19:43:59.141Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-21T15:42:10.853Z</updated>
+    <updated>2026-10-21T19:43:59.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket US Sues Ohio to Block Sports-Contract Crackdown]]></title>
+        <id>https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown</id>
+        <link href="https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown"/>
+        <updated>2026-10-21T17:15:03.000Z</updated>
+        <summary type="html"><![CDATA[The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Combines Euro and EURC Liquidity in One Spot Order Book]]></title>
+        <id>https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book</id>
+        <link href="https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book"/>
+        <updated>2026-10-21T16:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Eligible EEA users can convert euros to EURC at 1:1 and choose either settlement asset, with fees depending on their tier and transaction.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization]]></title>
+        <id>https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization</id>
+        <link href="https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization"/>
+        <updated>2026-10-21T16:53:04.000Z</updated>
+        <summary type="html"><![CDATA[A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA Urges PHP Users to Patch or Take Systems Offline]]></title>
+        <id>https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline</id>
+        <link href="https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline"/>
+        <updated>2026-10-21T16:51:42.000Z</updated>
+        <summary type="html"><![CDATA[PHP has released fixes for two flaws rated 9.2 that can let unauthenticated attackers run code on web servers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eclair Patches Lightning Bugs That Could Let Peers Steal Funds]]></title>
+        <id>https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds</id>
+        <link href="https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds"/>
+        <updated>2026-10-21T16:50:48.000Z</updated>
+        <summary type="html"><![CDATA[The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin]]></title>
+        <id>https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin</id>
+        <link href="https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin"/>
+        <updated>2026-10-21T16:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunrise Brings Backpack’s Tokenized Meta Shares to Solana]]></title>
+        <id>https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana</id>
+        <link href="https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana"/>
+        <updated>2026-10-21T16:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns]]></title>
         <id>https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns</id>
@@ -931,76 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption"/>
         <updated>2026-10-16T14:32:00.000Z</updated>
         <summary type="html"><![CDATA[The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours]]></title>
-        <id>https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours</id>
-        <link href="https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours"/>
-        <updated>2026-10-16T10:32:47.000Z</updated>
-        <summary type="html"><![CDATA[The unaudited beta counts leveraged trading exposure, while winners depend on a separate house pool funded by trader losses.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Postpones Shanghai Event, Citing Registration Surge]]></title>
-        <id>https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge</id>
-        <link href="https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge"/>
-        <updated>2026-10-16T08:58:56.000Z</updated>
-        <summary type="html"><![CDATA[The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia’s TIA Climbs 59% in Four Weeks as Blob Demand Slips]]></title>
-        <id>https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips</id>
-        <link href="https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips"/>
-        <updated>2026-10-16T05:58:10.000Z</updated>
-        <summary type="html"><![CDATA[Daily blob data fell during the rally, while Celestia’s new Fibre throughput benchmark remains separate from mainnet usage.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana's Shanghai Event Halted With Officers Present, Attendees Say]]></title>
-        <id>https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say</id>
-        <link href="https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say"/>
-        <updated>2026-10-16T04:29:25.000Z</updated>
-        <summary type="html"><![CDATA[The interruption follows a new Shanghai office and skyline promotion at the start of the foundation’s four-city China tour.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions]]></title>
-        <id>https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions</id>
-        <link href="https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions"/>
-        <updated>2026-10-16T00:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization"/>
-        <updated>2026-10-15T23:58:41.000Z</updated>
-        <summary type="html"><![CDATA[The venture now discloses nine issuer objections, each of which bars the affected stock token from trading under the SEC’s conditional exemption.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal"/>
-        <updated>2026-10-15T23:34:48.000Z</updated>
-        <summary type="html"><![CDATA[A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
