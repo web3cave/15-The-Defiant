@@ -6,12 +6,192 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+          "author": "The Defiant Team",
+          "description": "The patch updates certificate checks in Go. Obol's mainnet cluster balances totaled 422,862 ETH in its latest daily snapshot.",
+          "link": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+          "publishedOn": "2026-10-21T22:40:13.000Z",
+          "wordCount": null,
+          "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f0c48073e3340653b73ca08fbb035c1c0ebde16-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9f0c48073e3340653b73ca08fbb035c1c0ebde16-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
+          "author": "The Defiant Team",
+          "description": "Deployments remain paused, preventing customers from updating applications with replacement credentials.",
+          "link": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
+          "publishedOn": "2026-10-21T22:34:10.000Z",
+          "wordCount": null,
+          "title": "Railway Urges All Users to Rotate Secrets After Security Incident",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e996c15610098fe454978b4b299c9462152b85bb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e996c15610098fe454978b4b299c9462152b85bb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
+          "author": "The Defiant Team",
+          "description": "One recovered private key was just 4. The company says the flaw went undetected through two independent audit cycles.",
+          "link": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
+          "publishedOn": "2026-10-21T21:24:58.000Z",
+          "wordCount": null,
+          "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbfa5fffabc197c82978f4eeae2b71dbe03af639-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dbfa5fffabc197c82978f4eeae2b71dbe03af639-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
+          "author": "The Defiant Team",
+          "description": "The control plane for bank digital-asset operations is generally available at launch. Its revenue goes to Matter Labs, not ZKsync tokenholders, CEO Alex Gluchowski told The Defiant.",
+          "link": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
+          "publishedOn": "2026-10-21T21:13:40.000Z",
+          "wordCount": null,
+          "title": "Matter Labs Debuts Prividium Commander For Institutions",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1792617250259-png-311e30bc-f2ee-43a1-929c-604c974bc0de.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1792617250259-png-311e30bc-f2ee-43a1-929c-604c974bc0de.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
+          "author": "The Defiant Team",
+          "description": "Buyer- and seller-side APIs, a toolkit and a sandbox extend developer testing, while Agent Pay for Machines remains a noncommercial pilot.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
+          "publishedOn": "2026-10-21T20:29:59.000Z",
+          "wordCount": null,
+          "title": "Mastercard Opens AI Machine-Payment Pilot to Developers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d44a0fca862170618a8bd7f04d7bc5e3bb2711a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d44a0fca862170618a8bd7f04d7bc5e3bb2711a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+          "author": "The Defiant Team",
+          "description": "Participate says principal and interest reached the receiving bank’s wallet in under three minutes, with loan balances and notices updated alongside the payment.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+          "publishedOn": "2026-10-21T20:29:37.000Z",
+          "wordCount": null,
+          "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d2d5793f2104a154697f02483fec8db76f6927fe-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d2d5793f2104a154697f02483fec8db76f6927fe-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
+          "author": "The Defiant Team",
+          "description": "Each Bored Ape qualifies for 10 packs and each Mutant Ape for two, while OpenSea reports 78.3 ETH in pack trading volume.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
+          "publishedOn": "2026-10-21T20:29:33.000Z",
+          "wordCount": null,
+          "title": "Yuga Labs Launches Mudwater Trading-Card NFTs on Solana",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf0459464c15d835244d886a04cd3cf4383d8d9d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf0459464c15d835244d886a04cd3cf4383d8d9d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
+          "author": "The Defiant Team",
+          "description": "Attorney General Todd Blanche described a nationwide scam prosecution initiative deploying dozens of prosecutors across all 94 US Attorneys’ Offices.",
+          "link": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
+          "publishedOn": "2026-10-21T20:29:24.000Z",
+          "wordCount": 3784,
+          "title": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d2e791ff964368a4e3aa82d73db889acc1ba753-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d2e791ff964368a4e3aa82d73db889acc1ba753-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
+          "author": "The Defiant Team",
+          "description": "Concrete can borrow against Bitcoin held at BitGo, but liquidations require offchain custody settlement rather than an instant onchain sale.",
+          "link": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
+          "publishedOn": "2026-10-21T19:52:18.000Z",
+          "wordCount": null,
+          "title": "Dolomite Adds $100 Million in Concrete’s Bitcoin-Backed Collateral",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d4e6733428fd2be39c1d331ac0377c5212f7aa83-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d4e6733428fd2be39c1d331ac0377c5212f7aa83-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+          "author": "The Defiant Team",
+          "description": "The bank’s genuine Ethereum token showed zero supply and holders, while its documentation warns that same-name tokens at other addresses are unaffiliated.",
+          "link": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+          "publishedOn": "2026-10-21T19:48:15.000Z",
+          "wordCount": null,
+          "title": "13 JPMD Lookalikes Emerge Amid JPMorgan’s Ethereum Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0d6b1ef5524b18a862b75e710689f198416baff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b0d6b1ef5524b18a862b75e710689f198416baff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+          "author": "The Defiant Team",
+          "description": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer.",
+          "link": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+          "publishedOn": "2026-10-21T19:47:52.000Z",
+          "wordCount": null,
+          "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c38c0aff2794e57275805c86f7351e0e9cdd57e8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c38c0aff2794e57275805c86f7351e0e9cdd57e8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
+          "author": "The Defiant Team",
+          "description": "A hypothetical buy at 40 cents and sale at 60 cents produces nearly identical taker profits. Resting orders and funding methods can change the comparison.",
+          "link": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
+          "publishedOn": "2026-10-21T19:47:17.000Z",
+          "wordCount": null,
+          "title": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d26e47d1c6ecc9d6df98ecdb1480a8b32b0b7d2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d26e47d1c6ecc9d6df98ecdb1480a8b32b0b7d2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
           "author": "The Defiant Team",
           "description": "The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16.",
           "link": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
           "publishedOn": "2026-10-21T17:15:03.000Z",
-          "wordCount": 3757,
+          "wordCount": 3748,
           "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8afcc25665f5570bd464c260f3e5bca03aba8c23-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -41,7 +221,7 @@
           "description": "A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18.",
           "link": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
           "publishedOn": "2026-10-21T16:53:04.000Z",
-          "wordCount": 3734,
+          "wordCount": 3725,
           "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c33c5d38694ebbcb643b3f66ce5b0bd110c564a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -86,7 +266,7 @@
           "description": "Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.",
           "link": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
           "publishedOn": "2026-10-21T16:38:20.000Z",
-          "wordCount": 3778,
+          "wordCount": 3769,
           "title": "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/636056e60ffda54f7c4f8143e6e8b8a55900bce3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -266,7 +446,7 @@
           "description": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
           "link": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
           "publishedOn": "2026-10-21T12:03:07.000Z",
-          "wordCount": 3876,
+          "wordCount": 3869,
           "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1792584066566-png-614e3817-6dd9-4365-a52b-a023b7ac249b.png",
@@ -491,7 +671,7 @@
           "description": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat.",
           "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
           "publishedOn": "2026-10-20T17:07:44.000Z",
-          "wordCount": 3740,
+          "wordCount": 3770,
           "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -686,7 +866,7 @@
           "description": "The proposal would end tax deferral on gains from swaps into single-currency stablecoins from January 2027. It remains subject to further parliamentary votes.",
           "link": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
           "publishedOn": "2026-10-20T11:53:34.000Z",
-          "wordCount": 3787,
+          "wordCount": 3778,
           "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/14489f0a8d200e28324372fa8f611baae9fcd86d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -866,7 +1046,7 @@
           "description": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027.",
           "link": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
           "publishedOn": "2026-10-19T19:12:04.000Z",
-          "wordCount": 3756,
+          "wordCount": 3747,
           "title": "France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b25198b602584c15a717f0b65eeeef3da1631eff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -926,7 +1106,7 @@
           "description": "Starknet’s DeFi TVL fell a smaller 5.3%, while voting on research into an independent Layer 1 remains open until Oct. 22.",
           "link": "https://thedefiant.io/news/markets/strk-sinks-38-in-a-week-as-starknet-rally-reverses",
           "publishedOn": "2026-10-19T17:19:16.000Z",
-          "wordCount": 3742,
+          "wordCount": 3733,
           "title": "STRK Sinks 38% in a Week as Starknet Rally Reverses",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f5b8825aa3d969896f6e23b3b868976d0a8d0ca-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -979,6 +1159,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8767b02b60a8941d93cc21423733c64bd03eb5d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/he-lost-usd14m-to-ftx-now-he-s-putting-real-stocks-on-solana-or-armani-ferrante-backpack",
+          "author": "Camila Russo",
+          "description": "What do you actually own when you buy a tokenized stock? Backpack founder Armani Ferrante breaks down the transfer agent, DTCC, SPV debt-security and Backpack models. Backpack’s version is 1:1 redeemable stock you can move between your brokerage and DeFi. Armani explains how that unlocks arbitrage",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/he-lost-usd14m-to-ftx-now-he-s-putting-real-stocks-on-solana-or-armani-ferrante-backpack",
+          "publishedOn": "2026-10-19T16:00:00.000Z",
+          "wordCount": null,
+          "title": "He Lost $14M to FTX. Now He’s Putting Real Stocks on Solana | Armani Ferrante (Backpack)",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-7247f15b-d17a-43a7-b1d9-8ea76cfb8599.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-7247f15b-d17a-43a7-b1d9-8ea76cfb8599.jpg"
         },
         {
           "id": "https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether",
@@ -1136,7 +1331,7 @@
           "description": "The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law.",
           "link": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
           "publishedOn": "2026-10-17T19:42:21.000Z",
-          "wordCount": 3791,
+          "wordCount": 3782,
           "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1bee00214e51a15f438f0e7eb82faac4bedd0dee-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1181,7 +1376,7 @@
           "description": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12–16, while bitcoin withdrawals slowed 66% from the preceding week.",
           "link": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
           "publishedOn": "2026-10-17T07:55:49.000Z",
-          "wordCount": 3744,
+          "wordCount": 3735,
           "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e63a306e6fc9a5b393c44ea8371c2c8149cd7779-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1309,201 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c7328a3c195f2329b0319a898f4a199c5c05c56-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
-          "author": "Camila Russo",
-          "description": "Starknet says it is “actively considering becoming an L1” — leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the target. StarkWare co-founder and CEO Eli Ben-Sasson joins Camila Russo to explain the plan. The announcement came as a post on X on Oct.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
-          "publishedOn": "2026-10-16T17:33:25.000Z",
-          "wordCount": null,
-          "title": "STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-04685755-fc1d-4f40-bf9d-75681d96b775.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-04685755-fc1d-4f40-bf9d-75681d96b775.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
-          "author": "The Defiant Team",
-          "description": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.",
-          "link": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
-          "publishedOn": "2026-10-16T16:28:04.000Z",
-          "wordCount": null,
-          "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/878610edcdebb796c8071aaf2cecd237b2d8a729-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/878610edcdebb796c8071aaf2cecd237b2d8a729-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
-          "author": "The Defiant Team",
-          "description": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
-          "publishedOn": "2026-10-16T15:05:02.000Z",
-          "wordCount": null,
-          "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00ca10cb2c3e85831555f0fd7a47a5c85b13e8ad-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00ca10cb2c3e85831555f0fd7a47a5c85b13e8ad-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
-          "author": "The Defiant Team",
-          "description": "The July trial covered issuance, transfer and redemption for Mitsubishi Corporation, while the banks have targeted commercial transactions in fiscal 2026.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
-          "publishedOn": "2026-10-16T15:04:54.000Z",
-          "wordCount": null,
-          "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca2521cef359886bae4bd02a868125e28b822022-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca2521cef359886bae4bd02a868125e28b822022-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-us-seeks-up-to-100-million-at-1-billion-valuation-bloomberg-reports",
-          "author": "The Defiant Team",
-          "description": "Trump-affiliated World Liberty Financial was made aware of the fundraising but is not participating, according to Bloomberg.",
-          "link": "https://thedefiant.io/news/cefi/binance-us-seeks-up-to-100-million-at-1-billion-valuation-bloomberg-reports",
-          "publishedOn": "2026-10-16T15:04:47.000Z",
-          "wordCount": null,
-          "title": "Binance.US Seeks Up to $100 Million at $1 Billion Valuation, Bloomberg Reports",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/235a197f3a62ade008e02b3aefce0aa84a46666a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/235a197f3a62ade008e02b3aefce0aa84a46666a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/network-school-takes-over-farcaster-with-new-posting-rules",
-          "author": "The Defiant Team",
-          "description": "The new social smart contract gives the core team authority to update conduct rules, with humans and AI already reviewing posts.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/network-school-takes-over-farcaster-with-new-posting-rules",
-          "publishedOn": "2026-10-16T15:02:44.000Z",
-          "wordCount": null,
-          "title": "Network School Takes Over Farcaster With New Posting Rules",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5129d1196d8c7322688c48978b5d6a6cfa152e7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5129d1196d8c7322688c48978b5d6a6cfa152e7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
-          "author": "The Defiant Team",
-          "description": "Robinhood’s offshore tokens do not convey shareholder rights, while the SEC’s new US trading framework gives issuers a limited right to object.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
-          "publishedOn": "2026-10-16T15:01:49.000Z",
-          "wordCount": null,
-          "title": "AMC CEO Says Company Won’t Consent to Robinhood Stock Tokens in US",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cd1c43f3ba2438e1c550182497239ec1e61904d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6cd1c43f3ba2438e1c550182497239ec1e61904d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
-          "author": "The Defiant Team",
-          "description": "The sale includes Persona’s intellectual property, a treasury of 957 NFTs and the UNA token contracts, with offers due November 2.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
-          "publishedOn": "2026-10-16T15:00:40.000Z",
-          "wordCount": null,
-          "title": "Unagi Puts Persona and Ultimate Champions Up for Sale in Liquidation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/823e657621ec4079774a9902352439a7e0884bee-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/823e657621ec4079774a9902352439a7e0884bee-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
-          "author": "The Defiant Team",
-          "description": "INJ outpaced NEAR, Sei and Cosmos Hub over 24 hours, while a proposed 21Shares fund would hold the token directly and allow discretionary staking.",
-          "link": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
-          "publishedOn": "2026-10-16T14:58:50.000Z",
-          "wordCount": 3753,
-          "title": "INJ Surges 27%, Outpacing NEAR and Sei",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee9ffbbda81db6e672d9a5cb17bdb6df6ebac982-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee9ffbbda81db6e672d9a5cb17bdb6df6ebac982-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
-          "author": "The Defiant Team",
-          "description": "The planned offering would let businesses fund card programs around the clock, with Coinbase holding balances and Base providing onchain settlement infrastructure.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
-          "publishedOn": "2026-10-16T14:57:56.000Z",
-          "wordCount": null,
-          "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ceeeb0716583cf199335c0a0fae2441e555bf23a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ceeeb0716583cf199335c0a0fae2441e555bf23a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-equities-reached-3-8-billion-this-year-dwf-labs-says",
-          "author": "The Defiant Team",
-          "description": "The report puts weekly spot trading on decentralized exchanges at $2.54 billion, 55 times the January level, with Ondo's issuer share down to 26% from 56%.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-equities-reached-3-8-billion-this-year-dwf-labs-says",
-          "publishedOn": "2026-10-16T14:40:00.000Z",
-          "wordCount": null,
-          "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/dwf-equities-cropped2-jpg-932007ea-156b-4e76-be78-1871b9896265.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/dwf-equities-cropped2-jpg-932007ea-156b-4e76-be78-1871b9896265.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
-          "author": "The Defiant Team",
-          "description": "Under FIP-0118, the consensus share of each block reward falls from 95% toward a 50% floor over about nine quarters, and any service share left unearned is burned.",
-          "link": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
-          "publishedOn": "2026-10-16T14:35:48.000Z",
-          "wordCount": null,
-          "title": "Filecoin Plans to Shift Block Rewards Toward Paid Storage",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/filecoin-cropped-jpg-35228ff3-e832-40b8-b77c-7ac0c3d323b9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/filecoin-cropped-jpg-35228ff3-e832-40b8-b77c-7ac0c3d323b9.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
-          "author": "The Defiant Team",
-          "description": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
-          "link": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
-          "publishedOn": "2026-10-16T14:32:00.000Z",
-          "wordCount": 3820,
-          "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg"
         }
       ]
     }
