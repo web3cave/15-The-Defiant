@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T05:28:33.666Z</id>
+    <id>urn:2026-10-21T10:44:19.701Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-21T05:28:33.666Z</updated>
+    <updated>2026-10-21T10:44:19.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Share Unlock Looms Over Aave Collateral Proposal]]></title>
+        <id>https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal</id>
+        <link href="https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal"/>
+        <updated>2026-10-21T10:12:12.000Z</updated>
+        <summary type="html"><![CDATA[LlamaRisk recommends a 55% collateral factor and a 37,000-token cap, with larger liquidations dependent on redemptions or derivatives hedges.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStocks' BNB Chain Tokens Offer Price Exposure, Not Private Shares]]></title>
+        <id>https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares</id>
+        <link href="https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares"/>
+        <updated>2026-10-21T09:33:59.000Z</updated>
+        <summary type="html"><![CDATA[The platform's terms give holders no claim on underlying shares and allow exposure through SPVs or derivatives.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evernorth’s $132.2 Million Warrant Registration Goes Effective]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective"/>
+        <updated>2026-10-21T09:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Cash exercises would add up to 11.5 million XRPN shares, while Evernorth says net proceeds would fund general corporate purposes.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps]]></title>
+        <id>https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps</id>
+        <link href="https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps"/>
+        <updated>2026-10-21T09:09:53.000Z</updated>
+        <summary type="html"><![CDATA[The provider is paying users from its own bitcoin wallet while Liquid federation reserves still cover about 85.8% of outstanding L-BTC.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition]]></title>
+        <id>https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition</id>
+        <link href="https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition"/>
+        <updated>2026-10-21T08:16:47.000Z</updated>
+        <summary type="html"><![CDATA[The final plan retains CAKE buybacks from non-stablecoin protocol fees and phases a roughly 69% cut in effective daily emissions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches]]></title>
+        <id>https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches</id>
+        <link href="https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches"/>
+        <updated>2026-10-21T07:58:31.000Z</updated>
+        <summary type="html"><![CDATA[PHP’s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes]]></title>
+        <id>https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes</id>
+        <link href="https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes"/>
+        <updated>2026-10-21T05:46:01.000Z</updated>
+        <summary type="html"><![CDATA[PHP plans to publish patches at 10 a.m. ET on Oct. 21, with affected versions and technical details due alongside the release.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pendle Daily Volume Hits $159 Million, Led by Ethereum]]></title>
         <id>https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum</id>
@@ -931,76 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030"/>
         <updated>2026-10-15T14:37:31.000Z</updated>
         <summary type="html"><![CDATA[The privacy Layer 2 plans hardened developer libraries in early 2027, while its full migration also depends on changes to Ethereum.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading]]></title>
-        <id>https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading</id>
-        <link href="https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading"/>
-        <updated>2026-10-15T14:34:52.000Z</updated>
-        <summary type="html"><![CDATA[The points competition shares a 250,000 USDT reward pool with Outcomes. Funded trading is scheduled to follow after the contest ends.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Routed Payments to Hines's Firm During White House Tenure, WSJ Reports]]></title>
-        <id>https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports</id>
-        <link href="https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports"/>
-        <updated>2026-10-15T14:31:28.000Z</updated>
-        <summary type="html"><![CDATA[The Journal says Nxum earned $6.3 million from the arrangement; a firm representative said Hines received no Tether-derived funds while in government.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenization Is About Much More Than Bringing Assets Onchain]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain"/>
-        <updated>2026-10-15T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Instant settlement, automated coupon payments and collateral that can be re-pledged in DeFi are what separate a tokenized asset from its offchain version.]]></summary>
-        <author>
-            <name>Benjamin Sarquis Peillard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firelight Adds $30.5 Million of Cover to Kraken USDC Vault]]></title>
-        <id>https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault</id>
-        <link href="https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault"/>
-        <updated>2026-10-15T14:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Depositors face a $100,000 cap per address per coverage period, with payouts handled by Sentora rather than guaranteed by Kraken.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Wholesale Inflation Accelerates to 6.3% as Bitcoin Slips]]></title>
-        <id>https://thedefiant.io/news/markets/us-wholesale-inflation-accelerates-to-6-3-as-bitcoin-slips</id>
-        <link href="https://thedefiant.io/news/markets/us-wholesale-inflation-accelerates-to-6-3-as-bitcoin-slips"/>
-        <updated>2026-10-15T13:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Gasoline producer prices jumped 20.3% in September, while Polymarket traders put a 72.5% probability on the Fed holding rates at its next meeting.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe Launches Safenet Aegis Security Network on Three Chains]]></title>
-        <id>https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains</id>
-        <link href="https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains"/>
-        <updated>2026-10-15T13:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Checks cost 0.40 USDC, paid to security providers, while onchain enforcement requires enabling a Guard on the Safe account.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe and Plasma to Develop Multi-Currency Stablecoin Cards]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards"/>
-        <updated>2026-10-15T13:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Plasma plans to move to Stripe’s card infrastructure, with direct euro spending among the capabilities under development.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
