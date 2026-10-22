@@ -6,6 +6,96 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+          "author": "The Defiant Team",
+          "description": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
+          "link": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+          "publishedOn": "2026-10-22T23:18:52.000Z",
+          "wordCount": null,
+          "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
+          "author": "The Defiant Team",
+          "description": "A historical ETH-to-USDC receipt shows how deductions reconcile. UniswapX handles network costs differently from a classic pool swap.",
+          "link": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
+          "publishedOn": "2026-10-22T23:18:19.000Z",
+          "wordCount": null,
+          "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9c794f1f7a26d6fb2d16c26aa0eb7ab460b6c37-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9c794f1f7a26d6fb2d16c26aa0eb7ab460b6c37-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+          "author": "The Defiant Team",
+          "description": "Robinhood’s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+          "publishedOn": "2026-10-22T23:14:19.000Z",
+          "wordCount": null,
+          "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
+          "author": "The Defiant Team",
+          "description": "The senator asked Tether and Nxum to provide payment records, crypto wallet addresses and lobbying communications by Nov. 3.",
+          "link": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
+          "publishedOn": "2026-10-22T22:58:46.000Z",
+          "wordCount": null,
+          "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
+          "author": "The Defiant Team",
+          "description": "Hourly Match auctions pass the redemption clearing fee to minters, with charges capped at Circle’s Express rate.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
+          "publishedOn": "2026-10-22T22:08:46.000Z",
+          "wordCount": null,
+          "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/interpol-cybercrime-sweep-recovers-over-105-million-nets-1-462-arrests",
+          "author": "The Defiant Team",
+          "description": "Angolan authorities seized more than 2,000 crypto-mining devices; a Nigerian probe traced more than $2.4 million in suspected fraud proceeds.",
+          "link": "https://thedefiant.io/news/security/interpol-cybercrime-sweep-recovers-over-105-million-nets-1-462-arrests",
+          "publishedOn": "2026-10-22T21:14:43.000Z",
+          "wordCount": null,
+          "title": "Interpol Cybercrime Sweep Recovers Over $105 Million, Nets 1,462 Arrests",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
           "author": "The Defiant Team",
           "description": "The proposed upgrade speeds Ethereum-to-Aztec messaging and funds 30 days of V5 operation during migration; the dashboard lists October 26 for execution.",
@@ -971,7 +1061,7 @@
           "description": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
           "link": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
           "publishedOn": "2026-10-21T12:03:07.000Z",
-          "wordCount": 3869,
+          "wordCount": 3868,
           "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1792584066566-png-614e3817-6dd9-4365-a52b-a023b7ac249b.png",
@@ -1414,96 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/14489f0a8d200e28324372fa8f611baae9fcd86d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-disruption-hits-payments-and-crypto-services",
-          "author": "The Defiant Team",
-          "description": "The company said customer money and data were safe, while sign-in and ATM withdrawals were also affected.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-disruption-hits-payments-and-crypto-services",
-          "publishedOn": "2026-10-20T10:54:21.000Z",
-          "wordCount": null,
-          "title": "Revolut Disruption Hits Payments and Crypto Services",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9b3fff8571ccf8980604021db6457007216cc25-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9b3fff8571ccf8980604021db6457007216cc25-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
-          "author": "The Defiant Team",
-          "description": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
-          "publishedOn": "2026-10-20T10:09:57.000Z",
-          "wordCount": null,
-          "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3d587a7faad38d1487f36df265450b3a2d378689-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3d587a7faad38d1487f36df265450b3a2d378689-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
-          "author": "The Defiant Team",
-          "description": "Five Etherscan-labeled Drift exploiter wallets still hold about 84,164 ETH as recovery efforts continue after April’s attack.",
-          "link": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
-          "publishedOn": "2026-10-20T09:12:49.000Z",
-          "wordCount": null,
-          "title": "Drift-Linked Wallet Sends $54.8 Million in ETH to Tornado Cash",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca9d5b240ded7f71d54db625863f0689edb0ea4d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca9d5b240ded7f71d54db625863f0689edb0ea4d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
-          "author": "The Defiant Team",
-          "description": "The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged.",
-          "link": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
-          "publishedOn": "2026-10-20T08:02:39.000Z",
-          "wordCount": null,
-          "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/466fa65162e2909606426d7364002aa127d6016b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/466fa65162e2909606426d7364002aa127d6016b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
-          "author": "The Defiant Team",
-          "description": "The related consensus-specs issue was closed as ‘not planned’; its author points to pre-deposit checks as a defense.",
-          "link": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
-          "publishedOn": "2026-10-20T07:49:17.000Z",
-          "wordCount": null,
-          "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
-          "author": "The Defiant Team",
-          "description": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
-          "publishedOn": "2026-10-20T02:39:23.000Z",
-          "wordCount": null,
-          "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aebc288ea83a64e5805d119f14921ff507f58b8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7aebc288ea83a64e5805d119f14921ff507f58b8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
