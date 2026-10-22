@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T22:51:15.716Z</id>
+    <id>urn:2026-10-22T01:02:59.582Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-21T22:51:15.716Z</updated>
+    <updated>2026-10-22T01:02:59.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address]]></title>
+        <id>https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing</id>
+        <link href="https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing"/>
+        <updated>2026-10-21T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[The deployer bought 79% of the supply for about $9,300 and named a single address the permanent, unchangeable recipient of every creator fee the coin will ever pay. Pump.fun's own profile page titles that address “Kimchi”]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Obol Urges Immediate Charon Upgrade After CA Key Compromise]]></title>
         <id>https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets"/>
         <updated>2026-10-16T18:32:37.000Z</updated>
         <summary type="html"><![CDATA[The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karpelès Reports Ledger Implants in Devices From Two More Resellers]]></title>
-        <id>https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers</id>
-        <link href="https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers"/>
-        <updated>2026-10-16T18:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check cannot detect the added hardware.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
