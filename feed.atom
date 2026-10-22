@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-22T06:45:21.208Z</id>
+    <id>urn:2026-10-22T12:35:19.785Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-22T06:45:21.208Z</updated>
+    <updated>2026-10-22T12:35:19.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zipcoin Announces Shutdown and Plans Token Sale]]></title>
+        <id>https://thedefiant.io/news/hacks/zipcoin-announces-shutdown-and-plans-token-sale</id>
+        <link href="https://thedefiant.io/news/hacks/zipcoin-announces-shutdown-and-plans-token-sale"/>
+        <updated>2026-10-22T12:18:11.000Z</updated>
+        <summary type="html"><![CDATA[The team says project wallets hold 2.2% of supply, while ZC has fallen 84% over 24 hours.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SoFi Launches SOFIE Tokenized Deposit With 4.4% APY]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/sofi-launches-sofie-tokenized-deposit-with-4-4-apy</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sofi-launches-sofie-tokenized-deposit-with-4-4-apy"/>
+        <updated>2026-10-22T12:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Members can convert the deposit into SoFiUSD at a 1:1 rate, but deposit interest and FDIC coverage do not follow the money into the stablecoin.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Ireland Fined €3.25 Million Over Customer-Fund Failures]]></title>
+        <id>https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures</id>
+        <link href="https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures"/>
+        <updated>2026-10-22T12:06:32.000Z</updated>
+        <summary type="html"><![CDATA[The safeguarding shortfall reached €5.2 million in 2024. The sanctions require High Court confirmation before taking effect.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base Active Addresses Jump 82.5% to a 30-Day High]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-active-addresses-jump-82-5-to-a-30-day-high</id>
+        <link href="https://thedefiant.io/news/blockchains/base-active-addresses-jump-82-5-to-a-30-day-high"/>
+        <updated>2026-10-22T09:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Transactions and user-paid fees also rose as the Ethereum Layer 2 recorded 629,142 active addresses on Oct. 21.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert]]></title>
+        <id>https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert</id>
+        <link href="https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert"/>
+        <updated>2026-10-22T08:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Sumit Gupta says the flagged addresses were compromised in July 2025 and that no funds from CoinDCX’s current wallets were affected.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap]]></title>
+        <id>https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap</id>
+        <link href="https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap"/>
+        <updated>2026-10-22T08:02:40.000Z</updated>
+        <summary type="html"><![CDATA[The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case]]></title>
         <id>https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash"/>
         <updated>2026-10-19T13:11:40.000Z</updated>
         <summary type="html"><![CDATA[Onchain records show about 140 RUNE deducted from 18 node accounts. The fix is scheduled for the v3.21 upgrade around Oct. 23.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORChain Targets Rujira Restart With v3.21 Exploit Fix]]></title>
-        <id>https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix</id>
-        <link href="https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix"/>
-        <updated>2026-10-19T13:10:58.000Z</updated>
-        <summary type="html"><![CDATA[The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Extends JPM Coin to Ethereum for Institutional Clients]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"/>
-        <updated>2026-10-19T07:53:33.000Z</updated>
-        <summary type="html"><![CDATA[The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qubic Halts Network After $1.3 Million Wallet Drain]]></title>
-        <id>https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain</id>
-        <link href="https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain"/>
-        <updated>2026-10-18T15:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Qubic says 87.1% of the drained QU remains immobilized on its network, while MEXC froze the account receiving the rest.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS]]></title>
-        <id>https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys</id>
-        <link href="https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys"/>
-        <updated>2026-10-18T11:10:38.000Z</updated>
-        <summary type="html"><![CDATA[About 2.8 million CYS remain frozen at the recipient address, while onchain records show some tokens were sold before the blacklist took effect.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote]]></title>
-        <id>https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote</id>
-        <link href="https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote"/>
-        <updated>2026-10-17T19:42:21.000Z</updated>
-        <summary type="html"><![CDATA[The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Injective Activates Fixed Gas Costs for Exchange Transactions]]></title>
-        <id>https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions</id>
-        <link href="https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions"/>
-        <updated>2026-10-17T17:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Traders and app developers can use published gas budgets for orders, cancellations, deposits and withdrawals instead of simulating each transaction.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
