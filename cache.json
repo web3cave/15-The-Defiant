@@ -6,6 +6,141 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
+          "author": "The Defiant Team",
+          "description": "AP2 records spending authority, while x402 carries payment requests. Mastercard’s machine-payment pilot shows why a signed voucher and final settlement are different steps.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
+          "publishedOn": "2026-10-23T17:54:23.000Z",
+          "wordCount": null,
+          "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7201cde3a691f4f76b725e1ddc24bd993e4c2a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f7201cde3a691f4f76b725e1ddc24bd993e4c2a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
+          "author": "The Defiant Team",
+          "description": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia.",
+          "link": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
+          "publishedOn": "2026-10-23T17:27:28.000Z",
+          "wordCount": null,
+          "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6ad564c38a53885ff0fbb74968351dca0208b77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6ad564c38a53885ff0fbb74968351dca0208b77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
+          "author": "The Defiant Team",
+          "description": "Lighter counts 70% of weETH’s index value toward trading margin and caps platform-wide collateral supply at 1,000 weETH.",
+          "link": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
+          "publishedOn": "2026-10-23T17:15:39.000Z",
+          "wordCount": null,
+          "title": "Lighter Adds weETH as Perpetual Futures Collateral",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85bcd85862071e278d644e3585f1698541372904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85bcd85862071e278d644e3585f1698541372904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
+          "author": "The Defiant Team",
+          "description": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
+          "link": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
+          "publishedOn": "2026-10-23T17:08:01.000Z",
+          "wordCount": null,
+          "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19873e4ccf1d33c18945036ea34966f464df0178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19873e4ccf1d33c18945036ea34966f464df0178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+          "author": "The Defiant Team",
+          "description": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
+          "link": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+          "publishedOn": "2026-10-23T16:19:13.000Z",
+          "wordCount": null,
+          "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fef407904ab37d9dee1d22ca7c6ac7ee7934167e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fef407904ab37d9dee1d22ca7c6ac7ee7934167e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
+          "author": "The Defiant Team",
+          "description": "Eligible participants will receive tokens in self-hosted Arc wallets. Full tokenomics will follow a MiCA white paper expected on Oct. 31.",
+          "link": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
+          "publishedOn": "2026-10-23T16:11:56.000Z",
+          "wordCount": null,
+          "title": "Extended Plans November XTEN Launch With 30% for Points Users",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/968a72b47f5b765113473b540045e07ab05ff462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/968a72b47f5b765113473b540045e07ab05ff462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
+          "author": "The Defiant Team",
+          "description": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
+          "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
+          "publishedOn": "2026-10-23T15:02:50.000Z",
+          "wordCount": 9835,
+          "title": "China Sets 2030 Target for National Blockchain Network",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+          "author": "The Defiant Team",
+          "description": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026.",
+          "link": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+          "publishedOn": "2026-10-23T14:27:17.000Z",
+          "wordCount": null,
+          "title": "SEC Adds Tokenization to 2027 Examination Priorities",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/41ca10fd45b934d1cc4f85362e7db7c0c2c95dc7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/41ca10fd45b934d1cc4f85362e7db7c0c2c95dc7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/succinct-patches-sp1-bug-that-could-let-invalid-proofs-pass",
+          "author": "The Defiant Team",
+          "description": "The flaw affected native Rust verification in versions 6.0.0–6.8.0. Onchain Groth16 and Plonk verification through Solidity verifiers was unaffected.",
+          "link": "https://thedefiant.io/news/security/succinct-patches-sp1-bug-that-could-let-invalid-proofs-pass",
+          "publishedOn": "2026-10-23T14:15:24.000Z",
+          "wordCount": null,
+          "title": "Succinct Patches SP1 Bug That Could Let Invalid Proofs Pass",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d14078f711d804f3089ff313ff95815f83c5482-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d14078f711d804f3089ff313ff95815f83c5482-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
           "author": "The Defiant Team",
           "description": "Mozilla had unpublished the add-ons by Oct. 5, the security firm says. Removing them does not secure wallets whose recovery phrases were exposed.",
@@ -14,11 +149,11 @@
           "wordCount": null,
           "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eaf13f96d862f45582c54beed1e745f5428ee49c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eaf13f96d862f45582c54beed1e745f5428ee49c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-another-50-as-transactions-and-fees-fall",
@@ -29,11 +164,11 @@
           "wordCount": null,
           "title": "Base Active Addresses Jump Another 50% as Transactions and Fees Fall",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/deb8d38a93d2137fcaabbc1621640246a37fe676-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/deb8d38a93d2137fcaabbc1621640246a37fe676-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
@@ -44,11 +179,11 @@
           "wordCount": null,
           "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7618585e01fc91e659a17e9a7092b2ea1367a038-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7618585e01fc91e659a17e9a7092b2ea1367a038-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
@@ -59,11 +194,11 @@
           "wordCount": null,
           "title": "Swell Pauses swETH and rswETH Deposits and Withdrawals",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a6190b72b02bb2643786264a62a7cdf40cf914f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a6190b72b02bb2643786264a62a7cdf40cf914f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/malaysia-and-thailand-join-singapore-s-bloom-digital-money-initiative",
@@ -74,11 +209,11 @@
           "wordCount": null,
           "title": "Malaysia and Thailand Join Singapore’s BLOOM Digital-Money Initiative",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9406f47340ad9eebbd72e67dedec2ea89acbdd52-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9406f47340ad9eebbd72e67dedec2ea89acbdd52-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/security/uae-led-scam-crackdown-identifies-over-39-billion-in-funds-and-crypto",
@@ -89,11 +224,11 @@
           "wordCount": null,
           "title": "UAE-Led Scam Crackdown Identifies Over $39 Billion in Funds and Crypto",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4f3c76a2d15862ecf550213962eb1a9c8a759cc9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4f3c76a2d15862ecf550213962eb1a9c8a759cc9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
@@ -104,11 +239,11 @@
           "wordCount": null,
           "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aa36a83bfa016c84e09d5f055d6a81b2b776c8e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7aa36a83bfa016c84e09d5f055d6a81b2b776c8e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
@@ -134,11 +269,11 @@
           "wordCount": null,
           "title": "Robinhood vs. Securitize: Stock Token Access Compared",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d68d3d00eff8d086d9b1dfb63ae92b84f8a2236-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d68d3d00eff8d086d9b1dfb63ae92b84f8a2236-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
@@ -149,11 +284,11 @@
           "wordCount": null,
           "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15825b4b45ceb17e7a9a7af0c3ded2d866b656fc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15825b4b45ceb17e7a9a7af0c3ded2d866b656fc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
@@ -164,11 +299,11 @@
           "wordCount": null,
           "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4671c2302f6e93dc4ea56970f862aee55608416-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f4671c2302f6e93dc4ea56970f862aee55608416-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/security/interpol-cybercrime-sweep-recovers-over-105-million-nets-1-462-arrests",
@@ -179,11 +314,11 @@
           "wordCount": null,
           "title": "Interpol Cybercrime Sweep Recovers Over $105 Million, Nets 1,462 Arrests",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f26344c28aa2b35efc38514a52c009c08f394157-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f26344c28aa2b35efc38514a52c009c08f394157-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
@@ -194,11 +329,11 @@
           "wordCount": null,
           "title": "Aztec Announces V6 Approval While Governance Dashboard Still Shows Voting Open",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0e437196250a26253b4e51943586164e64d62854-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0e437196250a26253b4e51943586164e64d62854-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-brings-mony-and-jltxx-tokenized-funds-to-solana",
@@ -209,11 +344,11 @@
           "wordCount": null,
           "title": "JPMorgan Brings MONY and JLTXX Tokenized Funds to Solana",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/58c31de8f403b56089cf8a4a29aac4711381aafb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/58c31de8f403b56089cf8a4a29aac4711381aafb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
@@ -224,11 +359,11 @@
           "wordCount": null,
           "title": "Tether-Backed Utexo Sets November 28 Launch for Bridged USDT on Bitcoin",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0ead47ef87dea3f54735019dd4f341350986ed41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0ead47ef87dea3f54735019dd4f341350986ed41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades",
@@ -239,11 +374,11 @@
           "wordCount": null,
           "title": "Pump.fun Adds Take-Profit and Stop-Loss Orders for EVM Trades",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d74204aee6a6095461ac2c13d2ab9d5f5d414eb1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d74204aee6a6095461ac2c13d2ab9d5f5d414eb1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
@@ -254,11 +389,11 @@
           "wordCount": null,
           "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0eceeb6428cdb6de2b808561e4a82edf7fd0b7c7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0eceeb6428cdb6de2b808561e4a82edf7fd0b7c7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
@@ -266,14 +401,14 @@
           "description": "Glassnode’s estimated ETF holding cost, last dated Oct. 19, has acted as support in October after capping bitcoin’s May rally.",
           "link": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
           "publishedOn": "2026-10-22T16:43:52.000Z",
-          "wordCount": 3751,
+          "wordCount": 9852,
           "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/66ba53100d381bab63aec9d4e41b973150f75e44-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66ba53100d381bab63aec9d4e41b973150f75e44-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
@@ -416,7 +551,7 @@
           "description": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale.",
           "link": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
           "publishedOn": "2026-10-22T13:51:27.000Z",
-          "wordCount": 3753,
+          "wordCount": 9854,
           "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5da7c5dafe43f413436203cf52f0565f0e31430-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -566,7 +701,7 @@
           "description": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.",
           "link": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
           "publishedOn": "2026-10-22T06:42:39.000Z",
-          "wordCount": 3759,
+          "wordCount": 9860,
           "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f046e9cc90f0dca9e6f3dc1d5444bc711510ce9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -821,7 +956,7 @@
           "description": "Attorney General Todd Blanche described a nationwide scam prosecution initiative deploying dozens of prosecutors across all 94 US Attorneys’ Offices.",
           "link": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
           "publishedOn": "2026-10-21T20:29:24.000Z",
-          "wordCount": 3787,
+          "wordCount": 9888,
           "title": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d2e791ff964368a4e3aa82d73db889acc1ba753-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -896,7 +1031,7 @@
           "description": "The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16.",
           "link": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
           "publishedOn": "2026-10-21T17:15:03.000Z",
-          "wordCount": 3751,
+          "wordCount": 9852,
           "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8afcc25665f5570bd464c260f3e5bca03aba8c23-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -926,7 +1061,7 @@
           "description": "A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18.",
           "link": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
           "publishedOn": "2026-10-21T16:53:04.000Z",
-          "wordCount": 3728,
+          "wordCount": 9829,
           "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c33c5d38694ebbcb643b3f66ce5b0bd110c564a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -971,7 +1106,7 @@
           "description": "Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.",
           "link": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
           "publishedOn": "2026-10-21T16:38:20.000Z",
-          "wordCount": 3772,
+          "wordCount": 9873,
           "title": "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/636056e60ffda54f7c4f8143e6e8b8a55900bce3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1151,7 +1286,7 @@
           "description": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
           "link": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
           "publishedOn": "2026-10-21T12:03:07.000Z",
-          "wordCount": 3871,
+          "wordCount": 9969,
           "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1792584066566-png-614e3817-6dd9-4365-a52b-a023b7ac249b.png",
@@ -1369,141 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b584e55c7caecf8986431760983684998222956-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
-          "author": "The Defiant Team",
-          "description": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat.",
-          "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
-          "publishedOn": "2026-10-20T17:07:44.000Z",
-          "wordCount": 3773,
-          "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
-          "author": "The Defiant Team",
-          "description": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator set",
-          "link": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
-          "publishedOn": "2026-10-20T16:24:01.000Z",
-          "wordCount": null,
-          "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/optimum-cropped-jpg-f4708f31-af2c-4fd2-b760-ef1672fc83c6.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/optimum-cropped-jpg-f4708f31-af2c-4fd2-b760-ef1672fc83c6.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
-          "author": "The Defiant Team",
-          "description": "The Chrome-only wallet combines private balances, Ledger signing and multisig accounts, with a recovery phrase for backup.",
-          "link": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
-          "publishedOn": "2026-10-20T15:55:09.000Z",
-          "wordCount": null,
-          "title": "Starknet Foundation Launches Bramble Wallet With STRK20 Shielding",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d9d47620176959e36764546e0f45f3a453ce696-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d9d47620176959e36764546e0f45f3a453ce696-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
-          "author": "The Defiant Team",
-          "description": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD.",
-          "link": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
-          "publishedOn": "2026-10-20T15:18:18.000Z",
-          "wordCount": null,
-          "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1227575f8e6d3568a9f349e69ad4b6672aeda904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1227575f8e6d3568a9f349e69ad4b6672aeda904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
-          "author": "The Defiant Team",
-          "description": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark.",
-          "link": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
-          "publishedOn": "2026-10-20T15:11:45.000Z",
-          "wordCount": null,
-          "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/72e521ac091f09d5e36ad9ef9f038734258c7724-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/72e521ac091f09d5e36ad9ef9f038734258c7724-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
-          "author": "The Defiant Team",
-          "description": "Existing cards and accounts remain accessible for now, but the issuer and provider—not 1inch—control when card functionality ends.",
-          "link": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
-          "publishedOn": "2026-10-20T14:47:50.000Z",
-          "wordCount": null,
-          "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd80eb36bb78424aabe8bf610fe7e14064f65573-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd80eb36bb78424aabe8bf610fe7e14064f65573-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
-          "author": "The Defiant Team",
-          "description": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
-          "publishedOn": "2026-10-20T14:19:56.000Z",
-          "wordCount": null,
-          "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19f1adbd2c02c1c128e801513762ab9e682cc850-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19f1adbd2c02c1c128e801513762ab9e682cc850-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/the-ledger-implant-factory-mark-karpeles-on-who-s-building-spy-chips-at-scale",
-          "author": "Camila Russo",
-          "description": "Former Mt. Gox CEO Mark Karpelès has spent two weeks opening Ledger hardware wallets bought from third-party sellers in Japan, Singapore and Germany. What he found inside wasn't a one-off: the boards carry revision markings, regional antenna variants and a design that has moved from hand-soldering",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/the-ledger-implant-factory-mark-karpeles-on-who-s-building-spy-chips-at-scale",
-          "publishedOn": "2026-10-20T14:00:00.000Z",
-          "wordCount": null,
-          "title": "The Ledger Implant Factory: Mark Karpelès on Who's Building Spy Chips at Scale",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v4-jpg-57e1d076-0eb0-4d69-8a8b-3d22854b8196.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v4-jpg-57e1d076-0eb0-4d69-8a8b-3d22854b8196.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
-          "author": "The Defiant Team",
-          "description": "Buyers fund contracts in USDC and cannot exit before expiry. US and UK residents are among those excluded.",
-          "link": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
-          "publishedOn": "2026-10-20T13:56:56.000Z",
-          "wordCount": null,
-          "title": "Blockchain.com Launches Options Trading on Seven Cryptoassets",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/deeecd28407af66fa467849fab2c206808e22b95-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/deeecd28407af66fa467849fab2c206808e22b95-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
