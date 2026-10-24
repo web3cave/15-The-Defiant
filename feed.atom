@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T09:55:40.189Z</id>
+    <id>urn:2026-10-24T13:41:57.751Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-24T09:55:40.189Z</updated>
+    <updated>2026-10-24T13:41:57.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[API Key Rotation: What Revocation and Redeployment Actually Change]]></title>
+        <id>https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change</id>
+        <link href="https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change"/>
+        <updated>2026-10-24T13:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady]]></title>
         <id>https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective"/>
         <updated>2026-10-21T09:28:54.000Z</updated>
         <summary type="html"><![CDATA[Cash exercises would add up to 11.5 million XRPN shares, while Evernorth says net proceeds would fund general corporate purposes.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps]]></title>
-        <id>https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps</id>
-        <link href="https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps"/>
-        <updated>2026-10-21T09:09:53.000Z</updated>
-        <summary type="html"><![CDATA[The provider is paying users from its own bitcoin wallet while Liquid federation reserves still cover about 85.8% of outstanding L-BTC.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

@@ -6,6 +6,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
+          "author": "The Defiant Team",
+          "description": "Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime.",
+          "link": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
+          "publishedOn": "2026-10-24T13:16:55.000Z",
+          "wordCount": null,
+          "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c4451f1621bdd0644b6963d77148a755d76049b7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c4451f1621bdd0644b6963d77148a755d76049b7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
           "author": "The Defiant Team",
           "description": "The token has underperformed bitcoin and ether, while Uniswap still holds about $4 billion in liquidity.",
@@ -1489,21 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/993bcfaac35548b56dd4f01615f891ab5816de49-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
-          "author": "The Defiant Team",
-          "description": "The provider is paying users from its own bitcoin wallet while Liquid federation reserves still cover about 85.8% of outstanding L-BTC.",
-          "link": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
-          "publishedOn": "2026-10-21T09:09:53.000Z",
-          "wordCount": null,
-          "title": "SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c4417509cc28cc715f546dddc76e29db96343ef4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c4417509cc28cc715f546dddc76e29db96343ef4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
