@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T17:03:42.047Z</id>
+    <id>urn:2026-10-24T19:54:50.774Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-24T17:03:42.047Z</updated>
+    <updated>2026-10-24T19:54:50.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[X100 Exploit Proceeds Split Into Four 400-ETH Wallets]]></title>
+        <id>https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets</id>
+        <link href="https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets"/>
+        <updated>2026-10-24T19:41:15.000Z</updated>
+        <summary type="html"><![CDATA[The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keystone Website Breach Exposes Customer Addresses and Order Details]]></title>
+        <id>https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details</id>
+        <link href="https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details"/>
+        <updated>2026-10-24T19:06:10.000Z</updated>
+        <summary type="html"><![CDATA[The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrum Patches Wallet Flaw Exploited Through Malicious Servers]]></title>
+        <id>https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers</id>
+        <link href="https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers"/>
+        <updated>2026-10-24T17:57:11.000Z</updated>
+        <summary type="html"><![CDATA[A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether]]></title>
         <id>https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt"/>
         <updated>2026-10-21T12:08:50.000Z</updated>
         <summary type="html"><![CDATA[The remittance company said the service will move funds in more than 60 currencies across over 200 countries, with recipients collecting a Solana stablecoin issued by Anchorage Digital Bank.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Lend Exit Plan Would Tap Borrower Collateral for Withdrawals]]></title>
-        <id>https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals</id>
-        <link href="https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals"/>
-        <updated>2026-10-21T12:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Positions nearest liquidation would be tapped first and their debt reduced. Eligibility for healthy loans and the lender’s route to ETH remain unspecified.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank"/>
-        <updated>2026-10-21T12:06:07.000Z</updated>
-        <summary type="html"><![CDATA[The tokenization platform behind funds from BlackRock, Apollo and KKR said it will source the dollars that settle those trades from a federally chartered bank instead of intermediaries.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Opens Mobile App to All Users, Pays Referrers 25% of Fees]]></title>
-        <id>https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees</id>
-        <link href="https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees"/>
-        <updated>2026-10-21T12:03:47.000Z</updated>
-        <summary type="html"><![CDATA[The marketplace said its social feed pulls trades from across crypto apps rather than its own users, and that 76% of the 56,000-plus beta signups were active.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
