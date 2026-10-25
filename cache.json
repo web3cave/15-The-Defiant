@@ -6,6 +6,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
+          "author": "The Defiant Team",
+          "description": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.",
+          "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
+          "publishedOn": "2026-10-25T13:15:20.000Z",
+          "wordCount": 9808,
+          "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbd08cb8c3b9a80ceb422cc7d7d3f6c68a4c9a7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dbd08cb8c3b9a80ceb422cc7d7d3f6c68a4c9a7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
+          "author": "The Defiant Team",
+          "description": "USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institutional clients.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
+          "publishedOn": "2026-10-25T13:15:06.000Z",
+          "wordCount": null,
+          "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88a0c568b02d9cdaff34f656915e28b658ddf8f2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88a0c568b02d9cdaff34f656915e28b658ddf8f2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+          "author": "The Defiant Team",
+          "description": "House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock.",
+          "link": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+          "publishedOn": "2026-10-25T11:27:13.000Z",
+          "wordCount": null,
+          "title": "Dogecoin Foundation and House of Doge End Exclusive Brand Deal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c560407661362963b44983429dbb71f74c1b6ff5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c560407661362963b44983429dbb71f74c1b6ff5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
           "author": "The Defiant Team",
           "description": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/321bc34bbe29147d87c22b818c275d0a6be577f8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
-          "author": "The Defiant Team",
-          "description": "Eligible users can borrow USDC or USDT on Ethereum, while pledged collateral sits in smart contracts and remains subject to liquidation.",
-          "link": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
-          "publishedOn": "2026-10-21T13:06:39.000Z",
-          "wordCount": null,
-          "title": "Ledger Adds Morpho Loans Against Wrapped Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ba520dd457bb04bd0ac2efa2413a2450f2ab5f09-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba520dd457bb04bd0ac2efa2413a2450f2ab5f09-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
-          "author": "The Defiant Team",
-          "description": "Custody operations will join the bank’s Securities Services business, while software and professional services will move to Zodia Solutions under SC Ventures.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
-          "publishedOn": "2026-10-21T12:13:07.000Z",
-          "wordCount": null,
-          "title": "Standard Chartered Signs Deal to Take Full Ownership of Zodia Custody",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/217a45dfa604a168961bb39e6cf39370cc88f90e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/217a45dfa604a168961bb39e6cf39370cc88f90e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt",
-          "author": "The Defiant Team",
-          "description": "The remittance company said the service will move funds in more than 60 currencies across over 200 countries, with recipients collecting a Solana stablecoin issued by Anchorage Digital Bank.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt",
-          "publishedOn": "2026-10-21T12:08:50.000Z",
-          "wordCount": null,
-          "title": "Western Union Picks Noah to Settle Receiver Redirect Payouts in USDPT",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1792584523072-png-c4ee7121-ceba-4f09-a445-274092382969.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1792584523072-png-c4ee7121-ceba-4f09-a445-274092382969.png"
         }
       ]
     }
