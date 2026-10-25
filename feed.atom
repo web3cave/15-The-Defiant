@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-25T14:37:50.674Z</id>
+    <id>urn:2026-10-25T17:56:02.851Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-25T14:37:50.674Z</updated>
+    <updated>2026-10-25T17:56:02.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How a DAO Vote Becomes a Treasury Transfer]]></title>
+        <id>https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer</id>
+        <link href="https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer"/>
+        <updated>2026-10-25T17:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap’s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check a Software Wallet—and What the Checks Cannot Prove]]></title>
+        <id>https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove</id>
+        <link href="https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove"/>
+        <updated>2026-10-25T17:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Tokenized Stocks Can Trade Away From the Share Price]]></title>
         <id>https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak"/>
         <updated>2026-10-21T14:21:15.000Z</updated>
         <summary type="html"><![CDATA[Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Perps Adds 3x OpenAI Pre-IPO Contract]]></title>
-        <id>https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract</id>
-        <link href="https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract"/>
-        <updated>2026-10-21T13:46:22.000Z</updated>
-        <summary type="html"><![CDATA[The perpetual has its own pricing and hourly funding payments, unlike the fully funded OPAIPon spot note. US persons are excluded.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodles' DOOD Token Surges 212% to a $38 Million Market Cap]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap"/>
-        <updated>2026-10-21T13:35:28.000Z</updated>
-        <summary type="html"><![CDATA[The collection's NFT floor rose 7.4% in ETH, while reported token trading volume reached $213 million over 24 hours.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

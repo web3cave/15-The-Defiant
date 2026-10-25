@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+          "author": "The Defiant Team",
+          "description": "Uniswap’s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens.",
+          "link": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+          "publishedOn": "2026-10-25T17:15:46.000Z",
+          "wordCount": null,
+          "title": "How a DAO Vote Becomes a Treasury Transfer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f4116906a49996e1c7735dd3826686265915fa2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f4116906a49996e1c7735dd3826686265915fa2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
+          "author": "The Defiant Team",
+          "description": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment.",
+          "link": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
+          "publishedOn": "2026-10-25T17:14:42.000Z",
+          "wordCount": null,
+          "title": "How to Check a Software Wallet—and What the Checks Cannot Prove",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a368f3fb14b1c0ee398efdd60cbe1f21afeffc5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a368f3fb14b1c0ee398efdd60cbe1f21afeffc5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
           "author": "The Defiant Team",
           "description": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.",
@@ -221,7 +251,7 @@
           "description": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether.",
           "link": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
           "publishedOn": "2026-10-24T06:28:11.000Z",
-          "wordCount": 9813,
+          "wordCount": 9843,
           "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bee369d6917bec675eb088f96e947f3720916db5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1474,36 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/79e64da09231f5ff3b082c80ff4772e4913bf6a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
-          "author": "The Defiant Team",
-          "description": "The perpetual has its own pricing and hourly funding payments, unlike the fully funded OPAIPon spot note. US persons are excluded.",
-          "link": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
-          "publishedOn": "2026-10-21T13:46:22.000Z",
-          "wordCount": null,
-          "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d8302ad60c95aedad595dc4627def3143755a0d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d8302ad60c95aedad595dc4627def3143755a0d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
-          "author": "The Defiant Team",
-          "description": "The collection's NFT floor rose 7.4% in ETH, while reported token trading volume reached $213 million over 24 hours.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
-          "publishedOn": "2026-10-21T13:35:28.000Z",
-          "wordCount": null,
-          "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/321bc34bbe29147d87c22b818c275d0a6be577f8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/321bc34bbe29147d87c22b818c275d0a6be577f8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
