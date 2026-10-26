@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-26T05:31:13.393Z</id>
+    <id>urn:2026-10-26T11:43:14.768Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-26T05:31:13.393Z</updated>
+    <updated>2026-10-26T11:43:14.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge]]></title>
+        <id>https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge</id>
+        <link href="https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge"/>
+        <updated>2026-10-26T09:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Blast has published contract-level exit guides, but withdrawals still require proofs, a one-day wait and, for USDB, a separate DAI claim.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensys Warns Ethereum Operators of eMudhra Signing Risks]]></title>
+        <id>https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks</id>
+        <link href="https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks"/>
+        <updated>2026-10-26T08:53:32.000Z</updated>
+        <summary type="html"><![CDATA[The teams identify vulnerable Java trust stores and configuration-dependent exposure. Default setups are unaffected, while some Web3Signer deployments need immediate access-control changes.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys]]></title>
         <id>https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin"/>
         <updated>2026-10-21T16:38:20.000Z</updated>
         <summary type="html"><![CDATA[Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunrise Brings Backpack’s Tokenized Meta Shares to Solana]]></title>
-        <id>https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana</id>
-        <link href="https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana"/>
-        <updated>2026-10-21T16:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns]]></title>
-        <id>https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns</id>
-        <link href="https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns"/>
-        <updated>2026-10-21T15:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
