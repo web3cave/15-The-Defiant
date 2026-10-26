@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-26T00:48:24.453Z</id>
+    <id>urn:2026-10-26T05:31:13.393Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-26T00:48:24.453Z</updated>
+    <updated>2026-10-26T05:31:13.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys]]></title>
+        <id>https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys</id>
+        <link href="https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys"/>
+        <updated>2026-10-26T04:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a DAO Vote Becomes a Treasury Transfer]]></title>
         <id>https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns"/>
         <updated>2026-10-21T15:01:45.000Z</updated>
         <summary type="html"><![CDATA[Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak]]></title>
-        <id>https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak</id>
-        <link href="https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak"/>
-        <updated>2026-10-21T14:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
