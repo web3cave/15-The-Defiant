@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T06:56:19.823Z</id>
+    <id>urn:2026-10-27T12:51:40.300Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-27T06:56:19.823Z</updated>
+    <updated>2026-10-27T12:51:40.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Approved Their Own Spending Increases on Circle Agent Wallets]]></title>
+        <id>https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl</id>
+        <link href="https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl"/>
+        <updated>2026-10-27T11:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts]]></title>
+        <id>https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts</id>
+        <link href="https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts"/>
+        <updated>2026-10-27T10:27:35.000Z</updated>
+        <summary type="html"><![CDATA[The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marinade Waives Bond Charges for Agave Slot-Skipping Bug]]></title>
+        <id>https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug</id>
+        <link href="https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug"/>
+        <updated>2026-10-27T10:08:39.000Z</updated>
+        <summary type="html"><![CDATA[The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Shareholders to Vote on Daily STRC Dividends]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends"/>
+        <updated>2026-10-27T09:38:37.000Z</updated>
+        <summary type="html"><![CDATA[The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Seeks Brazil Crypto License as It Delists 22 Tokens]]></title>
+        <id>https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens</id>
+        <link href="https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens"/>
+        <updated>2026-10-27T08:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap"/>
         <updated>2026-10-22T08:02:40.000Z</updated>
         <summary type="html"><![CDATA[The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case]]></title>
-        <id>https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case</id>
-        <link href="https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case"/>
-        <updated>2026-10-22T06:42:39.000Z</updated>
-        <summary type="html"><![CDATA[The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter Labs Introduces Prividium Commander for Existing Blockchains]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains"/>
-        <updated>2026-10-22T03:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Links $370,000 Theft to Railway Secrets Exposure]]></title>
-        <id>https://thedefiant.io/news/security/developer-links-370-000-theft-to-railway-secrets-exposure</id>
-        <link href="https://thedefiant.io/news/security/developer-links-370-000-theft-to-railway-secrets-exposure"/>
-        <updated>2026-10-22T03:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Railway restored Enterprise builds late Wednesday, while customers on other plans were still waiting to redeploy with replacement credentials.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts]]></title>
-        <id>https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts</id>
-        <link href="https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts"/>
-        <updated>2026-10-22T03:39:17.000Z</updated>
-        <summary type="html"><![CDATA[PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Elliptic-Curve Signatures Work: A Toy ECDSA Example]]></title>
-        <id>https://thedefiant.io/news/security/how-elliptic-curve-signatures-work-a-toy-ecdsa-example</id>
-        <link href="https://thedefiant.io/news/security/how-elliptic-curve-signatures-work-a-toy-ecdsa-example"/>
-        <updated>2026-10-22T03:29:18.000Z</updated>
-        <summary type="html"><![CDATA[A deliberately insecure curve makes the signing arithmetic small enough to follow. The verifier needs the message and public key, but neither signing secret.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

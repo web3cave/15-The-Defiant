@@ -6,6 +6,76 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
+          "author": "The Defiant Team",
+          "description": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase",
+          "link": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
+          "publishedOn": "2026-10-27T11:40:52.000Z",
+          "wordCount": null,
+          "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
+          "author": "The Defiant Team",
+          "description": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules.",
+          "link": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
+          "publishedOn": "2026-10-27T10:27:35.000Z",
+          "wordCount": null,
+          "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f76b45dd28b9bcf3eae09aebf092cc3104e755a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f76b45dd28b9bcf3eae09aebf092cc3104e755a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
+          "author": "The Defiant Team",
+          "description": "The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate.",
+          "link": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
+          "publishedOn": "2026-10-27T10:08:39.000Z",
+          "wordCount": null,
+          "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f903c7ca409625dd5182365ffb7ca7c2b512a685-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f903c7ca409625dd5182365ffb7ca7c2b512a685-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
+          "author": "The Defiant Team",
+          "description": "The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
+          "publishedOn": "2026-10-27T09:38:37.000Z",
+          "wordCount": null,
+          "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eaaea65840d1a2632190868545158b6cf90389a4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eaaea65840d1a2632190868545158b6cf90389a4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
+          "author": "The Defiant Team",
+          "description": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review.",
+          "link": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
+          "publishedOn": "2026-10-27T08:20:29.000Z",
+          "wordCount": 9880,
+          "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a98604d4ca875275e401fad93b7607e3b25e8528-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a98604d4ca875275e401fad93b7607e3b25e8528-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
           "author": "The Defiant Team",
           "description": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
@@ -131,7 +201,7 @@
           "description": "Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value.",
           "link": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
           "publishedOn": "2026-10-26T16:39:38.000Z",
-          "wordCount": 9793,
+          "wordCount": 9787,
           "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/573cf2fc422e4e7f952d5cf6c302b8ba33018a51-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -221,7 +291,7 @@
           "description": "Trade.xyz's new ANT contract offers up to 10x leverage without equity ownership, while Base's pitch identifies no issuer or token contract.",
           "link": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
           "publishedOn": "2026-10-26T14:29:04.000Z",
-          "wordCount": 9847,
+          "wordCount": 9841,
           "title": "Base Promotes 'Tokenized Anthropic Shares' as Trade.xyz Opens Pre-IPO Bets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5acdc077a8ad002a34bf43e8fe45f99a395ba54e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -431,7 +501,7 @@
           "description": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.",
           "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
           "publishedOn": "2026-10-25T13:15:20.000Z",
-          "wordCount": 9799,
+          "wordCount": 9793,
           "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbd08cb8c3b9a80ceb422cc7d7d3f6c68a4c9a7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -521,7 +591,7 @@
           "description": "OP and POL also lost more than a quarter over matched four-week windows, while Arbitrum One's active-address count rose.",
           "link": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
           "publishedOn": "2026-10-24T16:50:46.000Z",
-          "wordCount": 9836,
+          "wordCount": 9830,
           "title": "ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e64b6d710abe438cced54f39f4f2e3853432d4c5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -536,7 +606,7 @@
           "description": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22.",
           "link": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
           "publishedOn": "2026-10-24T15:43:40.000Z",
-          "wordCount": 9843,
+          "wordCount": 9837,
           "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/562816583f9337ddec0c3070f3ab4bbdee32c2c1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -641,7 +711,7 @@
           "description": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether.",
           "link": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
           "publishedOn": "2026-10-24T06:28:11.000Z",
-          "wordCount": 9834,
+          "wordCount": 9828,
           "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bee369d6917bec675eb088f96e947f3720916db5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -671,7 +741,7 @@
           "description": "The ruling also covers Karina Milei and Hayden Davis. A New York investor class action was separately dismissed in September.",
           "link": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
           "publishedOn": "2026-10-23T21:06:51.000Z",
-          "wordCount": 9865,
+          "wordCount": 9859,
           "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/236d0776ae180dd9f50359c77827390fe2f990ff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -836,7 +906,7 @@
           "description": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
           "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
           "publishedOn": "2026-10-23T15:02:50.000Z",
-          "wordCount": 9817,
+          "wordCount": 9811,
           "title": "China Sets 2030 Target for National Blockchain Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1136,7 +1206,7 @@
           "description": "Glassnode’s estimated ETF holding cost, last dated Oct. 19, has acted as support in October after capping bitcoin’s May rally.",
           "link": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
           "publishedOn": "2026-10-22T16:43:52.000Z",
-          "wordCount": 9834,
+          "wordCount": 9828,
           "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/66ba53100d381bab63aec9d4e41b973150f75e44-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1286,7 +1356,7 @@
           "description": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale.",
           "link": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
           "publishedOn": "2026-10-22T13:51:27.000Z",
-          "wordCount": 9836,
+          "wordCount": 9830,
           "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5da7c5dafe43f413436203cf52f0565f0e31430-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1429,81 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4c3ec8fa01dad37559330e146221213d3c751101-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
-          "author": "The Defiant Team",
-          "description": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.",
-          "link": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
-          "publishedOn": "2026-10-22T06:42:39.000Z",
-          "wordCount": 9842,
-          "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f046e9cc90f0dca9e6f3dc1d5444bc711510ce9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f046e9cc90f0dca9e6f3dc1d5444bc711510ce9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains",
-          "author": "The Defiant Team",
-          "description": "Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains",
-          "publishedOn": "2026-10-22T03:52:39.000Z",
-          "wordCount": null,
-          "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a1f8abeb25dbf9c6741a81232d42e908b5683af9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a1f8abeb25dbf9c6741a81232d42e908b5683af9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/developer-links-370-000-theft-to-railway-secrets-exposure",
-          "author": "The Defiant Team",
-          "description": "Railway restored Enterprise builds late Wednesday, while customers on other plans were still waiting to redeploy with replacement credentials.",
-          "link": "https://thedefiant.io/news/security/developer-links-370-000-theft-to-railway-secrets-exposure",
-          "publishedOn": "2026-10-22T03:42:40.000Z",
-          "wordCount": null,
-          "title": "Developer Links $370,000 Theft to Railway Secrets Exposure",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2507e190aca631cb6df3bacff653179da36a200a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2507e190aca631cb6df3bacff653179da36a200a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
-          "author": "The Defiant Team",
-          "description": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
-          "link": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
-          "publishedOn": "2026-10-22T03:39:17.000Z",
-          "wordCount": null,
-          "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dfa4f78febcd48dece2ec5277a5beb7572f6e156-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dfa4f78febcd48dece2ec5277a5beb7572f6e156-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/how-elliptic-curve-signatures-work-a-toy-ecdsa-example",
-          "author": "The Defiant Team",
-          "description": "A deliberately insecure curve makes the signing arithmetic small enough to follow. The verifier needs the message and public key, but neither signing secret.",
-          "link": "https://thedefiant.io/news/security/how-elliptic-curve-signatures-work-a-toy-ecdsa-example",
-          "publishedOn": "2026-10-22T03:29:18.000Z",
-          "wordCount": null,
-          "title": "How Elliptic-Curve Signatures Work: A Toy ECDSA Example",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/60a77e140fdd950dfd4aec5e991b5223caec21cc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/60a77e140fdd950dfd4aec5e991b5223caec21cc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
