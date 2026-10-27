@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T18:26:29.363Z</id>
+    <id>urn:2026-10-27T22:42:32.188Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-27T18:26:29.363Z</updated>
+    <updated>2026-10-27T22:42:32.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Liquid Reserve Gap Narrows to 600 BTC After Test Transfer]]></title>
+        <id>https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer</id>
+        <link href="https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer"/>
+        <updated>2026-10-27T20:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Adds Five-Minute Crypto Contracts to US App]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app"/>
+        <updated>2026-10-27T20:38:21.000Z</updated>
+        <summary type="html"><![CDATA[The BTC, ETH, SOL and XRP markets use CF Benchmarks prices, with ties settling Up and taker fees charged separately from the spread.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Chain Lifts Q3 Crypto Revenue to $120 Million]]></title>
+        <id>https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million</id>
+        <link href="https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million"/>
+        <updated>2026-10-27T20:15:37.000Z</updated>
+        <summary type="html"><![CDATA[The network contributed $26 million, offsetting a decline in crypto revenue elsewhere, while company-wide revenue and earnings fell short of MarketBeat's consensus.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline]]></title>
+        <id>https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline</id>
+        <link href="https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline"/>
+        <updated>2026-10-27T20:13:59.000Z</updated>
+        <summary type="html"><![CDATA[The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle’s Arc Tops $1 Billion in USDC]]></title>
         <id>https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin"/>
         <updated>2026-10-22T18:07:42.000Z</updated>
         <summary type="html"><![CDATA[Professional operators can now test the RGB-based token on Bitcoin Signet. Its backing will sit in USDT0 locked on Arbitrum.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump.fun Adds Take-Profit and Stop-Loss Orders for EVM Trades]]></title>
-        <id>https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades</id>
-        <link href="https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades"/>
-        <updated>2026-10-22T17:27:49.000Z</updated>
-        <summary type="html"><![CDATA[The rollout extends tools available on Solana since September to Robinhood, BSC, Base, HyperEVM, Arc and Ink.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Labs Urges Immediate Updates Over Certificate Vulnerability]]></title>
-        <id>https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability</id>
-        <link href="https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability"/>
-        <updated>2026-10-22T17:01:57.000Z</updated>
-        <summary type="html"><![CDATA[New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis"/>
-        <updated>2026-10-22T16:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Glassnode’s estimated ETF holding cost, last dated Oct. 19, has acted as support in October after capping bitcoin’s May rally.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Developers Cancel Oct. 26 Glamsterdam Upgrade on Hoodi]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi"/>
-        <updated>2026-10-22T15:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Node operators are being told to use software without the scheduled fork, while mainnet activation remains undecided.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
