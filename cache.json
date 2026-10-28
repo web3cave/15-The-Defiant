@@ -6,6 +6,171 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+          "author": "The Defiant Team",
+          "description": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+          "link": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+          "publishedOn": "2026-10-28T19:14:19.000Z",
+          "wordCount": null,
+          "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b91ac0ae41184664914155cceee15a64bbca33c0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b91ac0ae41184664914155cceee15a64bbca33c0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
+          "author": "The Defiant Team",
+          "description": "The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29.",
+          "link": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
+          "publishedOn": "2026-10-28T18:38:18.000Z",
+          "wordCount": null,
+          "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd805b2ea5fd2e0908b28c8a6d7523ef4b152a6c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fd805b2ea5fd2e0908b28c8a6d7523ef4b152a6c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+          "author": "The Defiant Team",
+          "description": "L-BTC reserve coverage reaches about 87.07%, while user swaps remain available and normal federation peg-outs remain restricted.",
+          "link": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+          "publishedOn": "2026-10-28T18:13:39.000Z",
+          "wordCount": null,
+          "title": "Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/be68d9d15f6b90549e0f6b23cf2ce8497740ccae-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/be68d9d15f6b90549e0f6b23cf2ce8497740ccae-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
+          "author": "The Defiant Team",
+          "description": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.",
+          "link": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
+          "publishedOn": "2026-10-28T18:12:28.000Z",
+          "wordCount": 9845,
+          "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f17fa9cd84a8831604459c23a87e61965a1f87b5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f17fa9cd84a8831604459c23a87e61965a1f87b5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
+          "author": "The Defiant Team",
+          "description": "Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.",
+          "link": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
+          "publishedOn": "2026-10-28T17:29:16.000Z",
+          "wordCount": null,
+          "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6793ec620910449664b699ab87f9d91f26be693e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6793ec620910449664b699ab87f9d91f26be693e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
+          "author": "The Defiant Team",
+          "description": "A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices.",
+          "link": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
+          "publishedOn": "2026-10-28T17:11:51.000Z",
+          "wordCount": null,
+          "title": "Why a Liquidity Pool Can Earn Fees and Still Trail Holding",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1bf5ddddb3f9965e7c3ab8d465d43dd7a9e71f0f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1bf5ddddb3f9965e7c3ab8d465d43dd7a9e71f0f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
+          "author": "The Defiant Team",
+          "description": "DefiLlama tracks $246.7 million in real-world assets deployed in DeFi on the network, where stock tokens already support trading and collateralized borrowing.",
+          "link": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
+          "publishedOn": "2026-10-28T16:56:48.000Z",
+          "wordCount": null,
+          "title": "Robinhood Adds Eight Stock and ETF Tokens to Its Chain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d874427950faf312d385856c935280929bafe1c8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d874427950faf312d385856c935280929bafe1c8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+          "author": "The Defiant Team",
+          "description": "The planned addition follows the app's live Hyperliquid perps rollout; Elysium is a separate rollup that settles to HyperEVM.",
+          "link": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+          "publishedOn": "2026-10-28T16:16:54.000Z",
+          "wordCount": null,
+          "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/626d9904d5b1acbbdcd681ae889e212ee969447c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/626d9904d5b1acbbdcd681ae889e212ee969447c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
+          "author": "The Defiant Team",
+          "description": "The new SDN entries identify eight distinct Ethereum and Tron addresses, including one listed under both Russian intermediaries.",
+          "link": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
+          "publishedOn": "2026-10-28T15:53:35.000Z",
+          "wordCount": 9855,
+          "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ebabd947419d206ee82a1e552f5daa512c4884f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ebabd947419d206ee82a1e552f5daa512c4884f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
+          "author": "The Defiant Team",
+          "description": "Borrowers can access up to 40% of collateral value, while the market holds its last equity price outside US trading sessions.",
+          "link": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
+          "publishedOn": "2026-10-28T15:44:37.000Z",
+          "wordCount": null,
+          "title": "Kamino Opens USDC Loans Against Backpack Tokenized Stocks",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fddbae0de5da34bb734a902bca7c9718fccd1d70-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fddbae0de5da34bb734a902bca7c9718fccd1d70-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt",
+          "author": "The Defiant Team",
+          "description": "The exchange cited securities-depository settlement requirements for the suspension, while CoinShares said settlement had nothing to do with the firm.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt",
+          "publishedOn": "2026-10-28T14:43:50.000Z",
+          "wordCount": null,
+          "title": "Euronext Restarts CoinShares’ Zcash ETP After Debut-Day Halt",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8d1f5c74a48154a902f8c5c0bf045831fd15110-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8d1f5c74a48154a902f8c5c0bf045831fd15110-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift",
           "author": "The Defiant Team",
           "description": "Replacement markets will charge taker fees even on limit orders, and customers must submit fresh orders after the migration.",
@@ -1334,171 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/236d0776ae180dd9f50359c77827390fe2f990ff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
-          "author": "The Defiant Team",
-          "description": "The latest price implies a circulating valuation near $561 million, with just 20% of the token’s total supply in circulation.",
-          "link": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
-          "publishedOn": "2026-10-23T19:27:17.000Z",
-          "wordCount": null,
-          "title": "IRYS Surges 1,200% Past May Listing Peak",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2f64b1bcc8cc98412a69433c044140023afffd4b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2f64b1bcc8cc98412a69433c044140023afffd4b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
-          "author": "The Defiant Team",
-          "description": "Existing active contracts and renewals would remain permissionless, while the DAO could revoke the Foundation’s signing authority.",
-          "link": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
-          "publishedOn": "2026-10-23T18:57:39.000Z",
-          "wordCount": null,
-          "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/adce482895ea46e91bbed7212fdaf34ad0add3f3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/adce482895ea46e91bbed7212fdaf34ad0add3f3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
-          "author": "The Defiant Team",
-          "description": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction.",
-          "link": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
-          "publishedOn": "2026-10-23T18:23:34.000Z",
-          "wordCount": null,
-          "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1f12151160261bfd9826253045cc7d2983710cc1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1f12151160261bfd9826253045cc7d2983710cc1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
-          "author": "The Defiant Team",
-          "description": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses.",
-          "link": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
-          "publishedOn": "2026-10-23T18:08:25.000Z",
-          "wordCount": null,
-          "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab079ea655248f0dac2eedb961820f99a4519a21-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab079ea655248f0dac2eedb961820f99a4519a21-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
-          "author": "The Defiant Team",
-          "description": "AP2 records spending authority, while x402 carries payment requests. Mastercard’s machine-payment pilot shows why a signed voucher and final settlement are different steps.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
-          "publishedOn": "2026-10-23T17:54:23.000Z",
-          "wordCount": null,
-          "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7201cde3a691f4f76b725e1ddc24bd993e4c2a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f7201cde3a691f4f76b725e1ddc24bd993e4c2a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
-          "author": "The Defiant Team",
-          "description": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia.",
-          "link": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
-          "publishedOn": "2026-10-23T17:27:28.000Z",
-          "wordCount": null,
-          "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6ad564c38a53885ff0fbb74968351dca0208b77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6ad564c38a53885ff0fbb74968351dca0208b77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
-          "author": "The Defiant Team",
-          "description": "Lighter counts 70% of weETH’s index value toward trading margin and caps platform-wide collateral supply at 1,000 weETH.",
-          "link": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
-          "publishedOn": "2026-10-23T17:15:39.000Z",
-          "wordCount": null,
-          "title": "Lighter Adds weETH as Perpetual Futures Collateral",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85bcd85862071e278d644e3585f1698541372904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85bcd85862071e278d644e3585f1698541372904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
-          "author": "The Defiant Team",
-          "description": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
-          "link": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
-          "publishedOn": "2026-10-23T17:08:01.000Z",
-          "wordCount": null,
-          "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19873e4ccf1d33c18945036ea34966f464df0178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19873e4ccf1d33c18945036ea34966f464df0178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-          "author": "The Defiant Team",
-          "description": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
-          "link": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-          "publishedOn": "2026-10-23T16:19:13.000Z",
-          "wordCount": null,
-          "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fef407904ab37d9dee1d22ca7c6ac7ee7934167e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fef407904ab37d9dee1d22ca7c6ac7ee7934167e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
-          "author": "The Defiant Team",
-          "description": "Eligible participants will receive tokens in self-hosted Arc wallets. Full tokenomics will follow a MiCA white paper expected on Oct. 31.",
-          "link": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
-          "publishedOn": "2026-10-23T16:11:56.000Z",
-          "wordCount": null,
-          "title": "Extended Plans November XTEN Launch With 30% for Points Users",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/968a72b47f5b765113473b540045e07ab05ff462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/968a72b47f5b765113473b540045e07ab05ff462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
-          "author": "The Defiant Team",
-          "description": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
-          "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
-          "publishedOn": "2026-10-23T15:02:50.000Z",
-          "wordCount": 9819,
-          "title": "China Sets 2030 Target for National Blockchain Network",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
