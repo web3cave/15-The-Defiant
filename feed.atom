@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T23:44:46.282Z</id>
+    <id>urn:2026-10-29T03:11:39.943Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-28T23:44:46.282Z</updated>
+    <updated>2026-10-29T03:11:39.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction]]></title>
+        <id>https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction</id>
+        <link href="https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction"/>
+        <updated>2026-10-29T02:33:13.000Z</updated>
+        <summary type="html"><![CDATA[The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allium Discloses Security Breach, Revokes API Keys]]></title>
+        <id>https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys</id>
+        <link href="https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys"/>
+        <updated>2026-10-29T01:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alipay Denies Supporting Crypto Trading After Peer's Beta Launch]]></title>
+        <id>https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch</id>
+        <link href="https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch"/>
+        <updated>2026-10-29T01:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash]]></title>
+        <id>https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash</id>
+        <link href="https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash"/>
+        <updated>2026-10-29T01:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw]]></title>
+        <id>https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw</id>
+        <link href="https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw"/>
+        <updated>2026-10-29T00:37:20.000Z</updated>
+        <summary type="html"><![CDATA[The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peer Adds Alipay-Funded USDC Trading on Base in Beta]]></title>
         <id>https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7"/>
         <updated>2026-10-24T15:43:40.000Z</updated>
         <summary type="html"><![CDATA[ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool]]></title>
-        <id>https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool</id>
-        <link href="https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool"/>
-        <updated>2026-10-24T15:17:43.000Z</updated>
-        <summary type="html"><![CDATA[A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X100 Exploit Nets 4.85 Million USDT After Governance Takeover]]></title>
-        <id>https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover</id>
-        <link href="https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover"/>
-        <updated>2026-10-24T14:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaw Publishes Daos.fun Reconstruction, Claims Critical Flaw]]></title>
-        <id>https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw</id>
-        <link href="https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw"/>
-        <updated>2026-10-24T14:25:37.000Z</updated>
-        <summary type="html"><![CDATA[The repository reports matching captured and rebuilt binaries. Daos.fun says it no longer maintains the platform, though existing tokens remain tradable.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid’s Yan and CME’s Duffy Split Over Who Must Bear US Compliance]]></title>
-        <id>https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance</id>
-        <link href="https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance"/>
-        <updated>2026-10-24T14:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Yan favors oversight of market deployers rather than the blockchain, while Hyperliquid’s interface still bars US-based users and VPN circumvention.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Key Rotation: What Revocation and Redeployment Actually Change]]></title>
-        <id>https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change</id>
-        <link href="https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change"/>
-        <updated>2026-10-24T13:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
