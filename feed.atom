@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-29T03:11:39.943Z</id>
+    <id>urn:2026-10-29T10:30:05.402Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-29T03:11:39.943Z</updated>
+    <updated>2026-10-29T10:30:05.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%]]></title>
+        <id>https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96</id>
+        <link href="https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96"/>
+        <updated>2026-10-29T09:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Westpac Sets A$10,000 Monthly Crypto Payment Cap From December]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december"/>
+        <updated>2026-10-29T08:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wagyu Confirms Data Leak Exposing Monero Swap Records]]></title>
+        <id>https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records</id>
+        <link href="https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records"/>
+        <updated>2026-10-29T06:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high"/>
+        <updated>2026-10-29T06:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts"/>
+        <updated>2026-10-29T06:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff]]></title>
+        <id>https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff</id>
+        <link href="https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff"/>
+        <updated>2026-10-29T03:42:33.000Z</updated>
+        <summary type="html"><![CDATA[A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular close.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses]]></title>
+        <id>https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses</id>
+        <link href="https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses"/>
+        <updated>2026-10-29T03:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction]]></title>
         <id>https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction</id>
@@ -931,76 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price"/>
         <updated>2026-10-25T13:15:20.000Z</updated>
         <summary type="html"><![CDATA[A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own"/>
-        <updated>2026-10-25T13:15:06.000Z</updated>
-        <summary type="html"><![CDATA[USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institutional clients.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogecoin Foundation and House of Doge End Exclusive Brand Deal]]></title>
-        <id>https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal</id>
-        <link href="https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal"/>
-        <updated>2026-10-25T11:27:13.000Z</updated>
-        <summary type="html"><![CDATA[House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X100 Exploit Proceeds Split Into Four 400-ETH Wallets]]></title>
-        <id>https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets</id>
-        <link href="https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets"/>
-        <updated>2026-10-24T19:41:15.000Z</updated>
-        <summary type="html"><![CDATA[The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keystone Website Breach Exposes Customer Addresses and Order Details]]></title>
-        <id>https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details</id>
-        <link href="https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details"/>
-        <updated>2026-10-24T19:06:10.000Z</updated>
-        <summary type="html"><![CDATA[The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electrum Patches Wallet Flaw Exploited Through Malicious Servers]]></title>
-        <id>https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers</id>
-        <link href="https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers"/>
-        <updated>2026-10-24T17:57:11.000Z</updated>
-        <summary type="html"><![CDATA[A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether]]></title>
-        <id>https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether</id>
-        <link href="https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether"/>
-        <updated>2026-10-24T16:50:46.000Z</updated>
-        <summary type="html"><![CDATA[OP and POL also lost more than a quarter over matched four-week windows, while Arbitrum One's active-address count rose.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%]]></title>
-        <id>https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7</id>
-        <link href="https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7"/>
-        <updated>2026-10-24T15:43:40.000Z</updated>
-        <summary type="html"><![CDATA[ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
