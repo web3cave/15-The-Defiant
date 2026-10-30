@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs",
+          "author": "The Defiant Team",
+          "description": "Binance says customer funds are safe. Issuer freezes restrict token movements but do not establish how much has been recovered or ultimately lost.",
+          "link": "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs",
+          "publishedOn": "2026-10-29T23:32:17.000Z",
+          "wordCount": null,
+          "title": "Binance Security Incident: Withdrawal Status, Timeline and FAQs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0632f6febf33635be98936219cb9a08dd49caba-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b0632f6febf33635be98936219cb9a08dd49caba-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
+          "author": "The Defiant Team",
+          "description": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
+          "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
+          "publishedOn": "2026-10-29T22:10:31.000Z",
+          "wordCount": null,
+          "title": "Binance Pauses Withdrawals Amid Suspected Hack, Says User Funds Are Safe",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/df7307c22bf0c710288f74cae53a3fd4028f5084-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df7307c22bf0c710288f74cae53a3fd4028f5084-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink",
           "author": "The Defiant Team",
           "description": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates.",
@@ -23,11 +53,11 @@
         {
           "id": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
           "author": "The Defiant Team",
-          "description": "Binance says it is investigating a potential security issue but has not confirmed any impact to user funds.",
+          "description": "The later issuer total is broader than the roughly 971 million USDT recorded in one wallet at its initial freeze; frozen funds are not automatically recovered.",
           "link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
           "publishedOn": "2026-10-29T21:22:00.000Z",
           "wordCount": null,
-          "title": "Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain",
+          "title": "Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b157e8057ebdeecba1fa8a813a74888cea427539-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
@@ -41,7 +71,7 @@
           "description": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250.",
           "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
           "publishedOn": "2026-10-29T21:16:40.000Z",
-          "wordCount": 9822,
+          "wordCount": 9846,
           "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f6a54b81347cf2a5b652b96f4f685d4150f4041-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -53,11 +83,11 @@
         {
           "id": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
           "author": "The Defiant Team",
-          "description": "The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirmed.",
+          "description": "Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.",
           "link": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
           "publishedOn": "2026-10-29T21:04:09.000Z",
           "wordCount": null,
-          "title": "Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation",
+          "title": "How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7730f33cee3f4f52859a420a72857ce8fc07439-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
@@ -71,7 +101,7 @@
           "description": "The senators set a Nov. 3 deadline for answers, including how many suspected election-trading violations were stopped before trades occurred.",
           "link": "https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards",
           "publishedOn": "2026-10-29T21:02:50.000Z",
-          "wordCount": 9852,
+          "wordCount": 9876,
           "title": "Warren, Curtis Press Kalshi and Polymarket on Election Trading Safeguards",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/473be52bd3c92c3788752b1677c209784ea99d1c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -101,7 +131,7 @@
           "description": "A federal lawsuit seeks to block Utah enforcement, but the state has already won an initial ruling against the prediction market exchange.",
           "link": "https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach",
           "publishedOn": "2026-10-29T20:50:02.000Z",
-          "wordCount": 9835,
+          "wordCount": 9859,
           "title": "CFTC Chair Calls Utah's Kalshi Prosecution 'Blatant Overreach'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc06a05eb2e09e53af8104ddf67d134d12fc370d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -206,7 +236,7 @@
           "description": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.",
           "link": "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud",
           "publishedOn": "2026-10-29T18:43:55.000Z",
-          "wordCount": 9907,
+          "wordCount": 9931,
           "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f95b15de661c4c01c19b13004049fb504a1024ac-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -266,7 +296,7 @@
           "description": "The agency named Binance and Bybit as platforms used for alleged foreign payouts, without announcing charges against either exchange.",
           "link": "https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe",
           "publishedOn": "2026-10-29T16:30:03.000Z",
-          "wordCount": 9816,
+          "wordCount": 9840,
           "title": "India's ED Announces Searches in $524 Million Crypto Transfer Probe",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a8fe0ab276ea935fa0a6bed8c6fd63420efd6b0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -296,7 +326,7 @@
           "description": "Existing customers cannot trade and must request approval for a one-time 48-hour withdrawal window, subject to sanctions controls.",
           "link": "https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement",
           "publishedOn": "2026-10-29T16:11:39.000Z",
-          "wordCount": 9802,
+          "wordCount": 9826,
           "title": "HTX Exits UK Following FCA Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a643e51513ca95414764f0f5b44eda3a6deb689b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -426,7 +456,7 @@
           "description": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket’s rules allow wallet bans, legal action and law-enforcement referrals.",
           "link": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
           "publishedOn": "2026-10-29T15:14:35.000Z",
-          "wordCount": 9795,
+          "wordCount": 9819,
           "title": "Polymarket Probes Suspicious Israeli Election Trades",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/700d6b7bec7ac67dc0bebe83b430d6a7531c6aab-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -471,7 +501,7 @@
           "description": "Selling new common shares above net asset value can increase assets per share. Selling below it can dilute holders even when crypto prices are unchanged.",
           "link": "https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share",
           "publishedOn": "2026-10-29T13:16:21.000Z",
-          "wordCount": 9819,
+          "wordCount": 9843,
           "title": "Why More Crypto Can Mean Less Crypto Per Treasury Share",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -561,7 +591,7 @@
           "description": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular close.",
           "link": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
           "publishedOn": "2026-10-29T03:42:33.000Z",
-          "wordCount": 9828,
+          "wordCount": 9885,
           "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/164f9f8b16e378fa2e9d0291f7e453d6c3429d08-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -681,7 +711,7 @@
           "description": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah’s enforcement of gambling laws against federally regulated markets.",
           "link": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
           "publishedOn": "2026-10-28T23:18:43.000Z",
-          "wordCount": 9875,
+          "wordCount": 9899,
           "title": "Utah Brings Criminal Charges Against Kalshi and Its Co-Founders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f490dee739a1f8db775cf3dcc71b009e404f231f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -771,7 +801,7 @@
           "description": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.",
           "link": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
           "publishedOn": "2026-10-28T18:12:28.000Z",
-          "wordCount": 9854,
+          "wordCount": 9878,
           "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f17fa9cd84a8831604459c23a87e61965a1f87b5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -846,7 +876,7 @@
           "description": "The new SDN entries identify eight distinct Ethereum and Tron addresses, including one listed under both Russian intermediaries.",
           "link": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
           "publishedOn": "2026-10-28T15:53:35.000Z",
-          "wordCount": 9864,
+          "wordCount": 9888,
           "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ebabd947419d206ee82a1e552f5daa512c4884f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1266,7 +1296,7 @@
           "description": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets.",
           "link": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
           "publishedOn": "2026-10-27T17:06:19.000Z",
-          "wordCount": 9836,
+          "wordCount": 9860,
           "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/35e4060ba81f4ca8481b9570927be646e48b6df9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1371,7 +1401,7 @@
           "description": "At least two investigations were referred to the CFTC, NPR reported, as the platform's House-control market approached $24 million in cumulative trading volume.",
           "link": "https://thedefiant.io/news/regulation/polymarket-investigated-dozens-of-midterm-bets-npr-reports",
           "publishedOn": "2026-10-27T14:25:19.000Z",
-          "wordCount": 9837,
+          "wordCount": 9861,
           "title": "Polymarket Investigated 'Dozens' of Midterm Bets, NPR Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/739daf13688fde7768ae9adf44cf4bea07c231d8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1469,31 +1499,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bc79135de66e33f9a587dbb2c3c72866d25e5c0d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
-          "author": "The Defiant Team",
-          "description": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase",
-          "link": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
-          "publishedOn": "2026-10-27T11:40:52.000Z",
-          "wordCount": null,
-          "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
-          "author": "The Defiant Team",
-          "description": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules.",
-          "link": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
-          "publishedOn": "2026-10-27T10:27:35.000Z",
-          "wordCount": null,
-          "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f76b45dd28b9bcf3eae09aebf092cc3104e755a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f76b45dd28b9bcf3eae09aebf092cc3104e755a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-29T22:07:18.629Z</id>
+    <id>urn:2026-10-30T02:13:05.261Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-29T22:07:18.629Z</updated>
+    <updated>2026-10-30T02:13:05.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Security Incident: Withdrawal Status, Timeline and FAQs]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs</id>
+        <link href="https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs"/>
+        <updated>2026-10-29T23:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Binance says customer funds are safe. Issuer freezes restrict token movements but do not establish how much has been recovered or ultimately lost.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Pauses Withdrawals Amid Suspected Hack, Says User Funds Are Safe]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack</id>
+        <link href="https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack"/>
+        <updated>2026-10-29T22:10:31.000Z</updated>
+        <summary type="html"><![CDATA[Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink</id>
@@ -16,11 +36,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain]]></title>
+        <title type="html"><![CDATA[Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack]]></title>
         <id>https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain</id>
         <link href="https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain"/>
         <updated>2026-10-29T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Binance says it is investigating a potential security issue but has not confirmed any impact to user funds.]]></summary>
+        <summary type="html"><![CDATA[The later issuer total is broader than the roughly 971 million USDT recorded in one wallet at its initial freeze; frozen funds are not automatically recovered.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -36,11 +56,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation]]></title>
+        <title type="html"><![CDATA[How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack]]></title>
         <id>https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation</id>
         <link href="https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation"/>
         <updated>2026-10-29T21:04:09.000Z</updated>
-        <summary type="html"><![CDATA[The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirmed.]]></summary>
+        <summary type="html"><![CDATA[Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/sofi-reports-161-6-million-in-q3-crypto-revenue-1-6-million-net"/>
         <updated>2026-10-27T12:57:21.000Z</updated>
         <summary type="html"><![CDATA[Net crypto transaction revenue rose 38% from Q2 but represented just 0.3% of the bank operator's financial-services segment revenue.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Approved Their Own Spending Increases on Circle Agent Wallets]]></title>
-        <id>https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl</id>
-        <link href="https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl"/>
-        <updated>2026-10-27T11:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts]]></title>
-        <id>https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts</id>
-        <link href="https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts"/>
-        <updated>2026-10-27T10:27:35.000Z</updated>
-        <summary type="html"><![CDATA[The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
