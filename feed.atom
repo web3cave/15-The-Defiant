@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T07:38:38.874Z</id>
+    <id>urn:2026-10-31T13:57:45.521Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-31T07:38:38.874Z</updated>
+    <updated>2026-10-31T13:57:45.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave]]></title>
+        <id>https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave</id>
+        <link href="https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave"/>
+        <updated>2026-10-31T13:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origin Restores OGN Liquidity After Pulling Funds During Binance Incident]]></title>
+        <id>https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident</id>
+        <link href="https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident"/>
+        <updated>2026-10-31T13:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Origin says the attacker sold OGN at an average 79% discount. Ethereum records show liquidity returning to its Curve pool after a withdrawal of 46.74 million OGN.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CertiK Puts 2026 Crypto Losses at Record $9.2 Billion]]></title>
+        <id>https://thedefiant.io/news/security/certik-puts-2026-crypto-losses-at-record-9-2-billion</id>
+        <link href="https://thedefiant.io/news/security/certik-puts-2026-crypto-losses-at-record-9-2-billion"/>
+        <updated>2026-10-31T13:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Its live dashboard records $3.03 billion frozen or returned in October, reducing the month's adjusted losses to $3.47 billion.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido Revenue Jumps to $605,000 on Execution-Reward Windfall]]></title>
+        <id>https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall</id>
+        <link href="https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall"/>
+        <updated>2026-10-31T12:59:28.000Z</updated>
+        <summary type="html"><![CDATA[The DAO received 269.69 stETH in staking fees, but its next daily reward report delivered a much smaller treasury payment.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainalysis Flags DeFi Receipt-Token Route in Binance Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack</id>
+        <link href="https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack"/>
+        <updated>2026-10-31T11:47:58.000Z</updated>
+        <summary type="html"><![CDATA[A separate onchain example shows USDT deposited into JustLend, transferred as jUSDT and redeemed by another wallet.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions]]></title>
+        <id>https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions</id>
+        <link href="https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions"/>
+        <updated>2026-10-31T10:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Repayments, withdrawals and liquidations continue, while Aave’s Ethereum Core market holds about $136.5 million in tBTC deposits.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases]]></title>
         <id>https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears"/>
         <updated>2026-10-28T22:21:08.000Z</updated>
         <summary type="html"><![CDATA[French users face phased trading restrictions and a March withdrawal cutoff. Brazil’s rules give existing providers that miss the filing deadline 30 days to stop services.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain]]></title>
-        <id>https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain</id>
-        <link href="https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain"/>
-        <updated>2026-10-28T20:09:45.000Z</updated>
-        <summary type="html"><![CDATA[The deployment supports BNB and stablecoins including USDT, FDUSD and U, while private spending still requires 0xbow's deposit-screening approval.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4]]></title>
-        <id>https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4</id>
-        <link href="https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4"/>
-        <updated>2026-10-28T19:14:19.000Z</updated>
-        <summary type="html"><![CDATA[Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix]]></title>
-        <id>https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix</id>
-        <link href="https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix"/>
-        <updated>2026-10-28T18:38:18.000Z</updated>
-        <summary type="html"><![CDATA[The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer]]></title>
-        <id>https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer</id>
-        <link href="https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer"/>
-        <updated>2026-10-28T18:13:39.000Z</updated>
-        <summary type="html"><![CDATA[L-BTC reserve coverage reaches about 87.07%, while user swaps remain available and normal federation peg-outs remain restricted.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain]]></title>
-        <id>https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain</id>
-        <link href="https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain"/>
-        <updated>2026-10-28T18:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds]]></title>
-        <id>https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds</id>
-        <link href="https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds"/>
-        <updated>2026-10-28T17:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
