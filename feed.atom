@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T13:57:45.521Z</id>
+    <id>urn:2026-10-31T18:06:27.976Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-31T13:57:45.521Z</updated>
+    <updated>2026-10-31T18:06:27.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Threshold Says tBTC Is Fully Backed as Bridge Pause Continues]]></title>
+        <id>https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues</id>
+        <link href="https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues"/>
+        <updated>2026-10-31T18:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Aave’s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error]]></title>
+        <id>https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error</id>
+        <link href="https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error"/>
+        <updated>2026-10-31T17:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intersect Urges Cardano Operators to Patch Critical Linux Flaw]]></title>
+        <id>https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw</id>
+        <link href="https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw"/>
+        <updated>2026-10-31T17:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tydro Restores $75 Million USDC Borrow Cap After Freeze]]></title>
+        <id>https://thedefiant.io/news/defi/tydro-restores-75-million-usdc-borrow-cap-after-freeze</id>
+        <link href="https://thedefiant.io/news/defi/tydro-restores-75-million-usdc-borrow-cap-after-freeze"/>
+        <updated>2026-10-31T16:55:55.000Z</updated>
+        <summary type="html"><![CDATA[The reserve has about $24.5 million of room below the cap, but its $18.6 million in available liquidity sets a lower ceiling on immediate new lending.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[b14g Says 97 Million CORE Drained, Pauses Contracts]]></title>
+        <id>https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts</id>
+        <link href="https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts"/>
+        <updated>2026-10-31T16:46:50.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin staking protocol says exchanges froze about 9 million CORE and that staked BTC was unaffected.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Confirms 7,499 BTC SAFU Transfer After Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack</id>
+        <link href="https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack"/>
+        <updated>2026-10-31T16:22:42.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origami Says DNS Is Restored but Vaults Remain Paused]]></title>
+        <id>https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused</id>
+        <link href="https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused"/>
+        <updated>2026-10-31T15:37:59.000Z</updated>
+        <summary type="html"><![CDATA[The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart</id>
+        <link href="https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart"/>
+        <updated>2026-10-31T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave]]></title>
         <id>https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave</id>
@@ -921,86 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses"/>
         <updated>2026-10-29T03:39:53.000Z</updated>
         <summary type="html"><![CDATA[Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction]]></title>
-        <id>https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction</id>
-        <link href="https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction"/>
-        <updated>2026-10-29T02:33:13.000Z</updated>
-        <summary type="html"><![CDATA[The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allium Discloses Security Breach, Revokes API Keys]]></title>
-        <id>https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys</id>
-        <link href="https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys"/>
-        <updated>2026-10-29T01:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alipay Denies Supporting Crypto Trading After Peer's Beta Launch]]></title>
-        <id>https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch</id>
-        <link href="https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch"/>
-        <updated>2026-10-29T01:16:05.000Z</updated>
-        <summary type="html"><![CDATA[Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash]]></title>
-        <id>https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash</id>
-        <link href="https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash"/>
-        <updated>2026-10-29T01:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw]]></title>
-        <id>https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw</id>
-        <link href="https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw"/>
-        <updated>2026-10-29T00:37:20.000Z</updated>
-        <summary type="html"><![CDATA[The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peer Adds Alipay-Funded USDC Trading on Base in Beta]]></title>
-        <id>https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta</id>
-        <link href="https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta"/>
-        <updated>2026-10-28T23:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Buyers pay individual sellers in yuan, while Peer says it has no official partnership with Alipay.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utah Brings Criminal Charges Against Kalshi and Its Co-Founders]]></title>
-        <id>https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders</id>
-        <link href="https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders"/>
-        <updated>2026-10-28T23:18:43.000Z</updated>
-        <summary type="html"><![CDATA[The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah’s enforcement of gambling laws against federally regulated markets.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears]]></title>
-        <id>https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears</id>
-        <link href="https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears"/>
-        <updated>2026-10-28T22:21:08.000Z</updated>
-        <summary type="html"><![CDATA[French users face phased trading restrictions and a March withdrawal cutoff. Brazil’s rules give existing providers that miss the filing deadline 30 days to stop services.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

@@ -6,6 +6,126 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues",
+          "author": "The Defiant Team",
+          "description": "Aave’s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market.",
+          "link": "https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues",
+          "publishedOn": "2026-10-31T18:00:16.000Z",
+          "wordCount": null,
+          "title": "Threshold Says tBTC Is Fully Backed as Bridge Pause Continues",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c5391743b2291e2103665edb4f6e7e0e96662b7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9c5391743b2291e2103665edb4f6e7e0e96662b7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error",
+          "author": "The Defiant Team",
+          "description": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked.",
+          "link": "https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error",
+          "publishedOn": "2026-10-31T17:43:30.000Z",
+          "wordCount": null,
+          "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce507c578eaa7ec46b2a1a57cac4908bb1397286-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce507c578eaa7ec46b2a1a57cac4908bb1397286-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw",
+          "author": "The Defiant Team",
+          "description": "Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing.",
+          "link": "https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw",
+          "publishedOn": "2026-10-31T17:32:07.000Z",
+          "wordCount": null,
+          "title": "Intersect Urges Cardano Operators to Patch Critical Linux Flaw",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7befa2834f2857c84d15bf35dfacaaa5eb2d8f14-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7befa2834f2857c84d15bf35dfacaaa5eb2d8f14-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tydro-restores-75-million-usdc-borrow-cap-after-freeze",
+          "author": "The Defiant Team",
+          "description": "The reserve has about $24.5 million of room below the cap, but its $18.6 million in available liquidity sets a lower ceiling on immediate new lending.",
+          "link": "https://thedefiant.io/news/defi/tydro-restores-75-million-usdc-borrow-cap-after-freeze",
+          "publishedOn": "2026-10-31T16:55:55.000Z",
+          "wordCount": null,
+          "title": "Tydro Restores $75 Million USDC Borrow Cap After Freeze",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/54726b5303b816a62e55a9b20fb49657f6ea8562-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54726b5303b816a62e55a9b20fb49657f6ea8562-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
+          "author": "The Defiant Team",
+          "description": "The Bitcoin staking protocol says exchanges froze about 9 million CORE and that staked BTC was unaffected.",
+          "link": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
+          "publishedOn": "2026-10-31T16:46:50.000Z",
+          "wordCount": null,
+          "title": "b14g Says 97 Million CORE Drained, Pauses Contracts",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab7bca9c3616684171b9d7e2ba2d09acce4acba4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab7bca9c3616684171b9d7e2ba2d09acce4acba4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
+          "author": "The Defiant Team",
+          "description": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion.",
+          "link": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
+          "publishedOn": "2026-10-31T16:22:42.000Z",
+          "wordCount": null,
+          "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/12b4c8ddf9bb4ef8beb77cf0ef09fbc8eac20a1e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/12b4c8ddf9bb4ef8beb77cf0ef09fbc8eac20a1e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+          "author": "The Defiant Team",
+          "description": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault.",
+          "link": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+          "publishedOn": "2026-10-31T15:37:59.000Z",
+          "wordCount": null,
+          "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/49e94e34271b8415e01587a3e258135cd8f38cda-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/49e94e34271b8415e01587a3e258135cd8f38cda-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
+          "author": "The Defiant Team",
+          "description": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3.",
+          "link": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
+          "publishedOn": "2026-10-31T14:40:51.000Z",
+          "wordCount": null,
+          "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2ee30c9af2255bd5b9b5d683e9ad21f6c040ea3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a2ee30c9af2255bd5b9b5d683e9ad21f6c040ea3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
           "author": "The Defiant Team",
           "description": "Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform.",
@@ -171,7 +291,7 @@
           "description": "1inch said its token was among assets stolen from Binance and that blocking attacker access to its apps cannot freeze the tokens themselves.",
           "link": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
           "publishedOn": "2026-10-30T16:04:19.000Z",
-          "wordCount": 9870,
+          "wordCount": 9865,
           "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5eef6d4ff6a7a7b22392ddfccd4ae6374b58d2f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -286,7 +406,7 @@
           "description": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
           "link": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
           "publishedOn": "2026-10-30T13:59:22.000Z",
-          "wordCount": 9829,
+          "wordCount": 9824,
           "title": "Coinbase and Strategy Sink After Binance Breach",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e083a4b7c4ced85ccf85037056165367d063caa3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -316,7 +436,7 @@
           "description": "The groups want wallet withdrawals and bridging excluded from a levy calculated on asset value, and a private-key recordkeeping requirement removed.",
           "link": "https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules",
           "publishedOn": "2026-10-30T13:44:48.000Z",
-          "wordCount": 9890,
+          "wordCount": 9885,
           "title": "Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c661e26ac681933734756be9b963779ab87b31c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -391,7 +511,7 @@
           "description": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound.",
           "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
           "publishedOn": "2026-10-30T11:20:52.000Z",
-          "wordCount": 9860,
+          "wordCount": 9855,
           "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/26b0b76a31898d69ad46e6b22415f5ead667fa61-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -556,7 +676,7 @@
           "description": "The main exploiter address also sold RAD and OGN on Uniswap, while about 580.8 million unsold FUN was transferred back to the collection wallet.",
           "link": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
           "publishedOn": "2026-10-30T08:17:27.000Z",
-          "wordCount": 9881,
+          "wordCount": 9876,
           "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/782677079e9b5018b922329ccde042f9547546d2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -826,7 +946,7 @@
           "description": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250.",
           "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
           "publishedOn": "2026-10-29T21:16:40.000Z",
-          "wordCount": 9837,
+          "wordCount": 9832,
           "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f6a54b81347cf2a5b652b96f4f685d4150f4041-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -856,7 +976,7 @@
           "description": "The senators set a Nov. 3 deadline for answers, including how many suspected election-trading violations were stopped before trades occurred.",
           "link": "https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards",
           "publishedOn": "2026-10-29T21:02:50.000Z",
-          "wordCount": 9867,
+          "wordCount": 9862,
           "title": "Warren, Curtis Press Kalshi and Polymarket on Election Trading Safeguards",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/473be52bd3c92c3788752b1677c209784ea99d1c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -886,7 +1006,7 @@
           "description": "A federal lawsuit seeks to block Utah enforcement, but the state has already won an initial ruling against the prediction market exchange.",
           "link": "https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach",
           "publishedOn": "2026-10-29T20:50:02.000Z",
-          "wordCount": 9850,
+          "wordCount": 9845,
           "title": "CFTC Chair Calls Utah's Kalshi Prosecution 'Blatant Overreach'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc06a05eb2e09e53af8104ddf67d134d12fc370d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -991,7 +1111,7 @@
           "description": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.",
           "link": "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud",
           "publishedOn": "2026-10-29T18:43:55.000Z",
-          "wordCount": 9922,
+          "wordCount": 9917,
           "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f95b15de661c4c01c19b13004049fb504a1024ac-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1051,7 +1171,7 @@
           "description": "The agency named Binance and Bybit as platforms used for alleged foreign payouts, without announcing charges against either exchange.",
           "link": "https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe",
           "publishedOn": "2026-10-29T16:30:03.000Z",
-          "wordCount": 9831,
+          "wordCount": 9826,
           "title": "India's ED Announces Searches in $524 Million Crypto Transfer Probe",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a8fe0ab276ea935fa0a6bed8c6fd63420efd6b0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1081,7 +1201,7 @@
           "description": "Existing customers cannot trade and must request approval for a one-time 48-hour withdrawal window, subject to sanctions controls.",
           "link": "https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement",
           "publishedOn": "2026-10-29T16:11:39.000Z",
-          "wordCount": 9817,
+          "wordCount": 9812,
           "title": "HTX Exits UK Following FCA Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a643e51513ca95414764f0f5b44eda3a6deb689b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1211,7 +1331,7 @@
           "description": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket’s rules allow wallet bans, legal action and law-enforcement referrals.",
           "link": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
           "publishedOn": "2026-10-29T15:14:35.000Z",
-          "wordCount": 9810,
+          "wordCount": 9805,
           "title": "Polymarket Probes Suspicious Israeli Election Trades",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/700d6b7bec7ac67dc0bebe83b430d6a7531c6aab-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1256,7 +1376,7 @@
           "description": "Selling new common shares above net asset value can increase assets per share. Selling below it can dilute holders even when crypto prices are unchanged.",
           "link": "https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share",
           "publishedOn": "2026-10-29T13:16:21.000Z",
-          "wordCount": 9834,
+          "wordCount": 9829,
           "title": "Why More Crypto Can Mean Less Crypto Per Treasury Share",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1346,7 +1466,7 @@
           "description": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular close.",
           "link": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
           "publishedOn": "2026-10-29T03:42:33.000Z",
-          "wordCount": 9876,
+          "wordCount": 9871,
           "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/164f9f8b16e378fa2e9d0291f7e453d6c3429d08-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1369,126 +1489,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c73a07448370dfaccbbba936d8733c5782f6af54-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-          "author": "The Defiant Team",
-          "description": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
-          "link": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-          "publishedOn": "2026-10-29T02:33:13.000Z",
-          "wordCount": null,
-          "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/907e7ab009ca67b028d3666d0c03e96a9b49c2af-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/907e7ab009ca67b028d3666d0c03e96a9b49c2af-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
-          "author": "The Defiant Team",
-          "description": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.",
-          "link": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
-          "publishedOn": "2026-10-29T01:52:57.000Z",
-          "wordCount": null,
-          "title": "Allium Discloses Security Breach, Revokes API Keys",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d35a37b45947cf3bb3a27531e29c11f9bdbfb293-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d35a37b45947cf3bb3a27531e29c11f9bdbfb293-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
-          "author": "The Defiant Team",
-          "description": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.",
-          "link": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
-          "publishedOn": "2026-10-29T01:16:05.000Z",
-          "wordCount": null,
-          "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5318b65a7de0e19fd87b3bd1f1f6afb628dadc2a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5318b65a7de0e19fd87b3bd1f1f6afb628dadc2a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
-          "author": "The Defiant Team",
-          "description": "Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.",
-          "link": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
-          "publishedOn": "2026-10-29T01:06:59.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/01b366c117f39f9545875d9feb4ec1c3b36a941a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/01b366c117f39f9545875d9feb4ec1c3b36a941a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw",
-          "author": "The Defiant Team",
-          "description": "The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution.",
-          "link": "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw",
-          "publishedOn": "2026-10-29T00:37:20.000Z",
-          "wordCount": null,
-          "title": "Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3225b8c05575bde666df1d9c5e819d53bdf4251d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3225b8c05575bde666df1d9c5e819d53bdf4251d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta",
-          "author": "The Defiant Team",
-          "description": "Buyers pay individual sellers in yuan, while Peer says it has no official partnership with Alipay.",
-          "link": "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta",
-          "publishedOn": "2026-10-28T23:38:58.000Z",
-          "wordCount": null,
-          "title": "Peer Adds Alipay-Funded USDC Trading on Base in Beta",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e44fb5e927ec8c910359d1ce6bbd0207c999a5a4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e44fb5e927ec8c910359d1ce6bbd0207c999a5a4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
-          "author": "The Defiant Team",
-          "description": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah’s enforcement of gambling laws against federally regulated markets.",
-          "link": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
-          "publishedOn": "2026-10-28T23:18:43.000Z",
-          "wordCount": 9890,
-          "title": "Utah Brings Criminal Charges Against Kalshi and Its Co-Founders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f490dee739a1f8db775cf3dcc71b009e404f231f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f490dee739a1f8db775cf3dcc71b009e404f231f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears",
-          "author": "The Defiant Team",
-          "description": "French users face phased trading restrictions and a March withdrawal cutoff. Brazil’s rules give existing providers that miss the filing deadline 30 days to stop services.",
-          "link": "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears",
-          "publishedOn": "2026-10-28T22:21:08.000Z",
-          "wordCount": null,
-          "title": "MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6c59392bd8fd8bf1dc8917f5625dded57a4c12da-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6c59392bd8fd8bf1dc8917f5625dded57a4c12da-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
