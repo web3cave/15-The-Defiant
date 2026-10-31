@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T01:08:44.872Z</id>
+    <id>urn:2026-10-31T07:38:38.874Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-31T01:08:44.872Z</updated>
+    <updated>2026-10-31T07:38:38.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases]]></title>
+        <id>https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases</id>
+        <link href="https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases"/>
+        <updated>2026-10-31T05:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Trading remained 335% above the preceding seven-day median, while 3pool's DAI and USDC balances recovered.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds"/>
         <updated>2026-10-28T17:29:16.000Z</updated>
         <summary type="html"><![CDATA[Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Liquidity Pool Can Earn Fees and Still Trail Holding]]></title>
-        <id>https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding</id>
-        <link href="https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding"/>
-        <updated>2026-10-28T17:11:51.000Z</updated>
-        <summary type="html"><![CDATA[A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
