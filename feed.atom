@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-30T21:11:08.709Z</id>
+    <id>urn:2026-10-31T01:08:44.872Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-30T21:11:08.709Z</updated>
+    <updated>2026-10-31T01:08:44.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation"/>
+        <updated>2026-10-30T21:46:28.000Z</updated>
+        <summary type="html"><![CDATA[IPX today detailed its patent-pending atomic router, the technology at the heart of its protocol, ahead of the launch of the IPX OS, IPX Exchange and the $IPX token on Base Nov 17.]]></summary>
+        <author>
+            <name>Bitwire</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time]]></title>
         <id>https://thedefiant.io/news/defi/real-economy-fees-overtook-blockchain-infrastructure-1kx-revenue-report</id>
@@ -440,7 +450,7 @@
         <id>https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs</id>
         <link href="https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs"/>
         <updated>2026-10-29T23:32:17.000Z</updated>
-        <summary type="html"><![CDATA[Withdrawals await testing and Binance promises a reserve report by Monday. This guide separates its loss-coverage pledge, frozen assets and a verified SNX recovery.]]></summary>
+        <summary type="html"><![CDATA[Binance says it has reserved more than $6.34 billion to cover the incident. This guide separates withdrawal targets, frozen assets and recoveries.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding"/>
         <updated>2026-10-28T17:11:51.000Z</updated>
         <summary type="html"><![CDATA[A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood Adds Eight Stock and ETF Tokens to Its Chain]]></title>
-        <id>https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain</id>
-        <link href="https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain"/>
-        <updated>2026-10-28T16:56:48.000Z</updated>
-        <summary type="html"><![CDATA[DefiLlama tracks $246.7 million in real-world assets deployed in DeFi on the network, where stock tokens already support trading and collateralized borrowing.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
