@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/election-market-odds-vs-polls-what-a-70-chance-means",
+          "author": "The Defiant Team",
+          "description": "The last trade can differ from the price available now, while a favorite losing is only one observation—not a verdict on a forecast’s reliability.",
+          "link": "https://thedefiant.io/news/cefi/election-market-odds-vs-polls-what-a-70-chance-means",
+          "publishedOn": "2026-11-01T18:12:49.000Z",
+          "wordCount": null,
+          "title": "Election Market Odds vs. Polls: What a 70% Chance Means",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b07dd18800cb40d3ffd8fc5e10a839e53ca779e1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b07dd18800cb40d3ffd8fc5e10a839e53ca779e1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/binance-hack-launderers-reach-solana-after-draining-500-million-on-tron-chainalysis-says",
+          "author": "The Defiant Team",
+          "description": "The firm says the Tron operation spanned more than 1,000 addresses and over 3,000 deposits before funds dispersed across chains.",
+          "link": "https://thedefiant.io/news/hacks/binance-hack-launderers-reach-solana-after-draining-500-million-on-tron-chainalysis-says",
+          "publishedOn": "2026-11-01T17:08:41.000Z",
+          "wordCount": null,
+          "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/040f499abad44ea1fec8c7155ceecf7074abe747-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/040f499abad44ea1fec8c7155ceecf7074abe747-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-token-objections-reach-50-including-nvidia",
           "author": "The Defiant Team",
           "description": "Disclosed objections cover 44 of the venue’s original 63 proposed stock symbols, leaving 19 without a disclosed opt-out.",
@@ -101,7 +131,7 @@
           "description": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.",
           "link": "https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example",
           "publishedOn": "2026-11-01T09:51:11.000Z",
-          "wordCount": 9814,
+          "wordCount": 9820,
           "title": "What Are Perpetual Funding Rates? A Worked SEI Example",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/86ef9c5593439ea9a7d42ddce17edcf2f1ad2d8a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -546,7 +576,7 @@
           "description": "1inch said its token was among assets stolen from Binance and that blocking attacker access to its apps cannot freeze the tokens themselves.",
           "link": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
           "publishedOn": "2026-10-30T16:04:19.000Z",
-          "wordCount": 9858,
+          "wordCount": 9864,
           "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5eef6d4ff6a7a7b22392ddfccd4ae6374b58d2f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -661,7 +691,7 @@
           "description": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
           "link": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
           "publishedOn": "2026-10-30T13:59:22.000Z",
-          "wordCount": 9817,
+          "wordCount": 9823,
           "title": "Coinbase and Strategy Sink After Binance Breach",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e083a4b7c4ced85ccf85037056165367d063caa3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -691,7 +721,7 @@
           "description": "The groups want wallet withdrawals and bridging excluded from a levy calculated on asset value, and a private-key recordkeeping requirement removed.",
           "link": "https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules",
           "publishedOn": "2026-10-30T13:44:48.000Z",
-          "wordCount": 9878,
+          "wordCount": 9884,
           "title": "Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c661e26ac681933734756be9b963779ab87b31c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -766,7 +796,7 @@
           "description": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound.",
           "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
           "publishedOn": "2026-10-30T11:20:52.000Z",
-          "wordCount": 9848,
+          "wordCount": 9854,
           "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/26b0b76a31898d69ad46e6b22415f5ead667fa61-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -931,7 +961,7 @@
           "description": "The main exploiter address also sold RAD and OGN on Uniswap, while about 580.8 million unsold FUN was transferred back to the collection wallet.",
           "link": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
           "publishedOn": "2026-10-30T08:17:27.000Z",
-          "wordCount": 9869,
+          "wordCount": 9875,
           "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/782677079e9b5018b922329ccde042f9547546d2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1201,7 +1231,7 @@
           "description": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250.",
           "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
           "publishedOn": "2026-10-29T21:16:40.000Z",
-          "wordCount": 9825,
+          "wordCount": 9831,
           "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f6a54b81347cf2a5b652b96f4f685d4150f4041-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1231,7 +1261,7 @@
           "description": "The senators set a Nov. 3 deadline for answers, including how many suspected election-trading violations were stopped before trades occurred.",
           "link": "https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards",
           "publishedOn": "2026-10-29T21:02:50.000Z",
-          "wordCount": 9855,
+          "wordCount": 9861,
           "title": "Warren, Curtis Press Kalshi and Polymarket on Election Trading Safeguards",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/473be52bd3c92c3788752b1677c209784ea99d1c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1261,7 +1291,7 @@
           "description": "A federal lawsuit seeks to block Utah enforcement, but the state has already won an initial ruling against the prediction market exchange.",
           "link": "https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach",
           "publishedOn": "2026-10-29T20:50:02.000Z",
-          "wordCount": 9838,
+          "wordCount": 9844,
           "title": "CFTC Chair Calls Utah's Kalshi Prosecution 'Blatant Overreach'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc06a05eb2e09e53af8104ddf67d134d12fc370d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1366,7 +1396,7 @@
           "description": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.",
           "link": "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud",
           "publishedOn": "2026-10-29T18:43:55.000Z",
-          "wordCount": 9910,
+          "wordCount": 9916,
           "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f95b15de661c4c01c19b13004049fb504a1024ac-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1426,7 +1456,7 @@
           "description": "The agency named Binance and Bybit as platforms used for alleged foreign payouts, without announcing charges against either exchange.",
           "link": "https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe",
           "publishedOn": "2026-10-29T16:30:03.000Z",
-          "wordCount": 9819,
+          "wordCount": 9825,
           "title": "India's ED Announces Searches in $524 Million Crypto Transfer Probe",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a8fe0ab276ea935fa0a6bed8c6fd63420efd6b0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1456,7 +1486,7 @@
           "description": "Existing customers cannot trade and must request approval for a one-time 48-hour withdrawal window, subject to sanctions controls.",
           "link": "https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement",
           "publishedOn": "2026-10-29T16:11:39.000Z",
-          "wordCount": 9805,
+          "wordCount": 9811,
           "title": "HTX Exits UK Following FCA Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a643e51513ca95414764f0f5b44eda3a6deb689b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1464,31 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a643e51513ca95414764f0f5b44eda3a6deb689b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
-          "author": "The Defiant Team",
-          "description": "Governance set $50,000 borrowing ceilings per asset for the new Ethereum contracts, while pool creation remains restricted.",
-          "link": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
-          "publishedOn": "2026-10-29T16:11:26.000Z",
-          "wordCount": null,
-          "title": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3b9ff662b6499c2916f50223f65bb69b000442ca-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3b9ff662b6499c2916f50223f65bb69b000442ca-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform",
-          "author": "Bitwire",
-          "description": "Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform",
-          "publishedOn": "2026-10-29T16:10:17.000Z",
-          "wordCount": null,
-          "title": "IPX Announces Integration with Bridge, a Stripe Company, to Power Fiat On- and Off-Ramps on Its Tokenized IP Platform",
-          "imageUrl": null
         }
       ]
     }
