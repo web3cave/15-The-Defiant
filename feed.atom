@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T06:57:33.533Z</id>
+    <id>urn:2026-11-01T13:58:12.817Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-01T06:57:33.533Z</updated>
+    <updated>2026-11-01T13:58:12.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKXICE Stock-Token Objections Reach 50, Including Nvidia]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-token-objections-reach-50-including-nvidia</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-token-objections-reach-50-including-nvidia"/>
+        <updated>2026-11-01T13:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Disclosed objections cover 44 of the venue’s original 63 proposed stock symbols, leaving 19 without a disclosed opt-out.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset]]></title>
+        <id>https://thedefiant.io/news/hacks/swell-lifts-sweth-and-rsweth-withdrawal-pauses-after-rate-reset</id>
+        <link href="https://thedefiant.io/news/hacks/swell-lifts-sweth-and-rsweth-withdrawal-pauses-after-rate-reset"/>
+        <updated>2026-11-01T11:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Swell promises compensation within a week for deposits made at inflated rates, but both tokens’ direct-deposit controls still show a pause.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Fees, Revenue and Holder Payouts: How the Money Flows]]></title>
+        <id>https://thedefiant.io/news/defi/defi-fees-revenue-and-holder-payouts-how-the-money-flows</id>
+        <link href="https://thedefiant.io/news/defi/defi-fees-revenue-and-holder-payouts-how-the-money-flows"/>
+        <updated>2026-11-01T10:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Buybacks and burns can count as holder revenue without putting cash in a wallet. A worked example separates those flows from treasury income and staking payouts.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Pendle Principal Tokens Turn a Discount Into a Maturity Return]]></title>
+        <id>https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return</id>
+        <link href="https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return"/>
+        <updated>2026-11-01T10:06:34.000Z</updated>
+        <summary type="html"><![CDATA[An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Staking Rewards Change Token Holdings and Supply Share]]></title>
+        <id>https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share</id>
+        <link href="https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share"/>
+        <updated>2026-11-01T09:58:32.000Z</updated>
+        <summary type="html"><![CDATA[In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When a Uniswap v3 Position Goes Out of Range?]]></title>
+        <id>https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range</id>
+        <link href="https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range"/>
+        <updated>2026-11-01T09:56:12.000Z</updated>
+        <summary type="html"><![CDATA[An ETH/USDC worked example tracks token balances, fees and the holding benchmark—and shows why opening a new range does not reset cumulative returns.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Perpetual Funding Rates? A Worked SEI Example]]></title>
+        <id>https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example</id>
+        <link href="https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example"/>
+        <updated>2026-11-01T09:51:11.000Z</updated>
+        <summary type="html"><![CDATA[In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read Kraken’s Proof of Reserves—and Its Limits]]></title>
+        <id>https://thedefiant.io/news/cefi/how-to-read-kraken-s-proof-of-reserves-and-its-limits</id>
+        <link href="https://thedefiant.io/news/cefi/how-to-read-kraken-s-proof-of-reserves-and-its-limits"/>
+        <updated>2026-11-01T09:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Kraken’s June 2026 snapshot separates customer-balance inclusion from wallet control. Neither alone guarantees solvency or withdrawal access.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Circle Makes Money From USDC—and Why Reserve Income Is Not Profit]]></title>
+        <id>https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit</id>
+        <link href="https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit"/>
+        <updated>2026-11-01T09:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Circle’s second-quarter accounts trace $701.315 million in revenue and reserve income to $48.214 million in net income, after distribution costs, operating expenses and taxes.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Zero LTV Means for an Existing Aave Loan]]></title>
+        <id>https://thedefiant.io/news/defi/what-zero-ltv-means-for-an-existing-aave-loan</id>
+        <link href="https://thedefiant.io/news/defi/what-zero-ltv-means-for-an-existing-aave-loan"/>
+        <updated>2026-11-01T09:02:12.000Z</updated>
+        <summary type="html"><![CDATA[A hypothetical $10,000 collateral position loses $1,500 of borrowing headroom without changing its 1.33 health factor.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uphold RLUSD Earn vs. Ethena Pay Earn+: Lending and Leverage Compared]]></title>
+        <id>https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared</id>
+        <link href="https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared"/>
+        <updated>2026-11-01T08:56:05.000Z</updated>
+        <summary type="html"><![CDATA[An equal-$10,000 illustration shows how rising borrowing costs can turn a leveraged stablecoin strategy negative without a depeg.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDT vs. USDC: What Backs Them and How Dollar Redemptions Work]]></title>
+        <id>https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work</id>
+        <link href="https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work"/>
+        <updated>2026-11-01T08:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Tether publishes a $100,000 minimum for direct redemption. Circle Mint serves institutions, while a separate European policy provides a retail route subject to checks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack]]></title>
         <id>https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack</id>
@@ -883,126 +1003,6 @@
         <summary type="html"><![CDATA[Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts.]]></summary>
         <author>
             <name>Bitwire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canton Strategic Targets Monday Tokenized-Stock Debut on TSV]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv"/>
-        <updated>2026-10-29T16:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Fairmint will issue the shares and keep their official onchain ownership records as rival OKXICE faces 38 disclosed issuer objections.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Makes Stellar a Default Network on Mobile and Extension]]></title>
-        <id>https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension</id>
-        <link href="https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension"/>
-        <updated>2026-10-29T15:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Existing multichain accounts gain recovery-phrase-derived Stellar addresses, with support for XLM, USDC and Soroban tokens.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Launches 24/7 RWA Pricing With Aave as Launch Partner]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner"/>
-        <updated>2026-10-29T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Off-hours prices draw on perpetual-futures venues, while Aave says the service is coming soon to stock-backed loans.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of England Proposes Tokenized Collateral Safeguards for Clearinghouses]]></title>
-        <id>https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses</id>
-        <link href="https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses"/>
-        <updated>2026-10-29T15:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Government bonds are a key example in the proposed guidance, while tokenized money market funds remain an area for further feedback. Responses are due Feb. 12, 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart Joins OKXICE Objectors as Issuer Total Reaches 38]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38"/>
-        <updated>2026-10-29T15:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Disclosed objections now cover 34 of the venue’s 63 originally proposed stock symbols, leaving 29 without one.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart Blocks Third-Party Stock Tokens on Planned OKXICE Venue]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue"/>
-        <updated>2026-10-29T15:17:52.000Z</updated>
-        <summary type="html"><![CDATA[The venue now lists 38 objectors, leaving 29 of its original 63 proposed symbols without disclosed objections.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Probes Suspicious Israeli Election Trades]]></title>
-        <id>https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades</id>
-        <link href="https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades"/>
-        <updated>2026-10-29T15:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket’s rules allow wallet bans, legal action and law-enforcement referrals.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uphold Launches RLUSD Earn With Up to 7% Variable APY]]></title>
-        <id>https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy</id>
-        <link href="https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy"/>
-        <updated>2026-10-29T15:10:11.000Z</updated>
-        <summary type="html"><![CDATA[The Sentora-curated product routes deposits into DeFi lending, with assets moving off Uphold and withdrawals dependent on market liquidity.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Plans US-Regulated Hyperliquid Perps With TradeXYZ]]></title>
-        <id>https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz</id>
-        <link href="https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz"/>
-        <updated>2026-10-29T15:06:58.000Z</updated>
-        <summary type="html"><![CDATA[ICE is taking a minority stake in TradeXYZ, with retail access planned through regulated futures brokers including its OKX joint venture.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why More Crypto Can Mean Less Crypto Per Treasury Share]]></title>
-        <id>https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share</id>
-        <link href="https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share"/>
-        <updated>2026-10-29T13:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Selling new common shares above net asset value can increase assets per share. Selling below it can dilute holders even when crypto prices are unchanged.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%]]></title>
-        <id>https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96</id>
-        <link href="https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96"/>
-        <updated>2026-10-29T09:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Westpac Sets A$10,000 Monthly Crypto Payment Cap From December]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december"/>
-        <updated>2026-10-29T08:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
