@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T22:30:29.904Z</id>
+    <id>urn:2026-11-02T01:56:46.753Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-01T22:30:29.904Z</updated>
+    <updated>2026-11-02T01:56:46.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethena Explained: USDe, sUSDe, Rewards and Exit Routes]]></title>
+        <id>https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes</id>
+        <link href="https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes"/>
+        <updated>2026-11-02T00:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Direct issuer redemption is restricted, while sUSDe unstaking returns USDe—not dollars in a bank account.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anza Urges Solana Validators to Act on Critical Linux Flaw]]></title>
+        <id>https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw</id>
+        <link href="https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw"/>
+        <updated>2026-11-02T00:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu operators were told to filter incoming traffic and disable two networking features while awaiting a fixed kernel.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple’s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits]]></title>
+        <id>https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits</id>
+        <link href="https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits"/>
+        <updated>2026-11-02T00:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Pool withdrawals depend on available liquidity and have no guaranteed deadline. Selling a token on an exchange is a different exit, at a market-determined price.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Institutional Crypto Custody: A Guide to Roles and Control]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control"/>
+        <updated>2026-11-02T00:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Keeping tokens with a bank does not rule out pledging them for a loan. Separate safekeeping, signing permissions and authority to sell collateral before comparing services.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps]]></title>
+        <id>https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps</id>
+        <link href="https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps"/>
+        <updated>2026-11-01T22:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is RLUSD? Ripple’s Stablecoin Backing and Redemption Explained]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/what-is-rlusd-ripple-s-stablecoin-backing-and-redemption-explained</id>
@@ -130,7 +180,7 @@
         <id>https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return</id>
         <link href="https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return"/>
         <updated>2026-11-01T10:06:34.000Z</updated>
-        <summary type="html"><![CDATA[An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs.]]></summary>
+        <summary type="html"><![CDATA[Buying principal tokens at a discount can produce a return at maturity. Selling early brings market prices, fees and underlying-asset risk back into the calculation.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -140,7 +190,7 @@
         <id>https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share</id>
         <link href="https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share"/>
         <updated>2026-11-01T09:58:32.000Z</updated>
-        <summary type="html"><![CDATA[In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price.]]></summary>
+        <summary type="html"><![CDATA[Staking can increase your token balance, but that is only part of the return. New issuance can dilute your share, and a falling price can outweigh the rewards.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -160,7 +210,7 @@
         <id>https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example</id>
         <link href="https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example"/>
         <updated>2026-11-01T09:51:11.000Z</updated>
-        <summary type="html"><![CDATA[In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.]]></summary>
+        <summary type="html"><![CDATA[Funding is a recurring payment between traders holding long and short positions. A simple SEI example shows how it affects an account—and why collateral and fees are different.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -200,7 +250,7 @@
         <id>https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared</id>
         <link href="https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared"/>
         <updated>2026-11-01T08:56:05.000Z</updated>
-        <summary type="html"><![CDATA[An equal-$10,000 illustration shows how rising borrowing costs can turn a leveraged stablecoin strategy negative without a depeg.]]></summary>
+        <summary type="html"><![CDATA[Uphold lends RLUSD; Ethena Pay Earn+ uses borrowing to increase exposure. Their advertised yields come with different costs, access rules and risks.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit"/>
         <updated>2026-10-29T20:46:26.000Z</updated>
         <summary type="html"><![CDATA[Average USDC in Coinbase products hit a record $22 billion; adjusted net income was $77.7 million, versus $719 million reported.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Sets November 5 for Denim's 200ms Mainnet Blocks]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks</id>
-        <link href="https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks"/>
-        <updated>2026-10-29T20:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Flashblocks subscriptions and pending-state access will disappear, requiring developers and indexers to change their integrations.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Armstrong Adopts Plan to Sell Up to $1.31 Billion in Shares]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares"/>
-        <updated>2026-10-29T20:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Fred Ehrsam and Emilie Choi also adopted share-sale plans, with different trading windows extending into 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Gains Drive Strategy's $20.9B Q3 Operating Profit]]></title>
-        <id>https://thedefiant.io/news/cefi/bitcoin-gains-drive-strategy-s-20-9b-q3-operating-profit</id>
-        <link href="https://thedefiant.io/news/cefi/bitcoin-gains-drive-strategy-s-20-9b-q3-operating-profit"/>
-        <updated>2026-10-29T20:14:22.000Z</updated>
-        <summary type="html"><![CDATA[The company spent $2.04 billion buying back STRC through Oct. 25, while preferred dividends totaled $419.6 million in the quarter.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach]]></title>
-        <id>https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach</id>
-        <link href="https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach"/>
-        <updated>2026-10-29T19:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark]]></title>
-        <id>https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark</id>
-        <link href="https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark"/>
-        <updated>2026-10-29T18:47:56.000Z</updated>
-        <summary type="html"><![CDATA[The pre-production architecture expands Celestia Labs into execution, but its single-node benchmark is not a measure of live network throughput.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
