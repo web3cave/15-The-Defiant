@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-02T18:55:34.203Z</id>
+    <id>urn:2026-11-03T01:23:21.248Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-02T18:55:34.203Z</updated>
+    <updated>2026-11-03T01:23:21.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains]]></title>
+        <id>https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains</id>
+        <link href="https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains"/>
+        <updated>2026-11-03T00:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid Restores Full Bitcoin Backing After Elements Exploit]]></title>
+        <id>https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit</id>
+        <link href="https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit"/>
+        <updated>2026-11-03T00:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea Rejects FBI Blame for $6.3 Billion Binance Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack</id>
+        <link href="https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack"/>
+        <updated>2026-11-02T21:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up]]></title>
+        <id>https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up</id>
+        <link href="https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up"/>
+        <updated>2026-11-02T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Estimated L-BTC backing rises to 94.14%, but the federation’s recovery plan requires full reserves before direct peg-outs resume.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade"/>
+        <updated>2026-11-02T20:07:33.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akash Stakers Approve Move From Cosmos to Solana]]></title>
+        <id>https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana</id>
+        <link href="https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana"/>
+        <updated>2026-11-02T20:04:42.000Z</updated>
+        <summary type="html"><![CDATA[AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEAR Governance Approves Plan to Lower Issuance Cap to 1.6%]]></title>
+        <id>https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6</id>
+        <link href="https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6"/>
+        <updated>2026-11-02T19:37:34.000Z</updated>
+        <summary type="html"><![CDATA[The 24-month reduction would lower staking rewards, but Security Council ratification and a validator-adopted protocol upgrade still stand between the vote and activation.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward]]></title>
+        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward</id>
+        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward"/>
+        <updated>2026-11-02T19:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Jersey Rescinds Coinbase Staking Order, Clearing Path for Restart]]></title>
+        <id>https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart</id>
+        <link href="https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart"/>
+        <updated>2026-11-02T19:11:35.000Z</updated>
+        <summary type="html"><![CDATA[The state withdrew its $5 million penalty and staking restrictions without prejudice; Coinbase says customer access will return ‘very soon.’]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Staff Clarifies When Token Voters Are Not a 'Central Party']]></title>
         <id>https://thedefiant.io/news/regulation/sec-staff-clarifies-when-token-voters-are-not-a-central-party</id>
@@ -911,96 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/binance-s-teng-targets-sunday-withdrawal-restart-after-hack"/>
         <updated>2026-10-30T14:38:19.000Z</updated>
         <summary type="html"><![CDATA[The co-CEO says Binance has reserved over $6.34 billion in company funds and plans to publish a full Proof of Reserves report by Monday.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tydro Restores New Borrowing but Keeps Lower USDC Cap]]></title>
-        <id>https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap</id>
-        <link href="https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap"/>
-        <updated>2026-10-30T14:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Reopens Markets but Keeps Nine Assets at Zero LTV]]></title>
-        <id>https://thedefiant.io/news/defi/aave-reopens-markets-but-keeps-nine-assets-at-zero-ltv</id>
-        <link href="https://thedefiant.io/news/defi/aave-reopens-markets-but-keeps-nine-assets-at-zero-ltv"/>
-        <updated>2026-10-30T14:07:56.000Z</updated>
-        <summary type="html"><![CDATA[The collateral restrictions apply wherever the assets are listed, with different rules for existing V3 and V4 positions.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase and Strategy Sink After Binance Breach]]></title>
-        <id>https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach</id>
-        <link href="https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach"/>
-        <updated>2026-10-30T13:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchorpoint Plans Native HKDAP Issuance on Solana]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/anchorpoint-plans-native-hkdap-issuance-on-solana</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/anchorpoint-plans-native-hkdap-issuance-on-solana"/>
-        <updated>2026-10-30T13:52:20.000Z</updated>
-        <summary type="html"><![CDATA[HKDAP remains in Ethereum-only beta access, while HSBC’s RedCoin has already launched for retail payments through PayMe.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules]]></title>
-        <id>https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules</id>
-        <link href="https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules"/>
-        <updated>2026-10-30T13:44:48.000Z</updated>
-        <summary type="html"><![CDATA[The groups want wallet withdrawals and bridging excluded from a levy calculated on asset value, and a private-key recordkeeping requirement removed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tydro Unfreezes Markets but Leaves New Borrowing Blocked]]></title>
-        <id>https://thedefiant.io/news/defi/tydro-unfreezes-markets-but-leaves-new-borrowing-blocked</id>
-        <link href="https://thedefiant.io/news/defi/tydro-unfreezes-markets-but-leaves-new-borrowing-blocked"/>
-        <updated>2026-10-30T13:41:45.000Z</updated>
-        <summary type="html"><![CDATA[Repayments, withdrawals and liquidations remained available during the precautionary freeze. Tydro's dashboard displays $62.36 million in outstanding borrows.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Crypto-Arbitrage Spread Is Not Net Profit]]></title>
-        <id>https://thedefiant.io/news/defi/why-a-crypto-arbitrage-spread-is-not-net-profit</id>
-        <link href="https://thedefiant.io/news/defi/why-a-crypto-arbitrage-spread-is-not-net-profit"/>
-        <updated>2026-10-30T13:23:15.000Z</updated>
-        <summary type="html"><![CDATA[A matched one-ETH example shows how fees shrink a quoted gap—and why prefunding moves transfer risk to rebalancing rather than removing it.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll Details Permissioned AI Network Plan and Ethereum Token Migration]]></title>
-        <id>https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration</id>
-        <link href="https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration"/>
-        <updated>2026-10-30T12:17:33.000Z</updated>
-        <summary type="html"><![CDATA[The broader transition targets Q2 2027, while users will need separate plans for DeFi positions and other assets.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals]]></title>
-        <id>https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals</id>
-        <link href="https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals"/>
-        <updated>2026-10-30T11:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
