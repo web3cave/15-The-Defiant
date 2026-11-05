@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T18:17:26.923Z</id>
+    <id>urn:2026-11-05T00:00:18.482Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-04T18:17:26.923Z</updated>
+    <updated>2026-11-05T00:00:18.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack</id>
+        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack"/>
+        <updated>2026-11-04T23:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption"/>
+        <updated>2026-11-04T21:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax"/>
+        <updated>2026-11-04T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq Approves Listing of Canary’s Staked Injective ETF]]></title>
+        <id>https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf</id>
+        <link href="https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf"/>
+        <updated>2026-11-04T20:38:59.000Z</updated>
+        <summary type="html"><![CDATA[The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning Labs Releases LND Mitigation for Critical Linux Flaw]]></title>
+        <id>https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw</id>
+        <link href="https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw"/>
+        <updated>2026-11-04T18:47:43.000Z</updated>
+        <summary type="html"><![CDATA[LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operators still need a patched kernel to fix the underlying vulnerability.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Privacy Coins? Bitcoin, Monero and Zcash Compared]]></title>
         <id>https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion"/>
         <updated>2026-11-02T09:20:38.000Z</updated>
         <summary type="html"><![CDATA[A successful send is only the beginning: destination delivery depends on verification, finality settings and execution. Price data is a separate Chainlink service.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Explained: Stablecoin Pools, LP Exposure and Lending]]></title>
-        <id>https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending</id>
-        <link href="https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending"/>
-        <updated>2026-11-02T09:02:13.000Z</updated>
-        <summary type="html"><![CDATA[An LP token represents a share of a changing asset mix. Trading fees, token incentives and lending interest come from different sources.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Restores USD Withdrawals as Post-Hack Reopening Expands]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands</id>
-        <link href="https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands"/>
-        <updated>2026-11-02T08:09:37.000Z</updated>
-        <summary type="html"><![CDATA[The exchange says all 15 initial crypto network groups have reopened, but withdrawals for several other tokens remain suspended.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Attacker Splits $292 Million in XRP Across Six Wallets]]></title>
-        <id>https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets</id>
-        <link href="https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets"/>
-        <updated>2026-11-02T07:42:43.000Z</updated>
-        <summary type="html"><![CDATA[The six recipients showed no outgoing payments, but native XRP cannot be frozen by Ripple, leaving exchanges as a potential interception point.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCPay Links Hot-Wallet Drains to Versions 2.4.1 and Older]]></title>
-        <id>https://thedefiant.io/news/hacks/btcpay-links-hot-wallet-drains-to-versions-2-4-1-and-older</id>
-        <link href="https://thedefiant.io/news/hacks/btcpay-links-hot-wallet-drains-to-versions-2-4-1-and-older"/>
-        <updated>2026-11-02T07:18:33.000Z</updated>
-        <summary type="html"><![CDATA[The team urges operators to update and says it has no credible reports of drains on the latest 2.4.7 release.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Explained: USDe, sUSDe, Rewards and Exit Routes]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes</id>
-        <link href="https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes"/>
-        <updated>2026-11-02T00:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Direct issuer redemption is restricted, while sUSDe unstaking returns USDe—not dollars in a bank account.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
