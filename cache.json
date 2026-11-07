@@ -6,12 +6,57 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
+          "author": "The Defiant Team",
+          "description": "OFAC’s official tool searches names and exact crypto addresses. A result still requires identity checks, while an unlisted wallet or company can remain subject to blocking rules.",
+          "link": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
+          "publishedOn": "2026-11-07T14:17:01.000Z",
+          "wordCount": 9889,
+          "title": "How to Check Crypto Companies and Wallet Addresses in OFAC Records",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32aac1eb4313de053027f3d4b7d3d09f31ae8013-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32aac1eb4313de053027f3d4b7d3d09f31ae8013-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/how-to-restore-access-to-a-crypto-wallet",
+          "author": "The Defiant Team",
+          "description": "Losing an app password is different from losing the keys. Social-login wallets and guardian systems also depend on specific credentials or arrangements already in place.",
+          "link": "https://thedefiant.io/news/security/how-to-restore-access-to-a-crypto-wallet",
+          "publishedOn": "2026-11-07T14:14:12.000Z",
+          "wordCount": 9845,
+          "title": "How to Restore Access to a Crypto Wallet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/75cbc3eb3cdc32a42005ed08d146b2b2b1e66008-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/75cbc3eb3cdc32a42005ed08d146b2b2b1e66008-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
+          "author": "The Defiant Team",
+          "description": "The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses.",
+          "link": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
+          "publishedOn": "2026-11-07T11:27:05.000Z",
+          "wordCount": 9917,
+          "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa054ecc504d0e53de1ecc8aada44c90099acec5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa054ecc504d0e53de1ecc8aada44c90099acec5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
           "author": "The Defiant Team",
           "description": "The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.",
           "link": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
           "publishedOn": "2026-11-07T06:12:27.000Z",
-          "wordCount": 9875,
+          "wordCount": 9845,
           "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5563a827b0d53c0f5d6a301c0586b8d633d556ef-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -41,7 +86,7 @@
           "description": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
           "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
           "publishedOn": "2026-11-07T00:00:11.000Z",
-          "wordCount": 9881,
+          "wordCount": 9887,
           "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/629b79200268c68fcc094c1f9b56df733e5aad00-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -56,7 +101,7 @@
           "description": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date.",
           "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
           "publishedOn": "2026-11-06T22:09:37.000Z",
-          "wordCount": 9871,
+          "wordCount": 9877,
           "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d7f9d63c34b807952174d155e5e4249d5effe2f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -71,7 +116,7 @@
           "description": "The March 26 proposal also targets US government-action contracts, with a commercial-hedging exception defined by the CFTC. It remains in committee.",
           "link": "https://thedefiant.io/news/regulation/merkley-raskin-bill-would-ban-election-and-sports-contracts-on-us-exchanges",
           "publishedOn": "2026-11-06T18:39:46.000Z",
-          "wordCount": 9907,
+          "wordCount": 9913,
           "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c099e5d95ae65be5e261f2feea43c888291931a7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -86,7 +131,7 @@
           "description": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed.",
           "link": "https://thedefiant.io/news/tokens/what-is-stablecoin-market-cap-supply-share-and-dominance-explained",
           "publishedOn": "2026-11-06T18:12:32.000Z",
-          "wordCount": 9870,
+          "wordCount": 9876,
           "title": "What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d319d9a1fd779b348cb6ba11e90ab882ced06fd7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -101,7 +146,7 @@
           "description": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028.",
           "link": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
           "publishedOn": "2026-11-06T18:07:16.000Z",
-          "wordCount": 9808,
+          "wordCount": 9814,
           "title": "Algorand Foundation Shuts Forum and Advisory Council",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/299865308ec6802615e27680cbc1cc4d2ef986dc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -116,7 +161,7 @@
           "description": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital.",
           "link": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
           "publishedOn": "2026-11-06T18:03:30.000Z",
-          "wordCount": 9849,
+          "wordCount": 9855,
           "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1cb1926d7d4e0e415aa5b025c4397ee37b90a024-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -131,7 +176,7 @@
           "description": "The SDN update lists no crypto addresses for the newly designated parties, but US firms must still block covered assets and avoid unauthorized dealings with them.",
           "link": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
           "publishedOn": "2026-11-06T17:50:26.000Z",
-          "wordCount": 9891,
+          "wordCount": 9897,
           "title": "US Sanctions 45 More Targets Linked to Prince Group",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fdef811d0c68c263631a3830f34c84bd1faaa89b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -146,7 +191,7 @@
           "description": "Bitcoin redemptions will resume once enough operators return, while Aave’s $123.2 million Ethereum Core tBTC reserve remains frozen.",
           "link": "https://thedefiant.io/news/security/threshold-sets-tbtc-reconnection-target-as-week-long-pause-continues",
           "publishedOn": "2026-11-06T17:14:38.000Z",
-          "wordCount": 9833,
+          "wordCount": 9839,
           "title": "Threshold Sets tBTC Reconnection Target as Week-Long Pause Continues",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f50930afd203392a9e8563c6e18557f22af551b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -161,7 +206,7 @@
           "description": "The gold-backed token joins Coinbase’s collateral options, while its loan-health pricing updates only during gold-market hours.",
           "link": "https://thedefiant.io/news/defi/coinbase-opens-usdc-borrowing-against-pax-gold",
           "publishedOn": "2026-11-06T15:39:15.000Z",
-          "wordCount": 9805,
+          "wordCount": 9811,
           "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5efd7201b6c4d0c7582f384d2e29ed5870f1b8f4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -176,7 +221,7 @@
           "description": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic's valuation.",
           "link": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
           "publishedOn": "2026-11-06T15:31:46.000Z",
-          "wordCount": 9846,
+          "wordCount": 9852,
           "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0ddd26081f924239394924334ae45d7c066e7355-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -191,7 +236,7 @@
           "description": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
           "link": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
           "publishedOn": "2026-11-06T15:01:29.000Z",
-          "wordCount": 9784,
+          "wordCount": 9790,
           "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/27ffaca14309cca42068dffc1d7934e18c7848d8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -221,7 +266,7 @@
           "description": "A notification screenshot he shared describes unauthorized access to the consumer-card system on Nov. 3 and says enterprise programs were unaffected.",
           "link": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
           "publishedOn": "2026-11-06T14:34:02.000Z",
-          "wordCount": 9801,
+          "wordCount": 9807,
           "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53bb685a7b4fe093283cea1ab387e5d7b00bb37d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -236,7 +281,7 @@
           "description": "Futures bind both sides to settlement obligations. Options give buyers a right in exchange for a premium, while sellers take the corresponding obligation.",
           "link": "https://thedefiant.io/news/markets/what-are-crypto-derivatives-futures-perpetuals-and-options-explained",
           "publishedOn": "2026-11-06T14:16:18.000Z",
-          "wordCount": 9819,
+          "wordCount": 9825,
           "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/85117cf93db750ee7d59bc49002c609c0ed4897b-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -251,7 +296,7 @@
           "description": "The $3,000 threshold remains in place, including for qualifying crypto transfers under FinCEN's existing guidance.",
           "link": "https://thedefiant.io/news/regulation/treasury-and-fed-withdraw-plan-for-250-cross-border-travel-rule-threshold",
           "publishedOn": "2026-11-06T14:04:06.000Z",
-          "wordCount": 9832,
+          "wordCount": 9838,
           "title": "Treasury and Fed Withdraw Plan for $250 Cross-Border Travel Rule Threshold",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea2fe7b0a1860d5f7bcc2653c1e142dc383e339d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -281,7 +326,7 @@
           "description": "The figure is net of $2.37 billion in borrowing. Safe's published third-quarter report gives the $57.64 billion total but not the DeFi split.",
           "link": "https://thedefiant.io/news/defi/safe-says-12-4-billion-of-smart-account-assets-sits-in-defi",
           "publishedOn": "2026-11-06T13:50:01.000Z",
-          "wordCount": 9883,
+          "wordCount": 9889,
           "title": "Safe Says $12.4 Billion of Smart-Account Assets Sits in DeFi",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/safe-defi-cropped-jpg-c6aae540-f564-4a8a-9626-ef4b43bf8f44.jpg",
@@ -311,7 +356,7 @@
           "description": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched.",
           "link": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
           "publishedOn": "2026-11-06T11:06:26.000Z",
-          "wordCount": 9843,
+          "wordCount": 9849,
           "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4400b84098d88aa1f524328b998dc4ee2726fb22-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -326,7 +371,7 @@
           "description": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date.",
           "link": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
           "publishedOn": "2026-11-06T10:27:22.000Z",
-          "wordCount": 9813,
+          "wordCount": 9855,
           "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/59ad0746b9a350dfbfca03422aac71199b81ce27-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -341,7 +386,7 @@
           "description": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps.",
           "link": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
           "publishedOn": "2026-11-06T08:13:07.000Z",
-          "wordCount": 9841,
+          "wordCount": 9883,
           "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f4fa6aa7faee468527d21c4e2ccd07c27d1257d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -356,7 +401,7 @@
           "description": "US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the previous day's $53 million inflow.",
           "link": "https://thedefiant.io/news/markets/ether-falls-8-5-to-2-220-lagging-bitcoin",
           "publishedOn": "2026-11-06T07:17:37.000Z",
-          "wordCount": 9816,
+          "wordCount": 9822,
           "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/48dd5fb05fcbfb671f79122e48f4142ce10df55e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -371,7 +416,7 @@
           "description": "IREN aims to substantially complete its mining transition by December, while its $4 billion AI revenue run-rate target moves into early 2027.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/iren-mining-revenue-falls-58-as-ai-sales-reach-200-million",
           "publishedOn": "2026-11-06T05:40:09.000Z",
-          "wordCount": 9895,
+          "wordCount": 9901,
           "title": "IREN Mining Revenue Falls 58% as AI Sales Reach $200 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3341136ace88bab6049c85b9df4ca88384f94041-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -386,7 +431,7 @@
           "description": "Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths.",
           "link": "https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen",
           "publishedOn": "2026-11-06T00:42:07.000Z",
-          "wordCount": 9847,
+          "wordCount": 9853,
           "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e96e0168fb6552a0ebcc5fcceabaaa03f8fb2a4e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -401,7 +446,7 @@
           "description": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings.",
           "link": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
           "publishedOn": "2026-11-05T21:56:51.000Z",
-          "wordCount": 9846,
+          "wordCount": 9852,
           "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb632838e1aebbdbd8d05e9f50868df4233bda24-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -416,7 +461,7 @@
           "description": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
           "link": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
           "publishedOn": "2026-11-05T21:53:55.000Z",
-          "wordCount": 9848,
+          "wordCount": 9854,
           "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0db1a2201a37689f96020377a6960a6dbb8df88d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -431,7 +476,7 @@
           "description": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use.",
           "link": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
           "publishedOn": "2026-11-05T20:23:31.000Z",
-          "wordCount": 9831,
+          "wordCount": 9837,
           "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8fb0126513614f9ef99a82b0a26136ddd86fd575-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -446,7 +491,7 @@
           "description": "The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027.",
           "link": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
           "publishedOn": "2026-11-05T20:14:26.000Z",
-          "wordCount": 9866,
+          "wordCount": 9872,
           "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/05b519d23808c68dc8aa17456b20bdffd03e0008-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -461,7 +506,7 @@
           "description": "Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks.",
           "link": "https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands",
           "publishedOn": "2026-11-05T20:07:05.000Z",
-          "wordCount": 9884,
+          "wordCount": 9890,
           "title": "California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a96e3fb6f6e05e349cf865a1efc80d306c49dfe5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -476,7 +521,7 @@
           "description": "Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets.",
           "link": "https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto",
           "publishedOn": "2026-11-05T19:50:19.000Z",
-          "wordCount": 9867,
+          "wordCount": 9873,
           "title": "Solana Labs’ Leap Opens iPhone Beta for Tokenized Stocks and Crypto",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bb7e9b4556a33108c57bb776d0eb14a69d9ae5a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -491,7 +536,7 @@
           "description": "Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes.",
           "link": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
           "publishedOn": "2026-11-05T19:26:48.000Z",
-          "wordCount": 9878,
+          "wordCount": 9884,
           "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b9cea8106a8adde70d9bff0a1aabff7995632b3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -506,7 +551,7 @@
           "description": "The Ethereum Economic Zone ran three demonstrations at Devcon in Mumbai. Rollup X is a devnet whose batches are attested by a designated signer rather than proven.",
           "link": "https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity",
           "publishedOn": "2026-11-05T19:15:00.000Z",
-          "wordCount": 9902,
+          "wordCount": 9908,
           "title": "EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/16e3f2b72cd4e6956d3459f9df61fc6fa0860c41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -521,7 +566,7 @@
           "description": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
           "link": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
           "publishedOn": "2026-11-05T18:55:08.000Z",
-          "wordCount": 9841,
+          "wordCount": 9871,
           "title": "SEC Crypto Broker Rule Enters White House Review",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b994a42c5efe7eafbf5a6d2b269713456fcbc7b1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -536,7 +581,7 @@
           "description": "Key-only accounts can be exposed if SSH password authentication remains enabled. Alpine urges operators to update and restart the server process.",
           "link": "https://thedefiant.io/news/security/openssh-ships-urgent-workaround-for-alpine-password-bypass",
           "publishedOn": "2026-11-05T18:31:59.000Z",
-          "wordCount": 9820,
+          "wordCount": 9826,
           "title": "OpenSSH Ships Urgent Workaround for Alpine Password Bypass",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6a686dd86ff91ac7a3bfb2d0e3cbfb3c2ca5241-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -551,7 +596,7 @@
           "description": "Blockaid listed patched builds for reth, op-reth and Base, while Gauntlet curtailed deposits and allocations.",
           "link": "https://thedefiant.io/news/security/blockaid-warns-reth-bug-can-produce-incorrect-state-proofs",
           "publishedOn": "2026-11-05T18:18:06.000Z",
-          "wordCount": 9832,
+          "wordCount": 9838,
           "title": "Blockaid Warns Reth Bug Can Produce Incorrect State Proofs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee2060e5a0f251d731497a8df64c9c951b7cb9ab-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -566,7 +611,7 @@
           "description": "Netting offsets obligations, while collateral backs performance. Neither is the same as completing payment and delivery.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-clearing-vs-settlement-what-happens-after-a-trade",
           "publishedOn": "2026-11-05T18:15:55.000Z",
-          "wordCount": 9804,
+          "wordCount": 9810,
           "title": "Crypto Clearing vs. Settlement: What Happens After a Trade?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad085f967b04c9e2366b16565f54a36436528873-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -596,7 +641,7 @@
           "description": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
           "link": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
           "publishedOn": "2026-11-05T17:51:32.000Z",
-          "wordCount": 9853,
+          "wordCount": 9859,
           "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/55c2e8e0b5fcfae65f8d7e6439ffb194ac2c4ef2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -611,7 +656,7 @@
           "description": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
           "link": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
           "publishedOn": "2026-11-05T17:17:51.000Z",
-          "wordCount": 9831,
+          "wordCount": 9837,
           "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/de366d0b6a4db085ed741697b58a23f354e43313-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -626,7 +671,7 @@
           "description": "LlamaRisk has proposed a 300 BTC collateral cap, but activating the market would still require a separate onchain governance vote.",
           "link": "https://thedefiant.io/news/defi/aave-schedules-vote-on-babylon-native-bitcoin-collateral-for-v4",
           "publishedOn": "2026-11-05T17:05:47.000Z",
-          "wordCount": 9844,
+          "wordCount": 9850,
           "title": "Aave Schedules Vote on Babylon Native Bitcoin Collateral for V4",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ac3ccb23c1e0f225e262368cfea5b629c08e215-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -641,7 +686,7 @@
           "description": "Total crypto market value fell 6.8% over 24 hours, while bitcoin gave back much of Wednesday’s post-election rebound.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-77-000-as-ether-sinks-7",
           "publishedOn": "2026-11-05T17:05:42.000Z",
-          "wordCount": 9815,
+          "wordCount": 9821,
           "title": "Bitcoin Slides Below $77,000 as Ether Sinks 7%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/133d23736567fe4fdee99335a7df83fd7435311e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -671,7 +716,7 @@
           "description": "The GRO/USDC pool on Base uses net asset value pricing, with wallet eligibility enforced by Uniswap v4’s Permissioned Pools Hook.",
           "link": "https://thedefiant.io/news/defi/groma-launches-real-estate-issuance-and-redemption-on-uniswap",
           "publishedOn": "2026-11-05T16:46:07.000Z",
-          "wordCount": 9858,
+          "wordCount": 9864,
           "title": "Groma Launches Real Estate Issuance and Redemption on Uniswap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6da5f9d3dbf453b88614fbd288c610b24a1b445d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -686,7 +731,7 @@
           "description": "About 12,224 ZEC remained in the legacy shielded pool ahead of the cutoff. NU7 will also reduce target block spacing from 75 seconds to 25 seconds.",
           "link": "https://thedefiant.io/news/blockchains/zcash-nears-nu7-upgrade-and-sprout-spending-cutoff",
           "publishedOn": "2026-11-05T16:26:10.000Z",
-          "wordCount": 9887,
+          "wordCount": 9893,
           "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/543c55d85ea6c605ae7e08bffb4327365084f0b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -731,7 +776,7 @@
           "description": "The fund expects to retain 70% of staking rewards before its separate 1.10% annual sponsor fee and other expenses.",
           "link": "https://thedefiant.io/news/tokens/canary-s-staked-inj-etf-begins-trading-on-nasdaq",
           "publishedOn": "2026-11-05T15:25:56.000Z",
-          "wordCount": 9823,
+          "wordCount": 9829,
           "title": "Canary’s Staked INJ ETF Begins Trading on Nasdaq",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f65a28e5a30f284a3fbddf3ecce8652345680b5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -746,7 +791,7 @@
           "description": "First-period Firelight limits are about $12.1 million for EarnETH and $4 million for EarnUSD, ahead of the DAO’s existing share-burn buffer.",
           "link": "https://thedefiant.io/news/defi/lido-adds-firelight-loss-protection-to-earn-vaults",
           "publishedOn": "2026-11-05T15:17:36.000Z",
-          "wordCount": 9836,
+          "wordCount": 9842,
           "title": "Lido Adds Firelight Loss Protection to Earn Vaults",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4040fd7f80550cbcca01f55324f06f9bf1faeeb8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -776,7 +821,7 @@
           "description": "The draft would let recovered assets replenish reserves used to cover customer losses. Binance expects the governance process to take seven weeks or longer.",
           "link": "https://thedefiant.io/news/defi/binance-asks-arbitrumdao-to-release-frozen-eth-and-arb",
           "publishedOn": "2026-11-05T15:11:18.000Z",
-          "wordCount": 9905,
+          "wordCount": 9911,
           "title": "Binance Asks ArbitrumDAO to Release Frozen ETH and ARB",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c5989e78592b4d12b7a9509f819826c06ca00ab-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -791,7 +836,7 @@
           "description": "Bitcoin can move before a rate decision as expectations shift. The surprise and the Fed’s message about future policy can matter more than the cut or hike itself.",
           "link": "https://thedefiant.io/news/markets/how-fed-interest-rates-affect-crypto",
           "publishedOn": "2026-11-05T14:16:05.000Z",
-          "wordCount": 9837,
+          "wordCount": 9843,
           "title": "How Fed Interest Rates Affect Crypto",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9872659f973011eb2e1a371ca97e126fd258e566-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -806,7 +851,7 @@
           "description": "Some token venues offer weekend trading, but selling an existing token and redeeming it with its issuer run on separate schedules.",
           "link": "https://thedefiant.io/news/markets/selling-tokenized-stocks-after-hours-what-determines-the-price",
           "publishedOn": "2026-11-05T14:15:26.000Z",
-          "wordCount": 9813,
+          "wordCount": 9819,
           "title": "Selling Tokenized Stocks After Hours: What Determines the Price",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/83f5ef44f041e47de8fb29393f2e3e5f2983087d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -821,7 +866,7 @@
           "description": "PIP-93 would consolidate upgrade powers under an 8-of-11 Security Council, with a seven-day delay for Polygon Labs proposals.",
           "link": "https://thedefiant.io/news/blockchains/polygon-draft-would-give-labs-a-new-route-to-upgrade-contracts",
           "publishedOn": "2026-11-05T13:59:27.000Z",
-          "wordCount": 9845,
+          "wordCount": 9851,
           "title": "Polygon Draft Would Give Labs a New Route to Upgrade Contracts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c137102a1680dfd6048c5753a301b2191039127a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -836,7 +881,7 @@
           "description": "Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures.",
           "link": "https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval",
           "publishedOn": "2026-11-05T11:49:37.000Z",
-          "wordCount": 9898,
+          "wordCount": 9904,
           "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/840a6542a1b6b50f1085b3cfba74df234b2c4bc1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -851,7 +896,7 @@
           "description": "Bybit listings show a sharp gap between buying and selling USDT, while Paraguay’s central bank prepares deposit-guarantee payments for Ueno savers.",
           "link": "https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure",
           "publishedOn": "2026-11-05T10:59:52.000Z",
-          "wordCount": 9840,
+          "wordCount": 9846,
           "title": "Paraguay USDT Offers Show 13% Premium After Ueno Closure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1edbd55dacb478e7f4af2fdf48f75a36ffe94b61-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -866,7 +911,7 @@
           "description": "The exchange told SignalPlus users to review positions and open orders directly on Binance and wait for confirmation of a full resolution before reconnecting.",
           "link": "https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning",
           "publishedOn": "2026-11-05T10:58:21.000Z",
-          "wordCount": 9851,
+          "wordCount": 9857,
           "title": "Binance Revokes SignalPlus API Keys After Security Warning",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/28358de61db7696ebe91cf1a3b77358d2bfadeb2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -881,7 +926,7 @@
           "description": "The Assembly voted 458–0 against the revenue section. The crypto measures could return through amendments in the Senate, whose budget debate is scheduled to begin Nov. 20.",
           "link": "https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting",
           "publishedOn": "2026-11-05T09:21:37.000Z",
-          "wordCount": 9865,
+          "wordCount": 9871,
           "title": "France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5ab1e4b60c67f348cdffef66f42bc91ff5654616-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -896,7 +941,7 @@
           "description": "Staked and unbonding ZETA would count toward claims, while exchanges would set their own conversion windows.",
           "link": "https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9",
           "publishedOn": "2026-11-05T09:14:09.000Z",
-          "wordCount": 9844,
+          "wordCount": 9850,
           "title": "ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/75783aea5d25a2966588444d17418a28f02b226e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -911,7 +956,7 @@
           "description": "The state seeks restitution, unpaid taxes and civil penalties as Kalshi continues its federal appeals against state gambling-law enforcement.",
           "link": "https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling",
           "publishedOn": "2026-11-05T05:39:52.000Z",
-          "wordCount": 9825,
+          "wordCount": 9831,
           "title": "Arkansas Sues Kalshi to Stop Alleged Illegal Gambling",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4874c6b02821c0761c6c7fe17693b03650db8ea3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -956,7 +1001,7 @@
           "description": "Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot.",
           "link": "https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high",
           "publishedOn": "2026-11-05T00:27:36.000Z",
-          "wordCount": 9835,
+          "wordCount": 9841,
           "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e4e71da35562d898f1bdd4154a9908f947112c47-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -971,7 +1016,7 @@
           "description": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
           "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
           "publishedOn": "2026-11-04T23:36:50.000Z",
-          "wordCount": 9863,
+          "wordCount": 9869,
           "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/da8a4b96b9b47cda5f197b0b1046f50d0428716c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1001,7 +1046,7 @@
           "description": "The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers.",
           "link": "https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax",
           "publishedOn": "2026-11-04T21:39:13.000Z",
-          "wordCount": 9861,
+          "wordCount": 9867,
           "title": "Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b9c77bb05f196c16bb693b405114775d2fba3f7a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1016,7 +1061,7 @@
           "description": "The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee.",
           "link": "https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf",
           "publishedOn": "2026-11-04T20:38:59.000Z",
-          "wordCount": 9835,
+          "wordCount": 9841,
           "title": "Nasdaq Approves Listing of Canary’s Staked Injective ETF",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c322840e4902e0081824cfde5ad12c7dba773beb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1031,7 +1076,7 @@
           "description": "LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operators still need a patched kernel to fix the underlying vulnerability.",
           "link": "https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw",
           "publishedOn": "2026-11-04T18:47:43.000Z",
-          "wordCount": 9855,
+          "wordCount": 9861,
           "title": "Lightning Labs Releases LND Mitigation for Critical Linux Flaw",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e32b1a2a6810a654368463a2ad89f8812a04f00-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1046,7 +1091,7 @@
           "description": "Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange’s identity records.",
           "link": "https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared",
           "publishedOn": "2026-11-04T18:15:35.000Z",
-          "wordCount": 9819,
+          "wordCount": 9825,
           "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aca35ab5daf836241bff4abc8534d10d13c508c3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1061,7 +1106,7 @@
           "description": "The recovery follows roughly $2.25 billion of buybacks and brings the preferred stock back to Strategy’s stated minimum price for new issuance.",
           "link": "https://thedefiant.io/news/markets/strategy-s-strc-hits-100-for-first-time-since-may",
           "publishedOn": "2026-11-04T17:52:00.000Z",
-          "wordCount": 9862,
+          "wordCount": 9868,
           "title": "Strategy’s STRC Hits $100 for First Time Since May",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a5d3750962ad68877702736427e108d4ef01d68a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1091,7 +1136,7 @@
           "description": "Funds tied to the Polymarket and Binance incidents would go to recovery wallets, without changing POL’s total supply.",
           "link": "https://thedefiant.io/news/blockchains/polygon-proposal-seeks-hard-fork-to-recover-70-49-million-pol",
           "publishedOn": "2026-11-04T17:29:49.000Z",
-          "wordCount": 9865,
+          "wordCount": 9871,
           "title": "Polygon Proposal Seeks Hard Fork to Recover 70.49 Million POL",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/75f9a71b92312e920e6a168d17a6c5c0e2806ec2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1106,7 +1151,7 @@
           "description": "The community pool retains about 63.78 million OSMO, but new token issuance no longer replenishes its reserves.",
           "link": "https://thedefiant.io/news/defi/osmosis-burns-55-5-million-osmo-from-community-pool",
           "publishedOn": "2026-11-04T17:27:49.000Z",
-          "wordCount": 9811,
+          "wordCount": 9817,
           "title": "Osmosis Burns 55.5 Million OSMO From Community Pool",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b363272a1bb3f3d91fa275f3f8f3adc331a7065-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1121,7 +1166,7 @@
           "description": "The upgrade is expected around Nov. 5 and will shorten target block times without materially increasing scheduled daily issuance. Node operators face a software-upgrade deadline.",
           "link": "https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade",
           "publishedOn": "2026-11-04T17:00:22.000Z",
-          "wordCount": 9867,
+          "wordCount": 9873,
           "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ccc2ed03604ecd0f46a49f42d4a0e85a98c5b34-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1136,7 +1181,7 @@
           "description": "The plan includes upgrading APE and USDC to Chainlink Cross-Chain Tokens, but the announcements do not specify holder migration steps or a legacy-bridge shutdown date.",
           "link": "https://thedefiant.io/news/infrastructure/apechain-plans-switch-from-layerzero-to-chainlink-ccip",
           "publishedOn": "2026-11-04T16:42:48.000Z",
-          "wordCount": 9864,
+          "wordCount": 9870,
           "title": "ApeChain Plans Switch From LayerZero to Chainlink CCIP",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0ac3314cfffa5ef6c76f01444115e1b629b142c5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1151,7 +1196,7 @@
           "description": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
           "link": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
           "publishedOn": "2026-11-04T16:39:50.000Z",
-          "wordCount": 9818,
+          "wordCount": 9824,
           "title": "Privacy Cash Pauses Deposits After Binance Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/71242a2bb994bba5025f93fec96211bee22e71dd-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1181,7 +1226,7 @@
           "description": "DefiLlama’s latest daily reading puts bridge assets at $6.51 million, about 84% below the reading reported on Oct. 26.",
           "link": "https://thedefiant.io/news/blockchains/blast-shuts-down-layer-2-directs-users-to-recovery-site",
           "publishedOn": "2026-11-04T15:41:18.000Z",
-          "wordCount": 9863,
+          "wordCount": 9869,
           "title": "Blast Shuts Down Layer 2, Directs Users to Recovery Site",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f16d54c1e32c69aa39d105eb32d79a8d5b38b95-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1196,7 +1241,7 @@
           "description": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
           "link": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
           "publishedOn": "2026-11-04T15:38:12.000Z",
-          "wordCount": 9871,
+          "wordCount": 9877,
           "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bcc73b417aa8ca5e51ab50eff0015dd981357ab2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1211,7 +1256,7 @@
           "description": "The miner has sold 20,264 BTC this year to help fund data centers, while mining still supplied about 64% of third-quarter revenue.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/riot-signs-28-billion-ai-lease-for-entire-corsicana-campus",
           "publishedOn": "2026-11-04T15:31:44.000Z",
-          "wordCount": 9874,
+          "wordCount": 9880,
           "title": "Riot Signs $28 Billion AI Lease for Entire Corsicana Campus",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/acee352d0bc0b8e3361b871c407fb2fe8f285341-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1226,7 +1271,7 @@
           "description": "The flaw distorted DOT/dotUSD pool pricing. A later upgrade repaired the stablecoin’s supply accounting without changing holders’ balances.",
           "link": "https://thedefiant.io/news/hacks/polkadot-treasury-lost-1-38-million-after-xcm-patch-missed-production",
           "publishedOn": "2026-11-04T15:11:38.000Z",
-          "wordCount": 9854,
+          "wordCount": 9860,
           "title": "Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b5f6f57224e64eeac79e49dd1c09ac9a5f93416-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1241,7 +1286,7 @@
           "description": "Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window.",
           "link": "https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low",
           "publishedOn": "2026-11-04T14:57:51.000Z",
-          "wordCount": 9849,
+          "wordCount": 9855,
           "title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/43d244edf6331236982981213fda74f67c6a0abe-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1256,7 +1301,7 @@
           "description": "The Hyperliquid-based contract allows up to 20x leverage and settles index-point gains and losses in USDC, without delivering Indian shares.",
           "link": "https://thedefiant.io/news/defi/near-adds-24-7-nifty-50-perpetual-with-cross-chain-funding",
           "publishedOn": "2026-11-04T14:53:46.000Z",
-          "wordCount": 9854,
+          "wordCount": 9860,
           "title": "NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6b21c769b7e622284c254689359698ec9e213768-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1271,7 +1316,7 @@
           "description": "Starloop borrows USDC against tokenized shares, adding liquidation risk to a strategy operating within Aave’s 37,000-token collateral cap.",
           "link": "https://thedefiant.io/news/defi/dialectic-launches-spacex-yield-vault-using-aave-loans-on-base",
           "publishedOn": "2026-11-04T14:13:26.000Z",
-          "wordCount": 9850,
+          "wordCount": 9856,
           "title": "Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b703f0e2ca0a407ad16f24c981677afa920846ef-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1286,7 +1331,7 @@
           "description": "The release addresses channel-balance risks and remote crashes; maintainers are withholding tests for the fixes to give node runners time to update.",
           "link": "https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws",
           "publishedOn": "2026-11-04T14:11:30.000Z",
-          "wordCount": 9862,
+          "wordCount": 9868,
           "title": "Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f1a6a9800758f2b7f6ee65d2cfbd10d6b4366a2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1301,7 +1346,7 @@
           "description": "Arkham traced $13.26 million leaving labelled wallets, while Mercado Bitcoin has raised its blocked-assets estimate to $12.9 million.",
           "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says",
           "publishedOn": "2026-11-04T13:57:15.000Z",
-          "wordCount": 9862,
+          "wordCount": 9868,
           "title": "Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a4e7c7d4c575c150216410aa13a298c656e29e0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1316,7 +1361,7 @@
           "description": "The Second Circuit denied interim protection in Connecticut and New York, but its order does not require trading to stop or existing positions to close.",
           "link": "https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement",
           "publishedOn": "2026-11-04T11:49:47.000Z",
-          "wordCount": 9890,
+          "wordCount": 9896,
           "title": "Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/98bd9141025331a6504091ee4d5e42fe6175b978-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1361,7 +1406,7 @@
           "description": "World Liberty’s token remained 5.1% below its early-evening level by 5 a.m. ET, while bitcoin had recovered its losses.",
           "link": "https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery",
           "publishedOn": "2026-11-04T10:42:47.000Z",
-          "wordCount": 9844,
+          "wordCount": 9850,
           "title": "WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7496d601f781f2aae46ff9760f8caad09fab7bd1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1406,7 +1451,7 @@
           "description": "The incoming majority will control key House committees and oversight, while the CLARITY Act remains stalled at the Senate floor.",
           "link": "https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation",
           "publishedOn": "2026-11-04T07:32:44.000Z",
-          "wordCount": 9861,
+          "wordCount": 9867,
           "title": "Democrats Win House, Gaining New Leverage Over Crypto Legislation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f4905df7357df19dc4410b92ba1d923aff161b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1436,7 +1481,7 @@
           "description": "Elizabeth Warren is positioned to take over Banking, but the crypto market-structure bill is already awaiting floor action after a failed procedural vote.",
           "link": "https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled",
           "publishedOn": "2026-11-04T05:01:44.000Z",
-          "wordCount": 9887,
+          "wordCount": 9893,
           "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e677e2489bc60d41f1c750f4532b9ee550a2f330-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1451,7 +1496,7 @@
           "description": "Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.",
           "link": "https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring",
           "publishedOn": "2026-11-04T04:56:34.000Z",
-          "wordCount": 9811,
+          "wordCount": 9817,
           "title": "BitMart Founder Confirms Hack During Restructuring",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b985e9e077d25af0e43de2c948770dce759bbb96-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1459,51 +1504,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b985e9e077d25af0e43de2c948770dce759bbb96-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000",
-          "author": "The Defiant Team",
-          "description": "SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window.",
-          "link": "https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000",
-          "publishedOn": "2026-11-04T03:20:50.000Z",
-          "wordCount": 9836,
-          "title": "Solana Breaks Below $90 as Bitcoin Slides Under $76,000",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/01634e2facde777466bd5a70e0babf2c77ba5ab5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/01634e2facde777466bd5a70e0babf2c77ba5ab5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
-          "author": "The Defiant Team",
-          "description": "Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions.",
-          "link": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
-          "publishedOn": "2026-11-04T02:18:50.000Z",
-          "wordCount": 9841,
-          "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b85e28e2a74144bf0aabaa2714fadd8d9ac2807-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b85e28e2a74144bf0aabaa2714fadd8d9ac2807-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
-          "author": "The Defiant Team",
-          "description": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.",
-          "link": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
-          "publishedOn": "2026-11-04T01:53:19.000Z",
-          "wordCount": 9878,
-          "title": "South Korea’s Ruling Party Formally Seeks Crypto Tax Delay",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b71677e6f45526ccc7dd23ec027103663429530-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b71677e6f45526ccc7dd23ec027103663429530-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
