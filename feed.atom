@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-08T16:25:33.659Z</id>
+    <id>urn:2026-11-08T20:50:22.754Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-08T16:25:33.659Z</updated>
+    <updated>2026-11-08T20:50:22.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LNbits Urges All Server Operators to Shut Down After Attacks]]></title>
+        <id>https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks</id>
+        <link href="https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks"/>
+        <updated>2026-11-08T19:47:05.000Z</updated>
+        <summary type="html"><![CDATA[The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read Token Allowances in Revoke.cash and Etherscan]]></title>
+        <id>https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan</id>
+        <link href="https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan"/>
+        <updated>2026-11-08T18:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank]]></title>
+        <id>https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank</id>
+        <link href="https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank"/>
+        <updated>2026-11-08T16:33:28.000Z</updated>
+        <summary type="html"><![CDATA[The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is a DeFi App? From Wallet Connection to Lending Deposit]]></title>
         <id>https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low"/>
         <updated>2026-11-04T14:57:51.000Z</updated>
         <summary type="html"><![CDATA[Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding]]></title>
-        <id>https://thedefiant.io/news/defi/near-adds-24-7-nifty-50-perpetual-with-cross-chain-funding</id>
-        <link href="https://thedefiant.io/news/defi/near-adds-24-7-nifty-50-perpetual-with-cross-chain-funding"/>
-        <updated>2026-11-04T14:53:46.000Z</updated>
-        <summary type="html"><![CDATA[The Hyperliquid-based contract allows up to 20x leverage and settles index-point gains and losses in USDC, without delivering Indian shares.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base]]></title>
-        <id>https://thedefiant.io/news/defi/dialectic-launches-spacex-yield-vault-using-aave-loans-on-base</id>
-        <link href="https://thedefiant.io/news/defi/dialectic-launches-spacex-yield-vault-using-aave-loans-on-base"/>
-        <updated>2026-11-04T14:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Starloop borrows USDC against tokenized shares, adding liquidation risk to a strategy operating within Aave’s 37,000-token collateral cap.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws]]></title>
-        <id>https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws</id>
-        <link href="https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws"/>
-        <updated>2026-11-04T14:11:30.000Z</updated>
-        <summary type="html"><![CDATA[The release addresses channel-balance risks and remote crashes; maintainers are withholding tests for the fixes to give node runners time to update.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
