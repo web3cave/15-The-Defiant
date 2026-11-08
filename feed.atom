@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-08T09:54:02.769Z</id>
+    <id>urn:2026-11-08T16:25:33.659Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-08T09:54:02.769Z</updated>
+    <updated>2026-11-08T16:25:33.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a DeFi App? From Wallet Connection to Lending Deposit]]></title>
+        <id>https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit</id>
+        <link href="https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit"/>
+        <updated>2026-11-08T14:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it—and withdrawals still depend on protocol rules and available assets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach]]></title>
+        <id>https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach</id>
+        <link href="https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach"/>
+        <updated>2026-11-08T13:07:22.000Z</updated>
+        <summary type="html"><![CDATA[The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade]]></title>
         <id>https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws"/>
         <updated>2026-11-04T14:11:30.000Z</updated>
         <summary type="html"><![CDATA[The release addresses channel-balance risks and remote crashes; maintainers are withholding tests for the fixes to give node runners time to update.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says]]></title>
-        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says</id>
-        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says"/>
-        <updated>2026-11-04T13:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Arkham traced $13.26 million leaving labelled wallets, while Mercado Bitcoin has raised its blocked-assets estimate to $12.9 million.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement]]></title>
-        <id>https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement</id>
-        <link href="https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement"/>
-        <updated>2026-11-04T11:49:47.000Z</updated>
-        <summary type="html"><![CDATA[The Second Circuit denied interim protection in Connecticut and New York, but its order does not require trading to stop or existing positions to close.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
