@@ -1,10 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-09T07:20:57.282Z</id>
+    <id>urn:2026-11-09T17:54:08.370Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-09T07:20:57.282Z</updated>
+    <updated>2026-11-09T17:54:08.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Luke Dashjr Publishes Nine Coldcard RNG Concerns]]></title>
+        <id>https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns</id>
+        <link href="https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns"/>
+        <updated>2026-11-09T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[His thread cites a July code revision; later firmware adds seed-error checks and a startup test for the hardware random-number generator.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buterin Urges Store-of-Value Focus for ETH, Not Fee Burns]]></title>
+        <id>https://thedefiant.io/news/blockchains/buterin-urges-store-of-value-focus-for-eth-not-fee-burns</id>
+        <link href="https://thedefiant.io/news/blockchains/buterin-urges-store-of-value-focus-for-eth-not-fee-burns"/>
+        <updated>2026-11-09T15:41:35.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum co-founder backs keeping EIP-1559 but argues that maximizing fees could price out users and undermine decentralization.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Contributes IBC to Linux Foundation Decentralized Trust]]></title>
+        <id>https://thedefiant.io/news/infrastructure/cosmos-contributes-ibc-to-linux-foundation-decentralized-trust</id>
+        <link href="https://thedefiant.io/news/infrastructure/cosmos-contributes-ibc-to-linux-foundation-decentralized-trust"/>
+        <updated>2026-11-09T14:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos Labs holds five places on the initial seven-person technical committee, alongside maintainers from Datachain and OpenZeppelin.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinetiq Launches Elysium Mainnet for Hyperliquid]]></title>
+        <id>https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid</id>
+        <link href="https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid"/>
+        <updated>2026-11-09T14:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Pump.fun and Fomo say Elysium trading is live, while native HyperCore data reads and fast order submissions await a later upgrade.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base’s Retired Flashblocks Feeds Accept Connections but Send No Data]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-s-retired-flashblocks-feeds-accept-connections-but-send-no-data</id>
+        <link href="https://thedefiant.io/news/blockchains/base-s-retired-flashblocks-feeds-accept-connections-but-send-no-data"/>
+        <updated>2026-11-09T14:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Denim replaced block previews with complete blocks every 200 milliseconds, requiring developers to change subscriptions and review pending-state reads.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours]]></title>
+        <id>https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours</id>
+        <link href="https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours"/>
+        <updated>2026-11-09T14:26:31.000Z</updated>
+        <summary type="html"><![CDATA[The Gram explorer’s creation count includes wallets without onchain transactions, a different measure from active wallets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYSE Picks Avalanche for Tokenized Stock Settlement]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement"/>
+        <updated>2026-11-09T14:25:28.000Z</updated>
+        <summary type="html"><![CDATA[The planned venue would retain NYSE’s Pillar matching engine while offering instant settlement and stablecoin funding, subject to regulatory approval.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What ‘Instant Settlement’ Means for Tokenized Stocks]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/what-instant-settlement-means-for-tokenized-stocks</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/what-instant-settlement-means-for-tokenized-stocks"/>
+        <updated>2026-11-09T14:14:01.000Z</updated>
+        <summary type="html"><![CDATA[A stock token and its payment can change hands together, but custody arrangements and conversion into bank dollars remain separate parts of the process.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bullish Names Former NYSE President Stacey Cunningham as President]]></title>
+        <id>https://thedefiant.io/converge/people/bullish-names-former-nyse-president-stacey-cunningham-as-president</id>
+        <link href="https://thedefiant.io/converge/people/bullish-names-former-nyse-president-stacey-cunningham-as-president"/>
+        <updated>2026-11-09T13:59:57.000Z</updated>
+        <summary type="html"><![CDATA[The company’s planned $4.2 billion Equiniti acquisition would combine shareholder registries with its tokenized-securities trading business.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercado Bitcoin Begins View-Only Reopening After Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack</id>
+        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack"/>
+        <updated>2026-11-09T13:34:05.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it is replacing stolen assets with company funds, while payments and trading will return in later phases.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRIS Sets Nov. 10 Launch for Fixed-Rate Borrowing on SparkLend]]></title>
+        <id>https://thedefiant.io/news/defi/iris-sets-nov-10-launch-for-fixed-rate-borrowing-on-sparklend</id>
+        <link href="https://thedefiant.io/news/defi/iris-sets-nov-10-launch-for-fixed-rate-borrowing-on-sparklend"/>
+        <updated>2026-11-09T13:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Borrowers can request custom loan durations, with solvers posting capital to absorb differences between fixed quotes and floating funding costs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formation Notifies SEC of Plan for Solana Tokenized Stock Venue]]></title>
+        <id>https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue</id>
+        <link href="https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue"/>
+        <updated>2026-11-09T12:38:16.000Z</updated>
+        <summary type="html"><![CDATA[The venue targets early 2027 trading in Exodus, Forward Industries and Galaxy shares, with access restricted to verified investors.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill]]></title>
+        <id>https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill</id>
+        <link href="https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill"/>
+        <updated>2026-11-09T12:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Listed customers could lose access to exchange-held assets before a court reviews their designation, and an appeal would not automatically lift the restrictions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link]]></title>
+        <id>https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link</id>
+        <link href="https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link"/>
+        <updated>2026-11-09T10:39:12.000Z</updated>
+        <summary type="html"><![CDATA[A later dashboard snapshot showed about $44 million in ETH exposure and an unrealized loss of roughly $652,000.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit"/>
+        <updated>2026-11-09T08:53:50.000Z</updated>
+        <summary type="html"><![CDATA[The contract remained unpaused after withdrawals referencing a small Optimism deposit that had already been redeemed.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam</id>
+        <link href="https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam"/>
+        <updated>2026-11-09T08:47:03.000Z</updated>
+        <summary type="html"><![CDATA[The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Trades Near $73,900 After Four-Week Low]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low"/>
+        <updated>2026-11-09T07:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Ether has lost 18.8% over roughly 28 days, compared with bitcoin's 12.2%, as major tokens decline.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yat Siu to Become Animoca Brands CEO in AI and Institutional Push]]></title>
+        <id>https://thedefiant.io/news/people/yat-siu-to-become-animoca-brands-ceo-in-ai-and-institutional-push</id>
+        <link href="https://thedefiant.io/news/people/yat-siu-to-become-animoca-brands-ceo-in-ai-and-institutional-push"/>
+        <updated>2026-11-09T07:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Group president Evan Auyang will become a senior advisor to the board, while Siu will retain his executive chairman role.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Draft Would Retire Durable Nonces No Earlier Than May 2027]]></title>
         <id>https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027</id>
@@ -821,186 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure"/>
         <updated>2026-11-05T10:59:52.000Z</updated>
         <summary type="html"><![CDATA[Bybit listings show a sharp gap between buying and selling USDT, while Paraguay’s central bank prepares deposit-guarantee payments for Ueno savers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Revokes SignalPlus API Keys After Security Warning]]></title>
-        <id>https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning</id>
-        <link href="https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning"/>
-        <updated>2026-11-05T10:58:21.000Z</updated>
-        <summary type="html"><![CDATA[The exchange told SignalPlus users to review positions and open orders directly on Binance and wait for confirmation of a full resolution before reconnecting.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting]]></title>
-        <id>https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting</id>
-        <link href="https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting"/>
-        <updated>2026-11-05T09:21:37.000Z</updated>
-        <summary type="html"><![CDATA[The Assembly voted 458–0 against the revenue section. The crypto measures could return through amendments in the Senate, whose budget debate is scheduled to begin Nov. 20.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9]]></title>
-        <id>https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9</id>
-        <link href="https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9"/>
-        <updated>2026-11-05T09:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Staked and unbonding ZETA would count toward claims, while exchanges would set their own conversion windows.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkansas Sues Kalshi to Stop Alleged Illegal Gambling]]></title>
-        <id>https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling</id>
-        <link href="https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling"/>
-        <updated>2026-11-05T05:39:52.000Z</updated>
-        <summary type="html"><![CDATA[The state seeks restitution, unpaid taxes and civil penalties as Kalshi continues its federal appeals against state gambling-law enforcement.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX–ICE Stock Venue’s Issuer Objections Reach 62]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62"/>
-        <updated>2026-11-05T03:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Boeing and ServiceNow’s objections leave eight of the venture’s 63 originally proposed symbols without a disclosed opt-out.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com"/>
-        <updated>2026-11-05T03:11:19.000Z</updated>
-        <summary type="html"><![CDATA[The movement equals about 30% of the bitcoin treasury disclosed for July 31. Arkham labels both sending wallets as convertible-note collateral.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle Volume Hits $221.5 Million, a 30-Day High]]></title>
-        <id>https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high</id>
-        <link href="https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high"/>
-        <updated>2026-11-05T00:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack]]></title>
-        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack</id>
-        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack"/>
-        <updated>2026-11-04T23:36:50.000Z</updated>
-        <summary type="html"><![CDATA[The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption"/>
-        <updated>2026-11-04T21:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Groups Seek to Strike Down Illinois’ 0.2% Tax]]></title>
-        <id>https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax</id>
-        <link href="https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax"/>
-        <updated>2026-11-04T21:39:13.000Z</updated>
-        <summary type="html"><![CDATA[The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasdaq Approves Listing of Canary’s Staked Injective ETF]]></title>
-        <id>https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf</id>
-        <link href="https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf"/>
-        <updated>2026-11-04T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Labs Releases LND Mitigation for Critical Linux Flaw]]></title>
-        <id>https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw</id>
-        <link href="https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw"/>
-        <updated>2026-11-04T18:47:43.000Z</updated>
-        <summary type="html"><![CDATA[LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operators still need a patched kernel to fix the underlying vulnerability.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Privacy Coins? Bitcoin, Monero and Zcash Compared]]></title>
-        <id>https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared</id>
-        <link href="https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared"/>
-        <updated>2026-11-04T18:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange’s identity records.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy’s STRC Hits $100 for First Time Since May]]></title>
-        <id>https://thedefiant.io/news/markets/strategy-s-strc-hits-100-for-first-time-since-may</id>
-        <link href="https://thedefiant.io/news/markets/strategy-s-strc-hits-100-for-first-time-since-may"/>
-        <updated>2026-11-04T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The recovery follows roughly $2.25 billion of buybacks and brings the preferred stock back to Strategy’s stated minimum price for new issuance.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Lets US Businesses Send Stablecoins to Wallets in 160-Plus Markets]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/stripe-lets-us-businesses-send-stablecoins-to-wallets-in-160-plus-markets</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/stripe-lets-us-businesses-send-stablecoins-to-wallets-in-160-plus-markets"/>
-        <updated>2026-11-04T17:36:36.000Z</updated>
-        <summary type="html"><![CDATA[The public preview supports USDC and Open USD, funded from a Treasury balance. Businesses in New York are excluded.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Proposal Seeks Hard Fork to Recover 70.49 Million POL]]></title>
-        <id>https://thedefiant.io/news/blockchains/polygon-proposal-seeks-hard-fork-to-recover-70-49-million-pol</id>
-        <link href="https://thedefiant.io/news/blockchains/polygon-proposal-seeks-hard-fork-to-recover-70-49-million-pol"/>
-        <updated>2026-11-04T17:29:49.000Z</updated>
-        <summary type="html"><![CDATA[Funds tied to the Polymarket and Binance incidents would go to recovery wallets, without changing POL’s total supply.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osmosis Burns 55.5 Million OSMO From Community Pool]]></title>
-        <id>https://thedefiant.io/news/defi/osmosis-burns-55-5-million-osmo-from-community-pool</id>
-        <link href="https://thedefiant.io/news/defi/osmosis-burns-55-5-million-osmo-from-community-pool"/>
-        <updated>2026-11-04T17:27:49.000Z</updated>
-        <summary type="html"><![CDATA[The community pool retains about 63.78 million OSMO, but new token issuance no longer replenishes its reserves.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Climbs 9.5% Ahead of NU7 Network Upgrade]]></title>
-        <id>https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade</id>
-        <link href="https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade"/>
-        <updated>2026-11-04T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[The upgrade is expected around Nov. 5 and will shorten target block times without materially increasing scheduled daily issuance. Node operators face a software-upgrade deadline.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
