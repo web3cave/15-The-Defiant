@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-09T00:12:05.076Z</id>
+    <id>urn:2026-11-09T07:20:57.282Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-09T00:12:05.076Z</updated>
+    <updated>2026-11-09T07:20:57.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Draft Would Retire Durable Nonces No Earlier Than May 2027]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027"/>
+        <updated>2026-11-09T07:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Custodians would need new offline-signing flows, with replacement programs introducing different rules for failed transactions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High]]></title>
+        <id>https://thedefiant.io/news/blockchains/op-mainnet-active-addresses-jump-nearly-20-fold-to-a-30-day-high</id>
+        <link href="https://thedefiant.io/news/blockchains/op-mainnet-active-addresses-jump-nearly-20-fold-to-a-30-day-high"/>
+        <updated>2026-11-09T05:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Transactions rose far less than addresses, while user-paid fees stayed close to their preceding seven-day median.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware]]></title>
+        <id>https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware</id>
+        <link href="https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware"/>
+        <updated>2026-11-09T04:13:40.000Z</updated>
+        <summary type="html"><![CDATA[The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's alert gives no confirmed thefts or victim count.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated]]></title>
+        <id>https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated</id>
+        <link href="https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated"/>
+        <updated>2026-11-09T02:05:14.000Z</updated>
+        <summary type="html"><![CDATA[The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms]]></title>
+        <id>https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms</id>
+        <link href="https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms"/>
+        <updated>2026-11-09T01:13:31.000Z</updated>
+        <summary type="html"><![CDATA[The senator warned of alternative measures to secure records, but his current ranking-member position does not give him unilateral subpoena authority.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused]]></title>
         <id>https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade"/>
         <updated>2026-11-04T17:00:22.000Z</updated>
         <summary type="html"><![CDATA[The upgrade is expected around Nov. 5 and will shorten target block times without materially increasing scheduled daily issuance. Node operators face a software-upgrade deadline.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeChain Plans Switch From LayerZero to Chainlink CCIP]]></title>
-        <id>https://thedefiant.io/news/infrastructure/apechain-plans-switch-from-layerzero-to-chainlink-ccip</id>
-        <link href="https://thedefiant.io/news/infrastructure/apechain-plans-switch-from-layerzero-to-chainlink-ccip"/>
-        <updated>2026-11-04T16:42:48.000Z</updated>
-        <summary type="html"><![CDATA[The plan includes upgrading APE and USDC to Chainlink Cross-Chain Tokens, but the announcements do not specify holder migration steps or a legacy-bridge shutdown date.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Cash Pauses Deposits After Binance Hack]]></title>
-        <id>https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack</id>
-        <link href="https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack"/>
-        <updated>2026-11-04T16:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Brings Deribit Options and Perpetuals to US Prime Clients]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-brings-deribit-options-and-perpetuals-to-us-prime-clients</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-brings-deribit-options-and-perpetuals-to-us-prime-clients"/>
-        <updated>2026-11-04T16:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Institutions can access global derivatives through Coinbase Financial Markets, but shared liquidity does not mean a single margin pool.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blast Shuts Down Layer 2, Directs Users to Recovery Site]]></title>
-        <id>https://thedefiant.io/news/blockchains/blast-shuts-down-layer-2-directs-users-to-recovery-site</id>
-        <link href="https://thedefiant.io/news/blockchains/blast-shuts-down-layer-2-directs-users-to-recovery-site"/>
-        <updated>2026-11-04T15:41:18.000Z</updated>
-        <summary type="html"><![CDATA[DefiLlama’s latest daily reading puts bridge assets at $6.51 million, about 84% below the reading reported on Oct. 26.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Expands Proof of Reserves to 44 Tokens After Hack]]></title>
-        <id>https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack</id>
-        <link href="https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack"/>
-        <updated>2026-11-04T15:38:12.000Z</updated>
-        <summary type="html"><![CDATA[The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
