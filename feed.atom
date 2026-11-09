@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-08T20:50:22.754Z</id>
+    <id>urn:2026-11-09T00:12:05.076Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-08T20:50:22.754Z</updated>
+    <updated>2026-11-09T00:12:05.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused]]></title>
+        <id>https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused</id>
+        <link href="https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused"/>
+        <updated>2026-11-08T23:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Aave’s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVAX Falls 28% in Four Weeks, Lagging Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/news/markets/avax-falls-28-in-four-weeks-lagging-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/news/markets/avax-falls-28-in-four-weeks-lagging-bitcoin-and-ether"/>
+        <updated>2026-11-08T22:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin lost 11.3% and ether 16% over the matched window, as AVAX reversed its earlier relative outperformance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Trades Below Strategy’s $75,451 Average Purchase Price]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-trades-below-strategy-s-75-451-average-purchase-price</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-trades-below-strategy-s-75-451-average-purchase-price"/>
+        <updated>2026-11-08T22:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The company’s disclosed 849,327 BTC were worth about $63.58 billion at the Sunday quote, below their $64.08 billion acquisition cost.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LNbits Urges All Server Operators to Shut Down After Attacks]]></title>
         <id>https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack"/>
         <updated>2026-11-04T15:38:12.000Z</updated>
         <summary type="html"><![CDATA[The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Signs $28 Billion AI Lease for Entire Corsicana Campus]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/riot-signs-28-billion-ai-lease-for-entire-corsicana-campus</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/riot-signs-28-billion-ai-lease-for-entire-corsicana-campus"/>
-        <updated>2026-11-04T15:31:44.000Z</updated>
-        <summary type="html"><![CDATA[The miner has sold 20,264 BTC this year to help fund data centers, while mining still supplied about 64% of third-quarter revenue.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production]]></title>
-        <id>https://thedefiant.io/news/hacks/polkadot-treasury-lost-1-38-million-after-xcm-patch-missed-production</id>
-        <link href="https://thedefiant.io/news/hacks/polkadot-treasury-lost-1-38-million-after-xcm-patch-missed-production"/>
-        <updated>2026-11-04T15:11:38.000Z</updated>
-        <summary type="html"><![CDATA[The flaw distorted DOT/dotUSD pool pricing. A later upgrade repaired the stablecoin’s supply accounting without changing holders’ balances.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low"/>
-        <updated>2026-11-04T14:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
