@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T04:39:35.796Z</id>
+    <id>urn:2026-11-12T13:23:15.267Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-12T04:39:35.796Z</updated>
+    <updated>2026-11-12T13:23:15.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDT Freeze Proposals on Tron Leave Time to Move Funds]]></title>
+        <id>https://thedefiant.io/news/security/usdt-freeze-proposals-on-tron-leave-time-to-move-funds</id>
+        <link href="https://thedefiant.io/news/security/usdt-freeze-proposals-on-tron-leave-time-to-move-funds"/>
+        <updated>2026-11-12T11:55:03.000Z</updated>
+        <summary type="html"><![CDATA[FreezeCheck found 65.4 million USDT left targeted addresses between public proposals and execution. The records show an exposure window, not proof that senders acted on a warning.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India's ED Searches CoinDCX, Delta in Forex-Law Probe]]></title>
+        <id>https://thedefiant.io/news/regulation/india-s-ed-searches-coindcx-delta-in-forex-law-probe</id>
+        <link href="https://thedefiant.io/news/regulation/india-s-ed-searches-coindcx-delta-in-forex-law-probe"/>
+        <updated>2026-11-12T10:23:36.000Z</updated>
+        <summary type="html"><![CDATA[In Nov. 6 statements, both exchanges said trading, deposits and withdrawals remained operational. Delta denied cross-border digital-asset transfers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal]]></title>
+        <id>https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal</id>
+        <link href="https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal"/>
+        <updated>2026-11-12T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[The November 10 designation follows October clearinghouse registration and satisfies an earn-out target, but merger closing conditions remain.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainstack Urges Credential Rotation After Data Breach]]></title>
+        <id>https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach</id>
+        <link href="https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach"/>
+        <updated>2026-11-12T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zcash Plan Would Pull 50,000 ZEC From Grants Treasury]]></title>
+        <id>https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury</id>
+        <link href="https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury"/>
+        <updated>2026-11-12T06:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zcash Falls Below $965 as Weekly Loss Reaches 26%]]></title>
         <id>https://thedefiant.io/news/markets/zcash-falls-below-965-as-weekly-loss-reaches-26</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/frontier/ai/meta-launches-muse-ember-with-pricing-from-0-10-per-million-input-tokens"/>
         <updated>2026-11-09T18:09:15.000Z</updated>
         <summary type="html"><![CDATA[Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Approval Files Expose 1,379 Secrets on GitHub]]></title>
-        <id>https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github</id>
-        <link href="https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github"/>
-        <updated>2026-11-09T17:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Saved command approvals can retain passwords and tokens. Anthropic’s Claude Code team is exploring safeguards, including built-in secret scanning.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skild AI Open-Sources Steel Physics Solver for Robot Training]]></title>
-        <id>https://thedefiant.io/frontier/technology/skild-ai-open-sources-steel-physics-solver-for-robot-training</id>
-        <link href="https://thedefiant.io/frontier/technology/skild-ai-open-sources-steel-physics-solver-for-robot-training"/>
-        <updated>2026-11-09T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[The Apache-licensed solver runs inside Newton; Skild reports up to 13 times PhysX’s simulation throughput in mixed-task tests.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Adds Confidential and Long-Context Systems to TPU Lineup]]></title>
-        <id>https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup</id>
-        <link href="https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup"/>
-        <updated>2026-11-09T17:13:51.000Z</updated>
-        <summary type="html"><![CDATA[TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.']]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luke Dashjr Publishes Nine Coldcard RNG Concerns]]></title>
-        <id>https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns</id>
-        <link href="https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns"/>
-        <updated>2026-11-09T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[His thread cites a July code revision; later firmware adds seed-error checks and a startup test for the hardware random-number generator.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Board Opens Huang Investigation as CEO Admits Infidelity]]></title>
-        <id>https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity</id>
-        <link href="https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity"/>
-        <updated>2026-11-09T17:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
