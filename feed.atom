@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T21:11:26.745Z</id>
+    <id>urn:2026-11-13T02:12:49.547Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-12T21:11:26.745Z</updated>
+    <updated>2026-11-13T02:12:49.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Sinks to $70,600 as Four-Week Losses Deepen]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen"/>
+        <updated>2026-11-13T00:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase recorded a fresh 28-day low Thursday evening, while ether continued to underperform bitcoin over matched one- and four-week windows.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Probe Trump’s Nvidia China Chip Export Deal]]></title>
+        <id>https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal</id>
+        <link href="https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal"/>
+        <updated>2026-11-12T22:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Wyden and Neal ask Commerce Secretary Howard Lutnick to preserve export and tariff records, opening a separate inquiry into the administration’s decisions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme]]></title>
+        <id>https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme</id>
+        <link href="https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme"/>
+        <updated>2026-11-12T22:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Officials attribute more than $400 million in losses over 18 months to FaceStealer, which uses recordings and deepfakes to impersonate trusted contacts.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foster Says Nvidia Privately Deemed Chip Tracking Feasible]]></title>
         <id>https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools"/>
         <updated>2026-11-09T21:09:51.000Z</updated>
         <summary type="html"><![CDATA[Google says schools will be able to enable Search and Gemini separately, but AI Overviews remain built into Search.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sigma Prime Releases High-Priority Lighthouse Security Update]]></title>
-        <id>https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update</id>
-        <link href="https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update"/>
-        <updated>2026-11-09T20:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Vulnerability details will follow once operators have had time to upgrade. The release introduces no breaking changes.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing]]></title>
-        <id>https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing</id>
-        <link href="https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing"/>
-        <updated>2026-11-09T20:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights]]></title>
-        <id>https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights</id>
-        <link href="https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights"/>
-        <updated>2026-11-09T20:36:15.000Z</updated>
-        <summary type="html"><![CDATA[The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
