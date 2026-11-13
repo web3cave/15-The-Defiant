@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-13T02:12:49.547Z</id>
+    <id>urn:2026-11-13T10:12:59.098Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-13T02:12:49.547Z</updated>
+    <updated>2026-11-13T10:12:59.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ and CFTC Sue Arkansas to Halt Kalshi Enforcement]]></title>
+        <id>https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement</id>
+        <link href="https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement"/>
+        <updated>2026-11-13T09:52:22.000Z</updated>
+        <summary type="html"><![CDATA[The federal complaint seeks protection beyond Kalshi, including a bar on investigations tied to transactions on CFTC-regulated exchanges.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BoE and Asian Central Banks Test Linked FX Settlement]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/boe-and-asian-central-banks-test-linked-fx-settlement</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/boe-and-asian-central-banks-test-linked-fx-settlement"/>
+        <updated>2026-11-13T09:37:34.000Z</updated>
+        <summary type="html"><![CDATA[Project Meridian FX APAC linked traditional and tokenised test systems, but did not involve live participants or production operating conditions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nakamoto Delays Kraken Debt as Bitcoin Collateral Falls]]></title>
+        <id>https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls</id>
+        <link href="https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls"/>
+        <updated>2026-11-13T06:20:35.000Z</updated>
+        <summary type="html"><![CDATA[The company pushed a 60 million USDT payment into 2027 and gained credit for protective derivatives, but collateral requirements still allow earlier liquidation.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Osmosis Restarts After Halt; Upbit Pauses Transfers]]></title>
+        <id>https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers</id>
+        <link href="https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers"/>
+        <updated>2026-11-13T06:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Onchain records show block production resumed after a roughly four-hour interruption. Upbit kept OSMO trading open but suspended deposits and withdrawals.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Injective Opens Veyra Vote for Cross-Chain Trading]]></title>
+        <id>https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading</id>
+        <link href="https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading"/>
+        <updated>2026-11-13T06:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The proposed Nov. 24 upgrade adds asset-transfer and trading infrastructure, while CypherOS privacy remains on the roadmap. Voting is still below quorum.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Breaks Below $69,000 as Selloff Sets New Lows]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows"/>
+        <updated>2026-11-13T05:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Ether, XRP and SOL also hit four-week lows on Coinbase, while bullish bets accounted for most tracked liquidations.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Sinks to $70,600 as Four-Week Losses Deepen]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put"/>
         <updated>2026-11-10T08:12:11.000Z</updated>
         <summary type="html"><![CDATA[Noteholders can demand up to about $1 billion in cash on November 30, while much of the company's disclosed bitcoin was committed to an options strategy.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SlowMist Flags iOS Sandbox Escape Risk to Wallet Data]]></title>
-        <id>https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data</id>
-        <link href="https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data"/>
-        <updated>2026-11-10T06:52:59.000Z</updated>
-        <summary type="html"><![CDATA[The worse_query repository lists iOS 26.0–26.7.2 and 27.2 as targets; the wallet warning centers on secrets stored locally in plaintext.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit to List HYPE With Direct Korean Won Trading]]></title>
-        <id>https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading</id>
-        <link href="https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading"/>
-        <updated>2026-11-10T05:28:45.000Z</updated>
-        <summary type="html"><![CDATA[HYPE gained 1.4% in a 35-minute window around the announcement, outpacing bitcoin, as Upbit prepared to open three trading pairs.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Agrees to Buy River One to Add Asset-Backed Lending]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending"/>
-        <updated>2026-11-09T21:30:34.000Z</updated>
-        <summary type="html"><![CDATA[The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt]]></title>
-        <id>https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt</id>
-        <link href="https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt"/>
-        <updated>2026-11-09T21:21:20.000Z</updated>
-        <summary type="html"><![CDATA[The miner announced a new $500 million stock buyback authorization as two planned data center leases face a possible delay into 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems]]></title>
-        <id>https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems</id>
-        <link href="https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems"/>
-        <updated>2026-11-09T21:20:35.000Z</updated>
-        <summary type="html"><![CDATA[The company also reported 45 optimality proofs and says it has submitted its solutions to MIPLIB, whose public records have not yet confirmed the tally.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markey Demands AI-Free Google Search Option for Schools]]></title>
-        <id>https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools</id>
-        <link href="https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools"/>
-        <updated>2026-11-09T21:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Google says schools will be able to enable Search and Gemini separately, but AI Overviews remain built into Search.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
