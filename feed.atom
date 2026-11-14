@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-14T17:24:49.260Z</id>
+    <id>urn:2026-11-14T21:45:15.360Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-14T17:24:49.260Z</updated>
+    <updated>2026-11-14T21:45:15.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Who Sells Shares When a Stock Leaves a Market Index?]]></title>
+        <id>https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index</id>
+        <link href="https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index"/>
+        <updated>2026-11-14T18:14:23.000Z</updated>
+        <summary type="html"><![CDATA[An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pennysia Users Urged to Revoke Approvals After Exploit]]></title>
         <id>https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/uphold-marks-crypto-withdrawal-disruption-resolved"/>
         <updated>2026-11-10T18:38:29.000Z</updated>
         <summary type="html"><![CDATA[Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Adds Mobile Limit Orders Across Four Chains]]></title>
-        <id>https://thedefiant.io/news/defi/metamask-adds-mobile-limit-orders-across-four-chains</id>
-        <link href="https://thedefiant.io/news/defi/metamask-adds-mobile-limit-orders-across-four-chains"/>
-        <updated>2026-11-10T17:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Orders use revocable wallet permissions and a default 3% price tolerance. Reaching the target price does not guarantee a fill.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
