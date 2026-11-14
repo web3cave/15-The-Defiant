@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-13T23:58:44.585Z</id>
+    <id>urn:2026-11-14T04:54:47.177Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-13T23:58:44.586Z</updated>
+    <updated>2026-11-14T04:54:47.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether Falls Below $1,900 as Losses Outpace Bitcoin]]></title>
+        <id>https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin</id>
+        <link href="https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin"/>
+        <updated>2026-11-14T03:44:29.000Z</updated>
+        <summary type="html"><![CDATA[US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Drops Below $67,000 as Crypto Selloff Deepens]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens"/>
+        <updated>2026-11-14T02:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether"/>
+        <updated>2026-11-14T02:39:42.000Z</updated>
+        <summary type="html"><![CDATA[The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GHO's 61% Supply Drop Reflects an Accounting Change]]></title>
+        <id>https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change</id>
+        <link href="https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change"/>
+        <updated>2026-11-14T00:26:16.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia Approached Arm CEO Haas in Search, FT Reports]]></title>
         <id>https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall"/>
         <updated>2026-11-10T13:41:26.000Z</updated>
         <summary type="html"><![CDATA[A gap in October 2025 data left headline and core CPI without annual readings; ether slipped 1.9% around the release.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Adds In-Message Widgets With TON Payments]]></title>
-        <id>https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments</id>
-        <link href="https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments"/>
-        <updated>2026-11-10T13:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Production access is limited to private bot chats, while group use and forwarding remain on Telegram's test server.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound V2 Users Face Nov. 10 COMP Rewards Deadline]]></title>
-        <id>https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline</id>
-        <link href="https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline"/>
-        <updated>2026-11-10T12:43:36.000Z</updated>
-        <summary type="html"><![CDATA[The legacy Ethereum rewards campaign opened with 40,419 COMP. Unclaimed tokens will return to Compound’s treasury after the cutoff.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter Labs Launches Prividium Connect With ZK Fee Plan]]></title>
-        <id>https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan</id>
-        <link href="https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan"/>
-        <updated>2026-11-10T12:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Proposed public deployments would channel interoperability fees into ZK, but activation, integration and fee parameters still need governance approval.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic IPO Filing Uses $78 Maximum Share Price]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price"/>
-        <updated>2026-11-10T12:21:19.000Z</updated>
-        <summary type="html"><![CDATA[The registration covers 948.75 million shares including an underwriter option, implying a $64.35 billion base offering at the maximum registration price.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
