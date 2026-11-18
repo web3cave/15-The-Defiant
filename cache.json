@@ -6,6 +6,86 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/lukso-urges-key-removal-after-universal-profile-attack",
+          "author": "The Defiant",
+          "description": "LUKSO says holders must remove an attacker key and a malicious recovery controller; revoking permissions alone is not enough.",
+          "link": "https://thedefiant.io/news/security/lukso-urges-key-removal-after-universal-profile-attack",
+          "publishedOn": "2026-11-18T07:37:16.000Z",
+          "wordCount": null,
+          "title": "LUKSO Urges Key Removal After Universal Profile Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/maple-s-syrup-loses-half-its-value-lagging-btc-and-eth",
+          "author": "The Defiant",
+          "description": "SYRUP is about 27% below The Defiant’s Nov. 10 reading. Maple’s dashboard now lists an October buyback smaller than September’s.",
+          "link": "https://thedefiant.io/news/tokens/maple-s-syrup-loses-half-its-value-lagging-btc-and-eth",
+          "publishedOn": "2026-11-18T07:07:29.000Z",
+          "wordCount": null,
+          "title": "Maple’s SYRUP Loses Half Its Value, Lagging BTC and ETH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks",
+          "author": "The Defiant",
+          "description": "The Bitcoin Cash wallet says attackers created fake orders and payment requests, while private keys remained on users’ devices.",
+          "link": "https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks",
+          "publishedOn": "2026-11-18T05:46:21.000Z",
+          "wordCount": null,
+          "title": "Paytaca Warns Users After Two Backend Security Attacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
+          "author": "The Defiant",
+          "description": "New contracts use 60-second average prices, while the November 18 daily markets retain their Binance-based rules.",
+          "link": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
+          "publishedOn": "2026-11-18T03:05:01.000Z",
+          "wordCount": null,
+          "title": "Polymarket Moves Hourly, Daily Crypto Bets to Chainlink",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/ledger-users-report-losses-from-dubai-bought-wallets",
+          "author": "The Defiant",
+          "description": "Two users named Virgin Megastore as their purchase channel. A research registry identified an implant in one device from photos; the second case remains suspected.",
+          "link": "https://thedefiant.io/news/hacks/ledger-users-report-losses-from-dubai-bought-wallets",
+          "publishedOn": "2026-11-18T03:00:39.000Z",
+          "wordCount": null,
+          "title": "Ledger Users Report Losses From Dubai-Bought Wallets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang",
+          "author": "The Defiant",
+          "description": "Colette Kress remains interim CEO as directors search for a permanent successor, considering internal and external candidates.",
+          "link": "https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang",
+          "publishedOn": "2026-11-18T02:41:09.000Z",
+          "wordCount": null,
+          "title": "Nvidia Board Has No Plans to Reinstate Jensen Huang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-circle-add-24-7-institutional-usdc-access-in-asia",
+          "author": "The Defiant",
+          "description": "Eligible institutions can mint and redeem USDC through DBS, the companies say, adding a bank-based route for dollar-stablecoin liquidity.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-circle-add-24-7-institutional-usdc-access-in-asia",
+          "publishedOn": "2026-11-18T02:30:00.000Z",
+          "wordCount": null,
+          "title": "DBS, Circle Add 24/7 Institutional USDC Access in Asia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
+          "author": "The Defiant",
+          "description": "ETHFI is down about 32% over four weeks, while the protocol's staking TVL has fallen about 11% in the past week.",
+          "link": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
+          "publishedOn": "2026-11-18T02:03:01.000Z",
+          "wordCount": 9957,
+          "title": "Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bb83146cb475095a81e60375850955bcdb17d5ed-2048x1152.webp?fm=webp&q=85"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-supply-falls-14-as-ethereum-leads-drop",
           "author": "The Defiant",
           "description": "Ethereum accounted for about 85% of PYUSD’s net weekly contraction, while the dollar token’s price stayed near its peg.",
@@ -451,7 +531,7 @@
           "description": "US spot bitcoin ETFs drew $7.9 million on Monday after about $1.91 billion in net outflows over seven sessions. BlackRock's IBIT was the only fund with an inflow.",
           "link": "https://thedefiant.io/news/markets/bitcoin-holds-near-64-800-as-etf-outflow-streak-ends",
           "publishedOn": "2026-11-17T11:50:15.000Z",
-          "wordCount": 9992,
+          "wordCount": 10010,
           "title": "Bitcoin Holds Near $64,800 as ETF Outflow Streak Ends",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/613e2b59c65e860c8d20975b4fc54abe97332e9a-2048x1152.webp?fm=webp&q=85"
         },
@@ -491,7 +571,7 @@
           "description": "Different share-count rules explain most of an apparent $400 billion valuation gap. Binance's reset also cancels orders and closes trading-bot positions.",
           "link": "https://thedefiant.io/news/markets/binance-rescales-anthropic-perp-to-reflect-ipo-shares",
           "publishedOn": "2026-11-17T10:14:08.000Z",
-          "wordCount": 9935,
+          "wordCount": 9953,
           "title": "Binance Rescales Anthropic Perp to Reflect IPO Shares",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b19c5f062b3c73dffbb01d16a77304367071bfc6-2048x1152.webp?fm=webp&q=85"
         },
@@ -521,7 +601,7 @@
           "description": "US spot bitcoin ETFs ended a seven-session outflow streak as BlackRock's IBIT offset net withdrawals from other funds.",
           "link": "https://thedefiant.io/news/markets/bitcoin-ether-lose-over-13-in-week-as-rebound-fades",
           "publishedOn": "2026-11-17T09:03:15.000Z",
-          "wordCount": 9952,
+          "wordCount": 9970,
           "title": "Bitcoin, Ether Lose Over 13% in Week as Rebound Fades",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c9300700e1ce4039f37079dcd3f5caae284e002-2048x1152.webp?fm=webp&q=85"
         },
@@ -621,7 +701,7 @@
           "description": "Ether's losses remain steeper over matched windows, while bitcoin's latest 24-hour move is nearly flat.",
           "link": "https://thedefiant.io/news/markets/bitcoin-holds-near-64-800-after-20-5-four-week-drop",
           "publishedOn": "2026-11-17T01:59:16.000Z",
-          "wordCount": 9917,
+          "wordCount": 9935,
           "title": "Bitcoin Holds Near $64,800 After 20.5% Four-Week Drop",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/97f6ac4470542300beea9b6a896fe67c1a58aaf2-2048x1152.webp?fm=webp&q=85"
         },
@@ -924,86 +1004,6 @@
           "wordCount": null,
           "title": "Supreme Court Rejects Custodia’s Fed Account Appeal",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module",
-          "author": "The Defiant",
-          "description": "An Ethereum transaction shows USDC and syrupUSDC leaving one wallet. An analyst traced the drain to a gap in its delegated trading permissions.",
-          "link": "https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module",
-          "publishedOn": "2026-11-16T15:27:43.000Z",
-          "wordCount": null,
-          "title": "Safe Wallet Drained of $6.4 Million via Roles Module",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/trump-says-he-would-not-mind-huang-returning-to-nvidia",
-          "author": "The Defiant",
-          "description": "The president's openness to reinstatement contrasts with Bessent's call for an outside CEO. Colette Kress remains interim chief executive ahead of Tuesday's earnings.",
-          "link": "https://thedefiant.io/frontier/ai/trump-says-he-would-not-mind-huang-returning-to-nvidia",
-          "publishedOn": "2026-11-16T15:21:08.000Z",
-          "wordCount": null,
-          "title": "Trump Says He Would Not Mind Huang Returning to Nvidia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network",
-          "author": "The Defiant",
-          "description": "An AT&T planning contract predates the nationwide ground stop. Duffy says the wider network replacement still needs congressional funding.",
-          "link": "https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network",
-          "publishedOn": "2026-11-16T15:18:20.000Z",
-          "wordCount": null,
-          "title": "Duffy Says AT&T, Verizon Ready to Rebuild FAA Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams",
-          "author": "The Defiant",
-          "description": "The tools navigate medical-record systems and insurer portals. Health systems control access, while OpenAI's developer guidance requires confirmation for medical-care actions.",
-          "link": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams",
-          "publishedOn": "2026-11-16T15:07:07.000Z",
-          "wordCount": null,
-          "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/arbitrum-s-arb-falls-26-in-a-week-lagging-btc-and-eth",
-          "author": "The Defiant",
-          "description": "ARB's weekly loss was roughly twice that of bitcoin and ether, while its four-week decline reached almost 32%.",
-          "link": "https://thedefiant.io/news/markets/arbitrum-s-arb-falls-26-in-a-week-lagging-btc-and-eth",
-          "publishedOn": "2026-11-16T15:03:21.000Z",
-          "wordCount": 9969,
-          "title": "Arbitrum's ARB Falls 26% in a Week, Lagging BTC and ETH",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/774605431682c91838c6c6f09015cef954ea4add-2048x1152.webp?fm=webp&q=85"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
-          "author": "The Defiant",
-          "description": "The portal follows a roughly 70% hard-fork recovery. Further repayments depend on staking revenue and additional recoveries; full repayment is not guaranteed.",
-          "link": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
-          "publishedOn": "2026-11-16T14:30:24.000Z",
-          "wordCount": null,
-          "title": "b14g Opens CORE Claims for Revenue-Funded Repayments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator",
-          "author": "The Defiant",
-          "description": "ICE Clear Europe President Hester Serafini said the NYSE ATS is set up for Solana-issued tokens, alongside Avalanche's planned settlement role.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator",
-          "publishedOn": "2026-11-16T14:21:45.000Z",
-          "wordCount": null,
-          "title": "NYSE Parent ICE Weighs Becoming a Solana Validator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide",
-          "author": "The Defiant",
-          "description": "Shareholders elect directors, but do not run the company. Proxies, shareholder proposals and advisory votes give investors different kinds of influence.",
-          "link": "https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide",
-          "publishedOn": "2026-11-16T14:16:29.000Z",
-          "wordCount": 9883,
-          "title": "Shareholder Voting Rights: What US Investors Can Decide",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f6637ff5913e4a1689de5fdddefd5ed578152042-2048x1152.webp?fm=webp&q=85"
         }
       ]
     }
