@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-20T22:00:52.938Z</id>
+    <id>urn:2026-11-21T03:36:15.981Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-20T22:00:52.938Z</updated>
+    <updated>2026-11-21T03:36:15.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitquery Traces at Least $1.58 Million in Fluidkey Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack</id>
+        <link href="https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack"/>
+        <updated>2026-11-21T02:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap Volume Rebounds 34% to $991 Million]]></title>
+        <id>https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million</id>
+        <link href="https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million"/>
+        <updated>2026-11-21T01:53:16.000Z</updated>
+        <summary type="html"><![CDATA[BNB Chain accounted for $828 million of daily trading, while PancakeSwap’s weekly growth trailed Uniswap, Curve and Raydium.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Buybacks and Rewards Exceed Revenue in Llama Data]]></title>
+        <id>https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data</id>
+        <link href="https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data"/>
+        <updated>2026-11-21T01:34:11.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlama measured about $440,000 in revenue after estimated savings costs on Nov. 20, below its $827,000 valuation of buybacks and staking rewards.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky TVL Falls 45% in a Week as USDC Reserve Shrinks]]></title>
+        <id>https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks</id>
+        <link href="https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks"/>
+        <updated>2026-11-21T00:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Sky's tracked assets fell to $2.24 billion in the Nov. 20 daily snapshot. A large decline in its USDC conversion reserve corroborates the contraction.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clayton Links Tech Outages to Maintenance and Upgrades]]></title>
+        <id>https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades</id>
+        <link href="https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades"/>
+        <updated>2026-11-21T00:11:07.000Z</updated>
+        <summary type="html"><![CDATA[The intelligence chief described separate outages linked to maintenance and technical changes. Mark Warner pointed to pressure to patch AI-found flaws.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave V4 Plan Would Put Idle USDC Into Circle Gateway]]></title>
+        <id>https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway</id>
+        <link href="https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway"/>
+        <updated>2026-11-20T22:54:45.000Z</updated>
+        <summary type="html"><![CDATA[New sweeps would have to keep Gateway exposure within 10 million USDC and 25% of supply, while preserving cash for withdrawals and loans.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S&P 500 Sinks 3.7%, Extending Slide to Seven Sessions]]></title>
         <id>https://thedefiant.io/converge/markets/s-p-500-sinks-3-7-extending-slide-to-seven-sessions</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/ai/ai-agent-security-why-refusals-are-not-access-controls"/>
         <updated>2026-11-19T14:16:43.000Z</updated>
         <summary type="html"><![CDATA[Hostile documents can steer a tool-using AI toward actions its user never requested. Permissions and meaningful approval checks limit the consequences.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Plans IPO-Day Anthropic Tokens on Solana]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana"/>
-        <updated>2026-11-19T14:16:05.000Z</updated>
-        <summary type="html"><![CDATA[The platform's share-backed stock model includes eligible US investors. Live trading in its planned ANT token was not independently confirmed.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read Prediction-Market Odds in a News Headline]]></title>
-        <id>https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline</id>
-        <link href="https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline"/>
-        <updated>2026-11-19T14:16:03.000Z</updated>
-        <summary type="html"><![CDATA[An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Opens Crypto Options to Eligible Non-US Users]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users"/>
-        <updated>2026-11-19T14:15:32.000Z</updated>
-        <summary type="html"><![CDATA[The Deribit-powered contracts settle in USDC and are available through Coinbase's standard interface and Advanced. US retail users are excluded.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashi Goes Live on Sui With Bitcoin-Backed Lending]]></title>
-        <id>https://thedefiant.io/news/defi/hashi-goes-live-on-sui-with-bitcoin-backed-lending</id>
-        <link href="https://thedefiant.io/news/defi/hashi-goes-live-on-sui-with-bitcoin-backed-lending"/>
-        <updated>2026-11-19T13:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Fluid offers USDC borrowing against hBTC, while Anchorage Digital's Porto provides institutional access. BitGo is expected in 2027.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink, UBS Pilot Onchain Structured Note Servicing]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/chainlink-ubs-pilot-onchain-structured-note-servicing</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/chainlink-ubs-pilot-onchain-structured-note-servicing"/>
-        <updated>2026-11-19T13:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink says the pilot demonstrated automated note servicing on Ethereum through CRE. Digital-money settlement integration remains future work.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[edgeX to End Principal Protection for $13.5M Vault]]></title>
-        <id>https://thedefiant.io/news/defi/edgex-to-end-principal-protection-for-13-5m-vault</id>
-        <link href="https://thedefiant.io/news/defi/edgex-to-end-principal-protection-for-13-5m-vault"/>
-        <updated>2026-11-19T13:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Depositors must accept the new profit-and-loss-sharing terms by 11 p.m. ET on Nov. 26 or have funds returned to their futures accounts.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
