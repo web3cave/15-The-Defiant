@@ -6,6 +6,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+          "author": "The Defiant",
+          "description": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.",
+          "link": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+          "publishedOn": "2026-11-21T23:32:49.000Z",
+          "wordCount": null,
+          "title": "Together AI Discloses Prompt Leak After Dragos Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+          "author": "The Defiant",
+          "description": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.",
+          "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+          "publishedOn": "2026-11-21T20:54:00.000Z",
+          "wordCount": null,
+          "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
+          "author": "The Defiant",
+          "description": "Musk targets December for wider availability. The update changes driving AI and visualizations, but customer FSD still requires active supervision.",
+          "link": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
+          "publishedOn": "2026-11-21T19:43:54.000Z",
+          "wordCount": null,
+          "title": "Tesla Begins FSD v15 Rollout to First-Wave Customers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+          "author": "The Defiant",
+          "description": "Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier Ethereum outflows. Its recovery offer expires Nov. 23.",
+          "link": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+          "publishedOn": "2026-11-21T19:32:58.000Z",
+          "wordCount": null,
+          "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+          "author": "The Defiant",
+          "description": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot.",
+          "link": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+          "publishedOn": "2026-11-21T19:02:34.000Z",
+          "wordCount": null,
+          "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+          "author": "The Defiant",
+          "description": "Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYBER deposits and withdrawals on Ethereum; Bithumb announced a similar halt.",
+          "link": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+          "publishedOn": "2026-11-21T18:37:19.000Z",
+          "wordCount": null,
+          "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/how-to-find-and-read-a-company-s-public-sec-records",
           "author": "The Defiant",
           "description": "Search company disclosures and SEC enforcement records separately. A missing result cannot rule out a confidential investigation, and an allegation is not a finding.",
@@ -943,66 +1003,6 @@
           "publishedOn": "2026-11-19T18:35:56.000Z",
           "wordCount": null,
           "title": "US Crypto Perps: Coinbase and Kraken Access Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity",
-          "author": "The Defiant",
-          "description": "A borrower repaid about 414,000 USDS, and a bot contract redeemed stUSDS in the next transaction. Both preceded the rate increase. A later app snapshot showed no withdrawal liquidity.",
-          "link": "https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity",
-          "publishedOn": "2026-11-19T18:10:29.000Z",
-          "wordCount": null,
-          "title": "Sky Raises stUSDS Yield to 24.74%; App Shows $0 Liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop",
-          "author": "The Defiant",
-          "description": "Shares recovered to $100.92 by 12:30 p.m. ET, about 9.5% below the opening trade but still 21.6% above the $83 IPO price.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop",
-          "publishedOn": "2026-11-19T18:07:41.000Z",
-          "wordCount": null,
-          "title": "Anthropic Falls Below $100 After 34% Nasdaq Debut Pop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/markets/amd-falls-as-much-as-11-after-hunterbrook-china-report",
-          "author": "The Defiant",
-          "description": "The stock traded 10.4% below Wednesday’s close at 10:55 a.m. ET. Hunterbrook Media disclosed that affiliate Hunterbrook Capital was short AMD and said its findings do not establish chip sales to blacklisted firms.",
-          "link": "https://thedefiant.io/frontier/markets/amd-falls-as-much-as-11-after-hunterbrook-china-report",
-          "publishedOn": "2026-11-19T18:07:17.000Z",
-          "wordCount": null,
-          "title": "AMD Falls as Much as 11% After Hunterbrook China Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-shares-jump-35-in-their-nasdaq-trading-debut",
-          "author": "The Defiant",
-          "description": "ANT traded at $112.20 against its $83 IPO price. The implied value depends on which shares are counted.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-shares-jump-35-in-their-nasdaq-trading-debut",
-          "publishedOn": "2026-11-19T18:06:30.000Z",
-          "wordCount": null,
-          "title": "Anthropic Shares Jump 35% in Their Nasdaq Trading Debut",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uniswap-adds-tokenized-anthropic-trading-on-ipo-day",
-          "author": "The Defiant",
-          "description": "Ondo lists Uniswap among platforms supporting ANTon, which offers economic exposure rather than direct share ownership and excludes US investors.",
-          "link": "https://thedefiant.io/news/defi/uniswap-adds-tokenized-anthropic-trading-on-ipo-day",
-          "publishedOn": "2026-11-19T17:59:38.000Z",
-          "wordCount": null,
-          "title": "Uniswap Adds Tokenized Anthropic Trading on IPO Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/people/nadine-chakar-to-leave-dtcc-after-tokenization-launch",
-          "author": "The Defiant",
-          "description": "CEO Frank La Salla says the digital-assets business will be aligned more closely with DTCC’s core operating model and structure.",
-          "link": "https://thedefiant.io/converge/people/nadine-chakar-to-leave-dtcc-after-tokenization-launch",
-          "publishedOn": "2026-11-19T17:59:21.000Z",
-          "wordCount": null,
-          "title": "Nadine Chakar to Leave DTCC After Tokenization Launch",
           "imageUrl": null
         }
       ]
