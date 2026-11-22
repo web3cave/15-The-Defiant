@@ -6,6 +6,46 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
+          "author": "The Defiant",
+          "description": "Developer Quit identified 545.6 ETH in 315 contracts lacking a direct withdrawal path. Ordinary wallet withdrawals remain available.",
+          "link": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
+          "publishedOn": "2026-11-22T19:15:44.000Z",
+          "wordCount": null,
+          "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
+          "author": "The Defiant",
+          "description": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0–30%.",
+          "link": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
+          "publishedOn": "2026-11-22T19:03:49.000Z",
+          "wordCount": null,
+          "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
+          "author": "The Defiant",
+          "description": "ZKNOX's wallet proof of concept demonstrates new note encryption on Sepolia, but does not make RAILGUN's spending system quantum-resistant.",
+          "link": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
+          "publishedOn": "2026-11-22T18:50:09.000Z",
+          "wordCount": null,
+          "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+          "author": "The Defiant",
+          "description": "Sunrise reported $134.7 million in ANT's first-24-hour trading volume. Backpack calls the token redeemable for shares, but wallet holders have different rights from brokerage customers.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+          "publishedOn": "2026-11-22T13:44:01.000Z",
+          "wordCount": null,
+          "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
           "author": "The Defiant",
           "description": "Novita confirmed forwarding some MiniMax requests to the model maker. OpenRouter removed 125 endpoints from zero-data-retention eligibility in a wider provider review.",
@@ -963,46 +1003,6 @@
           "publishedOn": "2026-11-19T19:48:35.000Z",
           "wordCount": null,
           "title": "Binance.US Says Perps Bid Clears CFTC Completeness Check",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/google-opens-genie-4-world-model-to-developers",
-          "author": "The Defiant",
-          "description": "The paid Gemini API release supports interactive worlds with native audio, but caps sessions at two minutes and limits concurrent sessions by billing tier.",
-          "link": "https://thedefiant.io/frontier/ai/google-opens-genie-4-world-model-to-developers",
-          "publishedOn": "2026-11-19T19:37:49.000Z",
-          "wordCount": null,
-          "title": "Google Opens Genie 4 World Model to Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/ofac-sanctions-comancheros-leader-lists-tron-address",
-          "author": "The Defiant",
-          "description": "Chainalysis says the listed address and a Hamas-related wallet used the same intermediary cluster.",
-          "link": "https://thedefiant.io/news/regulation/ofac-sanctions-comancheros-leader-lists-tron-address",
-          "publishedOn": "2026-11-19T19:20:32.000Z",
-          "wordCount": null,
-          "title": "OFAC Sanctions Comancheros Leader, Lists Tron Address",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/anthropic-perp-tops-1-4-billion-in-24-hour-volume",
-          "author": "The Defiant",
-          "description": "Trade.xyz's ANT contract had about $283 million in open interest, with its mark price within 0.2% of Anthropic's Nasdaq-listed share price in a matched-minute comparison.",
-          "link": "https://thedefiant.io/news/markets/anthropic-perp-tops-1-4-billion-in-24-hour-volume",
-          "publishedOn": "2026-11-19T19:19:27.000Z",
-          "wordCount": null,
-          "title": "Anthropic Perp Tops $1.4 Billion in 24-Hour Volume",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/ecb-flags-over-4-trillion-in-big-tech-commitments",
-          "author": "The Defiant",
-          "description": "The company-wide tally includes leases, purchases and financial backstops; the ECB highlights AI infrastructure contracts as one source of risk.",
-          "link": "https://thedefiant.io/frontier/ai/ecb-flags-over-4-trillion-in-big-tech-commitments",
-          "publishedOn": "2026-11-19T19:14:09.000Z",
-          "wordCount": null,
-          "title": "ECB Flags Over $4 Trillion in Big Tech Commitments",
           "imageUrl": null
         }
       ]
