@@ -6,6 +6,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
+          "author": "The Defiant",
+          "description": "Novita confirmed forwarding some MiniMax requests to the model maker. OpenRouter removed 125 endpoints from zero-data-retention eligibility in a wider provider review.",
+          "link": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
+          "publishedOn": "2026-11-22T06:10:26.000Z",
+          "wordCount": null,
+          "title": "OpenRouter Drops Zero-Data-Retention Labels From Affected MiniMax Endpoints",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
+          "author": "The Defiant",
+          "description": "The bank-led experiment would preserve bonds’ existing legal status while exploring digital deposits, stablecoins and longer settlement windows.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
+          "publishedOn": "2026-11-22T04:25:54.000Z",
+          "wordCount": null,
+          "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
+          "author": "The Defiant",
+          "description": "Cysic said transfers resumed by Oct. 28 after the attack. PeckShield tracked roughly $744,000 sent to Tornado Cash.",
+          "link": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
+          "publishedOn": "2026-11-22T04:10:34.000Z",
+          "wordCount": null,
+          "title": "Cysic Bridge Exploit Minted 10 Million Tokens on BNB",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
           "author": "The Defiant",
           "description": "Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed.",
@@ -973,36 +1003,6 @@
           "publishedOn": "2026-11-19T19:14:09.000Z",
           "wordCount": null,
           "title": "ECB Flags Over $4 Trillion in Big Tech Commitments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lighter-lists-anthropic-linked-token-on-robinhood-chain",
-          "author": "The Defiant",
-          "description": "ANT is a Robinhood-issued debt token, not direct Anthropic equity. US persons and investors in several other markets are excluded.",
-          "link": "https://thedefiant.io/news/defi/lighter-lists-anthropic-linked-token-on-robinhood-chain",
-          "publishedOn": "2026-11-19T19:12:15.000Z",
-          "wordCount": null,
-          "title": "Lighter Lists Anthropic-Linked Token on Robinhood Chain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-execution-teams-lean-toward-keeping-glamsterdam-gas-rules",
-          "author": "The Defiant",
-          "description": "Hoodi remains unscheduled. Waiting until January to decide, then opting to revise Glamsterdam’s gas rules, could push mainnet to April or May 2027, Ansgar Dietrichs estimated.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-execution-teams-lean-toward-keeping-glamsterdam-gas-rules",
-          "publishedOn": "2026-11-19T18:46:08.000Z",
-          "wordCount": null,
-          "title": "Ethereum Execution Teams Lean Toward Keeping Glamsterdam Gas Rules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/security/fluidkey-urges-users-to-avoid-website-and-app-after-incident",
-          "author": "The Defiant",
-          "description": "The privacy-focused wallet said it was investigating a security incident affecting users. Its notice did not say whether funds had been lost.",
-          "link": "https://thedefiant.io/news/security/fluidkey-urges-users-to-avoid-website-and-app-after-incident",
-          "publishedOn": "2026-11-19T18:40:41.000Z",
-          "wordCount": null,
-          "title": "Fluidkey Urges Users to Avoid Website and App After Incident",
           "imageUrl": null
         }
       ]
