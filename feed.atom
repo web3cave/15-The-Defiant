@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-21T23:37:24.295Z</id>
+    <id>urn:2026-11-22T03:48:30.508Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-21T23:37:24.295Z</updated>
+    <updated>2026-11-22T03:48:30.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack</id>
+        <link href="https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack"/>
+        <updated>2026-11-22T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Together AI Discloses Prompt Leak After Dragos Study]]></title>
         <id>https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/fluidkey-urges-users-to-avoid-website-and-app-after-incident"/>
         <updated>2026-11-19T18:40:41.000Z</updated>
         <summary type="html"><![CDATA[The privacy-focused wallet said it was investigating a security incident affecting users. Its notice did not say whether funds had been lost.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Crypto Perps: Coinbase and Kraken Access Explained]]></title>
-        <id>https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained</id>
-        <link href="https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained"/>
-        <updated>2026-11-19T18:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Both advertise US access through futures brokers. Their public disclosures distinguish domestic accounts from global services, with separate approval checks.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>

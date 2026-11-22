@@ -6,6 +6,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
+          "author": "The Defiant",
+          "description": "Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed.",
+          "link": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
+          "publishedOn": "2026-11-22T02:49:00.000Z",
+          "wordCount": null,
+          "title": "Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
           "author": "The Defiant",
           "description": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.",
@@ -993,16 +1003,6 @@
           "publishedOn": "2026-11-19T18:40:41.000Z",
           "wordCount": null,
           "title": "Fluidkey Urges Users to Avoid Website and App After Incident",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained",
-          "author": "The Defiant",
-          "description": "Both advertise US access through futures brokers. Their public disclosures distinguish domestic accounts from global services, with separate approval checks.",
-          "link": "https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained",
-          "publishedOn": "2026-11-19T18:35:56.000Z",
-          "wordCount": null,
-          "title": "US Crypto Perps: Coinbase and Kraken Access Explained",
           "imageUrl": null
         }
       ]
