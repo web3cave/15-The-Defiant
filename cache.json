@@ -6,6 +6,86 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products",
+          "author": "The Defiant",
+          "description": "The draft would coordinate national programmes and enable a tech equity fund, but allocates no fixed budget and still needs lawmakers’ approval.",
+          "link": "https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products",
+          "publishedOn": "2026-11-25T09:33:31.000Z",
+          "wordCount": null,
+          "title": "EU Proposes Quantum Act to Turn Research Into Products",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance",
+          "author": "The Defiant",
+          "description": "The former SBI R3 Japan will target stablecoin payments and tokenized assets, establishing Japanese use cases before expanding overseas.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance",
+          "publishedOn": "2026-11-25T09:18:12.000Z",
+          "wordCount": null,
+          "title": "SBI, SMFG Launch Solana Venture for Onchain Finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/hkma-launches-cmu-platform-for-tokenized-bond-settlement",
+          "author": "The Defiant",
+          "description": "Ten banks have joined the permissioned system, while connections to tokenized deposits and regulated stablecoins remain on its expansion roadmap.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/hkma-launches-cmu-platform-for-tokenized-bond-settlement",
+          "publishedOn": "2026-11-25T08:51:19.000Z",
+          "wordCount": null,
+          "title": "HKMA Launches CMU Platform for Tokenized Bond Settlement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule",
+          "author": "The Defiant",
+          "description": "Senators also rejected proposals to tax gains on swaps into certain stablecoins and extend the exit tax to crypto. The 2027 budget remains under debate.",
+          "link": "https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule",
+          "publishedOn": "2026-11-25T05:44:38.000Z",
+          "wordCount": null,
+          "title": "French Senate Rejects €100,000 Crypto Wallet Rule",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+          "author": "The Defiant",
+          "description": "About 16.6 billion MON became eligible for release under Monad's vesting schedule—roughly 1.4 times its pre-unlock circulating supply.",
+          "link": "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+          "publishedOn": "2026-11-25T04:38:54.000Z",
+          "wordCount": null,
+          "title": "MON Hits Record Low After First Insider Lockup Ends",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally",
+          "author": "The Defiant",
+          "description": "TAIEX pared its loss to 7.1% in late-morning trading, while TSMC and Foxconn also sank following a US chip-stock selloff.",
+          "link": "https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally",
+          "publishedOn": "2026-11-25T03:14:56.000Z",
+          "wordCount": null,
+          "title": "Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open",
+          "author": "The Defiant",
+          "description": "The Treasury bureau says some systems are offline. A Nov. 24 order gives qualifying automated filers more time, but suspicious-activity monitoring must continue.",
+          "link": "https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open",
+          "publishedOn": "2026-11-25T02:35:03.000Z",
+          "wordCount": null,
+          "title": "FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+          "author": "The Defiant",
+          "description": "The protocol reported about 149% collateralization, below the 150% Safety Mode threshold that restricts withdrawals and new debt.",
+          "link": "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+          "publishedOn": "2026-11-25T01:54:38.000Z",
+          "wordCount": null,
+          "title": "Liquity Says V2 ETH Branch Is in Safety Mode Near 149%",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return",
           "author": "The Defiant",
           "description": "The president told the WSJ that Nvidia’s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open.",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-11-24T01:05:20.000Z",
           "wordCount": null,
           "title": "Avalanche Announces Dedicated Chain for UAE PASS Vault",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/usdc-supply-falls-84-in-morpho-s-usde-market-on-base",
-          "author": "The Defiant",
-          "description": "Loans fell to 50.8 million USDC, while the share of supplied funds on loan ended lower despite temporary tightness during the contraction.",
-          "link": "https://thedefiant.io/news/defi/usdc-supply-falls-84-in-morpho-s-usde-market-on-base",
-          "publishedOn": "2026-11-24T00:26:17.000Z",
-          "wordCount": null,
-          "title": "USDC Supply Falls 84% in Morpho’s USDe Market on Base",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/threshold-votes-to-replace-t-rebates-with-peg-keepers",
-          "author": "The Defiant",
-          "description": "Council approval will replace T staking as the basis for preferential tBTC fees. Existing rebates continue until at least Dec. 24, 2026, at 00:00 UTC.",
-          "link": "https://thedefiant.io/news/defi/threshold-votes-to-replace-t-rebates-with-peg-keepers",
-          "publishedOn": "2026-11-23T23:01:10.000Z",
-          "wordCount": null,
-          "title": "Threshold Votes to Replace T Rebates With Peg Keepers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
-          "author": "The Defiant",
-          "description": "Staff guidance points to valuation discounts of at least 20% for bitcoin and ether and 2% for qualifying payment stablecoins. These assets cannot meet the operating-resource liquidity minimum.",
-          "link": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
-          "publishedOn": "2026-11-23T22:45:30.000Z",
-          "wordCount": null,
-          "title": "CFTC Staff Clarifies Crypto Use in Operating Reserves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking",
-          "author": "The Defiant",
-          "description": "The analysis highlights front companies and cross-border bank transfers, but does not quantify a crypto or stablecoin share of the potentially Iran-linked activity.",
-          "link": "https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking",
-          "publishedOn": "2026-11-23T22:18:49.000Z",
-          "wordCount": null,
-          "title": "FinCEN Flags $14.7 Billion in Potential Iran Shadow Banking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/claude-unifies-connectors-and-skills-in-one-plugins-hub",
-          "author": "The Defiant",
-          "description": "Anthropic says the new Plugins experience is live on Free, Pro, Max and Ultra, with Team and Enterprise coming soon. It advertises more than 10,000 plugins to browse.",
-          "link": "https://thedefiant.io/frontier/ai/claude-unifies-connectors-and-skills-in-one-plugins-hub",
-          "publishedOn": "2026-11-23T21:54:04.000Z",
-          "wordCount": null,
-          "title": "Claude Unifies Connectors and Skills in One Plugins Hub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems",
-          "author": "The Defiant",
-          "description": "The open-source project lets teams test temporary exploit protections while preparing patches, but its documentation says it is not yet production-ready.",
-          "link": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems",
-          "publishedOn": "2026-11-23T21:37:21.000Z",
-          "wordCount": null,
-          "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/jito-proposal-would-cut-jitosol-validator-target-to-250",
-          "author": "The Defiant",
-          "description": "JIP-43 would start at 250 seats and tie later cuts to validator eligibility. Higher-commission validators could miss out on undirected JitoSOL delegation.",
-          "link": "https://thedefiant.io/news/defi/jito-proposal-would-cut-jitosol-validator-target-to-250",
-          "publishedOn": "2026-11-23T21:17:07.000Z",
-          "wordCount": null,
-          "title": "Jito Proposal Would Cut JitoSOL Validator Target to 250",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-with-smart-account-tools",
-          "author": "The Defiant",
-          "description": "Bell adds customer-tagged contract addresses and optional post-quantum signature verification. It does not, by itself, make ledgers close faster.",
-          "link": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-with-smart-account-tools",
-          "publishedOn": "2026-11-23T21:00:24.000Z",
-          "wordCount": null,
-          "title": "Stellar's Bell Upgrade Goes Live With Smart-Account Tools",
           "imageUrl": null
         }
       ]
