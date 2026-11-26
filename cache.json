@@ -6,6 +6,106 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+          "author": "The Defiant",
+          "description": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.",
+          "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+          "publishedOn": "2026-11-26T01:09:41.000Z",
+          "wordCount": null,
+          "title": "Tempo's Native Multisig Goes Live on Testnet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+          "author": "The Defiant",
+          "description": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots.",
+          "link": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+          "publishedOn": "2026-11-25T23:41:55.000Z",
+          "wordCount": null,
+          "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+          "author": "The Defiant",
+          "description": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts.",
+          "link": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+          "publishedOn": "2026-11-25T23:18:14.000Z",
+          "wordCount": null,
+          "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+          "author": "The Defiant",
+          "description": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable.",
+          "link": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+          "publishedOn": "2026-11-25T22:59:12.000Z",
+          "wordCount": null,
+          "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+          "author": "The Defiant",
+          "description": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
+          "link": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+          "publishedOn": "2026-11-25T22:43:35.000Z",
+          "wordCount": null,
+          "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+          "author": "The Defiant",
+          "description": "DefiLlama's daily snapshots show a $188 million contraction over 30 days. The change in dollar value is not a measure of withdrawals.",
+          "link": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+          "publishedOn": "2026-11-25T22:13:33.000Z",
+          "wordCount": null,
+          "title": "Convex TVL Falls 33%, More Than Twice Curve's Decline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+          "author": "The Defiant",
+          "description": "Ledger's CTO doubts a complete cryptographic break. As of Nov. 25, The Defiant found no public confirmation of a polynomial-time factoring algorithm at either AI lab.",
+          "link": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+          "publishedOn": "2026-11-25T22:06:15.000Z",
+          "wordCount": null,
+          "title": "Aaronson Qualifies Unverified AI Factoring Rumors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+          "author": "The Defiant",
+          "description": "The API preview promises confidential computing and verifiable controls. NEAR AI's founder argues that checking the computing environment is only part of the trust question.",
+          "link": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+          "publishedOn": "2026-11-25T21:42:02.000Z",
+          "wordCount": null,
+          "title": "OpenAI Tests Private Inference With Select Customers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+          "author": "The Defiant",
+          "description": "The LINK study is recruiting adults with ALS in the US to test digital-device control. The N1 implant remains investigational.",
+          "link": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+          "publishedOn": "2026-11-25T21:15:03.000Z",
+          "wordCount": null,
+          "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+          "author": "The Defiant",
+          "description": "Founder Erik Voorhees says Venice's annualized revenue has passed $200 million as the AI platform adds two ways to burn VVV.",
+          "link": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+          "publishedOn": "2026-11-25T21:14:30.000Z",
+          "wordCount": null,
+          "title": "Venice Token Gains 33% While Bitcoin and TAO Retreat",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/defi/sky-s-rune-pursues-stusds-deal-as-withdrawal-squeeze-persists",
           "author": "The Defiant",
           "description": "The Sky co-founder previously said he owed about 77 million USDS and was exploring direct SKY sales to institutional investors to fund repayment.",
@@ -903,106 +1003,6 @@
           "publishedOn": "2026-11-24T05:05:43.000Z",
           "wordCount": null,
           "title": "Yield Basis Activates propAMM on Active Bitcoin Pools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban",
-          "author": "The Defiant",
-          "description": "Market making in qualifying cryptoassets on qualifying platforms will be excluded from principal-dealing permission. Separate final FCA rules bar firms from making markets on UK qualifying platforms they operate from Oct. 25, 2027.",
-          "link": "https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban",
-          "publishedOn": "2026-11-24T05:01:51.000Z",
-          "wordCount": null,
-          "title": "UK Qualifying Crypto Venues Face Own-Platform Market-Making Ban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development",
-          "author": "The Defiant",
-          "description": "Jakub Pachocki wants labs to tie further pretraining gains to better monitoring, using newly disclosed internal measurements as a starting point.",
-          "link": "https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development",
-          "publishedOn": "2026-11-24T04:58:58.000Z",
-          "wordCount": null,
-          "title": "OpenAI Chief Scientist Proposes Limits on AI Development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins",
-          "author": "The Defiant",
-          "description": "Wiz matched cloud-intrusion telemetry with an attacker's exposed files, which also revealed broader credential harvesting.",
-          "link": "https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins",
-          "publishedOn": "2026-11-24T04:57:53.000Z",
-          "wordCount": null,
-          "title": "Wiz Says Attacker Mined AI Coding Histories for Logins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
-          "author": "The Defiant",
-          "description": "JIP-40 links DAO sharing of emerging revenues to a $20 million annual threshold, while preserving existing DAO income and JTX buybacks.",
-          "link": "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
-          "publishedOn": "2026-11-24T04:48:18.000Z",
-          "wordCount": null,
-          "title": "Jito Plan Puts Foundation First for New Network Fees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/infrastructure/microsoft-outage-review-finds-gaps-in-server-testing",
-          "author": "The Defiant",
-          "description": "All queued enterprise email was delivered, Microsoft says, but some messages to inactive consumer mailboxes expired.",
-          "link": "https://thedefiant.io/frontier/infrastructure/microsoft-outage-review-finds-gaps-in-server-testing",
-          "publishedOn": "2026-11-24T04:47:15.000Z",
-          "wordCount": null,
-          "title": "Microsoft Outage Review Finds Gaps in Server Testing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/cftc-finalizes-reporting-rules-for-event-contracts",
-          "author": "The Defiant",
-          "description": "The rule gives qualifying contracts a futures-style reporting framework, while requiring exchanges to collect trader identities and publish trade data.",
-          "link": "https://thedefiant.io/converge/regulation/cftc-finalizes-reporting-rules-for-event-contracts",
-          "publishedOn": "2026-11-24T04:43:30.000Z",
-          "wordCount": null,
-          "title": "CFTC Finalizes Reporting Rules for Event Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/epoch-ai-rates-three-agent-benchmarks-as-flawed",
-          "author": "The Defiant",
-          "description": "Epoch found full-credit shortcuts in 22 of 50 sampled Agents' Last Exam tasks. Its latest reviews also flagged Vending-Bench 2 and ARC-AGI-3.",
-          "link": "https://thedefiant.io/frontier/ai/epoch-ai-rates-three-agent-benchmarks-as-flawed",
-          "publishedOn": "2026-11-24T04:37:45.000Z",
-          "wordCount": null,
-          "title": "Epoch AI Rates Three Agent Benchmarks as 'Flawed'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
-          "author": "The Defiant",
-          "description": "The first report identifies validly signed transfers outside the protocol but leaves parts of the suspected key theft unconfirmed. Services remain paused.",
-          "link": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
-          "publishedOn": "2026-11-24T04:36:59.000Z",
-          "wordCount": null,
-          "title": "Chainflip Suspects Key Theft in $12.6 Million Vault Hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/baidu-opens-ernie-5-5-flash-preview-under-apache-2-0",
-          "author": "The Defiant",
-          "description": "The 280-billion-parameter model can be self-hosted and fine-tuned for commercial use. Its permissive license does not extend to ERNIE 5.5 Flash Base.",
-          "link": "https://thedefiant.io/frontier/ai/baidu-opens-ernie-5-5-flash-preview-under-apache-2-0",
-          "publishedOn": "2026-11-24T04:22:37.000Z",
-          "wordCount": null,
-          "title": "Baidu Opens ERNIE 5.5 Flash Preview Under Apache 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-opens-beta-for-zero-retention-ai-safeguards",
-          "author": "The Defiant",
-          "description": "Once EFS takes effect, Anthropic says its normal workflow promptly deletes its own prompt and response copies after writing encrypted records to customer storage.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-opens-beta-for-zero-retention-ai-safeguards",
-          "publishedOn": "2026-11-24T04:21:25.000Z",
-          "wordCount": null,
-          "title": "Anthropic Opens Beta for Zero-Retention AI Safeguards",
           "imageUrl": null
         }
       ]
