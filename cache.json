@@ -6,6 +6,86 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/chainflip-tallies-hack-losses-payout-plan-still-pending",
+          "author": "The Defiant",
+          "description": "The cross-chain exchange plans to route new trades through SwapKit while its own protocol remains paused after the November vault theft.",
+          "link": "https://thedefiant.io/news/hacks/chainflip-tallies-hack-losses-payout-plan-still-pending",
+          "publishedOn": "2026-11-27T13:55:53.000Z",
+          "wordCount": null,
+          "title": "Chainflip Tallies Hack Losses, Payout Plan Still Pending",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/atoshi-bridge-drained-of-201-million-atos-on-ethereum",
+          "author": "The Defiant",
+          "description": "The wallet that received the tokens got about $60,300 in a KyberSwap trade. ATOS fell about 94% in an hour in two Uniswap pools.",
+          "link": "https://thedefiant.io/news/hacks/atoshi-bridge-drained-of-201-million-atos-on-ethereum",
+          "publishedOn": "2026-11-27T12:51:58.000Z",
+          "wordCount": null,
+          "title": "Atoshi Bridge Drained of 201 Million ATOS on Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/spark-says-it-repaid-sky-408m-after-usds-outflows",
+          "author": "The Defiant",
+          "description": "A Morpho vault on Base supplied about four-fifths of the $416.1 million Spark freed up. The vault had less USDC available for withdrawals by the evening of Nov. 19.",
+          "link": "https://thedefiant.io/news/defi/spark-says-it-repaid-sky-408m-after-usds-outflows",
+          "publishedOn": "2026-11-27T12:50:11.000Z",
+          "wordCount": null,
+          "title": "Spark Says It Repaid Sky $408M After USDS Outflows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/poland-signs-palantir-deal-for-military-ai-software",
+          "author": "The Defiant",
+          "description": "Palantir says Poland is adopting its Maven Smart System. NATO bought a version for its Allied Command Operations in 2025.",
+          "link": "https://thedefiant.io/frontier/ai/poland-signs-palantir-deal-for-military-ai-software",
+          "publishedOn": "2026-11-27T11:57:39.000Z",
+          "wordCount": null,
+          "title": "Poland Signs Palantir Deal for Military AI Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-rises-7-61-undoing-most-of-cut",
+          "author": "The Defiant",
+          "description": "Miners can expect to earn about 7.1% less from the same computing power if Bitcoin’s price and the reward per block stay fixed.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-rises-7-61-undoing-most-of-cut",
+          "publishedOn": "2026-11-27T11:43:52.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Mining Difficulty Rises 7.61%, Undoing Most of Cut",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/brazil-s-b3-and-six-firms-plan-real-backed-stablecoin",
+          "author": "The Defiant",
+          "description": "Banco B3 would hold one real for each Open BRL token. The platform, designed to settle digital-asset trades, is targeting the first quarter of 2027.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/brazil-s-b3-and-six-firms-plan-real-backed-stablecoin",
+          "publishedOn": "2026-11-27T11:00:14.000Z",
+          "wordCount": null,
+          "title": "Brazil’s B3 and Six Firms Plan Real-Backed Stablecoin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/technology/china-chip-index-closes-up-17-6-beijing-pledges-support",
+          "author": "The Defiant",
+          "description": "The State Council called for a bigger role for state-backed funds in stabilizing stocks. The broader CSI 300 rose 4.2%.",
+          "link": "https://thedefiant.io/frontier/technology/china-chip-index-closes-up-17-6-beijing-pledges-support",
+          "publishedOn": "2026-11-27T10:33:26.000Z",
+          "wordCount": null,
+          "title": "China Chip Index Closes Up 17.6%; Beijing Pledges Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
+          "author": "The Defiant",
+          "description": "Average daily pack volume in the 30 days through Nov. 26 was 31% below the pace before the eight-day October surge.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
+          "publishedOn": "2026-11-27T05:29:41.000Z",
+          "wordCount": null,
+          "title": "Collector Crypt Pack Volume Drops 46% After October Peak",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4",
           "author": "The Defiant",
           "description": "Bluefin told traders to close positions before 4 p.m. ET. Aftermath Finance and DipCoin each handled more Sui perps volume than Bluefin in DefiLlama’s 30-day snapshot.",
@@ -923,86 +1003,6 @@
           "publishedOn": "2026-11-24T20:35:38.000Z",
           "wordCount": null,
           "title": "Kraken’s Krak Plans US Credit Cards With USDC Option",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
-          "author": "The Defiant",
-          "description": "The mandatory mainnet upgrade removes legacy Cosmos modules, but leaves both new contract-shutdown controls inactive.",
-          "link": "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
-          "publishedOn": "2026-11-24T20:31:56.000Z",
-          "wordCount": null,
-          "title": "Sei v6.8 Adds CosmWasm Shutdown Controls Ahead of Giga",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood",
-          "author": "The Defiant",
-          "description": "Gemini says customers can now deposit to shielded receiving addresses, adding to its existing Ironwood withdrawal support.",
-          "link": "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood",
-          "publishedOn": "2026-11-24T19:00:13.000Z",
-          "wordCount": null,
-          "title": "Gemini Announces Shielded Zcash Deposits Via Ironwood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-staff-give-molecule-no-action-relief-for-token-sales",
-          "author": "The Defiant",
-          "description": "The research-funding model separates advisory-vote tokens from company equity, with no token-holder priority in a future share offering.",
-          "link": "https://thedefiant.io/news/regulation/sec-staff-give-molecule-no-action-relief-for-token-sales",
-          "publishedOn": "2026-11-24T18:42:19.000Z",
-          "wordCount": null,
-          "title": "SEC Staff Give Molecule No-Action Relief for Token Sales",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/claude-adds-mcp-skills-and-long-running-task-support",
-          "author": "The Defiant",
-          "description": "Skills over MCP enters public beta. Tasks and Elicitation are generally available on Pro, Max and Ultra, with Team and Enterprise rolling out.",
-          "link": "https://thedefiant.io/frontier/ai/claude-adds-mcp-skills-and-long-running-task-support",
-          "publishedOn": "2026-11-24T18:27:48.000Z",
-          "wordCount": null,
-          "title": "Claude Adds MCP Skills and Long-Running Task Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/ledn-moves-us-business-onshore-adds-bitgo-custody",
-          "author": "The Defiant",
-          "description": "The account adds bank-funded bitcoin purchases executed by BitGo. Trading and lending are subject to state eligibility.",
-          "link": "https://thedefiant.io/news/cefi/ledn-moves-us-business-onshore-adds-bitgo-custody",
-          "publishedOn": "2026-11-24T18:11:24.000Z",
-          "wordCount": null,
-          "title": "Ledn Moves US Business Onshore, Adds BitGo Custody",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/utah-seeks-to-drop-charges-after-kalshi-blocks-new-trades-in-the-state",
-          "author": "The Defiant",
-          "description": "The dismissal request covers the company and its co-founders, but prosecutors could refile if Kalshi resumes offering prediction markets in Utah.",
-          "link": "https://thedefiant.io/news/regulation/utah-seeks-to-drop-charges-after-kalshi-blocks-new-trades-in-the-state",
-          "publishedOn": "2026-11-24T18:01:58.000Z",
-          "wordCount": null,
-          "title": "Utah Seeks to Drop Charges After Kalshi Blocks New Trades in the State",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/bullpen-reports-unauthorized-transfers-in-18-19-accounts",
-          "author": "The Defiant",
-          "description": "The affected accounts date to the app's early beta and include Ansem's. Bullpen said it had taken the affected test service offline.",
-          "link": "https://thedefiant.io/news/hacks/bullpen-reports-unauthorized-transfers-in-18-19-accounts",
-          "publishedOn": "2026-11-24T17:31:48.000Z",
-          "wordCount": null,
-          "title": "Bullpen Reports Unauthorized Transfers in 18–19 Accounts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
-          "author": "The Defiant",
-          "description": "A validator-installed patch permits recovery-only transfers for listed wallets and indefinitely freezes 64 accounts Osmosis links to the attacker.",
-          "link": "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
-          "publishedOn": "2026-11-24T17:27:50.000Z",
-          "wordCount": null,
-          "title": "Osmosis Restricts 84,000 Wallets After Web3Auth Breach",
           "imageUrl": null
         }
       ]
