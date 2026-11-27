@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-26T22:39:55.128Z</id>
+    <id>urn:2026-11-27T04:37:39.312Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-26T22:39:55.128Z</updated>
+    <updated>2026-11-27T04:37:39.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bluefin to Shut Down Perpetual Futures on Sui Dec. 4]]></title>
+        <id>https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4</id>
+        <link href="https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4"/>
+        <updated>2026-11-27T03:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Bluefin told traders to close positions before 4 p.m. ET. Aftermath Finance and DipCoin each handled more Sui perps volume than Bluefin in DefiLlama’s 30-day snapshot.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws]]></title>
+        <id>https://thedefiant.io/frontier/ai/openai-says-its-1-2-million-audit-found-948-linux-flaws</id>
+        <link href="https://thedefiant.io/frontier/ai/openai-says-its-1-2-million-audit-found-948-linux-flaws"/>
+        <updated>2026-11-27T02:10:07.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI sent maintainers 304 findings it classified as critical. Its upstream tally tracked fixes already in the kernel, not how many of its proposed patches were accepted.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Hack Flows Through THORChain Top $600M: Reuters]]></title>
         <id>https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach"/>
         <updated>2026-11-24T17:27:50.000Z</updated>
         <summary type="html"><![CDATA[A validator-installed patch permits recovery-only transfers for listed wallets and indefinitely freezes 64 accounts Osmosis links to the attacker.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidal to Ban Fully AI-Generated Music From December 9]]></title>
-        <id>https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9</id>
-        <link href="https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9"/>
-        <updated>2026-11-24T17:01:34.000Z</updated>
-        <summary type="html"><![CDATA[The streaming service expects to delete 29 million songs by the start of 2027, while continuing to accept music made with AI assistance.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ Details Crypto Cases in Broad Anti-Scam Crackdown]]></title>
-        <id>https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown</id>
-        <link href="https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown"/>
-        <updated>2026-11-24T16:53:22.000Z</updated>
-        <summary type="html"><![CDATA[The campaign spans more than 400 cases. DOJ's claim of over $8 billion in 'intended loss' does not establish how much was seized or returned to victims.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
